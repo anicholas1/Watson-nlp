@@ -50,12 +50,9 @@ for k in clusters:
 # plt.title('Selecting k with the Elbow Method')
 
 
-
-
 model3=KMeans(n_clusters=15)
 model3.fit(clus_train)
 clusassign=model3.predict(clus_train)
-
 
 
 
@@ -78,5 +75,7 @@ plt.ylabel('Canonical variable 2')
 plt.title('Scatterplot of Canonical Variables for 3 Clusters')
 plt.show()
 
+
+#TODO Create a list for each article that has the coordinates and the link. When user selects a coordinate, we look up that article, and pull link form list
 
 
