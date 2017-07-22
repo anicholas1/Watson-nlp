@@ -1,0 +1,3560 @@
+childrens migration to the 
+united states from mexico and 
+central america:  evidence from 
+the mexican and latin american 
+migration projects1
+
+katharine m. donato
+vanderbilt university
+
+blake sisk
+vanderbilt university
+
+executive summary
+in  light  of  rising  numbers  of  unaccompanied  minors  at  the  mexico-
+us  border  in  2014,  this  article  examines  child  migration  from  mexico, 
+guatemala,  el  salvador,  costa  rica,  and  nicaragua.  using  data  from 
+the  mexican  and  latin  american  migration  projects  that  permit  us  to 
+go beyond simple descriptive analysis about children apprehended at the 
+border, we investigate the extent to which children from these countries: 
+(1) enter without legal authorization to do so; (2) are more likely to cross 
+the border now than in the past; and (3) are tied to their parents migration. 
+in theory, if immigration and refugee protections worked well for children 
+and offered them legal pathways to reunify with their families, then we 
+would expect low levels of unauthorized entry and no dramatic shifts over 
+time. however, our examination of child migration shows that it is strongly 
+linked to unauthorized entry, period of entry, and parents us experience.
+the findings show that the migration of children is closely linked to their 
+parents migration history. although the overall likelihood of a mexican 
+child  making  a  first  us  trip  is  quite  low,  it  is  practically  non-existent 
+for children whose parents have no us experience. thus, the increase in 
+child migration from central america, and the continued high levels of 
+child migration from mexico result from widespread migration networks 
+and  the  united  states  long-standing  reliance  on  the  childrens  parents 
+as  immigrant  workers.  the  findings  suggest  that  these  children  need 
+protection in the form of family reunification and permanent legal status.
+
+1  we are grateful to the generous support received from vanderbilt universitys college of arts and 
+science for this project.
+
+ 2015 by the center for migration studies of new york. all rights reserved.jmhs volume 3 number 1 (2015): 58-79introduction
+in 2014, the number of unaccompanied children detained at the mexico-us border for 
+attempting to cross without legal documents rose dramatically to almost 68,000. the us 
+customs and border protection (cbp) reported a surge in the number of children (up to 
+17 years of age) from el salvador, guatemala, and honduras from approximately 1,000 
+per nation in 2009 to between 16,000 and 18,000 per nation in 2014, and high numbers 
+from mexico (averaging close to 15,000 per year) (cbp 2014). in prior fiscal years, total 
+apprehensions  of  unaccompanied  children  increased  from  16,067  in  2011  to  24,481  in 
+2012 and 38,833 in 2013 (chishti and hipsman 2014). media coverage of the 2014 surge 
+was extensive. caldwell (2014a) and others described thousands of children as alone 
+without parents or other relatives. photographs showed young children with fearful faces 
+from behind iron bars in sterile institutional settings, and reports described them as being 
+scared, hungry, and tired (caldwell 2014b). 
+in light of rising numbers of unaccompanied minors at the mexico-us border, we examine 
+child migration from mexico, guatemala, el salvador, costa rica, and nicaragua. using 
+data from the mexican and latin american migration projects2 that permit us to go beyond 
+simple  descriptive  analysis  about  children  apprehended  at  the  border,  we  consider  the 
+extent to which children from these countries: (1) enter without legal authorization to do 
+so; (2) are more likely to cross the border now than in the past; and (3) are tied to their 
+parents migration. 
+when attempting to understand childrens growing presence at the border, many cite the 
+difficult and dangerous conditions that children face in mexico and countries in central 
+america  including  high  levels  of  violence  and  poverty.  such  explanations  imply  that 
+children are rational actors who, like many international migrants, calculate the costs and 
+benefits of migrating versus staying at home. evidence from our analysis offers a correction 
+to such narratives by underscoring that childrens migration is strongly linked to that of 
+their parents. unlike other children who face similarly difficult (or worse) conditions in 
+everyday life around the world, children from mexico and central america have access to 
+migrant human capital in the form of their parents us experience. therefore, rather than 
+viewing them as independent, rational actors who, on their own, decide to leave dangerous 
+conditions  and/or  limited  economic  opportunities  in  their  homelands,  we  suggest  that 
+many children are migrating together with their parents or based on information and other 
+resources related to parents migration experiences. violence and poverty are structural 
+conditions that underlie migration decisions, but on their own, they do not predict child 
+migration.
+2  the mexican migration project (mmp) gathers data from households and communities about 
+mexico-us migration. created in 1982, data are collected from new households and communities 
+each year and added to the dataset. all data are available to the public (mmp.opr.princeton.edu). 
+each household sample represents households in that community in a given year. in addition, each 
+communitys household sample is supplemented by a small number of interviews with migrants 
+who left their community of origin to permanently migrate to the united states. the latin american 
+migration project (lamp) is an extension of the mmp. lamp data have been collected in many 
+countries in central and south america, including colombia, costa rica, the dominican republic, 
+ecuador, el salvador, guatemala, haiti, nicaragua, paraguay, and peru (lamp.opr.princeton.edu). 
+unfortunately, honduras is not included in the dataset.
+
+59
+
+childrens migration to the united states from mexico and central americaif most unaccompanied child migrants have parents or other relatives in the united states, 
+they should be eligible for protections under a comprehensive immigration system that 
+safeguards  the  rights  and  outcomes  of  children. yet,  recent  reports  document  cases  of 
+unaccompanied minors that have been issued deportation orders upon arrival in the united 
+states even though their parents are residing in the country legally with temporary protected 
+status  (sacchetti  2014).3  unfortunately,  this  treatment  occurs  because  contemporary 
+immigration policy has been driven largely by security and enforcement since the 1990s, 
+and  especially  after  september  11,  2001  (massey,  durand,  and  malone  2002;  kerwin 
+2012). 
+in theory, if immigration and refugee protections worked well for children and offered 
+them legal pathways to reunify with their families, then we would expect low levels of 
+unauthorized entry and no dramatic shifts over time. however, our examination of child 
+migration from mexico and four central american nations shows that it is strongly linked 
+to  unauthorized  entry.  in  addition,  for  children  from  mexico,  we  see  that,  net  of  other 
+factors, their lifetime chances to migrate without authorization are substantially higher if 
+their parents are migrants and these chances fluctuate considerably across recent periods. 
+
+children in the process of migration
+the world bank (2006) estimated that young people, defined as those between 12 and 24 
+years of age, make up one-third of all international migrants, and as a consequence, migrant 
+youth have become a major economic development issue. for mexican immigrants in the 
+united states, the share of youth is lower but still substantial: approximately 14 percent of 
+all mexican immigrants are aged 19 or below (gans 2009). this suggests that a sizeable 
+number of mexicans who migrated to the united states did so when they were children 
+(ibid.). moreover, using ipums-international data from 11 censuses, mckenzie (2008) 
+shows that the migration of youth was largely tied to that of their parents; children often 
+migrated with parents or made trips to join their parent in host societies.4
+since the 1990s, scholars have begun to focus on children in the migration process. some 
+have examined the consequences of us migration for children (kanaiaupuni and donato 
+1999a,  1999b;  donato,  kanaiaupuni,  and  stainback  2003;  menjvar  and abrego  2009; 
+donato  and  duncan  2011;  nobles  2011;  dreby  2010,  2012; adsera  and tienda  2012). 
+others have analyzed the experiences of the children of global immigrants (portes and 
+3  temporary protected status (tps), a program created by the immigration act of 1990, offers 
+safe haven to persons from designated countries to which it would be unsafe to return due to armed 
+conflict, natural disaster, or other extraordinary and temporary conditions and who do meet the 
+legal definition of a refugee. tps recipients receive work authorization but lack a path to permanent 
+legal status, are ineligible for resettlement assistance and most federal public benefits, and cannot 
+petition for admission of immediate family members to the united states. tps is not extended 
+to persons from designated countries that arrive to the united states after the effective date of 
+the designation, nor is it available to persons in need of safe haven from non-designated states 
+(bergeron 2014).
+4  mckenzie also reports that 42 percent of young us migrants were female. among migrant youth 
+aged 12-14, many attend school. in the united states, for example, 97 percent of youth migrants 
+from india and china, and 85 percent from mexico and el salvador, were enrolled in school. 
+
+60
+
+journal on migration and human securityrumbaut 2001; farley and alba 2002; portes, fernandez-kelly, and haller 2005; kasinitz 
+et  al.  2010;  mazzucato  and  schans  2011;  bledsoe  and  sow  2011;  graham  and  jordan 
+2011; lee and zhou 2014). finally, recent scholarship has examined the experiences of 
+unauthorized latino immigrant youth in the united states, especially as they transition 
+into adulthood (abrego and gonzales 2010; gonzales 2011; abrego 2013; enriquez 2014). 
+yet exactly how children are involved in border crossing is less well understood. in the 
+mexico-us case, studies describe an intergenerational process whereby migration has been 
+passed down from one generation to the next, especially from fathers to sons (reichert and 
+massey 1979; massey et al. 1987; massey and liang 1989). other studies refer to child 
+migration but they do not explicitly target their movement as a focus for study. for example, 
+when describing the pre-1965 and post-1965 phases of mexico-us migration, reichert and 
+massey (1979, 1980) report only that many women and children migrated to join former 
+agricultural workers who had become legal us immigrants. theoretically speaking, stark 
+(1991) and others imply that children are involved in the migration process in arguing 
+that  householdsand  not  individualsmake  migration  decisions  which  seek  to  diversify 
+household risks and costs. relatedly, women and children enter the migration process as 
+it unfolds over the lives of mexican communities and households (massey, goldring, and 
+durand 1994); when mexican communities first participate in out-migration, they usually 
+send mostly young single men who cross without documentation for us farm or other 
+unskilled jobs. over time, however, as migration streams mature, many women and children 
+accompany male family members from mexican communities (reichert and massey 1980; 
+fonseca and moreno 1988; goldring 1990; durand and massey 1992; donato 1993, 1994; 
+cerrutti and massey 2001; donato, wagner, and patterson 2008; creighton and riosmena 
+2013).  
+in contrast, tucker and colleagues (2013) explicitly consider how mexican youth, aged 14-
+24, make migration decisions using data from semi-structured interviews. like many adults 
+migrating northward, youth with prior us experience reported that economic hardship and 
+difficulty finding a job were their main reasons for migrating. furthermore, their decision 
+to migrate depended on their parents because most migrant children accompanied their 
+parents.  however,  among  those  interviewed  who  had  never  migrated,  adolescents  and 
+young adults wanted to remain in mexico. these youth had no plans to migrate because 
+they could envision economic opportunities for themselves in mexico and because they 
+feared the difficulties they would face crossing the border and living in the united states 
+without authorization. 
+therefore, although studies point to children and young adults in the mexico-us migration 
+process, most do not focus on childrens experiences per se. furthermore, it is unclear the 
+extent to which children migrate with their parents. if it is true that children have fueled 
+mexico-us migration for decades, then understanding how, when, and with whom they 
+move is important to understanding childrens movement from nations in central america. 
+moreover, even if parents are an important trigger of childrens migration, studies have 
+yet to empirically examine how childrens migration prospects vary by different periods of 
+entry and legal statusan important task given the emphasis on security and enforcement 
+in us immigration policy since september 11, 2001 (kerwin 2012). 
+
+61
+
+childrens migration to the united states from mexico and central americapush and pull factors
+no agreement exists about the push and pull factors that underlie the recent rise in the number 
+of child arrivals in the united states (chishti and hipsman 2014; kandel et al. 2014). yet, 
+although the precise combination of motives behind the rising numbers of child migrants 
+is  not  clear,  three  conditionslimited  economic  and  educational  opportunities,  family 
+reunification,  and  recent  us  immigration  policiesare  certainly  implicated  (kandel  et 
+al. 2014, 12). so is the violence that children face, especially in some central american 
+countries. for example, honduras, el salvador, and guatemala are among the top five 
+nations  with  the  highest  murder  rates,  and  they  are  also  known  for  having  smugglers 
+that recruit young children to migrate (kennedy 2014). these and other conditions were 
+described by children who entered the united states after 2011, and who were interviewed 
+by the united nations high commissioner for refugees (unhcr) regional office for the 
+united states and the caribbean. they gave protection-related reasons for migrating which 
+suggest that most children in el salvador, guatemala, honduras, and mexico may well be 
+in need of international protection (unhcr 2014, 6). 
+in  addition  to  personally  threatening  conditions,  children  in  these  nations  face  limited 
+economic and social mobility. for example, in mexico, which is considerably wealthier 
+than  other  nations  in  central  america,  student  performance  in  schools  remains  well 
+behind that of other organization for economic cooperation and development (oecd) 
+countries, despite the governments sizable investments in mexicos educational system 
+since  the  1990s  (acevedo  and  salinas  2000).  in  2012,  mexico  had  one  of  the  highest 
+rates of preschool enrollment but its effectiveness was challenged by high student-teacher 
+ratios (oecd 2012). in addition, although mexico expanded compulsory attendance to the 
+secondary level in 1993, secondary school graduation rates remain very low. 
+complicating the story is an enforcement-first us immigration policy regime that has made 
+conditions difficult for all immigrants (meissner et al. 2013; aranda, menjivar, and donato 
+2014;  donato  and  sisk  2013). as  a  consequence,  more  unauthorized  immigrants  have 
+settled rather than returned home after working temporarily in the united states (massey, 
+durand, and malone 2002). with enforcement spending much larger than it was in 1986 
+and billions spent on cbp and immigration and customs enforcement each year (meissner 
+et al. 2013), immigrant families have lived in a context of pervasive fear and anxiety since 
+the mid-1990s (rodriguez and hagan 2004). more deportations have created family trauma 
+(hagan, castro, and rodriguez 2009; hagan, eschbach and rodriguez 2008; hagan et al. 
+2003), which is especially injurious for children (dreby 2012).5 
+not  surprisingly,  these  structural  conditions  drive  the  desire  for  family  reunification 
+(kandel  et  al.  2014,  15).  however,  children  are  migrating  temporarily  because  many 
+who reside in mexico, el salvador, guatemala, and honduras have ties to parents in the 
+united states.  unhcr  (2014)  reports  that 22,  49,  27,  and  47  percent, respectively,  of 
+unaccompanied children entering the united states from these four countries since 2011 
+had at least one parent living in the united states. some central american parents residing 
+in the united states, such as el salvadorans, hondurans, and nicaraguans, have temporary 
+protected status, but it cannot be extended to their children or other beneficiaries without 
+5  studies  also  describe  a  wide  range  of  other  consequences  (see  garcia  2010; armenta  2012; 
+donato and rodriguez 2014). 
+
+62
+
+journal on migration and human securityus senate support (kerwin 2014; bergeron 2014).
+at  the  center  of  public  debates  about  the  rising  numbers  of  unaccompanied  minors  at 
+the us border are provisions of the william wilberforce trafficking victims protection 
+reauthorization act (tvpra) of 2008. it guides the treatment of minors being apprehended 
+at  the  border,  and  mandates  that  only  those  from  contiguous  countriesmexico  and 
+canadamay  be  quickly  processed  and  deported.6  children  from  non-contiguous 
+countries, such as those in central america, are placed in formal removal proceedings and, 
+after processing, are released to parents or other relatives who will care for them as they 
+wait to appear in front of an immigration judge as part of formal removal proceedings. 
+as a result of immigration court backlogs, however, unaccompanied minors apprehended 
+during the summer of 2014 were given a waiting period of approximately two years for 
+their court dates. chishti and hipsman (2014) suggest that long-waiting periods, as well 
+as the deferred action for childhood arrivals (daca) program, have helped to create a 
+perception among many potential migrants that the united states treatment of minors has 
+softened in recent years and the false idea that the children entering now could receive 
+legal status. thus, more children may be attempting to enter because they believe they will 
+ultimately receive permission to remain permanently in the united states.
+
+data and methods
+given this backdrop, we analyze data about child migration from the mexican and latin 
+american migration projects (mmp and lamp). although they cover periods when child 
+migration from central america represented a small share of overall child migration, these 
+data offer three important advantages. first, they give us an opportunity to go beyond simple 
+descriptive results, such as those using us customs and border patrol data to describe 
+recent patterns and shifts in unaccompanied minor apprehensions at the southwest border. 
+second,  mmp  and  lamp  data  tell  us  about  all  children  who  migrate  rather  than  only 
+unaccompanied minors apprehended at the mexico-us border. and third, the data permit 
+us to consider whether there are social protections that work for children; if they exist and 
+work well, then we would expect low levels of unauthorized entry and no dramatic shifts 
+over time.7 
+using detailed information on the social and demographic characteristics of children and 
+their parents from the mmp and lamp, we consider how many children make a first us 
+trip,  where  they  come  from,  and  the  extent  to  which  their  crossing  is  linked  to  family 
+reunification, unauthorized status, and particular periods of entry. in addition, we use the 
+larger mmp sample to examine how childrens propensities to migrate vary by: (1) parents 
+migration histories; (2) childrens period of entry; and (3) legal status, controlling for the 
+effects of other factors. using life table analysis, we also show how childrens cumulative 
+
+6  minors entering from mexico and canada are summarily deported only if screening results show 
+they are not trafficking victims or have asylum claims based on a credible fear of persecution or 
+torture. 
+7  the lamp and mmp data reported here were not designed specifically to examine the migration 
+experiences of children; however, the survey design allows us to investigate some elements of child 
+migration, especially how it relates to parents experiences and legal status. 
+
+63
+
+childrens migration to the united states from mexico and central americamigration chances (up through age 17) vary by these three characteristics. 
+the analysis is divided into two sections, the first of which is a descriptive analysis of mmp 
+and lamp data. for the descriptive analysis, we illustrate the extent that children from 
+four central american countries and mexico make a first us trip. to make the descriptive 
+analysis  comparable  across  countries,  we  use  surveys  conducted  from  2000-2013.  we 
+use all lamp countries in central america (nicaragua, costa rica, guatemala, and el 
+salvador);8 these data include 23 communities and, within each, 4,112 randomly chosen 
+households.9 for mexico, we use mmp data from 71 communities and 10,723 randomly 
+chosen  households.  for  all  countries,  the  analysis  is  limited  to  respondents  residing  in 
+households where they are categorized as a child of the head of household and are 40 years 
+of age or younger at the time of the survey.10 with these sample restrictions, we create a 
+sample of mexicans and central americans who migrated to the us as minors between 
+1977 and 2013, with information about the legal status of those trips and migration history 
+of their parents.11 
+the second section is a multivariate analysis of mmp data. because mmp data represent 
+many more respondents than the lamp, the second half of the analysis uses multivariate 
+regression and life table techniques to examine how childrens migration from mexico 
+varies by parents migration, legal status, and period of entry, net of other factors. this 
+analysis is restricted to children residing in two-parent households and to those with at 
+least one biological parent in the household.12 the mmps larger sample of communities 
+reflects the projects longer history (since the mid-1980s) and includes an economically 
+and geographically diverse set of sending communities. unlike the descriptive analysis, 
+the larger sample size allows us to limit the multivariate analysis only to respondents who 
+are aged 17 or younger at the time of the survey. we also use data from surveys conducted 
+from 1987 to 2013. 
+given each childs date of birth and the year of the survey, we construct a year-by-year 
+life history up to the date of the childs first us trip.13 the outcome measure is whether the 
+
+8  unfortunately, honduras is not included in the lamp dataset.
+9  we use data from 9 communities and 1,789 households in nicaragua, 7 communities and 1,428 
+households in costa rica, 3 communities and 513 households in guatemala, and 4 communities 
+and 382 households in el salvador. 
+10  although it may be preferable to restrict the analysis only to respondents who are minors at the 
+time of the survey, we are unable to do so because of the small sample size of respondents who 
+migrated as children in the lamp data.
+11 the  majority  were  interviewed  in  mexico  or  central american  origin  communities;  the  us 
+samples accounted for less than two percent of our total sample.
+12  in a separate analysis, we added children from one-parent households to those from two-parent 
+households and re-estimated the multivariate models by including a 0,1 dummy variable to control 
+for children in one-parent households. we also ran separate models by family structure. although 
+children from one-parent households were slightly more likely to make a first us trip, the findings 
+reveal no substantive differences for children in two versus one-parent households in the coefficients 
+for predictors of a first us migrant trip (analysis available upon request). thus we chose to display 
+results from the two-parent household analysis.
+13  that is, we built a discrete-time person-year file that followed each child from birth to the date 
+of their nineteenth birthday or to the first us trip, whichever came first.
+
+64
+
+journal on migration and human securitychild migrated within the person-year in question. if he/she did not migrate in a given year, 
+the migration variable is coded 0; if he/she migrated in that year, it is coded 1, and all later 
+years of life are excluded from the file. in every year when migration occurred, we also 
+record legal status (authorized or unauthorized).14 
+we regress the 0-1 migration variable on indicators representing legal status, childs period 
+of entry, parental migration history, gender, age, and type of origin community from which 
+the migration occurred. childrens period of entry includes: before 1987, when mexico-us 
+migration was largely predictable and circular; 1987-96, immediately after passage of the 
+1986 immigration reform and control act (irca) which increased border enforcement 
+funds  and  offered  amnesty  to  approximately  three  million  previously  unauthorized 
+immigrants; and 1997-2011, a period after passage of the 1996 immigrant responsibility 
+and act which strengthened ircas enforcement provisions and set new standards that 
+criminalized immigrants. this period also covers post-september 11, 2001, during which 
+immigration became a national security issue and the department of homeland security 
+was established. we capture the migration history of both parents in the household relative 
+to children in three categories: either of the parents migrated in a year before the child 
+migrated; either of the parents migrated in the same year as the child migrated; and both 
+parents did not migrate (reference category). finally, in addition to gender and age, we 
+include a measure of the metropolitan status of the community of origin (large metropolitan 
+status is the reference). 
+
+descriptive results
+table 1 presents three different sets of percentages to assess national origin differences in 
+child migration calculated from the lamp and mmp data. panel a shows the percent of sons 
+and daughters who were 40 years or younger at the time of the survey and reported a first 
+us trip from surveyed households from mexico, nicaragua, costa rica, guatemala, and 
+el salvador. approximately 10 percent from mexico had migration experience, compared 
+to 4.7 percent for those from nicaragua, 5.8 percent from costa rica, 8.1 percent from 
+guatemala, and 14.3 percent from el salvador. that most percentages were significantly 
+lower than mexicos is worth noting, except for el salvador; its percentage well exceeds 
+mexicos. 
+similar national origin differences appear in panel b, which presents the percentages of all 
+sons and daughters who made a migrant trip as a minor by national origin. although overall 
+percentages are smaller because of the additional restriction that migrants crossed at ages 
+younger than age 18, rates remained higher for mexicans than for nicaraguans and costa 
+ricans (3.4 versus 2.2 and 2.2, respectively). moreover, although rates did not significantly 
+differ between guatemalans and mexicans, el salvadorans reported a significantly higher 
+share of sons and daughters who made first trips as minors (5.3 percent).
+
+14  legal (or authorized) child migrants had valid us documents to enter and reside in the united 
+states; unauthorized migrants did not. 
+
+65
+
+childrens migration to the united states from mexico and central americatable 1.  migration characteristics of sons/daughters in 
+household ages 40 and below, by country
+
+ 
+panel a: percent of all sons/daughters reporting us migration trip
+
+mexico
+
+ 
+
+nicaragua costa rica guatemala el salvador
+
+percent
+total n
+
+10.0
+33,195
+
+4.7*
+5,384
+
+5.8*
+3,652
+
+8.1*
+1,514
+
+14.3*
+892
+
+panel b: percent of all sons/daughters reporting us migration trip as a minor (age < 18)
+
+percent
+total n
+
+3.4
+33,195
+
+2.2*
+5,384
+
+2.2*
+3,652
+
+2.9
+1,514
+
+5.3*
+892
+
+panel c: of migrants, percent reporting first us migration trip as a minor (age < 18)
+
+percent
+total n
+
+34.1
+3,375
+
+46.0*
+252
+
+36.1
+213
+
+35.2
+122
+
+36.7
+128
+
+* indicates value is significantly different (p<.05, two-tailed test; ^ p<.10, two-tailed test) from mexico.
+note: analysis limited to survey years 2000-2013 and respondents classified as a son/daughter of the 
+household head that are age 40 or younger at the time of the survey.
+
+panel  c  switches  the  focus  somewhat  by  presenting  the  shares  of  migrant  sons  and 
+daughters who were 40 years or younger at the time of the survey and made that trip as a 
+minor (younger than 18 years of age) by country. approximately one-third (34.1 percent) 
+of mexican migrants made their first trip as a minor. moreover, although rates of first minor 
+trips from costa rica, guatemala, and el salvador were comparable to those for migrants 
+from mexico, significantly more migrants from nicaragua (46 percent) than mexico made 
+a first trip as a minor. 
+because differences in table 1 likely reflect other characteristics about immigrants from 
+these five countries, table 2 offers us more detail about the minor sons and daughters who 
+made first us trips. the table features critical information regarding minor migrants: legal 
+status, period of entry, and parents migration experience. among those from mexico, for 
+example, fully 81 percent were unauthorized on their first trip, with 1994 as their average 
+year of entry, 42 percent made the initial trip after 1996, and slightly more than half (52.6 
+percent) had at least one parent with us migration experience. compared to mexicans, 
+nicaraguans, costa ricans, and guatemalans were less likely to be unauthorized but the 
+percentage for el salvadorans was comparable to that for mexicans. the average year of 
+first trip was earlier for both nicaraguans and el salvadorans (1988 and 1990), but only 
+nicaraguans differed significantly from mexicans in that a smaller share made a first trip 
+after 1996. among minor migrants from other countries, including mexico, approximately 
+40 percent made their first trips after 1996. with respect to parental migration, the shares 
+
+66
+
+journal on migration and human securityof child migrants from nicaragua and costa rica with migrant parents were higher than for 
+mexico, but significantly lower for those from guatemala and no different for those from 
+el salvador.
+
+table 2.  characteristics of sons/daughters in household 
+ages 40 and below who migrated to the united states as 
+minors, by country
+
+ 
+
+ 
+unauthorized migration on first trip (%)
+year of first us trip (mean)
+parents with migration experience (%)
+
+mexico
+81.2
+1994
+52.6
+
+nicaragua costa rica guatemala el salvador
+
+35.3*
+1988*
+61.2^
+
+12.9*
+1993
+64.9*
+
+58.1*
+1992
+11.6*
+
+72.3
+1990*
+40.4
+
+total n
+* indicates value is significantly different (p<.05, two-tailed test; ^ p<.10, two-tailed test) from mexico.
+note: analysis limited to survey years 2000-2013 and respondents classified as a son/daughter of the 
+household head that are age 40 or younger at the time of the survey.
+
+1,152
+
+43
+
+116
+
+77
+
+47
+
+national  origin  differences  in  parental  migration  experience  are  related  to  legal  status. 
+figure 1 contains two panels: the top panel describes the percent of sons and daughters 
+who reported making a first us trip as a minor by national origin and parental migration 
+experience; the second describes these differences only for minors who were unauthorized. 
+for  those  from  mexico,  2.1  percent  of  respondents  whose  parents  had  no  history  of 
+migrating took a us trip as a minor; by comparison, 7.6 of respondents whose parents did 
+have us experience migrated as a minor. among those from nicaragua, the gap between 
+minor children with and without migrant parents was much bigger. although approximately 
+one percent of respondents with parents with no us experience made a first us trip as a 
+minor, 16 percent of those who had migrant parents did so. parents migration history also 
+increased the possibility that minor children from costa rica and el salvador would make 
+a first us trip, although it had no effect for those from guatemala.
+the bottom panel of figure 1 reveals that parents history differentiates the unauthorized 
+migration chances of minor children from mexico, nicaragua, and costa rica. for example, 
+of all sons and daughters from mexican households aged 40 years or younger at the time 
+of the survey and who made their first trip as a minor, approximately two percent migrated 
+as minors on an unauthorized trip if their parents had no migration experience compared to 
+more than twice that share (5.5 percent) for those with parents with migration experience. 
+parental  migration  history  also  significantly  differentiated  the  shares  of  unauthorized 
+migration of minor children from nicaragua and costa rica, although levels for the latter 
+were very small. 
+
+67
+
+childrens migration to the united states from mexico and central america 
+r
+o
+n
+i
+m
+a
+
+ 
+
+ 
+s
+a
+
+ 
+
+.
+
+ 
+
+ 
+
+ 
+
+ 
+.
+
+ 
+
+p
+i
+r
+t
+n
+o
+i
+m
+t
+a
+a
+r
+g
+i
+p
+m
+i
+r
+t
+ 
+s
+ 
+n
+o
+u
+i
+t
+ 
+a
+g
+r
+g
+n
+i
+i
+m
+t
+r
+s
+o
+u
+p
+g
+e
+n
+r
+i
+t
+ 
+r
+o
+s
+p
+r
+e
+e
+r
+t
+ 
+h
+s
+r
+e
+g
+t
+h
+u
+g
+a
+u
+d
+a
+d
+/
+/
+s
+s
+n
+n
+o
+o
+s
+s
+ 
+l
+l
+ 
+a
+l
+ 
+l
+f
+a
+o
+ 
+t
+ 
+n
+f
+e
+o
+c
+ 
+r
+t
+e
+n
+p
+e
+1
+c
+e
+r
+r
+u
+e
+g
+p
+f
+ 
+ 
+.
+
+ 
+.
+
+i
+
+ 
+
+1
+
+ 
+
+e
+r
+u
+g
+i
+f
+
+s
+i
+
+h
+
+ 
+
+i
+
+ 
+l
+
+i
+r
+g
+y
+m
+r
+o
+a
+t
+t
+n
+s
+e
+i
+r
+h
+a
+p
+ 
+n
+o
+i
+t
+a
+r
+g
+i
+m
+
+ 
+l
+a
+t
+n
+e
+r
+a
+p
+y
+b
+
+ 
+
+ 
+)
+8
+1
+
+ 
+
+<
+
+ 
+
+e
+g
+a
+(
+
+ 
+
+68
+
+*
+r
+o
+d
+a
+v
+l
+a
+s
+ 
+l
+
+e
+
+a
+l
+a
+m
+e
+t
+a
+u
+g
+
+*
+a
+c
+i
+r
+ 
+a
+t
+s
+o
+c
+
+*
+a
+u
+g
+a
+r
+a
+c
+i
+n
+
+*
+o
+c
+i
+x
+e
+
+m
+
+ 
+
+ 
+s
+p
+i
+r
+t
+n
+o
+i
+t
+a
+r
+g
+i
+m
+
+ 
+l
+l
+
+a
+
+ 
+:
+
+a
+
+ 
+l
+e
+n
+a
+p
+
+ 
+
+ 
+s
+p
+i
+r
+t
+n
+o
+i
+t
+a
+r
+g
+i
+m
+d
+e
+z
+i
+r
+o
+h
+t
+u
+a
+n
+u
+
+ 
+
+ 
+:
+
+b
+
+ 
+l
+e
+n
+a
+p
+
+r
+o
+d
+a
+v
+l
+a
+s
+ 
+l
+
+e
+
+a
+l
+a
+m
+e
+t
+a
+u
+g
+
+*
+a
+c
+i
+r
+ 
+a
+t
+s
+o
+c
+
+*
+a
+u
+g
+a
+r
+a
+c
+i
+n
+
+*
+o
+c
+i
+x
+e
+
+m
+
+y
+r
+o
+t
+s
+i
+h
+ 
+n
+o
+i
+t
+a
+r
+g
+i
+m
+
+ 
+/
+
+w
+ 
+s
+t
+n
+e
+r
+a
+p
+
+ 
+
+y
+r
+o
+t
+s
+i
+h
+n
+o
+i
+t
+a
+r
+g
+i
+m
+
+ 
+l
+a
+t
+n
+e
+r
+a
+p
+ 
+o
+n
+
+%
+0
+2
+
+%
+5
+1
+
+%
+0
+1
+
+%
+5
+
+%
+0
+
+%
+8
+
+%
+6
+
+%
+4
+
+%
+2
+
+%
+0
+
+ 
+t
+u
+o
+h
+t
+i
+
+ 
+
+w
+d
+n
+a
+ 
+
+h
+t
+i
+
+ 
+
+w
+ 
+s
+t
+ 
+n
+d
+e
+n
+d
+a
+n
+d
+o
+a
+p
+e
+s
+h
+e
+ 
+d
+r
+ 
+l
+n
+o
+e
+h
+e
+e
+w
+s
+u
+t
+o
+e
+h
+b
+e 
+ 
+e
+h
+c
+t
+n
+ 
+f
+e
+o
+r
+ 
+e
+r
+te
+f
+f
+h
+i
+d
+g
+u
+y
+a
+r
+d
+t
+n
+/
+n
+u
+o
+o
+s
+c
+ 
+-
+s
+n
+a
+i
+ 
+d
+h
+e
+t
+i
+
+w
+i
+s
+ 
+s
+)
+t
+a
+s
+l
+e
+c
+t
+ 
+s
+ 
+d
+t
+en
+e
+l
+d
+i
+a
+n
+t
+o
+-
+o
+p
+w
+s
+e
+t
+ 
+,
+
+ 
+
+0
+1
+r
+ 
+.
+d
+<
+n
+p
+a
+ 
+ 
+^
+3
+ 
+1
+;
+t
+0
+s
+2
+e
+-
+t
+0
+ 
+d
+0
+e
+s
+l
+r
+i
+a
+a
+e
+t
+-
+y
+o
+ 
+y
+w
+e
+v
+t
+ 
+r
+,
+u
+5
+s
+0
+ 
+o
+.
+<
+t
+ 
+p
+d
+(
+e
+ 
+t
+t
+i
+n
+m
+a
+i
+c
+l
+fi
+ 
+s
+i
+i
+n
+s
+y
+g
+l
+i
+a
+s
+n
+ 
+y
+a
+l
+l
+ 
+:
+a
+e
+c
+t
+o
+i
+t
+n
+s
+i
+t
+a
+t
+s
+ 
+s
+e
+t
+a
+c
+i
+d
+n
+i
+ 
+
+*
+
+ 
+
+ 
+
+n
+e
+e
+w
+t
+e
+b
+e
+c
+n
+e
+r
+e
+f
+f
+i
+d
+y
+tr
+n
+u
+o
+c
+-
+n
+h
+t
+i
+
+i
+
+ 
+
+w
+
+ 
+)
+t
+s
+e
+t
+ 
+d
+e
+
+l
+i
+
+a
+t
+-
+o
+w
+
+t
+ 
+,
+
+.
+
+0
+1
+<
+p
+^
+
+ 
+
+ 
+;
+t
+s
+e
+t
+ 
+d
+e
+
+l
+i
+
+a
+t
+-
+o
+w
+
+t
+ 
+,
+
+.
+
+5
+0
+<
+p
+(
+t
+n
+a
+c
+
+n
+g
+
+i
+
+i
+s
+ 
+y
+l
+l
+
+a
+c
+i
+t
+s
+i
+t
+a
+t
+s
+ 
+s
+e
+t
+a
+c
+i
+
+d
+n
+
+ 
+
+y
+r
+o
+t
+s
+i
+h
+n
+o
+i
+t
+a
+r
+g
+m
+
+i
+
+ 
+l
+
+a
+t
+n
+e
+r
+a
+p
+t 
+u
+o
+h
+t
+i
+
+ 
+
+w
+d
+n
+a
+h
+t
+i
+
+ 
+
+w
+ 
+s
+t
+en
+d
+n
+o
+p
+
+i
+ 
+*
+
+e
+r
+
+ 
+e
+h
+t
+ 
+t
+a
+ 
+r
+e
+g
+n
+u
+o
+y
+ 
+r
+o
+
+ 
+
+ 
+
+0
+4
+
+ 
+e
+g
+a
+ 
+
+d
+n
+a
+ 
+
+d
+a
+e
+h
+
+ 
+
+d
+l
+o
+h
+e
+s
+u
+o
+h
+ 
+e
+h
+t
+ 
+f
+o
+
+ 
+r
+e
+t
+h
+g
+u
+a
+d
+/
+n
+o
+s
+ 
+s
+a
+ 
+
+d
+e
+fi
+i
+s
+s
+a
+l
+c
+ 
+s
+t
+n
+e
+d
+n
+o
+p
+s
+e
+r
+ 
+
+d
+n
+a
+ 
+
+3
+1
+0
+2
+-
+0
+0
+0
+2
+ 
+s
+r
+a
+e
+y
+
+ 
+
+y
+e
+v
+r
+u
+s
+ 
+
+o
+t
+ 
+
+d
+e
+t
+i
+
+m
+
+ 
+.
+
+y
+e
+v
+r
+u
+s
+ 
+e
+h
+t
+ 
+f
+o
+e
+m
+
+ 
+
+ 
+
+i
+t
+ 
+e
+h
+t
+ 
+t
+a
+er
+g
+n
+u
+o
+ 
+.
+y
+y
+ 
+r
+r
+o
+o
+t
+ 
+s
+0
+i
+4
+h
+ 
+e
+ 
+n
+g
+o
+a
+i
+t
+a
+r
+g
+i
+m
+
+ 
+l
+a
+t
+n
+e
+r
+a
+p
+
+.
+
+y
+e
+v
+r
+u
+s
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+m
+
+i
+t
+
+i
+l
+ 
+s
+ 
+i
+s
+y
+l
+a
+n
+a
+
+ 
+:
+e
+t
+o
+n
+
+journal on migration and human securitythe  findings  suggest  some  interesting  differences  by  legal  status,  period  of  entry,  and 
+parental  migration.  first,  parental  migration  affects  childrens  migration.  whether  we 
+consider all child migrants or only those making a first unauthorized us trip, their ties to 
+parents with prior or current migration history translate into significantly more migration. 
+the gaps are especially large for nicaragua, el salvador, and mexico (in that order) among 
+those making a trip as a minor child. for those minors making an unauthorized trip, the gap 
+between children with and without parental migration is statistically significant and notably 
+different only for nicaragua and mexico. given that the overall percentages of respondents 
+who reported having migrated as children are relatively low and range from only two to 
+five percent across countries (see panel b of table 2), the results in figure 1 indicate that 
+for mexico, nicaragua, and el salvador, there is a strong link between parental migration 
+and the likelihood that a minor child will migrate to the united states. 
+to examine whether these differences hold net of other factors, table 3 presents regression 
+models that predict whether or not a child makes a first us trip up through age 17. the 
+first set of columns refers to all first trips, whereas the next two sets of columns refer to 
+authorized and unauthorized trips. results for all first trips suggest that the likelihood of 
+migrating varies by childrens period of entry. among those entering in the 1987-96 period, 
+the likelihood of migrating is higher than in the pre-1987 period. this finding suggests that 
+childrens migration was linked to ircas amnesty program, although children were far 
+less likely than their parents especially fathers (donato 1993)to regularize their status 
+during this period. by comparison, childrens likelihood of making a first trip drops in 
+1997-2011, which reflects growing restrictions on all immigrants during this time.
+coefficients for parents migration experience clearly show that it is linked to childrens 
+migration. compared to children whose parents had no us experience, those with migrant 
+parents  (either  in  the  past  or  present)  were  much  more  likely  to  make  a  first  us  trip. 
+girls were much less likely than boys to migrate, and older children were more likely 
+than younger ones to migrate. community type also matters; compared to children from 
+metropolitan areas, the likelihood of children migrating was higher in small urban areas 
+and isolated ranchos in rural areas. 
+comparison of the next two sets of models reveals a very different process of first-trip 
+migration  for  children  making  authorized  versus  unauthorized  trips.  yet  there  is  one 
+exception: it refers to effects for parents migration history. whether we consider childrens 
+authorized or unauthorized first trips, children are much more likely to migrate in the year 
+their parents migrate, and they are also more likely to migrate if their parents migrated in 
+the past, relative to children whose parents have never migrated.
+however, differences in time period are much larger for childrens making unauthorized 
+first us trips. similar to the model for all trips, the likelihood of making a first unauthorized 
+trip is highest during the amnesty period, relative to the pre-1987 period. the likelihood 
+turns negative in 1997-2011. among children making their first authorized trip, the only 
+effect is negative and marginally significant (at p< .10) for the 1997-2011 period. 
+among  the  remaining  effects,  gender  matters  for  childrens  unauthorized  first  trips  but 
+not  for  authorized  ones.  girls  were  significantly  less  likely  than  boys  to  make  a  first 
+unauthorized trip. age effects were also different across the two models. although children 
+
+69
+
+childrens migration to the united states from mexico and central americatable 3.  results of logistic regression predicting first 
+us migration trip, ages 0-17
+
+all trips
+
+variable 
+period (pre-1987=reference)
+
+1987-1996
+1997-2011
+
+b
+
+0.19^
+-0.40**
+
+parent migration history (none=reference)
+
+parent migrated earlier
+parent migrated in same year
+
+1.34**
+4.15**
+
+sea
+
+0.10
+0.12
+
+0.10
+0.10
+
+authorized
+b
+sea
+
+unauthorized
+b
+sea
+
+-0.07
+-0.39^
+
+2.31**
+5.69**
+
+0.17
+0.21
+
+0.30
+0.29
+
+0.25*
+-0.44**
+
+1.20**
+3.75**
+
+0.12
+0.14
+
+0.10
+0.11
+
+gender
+
+female (male=reference)
+
+age in years (0-1=reference)
+
+-0.61**
+
+0.07
+
+-0.16
+
+0.14
+
+-0.79**
+
+0.09
+
+2-3
+4-5
+6-7
+8-9
+10-11
+12-13
+14-15
+16-17
+
+0.04
+-0.04
+-0.29
+-0.16
+-0.06
+0.56**
+1.74**
+2.80**
+
+community (metropolitan area=reference)
+small urban area
+town
+rancho
+
+0.30*
+0.11
+0.24^
+
+0.15
+0.16
+0.18
+0.18
+0.18
+0.16
+0.14
+0.13
+
+0.13
+0.13
+0.13
+
+0.11
+-0.66*
+0.05
+-0.02
+0.20
+0.46
+0.95**
+1.36**
+
+0.19
+
+-0.69**
+-0.02
+
+0.24
+0.32
+0.27
+0.29
+0.29
+0.29
+0.27
+0.28
+
+0.23
+0.26
+0.24
+
+-0.00
+0.18
+-0.53*
+-0.24
+-0.22
+0.62**
+1.99**
+3.13**
+
+0.33*
+0.36*
+0.34*
+
+0.19
+0.18
+0.24
+0.23
+0.24
+0.20
+0.16
+0.16
+
+0.15
+0.15
+0.16
+
+constant 
+person years (n)
+pseudo r2
+
+-7.82**
+
+0.16
+
+-9.72**
+
+0.32
+
+-8.12**
+
+0.20
+
+400,612
+0.258
+
+388,721
+0.265
+
+398,184
+0.250
+
+**p<0.01, * p<0.05, ^ p<0.10
+a robust standard errors that adjust for within-individual cluster correlation. 
+
+aged 14-15 and 16-17 were more likely to make a first trip than younger ones, irrespective of 
+legal status, these coefficients were much larger for unauthorized trips. in addition, among 
+children  crossing  without  authorization,  those  aged  12-13  were  also  significantly  more 
+likely to make a first us trip. finally, compared to large metropolitan areas, children from 
+small urban areas, towns, and rural ranchos were more likely to make a first unauthorized 
+trip.
+
+70
+
+journal on migration and human security 
+,
+
+c
+
+ 
+
+ 
+l
+e
+n
+a
+p
+n
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+l
+a
+t
+n
+e
+r
+a
+p
+y
+b
+p
+i
+r
+t
+n
+o
+i
+t
+a
+r
+g
+i
+m
+s
+u
+ 
+t
+s
+r
+i
+f
+d
+e
+z
+i
+r
+o
+h
+t
+u
+a
+n
+u
+
+ 
+
+ 
+
+ 
+f
+o
+
+ 
+
+y
+t
+i
+l
+i
+b
+a
+b
+o
+r
+p
+d
+e
+t
+c
+i
+d
+e
+r
+p
+
+ 
+
+ 
+ 
+.
+
+2
+
+ 
+
+e
+r
+u
+g
+i
+f
+
+ 
+
+n
+o
+
+i
+t
+a
+r
+g
+
+i
+
+m
+
+ 
+l
+
+a
+t
+n
+e
+r
+a
+p
+y
+b
+p
+
+ 
+
+ 
+
+i
+r
+t
+n
+o
+
+ 
+
+i
+t
+a
+r
+g
+
+i
+
+m
+
+ 
+.
+
+.
+
+s
+u
+ 
+t
+s
+r
+i
+
+ 
+
+f
+d
+7
+e
+1
+z
+i
+-
+r
+0
+o
+ 
+h
+s
+t
+e
+u
+g
+a
+a
+n
+u
+ 
+,
+d
+ 
+f
+o
+o
+ 
+y
+i
+r
+t
+i
+e
+l
+i
+p
+b
+a
+ 
+b
+d
+o
+n
+r
+a
+p
+ 
+ 
+d
+y
+e
+r
+t
+o
+c
+t
+i
+d
+s
+e
+i
+r
+h
+p
+ 
+ 
+n
+.
+2
+o
+e
+i
+r
+t
+u
+a
+g
+r
+f
+g
+ 
+i
+m
+
+i
+
+ 
+
+7
+1
+-
+0
+ 
+s
+e
+g
+a
+
+ 
+,
+
+d
+o
+
+ 
+
+i
+r
+e
+p
+d
+n
+a
+y
+r
+o
+t
+s
+i
+
+ 
+
+h
+
+r
+a
+e
+y
+ 
+e
+m
+a
+s
+ 
+n
+i
+ 
+d
+e
+t
+a
+r
+g
+i
+m
+
+ 
+t
+n
+e
+r
+a
+p
+
+ 
+
+r
+e
+i
+l
+r
+a
+e
+d
+e
+t
+a
+r
+g
+i
+m
+
+ 
+t
+n
+e
+r
+a
+p
+
+n
+o
+i
+t
+a
+r
+g
+i
+m
+
+ 
+l
+a
+t
+n
+e
+r
+a
+p
+o
+n
+
+ 
+
+6
+8
+9
+1
+-
+0
+7
+9
+1
+
+6
+9
+9
+1
+-
+7
+8
+9
+1
+
+1
+1
+0
+2
+-
+7
+9
+9
+1
+
+%
+0
+2
+
+.
+
+%
+8
+1
+
+.
+
+%
+6
+1
+
+.
+
+%
+4
+1
+
+.
+
+%
+2
+1
+
+.
+
+%
+0
+1
+
+.
+
+%
+8
+0
+
+.
+
+%
+6
+0
+
+.
+
+%
+4
+0
+
+.
+
+%
+2
+0
+
+.
+
+%
+0
+0
+
+.
+
+ 
+r
+i
+e
+h
+t
+ 
+t
+a
+ 
+s
+e
+b
+a
+
+l
+
+i
+r
+a
+v
+
+ 
+r
+e
+h
+t
+o
+
+ 
+l
+l
+
+ 
+
+a
+g
+n
+d
+
+i
+
+l
+
+o
+h
+
+ 
+,
+
+ 
+
+l
+
+3
+e
+b
+a
+t
+n
+
+ 
+
+i
+ 
+
+ 
+
+ 
+
+l
+
+d
+e
+y
+a
+p
+s
+i
+d
+el
+d
+o
+m
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+ 
+c
+i
+t
+s
+i
+g
+o
+m 
+o
+r
+f
+ 
+d
+e
+t
+a
+r
+e
+n
+e
+g
+ 
+s
+e
+i
+t
+i
+l
+i
+
+l
+
+b
+a
+b
+o
+r
+p
+
+ 
+:
+
+e
+t
+o
+n
+
+i
+ 
+;
+s
+n
+a
+e
+m
+
+i
+
+ 
+s
+u
+o
+v
+e
+r
+p
+m 
+o
+r
+f
+ 
+)
+t
+s
+e
+t
+ 
+d
+e
+
+ 
+r
+i
+e
+h
+t
+ 
+t
+a
+ 
+s
+e
+l
+b
+a
+i
+r
+a
+v
+ 
+r
+e
+h
+t
+o
+
+a
+t
+-
+o
+w
+
+l
+i
+
+.
+
+t
+ 
+,
+
+5
+0
+
+<
+p
+
+ 
+l
+l
+a
+ 
+g
+n
+i
+d
+o
+h
+
+l
+
+ 
+
+ 
+
+ 
+,
+
+(
+ 
+t
+n
+e
+r
+e
+f
+f
+i
+d
+y
+l
+l
+
+3
+ 
+e
+l
+b
+a
+t
+n
+
+a
+c
+i
+t
+s
+i
+t
+a
+t
+s
+ 
+s
+i
+ 
+
+i
+ 
+d
+e
+y
+a
+l
+p
+s
+i
+d
+
+d
+o
+
+ 
+l
+e
+d
+o
+m
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+ 
+c
+i
+t
+s
+i
+g
+o
+
+i
+r
+e
+p
+1
+1
+0
+2
+-
+7
+9
+9
+1
+ 
+r
+o
+f
+ 
+y
+t
+i
+l
+i
+
+l
+ 
+
+ 
+
+ 
+
+b
+a
+b
+o
+
+m
+o
+r
+f
+ 
+d
+e
+t
+a
+r
+e
+n
+e
+g
+ 
+s
+e
+i
+t
+i
+s
+l
+i
+d
+b
+o
+a
+b
+i
+r
+o
+e
+r
+p
+p
+
+ 
+l
+
+e
+n
+a
+p
+n
+
+ 
+
+i
+ 
+;
+s
+n
+a
+e
+m
+
+ 
+ 
+:
+e
+t
+o
+n
+
+ 
+
+ 
+.
+s
+d
+o
+i
+r
+e
+p
+ 
+s
+u
+o
+i
+v
+e
+r
+p
+m
+o
+r
+f
+ 
+)
+t
+s
+e
+t
+ 
+d
+e
+l
+i
+a
+t
+-
+o
+w
+
+t
+ 
+,
+
+ 
+
+.
+
+5
+0
+<
+p
+(
+ 
+t
+n
+e
+r
+e
+ff
+i
+d
+y
+l
+l
+a
+c
+i
+t
+s
+i
+t
+a
+t
+s
+ 
+s
+i
+ 
+d
+o
+i
+r
+e
+p
+1
+1
+0
+2
+-
+7
+9
+9
+1
+ 
+r
+o
+f
+ 
+y
+t
+i
+l
+i
+b
+a
+b
+o
+r
+p
+
+ 
+
+ 
+
+71
+
+childrens migration to the united states from mexico and central americafigure  2  presents  predicted  probabilities  of  children  making  a  first  unauthorized  trip 
+from mexico by parental migration history and period of entry. these probabilities were 
+calculated from coefficients in the unauthorized model in table 3. figure 2 shows that, 
+while the chances that children make an unauthorized trip are low, childrens migration 
+is clearly tied to their parents. net of other factors, the chances that children make a first 
+unauthorized trip are higher for those whose parents crossed in the same year. in addition, 
+the chances were highest in 1987-96, followed by the 1970-86 period, and lowest in 1997-
+2011. 
+to make the results of this analysis even more tangible, we used the model coefficients in 
+table 3 to generate predicted probabilities of children making a first legal and unauthorized 
+trip and from these probabilities, we derived a set of life tables to compute the cumulative 
+probability  of  childrens  legal  and  unauthorized  migration  by  age  17. table  4  presents 
+the  cumulative  probability  that  children  would  migrate  by  age  17with  and  without 
+authorizationfor the three time periods and across the three different states of parental 
+migration.
+
+table 4.  cumulative probabilities of first us migration 
+trip by parental migration history and legal status
+
+no parental 
+migration
+
+parent migrated 
+
+earlier
+
+parent migrated in 
+
+same year
+
+ 
+
+panel a. all trips
+
+1970-1986
+1987-1996
+1997-2011
+
+panel b. authorized trips
+
+1970-1986
+1987-1996
+1997-2011
+
+panel c. unauthorized trips
+
+1970-1986
+1987-1996
+1997-2011
+
+.020
+.024
+.013
+
+.001
+.001
+.001
+
+.019
+.024
+.012
+
+.074
+.089
+.051
+
+.012
+.012
+.008
+
+.063
+.079
+.041
+
+.692
+.755
+.555
+
+.315
+.298
+.226
+
+.537
+.621
+.398
+
+note: results generated from regression models in table 3.
+
+these results show what would happen if a child born in mexico were to go through their 
+seventeenth year of life subject to the rates of out-migration prevailing in different years. 
+overall,  irrespective  of  legal  status,  there  are  two  noteworthy  findings.  first,  children 
+
+72
+
+journal on migration and human securitywith parents migrating in the same year have much higher chances of making a first trip 
+than children with parents who never migrated or those whose parents migrated earlier. 
+the chance that a child makes a first us trip if his/her parents have no us experience 
+ranges  between  1  and  2  percent  across  the  three  periods  of  entry,  but  for  those  whose 
+parents migrated in the same year, the chances are considerably higher (.692, .755, and 
+.555 across the three periods). second, the chances that children, by age 17, make a first 
+trip are consistently higher for the 1987-96 period, when ircas amnesty program was 
+implemented, but only for unauthorized trips. for example, the probability that a young 
+child would make a first unauthorized us trip during the year his/her parent migrated was 
+.537 in 1970-86, grew to .621 during the period when many mexicans received amnesty, 
+and then dropped to .398 in 1997-2011. these results, when taken together, indicate that the 
+overall likelihood of child migration from mexico has substantially decreased for children 
+with and without parents with us experience. moreover, childrens lifetime chances of 
+making a first unauthorized trip shift across different periods of entry.
+
+discussion
+although the data we examine here do not include the child migrants who arrived at the 
+us-mexico  border  in  2014,  they  do  offer  some  insight  into  the  mechanisms  by  which 
+individuals  migrate  as  minors.  in  particular,  our  findings  indicate  that  the  migration  of 
+children is closely linked to that of parents, and that a minor child is significantly more 
+likely to go on a first us trip if their parent has us migration experience. rather than 
+supporting the hypothesis that child migrants are independent rational actors, this finding 
+lends support to the idea that child migrants are incorporated into the migration process via 
+their ties to families. 
+our analysis of child migration from mexico, in particular, highlights the interconnections 
+of migration between parents and children. although the overall likelihood of a mexican 
+child making a first us trip is quite low, it is practically non-existent for children whose 
+parents  have  no  us  experience  and  it  increases  significantly  for  children  with  migrant 
+parents. furthermore, while annual rates of mexico-us immigration have declined over the 
+past decade (passel, cohn, and gonzalez-barrera 2012), the central american immigrant 
+population has grown rapidly (stoney and batalova 2013).15 these trends suggest continued 
+growth of central american immigration in the future, which implies that the linkages 
+between migrant parents and their children in communities of origin will continue to be 
+a part of the central american migration landscape for years to come (see also massey, 
+durand, and pren 2014). thus, we recommend that discussions of childrens migration 
+should be rooted in a larger discussion about the opportunities that these minors have for 
+family reunification and access to legal immigration. 
+
+15  between  2000  and  2010,  central  american  immigrants  grew  faster  than  any  other  latin 
+american region. in the last three decades, the numbers of central american immigrants have 
+nearly tripled from 1.1 million to more than 3 million (stoney and batalova 2013). during the 
+2000s, after mexico, the top national origins for unauthorized immigrants in the united states are 
+el salvador, guatemala, and honduras, and this population grew faster than that from mexico 
+(hoefer, rytina, and baker 2012). finally, immigrants from central american nations have been 
+the primary recipients of temporary protected status (wasem and ester 2010).
+
+73
+
+childrens migration to the united states from mexico and central americaas  migrant  human  capital  has  grown  in  recent  decades  between  the  united  states  and 
+central america, congress  has been unable to pass  comprehensive immigration policy 
+reform. the existing policy regime has significant shortcomings, especially with respect 
+to  protections  for  child  migrants  and  family  reunification.  therefore,  the  number  of 
+unaccompanied  minors  recently  apprehended  at  the  border  should  not  be  surprising. 
+although the structural conditions leading to out-migration are related to high levels of 
+poverty, violence in communities of origin, and smugglers who promote migration among 
+children, the rising number of children from central america and mexico is related to 
+widespread  migration  networks  and  a  long-standing  reliance  on  immigrant  workers  in 
+the united states. it is time to recognize that these children need protections in the form 
+of permanent legal status to reunify with their families. if the united states cannot pass 
+comprehensive  immigration  reform,  at  minimum  it  should  provide  for  the  children  of 
+immigrants it readily employs.
+
+references
+abrego,  leisy  j.  2013.  latino  immigrants  diverse  experiences  of  illegality.  in 
+constructing  immigrant  illegality:  critiques,  experiences,  and  responses, 
+edited by cecilia menjvar and daniel kanstroom, 13961. new york: cambridge 
+university press. http://dx.doi.org/10.1017/cbo9781107300408.008
+
+abrego,  leisy  and  roberto  gonzales.  2010.  blocked  paths,  uncertain  futures:  the 
+postsecondary  education  and  labor  market  prospects  of  undocumented  latino 
+youth. journal of education of students placed at risk 15(1): 144-57. 
+http://dx.doi.org/10.1080/10824661003635168
+
+acevedo, gladys lopez, and angel salinas. 2000. the distribution of mexicos public 
+spending  on  education. world  bank  publications.  http://elibrary.worldbank.org/
+doi/pdf/10.1596/1813-9450-2404. 
+
+adsera, alicia and marta tienda, eds. 2012. migrant youth and children of migrants 
+in a globalized world. annals of the american academy of political and social 
+science. volume 643 (1). washington, dc: sage.
+
+aranda,  elizabeth,  cecilia  menjivar,  and  katharine  m.  donato.  2014.    the  spillover 
+consequences  of  an  enforcement-first  u.s.  immigration  regime.  american 
+behavioral scientist 58(13): 1687-95. http://dx.doi.org/10.1177/0002764214537264
+armenta,  amada.  2012.  from  sheriffs  deputies  to  immigration  officers:  screening 
+
+immigrant status in a tennessee jail. law & policy 34(2): 191-201.
+http://dx.doi.org/10.1111/j.1467-9930.2011.00359.x
+
+bergeron,  claire.  2014.  temporary  protected  status  after  25  years:  addressing  the 
+challenge of long-term temporary residents and strengthening a centerpiece 
+of us humanitarian protection. journal on migration and human security 2(1): 
+23-43. http://dx.doi.org/10.14240/jmhs.v2i1.23
+
+74
+
+journal on migration and human securitybledsoe, caroline h. and papa sow. 2011. back to africa: second chances for the children 
+
+of west african immigrants. journal of marriage and family 73(4): 747-62.
+http://dx.doi.org/10.1111/j.1741-3737.2011.00843.x
+
+caldwell, alicia a. 2014a. border patrol resources stretched thin as children illegally 
+
+enter us alone. associated press, june 5.
+
+caldwell, alicia a. 2014b. us: looking at all options in illegal immigration surge. 
+
+associated press, june 24.
+
+cerrutti, marcela and douglas s. massey. 2001. on the auspices of female migration 
+
+from mexico to the united states.  demography 38: 187-200. 
+http://dx.doi.org/10.1353/dem.2001.0013
+
+chrishti,  muzaffar  and  faye  hipsman.  2014.  dramatic  surge  in  the  arrival  of 
+unaccompanied children has deep roots and no simple solutions. migration 
+information  source.  washington,  dc:  migration  policy  institute.  http://www.
+migrationpolicy.org/article/dramatic-surge-arrival-unaccompanied-children-has-
+deep-roots-and-no-simple-solutions. 
+
+creighton, matthew j. and fernando riosmena.  2013. migration and the gendered origin 
+of migrant networks among couples in mexico.  social science quarterly 94(1): 
+79-99.  http://dx.doi.org/10.1111/j.1540-6237.2012.00928.x
+
+cbp  (us  customs  and  border  protection).  2014.  southwest  border  unaccompanied 
+http://www.cbp.gov/newsroom/stats/southwest-border-
+
+alien  children. 
+unaccompanied-children-2014. 
+
+ 
+
+donato, katharine m. 1993. current trends and patterns in female migration: evidence 
+
+from mexico. international migration review 27(4): 748-71.   
+
+. 1994. us policy and mexican migration to the united states 1942-92. social 
+
+science quarterly 75(4): 705-29.
+
+donato,  katharine  m.,  brandon  wagner,  and  evelyn  patterson.  2008.  the  cat  and 
+mouse  game  at  the  mexico-us  border:  gendered  patterns  and  recent  shifts. 
+international migration review 42(2): 330-59.
+
+donato,  katharine  m.,  shawn  malia  kanaiaupuni,  and  melissa  stainback.  2003.  sex 
+differences  in  child  health:  effects  of  mxico-us  migration.    special  issue, 
+journal of comparative family studies summer: 455-77.
+
+donato, katharine m. and ebony m. duncan. 2011. migration, social networks, and 
+child health in mexican families. journal of marriage and the family 73(4): 
+713-28. http://dx.doi.org/10.1111/j.1741-3737.2011.00841.x
+
+donato, katharine m. and blake sisk.  2013. shifts in the employment outcomes among 
+mexican migrants to the united states, 1976-2009.  research in social stratification 
+and mobility 30(1): 63-77. http://dx.doi.org/10.1016/j.rssm.2011.12.002
+
+75
+
+childrens migration to the united states from mexico and central americadonato, katharine m. and leslie rodriguez.  2014 police arrests in a time of uncertainty:  
+the impact of 287(g) on arrests in a new immigrant gateway. american behavioral 
+scientist 58(13): 1696-722. http://dx.doi.org/10.1177/0002764214537265
+
+dreby, joanna. 2010. divided by borders: mexican migrants and their children. berkeley: 
+
+university of california press.
+
+. 2012. the burden of deportation on children in mexican immigrant families. 
+
+journal of marriage and family 74: 829-45. 
+http://dx.doi.org/10.1111/j.1741-3737.2012.00989.x
+
+durand, jorge and douglas massey. 1992. mexican migration to the united states: a 
+
+critical review. latin american research review 27:3-42.
+
+enriquez, laura e. 2014. undocumented love lives: the effects of gender and immigration 
+status on the family formation experiences of undocumented mexican-origin 
+young adults. unpublished manuscript, ucla.
+
+farley, reynolds, and richard alba. 2002. the new second generation in the united 
+
+states. international migration review 36(3): 669701. 
+http://dx.doi.org/10.1111/j.1747-7379.2002.tb00100.x
+
+fonseca,  omar  and  lilia  moreno.  1988.  consideraciones  historico-sociales  de  la 
+migracion de trabajadores michoacanos a los estados unidos de america: el caso 
+de  jaripo.  in  migracin  en  el  occidente  de  mxico,  edited  by  gustavo  lpez 
+castro and sergio pardo galvn, 65-84. zamora de hidalgo, mxico: el colegio 
+de michoacn. 
+
+gans, judith. 2009. demographic profile of mexican-born living in the united states. the 
+university of arizona: udall center for studies in public policy. http://udallcenter.
+arizona.edu/immigration/publications/puentesus_based_mexican_born.pdf. 
+
+garcia, angela. 2010. the devolution of federal immigration authority: outcomes of 
+287(g) agreements within immigrant communities in the us, presented at the 
+meeting  of  the  society  for  the advancement  of  socio-economics,  governance 
+across borders: coordination, regulation, and contestation in the global economy, 
+philadelphia, pennsylvania.
+
+goldring,  luin.  1990.  development  and  migration:  a  comparative  analysis  of  two 
+mexican migrant circuits. working paper no. 37. washington dc: commission 
+for the study of international migration and cooperative economic development. 
+gonzales, roberto. 2011. learning to be illegal: undocumented youth and shifting legal 
+contexts  in  the transition  to adulthood.  american  sociological  review  76(4): 
+602-19. http://dx.doi.org/10.1177/0003122411411901
+
+graham,  elspeth  and  lucy  p.  jordan.    2011.    migrant  parents  and  the  psychological 
+well-being of left-behind children in southeast asia.  journal of marriage and 
+family 73(4): 763-87. http://dx.doi.org/10.1111/j.1741-3737.2011.00844.x
+
+76
+
+journal on migration and human securityhagan, jacqueline, nestor rodriguez, randy capps, and nika kabiri. 2003. the effects 
+of  recent  welfare  and  immigration  reforms  on  immigrants access  to  health 
+care. international migration review 37(2):44463. 
+http://dx.doi.org/10.1111/j.1747-7379.2003.tb00144.x
+
+hagan, jacqueline, karl eschbach, and nestor rodriguez. 2008. us deportation policy, 
+family separation, and circular migration. international migration review 42(1): 
+6488. http://dx.doi.org/10.1111/j.1747-7379.2007.00114.x
+
+hagan, jacqueline, brianna castro, and nestor rodriguez. 2009. effects of us deportation 
+policies  on  immigrant  families  and  communities:  cross-border  perspectives. 
+north carolina law review 88:1799.
+
+hoefer, michael, nancy rytina, and brian baker. 2012. estimates of the unauthorized 
+immigrant population residing in the united states: january 2011. washington, 
+dc: department of homeland security. 
+
+kanaiaupuni, shawn malia and katharine m. donato. 1999a. migradollars and mortality: 
+
+the effects of migration on child mortality. demography 36(3): 339-53. 
+http://dx.doi.org/10.2307/2648057
+
+. 1999b. linking migration and health: community and household effects of male 
+migration on mothers and childrens health in mexican origin communities. in 
+las consecuencias de las transiciones demogrfica y epidemiolgica en amrica 
+latina, edited by kenneth hill, jos b. morelos and rebeca wong, 251-76. mxico 
+city, mexico: el colegio de mxico y johns hopkins university.
+
+kandel, william, andorra bruno, peter j. meyer, clare ribando seelke, maureen taft-
+morales, and ruth ellen wasem. 2014. unaccompanied alien children: potential 
+factors  contributing  to  recent  immigration.  washington,  dc:  congressional 
+research service. http://www.refworld.org/docid/53d62ca24.html. 
+
+kasinitz,  philip,  john  h.  mollenkopf,  mary  c.  waters,  and  jennifer  holdaway.  2010. 
+inheriting the city: the children of immigrants come of age. new york: russell 
+sage foundation.
+
+kennedy,  elizabeth.  2014.  no  childhood  here:  why  central  american  children  are 
+fleeing  their  homes.  washington,  dc: american  immigration  council.  http://
+www.immigrationpolicy.org/perspectives/no-childhood-here-why-central-
+american-children-are-fleeing-their-homes. 
+
+kerwin,  donald  m.  2012.  the  faltering  us  refugee  protection  system:  legal  and 
+policy responses to refugees, asylum seekers, and others in need of protection.  
+refugee survey quarterly 31(1): 1-33. http://dx.doi.org/10.1093/rsq/hdr019
+
+. 2014. creating a more responsive and seamless refugee protection system: the 
+scope, promise and limitations of us temporary protection programs. journal 
+on migration and human security 2(1): 44-72.  
+http://dx.doi.org/10.14240/jmhs.v2i1.24
+
+77
+
+childrens migration to the united states from mexico and central americalee, jennifer and min zhou. 2014. the success frame and achievement paradox: the 
+costs and consequences for asian americans. race and social problems 6(1): 
+38-55. http://dx.doi.org/10.1007/s12552-014-9112-7
+
+massey, douglas s., rafael alarcon, jorge durand, humberto gonzlez. 1987. return to 
+
+aztln. berkeley, ca: university of california press. 
+
+massey, douglas s., luin goldring, and jorge durand. 1994. continuities in transnational 
+migration: an analysis of nineteen mexican communities. american journal of 
+sociology 99(6): 1492-533. http://dx.doi.org/10.1086/230452
+
+massey, douglas s., jorge durand, and nolan malone.  2002.  beyond smoke and mirrors:  
+mexican immigration in an era of economic integration. new york, ny:  the 
+russell sage foundation.
+
+massey, douglas s., jorge durand, and karen a. pren. 2014. explaining undocumented 
+
+migration to the united states. international migration review 48(4): 1028-61.
+http://dx.doi.org/10.1111/imre.12151
+
+mazzucato, valentina and djamila schans. 2011. transnational families and the well-being 
+of  children:  conceptual  and  methodological  challenges.  journal  of  marriage 
+and family 73(4): 704-12. http://dx.doi.org/10.1111/j.1741-3737.2011.00840.x
+
+mckenzie,  david  j.  2008.  a  profile  of  the  worlds  young  development  country 
+
+international migrants. population and development review 34(1): 115-35.
+http://dx.doi.org/10.1111/j.1728-4457.2008.00208.x
+
+meissner,  doris,  donald  m.  kerwin,  muzaffar  chishti,  and  claire  bergeron.  2013. 
+immigration enforcement in the united states: the rise of a formidable machinery. 
+washington, dc: migration policy institute. http://www.migrationpolicy.org/pubs/
+enforcementpillars.pdf. 
+
+menjvar,  cecilia  and  leisy  abrego.  2009.  parents  and  children  across  borders: 
+legal  instability  and  intergenerational  relations  in  guatemalan  and  salvadoran 
+families.in across generations: immigrant families in america, edited by nancy 
+foner, 160-89. new york: nyu press.
+
+nobles, jenna. 2011. parenting from abroad: migration, nonresident father involvement, 
+and childrens education in mexico. journal of marriage and family 73(4): 729-
+46. http://dx.doi.org/10.1111/j.1741-3737.2011.00842.x
+
+oecd (organization of economic cooperation and development). 2012. education at a 
+
+glance: oecd indicators, mexico 2012. paris: oecd publishing. 
+
+passel, jeffrey s., d. cohn, and a. gonzalez-barrera. 2012. net migration from mexico 
+falls to zeroand perhaps less. washington, dc: pew hispanic center. http://
+www.pewhispanic.org/2012/04/23/net-migration-from-mexico-falls-to-zero-and-
+perhaps-less/. 
+
+portes,  alejandro,  patricia  fernndez-kelly,  and  william  haller.  2005.  segmented 
+assimilation on the ground: the new second generation in early adulthood. ethnic 
+
+78
+
+journal on migration and human securityand racial studies 28(6):100040. http://dx.doi.org/10.1080/01419870500224117
+portes, alejandro, and rubn g. rumbaut. 2001. legacies: the story of the immigrant 
+
+second generation. berkeley: university of california press.
+
+reichert, joshua and douglas massey. 1979. patterns of us migration from a mexican 
+sending community: a comparison of legal and illegal migrants. international 
+migration review 13: 599-623. http://dx.doi.org/10.2307/2545178
+
+.  1980.  history  and  trends  in  us  bound  migration  from  a  mexican  town. 
+
+international migration review 14: 475-91.      
+
+rodrguez,  nestor,  and  jacqueline  maria  hagan.  2004.  fractured  families  and 
+communities: effects of immigration reform in texas, mexico, and el salvador. 
+latino studies 2(3): 32851. http://dx.doi.org/10.1057/palgrave.lst.8600094
+
+sacchetti,  maria.  2014.  us  deporting  children  of  parents allowed  to  stay.  boston 
+
+globe, september 23.
+
+stark, oded. 1991. the migration of labor. london: basil blackwell.
+stoney, sierra, and jeanne batalova. 2013. central american immigrants in the united 
+states. migration information source. washington, dc: migration policy institute. 
+http://www.migrationpolicy.org/article/central-american-immigrants-united-states. 
+tucker, christine m., pilar torres-pereda, alexandra m. minnis, and sergio a. bautista-
+arredondo. 2013. migration decision-making among mexican youth individual, 
+family,  and  community  influences.  hispanic  journal  of  behavioral  sciences 
+35(1): 6184. http://dx.doi.org/10.1177/0739986312458563
+
+unhcr (united nations high commissioner for refugees). 2014. children on the run. 
+washington, dc: united nations high commissioner for refugees regional office 
+for the united states and the caribbean. http://unhcrwashington.org/children.
+
+world  bank.  2006.  world  development  report  2007:  development  and  the  next 
+generation.  washington,  dc.  http://www-wds.worldbank.org/external/default/
+wdscontentserver/iw3p/ib/2006/09/13/000112742_20060913111024/
+rendered/pdf/359990wdr0complete.pdf. 
+
+wasem,  ruth  ellen,  and  karma  ester.  2010.  temporary  protected  status:  current 
+immigration policy and issues. washington, dc: congressional research service.
+
+79
+
+childrens migration to the united states from mexico and central america

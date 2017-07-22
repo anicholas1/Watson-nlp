@@ -1,0 +1,940 @@
+working together: building 
+successful policy and program 
+partnerships for immigrant 
+integration1
+
+els de graauw 
+baruch college, the city university of new york
+
+irene bloemraad 
+university of california, berkeley
+
+executive summary
+supporting  and  investing  in  the  integration  of  immigrants  and  their 
+children  is  critically  important  to  us  society.  successful  integration 
+contributes to the nations economic vitality, its civic and political health, 
+and its cultural diversity. but although the united states has a good track 
+record  on  immigrant  integration,  outcomes  could  be  better.  a  national, 
+coherent  immigrant  integration  policy  infrastructure  is  needed.  this 
+infrastructure  can  build  on  long-standing  partnerships  between  civil 
+society  and  us  public  institutions.  such  partnerships,  advanced  under 
+republican- and democratic-led administrations, were initially established 
+to  facilitate  european  immigrants  integration  in  large  american  cities, 
+and later extended to help refugees fleeing religious persecution and war. 
+in the twenty-first century, we must expand this foundation by drawing on 
+the growing activism by cities and states, new civil society initiatives, and 
+public-private partnerships that span the country.
+a  robust  national  integration  policy  infrastructure  must  be  vertically 
+integrated  to  include  different  levels  of  government  and  horizontally 
+applied  across  public  and  private  sector  actors  and  different  types  of 
+immigrant  destinations.  the  resultant  policy  should  leverage  public-
+private partnerships, drawing on the energy, ideas, and work of community-
+based  nonprofit  organizations  as  well  as  the  leadership  and  support  of 
+philanthropy, business, education, faith-based, and other institutions. a 
+new coordinating office to facilitate interagency cooperation is needed in 
+the executive branch; the mandate and programs of the office of refugee 
+resettlement need to be secured and where possible expanded; the outreach 
+and  coordinating  role  of  the  office  of  citizenship  needs  to  be  extended, 
+including  through  a  more  robust  grant  program  to  community-based 
+
+1   we are indebted to donald kerwin and philip wolgin for helpful feedback. the authors are equal co-
+authors.
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 1 (2017): 105-123organizations; and congress needs to develop legislation and appropriate 
+funding for a comprehensive integration policy addressed to all, and not 
+just humanitarian immigrants.
+the federal investments in immigrant and refugee integration we propose 
+are a big ask for any administration; they seem especially unlikely under 
+the trump administration, whose efforts focus on enforcement and border 
+control, targeting undocumented and legal immigrants alike. yet immigrant 
+integration is not and should not be a partisan issue. federal politicians 
+across the political spectrum need to realize, as many local officials and 
+a  large  segment  of  the  public  already  do,  that  successful  immigrant 
+integration  is  a  win-win  for  everybody.  when  immigrants  have  more 
+opportunities to learn english, to improve their schooling and professional 
+training, to start businesses, and to access citizenship, we all benefit. a 
+majority  of  the  american  public  supports  immigrant  integration,  from 
+proposals for learning english to a path to citizenship for undocumented 
+immigrants.  local  and  state  governments  are  setting  up  initiatives  to 
+promote integration. if the federal government will not act, cities, states, 
+and civil society organizations must continue to work together to build an 
+integration infrastructure from the bottom up. 
+
+i. introduction
+the  united  states  welcomes  hundreds  of  thousands  of  newcomers  every  year.  yet  it 
+lacks a national, coherent immigrant integration policy. officials in the us government 
+accountability office note that no single federal entity has been designated to lead the 
+creation, implementation, and coordination of a national immigrant integration capability 
+(gao 2011, 25). academics have characterized the american approach as laissez-faire 
+integration  or  a  patchwork  of  policies  (bloemraad  2006;  bloemraad  and  de  graauw 
+2012a-b; de graauw 2016a; heisler 1992; jimnez 2011; schmidt, sr. 2007). in the media, 
+whether today or a century ago, integration is represented by horatio alger-type stories 
+of poor immigrants achieving the american dream through individual hard work and the 
+support of family and friends. the twentieth-century andrew carnegie, a poor scottish 
+immigrant  turned  steel  industry  tycoon  and  philanthropist,  is  the  equivalent  of  todays 
+silicon valley giant sergey brin, the google co-founder born in russia, or entrepreneurs 
+do won and jin sook, the korean-born husband and wife team who founded the fashion 
+chain forever 21 with $11,000 and high school educations. in these narratives of immigrant 
+integration, the role of government is largely absent.
+such a laissez-faire approach is short-sighted in its depiction of the past and, critically, as a 
+roadmap for the future. laissez-faire narratives do not acknowledge that for over a century 
+governmental actors in the united states have played a role in immigrant integration. these 
+efforts have expanded notably over the last decade, especially at the local and state levels, 
+producing diverse partnerships between civil society and federal, state, county, and local 
+governments around immigrant settlement. the failure to build on these foundations means 
+that immigrant integration outcomes will fall short of what they could be, to the detriment 
+
+106
+
+journal on migration and human securityof the nation as a whole. in many respects the united states can be proud of its record of 
+incorporating newcomers, as a recent national academy of sciences report makes clear 
+(waters and pineau 2016), but comparisons with other countries show that benchmarks fall 
+short at times, especially around naturalization, economic self-sufficiency, and residential 
+integration (alba and foner 2015; oecd and eu 2015; vigdor 2011). a more deliberate 
+federal role in a comprehensive immigrant integration strategy is critical for improving 
+immigrants societal integration.
+we argue for the development of an integrated policy. such a policy should apply nationally 
+and link to current city, county, and state settlement infrastructures and initiatives, as well as 
+to existing civil society efforts. where local integration initiatives do not yet exist, the new 
+federal policy would provide goals, best practices, and funding to establish local programs 
+and support infrastructures. building on successes in refugee resettlement and the growing 
+number  of  city  and  state  immigrant  affairs  offices,  the  resultant  policy  would  leverage 
+public-private partnerships, drawing on the energy, ideas, and work of community-based 
+nonprofits  as  well  as  the  leadership  and  support  of  philanthropy,  business,  education, 
+faith-based, and other institutions. such partnerships would allow for local innovation and 
+tailoring programs to the unique needs of a particular community, while a national scope 
+would ensure baseline settlement support across the country as part of a cohesive vision for 
+successful immigrant and refugee integration in the united states.
+in what follows, we first discuss immigrant integration in the twentieth century, highlighting 
+historic examples of public-private partnerships to build on today. we next outline immigrant 
+integration efforts in the twenty-first century, highlighting the increased activism of city 
+and  state  governments,  the  creation  of  new  civil  society  initiatives  and  public-private 
+partnerships, and recent federal interest in immigrant integration. we conclude by making 
+the case for a more robust national integration policy infrastructure, one that is vertically 
+integrated to include different levels of government and horizontally applied across public 
+and private sector actors and different types of immigrant destinations. by working together 
+with federal leadership and support, we can build nationwide partnerships for immigrant 
+integration  that  lay  the  groundwork  for  many  success  stories,  for  newcomers  and  the 
+communities in which they reside.
+
+ii.  twentieth  century  integration:  laissez-faire  with 
+public-private partnerships
+immigrant integration during  the twentieth century is  often portrayed as  a  laissez-faire 
+process  relying  primarily  on  grassroots  initiative,  not  public  planning  or  government 
+intervention (e.g., jimnez 2011; schmidt, sr. 2007). immigrants became part of american 
+society by using their own resources and ingenuity, the help of family and friends, and  
+on occasion  the assistance of local community organizations. there is much truth in 
+these narratives. immigrants could count on an expanding industrial economy and a robust 
+public education system to help them and their children secure economic mobility and a 
+comfortable middle-class lifestyle, but government was otherwise not proactive in creating 
+or promoting integration pathways. just as the invisible hand of laissez-faire capitalism 
+was assumed to produce a self-regulated market based on the individual actions of many 
+people, the individual actions of immigrants eager for a better life in the united states were 
+
+107
+
+working together: building successful policy and program partnershipsassumed to function as the invisible hand in immigrants societal integration (bloemraad 
+and de graauw 2012a).
+
+a. 
+
+immigrant  organizations,  settlement  houses,  and 
+
+americanization efforts: organized assistance before world war ii
+laissez-faire  narratives  ignore,  however,  longstanding  american  partnerships  between 
+civil society and public institutions. within immigrant communities, immigrant-run private 
+charities  and  voluntary  organizations  have  long  helped  compatriots  get  a  job,  secure 
+business  loans,  encourage  citizenship,  or  provide  food,  clothing,  and  funeral  benefits 
+during tough times. starting in the late nineteenth century, us-born social reformers also 
+became involved, setting up settlement houses. first established in new york, chicago, 
+and boston, by 1911, 413 such institutions were tallied across 32 states, the district of 
+columbia, and the hawaiian islands (woods and kennedy 1911, vi). usually funded by 
+religious groups, charitable associations, and wealthy residents, settlement houses targeted 
+the poor, including many immigrants in large american cities in the midwest and northeast. 
+these organizations, within and outside immigrant communities, built a tradition of civil 
+society engagement that continues to this day (de graauw 2016a).
+as settlement houses spread, so did the americanization movement. it brought governments 
+from the local to federal levels into integration efforts, often in partnership with charitable 
+groups,  businesses,  social  reformers,  and  local  school  boards.  their  efforts  were  often 
+paternalistic, nativist, and coercive (higham 1994 [1955]), but at times could be benign 
+and  supportive.  rather  than  laissez-faire,  public  institutions  engaged  with  local  and 
+immigrant partners. for example, the us board of education established a division of 
+immigrant education that funded english language, literacy, and civics instruction, while 
+the  us  bureau  of  naturalization  partnered  with  school  officials  to  identify  adults  who 
+might benefit from citizenship classes (king 2000, 87-120; schneider 2001).
+some early government initiatives came with resources. over four-fifths of state legislatures 
+in the northeast and midwest passed legislation with funding support for adult english and 
+citizenship classes in the interwar period; in 1927-1928, these states allocated, on average, 
+$1.42 per alien resident for naturalization education (fox 2012; fox and bloemraad 2015, 
+193). at about $19.50 per noncitizen in 2016 dollars, today this would be the equivalent of 
+the federal government spending over $440 million on the almost 22.6 million noncitizens 
+living  in  the  country.  in  2016,  however,  the  us  citizenship  and  immigration  services 
+(uscis) awarded less than $10 million in grants to 46 organizations through the uscis 
+citizenship and integration grant program.2
+
+b. post-war partnerships for successful integration: the case of 
+
+refugee resettlement
+refugee resettlement offers another public-private collaborative framework for integration, 
+one  that  built  on  pre-war  organizations.  the  oldest  voluntary  agency  still  engaged  in 
+2    see  https://www.uscis.gov/about-us/citizenship-and-integration-grant-program.  data  on  the  noncitizen 
+population of the united states is from the 2015 american community survey, one-year estimates, available 
+at https://factfinder.census.gov.
+
+108
+
+journal on migration and human securityrefugee resettlement today is the hebrew immigrant aid society, founded in new york 
+city in 1881 to assist jews fleeing pogroms in russia and eastern europe. other private 
+resettlement  organizations,  with  religious  or  secular  roots,  sprung  up  in  the  1930s  and 
+1940s as europe descended into fascism, communist purges, and war (zucker and zucker 
+1987). working overseas and in the united states, these groups became major players in 
+refugee resettlement after world war ii, settling hundreds of thousands of people largely 
+using private resources (holman 1996). their efforts led the federal displaced persons 
+committee to speak approvingly of the religious and welfare organizations through whose 
+cooperative activities so many of the displaced persons have come to the united states 
+and which have rendered a most commendable service in partnership with displaced 
+persons commissions or committees in 33 us states (dpc 1950, 22, 25).
+after world war ii, the relationship between voluntary agencies and government gradually 
+became more permanent, including professionalized services by nonprofits and increased 
+government funding and oversight. after thousands of hungarian refugees arrived in 1956, 
+the federal government offered voluntary agencies $40 per person to defray transportation 
+costs (holman 1996, 6). in 1959, the influx of cuban emigrs in miami severely strained 
+local, county, and state capacity to secure housing, jobs, and schools. in response, congress 
+passed the migration and refugee assistance act in 1962, the first federal law authorizing 
+and financing domestic refugee assistance, although it restricted support to cubans in miami 
+(holman 1996). however, when the fall of saigon sent 130,000 southeast asian refugees 
+to the united states, congress drew on similar authority and logic to pass the indochina 
+migration  and  refugee assistance act  of  1975.  it  established  a  program  giving  states 
+federal funds to provide medical assistance and financial support to needy refugees and to 
+finance integration programs such as english language and employment training. the 1976 
+indochinese refugee children assistance act reimbursed states for education and special 
+language instruction costs.  unlike the prior program for  cubans,  these initiatives were 
+national. another wave of organizations, often termed mutual assistance associations, were 
+founded to provide linguistically and culturally appropriate services in refugees places of 
+settlement. in the late 1970s, congress reauthorized federal resettlement assistance, while 
+oversight of funding and programs moved around among federal agencies.
+in  1980,  congress  enacted  the  refugee act  to  end  the  ad  hoc,  patchwork  approach  to 
+refugee admissions and settlement. in addition to providing a uniform procedure for refugee 
+admissions, the act permanently authorized federal assistance to promote refugees self-
+sufficiency and established the office of refugee resettlement (orr) in the us department 
+of health and human services (dhhs). an early assessment concluded that calling this 
+a single program would be a misnomer, as it was more accurately a complex web of 
+federal government, voluntary agency, and state and local government roles that provide 
+the overall framework for resettlement efforts (haines 1985, 7). despite the challenges of 
+a policy and programmatic web developed in fits and starts, it nonetheless has served as a 
+valuable safety net from which refugees could establish themselves, a support structure not 
+available to economic or family-sponsored migrants facing similar integration challenges.
+today, the web of federal, voluntary sector, state and local partnerships around refugee 
+resettlement continues, with a focus on getting refugees to economic self-sufficiency as soon 
+as possible. the us department of states (doss) bureau of population, refugees, and 
+
+109
+
+working together: building successful policy and program partnershipsmigration funds cooperative agreements with a range of public and private organizations 
+to facilitate initial settlement through the us reception and placement program. in 2016, 
+a refugee helped by one of the nine contracted voluntary agencies would be greeted at 
+the  airport  and  brought  to  a  furnished  residence  stocked  with  some  clothes,  culturally 
+appropriate foods, and other necessities. someone from the agency would provide referral 
+services and practical assistance, from applying for a social security card and registering 
+children for school to helping arrange medical appointments, enroll in english language 
+classes,  find  employment,  or  use  local  public  transportation.  under  the  2017  program, 
+dos provides agencies with $2,025 per refugee, amounts often supplemented with agency 
+contributions from other public and private sources since grants are often inadequate to 
+cover costs fully (dos 2016).
+a second set of programs administered by orr provides transitional settlement assistance 
+to refugees and other designated humanitarian groups.3 orr programs provide formula 
+grants to states to provide refugees with cash and medical assistance, and offer grants to a 
+range of government and voluntary sector partners to fund social and employment services. 
+partners can include public agencies, faith-based or secular nonprofits, and ethnic-specific 
+mutual  assistance  associations,  many  of  which  also  contribute  matching  or  in-kind 
+resources. in the 2015 fiscal year, congress voted $1,559,884,000 in appropriations for 
+orr programs, much of it for cash and medical assistance (bruno 2015, 8). when the 
+refugee assistance program was first established in 1980, federal assistance was available 
+for up to 36 months. since 1991, refugees are funded for just eight months, often too short 
+a period to secure economic self-sufficiency for refugees with limited education or arriving 
+with physical or mental trauma (bruno 2011; nawyn 2011).
+
+c. a threadbare patchwork for other immigrants
+
+the policy and programmatic web of refugee resettlement faces challenges in integrating 
+humanitarian migrants, especially as orrs capacity was stretched serving unaccompanied 
+minors from central america. however, the refugee infrastructure is still more cohesive 
+and extensive than the threadbare, loose patchwork of integration initiatives in place for 
+other immigrants. most non-refugee immigrants come to the united states under family 
+reunification provisions of the 1965 immigration and nationality act. these newcomers 
+can call on their families for initial settlement support, but individual families can only 
+do so much. more sustained public support is necessary for optimal long-term integration 
+outcomes.
+we might expect the main federal agency responsible for immigration to provide leadership 
+on integration. but throughout much of the post-wwii period, the us immigration and 
+naturalization service (ins) did not engage in proactive immigrant integration work. at 
+most,  it  oversaw  the  administration  and  adjudication  of  naturalization,  which  included 
+providing public information on how to become a citizen. the ins generally assumed 
+that  those  granted  permanent  residence  through  employment  preferences  had  the  skills 
+necessary to integrate, while those sponsored by family could turn to them for help. indeed, 
+3   immigration and nationality act  412(c), (e). groups eligible for refugee resettlement include official 
+refugees  under  the  act,  successful  asylum  applicants,  cuban  and  haitian  entrants,  trafficking  victims, 
+amerasians and immediate family, and iraqi and afghan special immigrants (bruno 2011, 3-4).
+
+110
+
+journal on migration and human securityunlike the partnerships that characterized refugee resettlement, the ins did not have legal 
+authority  to  act  as  a  grant-making  agency  (bloemraad  2006,  126).  when  former  ins 
+commissioner doris meissner tried to orient the agency to a more proactive stance, the 
+citizenship usa program came under attack as a partisan effort to naturalize potential 
+democratic party supporters in advance of the 1996 presidential election (oig 2000).
+when the us department of homeland security was created by the bush administration in 
+2002 to replace the ins, congressional legislation included a provision to establish a new 
+office of citizenship within uscis. this offices mission is to provide federal leadership, 
+tools,  and  resources  to  proactively  foster  immigrant  integration  (office  of  citizenship 
+2017). much of its work centers on providing naturalization information, but in a break with 
+ins practice, the office also aims to build community capacity to prepare immigrants for 
+citizenship. this includes funding for collaboration with community-based organizations and 
+other partners to welcome immigrants, promote english-language learning, communicate 
+the rights and responsibilities of citizenship, and encourage naturalization. the demand for 
+these citizenship and integration grants far outstrips available funding, however. in 2009, 
+when the program started, there were 293 applications for $1.2 million in grants, with only 
+13 organizations eventually funded (waters and pineau 2016, 177). from 2009 to 2016, the 
+program awarded a total of $63 million, averaging less than $8 million per year, roughly 
+half a percent of allocations for refugee resettlement.4
+beyond  the  uscis  grant  program,  a  patchwork  of  other  integration  initiatives  exists. 
+the white  house task  force  on  new americans  (2015b,  50)  identified  58  immigrant 
+integration  programs  administered  by  10  different  federal  agencies.  of  course,  once 
+naturalized,  immigrant-origin  citizens  can  access  the  same  programs  as  native-born 
+citizens.  but  before  citizenship,  immigrants  can  also  sometimes  get  help  under  federal 
+policies that seek to increase the life chances of economically disadvantaged us residents. 
+federal education laws help english-language learners. federal civil rights laws protect 
+against discrimination in housing and the workplace and seek to promote greater ethno-
+racial and gender equality through preferential hiring and contracting policies. federal labor 
+and employment law protections  including minimum wage and overtime provisions, 
+workplace safety standards, and union organizing rights  generally apply to all workers 
+regardless  of  citizenship  and  documentation  status.  important  safety  net  policies   
+including temporary aid to needy families, the childrens health insurance program, 
+medicaid, food stamps, and supplemental security income  extend to legal immigrants 
+with a minimum of five years of us residence. other programs have a citizenship criterion, 
+rendering  them  unavailable  to  undocumented  immigrants  or  legal  immigrants.  these 
+restrictions generate significant integration vulnerabilities for immigrants in their first five 
+years in the united states, years that are critical in accessing good jobs, safe housing, 
+and opportunities to become socially integrated. thus, while mainstream policies at times 
+support legal immigrants, they do not amount to a coherent national program of immigrant 
+integration, especially as most are tailored with native-born residents in mind (bloemraad 
+and de graauw 2012a-b).
+more broadly, the federal government offers some baseline constitutional protections that 
+encompass all people living in the united states and that also frame the rights and societal 
+
+4   on grants awarded, see https://www.uscis.gov/about-us/citizenship-and-integration-grant-program. 
+
+111
+
+working together: building successful policy and program partnershipsintegration of immigrants. the fourteenth amendment to the us constitution guarantees 
+due process and equal protection to any person, and it guarantees the birthright citizenship 
+for any child born in the united states, thereby rupturing the intergenerational transmission 
+of noncitizenship or undocumented status. the us supreme courts plyler v. doe (1982) 
+decision guarantees that all children  including those who are undocumented  have 
+the right to a free and equal k-12 public education. public schools are important engines 
+for immigrant integration because it is there that children learn english, american history 
+and civics, and it is one of the first entry points where immigrant parents interact with their 
+broader community. in short, despite laissez-faire narratives, existing public policies and 
+programs do influence immigrant integration. but much more can be done, a challenge 
+increasingly taken up over the last decade by local and state governments and civil society 
+organizations.
+
+iii. twenty-first century integration: growing subnational 
+leadership,  new  public-private  partnerships,  and 
+increased federal attention
+the twenty-first century ushered in new dynamics in immigrant integration policy and 
+programs. we see growing activism by cities and states, the launch of new civil society 
+initiatives and public-private partnerships spanning the country, and some federal interest 
+in immigrant integration. these developments provide an important foundation on which 
+to build a more cohesive federal integration policy.
+
+a. growing municipal and state leadership
+
+in  2014,  nashville  mayor  karl  dean  launched  the  office  of  new americans  to  serve 
+the metro areas immigrant residents, signing an executive order surrounded by council 
+members, department heads, members of the local chamber of commerce, and nonprofit 
+partners. although not a historic immigrant destination, nashville joins a growing number 
+of cities and states that have created new programs and institutions to promote the integration 
+of  new  residents.  in  2016,  41  us  cities  had  a  total  of  44  formalized  offices  dedicated 
+to immigrant affairs or immigrant communities (de graauw 2016b). these offices have 
+different names, including the office of new bostonians in boston, the mayors office 
+of immigrant affairs in new york city and atlanta, the office of international relations 
+and diaspora affairs in newark, and the office of new americans in chicago, houston, 
+buffalo, and nashville. and while most states have long had offices and programs serving 
+refugees, in 2016 there were five states  california, illinois, massachusetts, michigan, 
+and  new york    with  offices  or  staff  mandated  to  serve  immigrant  populations  more 
+broadly. the oldest office with an exclusive focus on immigrant issues, created in 1986, 
+is in new york city, which also is the biggest and best resourced office, with over 50 full-
+time staff. in contrast, the vast majority of other city offices, and all state offices, were set 
+up in the last 10 years, as in nashville. they are less institutionalized, have fewer paid staff, 
+and operate on more limited budgets.
+beyond formal offices, at least 90 municipalities have developed commissions, committees, 
+councils, task forces, boards, initiatives, and programs dedicated to immigrant issues or 
+
+112
+
+journal on migration and human securityimmigrant communities (de graauw 2016b). examples include the immigrant integration 
+task  force  in  charlotte,  the  welcoming  immigrant  task  force  in  tucson,  the  new 
+americans task force in lincoln, the commission on immigrant affairs in austin, and the 
+welcoming city initiatives in dayton, columbus, and pittsburgh. these bodies generally 
+have fewer explicit powers, fewer staff and resources, or a narrower, finite set of tasks 
+than  formal  offices. they  can,  however,  be  an  important  stepping  stone  toward  further 
+institution-building.  together,  city  and  state  immigrant  affairs  offices  and  these  other 
+municipal bodies demonstrate how the new push for immigrant integration in the united 
+states is coming from lower levels of government, not the federal government. executive 
+leadership is clearly central: mayors and governors, not legislatures, have created these 
+offices and other bodies.
+integration projects are being advanced in a great variety of cities spanning the country. 
+most  big  cities  (and  traditional  gateway  states)  now  have  immigrant  affairs  offices, 
+including longstanding immigrant gateways such as boston, chicago, los angeles, new 
+york city, and san francisco. however, offices also exist in newer destinations, including 
+atlanta, nashville, orlando, and washington, dc, and in former and reemerging immigrant 
+destinations,  such  as  baltimore,  buffalo,  denver,  detroit,  and  philadelphia.  immigrant 
+affairs offices also can be found in cities with smaller populations, such as allentown, 
+pa (117,942 residents) as well as in cities with foreign-born populations well below the 
+national  average  of  13  percent,  such  as  detroit  (5%  foreign-born  residents).  executive 
+leadership is important, but not necessarily in a top-down imposition disconnected from 
+electoral  support. although  nine  offices  (20%  or  9/44)  operate  in  cities  with  council-
+manager forms of government, most offices (73% or 32/44) are in cities with mayor-council 
+forms of government, where the mayor has an independent electoral base. a bit over half 
+of city immigrant affairs offices (59% or 26/44) are located in states where the majority of 
+voters are democrat, but they can also be found in states with wide-ranging climates on 
+immigration issues. they are found in arizona, the state with the most negative climate 
+for immigrants (with an immigrant climate index of -60) and in california and illinois, 
+the two states with the most positive climates for immigrants (with indexes of 33 and 38, 
+respectively).5
+several  common  factors  underlie  the  recent  surge  in  immigrant  affairs  offices.  their 
+establishment  follows  the  decades-long  growth  of  the  foreign-born  population  in  the 
+united states and immigrants greater geographic dispersion since the late 1990s. it also 
+responds to the lack of attention to integration by federal officials, who have focused on 
+enforcement and border control. many cities and states are stepping into the policy void, 
+often because they feel they have no choice. city and state officials are tasked with devising 
+and implementing public policies that promote a productive local economy and a healthy 
+and  safe  environment  for  all;  they  feel  that  they  cannot  ignore  the  needs  and  interests 
+of growing immigrant communities in their jurisdictions. in announcing the creation of 
+the  nashville  office  of  new americans,  the  mayor  underscored  that  nearly  60  percent 
+of the citys population growth since 2000 came from immigration, new americans are 
+overrepresented in four of nashvilles 10 largest industries, and a third of children under 18 
+
+5   the immigrant climate index sums up each states environment for immigrants, positive and negative, by 
+quantifying immigration laws enacted by states as well as cities and counties in each state between 2005 and 
+2009. see pham and van (2014) for more detail on the construction of the index.
+
+113
+
+working together: building successful policy and program partnershipsin the metro area live in bilingual or non-english speaking households.6 the growth in city 
+immigrant affairs offices is also the result of the wider availability of technical assistance and 
+support from organizations and coalitions dedicated to promoting immigrant integration at 
+the municipal level. one example is welcoming america, a nonprofit organization created 
+in 2009 and headquartered in the atlanta area that has worked with over 70 municipalities 
+and  40  nonprofits  nationwide  to  build  communities  that  foster  immigrant  integration 
+(welcoming america 2017).
+we can also identify commonalities in what these offices do and seek to accomplish. they 
+aim to welcome immigrants and foster positive public discourse. to this end, they convene 
+local stakeholders  law enforcement and other city officials, nonprofit service providers, 
+immigrant advocacy organizations, religious institutions, and business organizations  
+to facilitate interaction between immigrants and native-born residents. immigrant affairs 
+offices also make the case that immigrants are of current and future economic importance to 
+cities, metropolitan areas, and states. they publicize immigrants economic contributions 
+and develop initiatives to retain immigrant talent and support immigrant entrepreneurs. 
+they streamline existing city and state integration services, and they encourage immigrant 
+civic engagement, invest in immigrant leaders, and nurture new community organizations 
+that serve immigrants. such efforts can start small with citizenship ceremonies, diversity 
+and  multicultural  celebrations,  and  recruiting  volunteers  for  city  events.  resources 
+permitting,  immigrant  affairs  offices  can  also  spearhead  grander  initiatives  that  include 
+social change fellowships to cultivate new civic leadership. more institutionalized offices 
+also develop new policies such as language access and municipal id card legislation and 
+initiatives to help implement, locally, the federal deferred action for childhood arrivals 
+and naturalization programs. in sum, cities and states have developed different policies and 
+practices that provide immigrants, including the undocumented, opportunities for inclusion 
+and a sense of belonging even in the absence of federal legalization and integration policies 
+(de graauw 2016; suro 2015).
+the experiences of city and state immigrant affairs offices highlight several challenges. 
+key is the lack of resources to get things done. limited staff and small budgets hamper 
+most offices ability to develop new initiatives, especially as municipal and state budgets 
+remain under stress. the struggle to survive and justify their existence, especially in places 
+where  there  is  opposition  to  immigration,  can  detract  from  efforts  to  move  the  needle 
+on  immigrant  integration.  the  federal  division  of  powers  also  constrains  city  offices, 
+and even state initiatives, as does the fact that determination of legal status  whether 
+citizenship through naturalization, legalization of undocumented residents, or temporary 
+protection from deportation  must emanate from the federal government. without federal 
+immigration reform and a cohesive national integration program, the impact of city and 
+state immigrant affairs offices will have limits.
+for immigrant affairs offices to succeed, their staff need to tap into the existing knowledge, 
+practice, and culture within immigrant communities in their cities and states. sustained 
+collaborations  between  immigrant  affairs  offices  and  community  organizations  carry 
+
+6   see new americans in nashville: a snapshot of the foreign-born population, a factsheet distributed 
+with  the  press  release  for  the  new  office,  available  at  https://www.nashville.gov/portals/0/sitecontent/
+mayorsoffice/docs/news/140922-mona-factsheet.pdf. 
+
+114
+
+journal on migration and human securitymany  benefits.  for  immigrant  affairs  offices,  such  collaborations  enable  them  to  learn 
+about needs in immigrant communities, so they can develop appropriate programs and 
+initiatives to respond. for community organizations, such collaborations open access to 
+municipal and state decision makers and possibly to funding to support their work. finally, 
+for immigrants, these collaborations offer a helping hand and opportunities to be engaged 
+in local and state civic and political affairs. these collaborative benefits are constrained, 
+however,  in  newer  immigrant  destinations  with  fewer  potential  partner  organizations. 
+those jurisdictions require investments to nurture new community organizations and build 
+capacity  for  immigrant  integration.  here  we  see  openings  for  the  federal  government, 
+philanthropic organizations, and even the business sector to get involved.
+
+b. new public-private partnerships and increased federal interest
+in  recent  years,  new  initiatives  have  also  sprouted  bringing  non-governmental  and 
+governmental actors from across the country together to address immigrant integration 
+issues. welcoming america, mentioned earlier, is one example. others include the national 
+partnership for new americans, a coalition created in 2010 of 37 regional immigrant and 
+refugee rights organizations spanning 31 states that work to influence integration policies 
+and practices at the local, state, and federal levels (npna 2017), and cities for action, a 
+large national coalition of 123 mayors and leaders from 20 county governments formed in 
+2014 to build stronger, welcoming, and inclusive cities through immigration action (cities 
+for action 2017). the new americans campaign (nac), launched in 2011 and funded 
+by a network of six national foundations, gives resources to nine national and over 100 
+local nonprofits to provide citizenship assistance to immigrants in 18 large metro areas 
+across the country. by mid-july 2015, nac-affiliated organizations had completed over 
+230,000 naturalization applications (nac 2016). and the partnership for a new american 
+economy, launched in 2010, is a coalition of 500 mayors and business leaders nationwide 
+who advocate for immigration reform and public and private programs that offer english-
+language,  civics,  and  educational  classes  to  immigrants  (pnae  2017).  absent  robust 
+federal engagement, city, county, and state leaders have teamed up in vertical and horizontal 
+networks with civil society organizations to further immigrant integration.
+these  are  all  bottom-up  initiatives  where  local  government  actors  and  grassroots  civil 
+society leaders, at times with significant foundation and business backing, have taken the 
+lead in building local, regional, and national momentum for immigrant integration. the 
+new public-private partnerships focus on policy innovation as well as immigrant leadership 
+development and improved, more efficient service delivery to immigrant communities. as 
+interactions between public and private sector actors have become more coordinated and 
+sophisticated, they have facilitated mutual learning and sharing of resources. there are 
+now regular convenings where city, county, and state leaders, funders, and practitioners 
+share best practices, including the annual meetings of the national immigrant integration 
+conference (since 2009) and the welcoming economies global network (since 2012), 
+focused on the midwest. all in all, we find a growing energy to sustain, expand, and scale 
+up municipal and state efforts and public-private partnerships for immigrant integration.
+the absence of a coherent, robust federal integration policy remains, but the new energy 
+and activism has not escaped federal attention. in 2006, president george w. bush created, 
+
+115
+
+working together: building successful policy and program partnershipsby  executive  order  13404,  the  task  force  on  new americans  to  investigate  ways  to 
+strengthen the efforts of the department of homeland security and federal, state, and 
+local  agencies  to  help  legal  immigrants  embrace  the  common  core  of american  civic 
+culture, learn our common language, and fully become americans. after little engagement 
+with local officials or grassroots organizations, the task force published its 84-page report 
+in december 2008. it recommended building a modern-day americanization movement, in 
+large part reiterating the integration philosophy and approach of the first americanization 
+movement  a  century  earlier  (dhs-tfna  2008).  the  report  emphasized  the  need  for 
+federal leadership and a national integration strategy that coordinates existing efforts by 
+local and state governments, community-based and civic organizations, public libraries, 
+adult educators, business organizations, and foundations. during its 2.5-year existence, the 
+task force provided some training and resources to public libraries, adult educators, and 
+immigrant-serving  organizations  narrowly  focused  on  civics  and  citizenship  education. 
+it  did  not  address  economic  integration  or  the  integration  challenges  of  undocumented 
+immigrants.
+similar  inquiry  and  advisory  efforts  characterized  the  next  administration.  in  2014, 
+president barack obama established, by presidential memorandum, the white house task 
+force on new americans, an interagency effort to create a coordinated and more deliberate 
+federal  strategy  for  immigrant  and  refugee  integration.  the  task  forces  strategic  plan, 
+published in april 2015, was developed by representatives from nearly 20 federal agencies 
+and drew on recommendations from 350 organizations and more than 1,000 members of 
+the public. it outlined 16 core goals and 48 recommendations to support the linguistic, 
+economic, and civic integration of immigrants and refugees (whtfna 2015b). unlike 
+the bush administration report, the plan provided a whole-of-society integration approach 
+that included a broad range of stakeholders. but like the prior task force, it was long on 
+recommendation and short on implementation beyond public services messages, webinars, 
+and  regional  convenings.  it  included  the  standing  stronger  citizenship  awareness 
+campaign  and  the  building  welcoming  communities  campaign,  which  consisted  of 
+a  series  of  convenings  to  support  local  integration  efforts  around  the  country.  the  us 
+small  business  administration  also  developed  a  new  website  to  promote  immigrant 
+entrepreneurship (whtfna 2015a). these initiatives provide baby steps forward but fall 
+short of the programs and resources required to realize a robust national integration policy 
+and infrastructure.
+
+iv. towards a robust and coherent national integration 
+policy
+what can we learn from past and current efforts? the laissez-faire approach, supplemented 
+with  growing  activism  by  non-governmental  actors  and  subnational  governments, 
+has certain advantages. in line with arguments for devolution in other policy areas, the 
+current system allows for local experimentation and innovation. even though immigration 
+increasingly affects many urban, suburban, and rural communities nationwide, different 
+locales are home to distinct immigrant and refugee communities that face diverse economic 
+conditions,  political  dynamics,  cultural  realities,  and  different  infrastructures  of  civil 
+society organizations. in a country as large and diverse as the united states, a one-size-fits-
+all approach to immigrant and refugee integration is neither possible nor desirable.
+
+116
+
+journal on migration and human securitylaissez-faire integration, with its emphasis on immigrant agency and the supportive role 
+of immigrant-led organizations, also minimizes the risk of paternalism and the idea that 
+immigrants culture needs to be erased for successful integration. in the early twentieth 
+century, native-born americanizers in government, public schools, business, and private 
+organizations  often  underestimated  immigrants  ability  to  devise  their  own  effective 
+integration pathways. instead, policies and practices were often culturally imperialistic 
+(carlson  1987),  focused  on  indoctrination  in  the american  way  (mcclymer  1978). 
+fueled by sentiments of nationalism and nativism, some initiatives denigrated immigrants 
+cultures of origin by advancing a one-way assimilation process. today, such a unilateral 
+approach  is  no  longer  acceptable  or  desirable. as  the  white  house  task  force  put  it,         
+[i]ntegration  is  a  dynamic  two-way  process;  what  immigrants  bring  with  them  helps 
+keep our country young, dynamic, and entrepreneurial (whtfna 2015b, 1, 6). moving 
+forward, we need to make sure that immigrants, refugees, and their organizations have the 
+ability to influence what integration policies look like and how they are implemented. if the 
+trump administration shuns integration policy, much can be done at local and state levels, 
+in partnership with civil society groups.
+under  the  current  system,  immigrant  integration  has  been  happening.  contemporary 
+immigrants  learn  english  faster  than  european  immigrants  did  a  century  ago,  and  the 
+majority  of  their  children  and  nearly  all  their  grandchildren  speak  only  english  (alba 
+2004).  over  time  and  across  generations,  they  improve  their  educational  attainment, 
+income, occupational status, and homeownership, and they tend to live in more integrated 
+urban and suburban neighborhoods (iceland and scopilliti 2008; kasinitz et al. 2008; park 
+and myers 2010; waters and pineau 2016). marriages between immigrants and native-
+born individuals sharply increased since 2000 (qian and lichter 2011). finally, since the 
+late 1990s, more immigrants have acquired us citizenship at a faster rate than in prior 
+decades, although naturalized citizens are still less likely to register and vote than native-
+born citizens (lee 2011). it is the case, though, that immigrant integration remains stratified 
+by immigrants educational and economic resources, racial inequalities, and legal status, 
+barriers preventing many immigrants from participating and contributing as fully as they 
+could (portes and rumbaut 2001; telles and ortiz 2008).
+indeed, despite important successes, the united states still fails to meet important integration 
+benchmarks,  which  comparisons  to  other  western  democracies  make  clear.  immigrant 
+naturalization, voter participation, and homeownership rates in the united states trail those 
+of canada and several european countries (oecd and eu 2015; vigdor 2011). compared 
+to  immigrants  in  many  european  countries,  immigrants  in  the  united  states  are  more 
+likely to live in poverty, experience sharper income inequality with native-born residents, 
+and experience workplace discrimination on the basis of race, ethnicity, or national origin 
+(oecd and eu 2015). data such as these highlight room for improvement. a national, 
+coherent integration program can play a vital role in ensuring that immigrants integration 
+is faster, easier, and more successful. studies highlighting the relationship between public 
+policies and immigrant integration suggest, for example, that helping immigrants learn 
+english, acquire citizenship, and secure better jobs enables them to earn higher incomes 
+and  thus  contribute  more  fully  to  the  economy  and  their  childrens  future  (e.g.,  biles, 
+burstein, and frideres 2008; enchautegui and giannerelli 2015). in canada, government 
+integration policies have facilitated immigrants naturalization and encouraged their civic 
+and political participation (bloemraad 2006).
+
+117
+
+working together: building successful policy and program partnershipswe thus advocate for a robust, comprehensive national integration policy and infrastructure 
+in the united states, one that is vertically integrated to include different levels of government 
+and  horizontally  applied  across  public  and  private  sector  actors  and  different  types  of 
+immigrant destinations. to that end, the federal government first needs to create a national 
+immigrant affairs office, building on the efforts of the bush and obama white house task 
+force reports. this new office would need dedicated staff and funding to oversee, develop, 
+and coordinate immigrant and refugee integration among federal departments and across 
+levels of government. the office would need to be centrally located, such as in the white 
+house, with direct lines of communication to the president and his advisors, so that it is 
+well-positioned to serve as the interagency liaison to all major federal, state, local, and civil 
+society integration stakeholders. its work and activities should be supported and monitored 
+by an intergovernmental and cross-sectoral advisory board that includes integration experts 
+from different levels of government, different private sector organizations, and different 
+immigrant communities from across the country.
+besides more centralized coordination of integration efforts from the executive branch, 
+existing programs need revisiting and expanding. for example, the dhhs office of refugee 
+resettlement should be renamed, and it should expand its activities to include longer-term 
+integration goals beyond an eight-month settlement period. the reimagined office should 
+work in close partnership with the national immigrant affairs office and highlight, in the 
+medium term, three to four integration goals, such as adult english-language instruction, 
+naturalization, and small business support, and develop a robust grant program open to civil 
+society organizations and subnational governments to provide direct services. congress 
+will need to appropriate the necessary resources for these efforts, especially since orr 
+already is struggling with budget shortfalls given humanitarian demands. if these programs 
+show early successes, the office can expand its programs to address other integration goals 
+and immigrant populations, including economic and family-sponsored immigrants.
+the office of citizenship in dhs should also expand its activities and set up more direct 
+lines of communication with and support to all 50 state governments and other interested 
+partners at the county and city levels. it should provide more seed funding  perhaps 
+with  complementary  support  from  the  philanthropic  sector    to  state,  county,  and 
+city  governments  that  want  to  establish  their  own  immigrant  affairs  offices.  within  its 
+mission to engage partners in welcoming immigrants, promoting english, providing civic 
+education, and encouraging citizenship, it should work with education officials at all levels 
+of government to provide free or low-cost instruction to immigrants wanting to acquire us 
+citizenship. it should work with community-based partners to expand the welcome to the 
+united states guide for new immigrants, making it accessible in more languages and a 
+variety of formats, including informational videos and social media apps.
+finally, congress needs to develop immigration reform legislation that includes funding 
+for a comprehensive integration policy. the goals and structure of future legislation can 
+be modelled on and expanded from already existing legislation on refugee resettlement 
+and integration in the immigration and nationality act, as amended by the 1980 refugee 
+act and other subsequent amendments. such legislation needs to address the integration 
+of all immigrants, including undocumented immigrants, who need to be provided a path 
+to legalization and citizenship. it also needs to invite collaboration with non-governmental 
+
+118
+
+journal on migration and human securityentities to leverage the energy, ideas, and work of community-based nonprofits as well as 
+the leadership and support of philanthropic, business, educational, faith-based, and other 
+institutions.
+the federal investments in immigrant and refugee integration we propose are a big ask for 
+any administration, but especially for the trump administration. the 10-point immigration 
+plan that donald trump campaigned on made no mention of integration and his executive 
+orders  in  the  early  days  of  the  administration  clearly  prioritize  enforcement,  increased 
+border  control,  and  restricted  admissions  of  refugees  and  immigrants,  making  any 
+immediate federal immigrant integration efforts improbable. the four-month suspension 
+of the refugee program and the reduction in the number of refugees to be admitted from 
+110,000 to 50,000 suggest that orr will be facing difficult times. congress has not yet 
+provided a clear or unified response, with democrats determined to undo trumps early 
+policies and republicans divided over how to respond.
+however,  the  administrations  decision  to  ignore  immigrant  integration  and  possibly 
+roll back the minimal federal integration infrastructure currently in place will be to the 
+detriment of all. majorities of americans think that immigration is a good thing for the 
+country, that undocumented immigrants should have access to a path to citizenship, and 
+that immigrants should learn to speak english (gallup poll 2017). the federal government 
+should take cues from public sentiment to embrace a more proactive role in immigrant 
+integration. when immigrants have more opportunities to learn english, to improve their 
+schooling and professional training, to start businesses, and to access citizenship, we all 
+benefit. more fully integrated immigrants and refugees boost the economy and strengthen 
+community cohesion (e.g., enchautegui and giannerelli 2015; sumption and flamm 2012). 
+these are integration outcomes that all americans, regardless of their partisan preferences, 
+will support.
+if the federal government will not act, cities, states, and civil society organizations must 
+continue  to  work  together  to  build  an  integration  infrastructure  from  the  bottom  up. 
+indeed, there is room for states, in particular, to take a more pronounced leadership role 
+on immigrant integration to complement the growing activism by local governments. we 
+must also focus on better knitting state, local, and civil society initiatives together and 
+creating more fora for developing and sharing best practices across sectors. there has been 
+a sharp increase in public and private interest in and action on immigrant integration issues 
+at the local and state levels, especially following the launch of the 2012 deferred action 
+for childhood arrivals program (de graauw and gleeson 2016; kerwin et al. 2017). this 
+work has been focused, however, on legal and administrative support for a sub-group of 
+the immigrant population, not the broader range of integration outcomes so important to 
+newcomers and the communities that welcome them. the subnational and cross-sectoral 
+capacity  to  facilitate  language  training,  job  placement,  immigrant  entrepreneurship, 
+positive  community  relations,  citizenship  acquisition,  and  a  host  of  other  opportunities 
+must be strengthened and expanded in the coming years, regardless of how the trump 
+administration and congress choose to proceed on immigrant integration.
+
+119
+
+working together: building successful policy and program partnershipsreferences
+alba, richard. 2004. language assimilation today: bilingualism persists more than in 
+the past, but english still dominates. working paper no. 111. san diego: center 
+for comparative immigration studies.
+
+alba,  richard,  and  nancy  foner.  2015.  strangers  no  more:  immigration  and  the 
+challenges  of  integration  in  north  america  and  western  europe.  princeton: 
+princeton university press. https://doi.org/10.1515/9781400865901. 
+
+biles, john, meyer burstein, and james frideres, eds. 2008. immigration and integration in 
+canada in the twenty-first century. kingston: school of policy studies, queens 
+university press.
+
+bloemraad, irene. 2006. becoming a citizen: incorporating immigrants and refugees in 
+
+the united states and canada. berkeley: university of california press.
+
+bloemraad, irene, and els de graauw. 2012a. diversity and laissez-faire integration in 
+the united states. in diverse nations, diverse responses: approaches to social 
+cohesion in immigrant societies, edited by paul spoonley and erin tolley, 35-57. 
+montreal and kingston: queens policy studies series, mcgill-queens university 
+press.
+
+_____. 2012b. immigrant integration and policy in the united states: a loosely stitched 
+patchwork. in international perspectives: integration and inclusion, edited by 
+james  frideres  and  john  biles,  205-31.  montreal:  mcgill-queens  university 
+press.
+
+bruno, andorra.  2015.  refugee  admissions  and  resettlement  policy.  washington,  dc: 
+
+congressional research service.
+
+_____.  2011.  u.s.  refugee  resettlement  assistance.  washington,  dc:  congressional 
+
+research service.
+
+carlson, robert a. 1987. the americanization syndrome: a quest for conformity. new 
+
+york: st. martin press.
+
+cities for action. 2017. our leaders. http://www.citiesforaction.us/our_leaders. 
+de  graauw,  els.  2016a.  making  immigrant  rights  real:  nonprofits  and  the  politics  of 
+
+integration in san francisco. ithaca: cornell university press.
+
+_____. 2016b. city immigrant affairs offices in the united states: taking local control 
+
+of immigrant integration. unpublished chapter; available from the author.
+
+de graauw, els, and shannon gleeson. 2016. how local stakeholders are implementing 
+the  deferred  action  for  childhood  arrivals  program.  in  scholars  strategy 
+network  key  findings. http://www.scholarsstrategynetwork.org/brief/how-local-
+stakeholders-are-implementing-deferred-action-childhood-arrivals-program. 
+
+dhs-tfna (us department of homeland security  task force on new americans). 
+2008.  building  an  americanization  movement  for  the  twenty-first  century:  a 
+
+120
+
+journal on migration and human securityreport to the president of the united states from the task force on new americans. 
+washington, dc: us government printing office.
+
+dos  (us  department  of  state).  2016.  fy  2017  notice  of  funding  opportunity 
+for  reception  and  placement  program  reception  and  placement  program. 
+washington, dc: dos, bureau of population, refugees, and migration. http://
+www.state.gov/j/prm/funding/fy2017/254909.htm. 
+
+dpc (displaced persons commission). 1950. third semiannual report to the president 
+and the congress, february 1, 1950. washington, dc: us government printing 
+office.
+
+enchautegui, mara, and linda giannarelli. 2015. the economic impact of naturalization 
+
+on immigrants and cities. washington, dc: urban institute.
+
+fox, cybelle. 2012. three worlds of relief: race, immigration, and the american welfare 
+state from the progressive era to the new deal. princeton: princeton university 
+press. 
+
+fox, cybelle, and irene bloemraad. 2015. beyond white by law: explaining the gulf 
+in  citizenship acquisition  between  mexican  and  european  immigrants,  1930. 
+social forces 94(1): 181-208. https://doi.org/10.1093/sf/sov009. 
+
+gallup poll. 2017. immigration. http://www.gallup.com/poll/1660/immigration.aspx. 
+gao  (us  government  accountability  office).  2011.  immigrant  integration:  u.s. 
+citizenship and immigration services could better assess its grant program. 
+gao-12-274.  washington,  dc:  gao.  http://www.gao.gov/products/gao-12-
+274. 
+
+haines, david w. 1985. refugees in the united states: a reference handbook. westport: 
+
+greenwood press.
+
+heisler, barbara schmitter. 1992. the future of immigrant incorporation: which models? 
+which  concepts?  international  migration  review  26(2):  623-45.  https://doi.
+org/10.2307/2547074. 
+
+higham, john. 1994 [1955]. strangers in the land: patterns of american nativism, 1860
+
+1925. new brunswick: rutgers university press.
+
+holman,  philip  a.  1996.  refugee  resettlement  in  the  united  states.  in  refugees  in 
+america in the 1990s: a reference handbook, edited by david w. haines, 3-27. 
+westport: greenwood press.
+
+iceland,  john,  and  melissa  scopilliti.  2008.  immigrant  residential  segregation  in 
+u.s.  metropolitan  areas.  demography  45(1):  79-94.  https://doi.org/10.1353/
+dem.2008.0009. 
+
+jimnez, toms r. 2011. immigrants in the united states: how well are they integrating 
+
+into society? washington, dc: migration policy institute.
+
+121
+
+working together: building successful policy and program partnershipskasinitz,  philip,  john  h.  mollenkopf,  mary  c.  waters,  and  jennifer  holdaway.  2008. 
+inheriting the city: the children of immigrants come of age. cambridge: harvard 
+university press.
+
+kerwin, donald, roberto suro, tess thorman, and daniela alulema. 2017. the daca era 
+and the continuous legalization work of the us immigrant-serving community. 
+new  york:  center 
+for  migration  studies.  http://cmsny.org/publications/
+legalization-report. 
+
+king,  desmond.  2000.  making  americans:  immigration,  race,  and  the  origins  of  the 
+
+diverse democracy. cambridge: harvard university press. 
+
+lee, james. 2011. u.s. naturalizations: 2010. washington, dc: department of homeland 
+
+security. www.dhs.gov/xlibrary/assets/statistics/publications/natz_fr_2010.pdf. 
+
+mcclymer, john f. 1978. the federal government and the americanization movement, 
+
+1915-24. prologue: the journal of the national archives 10(1): 23-41.
+(new  americans  campaign).  2016.  impact  and  successes.  http://
+newamericanscampaign.org/wp-content/uploads/nac_impact_and_success_
+june_2016.pdf. 
+
+nac 
+
+nawyn,  stephanie  j.  2011.  i  have  so  many  successful  stories:  framing  social 
+citizenship for refugees. citizenship studies 15(6-7): 679-93. https://doi.org/10
+.1080/13621025.2011.600072. 
+
+npna  (national  partnership  for  new  americans.  2017).  about  us.  http://
+
+partnershipfornewamericans.org/about-npna. 
+
+oecd (organisation for economic co-operation and development) and eu (european 
+union). 2015. indicators of immigrant integration 2015: settling in. paris: oecd 
+publishing.
+
+office of citizenship. 2017. about us. https://www.uscis.gov/citizenship/about-us. 
+oig (office of the inspector general). 2000. an investigation of the immigration and 
+naturalization services citizenship usa initiative. washington, dc: oig, us 
+department of justice. https://oig.justice.gov/special/0007/index.htm. 
+
+park,  julie,  and  dowell  myers.  2010.  intergenerational  mobility  in  the  post-1965 
+immigration  era:  estimates  by  an  immigration  cohort  method.  demography 
+47(2): 369-92. https://doi.org/10.1353/dem.0.0105. 
+
+pham, huyen, and pham hoang van. 2014. measuring the climate for immigrants: a 
+state-by-state analysis. in strange neighbors: the role of states in immigration 
+policy, edited by carissa byrne hessick and gabriel j. chin, 21-39. new york: 
+new york university press.
+
+pnae  (partnership  for  a  new  american  economy).  2017.  about.  http://www.
+
+renewoureconomy.org/about. 
+
+122
+
+journal on migration and human securityportes, alejandro, and rubn g. rumbaut. 2001. legacies: the story of the immigrant 
+second  generation.  berkeley/new  york:  university  of  california  press  and 
+russell sage foundation press.
+
+qian, zhenchao, and daniel t. lichter. 2011. changing patterns of interracial marriage 
+in a multiracial society. journal of marriage and family 73(5): 1065-84. https://
+doi.org/10.1111/j.1741-3737.2011.00866.x. 
+
+schmidt, sr., ron. 2007. comparing federal government immigrant settlement policies 
+in canada and the united states. american review of canadian studies 37(1): 
+103-22. https://doi.org/10.1080/02722010709481802. 
+
+schneider, dorothee. 2001. naturalization and united states citizenship in two periods 
+of mass migration: 18941930, 19652000. journal of american ethnic history 
+21(1): 50-82. 
+
+sumption, madeleine, and sarah flamm. 2012. the economic value of citizenship for 
+
+immigrants in the united states. washington, dc: migration policy institute.
+
+suro, roberto. 2015. california dreaming: the new dynamism of immigration federalism 
+and opportunities for inclusion on a variegated landscape. journal of migration 
+and human security 3(1): 1-25. https://doi.org/10.14240/jmhs.v3i1.41. 
+
+telles, edward e., and vilma ortiz. 2008. generations of exclusion: mexican americans, 
+
+assimilation, and race. new york: russell sage foundation press.
+
+vigdor, jacob l. 2011. comparing immigrant assimilation in north america and europe. 
+
+new york: manhattan institute for policy research.
+
+waters, mary c., and marisa gerstein pineau, eds. 2016. the integration of immigrants 
+
+into american society. washington, dc: national academies press.
+
+welcoming america. 2017. our network. https://www.welcomingamerica.org/programs/
+
+our-network#. 
+
+whtfna (white house task force on new americans). 2015a. white house task force 
+
+on new americans: one-year progress report. washington, dc: white house.
+
+.  2015b.  strengthening  communities  by  welcoming  all  residents:  a  federal 
+strategic  action  plan  on  immigrant  &  refugee  integration.  washington,  dc: 
+white house.
+
+woods, robert a., and albert j. kennedy, eds. 1911. handbook of settlements. new york: 
+
+russell sage foundation.
+
+zucker, norman l., and naomi flink zucker. 1987. the guarded gate: the reality of 
+
+american refugee policy. new york: harcourt brace jovanovich.
+
+123
+
+working together: building successful policy and program partnerships

@@ -1,0 +1,1054 @@
+temporary protected status after 
+25 years: addressing the challenge 
+of long-term temporary 
+residents and strengthening a 
+centerpiece of us humanitarian 
+protection
+
+claire bergeron1
+
+ executive summary
+since  1990,  the  united  states  has  offered  hundreds  of  thousands  of 
+noncitizens who are unable to return to their countries of origin because of 
+war or a natural disaster a vital form of humanitarian protection: temporary 
+protected status (tps). while a grant of tps does not place a noncitizen on 
+a path to permanent residence, tps recipients receive protection against 
+deportation  and  temporary  permission  to  live  and  work  in  the  united 
+states. nearly 25 years after the statutory creation of tps, however, the 
+use of the program has been the subject of some debate, largely because of 
+concerns over whether tps grants are truly temporary.
+this paper examines the legal parameters of tps and traces the programs 
+legislative  history,  exploring  congressional  intent  behind  its  creation. 
+while  acknowledging  that  extended  designations  of  tps  are  often  the 
+result of long-running international crises, the paper argues that extended 
+tps designations are problematic for two reasons. first, they run contrary 
+to congressional intent, which was to create a temporary safe haven for 
+individuals unable to return home due to emergency situations. second, 
+continued  grants  of  tps  status  effectively  lock  tps  beneficiaries  into  a 
+legal  limbo,  rendering  them  unable  to  fully  integrate  into  life  in  the 
+united states. 
+this paper considers several administrative and legislative fixes to align 
+the tps program with the goal of providing temporary protection to certain 
+individuals that do not meet the refugee definition, while also ensuring 
+
+1  claire bergeron will graduate georgetown university law center in may of 2014 and will begin her 
+appointment as associate at wilmerhale in the fall. she is deeply grateful to georgetown university professor 
+susan martin, who played a critical role in the development of this paper. 
+
+ 2014 by the center for migration studies of new york. all rights reserved.jmhs volume 2 number 1 (2014): 22-43that long-term immigrants in the united states are fully able to integrate 
+into the fabric of the country. it considers:
+  amending the us definition of a refugee to enable more would-be tps 
+
+beneficiaries to qualify for asylum;
+
+  creating a new form of subsidiary protection for individuals who cannot 
+
+return home but do not meet the refugee definition;
+
+  permitting tps holders who have resided in the united states for a 
+certain number of years to adjust to lawful permanent resident (lpr) 
+status;
+
+  easing the ability of tps holders to take advantage of existing pathways 
+
+to permanent residence; and 
+
+  implementing repatriation programs to assist former tps holders in 
+
+returning to their countries of origin.
+
+this paper argues for the adoption of two of the above proposals. it asserts 
+that the best way to realign the tps statutory regime with congressional 
+intent and the united states tradition of promoting full integration of long-
+term immigrants is to allow persons who have held tps status for more 
+than ten years to adjust to lpr status, while implementing a repatriation 
+program for those with shorter-term grants of tps that have ended. 
+
+introduction 
+the united states has long positioned itself as a global leader in responding to humanitarian 
+emergencies and sheltering those who are forced to flee their countries of origin. in 2012, the 
+office of the united nations high commissioner for refugees (unhcr) reported that the 
+united states accepted just over 66,000 refugees for third-country resettlement, more than 
+twice the number accepted by all other third countries of resettlement combined (unhcr 
+2013, 163).  that same year, the united states granted asylum to 29,484 individuals who 
+sought refugee classification after arriving in the country (martin and yankay 2013, 1). 
+it also authorized the admission of up to 70,000 refugees in fy 2013,2 and an additional 
+70,000 in fy 2014.3 
+however,    us  refugee  law  is  ill-equipped  to  serve  as  a  protection  mechanism  for  the 
+vast majority of individuals fleeing violent or unsafe conditions at home, even when they 
+make it into the united states. us political asylum law is closely modeled after the 1951 
+convention relating to the status of refugees and the 1967 protocol relating to the status of 
+refugees. it stipulates that to be granted asylum, a foreign national must demonstrate past 
+persecution or a well-founded fear of future persecution on account of one of five protected 
+grounds: race, religion, nationality, political opinion, or membership in a particular social 
+
+2  77 fed. reg. 61507 (oct. 10, 2012). 
+3  78 fed. reg. 62415 (oct. 21, 2013). 
+
+23
+
+temporary protected status after 25 yearsgroup.4 an individual seeking asylum must also show that he or she has an individualized 
+fearone that is particular to him or her as an individualrather than generally applicable 
+to all nationals of a particular country (seltzer 1992, 779). as a result, individuals who 
+are not themselves individual targets of persecution, but who may have very real fears of 
+return, are excluded from the definition (martin, schoenholtz, and waller meyers 1997, 
+545).
+recognizing that there are often compelling reasons for granting protection to individuals 
+who might not otherwise meet the strict refugee definition, us presidents since president 
+eisenhower have granted temporary protection to foreign nationals in the united states who 
+are unable to return to their home countries because of extraordinary circumstances, such 
+as war or natural disaster.5 in 1990, congress expressly codified this practice by creating 
+temporary protected status (tps).6 yet, nearly 25 years after congress created tps, the 
+use of the program has been the subject of some debate. in particular, critics charge that 
+the us government has used tps to grant extended periods of legal status to otherwise 
+unauthorized immigrants, in contrast with congresss intent that the program be used only 
+for temporary protection (krikorian 2012). 
+finding a long-term solution to this challenge is vitally important at this juncture since the 
+demand for tps is likely to grow in the coming years. several scholars have noted that 
+displaced migrants are just as likely to be fleeing war, generalized violence, or famine as 
+individually-targeted persecution (millbank 2000). one recent report predicts an uptick in 
+political instability around the globe in the coming years (brown, 2013). meanwhile, as 
+the world adapts to climate change and global warming, an increasing number of refugee-
+triggering events will likely be environmental, rather than man-made, catastrophes (ota 
+2012, 515). in this context, many individuals fleeing harm will be unlikely to qualify for 
+refugee status or political asylum under us law because they will not be able to prove 
+that they have been individually targeted for persecution or would be targeted on account 
+of a protected ground.  for this reason, tps stands positioned to play a growing role in 
+providing humanitarian protection in the future. 
+
+temporary protected status on the ground: where did it 
+come from and what does it do?  
+under the immigration act of 1990, the secretary of the us department of homeland 
+security (dhs)7 is authorized to designate certain countries for tps when: 
+
+(a) [t]here is an ongoing conflict within [a] state and, due to such conflict, requiring 
+the return of aliens who are nationals of that state to that state (or to the part of the 
+state) would pose a serious threat to their potential safety; or 
+(b) (i) [t]here has been an earthquake, flood, drought, epidemic, or other environmental 
+
+4  ina  208(b)
+5  h.r. rep. no. 100-627, at 6 (1988). 
+6  pub. l. no. 101-649 (1990).
+
+24
+
+7  the 1990 immigration act originally delegated to the attorney general the ability to designate certain 
+countries for tps when they met the aforementioned criteria. this authority was transferred to the dhs 
+secretary through the homeland security act of 2002, pub. l. no. 107-296, 116 stat. 2135 (2002).  
+
+journal on migration and human securitydisaster  in  the  state  resulting  in  a  substantial,  but  temporary,  disruption  of  living 
+conditions in the area affected; (ii) the foreign state is unable, temporarily, to handle 
+adequately the return to the state of aliens who are nationals of the state; and (iii) the 
+foreign state officially has requested the designation; or 
+(c)  [t]here  exist  extraordinary  and  temporary  conditions  in  the  foreign  state  that 
+prevent aliens who are nationals of the state from returning to the state in safety, unless 
+the secretary finds that permitting the aliens to remain temporarily in the united states 
+is contrary to the national interest of the united states.8
+
+tps  status  is  granted  to  all  nationals  of  a  particular  country  based  on  the  countrys 
+conditions, rather than the situation of a particular individual (as with asylum). thus, tps 
+functions as a blanket form of relief for those who have left a particular nation (wasem 
+and ester 2010, 2). 
+pursuant to the law, an initial designation of a country for tps must be for no less than 
+six months, and no more than 18 months, though tps may be subsequently extended, or 
+a country may be re-designated.9 to qualify for a grant of tps, a noncitizen in the united 
+states must demonstrate that he or she has been continuously physically present in the 
+united states since the effective date of the most recent designation of his or her country of 
+origin for tps, and that he or she has continuously resided in the united states since a date 
+designated by the dhs secretary. an applicant must also register for tps in the timeframe 
+outlined by the dhs secretary and must be admissible as an immigrant.10
+individuals who would otherwise qualify for tps but who are inadmissible under section 
+212 of the immigration and nationality act (ina) generally may seek a waiver of their 
+ground of inadmissibility.  no waiver is available, however, for those who are inadmissible 
+by  virtue  of  having  committed  two  or  more  crimes  involving  moral  turpitude,  most 
+controlled substance offenses, and certain national security offenses. in addition, individuals 
+who have committed one felony or two or more misdemeanors, as well as those who have 
+engaged in the persecution of others, are statutorily barred.11 
+noncitizens  who  are  granted  tps  receive  work  authorization  and  protection  against 
+deportation.12 they may also apply for advance parole, which gives them the ability to 
+travel outside the united states and be readmitted.13 furthermore, noncitizens time in tps 
+status is not counted as unlawful presence for the purposes of subsequent immigration 
+applications.14 
+a grant of tps, however, does not lead to any permanent immigration status in the united 
+states. there is no legislation permitting tps holders to adjust their status to that of lawful 
+permanent residents (lprs); in fact, the 1990 immigration act expressly prohibited the 
+enactment of such legislation unless affirmatively approved by a three-fifths supermajority 
+of the senate.15
+
+8  ina  244(b)
+9  ina  244(b)
+10  ina  244(c)
+11  ina  244(c)
+12  ina  244(a)
+13  ina  244(f)
+14  ina  244(f)
+15  ina  244(h)
+
+25
+
+temporary protected status after 25 yearssince the enactment of the 1990 law, 19 countries have been designated for tps (wasem 
+and ester 2010, 3; uscis 2014). eight countriesel salvador, haiti, honduras, nicaragua, 
+somalia,  sudan,  south  sudan,  and  syriaare  currently  designated  (uscis  2014). 
+according to the most recent designations and extensions of tps in the federal register, an 
+estimated 340,310 people currently hold tps.16 us citizenship and immigration services 
+(uscis) also estimates that an additional 9,000 syrians may be eligible for tps as a result 
+of the us governments 2013 decision to re-designate syria and advance the date from 
+which eligible applicants must show that they have been continuously physically present 
+to june 17, 2013.17  
+
+tps legislative history: in search of a safe haven statute
+although  the  immigration act  of  1990  marked  the  first  time  that tps  was  codified  in 
+us  law,  the  united  states  had,  for  decades  before  1990,  granted  noncitizens  displaced 
+by  humanitarian  crises  or  environmental  disasters  a  form  of  protection  known  as 
+extended  voluntary  departure  (evd)  (frelick  and  kohnen  1995,  341).  evd  provided 
+an  administrative  mechanism  that  essentially  amounted  to  an  exercise  of  prosecutorial 
+discretion by the attorney general in deciding that individuals from certain countries would 
+not be pursued for removal. though the attorney general ultimately decided whether to 
+grant evd, recommendations for grants of evd originated with the secretary of state, 
+who would notify the attorney general that the situation in a particular country warranted 
+suspending  deportations  (seltzer  1992,  784-85).  between  1960  and  1990,  the  attorney 
+general granted evd to nationals of 16 countries, including iran, poland, afghanistan, 
+ethiopia, and uganda. the length of the deferral granted ranged from eight months, for 
+iran  (april  to  november  1979)  to  15  years,  for  lebanon  (february  1976  to  february 
+1991) (frelick and kohnen 1995, 341). following the 1989 tiananmen square massacre, 
+president george h.w. bush granted a similar administrative reprieve from deportation, 
+known as deferred enforced departure (ded) to certain chinese nationals (frelick and 
+kohnen 1995, 342). 
+by the early 1980s, however, concerns were mounting over the discretionary nature of 
+evd and its perceived uneven application to different countries (macpherson 1985). in 
+particular,  immigrant  advocates  expressed  concerns  over  the  reagan  administrations 
+refusal to grant evd to nationals of el salvador, despite growing evidence of political 
+instability and violence in that country (aclu 1984, 6-7). between 1981 and 1984, groups 
+and individuals ranging from the united states catholic conference, the archbishop of 
+washington, dc, the immigration & refugee program of the church world service, the 
+american civil liberties union (aclu), and united states senator edward kennedy (d-
+ma) lobbied for the extension of evd to salvadorans (aclu 1984, 6-7). executive branch 
+officials generally asserted that salvadorans in the united states were adequately protected 
+16  an estimated 212,000 of those beneficiaries are from el salvador (78 fed. reg. 32418 (may 30, 2013)), 
+while 64,000 are from honduras (78 fed. reg. 20123 (apr. 3, 2013)), and 58,000 are from haiti (79 fed. 
+reg. 11808, march 3, 2014)). there are approximately 3,000 tps recipients from nicaragua (78 fed. reg. 
+20128 (apr. 3, 2013)) and 2,600 from syria (78 fed. reg. 36223 (jun. 17, 2013)). the numbers from sudan 
+(78 fed. reg. 1872 (jan. 9, 2013)), south sudan (78 fed. reg. 1866 (jan. 9, 2013)), and somalia (78 fed. 
+reg. 65690 (nov. 1, 2013)) are all under 500.  
+
+17  78 fed. reg. 36223 (jun. 17, 2013).
+
+26
+
+journal on migration and human securityfrom persecution by us asylum law, and that most salvadorans were coming to the united 
+states for economic rather than political reasons (aclu 1984, 11). those lobbying for 
+evd for salvadorans charged that the decision not to grant evd was politically motivated. 
+they alleged that the true reason for the united states withholding of evd was that the 
+reagan administration generally supported the right-leaning salvadoran government (perl 
+1983).
+partly in hopes of remedying these concerns, in july 1987, congressman romano mazzoli 
+(d-ky) introduced the temporary safe haven act of 1987,18which was later re-introduced 
+the following year as the temporary safe haven act of 1988.19 the purpose of the bill, as 
+outlined in the 1988 house judiciary committee report recommending its passage, was to 
+replace the practice known as extended voluntary departure, under which aliens from 
+countries experiencing turmoil are allowed to remain temporarily, with a more formal and 
+orderly mechanism for the selection, processing and registration of such individuals.20 
+the report noted that while the committee was convinced of the need to provide temporary 
+protection or safe haven status to individuals who were fleeing danger but would not 
+meet the definition of a refugee, it was concerned about glaring deficiencies in the evd 
+program.21 these included the fact that: (1) the immigration and naturalization service 
+(ins) did not maintain figures on the number of persons granted evd; (2) the ins could 
+not effectuate the removal of those whose evd status was terminated because it did not 
+track their location; (3) the conditions under which a safe haven was granted, extended, 
+or terminated by the ins did not appear in any regulation, and were only conveyed to 
+congress and the public via press releases; and (4) there was nothing in the administrative 
+evd grants to prohibit terrorists, drug traffickers, intelligence agents, and even nazis 
+from being eligible for evd. 
+the temporary safe haven act of 1988 called for the creation of a new authorization to 
+remain temporarily (art) status, which the attorney general could bestow upon noncitizens 
+from  designated  countries.22 a  country  could  be  designated  when  the  attorney  general 
+determined that the foreign state was unable to accept the return of its nationals because 
+of  an  ongoing  armed  conflict,  a  natural  disaster,  or  other  extraordinary  or  temporary 
+conditions.23 individuals granted art would be protected against deportation and have the 
+ability to apply for work authorization, but they would not be eligible for public benefits.24 
+while  the  bill  ultimately  failed  to  pass  during  the  100th  congress,  its  text  formed  the 
+backbone of the new provision authorizing tps in the immigration act of 1990. 
+during the 101st congress (1989-1990), bills were introduced in the house to stay the 
+deportations and allow work authorization for several discrete groups of foreign nationals, 
+
+20  h.r. rep. no. 100-627, at 4 (1988).
+
+18  h.r. 4379, 100th cong. (1987).
+19  h.r. 2922, 100th cong. (1988).
+21  h.r. rep. no. 100-627, at 5 (1988).
+22  h.r. 2922, 100th cong. (1988).
+23  ibid. 
+24  ibid. 
+
+27
+
+temporary protected status after 25 yearsincluding salvadorans and nicaraguans,25 lebanese,26 and chinese nationals.27 these bills 
+also called for the creation of a new temporary protected status, which would include 
+temporary work authorization and protection against deportation for nationals of designated 
+countries.28 the concept of tps was eventually incorporated into the houses version of 
+the larger immigration act of 1990, which called for the creation of a new tps status and 
+the designation of four countries for three-year tps grants: el salvador, lebanon, liberia, 
+and kuwait.29 the companion bill in the senate contained no such provision.30 the final 
+version of the act signed into law on november 29, 1990 authorized the creation of tps 
+but designated only el salvador, and only for 18 months.31 
+absent from almost all of the congressional debates surrounding the creation of tps was 
+any reference to how to treat tps recipients when tps status was perpetually extended. 
+the house-senate conference report on the final immigration act of 1990 contains no 
+mention of the subject.32 following the passage of the immigration act of 1990, however, 
+it soon became clear that the lack of legal mechanisms resolving the immigration status 
+of those granted long-term tps posed a serious problem. writing on the new tps program 
+in 1995, bill frelick and barbara kohnen noted the scope of the problem and proposed a 
+solution:
+
+what  happens  when  the ag  [attorney  general]  extends tps  year  after  year  rather 
+than  terminating  the  policy?  recipients  of  tps  begin  to  build  their  lives  outside 
+their  country  while  still  unsure  whether  the  ins  will  eventually  retract  temporary 
+protection. if the ins plans to continue extending tps, then it should be recognized 
+that dangerous conditions in the home country have not been of a temporary nature 
+and that tps recipients have built up equities in their respective communities. at some 
+point, perhaps after tps has been extended for a period of three years, the ins should 
+have the flexibility to adjust their status. (frelick and kohnen 1995, 357)
+
+four years later, at a house subcommittee hearing on extending tps status to nicaraguans 
+and  hondurans,  congresswoman  sheila  jackson  lee  called  on  congress  to  create  an 
+alternative method for encouraging tps recipients to return home after tps expires.33 
+nevertheless,  neither  an  adjustment  mechanism  for  long-term  tps  beneficiaries  nor  a 
+repatriation assistance mechanism for individuals whose tps status has been terminated 
+has ever been put into place.
+
+25  h.r. 45, 101st cong. (1989).
+26  h.r. 3267, 101st cong. (1989).
+27  h.r. 2929, 101st cong. (1989).
+28  h.r. 3267, 101st cong. (1989); h.r. 2929, 101st cong.(1989); h.r. 45, 101st cong. (1989).
+29  h.r. 4300, 101st cong. (1990). 
+30  s. 358, 101st cong. (1990). 
+31  pub. l. no. 101-649 (1990). 
+
+32  h.r. rep. no. 101-955 (1990).
+33  designations of temporary protected status and prior amnesty programs: hearing before the h. comm. 
+on the judiciary, subcomm. on immigration and claims, 106th cong., 1st sess. (march 4, 1999) (statement 
+of rep. sheila jackson lee).
+
+28
+
+journal on migration and human securityproblems with the tps system and why a fix is needed 
+critics of the tps regime contend that the program is not temporary. indeed, as the list of 
+currently designated tps countries demonstrates, tps designations and extensions may 
+stretch years or even decades. of the eight designated tps countries, twohonduras and 
+nicaraguawere first designated on january 5, 1999 (uscis 2014). to qualify for tps 
+under the most recent designations, honduran and nicaraguan noncitizens must show that 
+they  have  been  continuously  residing  in  the  united  states  since  december  30,  1998.34 
+thus, by virtue of the programs requirements, any individual from honduras or nicaragua 
+who holds tps has now been residing in the country for more than 15 years. el salvador is 
+similarly situated, having been first designated for tps on march 9, 2001 (uscis 2014). 
+the  cycle  of  continuous  designations,  re-designations,  and  re-extensions  of tps  status 
+for certain countries is not inherently at odds with the goal of providing a safe haven 
+for foreign nationals unable to return to their countries of origin because of humanitarian 
+emergencies.  after  all,  while  the  immigration  act  of  1990  mandated  that  no  initial 
+designation of tps could last for longer than 18 months, there is no such strict time limit 
+on the length of humanitarian crises. a country may legitimately be unable to ensure the 
+safe and orderly repatriation of its nationals until many years after the initial humanitarian 
+crisis that triggered a grant of tps has been resolved. 
+there are reasons, however, to be wary of the use of tps for long-term grants of immigration 
+status. first, the programs legislative history indicates a clear congressional intent for tps 
+to be used for temporary, short-term designations of status. second, extended grants of 
+tps run contrary to the policy goals of fostering integration and full membership within 
+american society for long-term foreign residents. lacking many of the benefits that come 
+with lpr status, long-term tps beneficiaries effectively find themselves locked in legal 
+limbo as de facto members of american society who are offered less than full membership. 
+
+long-term grants of tps status run contrary to congressional 
+
+intent 
+although there is scant evidence in the congressional record indicating that congress 
+actively  considered  how  tps  beneficiaries  would  be  treated  if  they  were  perpetually 
+granted tps, there is ample evidence indicating that congress intended tps designations 
+to be temporary. first, supporters of evd (and later tps) for salvadorans emphasized 
+that  salvadoran  nationals  were  not  seeking  permanent  protection  in  the  united  states. 
+the aclus 1984 publication salvadorans in the united states: the case for extended 
+voluntary departure noted that all sources agree that the salvadorans are interested in 
+returning to el salvador as soon as it is safe for them to do so. these sources include the 
+unhcr, us officials and salvadoran refugees themselves (aclu 1984, 67). 
+on the floor of the house, the debate over tps centered almost immediately on concerns 
+that the program could be used to grant indefinite stays of deportation, and supporters 
+adamantly  emphasized  the  temporary  nature  of  the  program.  on  october  2,  1990, 
+congressman  william  mccollum  (r-fl),  introduced  an  amendment  to  the  houses 
+
+34  64 fed. reg. 526 (jan. 5, 1999).
+
+29
+
+temporary protected status after 25 yearsimmigration bill that called for the elimination of provisions in the immigration act of 
+1990 authorizing the creation of tps.35 mccollums key concern was that the moakley 
+provisions, so-named for their insertion into the bill by congressman john joseph moakley 
+(d-ma), were bad policy, because [t]hey keep lots of illegals here indiscriminately for 
+extended  periods  of  time.36  in  response,  supporters  of tps  emphasized  the  temporary 
+nature of the program, noting that proponents were not asking that these people be given 
+permanent resident status or be allowed to live indefinitely in this country, but that 
+they be spared deportation until war in their land subsides.37 the mccollum amendment 
+ultimately failed in the house by a vote of 131-285.38  
+even after the defeat of the mccollum amendment, supporters continued to emphasize 
+the temporary nature of tps.  key backers of tps, including congressman moakley in 
+the house and senator kennedy in the senate, characterized the program as temporarily 
+suspending deportation39 and granting a temporary safe haven.40 speaking about the 
+program during the senates final vote on the version of the bill agreed to by both chambers 
+during conference, senator dennis deconcini (d-az) emphasized that the creation of tps 
+and designation of el salvador for tps protection could actually assist the immigration 
+and naturalization service (ins) in ultimately removing salvadorans once their tps status 
+was ended. he noted that the program facilitated the creation of a registration system 
+which would provide a means by which the united states can maintain accurate records 
+of salvadorans in this country . . . (and) facilitate the return of salvadorans when the period 
+of temporary protection expires.41 
+it is also significant that the final version of the bill to emerge from the house-senate 
+conference process drastically cut back on the length of initial tps designations (and on 
+the countries designated for such status) in the original house bill. the version of the bill 
+that came out of conference provided that the attorney general had the authority to grant 
+tps for no longer than 18 months and designated only el salvador for the new status.42 
+while the conference report emphasized that the language limiting initial tps designations 
+to 18 months should not be interpreted as preventing the attorney general from extending 
+el salvadors initial tps grant,43 the mere fact that the initial time frame for the program 
+was cut in half underscores congressional concerns over long-term tps grants.
+
+long-term  grants  of  tps  status  lock  beneficiaries  into  legal 
+
+limbo
+continuous grants of tps with no mechanism for permanent adjustment lock tps holders 
+into  quasi-permanent  limbo  status,  whereby  they  are  effectively  treated  as  long-term 
+
+36  ibid.
+37  136 cong. rec. 27130 (1990). 
+
+35  136 cong. rec. 27129 (1990).
+38  roll no. 402, 136 cong. rec. 27133 (1990).
+39  136 cong. rec.  35124 (1990). 
+40  136 cong. rec. 35610 (1990). 
+41  136 cong. rec. 35611(1990). 
+
+42  h.r. rep. no. 101-955 (1990) (conf. rep.).  
+43  ibid.
+
+30
+
+journal on migration and human securityresidents in the united states but denied many of the legal protections that the united 
+states normally grants to such residents. unlike lprs, for example, tps holders may not 
+sponsor family members for immigration to the united states.44 they are also ineligible for 
+most federal public benefits (silverman, joaquin, and klapel 2010). 
+perhaps most significantly, the us government has long taken the position that grants of 
+tps are not considered admissions or paroles for the purposes of adjustment of status 
+under ina  245(a) (silverman, joaquin, and klapel 2010). in 2013, however, the us 
+court of appeals for the sixth circuit rejected this view, holding that the plain language of 
+the tps statute indicates that tps holders should be treated as admitted or paroled for 
+the purposes of adjusting status as the immediate relatives of us citizens.45 nevertheless, 
+uscis has chosen not to apply this decision to applicants residing outside the jurisdiction 
+of the 6th circuit (uscis 2013). thus, outside of the 6th circuit, unless a tps beneficiary 
+initially entered the united states through a form of lawful admission (for example, entering 
+with a non-immigrant visa), he or she is ineligible to apply for adjustment of status even if 
+he or she has a qualified us citizen or permanent resident relative, or us employer, willing 
+to file a sponsorship petition.
+allowing large numbers of noncitizens to remain in the united states indefinitely in quasi-
+permanent legal status runs contrary to the united states historic commitment to fully 
+integrating immigrants who have cultivated strong ties with the country and resided in it for 
+extended periods of time. since its earliest laws regulating immigration, the united states 
+has classified all noncitizens as either immigrants or non-immigrants. immigrants 
+are those noncitizens who have been granted lawful permanent residence,46 which bestows 
+heightened protection against deportation and may be renewed indefinitely. individuals who 
+hold lpr status can typically apply for us citizenship after five years. in contrast, non-
+immigrants are noncitizens who are admitted for such time, and under such conditions 
+as the attorney general may prescribe.47 a fundamental characteristic of non-immigrants 
+is that their stay in the united states is temporary; all non-immigrants must, at the end of 
+their authorized period of admission, agree to depart.48 us law does not generally provide 
+in between status that is short of lawful permanent residence for individuals who plan to 
+reside in the united states indefinitely. 
+the  united  states  also  has  a  long  history  of  allowing  groups  of  noncitizens  who  fled 
+violence or chaos abroad by entering the country in temporary status to adjust to lpr 
+status. in 1934, congress passed a law that allowed noncitizens who had entered the united 
+states prior to july 1, 1933, and who demonstrated that they were in the country as bona 
+fide political or religious refugee[s] to become lprs.49 prior to the countrys enactment 
+of a comprehensive refugee law in 1980, congress frequently passed laws granting lpr 
+status to individuals who had been initially paroled into the united states following a 
+war or political uprising (kerwin 2010, 4-5). for example, in 1958, congress enacted a 
+law that ultimately enabled an estimated 30,752 hungarians who had been paroled into 
+44  ina  203(a)
+45  flores v. uscis, 718 f.3d 548, 552 (6th cir. 2013).
+46  ina  201
+47  ina  214
+48  8 c.f.r.  214.1
+49  pub. l. no. 73-299, 48 stat. 926 (1934).
+
+31
+
+temporary protected status after 25 yearsthe  country  following  the  1956  hungarian  revolution  to  adjust  status  (ibid.).  similarly, 
+the 1966 cuban adjustment act has granted lawful permanent residence to more than one 
+million cuban parolees (ibid.). 
+us law governing the status of asylees and refugees also reflects a concern for integrating 
+long-term residents. neither the refugee convention nor the protocol requires countries to 
+grant permanent legal status to individuals who are deemed refugees under international 
+law (mcadam 2005, 503). yet us law allows asylees and refugees to apply for lawful 
+permanent residence after one year of residing in the united states.50 
+each of these legalization laws reflected particular congressional concerns with respect to 
+particular groups of noncitizens. but a common theme throughout them is that the united 
+states  has  granted  lpr  status  to  individuals  based  on  their  integration  into american 
+society and their contributions to our national future (motomura 2010, 236). the 1969 
+ins statistical yearbook exemplified this pattern through its explanation of the rationale 
+behind the cuban adjustment act:
+
+it is true that in the beginning most cubans hoped and confidently expected that they 
+would be going home soon. as the years passed, this hope faded. their children went 
+to american schools and adopted the american way of life as their own. the parents 
+and breadwinners wanted to earn their own way, and many were qualified to make real 
+contributions to our society. but in order to get the jobs that they could splendidly fill, 
+they often found that they needed to be permanent residents or citizens of the united 
+states. as parolees, they could not be either. (ins 1969, 9)
+
+in the 1982 supreme court case plyler v. doe,51 justice brennan raised the possibility 
+that unauthorized immigrant children denied the opportunity to attend public school in the 
+united states could easily become part of a permanent caste of undocumented residents, 
+equivalent to an underclass.52 although a far different group than unauthorized children, 
+long-term tps beneficiaries nonetheless raise similar public policy concerns. in particular, 
+they raise the question of whether it is in the nations best interests to host a large group of 
+quasi permanent residents who, by virtue of their long residence, have become integrated 
+into the fabric of us society, yet because of their legal status, cannot fully participate in it. 
+
+making them permanent: proposals to place those in the 
+tps system on the path to permanent status
+
+amending the current refugee definition
+
+one way to solve the legal limbo problem that long-term tps holders face would be for 
+the united states to amend its definition of a refugee so that individuals fleeing political 
+violence or an environmental disaster could qualify for asylum status, which provides a 
+pathway to permanent residence. though the beneficiaries of tps have long been recognized 
+
+50  ina  209(a)
+51  457 u.s. 202 (1982).  
+52  457 u.s. 202, 219 (1982)
+
+32
+
+journal on migration and human securityas de facto refugees (frelick and kohnen 1995, 341), they have generally not qualified 
+for asylum status in the united states because they have been unable to demonstrate that 
+they meet two of the criteria required for a grant of refugee status under us asylum law: 
+that they have been persecuted or have a well-founded fear of persecution (the persecution 
+prong)  and  that  their  well-founded  fear  is  on  account  of  their  race,  religion,  ethnicity, 
+membership in a particular social group, or political opinion (the nexus prong). 
+a major problem with proposals to amend us asylum law to encompass situations where 
+individuals are fleeing generalized political violence or environmental catastrophes is that 
+us asylum law hews closely to the definition of a refugee put forth in the 1951 refugee 
+convention and the 1967 protocol. international organizations, including and most critically 
+unhcr, have generally taken the position that individuals fleeing generalized political 
+violence or environmental catastrophes do not meet the convention definition of a refugee 
+(unhcr 2011, ch.v, para. 164). some scholars argue that customary international law 
+norms have shifted the definition of a refugee and that it may now include those who are 
+fleeing environmental disasters or political turmoil (worster 2012, 106-07). this argument, 
+however, has yet to gain widespread acceptance in the international law community.
+
+complementary protection 
+
+an alternate approach would be to create a new form of subsidiary legal status, modeled 
+after protection in the european union (eu). since 2004, european union member states 
+have granted subsidiary protection to individuals who do not qualify for refugee status 
+but who demonstrate that they cannot return to their countries of origin due to a real risk 
+of suffering serious harm (fullerton 2011, 108).  eu directives define three specific types 
+of harm as serious harm: (1) the death penalty or execution; (2) torture or inhuman or 
+degrading treatment or punishment; and (3) a serious and individual threat to a civilians 
+life or person by reason of indiscriminate violence in situations of international or internal 
+armed conflict (european union 2011).  the directives also provide that member states 
+may adopt more generous criteria for granting subsidiary protection status, which a number 
+of states have done. (ecre 2009). finland and sweden, for example, grant subsidiary 
+protection to persons who are outside of their countries of origin and who are unable to 
+return because of environmental disasters (mayer 2011, 383).  lithuania grants the status to 
+individuals who have fled widespread violence that is not necessarily the result of an armed 
+conflict (european migration network 2010, 8). 
+the specific benefits of subsidiary protection vary from country to country, but european 
+union directives set the minimum level of protection that states must provide. under these 
+directives, beneficiaries must receive residence permits that are valid for at least one year, 
+and are renewable (european union 2011). individuals who hold subsidiary protection for 
+five years become eligible to apply for long-term resident status (council of the european 
+union 2011). long-term residents receive a status that is somewhat comparable to lawful 
+permanent residence in the united states. they may move freely within the eu, they may 
+renew their residency indefinitely, and they are generally treated on par with eu citizens 
+for purposes of accessing education, labor markets, and social security (european union 
+commission 2014). 
+
+33
+
+temporary protected status after 25 yearsnot all of those granted subsidiary protection ultimately are able to apply for long-term 
+resident status because a state may terminate an individuals subsidiary protection status 
+before the person has held that status for five years. under the eu directives, states may end 
+subsidiary protection when the circumstances which led to the granting of the protection 
+cease to exist or have changed so that protection is no longer required. (european union 
+2011, art. 16). states may also revoke an individuals subsidiary protection status if the 
+person has committed fraud or a serious crime. (european union 2011, art. 19).
+prior  to  the  issuance  of  the  newest  (2011)  eu  directive  on  subsidiary  protection,  eu 
+directives treated beneficiaries of subsidiary protection differently than those who had been 
+granted  refugee  status. those  with  subsidiary  protection  faced  greater  restrictions  on 
+their ability to travel, work, access educational opportunities and vocational training, and 
+receive social welfare and health care benefits (mcadam 2005, 506-14). one reason for 
+this distinction was that legislators generally considered subsidiary protection to be less 
+permanent in nature than refugee status (pobjoy 2010, 221). after a number of scholars 
+criticized this protection hierarchy, asserting that it was not justified under international 
+law, the eu issued a new directive which generally calls for equal treatment for refugees 
+and those awarded subsidiary protection (european union 2011). 
+adopting  a  new  legal  regime  that  resembles  subsidiary  protection  could  address  some 
+of the weaknesses of the tps program. by providing certain noncitizens who are unable 
+to return to their home countries with a form of temporary legal status, the united states 
+would  address  the  immediate  humanitarian  needs  of  individuals  whose  countries  have 
+suddenly become engulfed in war or devastated by a natural disaster. by initially providing 
+only a temporary legal status, the united states would also acknowledge that in certain 
+circumstances, individuals initially unable to return home because of these circumstances 
+may become able to do so at a future date. at the same time, the inclusion of a mechanism 
+for  granting  permanent  legal  status  to  individuals  who  have  held  temporary  status  for 
+extended periods of time would address the humanitarian concerns that arise when short-
+term crises become long-term ones.
+subsidiary protection is far from a perfect substitute for the current tps regime, however.  
+unlike  tps,  eu  law  provides  that  grants  of  subsidiary  protection  must  be  based  on 
+individualized threats of harm. recital 26 of the most recent subsidiary protection directive 
+specifies that [r]isks to which a population of a country or a section of the population is 
+generally exposed do normally not create in themselves an individual threat which would 
+qualify as serious harm (european union 2011). while a recent case from the european 
+court of justice clarifies that an applicant for subsidiary protection need not demonstrate 
+the level of individualized targeting that would be required for a grant of refugee status 
+(allard 2010, 320), the directive assumes that a grant of subsidiary protection will be tied 
+to an assessment of personal circumstances.
+requiring an applicant to make an individualized showing of harm may work well in a 
+system designed to grant longer-term humanitarian protection, but less well in a system 
+designed to deal with the immediate migration needs of individuals displaced by sudden 
+disasters.53 tps, as a temporary protection mechanism, is designed to grant protection to 
+
+53   notably,  a  separate  eu  directive  governs  grants  of  temporary  protection.  under  this  directive,  eu 
+
+34
+
+journal on migration and human securityindividuals who face risks to which a population of a country or a section of the population 
+is generally exposed. in order to continue to protect individuals covered by tps, it is not 
+necessary to screen for an individualized threat of harm, as the protection is based on the 
+general conditions of their country of origin. moreover, by requiring applicants to make an 
+individualized showing of harm, the subsidiary protection regime requires individualized 
+hearings and a fairly lengthy adjudication process in which an applicants credibility and 
+supporting documentation is assessed. (wettergren and wikstrom 2013, 569). a process 
+like tps, in contrast, generally does not require a lengthy hearing, as individuals may be 
+approved or denied on the basis of more objective criteria. given that the goal of tps 
+is to provide short-term humanitarian relief, there is merit to retaining a process that is 
+relatively simple, straightforward, and can be implemented fairly quickly.
+
+adjustment of status
+
+another  approach  to  resolving  the  extended  tps  dilemma  would  be  to  amend  current 
+immigration law to provide a pathway to permanent residence for tps holders. the most 
+straightforward  way  to  accomplish  this  would  be  for  congress  to  pass  a  new  law  that 
+enables some class of tps beneficiaries (for example, those who have held tps status for 
+a certain number of years) to apply for lawful permanent residence. 
+there is some precedent behind such a law. in 1987, congress authorized granting temporary 
+legal status to any noncitizen granted evd during the five-year period ending november 
+1, 1987, thereby placing them on the path to gaining lawful permanent residence through 
+the legalization provisions of the immigration reform and control act of 1986 (irca).54  
+similarly, the 1997 nicaraguan adjustment and central american relief act (nacara) 
+allowed salvadoran nationals who had entered the united states on or before september 
+19,  1990,  and  either  registered  for  benefits  through  the  american  baptist  churches  v. 
+thornburgh  (abc)  class  settlement,  or  applied  for tps  by  october  31,  1991,  to  apply 
+for special rule cancellation of removal, a process through which they could be granted 
+permanent residence.55   
+there are several obstacles to establishing an adjustment of status program specifically 
+for long-term tps holders. the congressional debate surrounding the 1990 immigration 
+act indicates that many members of congress opposed this idea. the act itself prohibits 
+congress  from  enacting  an  adjustment  program  for tps  holders  unless  the  program  is 
+approved by a three-fifths supermajority of the senate.56 some scholars have pointed out, 
+however, that members of the 101st congress may have anticipated that long-term tps 
+holders would be able to take advantage of other adjustment of status mechanisms in us 
+immigration law at that time, such as suspension of deportation, that are no longer available 
+under current law (martin, schoenholtz, and waller meyers 1997, 577-78). thus, a key 
+
+countries may grant temporary legal status for up to one year to third-country nationals in instances where 
+there has been a mass influx of displaced persons who cannot return to their country of origin (eu directive 
+2001/55/ec).  like tps in the united states, temporary protection does not convey any form of permanent 
+legal status, nor does it place beneficiaries on a path to obtaining permanent legal status. 
+54  pub. l. no. 100-204 (1987).
+55  pub. l. no. 105-100 (1997).
+56  ina  244(h)
+
+35
+
+temporary protected status after 25 yearsreason that may have been used to justify not creating an adjustment of status program for 
+long-term tps holders in 1990 may no longer be as valid today.
+congress could also opt to allow tps holders to qualify for a larger legalization program 
+aimed at changing the status of a broader category of non-lprs. for example, the language 
+of the senates 2013 comprehensive immigration reform bill (s. 744) makes clear that 
+tps holders would qualify to apply for the bills registered provisional immigrant status, 
+the first step in a ten-year pathway to lawful permanent residence.57 allowing tps holders 
+to take advantage of the senates legalization framework would benefit tps holders who 
+meet the legalization programs other criteria (for example, being physically present in 
+the united states as of december 31, 2011). however, it would not rectify the problem of 
+how to treat future tps-holders who hold temporary status for extended periods of time. 
+like stand-alone programs to legalize certain tps holders, it is also unclear how a larger 
+legalization program that included tps holders could be reconciled with the requirements 
+of ina  244(h), the three-fifths senate supermajority requirement for legislation permitting 
+tps holders to adjust status. 
+a variation on the option of creating a new law authorizing adjustment of status for tps 
+holders would be for the executive branch to re-characterize tps as a type of admission or 
+parole (or as a waiver of the grounds of inadmissibility that attach with entry to the united 
+states without inspection). this would allow greater numbers of current tps holders who 
+would  otherwise  qualify  for  existing  family-based  and  employment-based  pathways  to 
+permanent residence to take advantage of those pathways.  
+most  tps  beneficiaries  who  initially  entered  the  united  states  without  permission  are 
+barred from applying for lawful permanent residence from within the united states. this is 
+because current law provides that, subject to limited exceptions, noncitizens who entered 
+the country without being admitted or paroled are ineligible for adjustment of status.58 
+instead, in order to gain permanent status, the law requires these individuals to depart the 
+united states and apply for readmission at a us consulate abroad. for many noncitizens in 
+this position, the process of leaving the country after having resided in it as an unauthorized 
+immigrant triggers bars of inadmissibility of three or ten years.59 this decade-long wait 
+dissuades many otherwise-eligible noncitizens from applying for lpr status. 
+uscis could alter this outcome for tps holders who entered the country unlawfully but 
+are the immediate relatives (spouse, minor child, or parent) of a us citizen in one of three 
+
+57   border  security,  economic  opportunity,  and  immigration  modernization  act.  s.  744.  113th  cong. 
+(2013). section 2101(a) of the bill, which spells out the grounds of eligibility and ineligibility for registered 
+provisional immigrant status, states that a noncitizen lawfully present in the united states in nonimmigrant 
+status is not eligible to apply for registered provisional immigrant status, other than an alien considered to be 
+a nonimmigrant solely due to the application of section 244(f)(4) (the portion of the ina dealing with tps 
+holders). 
+58  ina  245(a)
+
+59  the three year bar applies to individuals who depart from the country after having resided in it in 
+
+unauthorized status for more than six months but less than one year. the ten year bar applies to individuals 
+who depart from the country after having accrued one year or more of unauthorized presence. ina  212(a)
+(9)(b). waivers of the three and ten year bars are available, but only to noncitizens who show that if they were 
+denied readmission, it would cause extreme hardship to us citizen or lawful permanent resident spouse or 
+parent (ina  212(a)(9)(b)(v)). 
+
+36
+
+journal on migration and human securityways. first, uscis could decide to apply the 6th circuits reasoning in the flores decision 
+to the entire country. doing so would treat tps holders who initially entered the country 
+unlawfully as being eligible to apply for adjustment of status if they otherwise qualified to 
+do so as the immediate relative of a us citizen.
+second, the administration could follow a recommendation set forth in an unpublished 
+uscis memorandum that was leaked to the public in 2010, in which the writers advised 
+that uscis could issue new guidance administratively granting tps beneficiaries parole-
+in-place (vanison, et al. 2010). parole-in-place, which uscis grants to the family of 
+members of the military, provides noncitizens with temporary protection against removal 
+and allows individuals who entered the united states without authorization to be considered 
+paroled for purposes of adjusting status. based on having been paroled, a parole-in-
+place beneficiary may move forward with an application to adjust status as the immediate 
+relative of  a  us  citizen (stock  2011).  like  applying  the flores  precedent nation-wide, 
+granting parole-in-place would allow far greater numbers of tps holders to take advantage 
+of existing channels for gaining lawful permanent residence. 
+finally, a more incremental move would be for uscis to issue formal guidance clarifying 
+its position with respect to tps holders who travel abroad and are readmitted. in a 1991 
+memorandum, the ins adopted the position that a tps holder who had initially entered 
+the country without inspection, but who, subsequent to a grant of tps, left the country and 
+returned with advance parole (e.g., parole approved before departure) would be considered 
+paroled for purposes of the admitted or paroled requirement for adjustment of status 
+(virtue 1991). until recently, however, uscis took the position that tps holders who 
+traveled abroad with advance parole would still trigger the three and ten year unlawful 
+presence bars if they had previously resided in the united states unlawfully. a potential 
+sea change occurred in 2012, when the board of immigration appeals issued matter of 
+arrabally.60 rejecting usciss position that leaving the country pursuant to a grant of 
+advance parole constituted a departure for purposes of ina  212(a)(9)(b), the board 
+held that a noncitizen with prior unlawful presence who left and returned pursuant to a 
+grant of advance parole had not triggered the three and ten year bars and was still eligible 
+for adjustment.
+like applying the flores decision nationwide or granting parole-in-place, uscis could 
+use  the  arrabally  decision  to  provide  a  path  to  permanent  residence  for  one  particular 
+group of tps holders: those who are able to apply for legal status by virtue of being the 
+immediate relative (spouse, minor child, or parent) of a us citizen, but who initially entered 
+the country unlawfully. for individuals in such a situation, traveling abroad and re-entering 
+the country with advance parole could enable them to be considered admitted or paroled 
+for purposes of adjustment of status.61 assuming that such a trip would not trigger the 
+three and ten year bars (as would seem to be the case post-arrabally), these tps holders 
+would  not  be  barred  from  adjusting,  even  if  they  had  previously  resided  in  the  united 
+states unlawfully. however, uscis has yet to issue formal guidance on how it will apply 
+arrabally to tps holders. as a result, the potential benefits of the decision for tps holders 
+remain unclear. 
+
+60  matter of arrabally. 25 i. & n. dec. 771 (bia 2012).
+61  ina  245(a)
+
+37
+
+temporary protected status after 25 yearsmaking  them  temporary:  proposals  to  assist  in  the 
+repatriation of those who previously had tps 
+an alternativeor complementarymechanism for amending the current tps regime is 
+to put in place programmatic mechanisms that assist noncitizens whose tps status has 
+ended in voluntarily returning to their countries of origin. early proposals on implementing 
+a  repatriation  program  focused  on  the  role  that  international  organizationssuch  as 
+unhcr,  the  international  organization  for  migration  (iom),  and  us  agency  for 
+international development (us-aid)could play in assisting in the repatriation of those 
+for whom tps status had ended (frelick and kohnen 1995, 356). more recent proposals 
+have suggested providing financial assistance to former tps beneficiaries who agree to 
+return, or withholding the social security taxes of tps holders and then distributing them 
+only upon return (martin, schoenholtz, and waller meyers 1997, 575). 
+given unhcrs and ioms vast experience in the voluntary repatriation of refugees, the 
+united  states  can  and  should  draw  upon  the  best  practices  of  those  organizations  in 
+structuring any future repatriation program for former tps beneficiaries. for example, a 
+number of scholars have examined unhcrs repatriation initiatives and concluded that 
+certain factors correlate with successful repatriation programs. these include the provision 
+of  comprehensive  information  to  migrants  at  the  outset  about  the  conditions  in  their 
+countries of origin and the proposed return program (rogge 1994, 29), the extent to which 
+migrants are allowed to transfer economic self-sufficiency (such as money earned and 
+goods and tools accumulated in the country of asylum) to their countries of repatriation 
+(rogge 1994, 35), and the extent to which migrants are provided with the tools (such as, 
+in rural areas, farming implements, seed, and land) to establish self-sufficiency following 
+repatriation (rogge 1994, 35). in addition, scholars have noted that successful repatriation 
+depends on the rebuilding of key infrastructure developments that may have been damaged 
+during the political or environmental turmoil that caused people to flee (rogge 1994, 36).
+for  its  part,  unhcr,  in  its  handbook  on  voluntary  repatriation  and  international 
+protection, has adopted many of these best practices into its recommended guidance. 
+for example, the handbook states that unhcr may promote repatriation by undertaking a 
+comprehensive information campaign to educate displaced migrants about the conditions 
+in their home countries (unhcr 1996, part 3.1).  the agency may also facilitate advance 
+visits for displaced individuals, to allow them to see first-hand the conditions in their 
+countries of origin (unhcr 1996, part 4.2). following in the footsteps of this practice, 
+the united states could take measures to educate individuals whose tps is ending on the 
+conditions in their countries of origin. it could ease travel restrictions on tps holders, by 
+allowing tps holders to travel in and out of the united states without having to apply for 
+advance parole, or by lowering the standard for granting advance parole. such steps would 
+increase the likelihood that former tps holders have on-the-ground information about 
+their countries of origin and would be more likely to agree to return to them when their 
+tps status ends. 
+unhcrs handbook on voluntary repatriation also promotes the issuance of recovery or 
+compensation for movable and immovable property that refugees are unable to take with 
+them when returning to their countries of origin (unhcr 1996, part 3.6). similarly, unhcr 
+documents take the position that for a voluntary repatriation program to be successful, 
+
+38
+
+journal on migration and human securitythere must be rehabilitation of critical infrastructure in the displaced individuals country 
+of  origin,  such  as  the  rebuilding  of  schools,  clinics,  water  points,  public  facilities,  and 
+houses (unhcr 2004, part 1.8). drawing off these key principles, the united states could 
+develop a repatriation program for individuals whose tps has ended that provides both 
+direct  aid  to  the  returning  migrants,  and  development  aid  for  their  countries  of  origin, 
+factors that help ensure that returnees are able to return in safety and dignity. 
+
+drawing  the  line:  dual  proposals  to  allow  some  tps 
+beneficiaries to legalize, and require others to return
+the best way to realign the tps program with the congressional intent behind it and with 
+overarching us policy goals would be for congress to pass a law that enables individuals 
+who have held tps for extended periods of time to become permanent residents, while 
+putting in place mechanisms that assist those whose tps status has ended after shorter 
+periods to return home. while it is tempting to focus on shorter-term administrative fixes 
+that the executive branch could implement without congressional involvement, only a full-
+scale legislative reform will solve the legal limbo problem currently facing the majority 
+of tps holders. similarly, only a legislative fix could put in place standardized mechanisms 
+for dealing with future waves of noncitizens fleeing political violence or environmental 
+catastrophes.
+in addition, crafting a new law that allows some long-term tps holders to adjust status 
+after they have held tps for a certain length of time would foster the full integration of 
+noncitizens who have built up significant equities in the united states. of course, such 
+a policy will require drawing a line to determine the length of time in tps status that is 
+required for adjustment of status. setting this line at ten years, so that individuals who have 
+held tps status for ten consecutive years are permitted to adjust status, would be internally 
+consistent with other aspects of us immigration law.62 it would also constitute a significant 
+amount of time, during which tps holders are likely to begin to put down roots in the 
+united states and increasingly view themselves as us residents. 
+at the same time, the united states should take steps to ensure the repatriation of individuals 
+who have not held tps for ten years, but whose tps has been ended because conditions in 
+their country of origin have improved. only by implementing repatriation for those whose 
+short-term tps has ended can the united states stay true to the initial intent of the tps 
+programoffering  a temporary safe haven for individuals fleeing harm. a successful 
+repatriation program could include withholding earnings (such as social security taxes) that 
+would be paid to tps holders upon their repatriation. it could also include implementing 
+some of the best practices for repatriation developed by the international community, 
+such as encouraging tps holders to travel back and forth to their countries of origin when 
+it begins to become safe to do so. 
+
+62   for  example,  under  current  law,  unauthorized  immigrants  seeking  adjustment  of  status  in  removal 
+proceedings  in  the  form  of  cancellation  of  removal  must  demonstrate  that  they  have  been  present  in 
+the united states for ten years (ina  240a(b)). similarly, individuals who depart the united states after 
+accruing more than one year of unlawful presence in the country are no longer inadmissible after they have 
+resided outside the country for ten years (ina  212(a)(9)(b)).  
+
+39
+
+temporary protected status after 25 yearsundoubtedly, implementing any kind of a repatriation program for individuals whose tps 
+has been terminated will prove extremely controversial, as will allowing certain long-term 
+tps holders to adjust status. yet, for the united states to maintain the integrity of the tps 
+program, both steps are necessary. given that the number of individuals seeking a tps safe 
+haven is likely to only increase in the coming years, fixing the program at this juncture 
+could not be more critical.   
+
+references 
+aclu (american civil liberties union). 1984. salvadorans in the united states: the 
+case for extended voluntary departure. national immigration and alien rights 
+project.
+
+allard, silas w. 2010. casualties of disharmony: the exclusion of asylum seekers under 
+the auspices of the common european asylum system. emory international law 
+review 24(1): 295-330.  
+
+brown, oli. 2008. migration and climate change. geneva: international organization for 
+
+migration.
+
+brown,  sophie.  2013.  report:  political  instability  on  the  rise,  cnn,  december  12. 
+
+http://edition.cnn.com/2013/12/11/business/maplecroft-political-risk/ 
+
+council  of  the  european  union.  2011.  eu  long term  residents  directive  extended 
+to  refugees  and  other  beneficiaries  of  international  protection,  news  release, 
+april  11.  http://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/
+jha/121451.pdf. 
+
+cwik,  marissa  elizabeth.  2011.  note:  forced  to  flee  and  forced  to  repatriate?  how 
+the  cessation  clause  of article  1c(5)  and  (6)  of  the  1951  refugee  convention 
+operates in international law and practice.  vanderbilt journal of transnational 
+law 44: 711-43. 
+
+ecre (european council on refugees and exiles). 2009. complementary protection in 
+
+europe, july 29.  http://www.refworld.org/docid/4a72c9a72.html. 
+
+european migration network. 2010. ad-hoc query on duration of subsidiary protection 
+status. 
+http://ec.europa.eu/dgs/home-affairs/what-we-do/networks/european_
+migration_network/reports/docs/ad-hoc-queries/protection/265_emn_ad-hoc_
+query_duration_subsidiary_protection_status_12oct2010_wider_dissemination_
+en.pdf. 
+
+european union commission. 2014. long-term residents, accessed march 12, http://
+ec.europa.eu/dgs/home-affairs/what-we-do/policies/immigration/long-term-
+residents/index_en.htm.  
+
+european union: council of the european union. 2011. council directive 2011/95/eu of 
+the european parliament and of the council of 13 december 2011 on standards for 
+the qualification of third-country nationals or stateless persons as beneficiaries of 
+
+40
+
+journal on migration and human securityinternational protection, for a uniform status for refugees or for persons eligible for 
+subsidiary protection, and for the content of the protection granted. 13 december, 
+ojl 337/9, available at http://eur-lex.europa.eu/lexuriserv/lexuriserv.do?uri=o
+j:l:2011:337:0009:0026:en:pdf. 
+
+frelick, bill and barbara kohnen. 1995. filling the gap: temporary protected status. 
+
+journal of refugee studies 8(4): 339-63.  http://dx.doi.org/10.1093/jrs/8.4.339
+
+fullerton, maryellen. 2011. a tale of two decades: war refugees and asylum policy in 
+the european union. washington university global studies law review 10: 87-
+132.
+
+ins (immigration and naturalization service). 1969. annual report of the commissioner 
+
+of immigration and naturalization for the year ended june 30, 1969.  
+
+kerwin, donald m. 2010. more than irca: us legalization programs and the current 
+
+policy debate. washington, dc: migration policy institute. 
+
+krikorian, mark. 2012. theres nothing as permanent as temporary immigration status, 
+center  for  immigration  studies  blog,  sept.  27.  http://cis.org/krikorian/theres-
+nothing-permanent-temporary-immigration-status. 
+
+macpherson,  myra.  1985.  caught  in  the  storm  of  sanctuary,  the  washington  post, 
+
+march 12. 
+
+martin, daniel c., and james e. yankay. 2013. refugees and asylees: 2012. washington, 
+dc:    us  department  of  homeland  security  office  of  immigration  statistics.   
+https://www.dhs.gov/sites/default/files/publications/ois_rfa_fr_2012.pdf .
+
+martin,  susan,  andrew  schoenholtz,  and  deborah  waller  meyers.  1997.  temporary 
+protection:  towards  a  new  regional  and  domestic  framework.  georgetown 
+immigration law journal 12: 543-81.
+
+mayer, benoit. 2011. the international legal challenges of climate-induced migration: 
+proposal for an international legal framework.  colorado journal of international 
+environmental law and policy 22: 357-416.
+
+mcadam, jane. 2005. the european union qualification directive: the creation of a 
+subsidiary protection regime. international journal of refugee law 17(3): 461-
+516. http://dx.doi.org/10.1093/ijrl/eei018
+
+millbank, adrienne. 2000. the problem with the 1951 refugee convention. social policy 
+group research paper no. 5 2000-01. http://www.aph.gov.au/about_parliament/
+parliamentary_departments/parliamentary_library/pubs/rp/rp0001/01rp05. 
+
+motomura,  hiroshi.  2010.  what  is  comprehensive  immigration  reform? taking  the 
+
+long view. arkansas law review 63: 225-41. 
+
+ota, chiaki. 2012. note, legal humanitarian assistance: instituting disaster response 
+clinics  and  law  firm  engagement.  georgetown  journal  on  poverty  law  and 
+policy 19: 515-33.
+
+41
+
+temporary protected status after 25 yearsperl,  peter.  2nd  area  church  group  gives  sanctuary  to  salvadoran  refugees.  the 
+
+washington post. oct. 11, 1983. 
+
+pobjoy, jason. 2010. treating like alike: the principle of non-discrimination as a tool 
+to mandate the equal treatment of refugees and beneficiaries of complementary 
+protection. melbourne university law review 34: 181-229.
+
+rogge, john. r. 1994. repatriation of refugees: a not so simple optimum solution. 
+in when refugees go home: african experiences, edited by tim allen and hubert 
+morsink, 14, 29. unrisd north america: africa world press.
+
+seltzer, suzanne. 1992. temporary protected status: a good foundation for building. 
+
+georgetown immigration law journal 6: 773-801. 
+
+silverman,  mark,  linton  joaquin,  and  lisa  klapel.  2010.  temporary  protected  status.   
+immigrant legal resource center. http://www.law.berkeley.edu/php-programs/jsp/
+filedl.php?fid=1123. 
+
+stock, margaret d. 2011. parole in place for military families. american immigration 
+lawyers  association.  www.americanbar.org/content/dam/aba/events/legal_
+assistance_military_personnel/ls_lamp_cle_nov11_session3_parole_in_place.
+authcheckdam.pdf.  
+
+unhcr (united nations high commissioner for refugees). 1996. handbook- voluntary 
+repatriation:  international  protection.  geneva:  unhcr.  http://www.unhcr.org/
+refworld/pdfid/3ae6b3510.pdf. 
+
+. 2004. handbook for repatriation and reintegration activities. geneva: unhcr. 
+
+http://www.unhcr.org/411786694.html
+
+.  2011.  handbook  and  guidelines  on  procedures  and  criteria  for  determining 
+refugee status under the 1951 convention and the 1967 protocol relating to the 
+status of refugees. geneva: unhcr. http://www.refworld.org/docid/4f33c8d92.
+html. 
+
+. 2013. unhcr statistical yearbook 2012. geneva: unhcr. http://www.unhcr.
+
+org/52a723f89.html.  
+
+uscis (us citizenship and immigration services). 2013. questions and answers: uscis 
+meeting with the american immigration lawyers association (aila). oct. 23. 
+http://www.uscis.gov/sites/default/files/uscis/outreach/notes%20from%20
+previous%20engagements/static%20files/aila-committee-meeting-oct13.pdf. 
+. 2014. temporary protected status. last modified june 18, 2013. http://www.
+uscis.gov/humanitarian/temporary-protected-status-deferred-enforced-departure/
+temporary-protected-status. 
+
+vanison,  denise  a.,  roxana  bacon,  debra  a.  rogers,  and  donald  neufeld  .  2010. 
+administrative  alternatives  to  comprehensive  immigration  reform.  draft 
+memorandum to alejandro mayorkas. 
+
+42
+
+journal on migration and human securityhttp://abcnews.go.com/images/politics/memo-on-alternatives-to-comprehensive-
+immigration-reform.pdf.
+
+virtue,  paul  w.  1991.  legal  opinion  temporary  protected  status  and  eligibility  for 
+
+adjustment of status under section 245. march 4, 1991. 1991 wl 1185138. 
+
+wasem,  ruth  ellen,  and  karma  ester.  2010.  temporary  protected  status:  current 
+immigration policy and issues. washington, dc: congressional research service. 
+http://fpc.state.gov/documents/organization/137267.pdf.  
+
+wettergren, a., and h. wikstrom. 2014. who is a refugee? political subjectivity, and 
+the categorisation of somali asylum seekers in sweden. journal of ethnic and 
+migration studies 40(4): 566-83. http://dx.doi.org/10.1080/1369183x.2013.830502
+worster,  william  thomas.  the  evolving  definition  of  the  refugee  in  contemporary 
+
+international law. berkeley journal of international law 95 (2012): 94-160.
+
+43
+
+temporary protected status after 25 years

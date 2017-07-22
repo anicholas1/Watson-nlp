@@ -1,0 +1,3287 @@
+the us eligible-to-naturalize 
+population: detailed social and 
+economic characteristics1
+
+robert warren
+center for migration studies
+
+donald kerwin
+center for migration studies
+
+executive summary
+naturalization  has  long  been  recognized  as  a  crucial  step  in  the  full 
+integration  of  immigrants  into  us  society.  yet  until  now,  sufficient 
+information on the naturalization-eligible has not been available that would 
+allow  the  federal  government,  states,  localities,  and  non-governmental 
+service providers to develop targeted strategies on a local level to assist 
+this population to naturalize and to overcome barriers to eligibility. this 
+paper  remedies  that  deficiency  by  providing  detailed  estimates  on  the 
+naturalization-eligible  from  data  collected  in  the  us  census  bureaus 
+american community survey (acs).  
+naturalization rates have traditionally been calculated  by dividing the 
+naturalized  or  the  naturalization  eligible  populations  by  all  foreign-
+born persons; i.e., the naturalized, legal non-citizens, and undocumented 
+residents. by including the unauthorized in this calculation, naturalization 
+rates have appeared misleadingly low for populations that can naturalize. 
+by  contrast,  the  center  for  migration  studies  of  new  york  (cms) 
+provides naturalization eligibility rates, which it calculates by dividing 
+the  naturalization  eligible  by  the  foreign-born  population,  minus 
+undocumented residents and legal residents who arrived after mid-2008. 
+the paper reports that 8.6 million us residents were eligible to naturalize 
+in  2013.  this  figure  approximates  the  8.8  million  estimate  of  the  us 
+department  of  homeland  security  (dhs).  mexican  nationals  constitute 
+the  largest  naturalization-eligible  population  at  2.7  million,  followed  by 
+indian  (337,000),  chinese  (320,000),  cuban  (316,000),  and  canadian 
+(313,000) nationals. fifty countries have 25,000 or more naturalization-
+eligible persons. the large number of legally resident mexican nationals 
+and  this  populations  high  naturalization  eligibility  rate  mean  that  us 
+
+1  the authors would like to thank siqi tu for her work in producing tables of the naturalization-eligible and 
+her other substantial contributions to this paper.
+
+ 2015 by the center for migration studies of new york. all rights reserved.jmhs volume 3 number 4 (2015): 306-329states with large mexican populations have relatively high percentages of 
+legal foreign-born residents who can naturalize.
+the overall naturalization eligibility rate was 31 percent in 2013, including 
+48 percent for mexican nationals. nine of the 25 largest us naturalization-
+eligible populations by source country have naturalization eligibility rates 
+in excess of 40 percent, including mexico (48 percent), canada (45 percent), 
+el  salvador  (42  percent),  the  united  kingdom  (41  percent),  guatemala 
+(44 percent), japan (56 percent), honduras (48 percent), and brazil (41 
+percent). on a state level, california, texas, new york, and florida contain 
+roughly five million of the us naturalization-eligible or about 58 percent of 
+the total population.
+the paper finds that a large number of naturalization-eligible immigrants 
+may have difficulty meeting the naturalization requirements or may need 
+intensive  support  to  do  so.  this  population  likely  includes  substantial 
+percentages of the 2.87 million naturalization-eligible who have lived in 
+the united states for more than 25 years; 1.16 million who do not speak 
+english; 3.0 million with less than a high school education; and the 1.8 
+million  with  incomes  below  the  poverty  level.  on  the  other  hand,  high 
+percentages  of  eligible  immigrants  would  seem  to  be  well-situated  to 
+naturalize, including those who have lived in the united states for more 
+than 10 years (78 percent); are age 35 or older (74 percent); are married (64 
+percent); speak english well, very well, or only english (65 percent); have 
+access to both a computer and the internet (74 percent); earn income above 
+the poverty level (79 percent); and have health insurance (72 percent).
+
+introduction
+a recent report on the integration of immigrants into the united states by the national 
+academies of sciences, engineering, and medicine begins:
+
+the successful integration of immigrants and their children contributes to economic 
+vitality  and  to  a  vibrant  and  ever-changing  culture.  americans  have  offered 
+opportunities to immigrants and their children to better themselves and to be fully 
+incorporated into us society, and in exchange immigrants have become americans 
+  embracing  an  american  identity  and  citizenship,  protecting  the  united  states 
+through service in its military, fostering technological innovation, harvesting its crops, 
+and enriching everything from the nations cuisine to its universities, music, and art 
+(national academies 2015).
+
+despite  the  significance  of  citizenship  to  immigrant  integration,  information  on  the 
+naturalization-eligible  has  not  been  sufficiently  detailed  at  the  local  level  to  allow  the 
+federal government, states, localities, and non-governmental service providers to develop 
+strategies for assisting this population to naturalize and to identify and overcome barriers 
+to eligibility. the new geographic and demographic information about the naturalization-
+eligible  described  in  this  center  for  migration  studies  of  new  york  (cms)  paper,  in 
+
+307
+
+the us eligible-to-naturalize populationcombination with soon to-be-released cms estimates of the naturalization-eligible on a 
+sub-state level, will go far in remedying this deficiency.
+two important aspects of the estimates presented in this paper should be noted:
+
+1.  with  minor  exceptions,  the  two  populations  described  here    naturalized  and 
+eligible-to-naturalize  exclude those who had resided in the country for less than 
+five years.2 this maintains consistency in the data used to compute rates.
+
+2.  the sum of the naturalized and the eligible-to-naturalize population is referred to as 
+
+the legal foreign-born resident population.
+
+nationwide findings from this cms paper include the following:
+
+  a total of 8.6 million us residents were eligible to naturalize in 2013. this figure is 
+close to the us department of homeland security (dhs) estimate of 8.8 million.
+  mexican nationals constitute the  largest  naturalization-eligible population at  2.7 
+million, followed by indian (337,000), chinese (320,000), cuban (316,000), and 
+canadian (313,000) nationals.
+
+  fifty countries have 25,000 or more naturalization-eligible persons.
+  the overall naturalization eligibility rate  i.e., the number of naturalization-
+eligible,  divided  by  the  sum  of  the  naturalized  and  the  naturalization-eligible 
+populations  was 31 percent in 2013, including 48 percent for mexican nationals. 
+  nine  of  the  25  largest  us  naturalization-eligible  populations  by  source  country 
+have naturalization eligibility rates in excess of 40 percent, including mexico (48 
+percent), canada (45 percent), el salvador (42 percent), the united kingdom (41 
+percent), guatemala (44 percent), japan (56 percent), honduras (48 percent), and 
+brazil (41 percent). 
+
+  high percentages of the naturalization-eligible have lived in the united states for 
+more than 10 years (78 percent); are age 35 or older (74 percent); are married (64 
+percent); speak english well, very well, or only english (65 percent); have access to 
+both a computer and the internet (74 percent); earn income above the poverty level 
+(79 percent); and have health insurance (72 percent).
+
+  a  substantial  number  of  the  naturalization-eligible  may  have  greater  difficulty 
+negotiating  this  process,  including  high  percentages  of  the  2.87  million 
+naturalization-eligible persons who have lived in the united states for more than 
+25 years; 1.16 million who do not speak english; 3.0 million who have less than a 
+high school education; and 1.8 million who have incomes below the poverty level.
+
+at the state-wide level, cms finds that:
+
+  the large size of the mexican legally resident foreign-born population and its high 
+naturalization eligibility rate means that us states with large mexican populations 
+ like new mexico, texas, and arizona  have relatively high percentages of 
+legal foreign-born residents who can naturalize. 
+
+2   as a result, the totals shown will be less than the entire population of these two groups. note, also, that the 
+estimates have been adjusted for undercount and that undocumented residents are excluded from the data. for 
+more information on the reason for the exclusion of eligible-to-naturalize persons who had resided in the us 
+for less than five years, see footnote 3.
+
+308
+
+journal on migration and human security  california, texas, new york, and florida contain roughly five million of the us 
+
+naturalization-eligible or about 58 percent of the total population.
+
+regarding the state figures, we note that for select states cmss figures diverge substantially 
+from dhs estimates. the reasons for this divergence are discussed in appendix b.
+
+cms estimation procedure
+cms has derived the estimates set forth in this paper from data collected in the us census 
+bureaus  american  community  survey  (acs)3  in  2013.  the  estimation  procedure, 
+described in more detail in appendix a, relied on the acs questions on country of birth, 
+citizenship status, and year of immigration. all of the estimation was done at the micro data 
+level. in summary, cms compiled data for non-us citizens who entered before mid-2008,4 
+removed  those  that  it  had  previously  identified  as  undocumented  residents,  and  made 
+adjustments that took into account specific residency requirements of refugees, spouses of 
+us citizens, and active-duty military. it estimates that a total of 8.6 million were potentially 
+eligible to naturalize in 2013.
+dhs estimated that a total of 8.8 million were eligible to naturalize in 2012, but dhs 
+published estimates are limited to the top 20 states, the top 20 countries, and five-year 
+periods of entry (rytina 2013). the cms estimates for 2013 are generally consistent with 
+the dhs estimates even though the two sets of estimates were derived using different data 
+and methods. comparisons between the cms and dhs methodologies and estimates are 
+shown in appendix b.  
+the paper uses the term potentially to signal that the cms estimates of the naturalization-
+eligible include some persons who are not currently eligible to naturalize (e.g., children 
+under age 185 and others who do not meet the language and civics requirements), although 
+they could become eligible as their circumstances change. the paper refers to this population 
+as naturalization-eligible, eligible to naturalize, or simply the eligible.
+detailed data exclusively for legal residents have not been available previously because 
+undocumented  residents  are  included  in  the  foreign-born  data  collected  in  censuses 
+and surveys.6 to derive estimates of the legally resident foreign-born population, cms 
+compiled data about the naturalized population from the acs and added it to the estimates 
+of the eligible-to-naturalize population described above. the result is a unique set of data 
+for contrasting the social and economic characteristics of those who have naturalized with 
+those who have yet to naturalize. 
+
+3   the acs is an annual statistical survey conducted by the census bureau. it covers approximately 1 percent 
+of the total us population. the survey gathers information previously obtained in the decennial census long 
+form. the public-use data from the survey provides detailed social and economic data for all states, as well 
+as all cities, counties, metropolitan areas, and population groups of 100,000 people or more.
+4    most  of  those  in  the  2013 acs  who  entered  after  mid-2008  would  not  meet  the  five-year  residency 
+requirements to naturalize. see appendix a for a detailed description of the methodology.
+5   lawful permanent residents (lprs) must be at least 18 years old to apply to naturalize. however, under 
+certain conditions, children born outside the united states can derive citizenship from their parents.
+6    as  noted  previously,  cms  removed  undocumented  residents  from  the  data  shown  in  this  report,  as 
+described in appendix a.
+
+309
+
+the us eligible-to-naturalize populationthe cms estimates should be especially valuable because they provide information for 
+these populations in all of the rich geographic and demographic detail collected in the 
+acs. for example, the data show that almost 6,000 naturalization-eligible persons from 
+the azores live in massachusetts; 6,200 from somalia live in minnesota; 4,100 from tonga 
+live in california; and 2,000 from burma live in oklahoma. the estimates also reveal that 
+large  concentrations of  the  eligible-to-naturalize live  in  just  a  few  states.  for  example, 
+1.19 million naturalization-eligible persons from mexico live in california, 623,000 from 
+mexico live in texas, and 248,000 from cuba live in florida. based on the cms estimates, 
+the federal government, states, localities, private funders, and immigrant service networks 
+will be able to make educated judgments on which naturalization-eligible groups to target 
+for naturalization, where they can be found, and what services to prioritize.
+
+overview of the naturalization-eligible
+this section offers an overview of the eligible-to-naturalize. it will be supplemented by 
+cmss  release  of  additional  detailed  information,  including  sub-state  estimates  of  this 
+population. 
+
+state of residence and national origin
+
+by far the largest naturalization-eligible group by source country  2.7 million  are from 
+mexico (table 1). the numbers by source country drop sharply thereafter, ranging from 
+337,000 to 313,000 for the next four source countries: india, china, cuba, and canada.  
+a total of 50 countries have 25,000 or more naturalization-eligible persons, reflecting the 
+diverse origins of this population.
+table 1 shows estimates by country of origin in two ways: (1) ranked by the total number 
+eligible to naturalize (column 2), and ranked by the percent eligible to naturalize (column 
+6). the top 25 countries in each category are displayed. nationally, about 31 percent of 
+the legally resident population has not naturalized. high percentages in table 1 indicate 
+low rates of naturalization. by far the largest number eligible to naturalize are immigrants 
+from mexico (2.72 million). almost half (48 percent) of all legal residents from mexico 
+are eligible to naturalize.
+the percentages of those eligible to naturalize in each state are positively correlated with 
+the size of the legal immigrant population from mexico. for example, in new mexico, 
+texas, and arizona, states with high percentages from mexico, roughly 40 percent have 
+not naturalized; in new york, new jersey, and virginia, states with lower percentages of 
+immigrants from mexico, only about 26 to 28 percent have not naturalized (table 2). 
+california has the largest number eligible to naturalize, about 2.27 million, slightly more 
+than one-fourth of the us total of 8.6 million. three other states  texas, new york, and 
+florida  also have sizable numbers (table 2). these four states contain about five million 
+eligible to naturalize, or about 58 percent of the total population.
+
+310
+
+journal on migration and human securitytable  1.  estimated  number  of  legal  foreign-born 
+residents  (naturalized  and  eligible  to  naturalize)  and 
+population eligible to naturalize in 2013, by country of 
+origin 
+(numbers in thousands) resided in the united states for five years or more.
+
+country
+of origin
+
+total
+mexico
+india
+china
+cuba
+canada
+el salvador
+philippines
+uk
+dom. rep.
+
+guatemala
+korea
+vietnam
+germany
+japan
+
+colombia
+jamaica
+haiti
+honduras
+peru
+
+ecuador
+brazil
+poland
+italy
+ukraine
+russia
+
+ranked by number eligible
+eligible to naturalize
+percent
+number
+(2)
+(3)=2/1
+8,616
+2,718
+337
+320
+316
+313
+280
+255
+250
+236
+
+legal
+residents
+(1)
+27,921
+5,678
+1,317
+1,416
+981
+696
+672
+1,526
+615
+736
+
+country
+of origin
+
+31%   total
+48%  
+japan
+26%   australia
+23%   liberia
+32%   mexico
+45%   honduras
+42%   canada
+17%   guatemala
+41%   el salvador
+32%   brazil
+
+ranked by percent eligible
+eligible to naturalize
+percent
+(6)=5/4
+31%
+56%
+51%
+50%
+48%
+48%
+45%
+44%
+42%
+41%
+
+legal
+residents number
+(5)
+8,616
+146
+29
+33
+2,718
+105
+313
+176
+280
+85
+
+(4)
+27,921
+259
+56
+67
+5,678
+220
+696
+396
+672
+207
+
+396
+805
+1,148
+517
+259
+
+513
+570
+439
+220
+325
+
+284
+207
+371
+319
+309
+327
+
+176
+164
+149
+146
+146
+
+126
+126
+114
+105
+103
+
+96
+85
+80
+71
+65
+54
+
+44%   spain
+20%   uk
+13%   burma
+28%   netherlands
+56%  
+
+indonesia
+
+25%   france
+22%   kenya
+26%   bolivia
+48%   ecuador
+32%   venezuela
+
+34%   chile
+41%   cuba
+22%   dom. rep.
+22%   peru
+21%   argentina
+17%   turkey
+
+77
+615
+62
+73
+70
+
+127
+76
+55
+284
+122
+
+71
+981
+736
+325
+126
+89
+
+31
+250
+25
+29
+27
+
+46
+27
+19
+96
+40
+
+23
+316
+236
+103
+40
+27
+
+41%
+41%
+40%
+40%
+38%
+
+36%
+36%
+34%
+34%
+33%
+
+32%
+32%
+32%
+32%
+32%
+31%
+
+note: the ranked eligible-to-naturalize percentages (column 6) are shown for countries that have 50,000 or 
+more total legal residents (column 4).
+source: center for migration studies (cms) 2015 analysis of 2013 american community survey (acs) 
+data (see text).
+
+311
+
+the us eligible-to-naturalize populationtable  2.  estimated  number  of  legal  foreign-born 
+residents  (naturalized  and  eligible  to  naturalize)  and 
+population  eligible  to  naturalize  in  2013,  by  state  of 
+residence
+(numbers in thousands) resided in the united states for five years or more.
+
+state of
+residence
+
+legal
+eligible to naturalize
+residents number percent
+(6)=5/4
+
+(4)
+
+(5)
+
+state of
+residence
+
+all states
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+dc
+
+florida
+georgia
+hawaii
+idaho
+illinois
+
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+
+legal
+residents
+(1)
+27,921
+83
+36
+551
+68
+7,332
+316
+354
+49
+63
+
+2,828
+562
+189
+54
+1,199
+
+176
+91
+108
+85
+108
+34
+574
+783
+440
+274
+37
+
+source: cms 2015 analysis of 2013 acs data (see text).
+
+312
+
+percent
+(3)=2/1
+
+eligible to naturalize
+number
+(2)
+8,616
+27
+10
+210
+25
+2,270
+116
+109
+14
+28
+
+31%   missouri
+  montana
+32%
+29%
+  nebraska
+  nevada
+38%
+  new hampshire
+37%
+31%
+  new jersey
+  new mexico
+37%
+  new york
+31%
+27%
+  north carolina
+  north dakota
+45%
+
+799
+183
+55
+20
+345
+
+67
+31
+38
+25
+30
+9
+153
+241
+123
+73
+13
+
+28%
+33%
+29%
+36%
+29%
+
+38%
+34%
+35%
+29%
+28%
+26%
+27%
+31%
+28%
+27%
+35%
+
+  ohio
+  oklahoma
+  oregon
+  pennsylvania
+  rhode island
+
+  south carolina
+  south dakota
+  tennessee
+  texas
+  utah
+  vermont
+  virginia
+  washington
+  west virginia
+  wisconsin
+  wyoming
+
+148
+14
+65
+360
+59
+1,350
+129
+3,278
+376
+11
+
+323
+112
+252
+570
+96
+
+130
+12
+167
+2,463
+138
+20
+629
+623
+19
+169
+11
+
+46
+5
+23
+107
+17
+346
+53
+915
+136
+6
+
+88
+39
+93
+155
+29
+
+39
+4
+57
+983
+46
+5
+161
+186
+5
+55
+3
+
+31%
+34%
+36%
+30%
+29%
+26%
+41%
+28%
+36%
+50%
+
+27%
+35%
+37%
+27%
+30%
+
+30%
+34%
+34%
+40%
+33%
+25%
+26%
+30%
+27%
+33%
+30%
+
+journal on migration and human securitytable 57 shows estimates for every state cross-tabulated by the overall top 20 countries 
+of  origin.  of  the  ten  states  with  the  largest  number  of  naturalization-eligible,  persons 
+of  mexican  origin  constitute  the  largest  population  in:  california  (1.19  million), texas 
+(623,000),  illinois  (143,000),  arizona  (133,000),  washington  (42,000),  and  georgia 
+(37,000). about 248,000 cubans who are eligible to naturalize live in florida, and 131,000 
+from the dominican republic live in new york. a total of 14 states have fewer than 25,000 
+eligible-to-naturalize, ranging from kentucky (24,600) to wyoming (3,400). 
+
+demographic characteristics of the naturalization-eligible population
+table 3 summarizes key demographic characteristics of the naturalization-eligible. table 4 
+(pages 315-16) shows a large array of detailed information, including naturalization rates 
+and estimates of median income, for both the naturalized and the naturalization-eligible 
+population.
+
+              estimate
+
+percent
+
+table  3.  selected  characteristics  of  the  population 
+eligible to naturalize: 2013
+characteristic
+total eligible to naturalize
+lived in the united states more than 10 years
+age 35 years and older
+married (15 and older)
+speak spanish at home
+speak english well, very well, or only english (5 and older)
+some college, bachelors degree, or higher (18 and older)
+access to both a computer and the internet
+income above the poverty level
+have health insurance coverage
+
+8,616,000
+6,758,000
+6,356,000
+5,365,000
+4,242,000
+5,592,000
+3,280,000
+6,379,000
+6,838,000
+6,222,000
+
+100%
+78%
+74%
+64%
+49%
+65%
+40%
+74%
+79%
+72%
+
+source: table 4.
+
+most eligible-to-naturalize immigrants are long-term residents: 78 percent have lived in 
+the united states for 10 years or more; 24 percent for 30 years or more; and 10 percent for 
+at least 40 years (tables 3 and 4). three-quarters of naturalization-eligible immigrants are 
+35 years of age or older, and the majority are married. half of them speak spanish at home, 
+but two-thirds speak english well, very well, or only english. forty percent have attended 
+college, and three-quarters have access to the internet. seventy-nine percent have incomes 
+above the poverty level, and 72 percent have health insurance coverage.
+as these figures indicate, most members of this population represent strong candidates for 
+naturalization and are integrating well into us society by many traditional metrics. the 
+naturalization process could, however, present a greater challenge for a minority of this 
+
+7   table 5 has been placed at the end of the report because of its length.
+
+313
+
+the us eligible-to-naturalize populationpopulation. for example, we might ask why 2.9 million, or one-third of the total, have lived 
+in the united states for more than 25 years and have not naturalized. also, 1.2 million do 
+not speak english; 3.0 million have less than a high school education; and 1.8 million have 
+incomes below the poverty level (table 4).
+table  4  shows  estimates  of  the  naturalized  and  the  naturalization-eligible  populations 
+for 10 demographic variables. the naturalization rate and the median income are shown 
+for each variable and for each characteristic within the variables. as might be expected, 
+naturalization rates increase with age, length of residence, ability to speak english, and 
+educational attainment. those who are above the poverty level and those who have health 
+insurance have naturalization rates slightly above average. 
+for the naturalized population, there is a strong relationship between income, other standard 
+indicia of immigrant integration, and naturalization rates (table 4, columns 3 and 4). for 
+example, as the educational level increases from less than high school to bachelors 
+degree or higher, median income increases from $12,800 to $48,000, and naturalization 
+rates increase from 55 percent to 78 percent.
+for the eligible-to-naturalize population, median incomes also increase with age, length 
+of residence, ability to speak english, and educational attainment, but the gains are not as 
+large or as consistent as for naturalized citizens (table 4). in 2013, the median income of 
+the total naturalization-eligible population was $15,000, which was about $9,000, or 38 
+percent, lower than the median income of the naturalized population ($24,000). in fact, 
+median income for the naturalization-eligible population is substantially lower than that of 
+the naturalized population in almost every category shown in table 4, with only the narrow 
+sub-group of 18-20 year olds showing as much as an equal median income.
+among other sub-groups, persons who reported speaking dravidian languages at home 
+provided  interesting  exceptions  to  several  general  findings.8  for  example,  although 
+naturalized  citizens  who  reported  speaking  a  dravidian  language  at  home  had  median 
+incomes ($56,900) that were more than twice the median income of the total naturalized 
+population ($24,000), their naturalization rate was below average. in addition, naturalization-
+eligible dravidian speakers had median incomes almost as high ($55,000) as naturalized 
+dravidian speakers.
+
+8   dravidian languages are spoken mainly in southern india.
+
+314
+
+journal on migration and human securitytable 4. detailed social and economic characteristics of 
+the  naturalized  and  eligible  to  naturalize  populations: 
+2013
+(numbers in thousands)         population in the united states for five years or more.
+
+total legal
+foreign-born 
+population
+(1)
+
+naturalized population
+percent 
+naturalized
+(3)=2/1
+
+number
+(2)
+
+eligible to naturalize
+median 
+income
+(6)
+
+median 
+income number
+(5)
+
+(4)
+
+period of entry
+total
+   2005 to 2009
+   2000 to 2004
+   1995 to 1999
+   1990 to 1994
+   before 1990
+language spoken at home
+total
+   spanish
+   english
+   chinese
+   hindi
+   french
+   filipino
+   dravidian
+   korean
+   arabic
+   other language
+
+27,921
+2,416
+4,067
+3,969
+3,732
+13,737
+
+27,921
+10,092
+5,507
+1,676
+1,348
+795
+1,261
+352
+634
+489
+5,767
+
+ability to speak english (5 years and older)
+
+27,920
+15,919
+5,724
+4,384
+1,894
+
+total, 5 years and older
+   very well (or only english)
+   speaks english well
+   speaks english a little
+   does not speak english
+educational attainment (18 years and older)
+total, 18 years and older
+   bachelors or higher
+   some college
+   high school
+   less than high school
+
+27,016
+8,168
+6,072
+5,999
+6,778
+
+19,305
+891
+2,244
+2,581
+2,722
+10,866
+
+19,305
+5,850
+4,059
+1,312
+1,053
+540
+1,045
+227
+481
+386
+4,351
+
+19,305
+11,938
+4,113
+2,520
+734
+
+18,759
+6,367
+4,593
+4,067
+3,732
+
+69% $24,000
+37% $15,000
+55% $19,300
+65% $23,000
+73% $25,000
+79% $25,600
+
+69% $24,000
+58% $20,000
+74% $30,000
+78% $25,000
+78% $27,500
+68% $25,000
+83% $30,000
+64% $56,900
+76% $22,200
+79% $20,000
+75% $23,400
+
+69% $24,000
+75% $30,000
+72% $23,000
+57% $12,200
+$8,600
+39%
+
+69% $24,000
+78% $48,000
+76% $25,000
+68% $19,800
+55% $12,800
+
+8,616
+1,525
+1,823
+1,388
+1,010
+2,871
+
+8,615
+4,241
+1,447
+364
+295
+256
+216
+125
+153
+103
+1,415
+
+8,615
+3,981
+1,611
+1,863
+1,160
+
+8,256
+1,801
+1,479
+1,932
+3,045
+
+$15,000
+$13,000
+$15,000
+$15,000
+$15,000
+$15,700
+
+$15,000
+$13,000
+$22,500
+$12,000
+$18,000
+$18,400
+$17,700
+$55,000
+$11,200
+$6,300
+$17,000
+
+$15,000
+$22,000
+$17,000
+$12,000
+$7,700
+
+$15,200
+$40,000
+$18,000
+$15,000
+$10,200
+
+315
+
+the us eligible-to-naturalize populationtable  4.  (continued)  detailed  social  and  economic 
+characteristics  of  the  naturalized  and  eligible  to 
+naturalize populations: 2013
+(numbers in thousands)         population in the united states for five years or more.
+
+total legal
+foreign-born 
+population
+(1)
+
+naturalized population
+percent 
+naturalized
+(3)=2/1
+
+number
+(2)
+
+eligible to naturalize
+median 
+income
+(6)
+
+median 
+income number
+(5)
+
+(4)
+
+marital status (15 years and older)
+total, 15 years and older
+    married
+    not married
+
+27,364
+17,469
+9,895
+
+  age (in years)
+total, 5 years and older
+   5 to 17 years
+   18 to 20 years
+   21 to 24 years
+   25 to 34 years
+   35 to 44 years
+   45 to 64 years
+   65 years and older
+sex
+total
+   female
+   male
+
+27,921
+904
+413
+770
+3,740
+5,813
+10,882
+5,397
+
+27,921
+15,033
+12,888
+
+ access to a computer or the internet
+27,921
+total
+   access to a computer
+23,347
+23,232
+   access to internet
+   access to both
+22,300
+
+poverty status
+total
+   above poverty threshold
+   at or below threshold
+
+27,921
+23,877
+4,044
+
+18,974
+12,104
+6,870
+
+19,305
+545
+257
+504
+2,262
+3,697
+7,876
+4,163
+
+19,305
+10,481
+8,824
+
+19,305
+16,554
+16,439
+15,921
+
+19,305
+17,039
+2,266
+
+69%
+69%
+69%
+
+69%
+60%
+62%
+65%
+60%
+64%
+72%
+77%
+
+69%
+70%
+68%
+
+69%
+71%
+71%
+71%
+
+69%
+71%
+56%
+
+$24,000
+$28,000
+$19,000
+
+8,391
+5,365
+3,025
+
+$15,000
+$17,500
+$12,000
+
+$24,000
+n/a 
+$1,000
+$9,400
+$26,000
+$35,000
+$30,000
+$14,000
+
+$24,000
+$17,800
+$33,000
+
+$24,000
+$26,300
+$26,700
+$27,000
+
+$24,000
+$28,900
+$6,700
+
+8,616
+359
+156
+267
+1,478
+2,116
+3,006
+1,234
+
+8,616
+4,552
+4,064
+
+8,616
+6,793
+6,794
+6,379
+
+8,616
+6,838
+1,778
+
+$15,000
+n/a 
+$1,000
+$9,000
+$18,000
+$20,000
+$17,700
+$8,600
+
+$15,000
+$9,000
+$23,000
+
+$15,000
+$16,800
+$17,000
+$17,000
+
+$15,000
+$20,000
+$4,700
+
+    source: cms 2015 analysis of 2013 acs data (see text).
+
+316
+
+journal on migration and human securityconclusion
+the data set forth in this paper reveal two striking patterns. first, for naturalized citizens, 
+median income and naturalization rates rise as age, length of residence, ability to speak 
+english, and educational attainment increase. second, in every category but one, those 
+who have not yet naturalized have lower median incomes than those who have naturalized. 
+it is not possible to demonstrate causal relationships with this data. for example, does 
+naturalization increase income, or are those with higher incomes more likely to naturalize? 
+however, it appears that there are financial benefits for learning to speak english well and 
+increasing educational levels. 
+this paper raises several policy issues. first, the description of the naturalization-eligible 
+population  reveals  that  the  characteristics  and  capabilities  of  the  population  are  not 
+homogeneous. the majority of the eligible-to-naturalize are likely in a good position to 
+naturalize, but there are millions who would find it difficult to meet the language and other 
+requirements for naturalization. this dichotomy raises a number of questions regarding 
+how to allocate limited federal, state, local and community-based naturalization resources 
+most  effectively.  should  we  rely,  for  example,  on  publicity  and  outreach  to  encourage 
+those who are well-situated to naturalize to take this step, while devoting more substantial 
+resources for english language and other assistance to the second group? or would it be 
+more effective to devote the lions  share of  resources  to  naturalization-eligible persons 
+who  will not experience substantial difficulty in the naturalization process? these data 
+will be an indispensable tool for making these kinds of judgments, identifying necessary 
+interventions and facilitating assistance to both groups.
+the denominator used to calculate the naturalization eligibility rates set forth in this 
+paper  the foreign-born population, excluding undocumented residents and excluding 
+legal residents who arrived after mid-2008  provides an opportunity to reexamine the 
+utility of traditional naturalization rates. in fact, the paper opts to provide naturalization 
+eligibility  rates,  rather  than  naturalization  rates.  naturalization  rates  have  traditionally 
+been calculated by using, as the denominator, all foreign-born persons (the naturalized, 
+legal non-citizens, and undocumented residents). by including the unauthorized in this 
+calculation, naturalization rates have appeared misleadingly low for the populations that 
+can be naturalized. the data in table 1 for mexico can be used, along with an estimate of 
+undocumented residents from mexico, to illustrate this point. the data for mexico show 
+that  48  percent  are  eligible  to  naturalize.  in  contrast,  the  traditional  naturalization  rate 
+for mexico would be just 27 percent because 5.4 million (warren 2014) undocumented 
+residents would have been included in calculating that rate. the naturalization eligibility 
+rate for mexico, computed using the data presented here, is relatively high compared to 
+other countries, meaning that a relatively higher rate of legally resident mexican nationals 
+are eligible to naturalize and a relatively lower rate have, in fact, naturalized. because 
+naturalization eligibility rates reflect the foreign-born population that could naturalize in 
+the short term (prior to legislation to legalize the us undocumented population), this rate 
+should be more useful in targeting outreach and services to the naturalization-eligible. 
+a second policy issue relates to those who have lived the longest in the united states. 
+providing an easier path to naturalization would be an appropriate response to persons with 
+decades of lawful and productive us residence. under us law, persons age 50 or older who 
+
+317
+
+the us eligible-to-naturalize populationhave been lawful permanent residents (lprs) for 20 years or those age 55 or older with 
+15 years in lpr status are exempt from the english-language requirement to naturalize, 
+although not from the civics test. it would make sense to expand these exceptions, and to 
+supplement them with an alternative (minimum) set of requirements for the naturalization 
+of very long-term lprs, akin to the registry9 provisions that allow undocumented residents 
+who have resided here since 1972 to adjust to legal resident status (warren and kerwin 
+2015, 99-100). for example, a streamlined and expedited naturalization system for persons 
+who  have  had  lpr  status  for  at  least  35  years  would  have  covered  nearly  1.2  million 
+persons in 2013, according to cms estimates, and would cover approximately 100,000 
+each year thereafter.
+third, the cms estimates reveal that three million naturalization-eligible persons do not 
+speak english or speak only a little english. thus, they argue for substantial investments 
+in  english-language  instruction.  they  also  illustrate  the  need  to  prioritize  immigrant 
+integration more broadly, given the strong correlation between naturalization and income, 
+poverty status, english-language proficiency, and health insurance coverage. moreover, 
+the  cms  data  argue  for  reduced  naturalization  fees  and  generous  fee  waiver  policies. 
+they  indicate  that  the  median  annual  income  of  the  naturalization-eligible  population 
+nationwide is $15,000, with lower levels of median income among persons who speak 
+spanish ($13,000), korean ($11,200), or arabic ($6,300) at home, and those without a high 
+school education ($10,200). naturalization filing fees of $680 ($595 for the application and 
+$85 for biometric screening) constitute a high percentage of the annual income of many 
+naturalization-eligible persons and could certainly present a disincentive to naturalization 
+in these cases.  
+the purpose of this paper is to introduce a new set of detailed data for those potentially 
+eligible to naturalize. cms undertook the project out of the conviction that making social 
+and economic data for this population available down to the puma10 level would help to 
+focus resources where they are most needed, and would lead to improved naturalization 
+policies and sustained increases in naturalization rates. the project seeks to democratize 
+data on this population in order to allow the federal government, states, localities, and 
+non-governmental  agencies  to  develop  strategies  for  identifying  naturalization-eligible 
+populations  by geographic area, source country, and a variety of demographic criteria  
+and to encourage and assist targeted populations to naturalize. in the spirit of the national 
+academies report, we hope to enhance the opportunities of immigrants and their children 
+to embrace an american identity and citizenship. 
+
+9   under the registry provision, undocumented residents can adjust to lpr status if they entered before 1972; 
+lived in the united states continuously since then; are persons of good moral character; are not ineligible 
+for naturalization; and are not deportable under various sections of the immigration and nationality act.
+10   public use microdata areas (pumas) are census-defined areas that have approximately 100,000 total 
+population.
+
+318
+
+journal on migration and human securityall countries
+
+table 5. estimated population eligible to naturalize, by 
+us state and top 20 source countries in 2013      
+note: detail may not sum to total because of rounding.
+state
+india
+336,800
+all states
+2,600
+alabama
+alaska
+-
+5,100
+arizona
+1,400
+arkansas
+california
+73,000
+1,400
+colorado
+7,000
+connecticut
+1,500
+delaware
+dc
+100
+12,200
+florida
+11,400
+georgia
+hawaii
+-
+idaho
+400
+19,200
+illinois
+4,500
+indiana
+iowa
+1,300
+1,600
+kansas
+kentucky
+900
+1,300
+louisiana
+1,100
+maine
+6,400
+maryland
+massachusetts
+10,600
+8,500
+michigan
+3,800
+minnesota
+mississippi
+800
+2,200
+missouri
+montana
+600
+1,100
+nebraska
+nevada
+1,100
+1,800
+new hampshire
+41,800
+new jersey
+new mexico
+900
+23,100
+new york
+7,800
+north carolina
+north dakota
+500
+7,200
+ohio
+700
+oklahoma
+
+mexico
+8,616,400 2,718,300
+6,800
+100
+133,000
+11,800
+2,269,600 1,190,200
+54,400
+4,000
+3,200
+1,700
+40,600
+37,400
+700
+10,100
+143,200
+20,900
+5,900
+16,300
+4,300
+2,500
+200
+4,200
+4,000
+18,100
+13,600
+2,900
+5,600
+300
+7,500
+44,500
+900
+18,200
+41,800
+40,000
+31,100
+300
+11,100
+16,900
+
+canada el salvador
+280,400
+312,500
+-
+1,400
+2,200
+300
+2,600
+14,600
+1,200
+2,600
+99,900
+45,600
+1,800
+7,200
+600
+5,300
+-
+1,100
+900
+5,900
+10,000
+39,400
+3,400
+7,100
+2,200
+-
+100
+2,200
+2,400
+7,900
+1,100
+4,000
+2,400
+600
+200
+1,100
+100
+700
+1,200
+300
+3,100
+100
+20,500
+2,500
+12,000
+13,200
+300
+15,700
+100
+4,100
+-
+900
+1,400
+900
+-
+1,300
+800
+1,400
+4,900
+3,600
+300
+4,300
+5,900
+6,500
+400
+-
+29,100
+21,200
+5,000
+6,400
+-
+700
+6,000
+800
+400
+1,000
+
+26,900
+10,500
+210,400
+25,200
+
+116,400
+108,700
+13,500
+28,100
+798,700
+182,800
+54,700
+19,600
+344,600
+67,400
+31,300
+37,800
+24,600
+30,300
+8,800
+153,400
+240,900
+123,300
+73,300
+13,100
+46,400
+4,800
+23,100
+107,200
+16,900
+345,600
+52,600
+914,600
+136,300
+5,700
+88,200
+39,100
+
+china
+320,400
+1,400
+100
+1,600
+400
+81,500
+1,900
+2,500
+400
+600
+7,900
+6,300
+3,200
+200
+12,400
+2,200
+600
+700
+800
+1,200
+100
+8,700
+12,500
+5,500
+2,400
+200
+2,200
+200
+900
+2,500
+500
+8,400
+500
+87,400
+3,200
+-
+5,000
+2,800
+
+cuba
+315,800
+500
+400
+3,300
+-
+5,300
+600
+1,300
+-
+-
+248,200
+4,200
+-
+-
+1,900
+300
+-
+600
+2,900
+1,400
+-
+900
+1,300
+600
+100
+-
+100
+-
+1,800
+6,200
+-
+8,300
+500
+4,700
+1,800
+-
+200
+-
+
+319
+
+the us eligible-to-naturalize populationtable  5.  (continued)  estimated  population  eligible  to 
+naturalize, by us state and top 20 source countries in 
+2013  
+note: detail may not sum to total because of rounding.
+
+all countries
+
+93,300
+154,600
+28,700
+39,400
+4,200
+56,700
+983,400
+46,100
+5,000
+160,800
+186,400
+5,100
+55,100
+3,400
+
+mexico
+8,616,400 2,718,300
+30,700
+7,600
+600
+8,400
+400
+11,100
+623,500
+14,900
+500
+9,100
+41,700
+1,000
+19,400
+1,100
+
+state
+all states
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+note: where indicated, - is zero or rounds to zero.
+source: cms 2015 analysis of 2013 acs data (see text).
+
+india
+336,800
+2,000
+10,000
+700
+1,500
+100
+2,300
+27,800
+1,000
+-
+10,700
+10,500
+300
+5,000
+-
+
+china
+320,400
+2,800
+11,000
+100
+1,200
+300
+2,500
+18,400
+400
+100
+5,900
+6,100
+500
+1,800
+-
+
+cuba
+315,800
+700
+700
+-
+500
+-
+1,700
+11,100
+300
+-
+2,100
+500
+200
+700
+-
+
+canada el salvador
+280,400
+312,500
+6,100
+1,500
+600
+4,700
+-
+400
+2,700
+700
+-
+200
+4,300
+1,500
+43,900
+22,100
+3,800
+1,700
+-
+800
+16,400
+4,800
+18,500
+1,500
+-
+-
+100
+2,200
+400
+-
+
+table  5.  (continued)  estimated  population  eligible  to 
+naturalize, by us state and top 20 source countries in 
+2013
+note: detail may not sum to total because of rounding. 
+
+state
+all states
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+dc
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+
+320
+
+philippines
+255,200
+500
+1,500
+4,300
+700
+104,000
+1,900
+1,500
+200
+200
+13,100
+2,100
+15,600
+100
+12,400
+1,400
+
+uk dom. rep. guatemala
+175,500
+2,300
+-
+1,500
+500
+68,100
+700
+3,200
+600
+1,100
+11,500
+2,800
+-
+100
+3,200
+100
+
+235,800
+-
+-
+200
+100
+1,600
+600
+6,500
+100
+900
+20,300
+1,900
+-
+-
+1,500
+800
+
+250,000
+1,000
+300
+5,300
+1,800
+49,300
+3,600
+4,900
+500
+1,000
+25,300
+6,500
+400
+1,000
+8,700
+2,500
+
+korea
+163,600
+900
+1,700
+1,300
+100
+47,400
+3,200
+1,300
+200
+-
+2,100
+6,100
+1,700
+-
+8,400
+1,000
+
+vietnam
+148,600
+800
+-
+3,000
+100
+47,500
+2,100
+800
+-
+900
+7,100
+5,700
+2,100
+-
+1,000
+400
+
+japan
+146,200
+-
+300
+1,900
+200
+47,400
+2,100
+900
+200
+600
+3,300
+2,700
+12,400
+-
+2,400
+1,300
+
+journal on migration and human securitytable  5.  (continued)  estimated  population  eligible  to 
+naturalize, by us state and top 20 source countries in 
+2013
+note: detail may not sum to total because of rounding.
+
+philippines
+255,200
+300
+800
+600
+1,800
+500
+4,500
+900
+2,600
+1,600
+-
+1,800
+700
+200
+9,300
+600
+12,400
+300
+13,300
+3,300
+200
+800
+900
+2,600
+2,300
+100
+1,400
+-
+400
+13,500
+1,000
+-
+8,700
+7,000
+100
+800
+300
+
+250,000
+900
+1,100
+1,100
+900
+600
+6,200
+7,400
+4,800
+2,100
+100
+1,800
+300
+800
+2,300
+1,800
+9,400
+600
+20,900
+7,600
+300
+3,800
+1,700
+6,400
+8,700
+400
+3,000
+200
+3,000
+19,300
+1,600
+800
+6,000
+10,000
+400
+1,700
+200
+
+state
+all states
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+note: where indicated, - is zero or rounds to zero.
+source:  cms 2015 analysis of 2013 acs data (see text).
+
+uk dom. rep. guatemala
+175,500
+1,400
+400
+600
+800
+-
+5,600
+10,900
+1,500
+400
+200
+300
+-
+2,000
+1,400
+-
+6,600
+300
+10,700
+3,400
+100
+1,700
+800
+1,400
+2,000
+4,500
+1,400
+600
+1,800
+11,200
+800
+-
+5,000
+1,500
+-
+500
+100
+
+235,800
+-
+-
+100
+400
+-
+2,400
+18,800
+500
+-
+-
+100
+-
+-
+400
+-
+29,000
+100
+130,500
+2,100
+-
+100
+-
+-
+10,400
+5,200
+100
+-
+-
+600
+-
+-
+500
+100
+-
+100
+-
+
+korea
+163,600
+900
+700
+400
+100
+-
+5,300
+2,600
+3,800
+400
+300
+1,000
+-
+500
+2,800
+500
+15,100
+200
+17,800
+2,100
+-
+2,000
+400
+1,600
+5,300
+-
+400
+100
+1,000
+8,100
+500
+100
+6,900
+6,100
+400
+600
+-
+
+vietnam
+148,600
+1,800
+2,400
+500
+4,600
+300
+2,000
+5,000
+4,100
+1,500
+600
+900
+300
+100
+1,000
+-
+2,700
+300
+2,900
+4,900
+200
+1,000
+300
+2,200
+4,700
+-
+900
+-
+1,500
+17,500
+300
+900
+2,700
+8,500
+200
+400
+-
+
+japan
+146,200
+1,500
+600
+1,400
+600
+100
+1,600
+4,400
+4,900
+500
+400
+900
+-
+100
+2,000
+400
+4,600
+1,000
+12,800
+2,200
+-
+2,900
+1,600
+3,900
+1,900
+400
+600
+-
+1,000
+5,800
+1,400
+-
+2,200
+8,100
+100
+700
+-
+
+321
+
+the us eligible-to-naturalize populationgermany
+145,900
+1,000
+400
+2,500
+400
+20,900
+4,800
+2,000
+600
+400
+11,800
+5,100
+1,200
+600
+6,100
+2,500
+1,300
+1,200
+1,300
+600
+500
+2,400
+4,600
+5,500
+1,800
+600
+1,900
+300
+300
+1,900
+
+table  5.  (continued)  estimated  population  eligible  to 
+naturalize, by us state and top 20 source countries in 
+2013 
+note: detail may not sum to total because of rounding
+state
+all states
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+dc
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new 
+hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+
+peru ecuador all other
+96,400 2,140,400
+6,800
+2,500
+25,000
+3,700
+332,600
+26,300
+40,500
+3,200
+11,800
+177,200
+60,800
+14,700
+4,500
+102,100
+20,400
+11,300
+9,700
+7,500
+9,100
+2,200
+65,500
+108,400
+44,800
+37,200
+4,900
+23,400
+800
+5,200
+20,200
+
+haiti honduras
+104,700
+300
+-
+2,100
+200
+19,800
+1,100
+900
+700
+-
+14,600
+3,600
+100
+-
+1,900
+2,300
+-
+300
+300
+2,600
+-
+2,500
+2,700
+400
+500
+200
+500
+-
+300
+1,100
+
+jamaica colombia
+126,300
+-
+100
+-
+-
+2,400
+200
+6,500
+300
+600
+29,600
+7,000
+100
+-
+2,200
+800
+-
+-
+-
+-
+200
+5,100
+4,300
+500
+400
+500
+100
+-
+-
+-
+
+126,200 113,900
+-
+-
+-
+-
+300
+100
+3,400
+600
+-
+53,700
+2,500
+100
+-
+1,100
+400
+-
+-
+200
+400
+-
+1,000
+10,300
+200
+-
+-
+-
+-
+-
+200
+
+400
+400
+1,100
+-
+7,400
+900
+5,500
+-
+500
+43,500
+3,300
+100
+100
+2,500
+-
+200
+-
+300
+100
+-
+1,400
+2,100
+500
+1,500
+-
+400
+-
+-
+100
+
+103,400
+-
+200
+1,700
+-
+21,500
+1,100
+3,400
+100
+-
+19,300
+2,000
+-
+200
+1,300
+300
+600
+-
+200
+-
+-
+3,100
+3,100
+200
+200
+400
+800
+-
+-
+1,500
+
+-
+10,600
+100
+13,500
+2,200
+-
+
+100
+-
+500
+-
+4,000
+700
+6,700
+-
+800
+8,100
+800
+100
+-
+2,800
+200
+400
+100
+400
+300
+-
+1,700
+1,600
+300
+1,200
+-
+-
+-
+-
+300
+
+-
+18,600
+500
+38,400
+1,900
+-
+
+4,800
+110,500
+3,400
+336,300
+36,700
+3,100
+
+-
+4,900
+-
+9,600
+5,900
+-
+
+300
+4,100
+900
+8,800
+4,700
+300
+
+100
+6,100
+-
+47,200
+1,600
+-
+
+-
+15,800
+700
+19,000
+2,400
+-
+
+700
+5,900
+-
+27,600
+-
+-
+
+322
+
+journal on migration and human securitytable  5.  (continued)  estimated  population  eligible  to 
+naturalize, by us state and top 20 source countries in 
+2013 
+note: detail may not sum to total because of rounding
+state
+all states
+500
+ohio
+200
+oregon
+2,200
+pennsylvania
+700
+rhode island
+1,400
+south carolina
+-
+south dakota
+700
+tennessee
+7,600
+texas
+200
+utah
+-
+vermont
+1,100
+virginia
+700
+washington
+-
+west virginia
+500
+wisconsin
+wyoming
+-
+notes: where indicated, - is zero or rounds to zero.
+source: cms 2015 analysis of 2013 acs data (see text). 
+
+peru ecuador all other
+96,400 2,140,400
+37,500
+28,000
+68,000
+14,100
+11,300
+1,900
+21,400
+113,400
+14,600
+1,400
+62,500
+60,000
+1,600
+17,000
+1,100
+
+haiti honduras
+104,700
+700
+200
+800
+200
+200
+-
+700
+18,000
+100
+-
+3,300
+600
+-
+200
+-
+
+103,400
+400
+100
+1,100
+600
+400
+400
+300
+4,400
+2,000
+-
+4,900
+500
+100
+800
+-
+
+germany
+145,900
+4,200
+2,300
+4,100
+400
+3,200
+100
+1,200
+11,400
+1,400
+500
+5,100
+4,400
+200
+2,400
+200
+
+jamaica colombia
+126,300
+1,700
+100
+3,900
+-
+100
+-
+100
+1,800
+-
+-
+2,300
+100
+-
+200
+-
+
+126,200 113,900
+300
+600
+2,800
+200
+-
+-
+100
+900
+-
+-
+100
+-
+-
+-
+-
+
+400
+-
+1,800
+-
+-
+-
+-
+2,900
+200
+-
+500
+200
+-
+100
+-
+
+appendix  a.  estimation  of  the  number  eligible  to 
+naturalize
+step 1. the first step in the estimation procedure was to compile data from the 2013 acs 
+for all noncitizens who entered the united states from 1920 to 2013. note that most who 
+entered in 2009 or later are not included in these estimates because they would not meet 
+the five-year lpr residency requirement. however, some who entered in 2008, as well as 
+some who entered later, would be eligible to naturalize, and they were taken into account, 
+as described in subsequent steps.
+step 2. next, we removed undocumented residents that cms estimated were included in the 
+acs data. in deriving those estimates it was assumed that nearly all of the undocumented 
+resident population is contained in the acs data for noncitizens that entered the united 
+states after 1981. very few who entered before 1982 would still be residing in the united 
+states as undocumented residents in 2013 because: (1) a large percentage of those who 
+entered before 1982 obtained legal status under the immigration reform and control act 
+of 1986 (irca);11 and (2) the remainder have had more than 30 years in which to leave 
+
+11   the immigration reform and control act of 1986 (irca) went into effect in 1987. under irca, the 
+two main groups who were eligible for legalization were: legalization applicants who continuously resided 
+in the united states since before january 1, 1982 and special agricultural workers (saws) who had 60 days 
+of seasonal agricultural work experience in qualifying crops from may 1985 to may 1986. about 1.6 million 
+legalization applicants and 1.1 million saw applicants were approved.
+
+323
+
+the us eligible-to-naturalize populationthe undocumented resident population  that is, to secure legal status, be removed, leave 
+voluntarily, or die. 
+the  methodology  used  to  identify  undocumented  residents  involved  three  major  steps: 
+(1) applying a series of edits, referred to as logical edits,12 to identify and remove as 
+many legal residents as possible based on responses in the survey; (2) deriving separate 
+population  controls,  for  145  countries  or  areas,  for  undocumented  residents  counted  in 
+the acs; and (3) using those population controls to make final selections of individual 
+respondents in the acs to be classified as undocumented residents (warren 2014, 308). 
+the result of these procedures was a flag for each undocumented resident.13 we used this 
+information to remove undocumented residents from the 2013 acs data for noncitizens.
+step 3. in most cases, five years of lpr status is required to naturalize, but the acs asks 
+only: where did you live 1 year ago?  cms used the response to that question to exclude 
+people who had breaks in residence. in particular, it subtracted noncitizens that entered 
+before 2008 and reported that they lived abroad one year ago.
+step 4. to take account of the shorter length of residency requirement for refugees, cms 
+included all noncitizens who entered the united states in 2008 from the following countries: 
+bhutan, burma, burundi, central african republic, democratic republic of the congo, 
+iraq, nepal, and somalia.
+step 5. three years of marriage to a us citizen is required to qualify for naturalization, but 
+the acs asks only whether a marriage occurred one year ago. cms added noncitizens that 
+entered in 2008 or 2009 and were married to us citizens, except those who reported that 
+their marriage occurred one year ago. 
+step 6.  cms added noncitizens who were on active military duty and who entered the 
+united states after 2007.
+step 7. adjustment of the 2008 entry cohort. after completing step 6, we removed half of 
+those who entered the united states in 2008. the table on the following page illustrates the 
+reason for this adjustment.
+
+12   the term logical edit refers to the process of determining probable legal status by examining survey 
+data. cms assigned respondents to the legal category if they worked in occupations that generally require 
+legal status, were legal temporary migrants, were immediate relatives of us citizens, received public benefits, 
+were from countries where most arrivals would be refugees, or were age 60 or older at entry.
+13   detailed information about undocumented residents, including social and demographic characteristics, 
+for all states and for all pumas is available at: http://data.cmsny.org/ 
+
+324
+
+journal on migration and human securitytable  a-1.  adjustment  of  the  2008  entry  cohort  in  2013 
+acs data
+
+year
+
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+
+as collected 
+in the acs
+1 year
+1 year
+1 year
+1 year
+1 year
+1 year
+ year
+
+needed to estimate 
+eligible to naturalize
+
+ year
+1 year
+1 year
+1 year
+1 year
+ year
+
+              5-year period in which most*are
+              not eligible for naturalization
+
+* for exceptions, see steps 3 to 6.
+because of the survey design, the acs data for the foreign-born population that entered 
+in the year the survey is conducted amounts to only a half-year of data, as shown above 
+for 2013. to derive estimates of those eligible to naturalize, we needed to exclude those 
+who had resided in the united states for less than five years. to do so, it was necessary to 
+exclude half of those who entered in 2008, as shown in the table above. because month of 
+entry is not collected in the acs, we randomly selected half of the 2008 entry cohort for 
+each country of origin.
+after completing step 7, cms had estimated the number counted in the 2013 acs. the 
+final step was to adjust those estimates for undercount.
+step 8.  adjustment for undercount. the most recent entrants were assumed to have the 
+highest undercount rates (about 8 percent for 2003-2008 entrants), and the undercount rate 
+dropped steadily with length of residence, falling to 2 percent for those who entered in the 
+early 1980s. the estimated undercount rate for the total population eligible to naturalize is 
+about 4.5 percent.
+
+appendix b. comparison of cms and dhs estimates
+as described in appendix a, the cms estimates were derived from data collected in the 
+acs. as such, they are subject to sampling variability as well as non-sampling errors, 
+such as possible errors in the assignment of legal status of noncitizens. the estimates for 
+smaller geographic areas should be used with caution. even with those caveats, however, 
+the cms estimates should accurately reflect the population eligible to naturalize because 
+of the very large sample size of the acs and because the estimates do not require the use 
+of the administrative data or assumptions described below.  
+the  dhs  estimates  for  2012  were  derived  from  administrative  data  on  the  number 
+admitted as immigrants (lprs) from 1980 to 2011; they were reduced by dhs estimates 
+of emigration and mortality from entry to 2012. finally, noncitizens who entered before 
+1980 were added based on data from the 2012 acs.
+
+325
+
+the us eligible-to-naturalize populationthe data underlying the dhs estimates are subject to two types of potentially significant 
+errors: a lack of data on internal migration of lprs; and the absence of separate emigration 
+rates by year of entry and for each country of origin.  
+
+1. 
+
+2. 
+
+ internal migration of lprs. the state of residence of lprs is not updated
+between entry and 2012. that is, those who were admitted for permanent residence 
+in 1980 and lived in california are still estimated to be residing in california in 
+2012. for the state-by-state estimates, the potential error in 2012 is the cumulative 
+net migration between every state for every year of entry up to 2012. this lack of 
+data does not affect the estimated total population eligible to naturalize; however, 
+it introduces considerable uncertainty into the dhs estimates for every state.
+ emigration of lprs. in the dhs methodology, it is necessary to take account of
+emigration (from the united states) of lprs from the year they enter to 2012. the 
+similarity of the cms and dhs estimates of the total number eligible to naturalize 
+ 8.6 million and 8.8 million, respectively  provides support for dhs overall 
+level of emigration. however, a potential problem arises because dhs assumes 
+that a single rate of emigration applied equally to every country and in every time 
+period. 14 the lack of variability in the emigration rates reduces the accuracy of the 
+dhs estimates by country of origin.
+
+the  estimates  derived  by  cms  are  not  affected  by  the  lack  of  information  on  internal 
+migration or emigration of lprs because the cms estimates are based on the population 
+counted in 2013. that is, all internal migrating and emigrating of the population would 
+have occurred before they were counted in 2013. thus, both of these components of change 
+are automatically taken into account in the cms estimates. 
+for the reasons described above, we would expect to observe differences between the cms 
+and dhs estimates. tables b-1 and b-2 show comparisons of the cms and dhs estimates. 
+dhs top 20 states of residence and top 20 countries of origin are shown in the tables, but 
+the states and countries are ranked based on the cms estimates.
+
+14    this  discussion  should  not  be  taken  as  a  criticism  of  dhs  methods,  data,  or  assumptions.  dhss 
+assumptions were necessary if any estimates were to be made. instead, this is a reflection of the drawbacks 
+of using administrative data for these kinds of estimates, and it is the reason that survey data are being used 
+increasingly for these difficult-to-estimate populations. 
+
+326
+
+journal on migration and human securitytable b-1. comparison between cms and dhs estimates 
+of  the  population  eligible  to  naturalize:  dhs  top  20 
+states of residence
+state of residence
+
+cms (2013)
+(1)
+8,616,000
+2,270,000
+983,000
+915,000
+799,000
+346,000
+345,000
+241,000
+210,000
+186,000
+183,000
+161,000
+155,000
+153,000
+136,000
+123,000
+116,000
+109,000
+107,000
+88,000
+73,000
+917,000
+
+dhs (2012)
+(2)
+8,770,000
+2,480,000
+930,000
+1,050,000
+830,000
+370,000
+370,000
+200,000
+180,000
+180,000
+140,000
+160,000
+140,000
+140,000
+90,000
+130,000
+90,000
+100,000
+90,000
+90,000
+80,000
+940,000
+
+all states
+california
+texas
+new york
+florida
+new jersey
+illinois
+massachusetts
+arizona
+washington
+georgia
+virginia
+pennsylvania
+maryland
+north carolina
+michigan
+colorado
+connecticut
+nevada
+ohio
+minnesota
+all other
+
+dhs-cms
+(3)=(1)-(2)
+154,000
+210,000
+-53,000
+135,000
+31,000
+24,000
+25,000
+-41,000
+-30,000
+-6,000
+-43,000
+-1,000
+-15,000
+-13,000
+-46,000
+7,000
+-26,000
+-9,000
+-17,000
+2,000
+7,000
+23,000
+
+pct. diff.
+(4)=3/1*100
+2%
+9%
+-5%
+15%
+4%
+7%
+7%
+-17%
+-14%
+-3%
+-23%
+-1%
+-10%
+-8%
+-34%
+6%
+-22%
+-8%
+-16%
+2%
+10%
+3%
+
+source: column 1, cms 2015 analysis of 2013 acs data (see text); column 2, rytina (2013), table 5.
+
+327
+
+the us eligible-to-naturalize populationtable b-2. comparison between cms and dhs estimates 
+of  the  population  eligible  to  naturalize:  dhs  top  20 
+countries of origin
+country of origin
+
+cms (2013)
+(1)
+8,616,000
+2,718,000
+337,000
+320,000
+316,000
+313,000
+280,000
+255,000
+250,000
+236,000
+176,000
+164,000
+149,000
+146,000
+146,000
+126,000
+126,000
+114,000
+103,000
+80,000
+46,000
+2,216,000
+
+dhs (2012)
+(2)
+8,770,000
+2,690,000
+240,000
+280,000
+300,000
+260,000
+260,000
+340,000
+240,000
+310,000
+130,000
+180,000
+200,000
+110,000
+150,000
+160,000
+140,000
+160,000
+80,000
+110,000
+60,000
+2,370,000
+
+all countries
+mexico
+india
+china
+cuba
+canada
+el salvador
+philippines
+united kingdom
+dominican republic
+guatemala
+korea
+vietnam
+japan
+germany
+jamaica
+colombia
+haiti
+peru
+poland
+pakistan
+all other
+
+dhs-cms
+(3)=(1)-(2)
+154,000
+-28,000
+-97,000
+-40,000
+-16,000
+-53,000
+-20,000
+85,000
+-10,000
+74,000
+-46,000
+16,000
+51,000
+-36,000
+4,000
+34,000
+14000
+46,000
+-23,000
+30,000
+14,000
+154,000
+
+pct. diff.
+(4)=3/1*100
+2%
+-1%
+-29%
+-13%
+-5%
+-17%
+-7%
+33%
+-4%
+31%
+-26%
+10%
+34%
+-25%
+3%
+27%
+11%
+40%
+-22%
+38%
+30%
+7%
+
+source: column 1, center for migration studies; see text; column 2, rytina (2013), table 4.
+as  tables  b-1  and  b-2  show,  the  cms  and  dhs  estimation  procedures  arrived  at 
+approximately the same total population. however, as noted, the lack of internal migration 
+data, as well as the assumption of uniform emigration rates, in the dhs data likely reduces 
+the comparability of the estimates by state of residence and country of origin. 
+
+references
+national academies  of  sciences,  engineering,  and  medicine.  2015.  the  integration  of 
+immigrants into american society. panel on the integration of immigrants into 
+american society, m. c. waters and m. g. pineau, eds. committee on population. 
+division of behavioral and social sciences and education. washington, dc: the 
+national academies press. http://www.nap.edu/read/21746/chapter/2
+
+328
+
+journal on migration and human securityrytina,  nancy.  2013.  estimates  of  the  legal  permanent  resident  population  in  2012. 
+washington, dc: dhs office of immigration statistics, policy directorate. https://
+www.dhs.gov/sites/default/files/publications/ois_lpr_pe_2012.pdf.
+
+warren, robert. 2014. democratizing data about unauthorized residents in the united 
+states: estimates and public-use data, 2010 to 2013. journal on migration and 
+human security 2(4): 305-328. http://dx.doi.org/10.14240/jmhs.v2i4.38.
+
+warren,  robert,  and  donald  kerwin.  2015.  beyond  dapa  and  daca:  revisiting 
+legislative reform in light of long-term trends in unauthorized immigration to 
+the united states.  journal on migration and human security 3(1): 80-108. http://
+dx.doi.org/10.14240/jmhs.v3i1.45.
+
+329
+
+the us eligible-to-naturalize population

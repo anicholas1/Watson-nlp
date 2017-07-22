@@ -1,0 +1,1484 @@
+the end of the deterrence 
+paradigm? future directions for 
+global refugee policy
+
+thomas gammeltoft-hansen 
+raoul wallenberg institute of human rights and humanitarian law
+
+nikolas f. tan 
+aarhus university and danish institute for human rights
+
+executive summary
+asylum seekers and refugees continue to face serious obstacles in their 
+efforts to access asylum. some of these obstacles are inherent to irregular 
+migration, including dangerous border crossings and the risk of exploitation. 
+yet, refugees also face state-made obstacles in the form of sophisticated 
+migration  control  measures.  as  a  result,  refugees  are  routinely  denied 
+access  to  asylum  as  developed  states  close  their  borders  in  the  hope  of 
+shifting the flow of asylum seekers to neighboring countries.
+restrictive migration control policies are today the primary, some might 
+say  only,  response  of  the  developed  world  to  rising  numbers  of  asylum 
+seekers and refugees. this has produced a distorted refugee regime both in 
+europe and globally  a regime fundamentally based on the principle of 
+deterrence rather than human rights protection. while the vast majority 
+of european states still formally laud the international legal framework to 
+protect refugees, most of these countries simultaneously do everything in 
+their power to exclude those fleeing international protection and offer only a 
+minimalist engagement to assist those countries hosting the largest number 
+of refugees. by deterring or blocking onward movement for refugees, an 
+even larger burden is placed upon these host countries. today, 86 percent 
+of the worlds refugees reside in a low- or middle-income country, against 
+70 percent 20 years ago (edwards 2016; unhcr 2015, 15).
+the humanitarian consequences of this approach are becoming increasingly 
+clear. last year more than 5,000 migrants and refugees were registered 
+dead or missing in the mediterranean (iom 2016). a record number, this 
+makes the mediterranean account for more than two-thirds of all registered 
+migrant fatalities worldwide (iom 2016). many more asylum seekers are 
+subjected  to  various  forms  of  violence  and  abuse  during  the  migratory 
+process as a result of their inherently vulnerable and clandestine position. 
+as  the  industry  facilitating  irregular  migration  grows,  unfortunately  so 
+too do attempts to exploit migrants and refugees by smugglers, criminal 
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 1 (2017): 28-56networks,  governments,  or  members  of  local  communities  (gammeltoft-
+hansen and nyberg srensen 2013).
+the deterrence paradigm can be understood as a particular instantiation of 
+the global refugee protection regime. it shows how deterrence policies have 
+come to dominate responses to asylum seekers arriving in developed states, 
+and how such policies have continued to develop in response to changes 
+in migration patterns as well as legal impositions. the dominance of the 
+deterrence paradigm also explains the continued reliance on deterrence as 
+a response to the most recent crisis, despite continued calls from scholars 
+and civil society for a more protection-oriented and sustainable response.
+the paper argues that the current crisis, more than a crisis in terms of 
+refugee numbers and global protection capacity, should be seen a crisis 
+in  terms  of  the  institutionalized  responses  so  far  pursued  by  states. 
+deterrence policies are being increasingly challenged, both by developments 
+in international law and by less wealthy states left to shoulder the vast 
+majority of the worlds refugees. at the same time, recent events suggest 
+that  deterrence  policies  may  not  remain  an  effective  tool  to  prevent 
+secondary  movement  of  refugees  in  the  face  of  rising  global  protection 
+needs, while deterrence involves increasing direct and indirect costs for 
+the states involved. 
+the present situation may thus be characterized as, or at least approaching, 
+a period of paradigm crisis, and we may be seeing the beginning of the end 
+for deterrence as a dominant policy paradigm in regard to global refugee 
+policy. in its place, a range of more or less developed alternative policy 
+frameworks are currently competing, though so far none of them appear 
+to have gained sufficient traction to initiate an actual paradigm shift in 
+terms of global refugee policy. nonetheless, recognizing this as a case of 
+possible paradigm change may help guide and structure this process. in 
+particular, any successful new policy approach would have to address the 
+fundamental challenges facing the old paradigm.
+the paper proceeds in four parts. firstly, it traces the rise of the deterrence 
+paradigm following the end of the cold war and the demise of ideologically 
+driven refugee protection on the part of states in the global north. the 
+past  30  years  have  seen  the  introduction  and  dynamic  development  of 
+manifold  deterrence  policies  to  stymie  the  irregular  arrival  of  asylum 
+seekers and migrants. this array of measures is explored in the second part 
+of the paper through a typology of five current practices that today make 
+up normal policymaking within the deterrence regime. third, the paper 
+argues that the current paradigm is under threat, facing challenges to its 
+legality from within refugee and human rights law; to its sustainability due 
+to the increasing unhappiness of refugee-hosting states with current levels 
+of burden-sharing; and to its effectiveness as direct and indirect costs 
+of maintaining the regime mount. finally, the paper puts forward three 
+core principles that can lay the groundwork in the event of a paradigm 
+
+29
+
+the end of the deterrence paradigm?shift:  respect  for  international  refugee  law;  meaningful  burden-sharing; 
+and a broader notion of refugee protection that encompasses livelihoods 
+and increased preparedness in anticipation of future refugee flows.
+
+i. the rise of the deterrence paradigm
+the cornerstone of the current refugee regime, the 1951 convention relating to the status 
+of  refugees  (the  1951  refugee  convention),  emerged  in  the  aftermath  of  wwii.  it 
+established a legal regime that, despite its obvious shortcomings,1 extended a core set of 
+individual  rights  for  political  refugees.  during  the  cold war,  international  refugee  law 
+came to play a crucial role in legitimizing the politics of the west (gibney and hansen 
+2003; chimni 1998). in the 1950s and 1960s refugee flows were primarily conceived as 
+an east to west movement and granting asylum to defectors consequently entailed scoring 
+ideological points. this euro-centric approach was gradually abandoned, however, paving 
+the way for regional instruments and the 1967 protocol relating to the status of refugees 
+(the 1967 protocol) lifting the geographical limitation of the 1951 refugee convention. 
+subsequent developments in legal interpretation have further helped expand the reach and 
+scope of the convention,2 while broader notions of subsidiary protection have developed 
+as a matter of general international human rights law (mcadam 2007).
+the last three decades, however, have seen an increased politicization of asylum across 
+both traditional and new asylum countries. in the 1970s, the welcoming labor immigration 
+schemes of several european countries were abandoned, thereby cutting off a regular form 
+of migration. the proxy wars of the 1980s further created large-scale displacement across 
+several regions in the global south (unhcr 1995b). following the end of the cold war, 
+receiving refugees no longer served an ideological agenda. at the same time, globalization 
+has  made  both  knowledge  of  faraway  destinations  and  transcontinental  transportation 
+more readily available. and rather than conforming to the traditional image of the singular 
+bona fide asylum seeker, refugees are increasingly caught up in mixed flows of irregular 
+migrants, often facilitated by human smugglers specialized in avoiding traditional forms of 
+border control (gibney and hansen 2003; castles and miller 2003; barnett 2002; zolberg 
+2001).
+in  response,  developed  states  have  introduced  a  range  of  policies  to  deter  or  prevent 
+migrants and refugees from arriving at their territory or accessing their asylum systems 
+(hathaway 1992, 40-41). from the 1980s onwards, states started introducing legal measures 
+to retroactively exclude refugees who have already arrived at the territory from the procedural 
+door  (vedsted-hansen  1999b).  the  introduction  of  time  limits  for  submitting  asylum 
+
+1   the drafters of the convention shied away from establishing a positive right to seek and be granted asylum 
+in line with article 14 of the universal declaration of human rights adopted just three years earlier, in favor 
+of a more limited, negative duty of non-refoulement. further, the drafters did not set out a positive burden-
+sharing mechanism, instead calling for international cooperation in recital 4 of the conventions preamble.
+2   despite political contestation and lack of strong supervisory institutions, interpretation of the 1951 
+refugee convention has remained surprisingly dynamic both in terms of its scope ratione personae (e.g., 
+in regard to persons fleeing gender-related persecution, persecution because of their sexual orientation, or 
+persecution from non-state actors) and ratione loci (notably in regard to the geographical reach of the non-
+refoulement principle enshrined in article 33) (goodwin-gill 2014; gammeltoft-hansen 2014a). 
+
+30
+
+journal on migration and human securityapplications falls into this category; so do the use of various accelerated procedures based 
+on first country of arrival, safe country of origin, safe third country, and manifestly 
+unfounded concepts (hurwitz 2009; gil-bazo 2006; van selm 2001). other measures have 
+been aimed at physically preventing refugees from accessing the territory of the asylum state. 
+in the 1990s the united states interdicted more than 65,000 haitian refugees in international 
+waters, returning them with no assessment of claims for political asylum (miranda 1995). 
+through the introduction of carrier sanctions, private airline companies around the world 
+have similarly been forced to reject boarding to thousands of asylum seekers, who are unlikely 
+to obtain a visa (unhcr 1991; unhcr 1995a). the last two decades have further seen 
+deterrence policies extended to cooperation with transit and origin states. the bali process 
+co-chaired  by  australia  and  indonesia  (kneebone  2014),  the  european  unions  global 
+approach to migration and mobility (european commission 2011), and the american-led 
+merida initiative (seelke and finklea 2015)3 all embed cooperation on border control in 
+broader foreign policy arrangements regarding transnational crime, development assistance, 
+trade privileges, labor immigration quotas, and visa facilitation. 
+the basic proposition of this article is that this historic development and the wide range 
+of  deterrence  measures  implemented  today  should  be  collectively  understood  as  a 
+dominant paradigm for international refugee policy.4 a policy paradigm may be defined 
+as a set of shared beliefs, taxonomies, and tools within a community of policymakers that 
+determine  how  they  perceive,  analyze  and  respond  to  a  given  policy  problem.5  in  this 
+case, the community of policymakers is centered around traditional asylum states in the 
+global  north,  though  a  wider  circle  of  states  have  gradually  adopted  similar  policies.6 
+the underlying belief of the deterrence paradigm is that developed states can successfully 
+insulate themselves from taking on a substantive and proportional responsibility in regard 
+to refugee protection by speculating on the way that migration control is designed vis-a-vis 
+international refugee and human rights law (gammeltoft-hansen and hathaway 2015).7 it 
+allows wealthy states to have their cake and eat it too: maintaining a formal commitment 
+to international refugee law, while at the same time largely being spared the associated 
+burdens (gammeltoft-hansen and hathaway 2015).
+several  scholars  have  lamented  the  current  state  of  affairs,  pointing  out  the  obvious 
+incongruence  between  deterrence  policies  and  the  original  aspirations  of  the  modern 
+refugee regime. as noted by louis henkin, who served as the united states representative 
+3   the merida initiative is a multi-year agreement between the united states and mexico to combat drug 
+smuggling, transnational crime, and illegal immigration (seelke and finklea 2015). 
+4   the concept of paradigm in this context is principally derived from thomas kuhn (kuhn and hacking 
+2012) and subsequent work translating his work into the field of public policy (hall 1993; hogan and 
+howlett, eds. 2015). 
+5   or, in peter halls words, a framework of ideas and standards that specifies not only the goals of policy 
+and the kind of instruments that can be used to attain them, but also the very nature of the problems they are 
+meant to be addressing (1993).
+6   for examples see section ii. transit and origin states may, for obvious reasons, not necessarily share 
+the beliefs and policy ambition of sponsoring states, but nonetheless decide to engage in cooperative 
+deterrence mechanisms due to the financial or other benefits or negative conditionalities involved (lavenex 
+2006; geddes 2009). at the same time, entering into such arrangements often lead transit states to adopt 
+deterrence policies of their own in order to avoid becoming the cul-de-sac for asylum flows (byrne, noll, 
+and vedsted-hansen 2002).
+7   see further, koh (1994).
+
+31
+
+the end of the deterrence paradigm?during the drafting of the 1951 refugee convention, in regard to the haitian interdiction 
+program: it is incredible that states that had agreed not to force any human being back into 
+the hands of his/her oppressors intended to leave themselves  and each other  free to 
+reach out beyond the territory to seize a refugee and to return him/her to the country from 
+which he sought to escape (henkin 1993, 1). yet, for a long time the deterrence paradigm 
+has  served  as  a  crude  but  effective  solution  to  the  growing  schism  between  the  liberal 
+values and self-protective stance of the developed world in regard to refugee protection. 
+while there is no doubt that deterrence policies challenge core principles of international 
+refugee and human rights law,8 the deterrence paradigm is not premised on a rejection 
+of  international  law  as  such  (gammeltoft-hansen  2014b).  while  deterrence  policies 
+may  be  borne  out  of  a  sense  of  frustration  with  the  limits  that  international  law  place 
+upon states in their pursuit of more effective immigration control,9 few states have so far 
+directly challenged international refugee law or taken steps to withdraw from the 1951 
+refugee convention or other core human rights instruments protecting refugees.10 various 
+factors, both domestic and international, may explain why states have remained reluctant 
+to  withdraw  or  reform  international  refugee  law  (gammeltoft-hansen  and  hathaway 
+2015). fundamentally, the logic of deterrence is premised on a concurrent commitment of 
+less developed states towards refugee protection, where the vast majority of the worlds 
+refugees currently reside. international refugee law serves as an important tool to ensure 
+the continued commitment of those states, and it is difficult to imagine any of the worlds 
+top refugee hosting countries agreeing to a new legal instrument that does not address 
+this gross disparity in terms of global burden-sharing. in other words, although developed 
+states are increasingly concerned about the commitment that international refugee law is 
+placing upon them, receding from or renegotiating the current legal framework is hardly in 
+these states best interest. 
+within the deterrence paradigm, international refugee law has thus so far remained a set 
+of shared rules directly or indirectly guiding action (kuhn and hacking 2012, 43). yet, 
+the tension between these normative commitments and differing political interests, leads 
+states to develop policies that work at the fringes or in the interstices of international law in 
+order to recoup sovereign maneuverability. deterrence policies may in that sense be seen 
+as examples of creative legal thinking (gammeltoft-hansen 2014a), as states seek to 
+exploit interpretative uncertainties, competing legal regimes or new modes of governance 
+in order to limit, shift, or circumvent legal obligations otherwise owed.
+
+ii. normal policymaking in the deterrence paradigm
+a  key  benefit  of  understanding  deterrence  as  a  policy  paradigm  is  that  it  allows  us  to 
+understand  how  different  kinds  of  policy  developments  are  enacted  and  relate  to  each 
+other. despite several challenges to the effectiveness and viability of specific deterrence 
+
+8   for an overview, see gammeltoft-hansen (2011).
+9   as hathaway bluntly concludes, the legal duty to protect refugees is understood to be neither in the 
+national interest of most states, nor a fairly apportioned collective responsibility (2005, 1000).
+10   though, more recently, both the australian and the danish prime ministers have openly suggested that the 
+convention ought to be renegotiated.
+
+32
+
+journal on migration and human securitymeasures,11 policymaking in this area has so far continued without any perceived need to 
+revise the fundamental beliefs and modus operandi of the deterrence paradigm. rather, 
+deterrence policies may be seen to dynamically develop in response to external impositions.
+there are at least three external factors driving policymaking in the deterrence paradigm. 
+firstly, certain forms of deterrence have been rendered ineffective by changes in migratory 
+patterns and technologies. just as the original set of deterrence policies were developed 
+in response to the jet age asylum seeker, the sophistication of those who help facilitate 
+irregular migration has prompted new policy developments. human smuggling is today 
+a  billion-dollar  industry  with  the  capacity  to  produce  high-quality  forged  documents, 
+bribe immigration officials, develop new smuggling methods, or quickly adapt migration 
+routes (gammeltoft-hansen and nyberg sorensen, eds. 2013). this, in turn, has prompted 
+not only developments in border control technology and strategies, but also an increased 
+criminalization and targeting of human smugglers as part of deterrence policies (mitsilegas 
+2014; legomsky 2007, 679; stumpf 2006, 367). 
+a second driver has been developments in international refugee and human rights law. 
+many of the first generation deterrence policies have, even if sometimes very belatedly, 
+been successfully challenged, forcing states to abandon or substantially adjust their policies. 
+both national and regional case law has firmly established that states cannot delimit the 
+geographical scope of obligations under international law at will by excising parts of their 
+territory or designating so-called international zones.12 while measures to exclude access 
+to asylum by use of safe third countries notions and time limits have hardly disappeared, 
+judicial impositions have forced several states to moderate the implementation of such 
+policies.13  in  europe,  an  important  blow  against  the  dublin  system  was  struck  by  the 
+european  court  of  human  rights  in  the  mss  case  and  the  follow-up  decision  by  the 
+european court of justice rejecting government claims that member states lack the ability 
+to assess other states compliance with fundamental rights and refugee protection.14 
+third,  and  finally,  policy  innovation  has  been  partly  driven  by  mutual  inspiration  in  a 
+dynamic  that  may  be  best  understood  as  a  form  of  policy  transfer  (ghezelbash  2014). 
+a key example of the transplant of policies from one developed state to another is the 
+sequential spread of offshore processing in third states. in the 1980s, the united states 
+began processing asylum claims in guantanamo bay, an approach emulated by australia 
+under the pacific solution in 2001 and later operation sovereign borders (dastyari 2007). 
+today, of course, there is heated debate in europe whether to adopt such a model, a debate 
+that has risen to the surface at various times since the united kingdom put forward its 
+new vision for refugees proposal in 2003 (uk home office 2003). 
+this  does  not  mean  that  deterrence  policies  are  implemented  uniformly  across  states. 
+both physical and legal geography may be seen to play a major role in determining which 
+11   or in kuhns terminology, anomalies (kuhn and hacking 2012, 52).
+12    amuur  v.  france,  no.  19776/92,  echr  1999;  plaintiff  m61  and  plaintiff  m69  v.  commonwealth  of 
+australia [2010] hca 41. and more generally catan and others v. moldova and russia, no. 43370/04, 
+8252/05 and 18454/06, echr 2012.
+13   jabari v. turkey, no. 40035/98, echr 2000; i.m v. france, no. 9152/09, echr 2012.
+14   mss v. belgium and greece, no. 30696/09, echr 2011; ns v. secretary for the home department and 
+me et al v refugee applications commissioner and minister for justice, equality and law reform, case 
+c-411/10 and c-493/10, ecj 2011. see further t.i. v. united kingdom, no. 43844/98, echr 2000.
+
+33
+
+the end of the deterrence paradigm?deterrence policies are favored where. for instance, the united states and australia have 
+long exploited their extensive maritime borders to enact interdiction on the high seas and 
+detention on nearby islands that are either part of the sovereign state or the territory of 
+other states (legomsky 2006, 677; dastyari 2015; mountz 2011, 118-28; magner 2004, 
+53; billings 2013, 279). european states have also enacted maritime migration control, 
+though less successfully, legally bound as they are by the european convention on human 
+rights and geographically bound by alternative overland migration routes (frontex 2016).15 
+within the european union, geography also plays a significant role, with outlying states 
+seemingly  favoring  intensified  border  management,  and  more  developed  welfare  states 
+often implementing indirect deterrence measures to push asylum flows toward neighboring 
+countries.  more  generally,  the  last  few  years  seem  to  have  fueled  a  competition-like 
+environment, especially among eu states, to introduce increasingly draconian measures, 
+including novel types of deterrence adding to the traditional arsenal. 
+deterrence states have so far responded to the recent surge in refugee numbers and the 
+sharp increase in secondary movement by treating this as normal policymaking, requiring 
+only incremental adjustments to existing policies, or policy innovations still adhering to 
+the foundational beliefs of the existing paradigm.16 many of the more recent policies thus 
+move beyond or expand on existing policies, opening new and challenging legal questions, 
+often not directly covered by international refugee law. consequently, the present article 
+deliberately takes a broader view of deterrence than most previous work in this area in an 
+effort to demonstrate the internal logic of the paradigm (hathaway 1992; vedsted-hansen 
+1999a; gammeltoft-hansen 2011). under this broader view, current deterrence policies 
+may be seen to fall into five main categories: 1) non-admission policies limiting access to 
+asylum procedures, 2) non-arrival measures preventing access to the territory of asylum 
+states through migration control, 3) offshore asylum processing and relocation of refugees 
+to third countries, 4) criminalization of irregular migration and human smuggling, and 5) 
+indirect deterrence measures intended to make the asylum country less attractive. 
+
+a. 
+
+non-admission
+
+a  traditional  but  still  prevalent  form  of  deterrence  encompasses  legal  measures  to 
+retroactively exclude refugees who have already arrived at the territory, e.g., expedited 
+procedures based on safe third country or other concepts (vedsted-hansen 1999b). the 
+common  purpose  of  these  policies  is  to  restrict  access  to  or  cut  short  ordinary  asylum 
+procedures,  targeting  specific  categories  of  refugees  based  on  their  nationality,  claim, 
+manner of entry, or arrival point. the introduction of such expedited procedures may be 
+justified where states are faced with large number of irregular migrants who are unlikely to 
+qualify for international protection, and where sufficient safeguards exist to allow individual 
+asylum seekers the opportunity to rebut the presumption of safety, redirecting such cases 
+into a full and comprehensive asylum procedure. yet, several states apply these procedures 
+in response to mass influx situations or for groups of asylum seekers where the underlying 
+presumptions of safety are clearly not fulfilled. hungary has thus declared all asylum claims 
+from persons crossing the border from serbia  the transit route for 99 percent of refugees 
+
+15   hirsi jamaa and others v. italy, no. 27765/09, echr 2012. 
+16   what kuhn refers to as first order and second order change (kuhn and hacking 2012; hall 1993, 280).
+
+34
+
+journal on migration and human securityinto hungary  inadmissible, notwithstanding the concern of human rights organizations 
+(reuters 2015; unhcr 2012c; hungarian helsinki committee 2011). asylum seekers 
+crossing the us-mexico border are dealt with under the expedited removal procedure, 
+during which persons are detained and removed unless they pass a credible fear test. the 
+threshold for this initial and summary interview was reportedly raised in 2014 and only 
+a small fraction of central american asylum claims appear to be examined on the merits 
+(hrw 2014; campoy 2014). south africa, which has consistently received the highest 
+number of asylum applications in africa, has refused refugee status because asylum seekers 
+have passed through a safe country en route (hathaway 2014; unhcr 2015, 29). all of 
+these policies give rise to the risk of direct and indirect refoulement in the absence of access 
+to an asylum procedure meeting international standards (unhcr 2011).
+the recently concluded arrangement between the european union and turkey is a further 
+example  of  non-admission.  asylum  seekers  arriving  in  greece  are  returned  without 
+examination of their claims of refugee status on the basis that turkey is a safe third country. 
+in exchange, the european union has agreed to speed up accession talks, accelerate the 
+implementation of the visa liberalization, provide a total of 3 billion euros to assist turkey 
+in providing refugee protection for syrian refugees, and provide resettlement spaces equal 
+to the number of refugees returned.17 
+
+b. 
+
+non-arrival
+
+measures  preventing  refugees  from  reaching  the  territory  of  asylum  states  are  another, 
+and  increasingly  preferred,  form  of  deterrence.  several  other  states  have  followed  the 
+american lead to implement various forms of maritime interdiction. in the asia pacific, 
+thailand,  malaysia,  and  indonesia  recently  pushed  back  boats  carrying  rohingya  and 
+bangladeshi  migrants  and  asylum  seekers  in  the  bay  of  bengal  and  the andaman  sea 
+(hrw 2015; tisdall 2015), before agreeing to provide temporary protection to rohingya 
+asylum seekers. australia has turned back 28 boats to sri lanka, indonesia, and vietnam 
+since 2013 (minister for immigration and border protection 2016).
+in  europe,  migration  control  on  the  high  seas  has  been  carried  out  both  by  individual 
+member  states  and  as  part  of  joint  maritime  operations  coordinated  by  the  eu  border 
+agency,  frontex.  whereas  recent  eu  guidelines  affirm  the  applicability  of  the  non-
+refoulement principle to persons intercepted on the high sea,18 member states practices 
+have varied. italian authorities thus intercepted and directly returned at least 850 persons 
+in 2009, despite the identification of asylum seekers and bona fide refugees among those 
+returned (lunita 2010; unhcr 2009). 
+from  the  still  widespread  use  of  carrier  sanctions,  private  companies  and  corporations 
+today perform a wider set of roles in regard to migration control. the use of private actors 
+for the purposes of border controls, surveillance technology, and immigration detention 
+
+17   the agreement builds on the eu-turkey joint action plan of october 15, 2015.
+18   regulation (eu) no. 656/2014 of the european parliament and of the council of may 15, 2014 establishing 
+rules for the surveillance of the external sea borders in the context of operational cooperation coordinated by 
+the european agency for the management of operational cooperation at the external borders of the member 
+states of the european union.
+
+35
+
+the end of the deterrence paradigm?and transportation is a key feature of states deterrence policies (gammeltoft-hansen 2015; 
+bloom 2015). sweden, for example, in 2016 extended carrier sanctions to train and ferry 
+companies operating inside the schengen area as a means to restrict the otherwise free 
+movement of refugees towards the country.19 
+perhaps the most significant trend has been the growth of bilateral and regional agreements 
+to prevent onwards movement for migrants and refugees.20 in the asia pacific, australia 
+has  established  formal  or  informal  bilateral  agreements  with  regional  states,  including 
+sri lanka, malaysia, and indonesia. these arrangements include joint patrols, disruption 
+of  people  smuggling  operations,  and  funding  of  immigration  detention  networks  (tan 
+2016). the above-mentioned bali process agenda has often been dominated by migration 
+control, framing refugees within a security/border control paradigm (kneebone 2016). in 
+north america, the united states funds a range of migration control activities in mexico, 
+extending to patrol boats and migration management databases. mexico is thus a buffer 
+state for guatemalan and honduran asylum seekers attempting to reach the united states 
+(fitzgerald, forthcoming). in the european context, the now-defunct italy-libya treaty of 
+friendship, partnership, and cooperation is perhaps the most well-known case of bilateral 
+cooperation in this area. a range of other bilateral agreements are currently in place, however, 
+including between spain and a range of north african states, such as morocco, senegal, 
+and mauritania (fra 2012). many of these arrangements involve partner countries with 
+lacking or clearly insufficient asylum systems.21
+
+c. 
+
+offshore asylum processing and protection elsewhere
+
+a third form of deterrence involves asylum processing or refugee protection in third states. 
+recent proposals in developed states have called for the establishment of offshore asylum 
+camps, recalling the us processing of asylum seekers in guantanamo bay in the 1980s. 
+australia  resumed  offshore  processing  of  asylum  claims  cooperation  with  nauru  and 
+papua new guinea in 2012, reviving a key plank of the pacific solution first introduced in 
+2001 (billings 2013; grattan 2012). approximately 1500 asylum seekers are currently in 
+australian-funded detention or accommodation in these two states (dipb 2017). a range of 
+human rights issues have arisen in offshore detention. the committee against torture has 
+reported conditions of overcrowding, inadequate health care and ill-treatment causing 
+serious physical and mental pain and suffering (cat 2014). australia has further entered 
+into a refugee resettlement deal with cambodia. in exchange for development assistance, 
+cambodia offers permanent resettlement to people found to be refugees on nauru (dfat 
+19   in addition to blocking onwards travel for refugees en route, such measures may be challenged as a matter 
+of eu law.
+20   for an in-depth examination of this development see gammeltoft-hansen and hathaway (2015).
+21   although turkey has recently adopted domestic legislation providing for a national asylum system, 
+reports point to continued shortcomings in terms of both asylum procedures and key rights related to 
+refugee protection (amnesty international 2016). as a matter of international law, turkey further maintains 
+a geographical limitation to the 1967 protocol, and is not obliged to apply the 1951 refugee convention to 
+non-european refugees. recent eu plans to re-establish migration control cooperation with north african 
+countries raise even more significant issues. in 2012, the european court of human rights thus held 
+that italy had violated the non-refoulement principle as well as the prohibition on collective expulsion by 
+returning asylum seekers to libya, despite its clear track record of abuse, detention, and forced return of 
+refugees in hirsi jamaa and others v. italy, no. 27765/09, echr 2012.
+
+36
+
+journal on migration and human security2014). such offshore asylum processing and resettlement set disturbing precedents for the 
+mistreatment of asylum seekers and refugees forcibly relocated away from the state where 
+they sought protection. 
+
+d. 
+
+criminalization
+
+the marked increase in mixed migration flows in recent years has brought intense focus on 
+criminalizing both irregular migration and those facilitating the process (mitsilegas 2014; 
+legomsky 2007, 679; stumpf 2006, 367). the non-arrival policies outlined above leave 
+the vast majority of refugees with no choice but to turn to migrant smugglers and irregular 
+entry in order to access asylum states. as a result, migrant smuggling is today a multi-billion 
+industry with ties to established and increasingly sophisticated criminal networks (kyle 
+and koslowski, eds. 2001; gammeltoft-hansen and nyberg sorensen, eds. 2013; castles 
+and miller 2009). states may have legitimate reasons to combat such criminal activity and 
+are legally entitled to do so pursuant to the protocol against the smuggling of migrants by 
+land, sea and air, which promotes cooperation among states parties to prevent and combat 
+smuggling.22 yet, the protocol equally underscores that the non-refoulement principle and 
+other refugee rights must be respected as part of such efforts.23 moreover, with no legal 
+migration alternatives available to refugees, such measures may themselves limit access to 
+asylum. 
+in  the asia  pacific,  the  bali  process  aims  to  deter  and  combat  migrant  smuggling  and 
+trafficking networks, with minimal focus on complementary access to asylum (mann 2013; 
+kneebone 2014). indeed, in 2015, states in the region initially justified denying access to 
+asylum to 8,000 migrants with the argument that it would further fuel migrant smuggling.24 
+getting third countries to criminalize irregular departure has similarly been a key priority 
+for the european union. in morocco, algeria, tunisia, libya, egypt, and turkey, leaving 
+the country irregularly is punished with a financial fine and/or imprisonment (fra 2013). 
+criminalization  may  further  extend  to  the  prosecution  of  private  vessels  who  rescue 
+migrants in distress at sea (mangano 2011). last, but not least, efforts to combat migrant 
+smuggling have prompted a growing militarization, utilizing, for example, naval forces, 
+army equipment, or military techniques for the purpose of migration control (jones and 
+johnson 2016). in 2015, the european union thus launched a military operation to seize 
+and dispose boats used for human smuggling in international waters off the libyan coast25 
+and,  in  2016,  a  nato  operation  was  commenced  in  the aegean  sea  to  deter  migrant 
+smuggling from turkey to greece. 
+there  is  an  inescapable  link  between  these  policies  and  the  rising  number  of  migrant 
+fatalities and other dangers faced by migrants and refugees forced to employ the services of 
+smugglers. an intensification of efforts to combat migrant smuggling may push smugglers 
+22   protocol against the smuggling of migrants by land, sea and air, supplementing the united nations 
+convention against transnational organized crime, article 7.
+23   protocol against the smuggling of migrants by land, sea and air, supplementing the united nations 
+convention against transnational organized crime, article 19.
+24   australian prime minister tony abbott stated that turning around boats was absolutely necessary if the 
+scourge of people smuggling is to be beaten (medhora 2015). 
+25   the operation is provided for by security council resolution 2240 (2015), 7532nd meeting, october 9, 
+2015.
+
+37
+
+the end of the deterrence paradigm?to use longer or more dangerous routes, or to depart during periods when weather conditions 
+are less favorable in order to avoid controls (gammeltoft-hansen and nyberg sorensen, 
+eds. 2013; brian and laczko, eds. 2014). similarly, policies to impound maritime vessels 
+may push smugglers to further overcrowd boats or use inflatable or unseaworthy vessels, 
+with poor engines and navigation systems, equally increasing the risk to migrants lives. 
+criminalization and militarization are further likely to prompt more risk-averse responses 
+from smugglers, who may choose to offload passengers before reaching shore or themselves 
+abandon the vessels, leaving cargo ships sailing on automatic pilot for europe with no 
+crew on board (deutsche welle 2015; frontex 2016). finally, military operations engaging 
+migrant smuggling vessels on the high seas entail a significant risk of collateral damage 
+involving migrants and refugees.26
+
+e. 
+
+indirect deterrence measures
+
+a particular trend these past years has been the expansion of indirect deterrence policies, 
+designed to discourage asylum claims or divert them to other countries. these measures 
+may  include  mandatory  detention  policies,  limitations  on  family  reunification,  cuts  to 
+social  benefits,  granting  more  temporary  or  subsidiary  forms  of  protection,  with  fewer 
+rights  attached  than  those  afforded  under  the  1951  refugee  convention.  while  such 
+measures do not restrict access to asylum per se, they often negatively impact other rights 
+under the convention, including freedom of movement, non-discrimination, and access to 
+employment, public education, and housing. and while many such policies do not violate 
+the letter of international refugee law, they may fall foul of general human rights law. still 
+other indirect deterrence measures  such as information campaigns  are not unlawful 
+at all. 
+denmark is among the countries which have most openly justified more restrictive asylum 
+policies by the desire to shift asylum flows away from the country. through a series of 
+successive  measures,  denmark  has  thus  managed  to  maintain  a  relatively  low  number 
+of  asylum  seekers,  especially  compared  to  its  two  neighboring  countries,  sweden  and 
+germany. in 2015 a new, tertiary protection status, temporary asylum, was introduced for 
+persons fleeing generalized violence and armed conflict.27 under this category, residence 
+permits are initially granted for one-year periods only, ensuring that cases are regularly 
+reviewed to assess continued protection needs. access to family reunification for those 
+granted temporary asylum is further denied for the first three years of residence, unless 
+special considerations apply.28 
+social benefits for refugees have been cut by 50 percent and childcare support and pensions 
+for  refugees  graduated  based  on  the  length  of  stay  in  denmark.29  legislation has  been 
+adopted granting the police authority to search and seize funds and assets from asylum 
+
+26   an internal eu planning document explicitly warned that, non-compliant boarding operations against 
+smugglers in the presence of migrants has a high risk of collateral damage including the loss of life (rettman 
+2015). 
+27   amendment to the danish asylum and immigration statute, law no. 153, february 18, 2015. 
+28    the  moratorium  on  family  reunification  was  originally  one  year,  but  was  subsequently  extended. 
+amendment to the danish asylum and immigration statute, law no. 102, february 3, 2016.
+29   amendment to the danish asylum and immigration statute, law no. 1000, august 30, 2015.
+
+38
+
+journal on migration and human securityseekers in order to cover costs related to accommodation and other benefits.30 fees will 
+similarly  be  introduced  in  connection  with  applications  for  family  reunification  and 
+permanent residence for refugees. the latter will further be subject to new requirements 
+in regard to language and employment, and the waiting period for permanent residence 
+extended to six years. 
+many  other  european  countries  have  introduced  similar  policies.  for  example,  despite 
+a  long-term  commitment  to  liberal  asylum  policy,  sweden  has  recently  implemented 
+restrictions in regard to family reunification as well as shorter residence permits for refugees. 
+germany has similarly replaced financial benefits to refugees with coupons to claim food 
+and clothing items. countries outside of europe have adopted indirect deterrence measures 
+as well. australia, for instance, now issues only temporary protection visas to refugees 
+who arrive by boat, a status that does not include the right to family reunification (kaldor 
+centre 2015).31 
+delayed  or  protracted  refugee  status  determination processes  may  further  be  used  as  a 
+deterrent in some instances. administrative backlogs can be an unfortunate but inevitable 
+consequence  of  mass  influx  situations.  in  europe,  where  there  were  almost  800,000 
+outstanding  asylum  applications  in  september  2015  (european asylum  support  office 
+2015),  backlogs  of  asylum  claims  currently  mirror  levels  of  the  early  1990s  (gibney 
+1994). yet,  in  some  countries,  applying  caps  on  the  processing  of  asylum  applications 
+or restricting access to submit them, appear to be part of a deliberate strategy to deter 
+asylum applications. austria thus introduced a cap of 80 asylum applications per day in 
+2016 (bell 2016). greece has similarly limited the ability to submit asylum applications 
+in some periods (unhcr 2012a). in the pacific, there are undue delays to refugee status 
+determinations in australian-led detention centers in nauru and papua new guinea, where 
+first  instance  decisions  take  up  to  18  months  to  hand  down  (unhcr  2013a;  unhcr 
+2013b; cat 2014; refugee council of australia 2014; karlsen 2015).
+mandatory detention of asylum seekers is a widespread practice intended to deter further 
+arrivals. european states including greece, macedonia, malta, and hungary have recently 
+stepped up systematic detention of asylum seekers (global detention project 2015; aida 
+2015). australia has long had a policy of mandatory detention of asylum seekers arriving 
+by boat, and has actively encouraged indonesia to import such a policy (nethery, rafferty-
+brown, and taylor 2013). israel places irregular migrants for up to a year at the holot 
+detention center located in the desert, from which residents are unable to leave (unhcr 
+2014b). while asylum seekers may legitimately be detained for identification or security 
+reasons,  wide-scale  detention  policies  are  not  consistent  with  the  prohibition  against 
+penalization of illegal entry or stay in article 31 of the 1951 refugee convention. the 
+deleterious effect of protracted detention  particularly for children  is well documented 
+(dudley  et  al.  2012;  robjant,  hassan,  and  katona  2009;  australian  human  rights 
+
+30   the authorities may confiscate funds or assets estimated to have a worth above 10,000 krone (approximately 
+1,350 euros). according to the guidance note, personal assets with a particular sentimental value, such as 
+wedding  rings  or  religious  artifacts,  are  exempted. amendment  to  the  danish asylum  and  immigration 
+statute, law no. 102, february 3, 2016.
+31   migration and maritime powers legislation amendment (resolving the asylum legacy caseload) act 
+2014.
+
+39
+
+the end of the deterrence paradigm?commission 2014; international detention coalition n.d.).32 more generally, there is no 
+evidence that the threat of detention does in fact deter irregular migration (edwards 2011, 
+iii). 
+last, but not least, several countries have initiated information campaigns aimed at both 
+prospective  asylum  seekers  and  those  facilitating  irregular  travel.  thus,  belgium  and 
+norway have used facebook to dissuade iraqi asylum seekers (pop 2015; the local 2015), 
+while denmark has taken out advertisements in newspapers in the middle east warning 
+prospective asylum seekers about its restrictive policies.33 meanwhile, throughout its own 
+region, australia has advertised that asylum seekers coming by boat will never be settled 
+there (parliament of australia 2013). 
+
+iii. paradigm crisis and the end of deterrence?
+although deterrence policies continue to flourish and take on new forms, there are signs 
+indicating that normal policymaking will not suffice for much longer. not only has the 
+deterrence paradigm been attacked for its negative humanitarian impact, but it has come 
+under pressure from several other sides, to the point that its legal foundations, political 
+stability, and likelihood of long-term effectiveness are all in doubt.
+
+a. the legal challenge
+
+the first challenge relates to the legal challenges that have and are likely to be brought 
+against the current range of deterrence policies. as mentioned above, the majority of current 
+deterrence policies are based on the premise that developed states can somehow insulate 
+themselves against responsibility by shifting migration control or the responsibility for 
+refugee protection to third states. yet, this idea that states are allowed to do outside their 
+territory or through others exactly what they have committed themselves to prohibit at 
+home as a matter of international human rights and refugee law, is becoming increasingly 
+difficult to uphold. just as the history of deterrence policies provides several examples 
+of  successful  legal  challenges  to  overreaching  by  states,  current  developments  in  both 
+human rights and refugee law are increasingly undercutting attempts by developed states 
+to insulate themselves from responsibility by shifting it onto others. 
+the evolving jurisprudence on extraterritorial jurisdiction is an important area that has 
+helped  rein  in  a  number  of  offshore  deterrence  policies  (gammeltoft-hansen  and 
+vedsted-hansen, eds. 2016). in hirsi v. italy, the grand chamber of the european court 
+of  human  rights  unanimously  struck  down  the  legality  of  italys  cooperation  scheme 
+with libya, arguing that pushbacks of refugees on the high seas violated article 3 of the 
+
+32   in 2014, unhcr launched beyond detention, a five-year strategy to end the detention of asylum seekers 
+and refugees with a particular focus on ending detention of children (unhcr 2014a). unhcrs detention 
+guidelines outline the legitimate use of detention in the context of asylum, as well as providing alternatives 
+to detention (unhcr 2012b).
+33    the  text  of  the  ad  was  subsequently  criticized  by  the  danish  parliamentary  ombudsman  for  being 
+misleading, suggesting that the new restrictions apply to all types of refugees.
+
+40
+
+journal on migration and human securityeuropean convention on human rights.34 the court equally suggested that international 
+refugee law, notably the principle of non-refoulement, has to be observed when carrying 
+out  operations  on  the  high  seas.35  in australia,  a  series  of  high  court  decisions  have 
+challenged australias policies in terms of access to judicial review for persons applying 
+for asylum in the offshore zone,36 the relocation of refugees to politically declared safe 
+third countries,37 and the ability indefinitely to detain persons considered a security risk 
+and deny them access to asylum procedures.38 
+recent  developments  in  general  human  rights  law  have  recognized  the  extraterritorial 
+application of human rights treaties, especially at the european level. thus, in al skeini, the 
+european court of human rights held that human rights law applies in any situation where 
+a state exercises control and authority over an individual.39 further, in issa and others 
+v turkey, the strasbourg court found that responsibility is engaged where persons on the 
+territory of another state . . . are found to be under the former states authority and control 
+through its agents operating . . . lawfully or unlawfully.40 within scholarship, increasing 
+attention to the establishment of shared responsibility for cooperation-based deterrence 
+polices is, so to speak, piercing the corporate veil of internationalized migration control 
+arrangements (gammeltoft-hansen and hathaway 2015; nollkaemper and jacobs 2012; 
+unga 2001). such developments in shared state responsibility  be it independent, joint, 
+or derivative  open up the possibility of holding two or more states responsible for the 
+violations of primary obligations that occur in the course of deterrence policies.41 
+still further developments in human rights law present a challenge to a number of indirect 
+deterrence  measures.  most  recently,  the  european  court  of  human  rights  in  biao  v. 
+denmark held that a refusal to grant family reunion amounted to indirect discrimination, 
+thereby striking a significant blow to denmarks notoriously restrictive policies towards 
+immigrants in this area.42 in the pacific context, papua new guineas supreme court has 
+invalidated  detention  of  asylum  seekers  and  refugees  under  a  bilateral  agreement  with 
+australia on the basis of the right to liberty set out in papua new guineas constitution.43 
+
+34   judgments of the european court of human rights are binding on the states concerned. the committee 
+of ministers of the council of europe is responsible for monitoring the execution of judgments.
+35   hirsi jamaa and others v. italy, no. 27765/09, echr 2012.
+36   plaintiff m61 and plaintiff m69 v. commonwealth of australia [2010] hca 41.
+37   plaintiff m70/2011 v minister for immigration and citizenship; plaintiff m106 of 2011 v minister for 
+immigration and citizenship [2011] hca 32. in this case, the court adopted a specific interpretation of 
+the refugee convention to declare australias refugee swap agreement with malaysia invalid. according 
+to the effective protection approach, states are obliged to ensure that already accrued rights under the 
+convention can be guaranteed following transfer to a third country, something previously rejected by courts 
+in both australia and the united kingdom, arguing that such transfers are merely subject to respect for the 
+non-refoulement principle. in response to the judgement, the australian government subsequently announced 
+its intention to amend the migration act in order to restore the understanding of the third country transfer 
+provisions of the migration act that existed prior to the high courts decision on 31 august 2011 (minister 
+for immigration and border protection 2011). 
+38   plaintiff m47-2012 v director general of security [2012] hca 46.
+39   al skeini and others v. the united kingdom, no. 55721/07, echr 2011..
+40   no. 31821/96, echr 2004.
+41   in relation to derivative responsibility and the law of complicity, see jackson (2015), lanovoy (2015), 
+and aust 2013). 
+42   biao v. denmark, no. 38590/10, echr 2016.
+43   namah v pato (minister for foreign affairs and immigrations) and ors [2016] pjsc 13. 
+
+41
+
+the end of the deterrence paradigm?a number of recent deterrence policies may finally be seen to endanger refugee-protective 
+interpretations  in  regard  to  already  established  areas  of  international  law. the  recently 
+concluded  arrangement  between  the  european  union  and  turkey  provides  one  such 
+example. that agreement is premised on the definition of turkey as a safe third country 
+as a matter of both eu and international refugee law.44 as a form of politics, the eu-turkey 
+deal represents not only a classic case of placing the cart before the horse  i.e., politically 
+declaring turkey safe and then subsequently trying to pay to make it so as a matter of fact 
+ but also once again placing greece in the precarious position of having to take the legal-
+political risk of this strategy on its own, whilst allowing other member states to wait the 
+outcome of the legal test. 
+given the number of reports suggesting violations of both the non-refoulement principle and 
+fundamental shortcomings in the implementation of other refugee rights, legal challenges 
+seem unavoidable. in this case domestic judiciaries have moved more swiftly than many 
+expected. the greek asylum appeals committee on lesbos has thus ruled turkey unsafe 
+in a case concerning nine syrian asylum seekers. following the decisions, however, the 
+greek government changed the composition of the appeals committee in order to ensure 
+the continued viability of the eu-turkey deal. meanwhile, another case has been submitted 
+to the european court of justice that will be asked to assess greeces application of the eu 
+asylum procedures directive vis--vis turkey.
+of  course,  as  mentioned  above,  current  and  future  legal  challenges  are  a  part  of  the 
+policymaking landscape of the deterrence paradigm. in many cases, states simply adapt 
+their policies and legal challenges may thus indirectly help drive policy innovations and 
+more varied forms of measures. nevertheless, the long list of successful legal challenges to 
+deterrence demonstrates that there are limits on western states in this area and it is highly 
+likely we will see similar challenges to the most recent suite of deterrence measures via 
+national and regional courts. 
+
+b. the systemic challenge
+
+the second challenge is political. looking at the developments over recent years, it is 
+hard to imagine the current refugee protection regime can survive much longer without 
+some more meaningful displays of international solidarity. while the global number of 
+refugees fluctuates from year to year and is currently at a historic high, deterrence policies 
+in themselves are a zero-sum game that at best serve to push refugees from one state to 
+another. the costs of this competition-style environment in europe is increasingly being 
+felt, not just by the refugees, but also by member states faced with even more unpredictable 
+arrival patterns and various negative externalities from the reintroduction of, for example, 
+border controls (bohmer et al. 2016; european parliament directorate-general for internal 
+policies 2016, 9).45
+
+44   article 38 of directive 2013/32/eu of the european parliament and of the council of 26 june 2013 on 
+common procedures for granting and withdrawing international protection (procedures directive).
+45   according to the bertelsmann foundation, the eu-24 would see accumulated gdp losses of 471 billion 
+euros by 2025 if the schengen agreement was suspended. the european parliament directorate-general for 
+internal policies reports that the permanent suspension of the schengen agreement, calculated over a ten-
+year period, would amount to 230 billion euros. see also soros (2016). 
+
+42
+
+journal on migration and human securitymoreover, as noted at the outset, the deterrence paradigm has placed an additional and 
+inordinate burden upon major refugee-hosting countries like turkey, lebanon, and jordan. 
+while the refugee regime is, at least in principle, based on some level of burden-sharing 
+between  states,  the  deterrence  paradigm  seeks  to  quell,  to  the  greatest  extent  possible, 
+spontaneous arrivals of asylum seekers at the borders of states in the global north. as 
+a result, there exists the real risk that states hosting the bulk of the worlds refugees will 
+choose to turn their back on the regime, absent the availability of humanitarian assistance 
+and the release of pressure from refugees bottlenecked in states of transit. the perception 
+that different rules apply to the european union and other wealthier states that can simply 
+isolate themselves from taking on a comparable commitment is deeply counterproductive 
+and only risks prompting more of the worlds major refugee-hosting states, most recently 
+kenya  (kibicho  2016),  to  pursue  self-interested  and  restrictive  policies.  moreover,  the 
+success of arrangements such as the eu-turkey deal ultimately depends on the continued 
+willingness of these countries to continue to host most of the worlds refugees without any 
+substantial form of burden-sharing.
+in that sense, the current refugee protection crisis represents a classical collective action 
+problem. there can be little doubt that not only the worlds refugees but also states would 
+greatly benefit from a more open and coordinated response. yet, no states will be willing 
+to unilaterally expand access to asylum if this would entail unrealistic financial or political 
+expectations, if there is no international solidarity, or if other states do not follow suit. 
+
+c. the ineffectiveness challenge
+
+the third, and potentially most powerful, challenge to the deterrence paradigm relates to 
+the continued effectiveness of the current policies. as is well documented, refugees remain 
+resourceful despite the plight they are forced to endure, and may exhibit extraordinary 
+resilience in their efforts to find safety and protection. migration control measures at the 
+european unions external borders did not prevent the sharp increase in numbers of asylum 
+seekers  in  european  countries  in  2015  and  preceding  years.46  deterrence  measures  are 
+moreover challenged by the growing amount of resources available to human smugglers 
+and the constant innovation and adaption that this migration industry exhibits. 
+while specific deterrence measures may be successful in stemming a particular migration 
+path in the short term, smuggling techniques and displacement of migration flows towards 
+alternative routes often significantly, if not completely, undermine the effect over time. the 
+recently concluded eu-turkey deal may well be one such example. politically hailed as 
+a success in terms of lowering the numbers of asylum seekers along the so-called balkan 
+route, the number of refugees and migrants using the central mediterranean route via egypt 
+or libya has dramatically increased during the same period. available data suggests that 
+those arriving via the central mediterranean route are mainly different nationalities than 
+those previously pursuing the balkan route, yet it sends a signal that alternative routes are 
+available. for those currently blocked onward passage from turkey, it may thus be a matter 
+of time before we see a similar displacement effect, as long as the agreement does not 
+provide the promised alternative to putting their lives at risk (european council 2016). 
+
+46   the eu thus saw a 470% increase in arriving asylum-seekers by sea from 2014 to 2015, up from a 360% 
+increase the year before (fargues and di bartolomeo 2015; iom 2016). 
+
+43
+
+the end of the deterrence paradigm?the  humanitarian  consequence  of  these  dynamics  are  further  high    the  central 
+mediterranean represents a far riskier passage expressed through mounting death tolls.47 
+current efforts to combat migrant smuggling is only likely to push smugglers to use longer 
+or more dangerous routes, or to depart during periods when weather conditions are less 
+favorable in order to avoid controls (gammeltoft-hansen and nyberg sorensen, eds. 2013; 
+brian and laczko, eds. 2014). policies to impound maritime vessels may push smugglers 
+to further overcrowd boats or use inflatable or unseaworthy vessels, with poor engines and 
+navigation systems, equally increasing the risk to migrants lives. similarly, recent reports 
+suggest that current military operations not only result in more risk-adverse behavior by 
+smugglers, but also entail a significant risk of collateral damage involving migrants and 
+refugees.48
+a final indication of the growing ineffectiveness of deterrence policies is that direct and 
+indirect costs related to deterrence are mounting. in the asia pacific, australias detention 
+of asylum seekers both onshore and offshore cost 2.17 billion dollars in 2014-15 alone 
+(refugee council of australia 2015). third states have further become much more adept 
+at negotiating agreements on migration control and readmission. in the european context, 
+libya negotiated a payment of 5 billion euros by italy in compensation for colonial damages 
+when negotiating the 2007 deal with italy to stop and readmit boat migrants crossing the 
+mediterranean.49 in connection with the recent eu-turkey agreement, the european union 
+promised not only to provide 3 billion euros for refugee assistance, but also controversial 
+political concessions in regard to accession negotiations and visa liberalization. similarly, 
+the response of various eu member states in reintroducing border controls in the schengen 
+area are likely to incur significant financial risk in relation to commuting workers, tourism, 
+and trade in goods and services. a recent study projects that should schengen be entirely 
+abandoned,  the  european  union  would  experience  adrop  in  gdp  of  between  100  and 
+230  billion  euros  over  10  years  (european  parliament  directorate-general  for  internal 
+policies 2016). policies to limit access to family reunification may similarly risk negatively 
+impacting the ability to attract labor migration in needed sectors, or even deter nationals 
+from returning to the domestic labor market after a period abroad. a significant number 
+of danes have thus relocated to countries such as sweden due to restrictions in obtaining 
+family reunification in denmark. in addition, there may be non-pecuniary costs associated 
+with  the  deterrence  paradigm.  loss  of  international  reputation,  political  capital,  and 
+diplomatic influence are all possible side effects of an approach that prioritizes deterrence 
+over humanitarianism. of course, such things are inherently difficult to measure, making 
+any assessment highly speculative. 
+in sum, it is at least questionable whether european deterrence policies continue to remain 
+effective in light of the current situation and increasing pressure currently experienced. 
+as a counterfactual, australian deterrence policies have so far proved ruthlessly effective 
+47   in 2015, 1,015,078 people arrived in europe by sea and 3,770 died en route. by july 2016, 237,173 had 
+arrived, while 2,896 had perished.
+48   an internal eu planning document explicitly warned that, non-compliant boarding operations against 
+smugglers in the presence of migrants has a high risk of collateral damage including the loss of life (rettman 
+2015).
+49   trattato di amicizia, partenariato e cooperazione tra il governo della repubblica italiana e la grande 
+giamahiria araba libica popolare socialista, august 30, 2008, ratified by italy in law on february 6, 2009, 
+according to gazzetta ufficiale repubblica italiana, february 18, 2009. 
+
+44
+
+journal on migration and human securityin  stopping  the  boats.  through  the  use  of  a  combination  of  pushbacks  and  offshore 
+processing, the number of asylum seekers reaching australia dropped from 20,587 in 2013 
+to zero in 2015. however, the australian government appears to have no exit plan for 
+refugees waiting for a durable solution in other pacific states, and its success may hence 
+be short lived as capacity in cooperating states is limited. moreover, it remains difficult 
+to imagine the australian model being brought to scale in the current european context 
+or in situations of mass influx. and even if deterrence measures may shift the burden of 
+protection to less developed states, there is no evidence that it dissuades asylum claims or 
+reduces the need for international protection globally. 
+of course, several of these three sets of challenges are hardly new, and one may object 
+that so far such anomalies have been handled entirely through incremental or innovative 
+adjustments  to  deterrence  policies.  yet,  as  various  challenges  accumulate,  patchwork 
+solutions gradually become harder to sustain. taken together, the above challenges suggest 
+that the deterrence paradigm is not sustainable in the long term, or even perhaps in the 
+medium term. and the detrimental results of deterrence are becoming increasingly clear as 
+access to refugee protection is systematically blocked, as refugees are forced to risk their 
+lives in order to reach safety, as a transnational criminal industry of human smuggling 
+flourishes, and as the protection capacity of developing states is pushed to the brink. while 
+developed states may continue to return to the well of deterrence policies in the near future, 
+the current situation in europe demonstrates a need for more fundamental rethinking.
+
+iv. conclusions and recommendations: three tenets of a 
+more sustainable regime
+as this article has sought to demonstrate, the present refugee crisis represents not a crisis 
+of numbers, but of policy. while the global number of refugees is currently at a historic 
+high, the worlds 21.3 million refugees still constitute less than 0.3 percent of the worlds 
+population. and though financial contributions fall substantially short of estimated needs, 
+unhcrs record budget for 2016 is substantially lower than the amount us consumers 
+spend each year on halloween decorations, costumes and candy.50 in other words, there is 
+little to suggest that the current crisis in terms of refugee numbers and global protection 
+capacity is an insurmountable challenge.
+yet, while the evidence that the current paradigm is failing is mounting, we have still to 
+reach agreement on a politically acceptable alternative. in ensuing years, various policy 
+visions will compete to become accepted as the replacement paradigm. in situations such 
+as this, in which one era is closing and another beginning, it is typically difficult for both 
+practitioners and scholars to maintain a comprehensive understanding of what is going 
+on, including the extent to which their own work constructively feeds into the process of 
+paradigm change (kuhn and hacking 2012). 
+in terms of what will end up prevailing, this is still an open question. but to be successful, 
+any new policy paradigm must as a minimum successfully address the core problems left 
+unaddressed by the existing paradigm. taking heed of the above challenges, those in search 
+50   the unhcr budget for 2016, as approved by the executive committee, was 6.5 billion dollars 
+(unhcr 2016b) .
+
+45
+
+the end of the deterrence paradigm?of a new policy paradigm for global refugee protection may thus want to start by addressing 
+the following three issues.
+
+a. continued respect for international refugee law
+
+if we accept that the deterrence paradigm is a particular instantiation of the current refugee 
+regime, we also need to carefully distinguish between the existing political framing of the 
+current regime and its underlying normative structures. this makes the recent arguments 
+by policymakers, calling for a revision or complete abandonment of the 1951 refugee 
+convention, difficult to sustain. not only was the 1951 refugee convention designed very 
+much with the kind of large-scale refugee situation we are facing today in mind, one would 
+be hard pressed to find another human rights instrument that is so inherently, some might 
+argue overly, sensitive to states political concerns. refugee law leaves states largely free 
+in terms of how to organize their domestic asylum procedures, explicitly excludes those 
+underserving of protection, and allows states to apply exceptions if they have well-founded 
+security and public order concerns. furthermore, the drafters were attentive to the issue of 
+not overburdening states facing mass influx, and to this end the convention applies a novel 
+approach where rights are granted incrementally instead of all at once, and in many cases 
+only guaranteed relative to how the particular state grants rights to its own citizens. over 
+the last half century the 1951 refugee convention has thus proven itself a flexible and 
+robust instrument, laying down a rights framework, which ought to remain at the core of 
+any political reform process.
+
+b. meaningful responsibility- and burden-sharing
+
+within the parameters of the current legal regime however, it is possible to imagine a range 
+of far-reaching reforms to both the institutional and political framework for organizing 
+international  refugee  protection. a  key  element  in  this  process  must  be  to  address  the 
+current misdistribution of both refugee responsibility and protection capacity. a stronger 
+commitment to international solidarity should build both on the sharing of responsibility 
+in regard to refugees, e.g., through resettlement, humanitarian visas, or global and regional 
+distribution mechanisms, or on the sharing of resources, such as humanitarian assistance, 
+expert staff, know-how, and money. 
+a number of scholars and refugee advocates have called for a general distribution model, 
+with  quotas  based  on  each  countrys  population  size,  gdp,  unemployment  rates,  etc. 
+while such a model undoubtedly achieves a form of fairness among states, we believe 
+it is unlikely to work even in the more limited european context. the first objection is 
+political. the existing ad hoc redistribution scheme within the european union has hardly 
+been a success, and few member states would willingly sign on to what they perceive to 
+be a blank check in such a politically sensitive area. but more importantly, such a model 
+further  fails  to  take  account  of  refugees  individual  wishes,  capabilities,  networks,  and 
+personal attachments. based on existing data, any such model will in all likelihood lead to 
+widespread secondary movement.
+
+46
+
+journal on migration and human securityin  contrast,  a  common  but  differentiated  approach  implies  that  while  all  states  must 
+contribute in a proportionate and meaningful manner, not all states need provide the same 
+kind of commitment (hathaway 2016, 93-99). countries in the region of origin, or along the 
+most common arrival routes to the european union, cannot be expected to continue to host 
+the vast majority of refugees. the only way to ensure the continued willingness of these 
+states to open their borders is to institutionalize a significant and systematic commitment 
+to responsibility-sharing through, for example, resettlement quotas and humanitarian visa 
+programs. moreover, major refugee hosting countries must be properly compensated, and 
+not just with money for humanitarian aid, but through a systematic investment in their 
+national economies, in order to boost trade opportunities and create more jobs to benefit 
+both the refugees and local populations alike.51
+
+c. a broader notion of refugee protection
+
+for  far  too  long  refugee  protection  in  the  major  countries  of  first  asylum  has  focused 
+almost entirely on providing basic physical safety and humanitarian assistance without a 
+meaningful commitment to refugee protection, much less durable solutions. yet, the data 
+from the syrian crisis clearly shows us that other rights are equally important if refugees 
+are to establish a life and not feel compelled to flee onwards. these other rights relate to 
+refugees ability to establish a livelihood, to access basic infrastructures such as health 
+care and the justice system, and to ensure a future for their children through education. it 
+is high time we move beyond the current containment approach and start thinking more 
+thoroughly about refugee protection: how can we create more and faster job and self-
+reliance opportunities? how can we ensure access to education in a way that refugees can 
+benefit from whether or not they have to stay in the host country or eventually return home? 
+and how do you ensure that refugees are not marginalized in the societies and justice 
+systems of the host countries?
+a  second  element  paving  the  way  for  more  effective  policymaking  vis-a-vis  asylum 
+seekers is for states, individually and collectively, to enhance their preparedness to receive 
+refugees. any serious change to the current refugee regime must move beyond exploitation 
+of the contours of international refugee law, and the reactive approach of individual states 
+awaiting the arrival of refugees on their territories. planning for and cooperation in regard 
+to  refugee  arrivals  is  essential.  the  current  regimes  apparatus  of  cooperation-based 
+migration control paradoxically shows that origin, transit, and asylum states are engaging 
+as  never  before.  harnessing  new  forms  of  more  protection-oriented  cooperation,  states 
+may wish to draw on both historical examples, such as the comprehensive plan of action 
+for indochinese refugees (betts 2006), and more current initiatives, for example, the multi-
+stakeholder process in regard to refugee protection in the northern triangle of central 
+america organized by unhcr (unhcr 2016a).
+
+51   for a proposal to this end, see betts and collier (2015, 84).
+
+47
+
+the end of the deterrence paradigm?references
+aida  (asylum  information  database).  2015.  asylum  information  database  country 
+report:  hungary.  brussels:  european  council  on  refugees  and  exiles.  http://
+www.asylumineurope.org/sites/default/files/report-download/aida_-_hungary_
+thirdupdate_final_february_2015.pdf. 
+
+amnesty international. 2016. turkey: no safe refuge: asylum-seekers and refugees 
+denied effective protection in turkey. london: amnesty international. https://
+www.amnesty.org/en/documents/eur44/3825/2016/en/.
+
+aust, helmut. 2013. complicity and the law of state responsibility. cambridge: cambridge 
+
+university press. 
+
+australian human rights commission. 2014. the forgotten children: national inquiry 
+into children in immigration detention 2014. sydney: australian human rights 
+commission. 
+https://www.humanrights.gov.au/sites/default/files/document/
+publication/forgotten_children_2014.pdf. 
+
+barnett, laura. 2002. global governance and the evolution of the international refugee 
+regime.  international  journal  of  refugee  law  14(2-3):238-62.  https://doi.
+org/10.1093/ijrl/14.2_and_3.238. 
+
+bell, bethany. 2016. migrant crisis: austrias plan b to cap influx of refugees. bbc 
+
+news, january 21. http://www.bbc.com/news/world-europe-35365603.
+
+betts, alexander.  2006.  comprehensive  plans  of  action:  insights  from  cirefca  and 
+the indochinese cpa. new issues in refugee research working paper no. 120. 
+geneva:  unhcr.  http://www.unhcr.org/en-us/research/working/43eb6a152/
+comprehensive-plans-action-insights-cirefca-indochinese-cpa-alexander-betts.
+html. 
+
+betts, alexander, and paul collier. 2015. help refugees help themselves: let displaced 
+
+syrians join the labor market. foreign affairs 94:84.
+
+billings, peter. 2013. irregular maritime migration and the pacific solution mark ii: back 
+to the future for refugee law and policy in australia? international journal 
+on minority and group rights 20(2):279-305. https://doi.org/10.1163/15718115-
+02002007. 
+
+bloom,  tendayi.  2015.  the  business  of  migration  control:  delegating  migration 
+control  functions  to  private  actors.  global  policy  6(2):151-57.  https://doi.
+org/10.1111/1758-5899.12188. 
+
+bhmer, michael, jan limbers, ante pivac, and heidrun weinelt. 2016. departure from 
+the schengen agreement macroeconomic impacts on germany and the countries 
+of the european union. gtersloh, germany: bertelsmann stiftung. https://www.
+bertelsmann-stiftung.de/fileadmin/files/bst/publikationen/grauepublikationen/
+nw_departure_from_schengen.pdf. 
+
+48
+
+journal on migration and human securitybrian, tara  and  frank  laczko,  eds.  2014.  fatal  journeys:  tracking  lives  lost  during 
+
+migration. geneva: iom.
+
+byrne, rosemary, gregor noll, and jens vedsted-hansen. 2002. new asylum countries? 
+migration control and refugee protection in an enlarged european union. the 
+hague: kluwer law international.
+
+campoy, ana. 2014. illegal immigrants seeking asylum face a higher bar. wall street 
+journal, september 28. http://online.wsj.com/articles/illegal-immigrants-seeking-
+asylum-face-a-higher-bar-1411945370.
+
+castles, stephen, and mark j. miller. 2003. the age of migration: international population 
+
+movements in the modern world, third edition. basingstoke, uk: palgrave.
+
+cat (committee against torture). 2014. concluding observations on the fourth and fifth 
+periodic reports of australia. geneva: cat. http://tbinternet.ohchr.org/treaties/
+cat/shared%20documents/aus/cat_c_aus_co_4-5_18888_e.pdf. 
+
+chimni, b. s. 1998. the geopolitics of refugee studies and the practice of international 
+institutions: a view from the south. journal of refugee studies 11(4):350-74. 
+https://doi.org/10.1093/jrs/11.4.350-a. 
+
+ dastyari, azadeh. 2007. refugees on guantanamo bay: a blue print for australias 
+
+pacific solution? australian quarterly 79(1):4-40.
+
+.  2015.  united  states  migrant  interdiction  and  the  detention  of  refugees  in 
+
+guantnamo bay. cambridge: cambridge university press.
+
+deutsche  welle.  2015.  people  smugglers adopt  new  ghost  ship  tactic.  deutsche 
+welle,  january  2.  http://www.dw.com/en/people-smugglers-adopt-new-ghost-
+ship-tactic/a-18168457. 
+
+dfat  (department  of  foreign  affairs  and  trade  of  australia).  2014.  memorandum 
+of  understanding  between  the  government  of  cambodia  and  the  government 
+of  australia,  relating  to  the  settlement  of  refugees  in  cambodia.  canberra: 
+department  of  foreign  affairs  and  trade  of  australia.  http://dfat.gov.au/
+international-relations/themes/people-smuggling-trafficking/documents/
+cambodia-australia-mou-and-operational-guidelines.pdf. 
+
+ dipb (department of immigration and border protection). 2017. immigration detention 
+and  community  statistics  summary.  canberra,  australia:  dipb.  https://www.
+border.gov.au/reportsandpublications/documents/statistics/immigration-
+detention-statistics-31-jan-2016.pdf. 
+
+dudley,  michael,  zachary  steel,  sarah  mares,  and  louise  newman.  2012.  children 
+and  young  people  in  immigration  detention.  current  opinion  in  psychiatry, 
+25(4):285-92. https://doi.org/10.1097/yco.0b013e3283548676. 
+
+edwards,  adrian.  2016.  global  forced  displacement  hits  record  high.  geneva: 
+http://www.unhcr.org/news/latest/2016/6/5763b65a4/global-forced-
+
+unhcr. 
+displacement-hits-record-high.html. 
+
+49
+
+the end of the deterrence paradigm?edwards, alice. 2011. back to basics: the right to liberty and security of person and 
+alternatives  to  detention  of  asylum-seekers,  stateless  persons,  and  other 
+migrants. geneva: unhcr.
+
+  european  asylum  support  office.  2015.  technical  press  briefing  presentation  at  the 
+valletta summit on migration, november 10. valletta, malta: european asylum 
+support office. 
+
+european commission. 2011. global approach on migration and mobility. brussels: 
+european commission. http://eur-ex.europa.eu/lexuriserv/lexuriserv.do?uri=c
+om:2011:0743:fin:en:pdf.
+
+european  council.  2016.  eu-turkey  statement,  18  march  2016.  brussels:  european 
+council.  http://www.consilium.europa.eu/en/press/press-releases/2016/03/18-eu-
+turkey-statement/. 
+
+european  parliament  directorate-general  for  internal  policies.  2016.  cost  of  non-
+schengen: the impact of border controls within schengen on the single market. 
+brussels:  european  parliament.  http://www.europarl.europa.eu/regdata/etudes/
+stud/2016/578974/ipol_stu(2016)578974_en.pdf.
+
+fargues, philippe, and anne di bartolomeo. 2015. drowned europe. florence: migration 
+policy  centre,  european  university  institute.  http://cadmus.eui.eu/bitstream/
+handle/1814/35557/mpc_2015_05_pb.pdf?sequence=1. 
+
+fitzgerald, david. forthcoming. 2015-16 symposium transcript: the global refugee 
+
+crisis. connecticut journal of international law 31(1).
+
+fra  (european  union agency  for  fundamental  rights).  2013.  fundamental  rights  at 
+europes southern sea borders. vienna: fra. https://fra.europa.eu/sites/default/
+files/fundamental-rights-europes-southern-sea-borders-jul-13_en.pdf.
+
+frontex.  2015.  annual  risk  analysis.  warsaw:  frontex.  http://frontex.europa.eu/assets/
+
+publications/risk_analysis/annual_risk_analysis_2015.pdf. 
+
+. 2016. migratory routes map. warsaw: frontex. http://frontex.europa.eu/trends-
+
+and-routes/migratory-routes-map/.
+
+gammeltoft-hansen, thomas. 2011. access to asylum: international refugee law and 
+the globalisation of migration control. cambridge: cambridge university press.
+. 2014a. creative legal thinking and the evolution of international refugee 
+
+law. lakimies 112:99-103.
+
+. 2014b. the role of international refugee law in refugee policy. journal of 
+
+refugee studies 27(4):574-95. https://doi.org/10.1093/jrs/feu030. 
+
+.  2015.  private  security  and  the  migration  control  industry.  in  routledge 
+handbook  on  private  security,  edited  by  rita abrahamsen  and anna  leander. 
+new york: routledge publishing.
+
+50
+
+journal on migration and human securitygammeltoft-hansen, thomas, and james hathaway. 2015. non-refoulement in a world 
+of cooperative deterrence. columbia journal of transnational law 53(2):235-
+85.
+
+gammeltoft-hansen,  thomas  and  ninna  nyberg  srensen,  eds.  2013.  the  migration 
+industry  and  the  commercialization  of  international  migration.  london: 
+routledge.
+
+gammeltoft-hansen, thomas, and jens vedsted-hansen, eds. 2016. human rights and 
+the dark side of globalisation: transnational law enforcement and migration 
+control. london: routledge.
+
+geddes, andrew.  2009.  migration  as  foreign  policy? the  external  dimension  of  eu 
+action on migration and asylum. stockholm: swedish institute for european 
+policy studies. http://www.sieps.se/sites/default/files/528-2009-2rapport.pdf.
+
+ghezelbash, daniel. 2014. forces of diffusion: what drives the transfer of immigration 
+policy  and  law  across  jurisdictions?  international  journal  of  migration  and 
+border studies 1(2):139-53. https://doi.org/10.1504/ijmbs.2014.066306. 
+
+gibney, mark. 1994. refugees and immigrants in the new europe. human rights in the 
+new europe: problems and progress, vol. 2, edited by david forsythe. lincoln, 
+ne: university of nebraska press.
+
+ gibney, matthew j., and randall hansen. 2003. asylum policy in the west: past trends, 
+
+future possibilities. discussion paper 2003/068. helsinki: unu-wider. 
+
+gil-bazo, m.-t. 2006. the practice of mediterranean states in the context of the european 
+unions justice and home affairs external dimension: the safe third country 
+concept revisited. international journal of refugee law 18:571-600.
+
+ global detention project. 2015. the detention of asylum seekers in the mediterranean 
+http://www.refworld.org/
+
+region.  geneva:  global  detention  project. 
+pdfid/556736e24.pdf. 
+
+ goodwin-gill, guy. 2014. the dynamic of international refugee law. international 
+
+journal of refugee law 25(4):651-66. https://doi.org/10.1093/ijrl/eeu003. 
+
+grattan, michelle. 2012 pms pacific solution mark ii. the age, august 14. www.theage.
+.au/opinion/political-news/pms-pacific-solution-mark-ii-20120813-24508.
+
+com 
+html.
+
+hall,  peter a.  1993.  policy  paradigms,  social  learning,  and  the  state:  the  case  of 
+economic policymaking in britain. comparative politics 25:275-96. https://doi.
+org/10.2307/422246. 
+
+hathaway, james c. 1992. the emerging politics of non-entre. refugees 91:40-41.
+. 2016. a global solution to a global crisis. european papers 1(1):93-99.
+ hathaway, james c., and michelle foster. 2014. the law of refugee status. cambridge: 
+
+cambridge university press.
+
+51
+
+the end of the deterrence paradigm? henkin, louis. 1993. notes from the president. american society of international law 
+
+newsletter, september-october edition.
+
+hogan, john, and michael howlett, eds. 2015. policy paradigms in theory and practice: 
+discourses, ideas and anomalies in public policy dynamics. london: palgrave 
+macmillan uk. 
+
+hrw (human rights watch). 2014. you dont have rights here: us border screening 
+
+and returns of central americans to risk of serious harm. new york: hrw. 
+
+hrw. 2015. southeast asia: end rohingya boat pushbacks. new york: hrw. https://
+
+www.hrw.org/news/2015/05/14/southeast-asia-end-rohingya-boat-pushbacks.
+
+hungarian  helsinki  committee.  2011.  serbia  as  a  safe  third  country:  a  wrong 
+presumption. budapest: hungarian helsinki committee. http://www.refworld.org/
+docid/4e815dec2.html.
+
+hurwitz, agnes. 2009. the collective responsibility of states to protect refugees. oxford: 
+
+oxford university press.
+
+international  detention  coalition.  n.d.  global  campaign  to  end  the  immigration 
+detention  of  children.  melbourne:  international  detention  coalition.  http://
+endchilddetention.org/.
+
+iom (international organization for migration). 2016. missing migrants project. http://
+
+missingmigrants.iom.int. 
+
+ jackson, miles. 2015. complicity in international law. oxford university press: oxford. 
+ jones, reece, and corey johnson. 2016. border militarisation and the re-articulation 
+of sovereignty. transactions of the institute of british geographers 41:187-200. 
+https://doi.org/10.1111/tran.12115. 
+
+  kaldor  centre.  2015.  factsheet: temporary  protection visas.  sydney:  university  of 
+new  south  wales.  http://www.kaldorcentre.unsw.edu.au/publication/temporary-
+protection-visas#sthash.ez18bdhe.dpuf. 
+
+karlsen,  elibritt.  2015.  australias  offshore  processing  of asylum  seekers  in  nauru 
+and png: a quick guide to the statistics. parliamentary library of australia 
+research  paper  series.  canberra:  parliament  of  australia.  http://parlinfo.aph.
+gov.au/parlinfo/download/library/prspub/4129606/upload_binary/4129606.
+pdf;filetype=application/pdf. 
+
+kibicho, karanja. 2016. as the kenyan minister for national security, heres why im 
+shutting the worlds biggest refugee camp. the  independent, may 9. http://
+www.independent.co.uk/voices/as-the-kenyan-minister-for-national-security-
+heres-why-im-shutting-the-worlds-biggest-refugee-camp-a7020891.html
+
+kneebone, susan. 2014. the bali process and global refugee policy in the asia-pacific 
+region.  journal  of  refugee  studies  27(4):596-618.  https://doi.org/10.1093/jrs/
+feu015. 
+
+52
+
+journal on migration and human security. 2016. comparative regional protection frameworks for refugees: norms and 
+norm entrepreneurs. the international journal of human rights 20(2):153-72. 
+https://doi.org/10.1080/13642987.2016.1141499. 
+
+koh, harold hongju. 1994. the haiti paradigm in united states human rights policy. 
+
+the yale law journal 103:2391-435. https://doi.org/10.2307/797051. 
+
+kuhn, thomas s., and ian hacking. 2012. the structure of scientific revolutions, fourth 
+
+edition. chicago and london: the university of chicago press.
+
+kyle,  david  and  rey  koslowski,  eds.  2001.  global  human  smuggling:  comparative 
+
+perspectives. baltimore, de: johns hopkins university press.
+
+lanovoy, vladyslav. 2015. complicity in an internationally wrongful act. in principles 
+of shared responsibility in international law: an appraisal of the state of the 
+art, edited by andr nollkaemper and ilias plakokefalos. cambridge: cambridge 
+university press. 
+
+lavenex,  sandra.  2006.  shifting  up  and  out:  the  foreign  policy  of  european 
+immigration  control.  west  european  politics  29:329-50.  https://doi.
+org/10.1080/01402380500512684. 
+
+legomsky,  stephen  h.  2006.  the  usa  and  the  caribbean  interdiction  program. 
+international  journal  of  refugee  law  18(3-4):677.  https://doi.org/10.1093/ijrl/
+eel024. 
+
+. 2007. the new path of immigration law: asymmetric incorporation of criminal 
+
+justice norms. immigration and nationality law review 28:679-738.
+
+the local. 2015 norway launches anti-refugee facebook page. the local, november 
+http://www.thelocal.no/20151108/norway-launches-anti-refugee-facebook-
+
+8. 
+page. 
+
+lunita.  2010.  immigrati/maroni:  in  un  anno  rimandati  in  libia  850  clandestine. 
+
+lunita, may 10. www.unita.tv. 
+
+magner, tara. 2004. a less than pacific solution for asylum seekers in australia. 
+international  journal  of  refugee  law  16(1):53-90.  https://doi.org/10.1093/
+ijrl/16.1.53. 
+
+mangano, antonello. 2011. i pescatori tunisini salvano 44 naufraghi, litalia li processi. 
+linkiesta, september 27. http://www.linkiesta.it/it/article/2011/09/27/i-pescatori-
+tunisini-salvano-44-naufraghi-litalia-li-processa/6134/. 
+
+mann, itamar. 2013. dialectic of transnationalism: unauthorized migration and human 
+
+rights, 1993-2013. harvard international law journal 54(2):339.
+
+mcadam, jane. 2007. complementary protection in international refugee law. oxford: 
+
+oxford university press.
+
+53
+
+the end of the deterrence paradigm?medhora, shalailah. 2015. tony abbott says australia will take no rohingya refugees. 
+the  guardian,  may  21.  http://www.theguardian.com/world/2015/may/21/nope-
+nope-nope-tony-abbott-says-australia-will-take-no-rohingya-refugees. 
+
+minister for immigration and border protection. 2011. legislation to restore migration 
+
+act powers. canberra: minister for immigration and border protection. 
+
+. 2016. boats stopped  threat constant. canberra: minister for immigration 
+and  border  protection.  http://www.minister.border.gov.au/peterdutton/2016/
+pages/boats-stopped-18032016.aspx. 
+
+miranda, carlos ortiz. 1995. haiti and the united states during the 1980s and 1990s: 
+
+refugees, immigration, and foreign policy. san diego law review 32:705. 
+
+ mitsilegas, valsamis. 2014. the criminalisation of migration in europe: challenges for 
+
+human rights and the rule of law. london: springer.
+
+mountz, alison. 2011. the enforcement archipelago: detention, haunting, and asylum 
+islands.  political  geography  30(3):118-28.  https://doi.org/10.1016/j.
+
+on 
+polgeo.2011.01.005. 
+
+ nethery, amy, brynna rafferty-brown, and savitri taylor. 2013. exporting detention: 
+australia-funded immigration detention in indonesia. journal of refugee studies 
+26(1):88-109. https://doi.org/10.1093/jrs/fes027. 
+
+nollkaemper, andr, and dov jacobs. 2013. shared responsibility in international law: 
+a conceptual framework michigan journal of international law 34(2):359-438.
+parliament of australia. 2013. counter people smuggling communication. canberra: 
+parliament  of  australia.  https://www.border.gov.au/about/operation-sovereign-
+borders/counter-people-smuggling-communication. 
+
+pop, valentina. 2015. as belgium turns to facebook to deter iraqis, more arrive daily. 
+the wall street journal, september 29. http://blogs.wsj.com/brussels/2015/09/29/
+as-belgium-turns-to-facebook-to-deter-iraqis-more-arrive-daily/.
+
+refugee council of australia. 2014. recent changes in australian refugee policy. surry 
+
+hills, australia: refugee council of australia.
+
+. 2015. 2015-16 federal budget in brief. surry hills, australia: refugee council of 
+australia.  http://www.refugeecouncil.org.au/wp-content/uploads/2014/08/2015-
+16-budget.pdf. 
+
+rettman, andrew. 2015. eu to expand mediterranean anti-smuggler force. euobserver, 
+
+september 14.
+
+reuters. 2015. hungarys new border rules alarming  unhcr. reuters, september 
+http://www.unhcr.org/cgi-bin/texis/vtx/refdaily?pass=52fc6fbd5&id=55f90
+
+15. 
+0a55.
+
+54
+
+journal on migration and human securityrobjant, katy, rita hassan, and cornelius katona. 2009. mental health implications of 
+detaining asylum seekers: systematic review. the british journal of psychiatry 
+194(4):306-12. https://doi.org/10.1192/bjp.bp.108.053223. 
+
+seelke, clare ribando, and kristin finklea. 2015. u.s.-mexican security cooperation: 
+the  merida  initiative  and  beyond.  washington,  dc:  congressional  research 
+service. https://www.hsdl.org/?view&did=765713. 
+
+soros,  george.  2016.  europe: a  better  plan  for  refugees.  the  new  york  review  of 
+books,  april  9.  http://www.nybooks.com/daily/2016/04/09/europe-how-pay-for-
+refugees/. 
+
+stumpf,  juliet.  2006.  the  crimmigration  crisis:  immigrants,  crime,  and  sovereign 
+
+power. american university law review 56(2):367.
+
+tisdall, simon. 2015 south-east asia faces its own migrant crisis as states play human 
+ping-pong.  the  guardian,  may  14.  http://www.theguardian.com/world/2015/
+may/14/migrant-crisis-south-east-asia-rohingya-malaysia-thailand.
+
+unga. 2001. report of the international law commission. un doc. a/56/10, 56 sess. 
+new york: united nations. http://www.un.org/documents/ga/docs/56/a5610.pdf. 
+uk  home  office.  2003.  new  international  approaches  to  asylum  processing  and 
+
+protection. london: uk home office.
+
+.  1991.  position  on  conventions  recently  concluded  in  europe  (dublin  and 
+
+schengen conventions). geneva: unhcr. 
+
+. 1995a. position on visa requirements and carrier sanctions. geneva: unhcr.
+. 1995b. the state of the worlds refugees: in search of solutions. oxford: oxford 
+
+university press.
+
+. 2009. unhcr interviews asylum seekers pushed back to libya. unhcr: 
+
+geneva. 
+
+.  2011.  handbook  and  guidelines  on  procedures  and  criteria  for  determining 
+refugee  status  under  the  1951  convention  and  the  1967  protocol  relating  to 
+the status of refugees. hcr/1p/4/eng/rev. 3. geneva: unhcr. http://www.
+refworld.org/docid/4f33c8d92.html. 
+
+ . 2012a. dozens queue every week in athens to apply for asylum. geneva: 
+
+unhcr. http://www.unhcr.org/4f6c8b6a6.html. 
+
+.  2012b.  guidelines  on  the  applicable  criteria  and  standards  relating  to  the 
+detention of asylum seekers and alternatives to detention. geneva: unhcr. 
+http://www.unhcr.org/505b10ee9.html.
+
+. 2012c. serbia as a country of asylum: observations on the situation of asylum-
+seekers and beneficiaries of international protection in serbia. geneva: unhcr. 
+http://www.refworld.org/docid/50471f7e2.html. 
+
+55
+
+the end of the deterrence paradigm?. 2013a. unhcr monitoring visit to the republic of nauru, october 7-9. sydney: 
+
+unhcr.
+
+. 2013b. unhcr monitoring visit to manus island, papua new guinea october 
+
+23-25. sydney: unhcr. 
+
+. 2014a. beyond detention a global strategy to support governments to end the 
+detention of asylum-seekers and refugees. geneva: unhcr. http://www.unhcr-
+centraleurope.org/pdf/what-we-do/overseeing-reception-conditions/detention/
+beyond-detention.html. 
+
+.  2014b.  unhcr  is  concerned  at  new  amendment  to  israels  law  on  the 
+prevention  of  infiltration.  geneva:  unhcr.  http://www.unhcr.org/52cfe2a09.
+html.
+
+. 2015. global trends 2014. geneva: unhcr. http://www.unhcr.org/556725e69.
+
+pdf. 
+
+. 2016a. high-level roundtable 6-7 july 2016: call to action: protection needs 
+in  the  northern  triangle  of  central america.  unhcr:  geneva.  http://www.
+unhcr.org/news/press/2016/6/5775200d4/high-level-roundtable-6-7-july-2016-
+call-action-protection-needs-northern.html. 
+
+. 2016b. update on budgets and funding for 2015 and 2016. ec/67/sc/crp. 
+
+geneva: unhcr. http://www.unhcr.org/56d7f9884.pdf.
+
+van selm, joanne. 2001. access to procedures, safe third countries, safe countries 
+of origin and time limits. global consultations on international protection 
+background paper. geneva: unhcr.
+
+vedsted-hansen, jens. 1999a. europes response to the arrival of asylum seekers: refugee 
+protection  and  immigration  control.  new  issues  in  refugee  research  no.  6. 
+geneva: unhcr.
+
+. 1999b. non-admission policies and the right to protection: refugees choice 
+vs. states exclusion? in refugee rights and realities: evolving international 
+concepts and regimes, edited by frances nicholson and patrick twomey, 269-88. 
+cambridge: cambridge university press.
+
+zolberg, aristide. 2001. beyond the crisis. in global migrants, global refugees, edited 
+
+by peter m. benda and aristide zolberg, 1-19. new york: berghahn books.
+
+56
+
+journal on migration and human security

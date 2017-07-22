@@ -1,0 +1,872 @@
+borders and duties to the 
+displaced: ethical perspectives on 
+the refugee protection system
+
+david hollenbach, s.j.
+georgetown university
+
+executive summary
+this essay proposes some ethical perspectives that can help in the task of 
+reassessing the structure of the global refugee protection system in light of 
+the extraordinarily high levels of refugee movement and forced migration 
+occurring today. it addresses two chief areas. first, it considers whether 
+ethical duties reach beyond the borders that separate nation-states and the 
+implications of such duties for the treatment of refugees and other displaced 
+persons. drawing on classical ethical perspectives found in secular moral 
+thought and in several religious traditions, the essay argues that national 
+borders have moral weight, but that grave violations of the rights of displaced 
+persons can create responsibilities that are more stringent than duties to 
+co-citizens of ones own country. second, the essay examines whether the 
+duties to co-citizens or to displaced persons should take priority in various 
+contexts. negative duties that have particular urgency in the effort to shape 
+a more adequate response to forced migrants are proposed, drawing upon 
+classic criteria in the ethics and law of war. these include the avoidance 
+of aggression, war crimes, crimes against humanity, and other violations 
+of justice that often lead to mass displacement. positive duties to come to 
+the aid of the displaced are also developed in light of several standards: 
+the needs of the displaced, the proximity and capability of the responder, 
+whether the response is a last resort, and if the response can be carried 
+out without disproportionate burden on the responder. these negative and 
+positive duties are then drawn upon to argue for a significantly more active 
+response to the needs of forced migrants by developed nations in the global 
+north, by regional and global intergovernmental organizations, by secular 
+and  faith-based  humanitarian  nongovernmental  organizations  (ngos), 
+and by citizens at large.
+
+i. introduction
+the international refugee protection system is severely challenged today. in recent decades 
+the forced movement of refugees and internally displaced persons has been rising markedly, 
+reaching an extraordinarily high level today by historical standards. it is well known that 
+there are more displaced people today than at any time since world war ii. despite the 
+
+ 2016 by the center for migration studies of new york. all rights reserved.jmhs volume 4 number 3 (2016): 148-165efforts and achievements of many governments and many humanitarian organizations, the 
+protection of displaced persons from the harms they routinely suffer remains a distant goal. 
+many analysts believe that the conditions faced by forced migrants today have brought 
+the  refugee  regime  to  a  turning  point.  un  secretary-general  ban  ki-moon  has  called 
+the situation a monumental crisis that will require a response based on monumental 
+solidarity (ki-moon 2016). the regime that has been in place since the adoption of the 
+1951 convention relating to the status of refugees needs to be reexamined. the challenge 
+to  develop  more  adequate  ways  of  protecting  the  humanity  of  those  threatened  by 
+displacement is in part a moral one. this essay will propose several ethical perspectives that 
+may be of help in this reassessment. the moral challenges, of course, are deeply embedded 
+in the political, military, economic, environmental, and other conditions that drive people 
+from  home.  examining  the  ethical  issues,  therefore,  requires  paying  close  attention  to 
+these social conditions. but this essay will highlight several distinctly ethical issues that 
+arise in the reform of the refugee regime. the goal is to draw upon some existing ethical 
+wisdom to shed light on our moral responsibilities to those who are suffering because of the 
+displacement brought about by war and disaster today.
+the first part of the essay will address the significance of the borders separating national 
+communities and the sovereignty of states for our moral responsibilities toward displaced 
+people. are there duties that reach beyond the borders of diverse peoples and sovereign 
+states? if so, how do these duties relate to the responsibilities people have to citizens of 
+their own country? it will be argued that there are duties both to fellow citizens and to those 
+in great need, especially to those who have no other form of protection than that provided 
+by humanitarian assistance, asylum, or both. the second part will suggest that since we 
+have duties both to fellow citizens and to those from other countries who are facing the 
+crisis of forced displacement, we need to clarify priorities among these types of duty in 
+various circumstances. such priorities will be developed in light of several negative duties 
+not to treat people in ways that cause displacement and several positive duties to take action 
+when forced migration is already occurring. it will be suggested that acting in accord with 
+these priorities will help create a more adequate refugee protection system, and that a better 
+system of protection will in turn facilitate fulfillment of the duties proposed. 
+
+ii. nation states and duties beyond borders
+in the face of the growth in the number of refugees and other forced migrants and the degree 
+of their suffering in recent years, some analysts have been calling for a radical rethinking of 
+the relevance of national borders for the ethical responsibilities toward displaced persons. 
+secular political philosophers such as joseph carens and refugee scholars like philip marfleet 
+argued some years ago that the time may have come to consider making borders fully open 
+to all who are fleeing from persecution, conflict, or disaster (carens 1987; marfleet 2006, 
+288-90).  in  a  similar  spirit,  philosopher  martha  nussbaum  argued  that  a  cosmopolitan 
+community of all human beings has primacy over narrower communities defined in terms 
+of nationality, ethnicity, or religion. indeed she called nationality a morally irrelevant 
+characteristic of personhood, a position that amounted to an ethical call for open borders 
+(nussbaum 2002, 5).
+
+149
+
+borders and duties to the displacedsuch  a  universalist  cosmopolitan  ethic  echoes  the  first  of  the  principles  that  guide  the 
+actions of the international committee of the red cross (icrc) and that is usually taken 
+as foundation of the humanitarian movement, namely the principle of humanity (icrc 
+1986). the chief author of the icrcs principles, jean pictet, noted that in this principle 
+the term humanity refers to the whole of humankind and all its members (pictet 1979). 
+concern for humanity, therefore, is concern for all members of the human race and the 
+conditions  that  all  are  facing.  to  act  in  accord  with  humanity  is  to  act  with  inclusive 
+concern toward all men and women. the principle of humanity thus leads to another of 
+the icrcs standards: impartiality. to act with humanity is to respond impartially to all 
+members of the human family on the basis of their need, not because of some characteristic 
+that differentiates them from others, such as their citizenship, nationality, race, religion, 
+class, or political opinion.  
+the universality of the icrcs principle of humanity is also a characteristic of the normative 
+basis of the modern human rights movement. human rights are rooted in the universal 
+and equal dignity of all human beings. the preamble of the 1948 universal declaration 
+of human rights directly links recognition of the inherent dignity of all persons with 
+protection of the equal and inalienable rights of all members of the human family.1 the 
+commitment of the human rights movement to the dignity of all persons, not just those 
+belonging to particular nations, religions, or ethnicities, is evident from the fact that the 
+united nations titled its 1948 statement of human rights a universal declaration. 
+drawing on the normative standards of both the humanitarian and human rights movements, 
+we can affirm that all persons deserve equal protection from grave threats to their worth 
+as persons. this is evident in the way terms such as all, everyone, and no one are 
+used throughout the universal declaration of human rights. the declaration states that 
+all persons possess human rights without distinctions based on race, color, sex, language, 
+religion, political or other opinion, national or social origin.2 this relativizes all in-group/
+out-group  boundaries.  it  challenges  understandings  of  religious,  national,  or  cultural 
+identity that would limit respect only to those people belonging to a particular community. 
+the human rights ethos thus seeks to tear down the walls dividing people into those who 
+count and those who do not count, at least when the most basic requirements of humanity 
+are at stake. no white rule over non-white; no aryan over jew; no european colonist over 
+non-european colonized; no male superiority to female. though religious convictions are 
+deeply important to those who hold them, such convictions must never be used to deny 
+the humanity or human rights of others in the name of god. ethnic or national identities 
+are never legitimate grounds for excluding people from the most basic requirements of 
+their human dignity. respect for human dignity also requires fulfilling the social/economic 
+rights of all people to adequate food, work, education, and health care, and for the solidarity 
+across economic differences required to fulfill these rights.3
+this cosmopolitan vision is rooted in a commitment to human dignity that can be supported 
+by secular philosophical argument. pictet affirmed that the icrcs principle of humanity 
+
+1   universal declaration of human rights (10 dec. 1948), u.n.g.a. res. 217 a (iii) (1948).
+2   id., art. 2.
+3   international covenant on economic, social and cultural rights (new york, 16 dec. 1966) 993 u.n.t.s. 
+3, entered into force 3 jan. 1976.
+
+150
+
+journal on migration and human securityrequires that everyone shall be treated as a human being and not as an object, as an end in 
+himself and not as a mere means to an end (pictet 1979, 17). this language echoes a major 
+philosophical understanding of human worth or human dignity, namely that of immanuel 
+kant. the core principle of kants moral philosophy is that persons are always to be treated 
+as ends in themselves, and never simply as means (kant 1993, 36). all persons possess 
+this dignity. thus kant was led to adopt a cosmopolitan morality that sees some important 
+political responsibilities reaching across national borders.
+this cosmopolitan orientation can also be supported on religious grounds. both judaism 
+and christianity hold that all persons are brothers and sisters in a single human family no 
+matter what their nationality or ethnicity. every person has been created in the image and 
+likeness of god (genesis 1:27). this common creation gives every person a shared dignity 
+and worth that reaches across all boundaries that are humanly constructed, such as the 
+borders between nation-states. these borders are in no way absolute and must be seen as 
+subordinate to the respect due to the shared dignity of every person as an image of god. pope 
+francis drew on this biblical vision during his recent visit to the greek island of lesbos, 
+where he assured syrian refugees seeking entrance into europe that god created mankind 
+to be one family and called europe to to build bridges rather than putting up walls 
+(francis 2016a, 2016b). such sensitivity to the needs of migrants and refugees is present not 
+only in christianity but also in judaism and islam. each of great monotheistic traditions of 
+judaism, christianity, and islam traces its origins back to the patriarch abraham, who was 
+himself a migrant from the home of his kinsfolk to the land of canaan. the identity of jews 
+is also importantly shaped by the story of the exodus  a migration from slavery in egypt 
+to freedom in the land of gods promise. the new testament portrays jesus as the leader 
+of a new israel, who just after his birth had to flee persecution as a refugee to egypt along 
+with mary and joseph. muslims measure time from the founding event of muhammads 
+hijra, or migration, from mecca to medina. the founding of each of these major faiths has 
+migration across borders as one of its key elements, which is one of the reasons each of these 
+faith communities sees its religious and ethical commitments as reaching across borders. 
+the great asian religions also insist that ethical duties do not stop at national or religious 
+boundaries, particularly when refugees and migrants are in danger (for fuller development, 
+see hollenbach 2014). a similar sense of universal responsibility can be found in african 
+traditions,  where  concepts  such  as  bumuntu  (humanness),  umoja  (unity),  and  ujamaa 
+(solidarity) point to the interconnectedness of all persons (nkulu-nsengha 2011, 38-40). 
+there is little doubt, of course, that religious communities can fall into in-group versus out-
+group conflicts that are among the causes of forced migration. nevertheless, most religious 
+traditions possess a strong normative conviction that ethical responsibility reaches across 
+religious and national boundaries and that the fullest expression of moral virtue is assisting 
+people in distress, including strangers, migrants, and refugees. 
+pope john xxiii appealed to this normative universalism in 1963 when he drew on both 
+christian religious warrants and secular philosophical arguments to affirm that national 
+boundaries do not limit the reach of moral duty. indeed the pope explicitly argued that 
+citizenship  itself  is  not  limited  by  national  boundaries  but  has  an  authentically  global 
+meaning. in his words, the fact that one is a citizen of a particular state does not detract in 
+any way from his membership in the human family as a whole, nor from his citizenship in 
+the world community (john xxiii 1963, no. 25). this affirmation of the reality of global 
+
+151
+
+borders and duties to the displacedcommunity relativizes the moral significance of national borders and state sovereignty. it 
+means that the duty to protect human rights reaches across borders. such trans-border duties 
+have particular relevance to the plight of refugees, who by definition lack the protection that 
+would normally be provided by their home state. since refugees have lost the protection of 
+their home state, they will effectively end up with no rights at all unless the duty to protect 
+rights is genuinely transnational. the duty to protect the displaced must therefore reach 
+across borders if they are to receive any protection at all. as pope john xxiii stressed, 
+refugees cannot lose these rights simply because they are deprived of citizenship of their 
+own states (john xxiii 1963, no. 105).
+in international politics, however, states do matter. even in the midst of todays growing 
+global  interdependence,  national  communities  continue  to  play  very  important  roles  in 
+relation to the rights and needs of displaced people. from a normative point of view, an 
+authentically cosmopolitan ethos calls for recognition that while all persons share a common 
+humanity, showing concrete respect for all will require recognizing that every person also 
+has  distinctive  characteristics,  including  diverse  bonds  of  kinship,  culture,  and  shared 
+citizenship. thus respecting people as they are calls for respect both for their common 
+humanity and also for the ways they differ from each other (appiah 2006, xiv-xviii). one 
+of the key differences between people is their nationality and citizenship. recognition of 
+this fact has recently led nussbaum to reverse her earlier position that national borders 
+are morally irrelevant. she now draws on grotius and kant to argue that people exercise 
+their freedom and express their dignity by shaping the institutions of their own nation-state 
+(nussbaum 2006, 255-62). seyla benhabib has developed a similar argument (benhabib 
+2004).  for  these  reasons,  protecting  human  dignity  will  require  respect  for  the  self-
+determination of accountable states. at the same time, both nussbaum and benhabib also 
+insist that sovereignty must be understood in a way that fully supports the fundamental 
+human rights of all, including migrants and refugees. they seek to protect these rights by 
+calling for porous borders rather than entirely open borders. an adequate assessment of 
+responsibilities toward refugees and other displaced persons will thus require taking into 
+account the importance of states for the protection of dignity and rights. it will also have to 
+assess the impact of forced migration both on the human dignity of those who have been 
+displaced and also on the communities who receive them.  
+there are religious warrants for the duty to respect communal differences just as there 
+are  for  the  duty  to  respect  common  humanity.  in  judaism,  gods  covenant  with  israel 
+gives the jewish people a distinctive religious and national identity that must be respected. 
+this stress on religious distinctiveness gives jews a particularly strong sensitivity to the 
+right of diverse peoples to be different from each other. of course, this sensitivity to the 
+importance of difference does not eliminate israels awareness of the duty to respect the 
+common humanity of all persons affirmed in the creation story and in gods covenant with 
+noah, which extends beyond israel to all of creation (genesis 9:1-17). indeed precisely 
+because of the special covenant that led god to set israel free from bondage as strangers 
+in egypt, the hebrew bible repeatedly stresses that the jewish people have strong duties 
+to the strangers they encounter in the land of israel itself: you shall not oppress an alien; 
+you well know how it feels to be an alien, since you were once aliens yourselves in the land 
+of egypt (exodus 23:9; see leviticus 19:33-34 and many other places). thus judaism 
+combines universalism and particularism in a way that recognizes both the right to national 
+
+152
+
+journal on migration and human securityself-determination and an onerous duty to migrants and refugees that reaches across the 
+borders of israel and the jewish people (sacks 2003, ch. 3).
+catholic social ethics also seeks to combine cosmopolitan universalism with respect for the 
+distinctive identities of peoples. st. augustine and st. thomas aquinas affirm a christian 
+duty to love all humans as our neighbors. at the same time they recognize that those with 
+whom we have special relationships, such as the members of our family or our political 
+community, deserve special treatment as an expression of our love for them. thus a key 
+task in christian ethical reflection is to determine the order of priorities that should exist 
+among these diverse loves (an ordo amoris). in some circumstances love for those nearer 
+to us should take priority over concern for those at greater distances. on the other hand, 
+when those farther away have greater needs, they can have priority. similarly, catholic 
+social thought also appeals to what has come to be called the principle of subsidiarity 
+to determine whether the more local or more global should take priority. this principle 
+affirms that there are special duties within smaller and more proximate communities. in 
+tandem with the principle of solidarity, subsidiarity also insists that when there is serious 
+need at a greater distance or when local communities cannot or will not respond to this 
+need, larger regional communities or the international community as a whole can have a 
+duty to provide help (subsidium) to those in need (pius xi 1939, nos. 79-80).
+though  the  subsidiarity  principle  was  developed  within  catholic  social  thought,  it  has 
+become a standard point of reference in the european union (the union) in discussions 
+of the relation between the responsibilities of the larger structures of the union and the 
+responsibilities of each of the european states. subsidiarity requires that the union itself 
+should act only when member states cannot achieve required goals or when the union 
+itself is better able to achieve what is needed.4 in other words, the larger transnational 
+community of the union does not replace the communal bonds that exist in the member 
+states but supplements the action of the states when they are unable to take needed action 
+or when the union itself can act more effectively. in an analogous way, subsidiarity implies 
+that the  primary responsibility toward internally displaced persons  falls on  the country 
+of which they are citizens. their own country has the primary duty to protect them. but 
+if their country of citizenship fails to protect them or acts in a way that compels them 
+to flee, the duty of protection moves to neighboring countries and to larger regional and 
+international actors.
+ thus national borders carry considerable moral weight in determining ethical responsibilities 
+toward displaced persons, but there are also obligations to the displaced that reach across 
+borders. from both a secular philosophical standpoint and in most religious perspectives, 
+there are duties both to ones fellow citizens and to forced migrants who need of protection 
+through asylum or through some other form of emergency assistance. neither of these 
+types of duty is absolute. duties to fellow citizens do not always trump duties to forced 
+migrants, nor do duties to forced migrants always override duties to co-citizens. the key 
+question,  therefore,  becomes  what  relative  weight  should  be  assigned  to  each  of  these 
+duties in diverse circumstances.
+
+4   treaty on european union (maastricht, 7 feb. 1992), european union consolidated treaties, entered into 
+force 1 nov. 1993, title i, art. 5(3).
+
+153
+
+borders and duties to the displacediii. the need for priorities
+the displacement crises of today thus call for careful reflection on the relative weights of 
+the obligations and rights that arise from our common humanity on the one hand and from 
+our distinctive identities and citizenship in specific states on the other hand. let me suggest 
+several priorities among these types of obligations, focusing first on action required by 
+negative duties not to act in ways that cause displacement and the kinds of mass movements 
+of refugees we are witnessing today, and then on several positive duties to take action to 
+alleviate the plight of the displaced and to improve the protection system that is currently 
+in place. these two types of duties can be equally stringent (shue 1980, 51-60).
+
+a. negative duties
+
+most of the forced migration in the world today is caused by conflict and war. half of 
+todays refugees have been driven from homes by the conflicts in syria, afghanistan, and 
+somalia, and most of the internally displaced have been forced to flee by conflict within 
+their countries (guhenno 2016). key negative duties relevant to displacement caused by 
+conflict can be highlighted by drawing on the moral tradition known as the just war ethic. 
+this tradition distinguishes morally legitimate from illegitimate use of force, so it should 
+probably be called the just/unjust war tradition. it has roots in christian thought, especially 
+catholicism, but it has analogies in other religious traditions and overlaps in important 
+ways with the tradition of the international law of armed conflict (walters 1971; walzer 
+1977; hehir 1980; hashmi 2002). 
+in its modern form the just/unjust war tradition draws a sharp line between force used in the 
+defense of human rights and force that violates rights. the jus ad bellum norm of just cause 
+requires that force be strictly limited to defending the rights of innocent persons to life, 
+freedom, and security, and the rights of nation-states to self-determination and territorial 
+integrity. conversely, there is a negative duty not to use force aggressively against other 
+peoples to deny them their political freedom, to exploit them economically, or because they 
+are culturally different. violation of these negative duties is both immoral and criminal.  
+such a violation is just what happened in perhaps the worst humanitarian crisis of recent 
+times: the rwanda genocide of 1994, where force was massively used to deny the basic 
+rights of the tutsi people. it was also appallingly violated in the slaughter at srebrenica, 
+where thousands of bosnian muslims were killed because of their identity as part of an 
+ethnic  cleansing.  the  displacements  that  resulted  from  each  of  these  conflicts  were 
+massive. this suggests that a central priority in efforts to prevent massive forced migration 
+should be much stronger efforts to prevent and halt the unjust resort to the use of force.  
+just war norms also forbid direct, intentional attacks on civilians, as well as collateral harm 
+to civilians that is disproportionate to the good being sought. international law sets forth 
+similar prohibitions in the geneva conventions, which insist that civilians be distinguished 
+from soldiers and be protected both from direct attack and from disproportionate collateral 
+harm.5  violations  of  these  standards  are  war  crimes  and  can  become  crimes  against 
+
+5   protocol additional to the geneva conventions of 12 august 1949, and relating to the protection of victims 
+of international armed conflicts (protocol i), (geneva, 8 june 1977) 1125 u.n.t.s. 3, art. 48.
+
+154
+
+journal on migration and human securityhumanity if widespread and systematic (robertson, 2006, 430-39). regrettably, several 
+of the worst recent cases of forced migration have been due to violations of these moral and 
+legal prohibitions of attacks on civilians.
+for example, tactics used in the civil war that began in south sudan in december 2013 have 
+regularly violated the rights of civilians to security. human rights watch (hrw) and a un 
+panel of experts concluded that both the government of south sudan and the opposition 
+forces had committed extraordinary acts of cruelty that amount to war crimes and in some 
+cases potential crimes against humanity (hrw 2014; panel of experts 2015). because 
+of this mayhem, by july 2015, over 1.6 million south sudanese had become internally 
+displaced and over 750,000 had become refugees. the strategies and tactics used by both 
+sides  in  south  sudan  have  themselves  turned  south  sudan  into  a  grave  humanitarian 
+emergency marked by massive displacement. 
+the syrian crisis reinforces the conclusion that armed conflict can lead to mass displacement 
+when  the  adversaries  violate  their  duty  not  to  attack  basic  rights  of  civilians. the  un 
+independent commission of inquiry on syria concluded that the war crimes, crimes against 
+humanity, and human rights violations were so severe that the syrian reality should shock 
+the conscience of humanity (unhrc 2014, no. 138). these violations have led to the 
+single largest forced migration in recent history. the flight of refugees has threatened the 
+stability of neighboring countries, including turkey, which today hosts the largest number 
+of refugees of any country in the world; lebanon, where more than one in every six persons 
+within the countrys borders is a refugee from syria; and jordan. 
+the international criminal court (icc) was established in 1998 to hold people accountable 
+for violations of standards of international law like those that occurred in rwanda and 
+bosnia and that are continuing in south sudan and syria. the rome statute that created the 
+icc gave it jurisdiction over genocide, crimes against humanity, war crimes, and the crime 
+of aggression. the rome statute arose from the recognition that duties of the international 
+community  based  on  our  common  humanity  can  take  priority  over  the  sovereignty  of 
+independent nation-states when human rights violations rise to the level of atrocity. the 
+icc  has  so  far  not  been  able  to  bring  to  trial  some  of  those  it  has  charged  with  such 
+atrocities due to its inability to secure cooperation on various fundamental matters. for 
+example, while president omar al bashir of sudan faces charges of genocide and crimes 
+against humanity for his actions in the darfur region of sudan, he has thus far eluded 
+arrest due to the reluctance of certain icc member states to detain him. in another case, 
+charges against president uhuru kenyatta of kenya had to be dropped because the icc 
+prosecutor could not get witnesses to testify, likely because of threats to their safety and 
+bribes. nevertheless, the icc has had success in a number of other cases and it has launched 
+a  process  that  promises  to  strengthen  the  accountability faced  by  those  responsible  for 
+the atrocities that contribute to some of the worst refugee and migration crises occurring 
+today. duties not to violate basic rights are surely more likely to be enforced today than 
+in the past, and those who do violate them are less likely to get away with it than used to 
+be the case. people will continue to be forced to flee from their homes as long as they face 
+the danger of being caught up in conflict marked by unjust and indiscriminate violence. 
+preventing displacement thus requires notably more effective ways to hold the military and 
+political leaders who organize such violence accountable for what they do. enforcement 
+
+155
+
+borders and duties to the displacedof the law of war and of the standards of international humanitarian law should thus be a 
+priority in efforts to enhance the effectiveness of the refugee protection system.
+
+b. positive duties
+
+regrettably, we have learned from history and from insight into human moral weakness 
+that threats to human rights will continue to occur. this raises the question of what positive 
+obligations we have to come to the assistance of the displaced when crises in fact occur.
+to address this issue we can draw on a mode of moral analysis originally developed in the 
+1970s in the context of debate about who had duties to help eliminate the apartheid regime 
+that separated south african people by race and ethnicity. in that debate, some maintained 
+that only those who had created the apartheid system had a duty to work to overcome it. 
+but a very different ethical approach was proposed by several scholars at yale university 
+who argued that under certain circumstances persons, communities, institutions, and states 
+can have positive duties to help remedy harms they did not themselves cause. they called 
+their approach the kew gardens principle, for it arose from their reflection on a tragic case 
+that occurred in the kew gardens section of new york city in 1964 (simon, powers, and 
+gunnemann 1972). according to press reports, a young woman named kitty genovese 
+was viciously assaulted, stabbed, and died a slow death while 38 nearby people watched 
+and did nothing, failing even to call the police. it has since been learned that the initial 
+reports of what happened were not fully accurate (lemann 2014). but the public outrage 
+stimulated by the press reports points to the fact that most people have a conviction that 
+there can be positive moral duties to aid others in emergency situations. it is not enough to 
+avoid causing harm. in some situations omission can become as morally objectionable as 
+commission.  
+drawing on this conviction, the kew gardens principle argues that an agent has a positive 
+responsibility to help when four conditions are present: (1) there is a critical need; (2) the 
+agent has proximity to the need; (3) the agent has the capability to assist; (4) the agent is 
+likely the last resort from whom help can be expected (simon, powers, and gunnemann 
+1972, 23-25). subsequent reflection has added a fifth condition: (5) the action can be taken 
+without disproportionate harm to the one providing assistance. these criteria, of course, 
+cannot be applied mechanically. but they can help us think about the scope of positive 
+responsibilities in the face of the crisis-level suffering that is displacing so many people 
+today. 
+for example, there can be little doubt that large numbers of people are in grave need of 
+protection in syria and south sudan today and that this need is driving many from their 
+homes. those inside the borders of these crisis-torn countries are vulnerable to harms that 
+could lead to their deaths or to violations of other basic rights, and they are in flight because 
+of this vulnerability. the duty to respond to such need falls first upon those whose proximity 
+to the crisis makes them more likely to have knowledge of the need and better understanding 
+of how to respond to it. this means, of course, that the government of the nation where 
+the crisis occurs and local communities within that nation bear the prime responsibility. 
+in south sudan and syria, therefore, both the governments and the opposition forces in 
+each country have the negative duty to stop the atrocities that are causing crisis and the 
+
+156
+
+journal on migration and human securitypositive duty to help lift the burdens of suffering. duty to take positive action, however, 
+does not end at the national borders of the countries where crisis is present. when people 
+become aware of crisis in a neighboring country or even in a country at a great distance, 
+this awareness leads to what might be called intellectual or psychological proximity. it puts 
+them in moral proximity to those who are suffering. 
+there has been helpful though imperfect response to the duties arising from proximity by 
+the countries neighboring south sudan. the regional organization of sudans neighboring 
+countries  djibouti, ethiopia, kenya, somalia, sudan, uganda, and eritrea  is called 
+the intergovernmental authority on development (igad). igad has played a diplomatic 
+role in seeking to mediate the conflict within south sudan that began in 2013, as they 
+did in helping secure the comprehensive peace agreement that ended the earlier conflict 
+between northern and southern sudan that ultimately led to the independence of south 
+sudan in 2011. regrettably, economic and political self-interest has sometimes distorted 
+the mediation efforts of several countries that are part of igad, particularly uganda and 
+ethiopia. this has in turn led several countries from outside the region to become involved 
+in an effort known as igad plus, which includes the african union (au), united nations, 
+china, united states, united kingdom, norway, and the european union. a sense of moral 
+responsibility  arose  in  these  more  distant  countries  because  of  their  proximity  through 
+awareness. these combined regional and global mediation efforts have certainly not been 
+perfect. nevertheless, a fragile peace process is underway (icg 2015). both nearby and 
+distant neighbors can have the knowledge that enables them to make a difference.
+the  criterion  of  capability  also  sheds  light  on  positive  duties  to  respond  to  crises  that 
+displace large numbers of people. in considering this issue it has become common to point 
+out that someone who cannot swim does not have a duty to come to the aid of a child who is 
+drowning if providing the aid requires swimming, while a good swimmer can have a duty 
+to respond. lebanon, turkey, and jordan are today already massively overburdened with 
+syrian refugees. they do not possess the economic and other resources to take in many 
+additional refugees. on the other hand, the resources of the wealthy nations of northern 
+europe,  north america,  and  the  oil-producing  gulf  states  give  them  the  capability  to 
+receive  many  more  refugees  and  to  share  the  burdens  being  carried  by  syrias  already 
+overtaxed proximate neighbors. the assistance being provided to the countries bordering 
+syria is woefully inadequate. capability to assist gives many nations in europe, north 
+america, and the gulf a duty both to receive many more syrian refugees than they have 
+and a responsibility to provide more assistance to syrias nearby neighbors (rummery 
+2015). the duty to share the burden of assistance to displaced people is proportional to 
+the capability of doing so. countries with greater economic and political capacities to help 
+have proportionally greater responsibilities to do so. these responsibilities may be carried 
+out by granting asylum and refugee status to more of the displaced, and, perhaps most 
+urgently, by providing economic and other forms of assistance to countries like turkey, 
+lebanon, and jordan who are already carrying a disproportionate burden.
+the existence of duties such as these is a consequence of the fact that the responsibility to 
+assist displaced people reaches across national borders. the fact that state sovereignty is 
+not a moral or political absolute becomes clear in face of the needs of forcibly displaced 
+persons.  in his work on response to the needs of internally displaced people, the sudanese 
+
+157
+
+borders and duties to the displacedscholar and diplomat francis mading deng argued that sovereignty is such an important 
+value because it secures each countrys ability to protect its own people by preventing 
+external powers from taking harmful action within its national boundaries, for example 
+by invasion or colonial exploitation. deng called this sovereignty-as-responsibility (deng 
+1996). sovereignty does not mean a government is free to do whatever it will within its own 
+borders, such as taking actions that create large numbers of internally displaced persons 
+or refugees. if a government fails to protect its own people, either because it is unable 
+or unwilling to do so, the duty to assist those who are threatened by this failure can pass 
+to the other nations. thus the responsibility to assist and to protect the rights of persons 
+threatened with or experiencing displacement falls first on their own government. but if 
+their government is unable or unwilling to secure their rights, the responsibility to do so 
+can move to other countries and their people (martin 2010, 28-31).
+dengs thinking contributed in an important way to the development of the doctrine of 
+the responsibility to protect (r2p), initially proposed by the international commission 
+on intervention and state sovereignty (iciss) and subsequently affirmed at the 2005 un 
+general assembly world summit (unga 2005, nos. 138-39; iciss 2001). r2p states that 
+the international community can have positive duties to help protect populations from 
+genocide, war crimes, ethnic cleansing and crimes against humanity. protective action 
+should come in the first instance from peoples own government.  only if that government 
+is failing to provide this protection should other countries consider action. when violations 
+of human rights reach the level of atrocity and lead to the displacement such violations 
+often cause, action by other countries through diplomatic, humanitarian and other peaceful 
+means can become appropriate and even required.
+the responsibility to protect has been the focus of heated controversy since it was endorsed 
+by heads of state at the un general assembly in 2005.  political realists oppose it because 
+they hold that foreign policy should be determined by the interests of ones own people, 
+not by a supposed moral responsibility to other countries. others see it as a form of neo-
+imperialism. still others say that the situation in libya today in the aftermath of the nato 
+intervention there shows r2p doesnt work, and that the current massive crisis in syria and 
+surrounding countries shows the r2p cannot work.  despite these critiques, it is important 
+to note that the responsibility to protect has in fact been invoked on a number of occasions 
+since 2005 and that it has led to effective protection of people from grave rights violations. 
+for  example,  when  conflict  flared  in  kenya  following  the  disputed  2007  elections, 
+nonviolent, diplomatic initiatives were taken by numerous international actors to stop the 
+conflict that took several thousand lives and displaced half a million people. kofi annan 
+stated that he saw the crisis in kenya through the r2p prism (cohen 2008). this led 
+to intense diplomatic initiatives by the united nations, the african union, and a number 
+of  other  governments  from  africa  and  around  the  world,  including  the  united  states 
+(international  coalition  for  r2p,  sec.  ii). a  power  sharing  agreement  was  reached  and 
+the downward spiral into civil war and perhaps even genocide was stopped. the kenyan 
+case illustrates that the responsibility to protect can be successfully carried out through 
+nonviolent political and diplomatic means. 
+the r2p doctrine has also been invoked on several occasions in the past decade to justify 
+the  use  of  military  force  to  protect  people  from  atrocities,  following  the  un  general 
+
+158
+
+journal on migration and human securityassemblys affirmation that if diplomatic initiatives do not succeed, the use of armed force 
+can become legitimate as a last resort under chapter vii of the un charter. for example, 
+in 2012 france and the economic community of west african states took military action 
+with un approval in the pursuit of peace in mali, and in 2013, the un security council 
+supported the use of force by french and african union troops to stop the atrocities that 
+were occurring in the central african republic and the displacement of nearly one million 
+refugees and other forced migrants.6 though these cases are certainly not resolved, they 
+indicate that the doctrine of the responsibility to protect can lead to action that can help 
+prevent grave crisis from becoming much worse and can lead to some improvement in 
+crisis situations that force many people from their homes. two other cases, however, libya 
+and syria, raise questions about whether r2p has any relevance to current efforts to respond 
+to the refugee crisis. 
+in the libya case, the united nations authorized action to protect civilians when fears 
+arose that libyas leader, muammar al-qaddafi, was about to commit atrocities. qaddafi 
+referred to his adversaries in benghazi as cockroaches, the very epithet hutu used for 
+tutsi during the rwanda genocide (bbc news 2011). as a result, the un security council, 
+with the notable support of the organization of the islamic conference and the league of 
+arab states, called for the use of all necessary measures to protect civilians.7 nato 
+intervened with airpower, qaddafi was killed, and his regime was overthrown. sadly, libya 
+has since fallen into political chaos, with armed conflicts among several groups, significant 
+violations of human rights on the basis of religion, the displacement of many, and the unsafe 
+flight  of  migrants  across  the  mediterranean  (amnesty  international  2015,  5-6).  these 
+consequences confirm for some observers the conviction that pursuing humanitarian goals 
+not required by national self-interest is likely to do more harm than good (kuperman 2015, 
+66-77). i would argue, however, that the intervention in libya failed not because it was 
+excessive but because it was incomplete. following the norms that some specialists in the 
+ethics of war are today calling jus post bellum, justice after conflict, nato and the united 
+states should have followed up their intervention with action to rebuild and to prevent the 
+chaos that developed (chollet and fishman 2015, 154-57). what happened in libya was 
+an incomplete implementation of r2p, not a simple failure. had the intervention followed 
+through with the peace building and reconstruction efforts that were clearly required, the 
+situation on the ground in libya would not have disintegrated in the way that it has, and 
+many fewer people would be in flight from the chaos of that tragic situation.
+syria has also been invoked to suggest that r2p is dead. the political complexities and moral 
+ambiguities of the syrian situation go very deep. but these complexities do not discredit the 
+existence of a duty to protect people facing atrocities when protection is possible. thomas 
+weiss  has  argued  that  the  wisdom  of  the  use  of  military  force  to  protect  people  from 
+atrocities is governed by three factors: legality, moral legitimacy, and feasibility (weiss 
+2014). in syria it is clear that the legal prohibitions of war crimes and of other atrocities 
+have been massively violated. the moral legitimacy of efforts to stop a conflict that has 
+
+6   un security council resolution 2085, u.n. doc. s/res/2085 (2012) [authorizing intervention in mali]; 
+un security council resolution 2127, u.n. doc. s/res/2127 [authorizing intervention in central african 
+republic]. 
+7   un security council resolution 1973, u.n. doc. s/res/1973 (2011), [authorizing intervention in libya], 
+4, 6.
+
+159
+
+borders and duties to the displaceddisplaced over half the syrian population and killed hundreds of thousands of civilians 
+is also evident. the feasibility of military intervention to alleviate the crisis, however, is 
+unclear. this does not undermine the idea that there is a responsibility to protect people 
+from atrocity and from being driven from home by mayhem when it is possible to do so. 
+the apparent lack of presently feasible ways to overcome the crisis in syria suggests that 
+intervention is not now called for by r2p. i would argue, however, that the duty to protect 
+the syrian people does call for continuing political and diplomatic initiatives to find a path 
+toward their protection. not only assad and the rebels, but also russia, iran, some gulf 
+states, and others are keeping the crisis in syria alive. the global community, therefore, has 
+a duty to continue engage these powers diplomatically and possibly through other forms of 
+continuing engagement. 
+there is also continuing responsibility to the large number of syrians presently seeking 
+refuge in europe and other parts of the developed world. at a minimum, we need to live up 
+to 1951 refugee conventions call for refugees fleeing persecution to be granted protection.  
+countries in europe and north america have the capability and resources to grant asylum 
+or refugee protection to a considerably larger number of syrians than is happening today. 
+the number of syrians seeking asylum in europe is not even close to the number already 
+within the borders of syrias neighbors (icg 2016). when in the fall of 2015 uk prime 
+minister david cameron announced that his country would grant refugee protection to 
+20,000 syrians over the next five years, he was appropriately reminded that lebanon had 
+admitted  that  many  syrians  over  the  past  two  weekends.  indeed,  developing  countries 
+today host 86 percent of the worlds refugees, with the very poorest countries hosting 25 
+percent of the global total (unhcr 2015, 2-3). the rich nations of the north have the 
+capability and therefore the responsibility to admit a larger number of refugees and asylum 
+seekers and to assist the poorer countries already hosting most of the worlds refugees. a 
+substantial increase in the funds being provided to syrias neighbors for this burden sharing 
+by the north should be a priority today. 
+to achieve this, the rich nations of the northern hemisphere will have to overcome tendencies 
+to racially or religiously driven xenophobia and the mistaken fear that terrorists are often 
+refugees. in addition, european powers such as france and the united kingdom that gained 
+economically from their colonies in africa and asia have duties to be open to refugees from 
+these regions. a country with a history of military involvement in another nation can also 
+have special obligations to people in flight from that nation. the united states recognized 
+its particular duty to receive refugees from vietnam after the vietnam war. though the us 
+intervention in iraq was certainly not the sole cause of the displacement of many iraqis, it 
+was a significant factor that contributed to the political chaos that led to the huge forced 
+migration of iraqis that has occurred. political scientist stephen walt recently observed that 
+if the united states and its allies had not invaded iraq in 2003, there would almost certainly 
+be no islamic state today (walt 2015). thus there would be fewer people from iraq and 
+syria seeking asylum and refugee protection. this deepens the duties of the united states 
+and its allies toward those refugees.
+finally, it is well known that many observers believe there are good reasons to wonder whether 
+national self-interest may not overshadow the duties and prevent the actions advocated 
+here. nevertheless, the work of martha finnemore and kathryn sikkink has shown that 
+advocacy for normative standards in some domains of contemporary international politics 
+
+160
+
+journal on migration and human securityhas had significant positive impact (finnemore and sikkink 1998). the standards of the 
+international law of refugee protection and for the regulation of armed conflict were the 
+result of normative advocacy by groups such as the red cross over the past century. more 
+recently, though the icc is still a developing institution, normative entrepreneurs have 
+advanced the effort to hold political leaders accountable for violating normative standards in 
+several international tribunals. this suggests that, contrary to the standard realist argument, 
+ethical standards can come to have real impact on the conduct of nations. there is hope, 
+therefore, that the september 2016 un summit on refugees and migrants can lead to 
+genuine innovation in the protection of refugees and other victims of war and humanitarian 
+crisis. normative pressure from nongovernmental bodies, including religious communities 
+and faith-based agencies, can make important normative contributions to action more fully 
+in accord with the responsibilities incompletely sketched in this article.
+
+iv. conclusion
+the refugee crisis that is occurring today means that the high moral value that has been 
+assigned to national borders and state sovereignty in the modern, westphalian international 
+system must be reassessed. human rights have been proclaimed as universal norms, and 
+this universality can be supported by secular philosophies such as that developed by kant 
+and by the major religious traditions of the world, including judaism, christianity, and 
+islam. these rights require that all political actors, both states and non-state agents, refrain 
+from grave abuses of human rights such as war crimes, crimes against humanity, and other 
+abuses that effectively treat people as if they were not human at all. atrocities such as these 
+are among the major causes of refugee movement and other forms of forced migration 
+today. acting  to  prevent  such  crimes  and  holding  accountable  those  who  nevertheless 
+commit them will be a crucial step in making the global system of refugee protection more 
+adequate.  doing  so  should  be  a  main  objective  at  the  september  2016  united  nations 
+summit, and elsewhere as well. similarly, taking positive steps to come to the aid of those 
+who have been driven from home will be essential to a more effective refugee regime. the 
+duty to provide such assistance to those already displaced falls on neighboring countries, 
+on those in the local region, and on the global community as a whole. the responsibility 
+of countries to provide help is proportional both to their proximity to those in need and, 
+more importantly today, to their capacity to provide effective assistance. the rich nations 
+of europe, north america, and the oil-rich gulf states thus have urgent duties to assist 
+the very poor countries who are hosting most of the worlds refugees today. developing 
+fair and politically effective ways of assigning the share of the responsibility that different 
+developed nations should carry will be essential to the creation of a more effective refugee 
+system. it will be a great disappointment if the september 2016 meeting at the un general 
+assembly fails to make substantial progress on this task. but while the leadership of the 
+united nations and its constituent national governments is essential, the task is not theirs 
+alone. many humanitarian ngos, both secular and faith-based, have broad experience in 
+responding to the needs of the displaced across national borders. these organizations are 
+thus well positioned to help in the development of a system that is more effective. hearing 
+their voices will be important as revisions in the refugee regime are being considered. it can 
+be hoped that all available practical wisdom will be drawn upon to create more adequate 
+ways of responding to the present crisis. many millions of lives are at stake.
+
+161
+
+borders and duties to the displacedreferences
+amnesty  international.  2015.  libya  is  full  of  cruelty:  stories  of abduction,  sexual 
+violence, and abuse from migrants and refugees. london: amnesty international. 
+https://www.amnesty.org/en/documents/mde19/1578/2015/en.  
+
+appiah, kwame a. 2006. cosmopolitanism: ethics in a world of strangers. new york: 
+
+w.w norton. 
+
+bbc news. 2011. libya protests: defiant gaddafi refuses to quit. bbc news, february 
+
+22. http://www.bbc.com/news/world-middle-east-12544624.
+
+benhabib, seyla. 2004. the rights of others: aliens, residents and citizens. cambridge: 
+
+cambridge university press. http://dx.doi.org/10.1017/cbo9780511790799.
+
+carens, joseph. 1987. aliens and citizens: the case for open borders. review of politics 
+
+49(2):251-73. http://dx.doi.org/10.1017/s0034670500033817.
+
+chollet,  derek  and  fishman,  ben.  2015.  who  lost  libya:  obamas  intervention  in 
+
+retrospect, a close call. foreign affairs 94(3):154-57. 
+
+cohen, roger. 2008. how kofi annan rescued kenya. the new york review of books, 
+http://www.nybooks.com/articles/2008/08/14/how-kofi-annan-
+
+august 
+14. 
+rescued-kenya/.
+
+deng,  francis  mading.  1996.  sovereignty  as  responsibility:  conflict  management  in 
+
+africa. washington, dc: brookings institution.
+
+finnemore,  martha,  and  kathryn  sikkink.  1998.  international  norm  dynamics  and 
+political  change.  international  organization  52(4):887-917.  http://dx.doi.
+org/10.1162/002081898550789.
+
+francis, pope. 2016a. visit to refugees. speech of pope francis at the mria refugee 
+camp in lesvos, greece, april 16. holy see: libreria editrice vaticana. http://
+w2.vatican.va/content/francesco/en/speeches/2016/april/documents/papa-
+francesco_20160416_lesvos-rifugiati.html.
+
+francis, pope. 2016b. meeting with the people of lesvos and with the catholic community. 
+a  remembering  of  the  victims  of  migration.  speech  of  pope  francis  at  the 
+presidium  of  the  coast  guard  in  lesvos,  greece, april  16.  holy  see:  libreria 
+editrice  vaticana.  http://w2.vatican.va/content/francesco/en/speeches/2016/april/
+documents/papa-francesco_20160416_lesvos-cittadinanza.html.
+
+guhenno,  jean-marie.  2016.  conflict  is  key  to  understanding  migration.  capitals 
+series:  strategic  europe.  brussels:  carnegie  europe.  http://carnegieeurope.eu/
+strategiceurope/?fa=63578.
+
+hashmi, sohail, ed. 2002. islamic political ethics: civil society, pluralism, and conflict. 
+
+ethikon series in comparative ethics. princeton: princeton university press.
+
+hehir, j. bryan. 1980. the just war ethic and catholic theology: dynamics of change 
+
+162
+
+journal on migration and human securityand continuity. in war or peace? the search for new answers, edited by thomas 
+a. shannon, 15-39. maryknoll, ny: orbis books. 
+
+heyman, josiah mcc. 2013. a voice of the us southwestern border: the 2012 we the 
+border: envisioning a narrative for our futureconference. journal on migration 
+and human security 1(2):60-75. http://dx.doi.org/10.14240/jmhs.v1i2.9.
+
+hollenbach, david. 2014. religion and forced migration. in the oxford handbook of 
+refugee and forced migration studies, edited by elena fiddian-qasmiyeh, gil 
+loescher,  katy  long,  and  nando  sigona,  447-59.  oxford:  oxford  university 
+press.
+
+hrw (human rights watch). 2014. south sudans new war: abuses by government and 
+opposition  forces.  new  york:  hrw.  https://www.hrw.org/report/2014/08/07/
+south-sudans-new-war/abuses-government-and-opposition-forces. 
+
+icg (international crisis group). 2015. south sudan: keeping faith with the igad peace 
+process. africa report no. 228. brussels: icg. https://www.crisisgroup.org/africa/
+horn-africa/south-sudan/south-sudan-keeping-faith-igad-peace-process.
+
+. 2016. the global refugee crisis: statement by the board of trustees of the 
+international  crisis  group.  https://www.crisisgroup.org/global/global-refugee-
+crisis-statement-board-trustees-international-crisis-group.
+
+iciss  (international  commission  on  intervention  and  state  sovereignty).  2001.  the 
+responsibility to protect. ottawa, canada: international development research 
+centre. http://responsibilitytoprotect.org/iciss%20report.pdf.
+
+icrc (international committee of the red cross). 1986. the fundamental principles of 
+the international red cross and red crescent movement.  https://www.icrc.org/
+eng/resources/documents/red-cross-crescent-movement/fundamental-principles-
+movement-1986-10-31.htm.
+
+international coalition for r2p (international coalition for the responsibility to protect). 
+the crisis in kenya. new york: international coalition for the responsibility to 
+protect. http://www.responsibilitytoprotect.org/index.php/crises/crisis-in-kenya.
+
+john  xxiii,  pope.  1963.  pacem  in  terris.  holy  see:  libreria  editrice vaticana.  http://
+
+www.vatican.va/holy_father/john_xxiii/encyclicals/documents/hf_j-xxiii_
+enc_11041963_pacem_en.html.
+
+kant, immanuel. 1993. grounding for the metaphysics of morals. translated by james w. 
+
+ellington. indianapolis, in: hackett.
+
+kerwin, donald. 2016. how robust refugee protection policies can strengthen human 
+and national security. journal on migration and human security 4(3):83-140. 
+http://dx.doi.org/10.14240/jmhs.v4i3.64.
+
+ki-moon, ban. remarks on forced displacement: a global challenge. washington, dc: 
+un  news  centre.  http://www.un.org/apps/news/infocus/sgspeeches/statments_
+full.asp?statid=2997#.v0drkcmrib1.
+
+163
+
+borders and duties to the displacedkuperman, alan  j.  2015.  obamas  libya  debacle:  how  a well-meaning  intervention 
+
+ended in failure. foreign affairs 94(2):66-77. 
+
+lemann, nicolas. 2014. a call for help: what the kitty genovese story really means. 
+new yorker, march 10. http://www.newyorker.com/magazine/2014/03/10/a-call-
+for-help.
+
+marfleet, philip. 2006. refugees in a global era. new york: palgrave macmillan. 
+martin, susan f. 2010. rethinking the international refugee regime in light of human 
+rights and the global common good. in driven from home: protecting the 
+rights of forced migrants, edited by david hollenbach,15-33. washington, dc: 
+georgetown university press.
+
+nkulu-nsengha, mutombo. 2011. religion, spirituality, and r2p in a global village. 
+in responsibility to protect: cultural perspectives in the global south, edited by 
+rama mani and thomas g. weiss, 25-63. new york: routledge.
+
+nussbaum, martha c. 2002. patriotism and cosmopolitanism. in for love of country, 
+
+2-17. boston: beacon press.
+
+.  2006.  frontiers  of  justice:  disability,  nationality,  species  membership. 
+
+cambridge: belknap press of harvard university press.
+
+panel of experts on south sudan. 2015. interim report of the panel of experts on south 
+sudan established pursuant to security council resolution 2206. south sudan 
+humanitarian  project.  http://www.southsudanhumanitarianproject.com/reports/
+docr-532/.
+
+pictet,  jean.  1979.  the  fundamental  principles  of  the  red  cross:  commentary. 
+international  committee  of  the  red  cross.  https://www.icrc.org/eng/resources/
+documents/misc/fundamental-principles-commentary-010179.htm.
+
+pius xi, pope. 1931. quadragesimo anno. holy see: libreria editrice vaticana. http://
+w2.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19310515_
+quadragesimo-anno.html.
+
+robertson, geoffrey. 2006. crimes against humanity: the struggle for global justice, 3rd 
+
+ed. new york: the new press.
+
+rummery, ariane. 2015. greater support in countries of first asylum needed to stem 
+refugee  outflows.  edited  by  jonathan  clayton.  unhcr.  http://www.unhcr.
+org/55ddd2c86.html.
+
+rupp, george. 2016. rethinking the assumptions of refugee policy: beyond individualism 
+to the challenge of inclusive communities. journal on migration and human 
+security 4(3):76-82. http://dx.doi.org/10.14240/jmhs.v4i3.63.
+
+sacks, jonathan. 2003. the dignity of difference: how to avoid a clash of civilizations, 
+
+rev. ed. new york: continuum.
+
+164
+
+journal on migration and human securityshue,  henry.  1980.  basic  rights:  subsistence,  affluence,  and  u.s.  foreign  policy. 
+
+princeton: princeton university press. 
+
+simon,  john,  charles w.  powers,  and  jon  p.  gunnemann.  1972.  the  ethical  investor: 
+
+universities and corporate responsibility. new haven: yale university press. 
+
+unga (united nations general assembly). 2005. 2005 world summit outcome. un 
+doc. a/60/l.1, 60th sess. http://www.globalr2p.org/media/files/wsod_2005.pdf. 
+unhcr (united nations high commissioner for refugees). 2015. global trends: forced 
+
+displacement in 2014. geneva: unhcr. http://unhcr.org/556725e69.html.
+
+unhrc  (united  nations  human  rights  council).  2014.  report  of  the  independent 
+international commission of inquiry on the syrian arab republic. a/hrc/25/65, 
+25th sess. http://www.abc.net.au/mediawatch/transcripts/1408_un.pdf. 
+
+walt, stephen m. 2015. dont give isis what it wants. foreign policy 16, november. 
+
+http://foreignpolicy.com/2015/11/16/dont-give-isis-what-it-wants-united-states-
+reaction/. 
+
+walters, leroy. 1971. five classic just war theories: a study of the thought of thomas 
+aquinas, vitoria, suarez, gentili, and grotius. phd dissertation. yale university.
+walzer,  michael.  1977.  just  and  unjust  wars:  a  moral  argument  with  historical 
+
+illustrations new york: basic books.
+
+weiss, thomas g. 2014. military humanitarianism: syria hasnt killed it. the washington 
+
+quarterly 37(1):7-20. http://dx.doi.org/10.1080/0163660x.2014.893171.
+
+ 
+
+165
+
+borders and duties to the displaced

@@ -1,0 +1,1600 @@
+enforcement, integration, and the 
+future of immigration federalism
+
+cristina rodriguez  
+yale law school
+
+executive summary
+the  federal  government  has  a  monopoly  over  the  terms  of  immigration 
+law, and it superintends the nations singular immigration enforcement 
+bureaucracy. but our federalism nonetheless provides a vital playing field 
+for sharp debates over the status of immigrants in american life. the forms 
+of state and local involvement in immigration policy are varied, but they fall 
+into two basic categories of mutually dependent and re-enforcing policies: 
+enforcement federalism and integration federalism. whereas enforcement 
+federalism concerns the extent to which localities should assist or resist 
+federal  removal  policies,  integration  federalism  encompasses  measures 
+designed  to  assist  immigrants,  regardless  of  status,  to  plant  roots  and 
+acculturate to life in the united states. 
+both forms of immigration federalism take shape through a wide variety 
+of intergovernmental relations, not only between the federal government 
+on the one hand and states and localities on the other, but also between 
+states and the cities within them  an increasingly important dimension 
+of  immigration  federalism  today.  these  relations  have  important  legal 
+characteristics, and constitutional and statutory law bring them into being 
+and mediate them. but the nature of any given intergovernmental dynamic 
+will be shaped just as much by a combination of ideology and institutional 
+imperatives. these elements can either unite the center and the periphery 
+in common cause or produce the sort of conflict that has made immigration 
+federalism a high-profile issue for decades.
+given  the  density  of  the  intergovernmental  dynamics  that  shape  the 
+countrys  immigration  policy,  developing  a  comprehensive  strategy  for 
+immigration federalism requires more than a predilection toward or away 
+from centralization of government authority. it requires a clear view on 
+the appropriate metes and bounds of immigration enforcement, as well as 
+a set of beliefs about the proper place in the social order of immigrants 
+with different legal statuses. while this essay remains largely (though not 
+entirely) agnostic on these questions, it offers four basic principles to frame 
+any future federalism agenda.
+first, when it comes to enforcement federalism, the federal government 
+ought  to  acknowledge  the  reasons  that  localities  might  resist  federal 
+enforcement efforts, at least as a matter of politics, and if only to ensure that 
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 2 (2017): 509-540federal policy is subjected to accountability checks by competing, external 
+pressures.  second,  whatever  the  value  of  resistance  to  enforcement,  a 
+federalism  agenda  should  include  efforts  by  all  levels  of  government  to 
+identify a manageable equilibrium that reconciles the federal governments 
+constitutional and statutory responsibilities for maintaining an enforcement 
+regime  with  the  local  politics  of  immigration  and  the  lived  realities  of 
+immigrant communities. third, when it comes to integration federalism, 
+the problem of illegal immigration must be solved, and only the federal 
+government can do so decisively. federalism can only mediate the political 
+conflict over status and help set the terms for its ultimate resolution. and 
+yet, the structural reasons that have given rise to integration federalism 
+should re-enforce the countrys commitment to locally driven integration 
+policy, supported by a national-level commitment to information sharing, 
+coordination, and resource support. finally, because both enforcement and 
+integration policy require systemic flexibility, it is important not to confuse 
+arguments on the merits of immigration policy with structural claims. in 
+other words, scholars, advocates, or policymakers should exercise humility 
+and  circumspection  when  developing  conversation-stopping  claims  that 
+a  certain  intergovernmental  relation  is  required  by  law,  especially  in  a 
+context as charged as immigration policy. 
+
+introduction
+conventional wisdom has it that immigration law is an exclusive federal domain governed 
+by uniform rules and policies. and yet, american federalism has meant that states and 
+localities have helped shape immigration policy throughout history, often through deliberate 
+resistance  to  the  federal  government.  during  the  obama  years,  the arizona  model  of 
+federalism drew the spotlight, as the state legislature and other like-minded jurisdictions 
+enacted sweeping immigration enforcement measures with great fanfare, in part to rebuke 
+the more tempered federal policy of the day. in a highly unusual response, the obama 
+administration sued the states, and the supreme court eventually vindicated the federal 
+governments  exclusive  authority  to  set  enforcement  priorities.1  today,  the  preeminent 
+intergovernmental  script  has  flipped  to  what  we  might  call  the  california  model.  pro-
+immigration states and localities are directly challenging a presidential administration bent 
+on ever-tougher enforcement justified with alarmist rhetoric about immigrations dangers. 
+but even as resistant localities force the federal government to defend its policies in court, 
+the trump administration finds itself buttressed by yet a third model, according to which 
+states like texas and north carolina enact legislation to disable their own pro-immigration 
+cities from resisting federal enforcement. immigration federalism is in constant flux. 
+though  these  high-profile  contretemps  keep  immigration  federalism  a  part  of  public 
+discourse, state and local governments long have been de facto immigration policymakers 
+in myriad and more mundane ways. the complexity of intergovernmental relations in our 
+federalist  system  sets  a  crucial  framework  for  immigration  policymaking.  though  the 
+immigration and nationality act (ina) and related statutes span hundreds of pages in the 
+
+1   arizona v. united states, 567 u.s. __, 132 s.ct. 2492 (2012).
+
+510
+
+journal on migration and human securityus code, the secular expansion of the federal immigration machinery over the last century 
+has not displaced immigration federalism, for one simple reason common to many spheres 
+of regulation. immigrant settlement and immigration enforcement are fundamentally spatial 
+and territorial, thus implicating the politics and bureaucracies of our federal system. our 
+national immigration policy is, in fact, debated and set through various intergovernmental 
+relationships  mostly between the federal government and cities and counties, but also 
+between the federal government and states, between states and the cities within them, and 
+by each of these jurisdictions acting autonomously.2
+at any given time, immigration federalism simultaneously re-enforces and resists federal 
+policy, and the political valence of immigration is often in flux. the ideological diversity in 
+government that federalism produces ensures this state of tension, as does the fact that the 
+institutional interests of federal and local actors do not always align, regardless of partisan 
+affiliation.  for  example,  even  as  the  current  department  of  homeland  security  (dhs) 
+finds itself in conflict with certain state and local officials who seek to provide immigrants 
+with  sanctuary,3  the  administration  and  allies  in  congress  aspire  to  recruit  still  other 
+local officials in an affirmative push to amplify federal enforcement efforts. republicans in 
+charge of the federal government have not given on up on federalism  they simply want 
+it to serve their ends. 
+to understand the metes and bounds of immigration federalism, it will be useful to break the 
+concept down into two categories: enforcement federalism and integration federalism. the 
+legal, institutional, and political conditions governing each variant of federalism differ. the 
+former entails the local relationship to federal removal policy and its many tools of coercion, 
+and it is dominated by debates over legal authority and intergovernmental relations. the 
+latter implicates affirmative strategies to either promote or prevent immigrant incorporation 
+into the body politic and may have little if anything to do with federal policy, which is 
+itself limited in scope and ambition. though legal questions arise, integration primarily 
+raises questions of political will and bureaucratic capacity, and states and localities long 
+have taken the lead in devising our nations affirmative integration agenda. and so even 
+as we might seek to control or temper local involvement in immigration enforcement, any 
+integration agenda ought to have states and localities at its center.
+on some level, this enforcement-integration dichotomy is too stark. enforcement policy 
+heavily affects immigrants prospects for integration. enforcement policy  is integration 
+policy. enforcement federalism encompasses local refusal to assist federal enforcement 
+in order to protect immigrants in the community, as well as federal-state cooperation to 
+deport  immigrants,  or  otherwise  create  incentives  for  immigrants  to  leave.  in  addition, 
+affirmative integration policies, or the lack thereof, can influence immigrant movement, 
+either attracting immigrants to welcoming jurisdictions, or driving them away by creating 
+inhospitable  climates  for  settlement. whether  a  locality  creates  a  receptive  climate  for 
+
+2   for ease of exposition, when invoking states and county and local governments at once, i use the terms 
+localities and local jurisdictions. but where it makes a material difference to the analysis to refer to states 
+versus cities, i use these more specific terms. 
+3   as discussed in more detail below, the term sanctuary is an evocative yet somewhat misleading label for 
+a set of policies that really ought to go by the more pedestrian term noncooperation, because they limit the 
+extent to which local police and other officials assist federal immigration enforcement efforts.
+
+511
+
+enforcement, integration, and the future of immigration federalismintegration can help shape the size and nature of the enforcement domain in any given 
+local setting. but as with any overly reductive dichotomy, this one can help us organize the 
+debate over the state and local role in immigration.4 
+the intergovernmental dynamics and politics that shape immigration federalism are certainly 
+governed by ongoing debates concerning legal authority. the extent to which localities can 
+establish immigration priorities that diverge from federal policy, and the scope of federal 
+authority to reign localities in, set the ground rules for intergovernmentalism. but even if 
+these legal lines were crystal clear, defining an actual agenda for immigration federalism 
+requires answering far more contested questions. should our default assumption be that 
+immigration ought to be controlled? or, should our animating objective be that immigrant 
+communities be allowed to flourish? when and how do these objectives conflict? 
+in this paper, i remain largely agnostic on these policy questions, focusing instead on how 
+federalism provides a framework for answering them. but this framework ultimately points 
+to four very basic goals for a federalism strategy. first, when it comes to enforcement 
+federalism, it will be important to acknowledge the reasons for local resistance to federal 
+enforcement, at least as a matter of politics, and if only to ensure that federal policy is 
+subject  to  checks  by  competing,  external  pressures.  second,  the  value  of  resistance 
+to  enforcement  notwithstanding,  a  federalism  agenda  should  include  efforts  to  identify 
+a  manageable  equilibrium  that  reconciles  the  federal  governments  constitutional  and 
+statutory  responsibilities  for  maintaining  an  enforcement  regime  with  the  local  politics 
+of immigration and the lived realities of immigrant communities. third, when it comes to 
+integration federalism, the structural reasons that have given rise to it should re-enforce a 
+commitment to locally driven integration policy, supported by a national-level commitment 
+to information sharing, coordination, and resource support. finally, to preserve the systemic 
+flexibility that immigration policy requires, scholars, advocates, and policymakers should 
+be circumspect about launching hard-edged legal claims concerning the scope of power 
+held by any one level of government, mindful that structural doctrines that advance ones 
+preferred policy objectives in one context might do the opposite in another.
+to develop these conclusions, i explore three sets of issues. i begin with and devote the bulk 
+of the discussion to enforcement federalism  the most legally and politically contested 
+domain of immigration federalism with the sharpest intergovernmental conflict. i establish 
+the legal parameters of enforcement federalism and identify the institutional considerations 
+that should inform any strategic thinking about federalisms future. i then briefly explore 
+the role that federalism plays in immigrant integration. finally, though the federal-local 
+relationship  has  dominated  immigration  federalism,  that  should  change.  the  future  of 
+immigration federalism is likely to be shaped significantly by another intergovernmental 
+dynamic    the  state-local  relationship.  i  thus  conclude  by  highlighting  how  tensions 
+between states and their localities reflect and define the national debate over immigration. 
+
+4    the  dichotomy  is  useful  as  a  way  of  separating  those  policies  that  are  specifically  concerned  with 
+intergovernmental relations between washington and the periphery (enforcement federalism) and those that 
+arise largely through autonomous state action (immigrant integration), even as they might present preemption 
+concerns or involve coordination with federal actors through grant programs and the like.
+
+512
+
+journal on migration and human securityi. enforcement federalism: a tale of legal and political 
+flux
+formally  speaking,  immigration  enforcement  constitutes  an  exclusive  federal  domain. 
+in  contrast  to  the  criminal  justice  system,  states  and  localities  do  not  operate  parallel 
+immigration laws, police, prosecutors, and judges. congress defines the exclusive grounds 
+for  entry  and  removal,  and  the  executive  branch  enforces  those  provisions  through  an 
+extensive federal bureaucracy. 
+but federalism helps shape immigration enforcement policy for two primary reasons. first, 
+criminal convictions under state law constitute many of the grounds of removal set out in 
+the us code. accordingly, state criminal justice systems feed the immigration bureaucracy 
+(motomura 2011). second, though the federal enforcement bureaucracy is vast, it has certain 
+crucial limitations. it consists of few beat cops who interact on a regular basis with the 
+regulated immigrant community, and its investigative resources tend to be used for large 
+operations rather than ordinary policing. to identify, apprehend, and remove noncitizens, 
+dhs depends on the local, county, and state police and corrections officials who come into 
+contact with noncitizens through arrests and other means. our immigration enforcement 
+regime is thus best characterized as vertically integrated, even though immigration law 
+itself is defined exclusively at the federal level (rodriguez 2012).
+enforcement federalism, as i define it, is thus expressly about intergovernmental relations 
+between the periphery and the center. the character and extent of the systems integration 
+has been in flux in recent years. the system is never fully coherent at any moment in time, 
+because federalisms many agents inevitably create intergovernmental friction and pockets 
+of  tension  between  washington  and  the  local.  federalism  actually  consists  of  myriad 
+intergovernmental relations rather than a singular federal-local dynamic. ideological and 
+partisan considerations, as well as institutional factors, shape these many relations. 
+ideologically speaking, the mayors and police of large, immigrant-heavy cities such as 
+new york are more likely to end up in conflict with a republican executive than with a 
+democratic one. pro-enforcement states such as arizona are more likely to challenge or 
+resist the enforcement policy of a federal government in democratic hands and embrace 
+or re-enforce the policies of a republican executive. but the logistics of federalism can 
+also transcend or stymie these partisan alignments. the institutional interests of the center 
+and periphery sometimes diverge, regardless of partisan alignment. even as it sought to 
+advance pro-immigration politics, for example, the obama administration maintained a 
+robust enforcement and removals agenda, precipitating local resistance from democratic 
+governors  and  mayors  that  complicated  (but  did  not  necessarily  undermine)  dhs 
+enforcement. in addition, despite efforts by the obama-era dhs to centralize enforcement 
+policy, it could not eschew reliance on state and local cooperation altogether. 
+because of this intergovernmental complexity, enforcement will entail a mix of centralization 
+and diffusion, regardless of the ideology or party in charge of the federal government. 
+indeed, it would be difficult to identify an optimal level of centralization for enforcement 
+policy in any objective sense. instead, the extent of federal control is always likely to be 
+contested and contingent. 
+
+513
+
+enforcement, integration, and the future of immigration federalismthe range of intergovernmental possibilities for enforcement policy can be conceptualized 
+through  a  simple  two-by-two  matrix.  the  x-axis  describes  the  orientation  of  local 
+jurisdictions  to  the  federal  government,  with  the  strategies  of  resistance  to  federal 
+priorities  on  the  one  hand  and  cooperation  with  federal  priorities  on  the  other. the 
+y-axis describes the inclinations of local jurisdictions toward immigration enforcement, 
+with enforcement skepticism on the one hand and zealous enforcement on the other. 
+                                     resistance to                       cooperation with 
+                                    federal priorities                  federal priorities
+
+t
+n
+e
+m
+e
+c
+r
+o
+f
+n
+e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+m
+s
+i
+c
+i
+t
+p
+e
+k
+s
+
+ 
+s
+u
+o
+l
+a
+e
+z
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+t
+n
+e
+m
+e
+c
+r
+o
+f
+n
+e
+
+each of the combinations thus identified reflects both ideological positions on immigration 
+policy  and  power  relationships  between  the  periphery  and  the  center.  different  legal 
+parameters and policy possibilities define each type of enforcement federalism, and each 
+should be considered in turn. in so doing, it remains important to keep in mind that resistance 
+and  cooperation  dynamics  will  operate  under  any  given  presidential  administration, 
+even as the locations of resistance and cooperation change. but because of institutional 
+considerations, tensions can arise between the periphery and the center, even when they are 
+ideologically aligned. to varying degrees, the federal government will use the legal tools at 
+its disposal to bring local jurisdictions in line with its own policy preferences. 
+to see how these combinations might play out, i first examine how a pro-enforcement 
+agenda at the local level might inform the federalism dynamic and then consider how local 
+enforcement skepticism might take shape.
+
+a. the pro-enforcement agenda
+
+a pro-enforcement agenda at the local level can take a number of forms and be advanced 
+by a range of actors, including state lawmakers, governors, mayors, and police chiefs. in 
+the last decade, the pro-enforcement agenda has found its highest profile in state laws and 
+local ordinances that would directly regulate employers, landlords, and even immigrants 
+themselves, in service of eliminating unauthorized immigration and often as a rebuke to 
+perceived federal under-enforcement. but the local pro-enforcement agenda can also be 
+enacted through the day-to-day decisions of state, county, and local police departments 
+working to accommodate federal enforcement requests.
+regardless of their orientation toward the federal government, enforcement enthusiasts 
+
+514
+
+journal on migration and human securityoften employ rule of law rhetoric, defining unauthorized immigrants in particular as law 
+breakers or public safety risks. this pursuit of enforcement might reflect recognition by 
+local officials of the basic legitimacy of an immigration enforcement regime, which would 
+make enforcement cooperation a matter of systemic integrity. but as some commentators 
+have  argued,  the  pro-enforcement  agenda  is  also  animated  in  some  quarters  by  more 
+populist and even malign motivations, such as resistance to the cultural change and racial 
+diversity  that  immigration  produces  (gulasekaram  and  ramakrishnan  2013,  2130-36; 
+guttentag 2013). 
+federal local-conflict. once the exemplar of immigration federalism, arizonas senate 
+bill 1070 (sb 1070)  the support our law enforcement and safe neighborhoods act 
+ embodied a staunch local enforcement mentality cum critique of federal enforcement 
+policy.5 it created state-level penalties for violations of certain immigration laws, sanctioned 
+unauthorized workers directly, and directed local police to inquire into immigration status.6 
+signed by a republican governor during the obama administration, the law crystallized a 
+partisan split on immigration policy writ large, with republicans at the local level calling 
+for maximal enforcement in the face of a democratic white house that sought legislative 
+legalization and priorities-driven enforcement. sb 1070 represented a kind of culmination 
+of  widespread  disquiet  with  the  extent  of  federal  enforcement.7  similar  laws  had  been 
+percolating  around  republican  statehouses  and  local  city  councils  since  at  least  2006, 
+drafted, sponsored, and advanced by networks of restrictionists and policy entrepreneurs 
+who sought to push their agenda throughout the country. this timing complicates a strictly 
+partisan story of immigration federalism, because it reflects the local, republican divergence 
+from even bush-era enforcement policy.8 but with sb 1070, arizona refined the attrition 
+through enforcement narrative, using the obama administration as its perfect foil.
+in  2012,  the  obama  administration  answered arizonas  challenge  in  an  unprecedented 
+manner by filing a preemption lawsuit against arizona and other states that had enacted 
+5   ariz. s.b. 1070, 49th leg., 2d reg. sess. (2010). 
+6   californias proposition 187, enacted by voters in 1994, might also fit into this category, though it differs 
+in important respects from sb 1070-style laws in ways that reflect how immigration federalism has evolved 
+in the federal governments shadow. proposition 187 sought to deny unauthorized immigrants a range of 
+state and local services, including public schooling, but it did not purport to enlist local officials in direct 
+immigration enforcement or create parallel immigration offenses to mirror federal law. the immigration 
+restrictionism it embodied was also of a piece with the rise of anti-immigrant sentiment among the newly 
+ascendant congressional republicans of that era. 
+7   sb 1070 itself begins with a statement of intent declaring the states compelling interest in the cooperative 
+enforcement  of  federal  immigration  laws,  as  well  as  its  intent  to  make  attrition  through  enforcement 
+the public policy of all state and local agencies in arizona. the provisions of the act were intended to 
+work together to discourage and deter the unlawful entry and presence of aliens and economic activity by 
+persons  unlawfully  present  in  the  united  states  (ariz.  s.b.  1070,  49th  leg.,  2d  reg.  sess.  (2010)).  in 
+public statements, lawmakers expressly called out the federal governments failure to enforce the ina as 
+justification for their own laws. after signing sb 1070, for example, governor jan brewer declared that it 
+represents another tool for our state to use as we work to solve a crisis we did not create and the federal 
+government has refused to fix (archibold 2010).   
+8   as  i  explain  in  more  detail  below,  the  federal  governments  institutional  imperatives,  which  include 
+running an efficient and effective immigration bureaucracy, can lead to federal-local divergence, even when 
+party lines would suggest otherwise. in the case of the bush-era dhs, officials likely preferred something 
+less than the sort of maximal, attrition through enforcement policy embodied in the predecessor laws to 
+sb 1070  a divergence re-enforced by the bush administrations support of (ultimately failed) legislative 
+overhauls in 2006 and 2007. 
+
+515
+
+enforcement, integration, and the future of immigration federalismsimilar laws, complementing and overshadowing suits brought by private litigants and the 
+american civil liberties union (aclu). the lawsuit served both political and bureaucratic 
+purposes. it provided a means for the administration to retake control of the immigration 
+policy debate, using legal tools with the potential to stop in their tracks the restrictionist 
+forces operating through local and state governments. by offering a robust defense of federal 
+supremacy in immigration enforcement, the government also reasserted the authority of 
+dhs and department of justice (doj) to determine the scope of the national enforcement 
+agenda and to control the extent of the enforcement assistance local officials could provide. 
+to  that  end,  during  litigation,  the  government  produced  a  guidance  document  defining 
+the  sorts  of  intergovernmental  cooperation  permitted  by  the  ina  (dhs  2012),9  which 
+expressly contemplates state and local assistance in federal enforcement. the memo listed 
+a range of concrete examples that were notably far narrower and contained than what sb 
+1070 promised.10 even as this document highlighted the federal governments dependency 
+on local police, in particular in pursuing its enforcement mission, it rejected autonomous 
+state lawmaking as a viable strategy.
+in  arizona  v.  united  states,  the  supreme  court  issued  its  first  opinion  in  30  years  on 
+the  subject  of  immigration  federalism  and  substantially  curtailed  (without  eliminating) 
+autonomous local enforcement measures that diverged from the federal agenda. in striking 
+down four of the five core provisions of sb 1070, the court handed the federal government 
+a resounding and arguably novel victory in two ways. first, in invalidating the provision 
+that would have made it a state misdemeanor for an unauthorized immigrant to apply for 
+work, the court acknowledged that the state sought to advance one of the core objectives 
+of federal law  the deterrence of unauthorized employment. it concluded, however, that 
+federal law embodied a range of compromises among competing values, and the states 
+adoption of a different means of achieving the same objective therefore thwarted federal 
+law.11 even more significant, the court articulated a theory of preemption that could be 
+understood as treating federal enforcement priorities, and not just congressional statutes, 
+as federal law: a principal feature of the removal system is the broad discretion exercised 
+by immigration officials . . . [the executive] must decide whether it makes sense to pursue 
+removal at all.12 in other words, even if state enforcement provisions precisely mirror 
+federal law, the latter would still be invalid because the federal executive necessarily uses 
+its discretion in deciding to what extent to enforce the law.
+arizona effectively eliminated localities ability to adopt an enforcement agenda expressly 
+and clearly more robust than the federal governments agenda. the extent of enforcement 
+federalism thus remains largely a function of federal policy. that said, the court did leave 
+in place sb 1070s section 2(b), which became known during the public debate as the 
+show me your papers provision. it requires local police to inquire into the immigration 
+9   in light of laws passed by several states addressing the involvement by state and local law enforcement 
+officers in federal enforcement of immigration laws, dhs concluded that this guidance would be appropriate 
+to set forth dhss position on the proper role of state and local officers in this context (dhs 2012). 
+10    examples  listed  by  dhs  include  participation  in  formal  cooperative  ventures,  such  as  joint  law 
+enforcement task forces or deputization schemes where the federal government retains supervisory control, 
+and lending direct assistance to federal officials by helping to execute warrants or providing equipment and 
+facilities to federal officials (ibid., 13-15). 
+11   arizona, 567 u.s. __, at 403-07.
+12   id. at 2498-99.
+
+516
+
+journal on migration and human securitystatus of those with whom they come into contact, and its ongoing validity leaves localities 
+with a measure of independence. 
+at the time of the decision, many commentators framed the survival of section 2(b) as a 
+hollow victory for the state, in large part because the court framed its analysis skeptically 
+and left open the possibility of as-applied challenges alleging civil rights violations (martin 
+2012). the courts decision also seemed to have punctured political momentum for local 
+immigration policing, highlighting the truly political character of sb 1070. the distaste for 
+the law held by some pragmatic local police officials loathe to entangle ordinary policing 
+and immigration enforcement may also have deflated its promise as an enforcement tool 
+(rodriguez 2015, 17). for reasons i discuss in part iii, however, this element of the courts 
+decision may have contemporary consequences by providing legal support for new state 
+laws, recently passed in texas, north carolina, georgia, and alabama, that would require 
+local compliance with federal immigration requests.
+the legal lines the court drew in arizona certainly advanced constitutional doctrine after 
+a decade of uncertainty. but the most important outcome of arizona v. united states was 
+arguably  political.  even  at  the  height  of  the  conflict  between arizona  and  the  federal 
+government, the distance between the federal and state positions on enforcement policy 
+was  in  large  measure  rhetorical  rather  than  actual.  even  a  federal  government  with  an 
+immigration  reform  agenda,  like  the  obama  administration,  must  run  an  enforcement 
+bureaucracy  and  utilize  the  resources  appropriated  to  it  by  congress.  the  obama 
+administrations efforts to shape removals according to certain priorities appears to have 
+borne fruit by shifting focus to high-value targets and away from the interior and to the 
+border (rosenblum and meissner 2014, pp. 19-40). but the absolute numbers of removals 
+remained high and the machinery of deportation in operation. 
+as with much of immigration federalism, pro-enforcement local resistance was as much 
+about creating a rhetorical frame for the immigration debate  that immigration should be 
+controlled and the law enforced to the extent possible  as about the merits of particular 
+enforcement  policies.  the  alternative  federal  narrative    of  humane  but  consistent 
+enforcement  set a far different agenda for the larger debate. enforcement was to create 
+confidence in the system in order to build political will for legislation that would include a 
+legalization program and expand opportunities for lawful immigration. arizona v. united 
+states helped ensure that the federal narrative prevailed. 
+federal-local cooperation. as the most recent change in presidential administration has 
+made vivid, the federal immigration narrative can change quickly. when the local desire to 
+enforce the immigration laws meets an administration that actively seeks local cooperation 
+as a means of multiplying its enforcement capacities and rhetoric, what does immigration 
+federalism look like?
+even if arizona v. united states has largely displaced autonomous state regulation, the 
+domain of immigration federalism has not so much disappeared as shifted. zealous localities, 
+aligned with a pro-enforcement federal government, can in theory play a significant role 
+in immigration enforcement. even the obama administration emphasized the importance 
+of local cooperation in enforcement, in part because the ina itself expressly accepts it and 
+
+517
+
+enforcement, integration, and the future of immigration federalismcreates vehicles for it.13 most immigration legislation sponsored by republicans in congress 
+in recent years seeks to solidify or augment the local role, and even the comprehensive 
+reform bill passed by the senate in 2013 with democratic leadership would have involved 
+border state governors in enforcement decision-making.14
+the most obvious vehicle for this brand of immigration federalism is the so-called 287(g) 
+agreement, which congress added to the ina in 1996.15 pursuant to this provision, state and 
+local police can opt to become quasi-immigration agents by entering into agreements with 
+the federal government to receive training and subsequently perform certain immigration 
+functions,  with  ultimate  supervision  coming  from  local  immigration  and  customs 
+enforcement (ice) officials.16 whereas the obama administration actively sought to curtail 
+the agreements that existed when it came into office (ice 2014), the trump-led dhs has 
+touted  its  interest  in  expanding  the  program,  including  by  bringing  back  the  so-called 
+task force model jettisoned by its predecessor, which enables local police to perform 
+immigration functions while engaged in policing on the streets and in the community.17 
+the  political  conditions  today  might  seem  ideal  for  an  expansion  of  the  program,  and 
+yet certain institutional considerations are likely to mean that this form of immigration 
+federalism will remain marginal. even during the bush administration, when agreements 
+began to proliferate in number, the program remained small. at its peak in 2011, only 
+72  agreements  existed,  despite  the  thousands  of  eligible  state,  local,  and  county  law 
+enforcement agencies. simply put, there is very little to be gained for sheriffs and police 
+chiefs  in  the  287(g)  arrangement.  even  in  pro-enforcement  states  and  localities,  the 
+perceived costs of intertwining policing with immigration enforcement  the impact on 
+community trust and relations and the diversion of resources away from the core mission of 
+police departments  will restrain voluntary participation. in addition, the concrete benefits 
+to local jurisdictions are likely to be minimal; though some local agents may welcome 
+the  opportunity  to  participate  in  higher-prestige  federal  law  enforcement  functions,  the 
+program is unlikely to yield actual law enforcement or public safety gains. as one scholar 
+has described the program, it amounts to a solution in search of a problem (coonan 2013, 
+283).
+the cooperative terrain over the last decade has shifted instead to the secure communities 
+program, which was launched by the bush administration, continued and then redesigned 
+under  another  name  by  the  obama-led  dhs,  and  then  fully  resurrected  by  trump 
+
+13   8 u.s.c. 1373(b) (requiring the federal government to accept inquiries from state and local police into 
+the immigration status in the custody of the latter).
+14   see border security, economic opportunity, and immigration modernization act of 2013, s. 744, 113th 
+cong., s. 4 (2013). the bill would have created a commission that included border state governors and given 
+it the responsibility to certify that the border had been secured before a legalization program could have 
+been fully implemented.
+15   8 u.s.c. 1357(g).
+16   even without a formal 287(g) agreement, many localities enmesh themselves with the federal enforcement 
+bureaucracy by, for example, entering into contracts with the federal government to permit the latter to use 
+local jails as detention facilities.
+17   a recent memorandum from the secretary of homeland security observes: [t]he ina 287(g) program 
+has been a highly successful force multiplier . . . to the greatest extent practicable, the director of ice and 
+commissioner of cbp shall expand the 287(g) program to include all qualified law enforcement agencies that 
+request to participate (kelly 2017). 
+
+518
+
+journal on migration and human securityadministration  officials.  its  reach  far  exceeds  the  287(g)  program,  because  it  relies  on 
+technology  to  harness  information  in  the  hands  of  local  police  regarding  potentially 
+removable noncitizens, rather than on local personnel themselves, and since 2013 it has 
+been operational across the country. 
+in  the  main,  and  across  all  three  administrations,  this  form  of  immigration  federalism 
+has had two key components, one of which leaves no genuine decision-making authority 
+with  localities  and  the  other  of  which  has  become  a  flashpoint  of  federalism  conflict. 
+the intergovernmental dynamic begins with information sharing. state and local police 
+routinely and for criminal justice purposes share their arrest data with the federal bureau 
+of investigation (fbi). as required by federal statute, the fbi then shares that information 
+with its sister agency, dhs. dhs can then determine if a person in state or local custody 
+is removable by comparing the arrest data to dhss own databases. obama-era efforts to 
+discontinue secure communities in 2014 notwithstanding, this feature has remained in 
+place continuously since 2008.
+some localities have regarded the fbis sharing of their data with dhs as conscription 
+into federal service raising constitutional concerns, and they have called on dhs to permit 
+jurisdictions to opt out of the program (kalhan 2013, 1131). but as noted above, federal law 
+directs the president to establish an interoperable system that facilitates data sharing across 
+law enforcement agencies,18 and the law thus requires the fbi to share its data with dhs 
+given appropriate technological capacities. more to the point, because localities voluntarily 
+share their information with the federal government (i.e., the fbi), the downstream use of 
+the data by the federal government does not amount to commandeering in the constitutional 
+sense, because the federal government has not coerced localities into sharing their data in 
+the first instance. this information-sharing component of enforcement policy ultimately 
+reflects an end-run around federalism to a certain extent, because it occurs automatically 
+and therefore eschews dependence on state and local officials themselves to support federal 
+enforcement policy. but that fact has not quieted the federalism debate, largely because of 
+what happens next.
+the  federalism-relevant  component  of  secure  communities  arises  with  the  choice  the 
+information sharing creates for dhs  what, precisely, should dhs do with the knowledge 
+that a potentially removable noncitizen is in local custody? both dhs and localities have 
+discretion over the answer. the traditional answer under secure communities has been 
+for the federal government to issue a detainer request, asking localities to hold the person 
+in question for up to 48 hours, until ice officials can take custody and determine whether 
+and how to start the federal deportation process. despite some confusion among localities 
+that has since been clarified by several courts,19 detainers are voluntary requests, not legal 
+
+18   8 u.s.c.  1722 ([t]he president shall develop and implement an interoperable electronic data system 
+to provide current and immediate access to information in databases of federal law enforcement agencies 
+and the intelligence community that is relevant to determine whether to issue a visa or to determine the 
+admissibility or deportability of an alien.).
+19   see, for example, galarza v. szalczyk, 745 f.3d 634 (3rd cir. 2014).
+
+519
+
+enforcement, integration, and the future of immigration federalismcommands.20  for  dhs  to  demand  compliance  would  cross  over  into  unconstitutional 
+commandeering by using local institutions and personnel to enforce federal law without 
+the consent of the state entities.21
+as  discussed  in  more  detail  below,  these  circumstances  created  by  existing  federalism 
+doctrine have made detainer policy an important point of controversy for intergovernmental 
+relations when the periphery and the center differ in their objectives. at least for the zealous 
+jurisdictions considered here, honoring detainer requests seems like an easy and obvious 
+way to advance immigration enforcement.22 and yet, even for pro-enforcement jurisdictions, 
+external constraints may limit the extent of cooperation. a growing number of lower courts 
+have held that local detainer authority is limited by the fourth amendments prohibition on 
+search and seizure and the requirement that police have probable cause before making an 
+arrest or holding someone in custody beyond their state-law release date.23 as this doctrine 
+develops, even zealous enforcement jurisdictions may eschew certain detainer requests for 
+fear of incurring constitutional liability.
+a  zealous  enforcement  jurisdiction  might  also  adopt  any  number  of  complementary 
+enforcement  measures  that  have  not  been  preempted  by  arizona  v.  united  states. 
+the immigrant policy project of  the national conference of state legislators (ncsl) 
+documents  some  examples,24  including  laws  that  require  government  contractors  and 
+subcontractors to use e-verify  an electronic database that checks whether a potential 
+employee is authorized to work in the united states  and laws that prohibit the use of 
+consular or embassy documents to determine identity or residence for law enforcement 
+purposes.25 in a counter-precedent to arizona, too, the supreme court in 2011 upheld an 
+arizona  law  that  threatened  to  rescind  the  business  licenses  of  companies  that  did  not 
+comply with federal prohibitions on the hiring of unauthorized workers, finding that the 
+law fell within an express clause of the ina permitting certain types of state support of the 
+
+20   8 c.f.r.  287.7(a).
+21   printz v. united states, 521 u.s. 898 (1994) (holding that federal government could not require local law 
+enforcement to assist in the enforcement of federal gun control statute in light of the tenth amendments 
+protection of state sovereignty).
+22    other  means  of  facilitating  federal  enforcement  have  developed  over  the  years.  perhaps  the  most 
+important intergovernmental program outside of secure communities has been the criminal alien program, 
+through which immigration officials operate inside corrections facilities in order to coordinate and hasten the 
+deportation proceedings of noncitizens convicted of state law crimes (schuck 2013, 612). 
+23   see, e.g., morales v. chadbourne, 793 f.3d 208, 215 (1st cir. 2015); miranda-olivares v. clackamas 
+cnty., no. 3:12-cv-02317, 2014 wl 1414305, at *10 (d. or. apr. 11, 2014).
+24   according to ncsl (2015, 1; 2016, 1), state legislatures enacted 185 immigration-related law in 2013, 
+171 in 2014, and 216 in 2015. ncsl defines immigration-related law broadly, and the measures it documents 
+cut across numerous regulatory arenas, including law enforcement, education, public benefits, and voting. 
+many of the measures promote immigrant integration or are otherwise designed to protect the interests of 
+immigrants, including the unauthorized. 
+25   see, for example, north carolina house bill 318, amending the states e-verify requirement to make it 
+stricter, and prohibiting the use of consular documents (ncsl 2016). 
+
+520
+
+journal on migration and human securityemployer sanctions regime.26 few if any states appear to have followed arizonas lead in 
+pursuing this particular enforcement strategy, but it remains lawful. 
+the utility or success of these complementary measures may be largely independent of 
+whether the local and federal objectives align; local jurisdictions can adopt them regardless 
+of the identity of the presidential administration. in theory, having a zealous enforcement 
+regime in washington could either propel or obviate the enactment of such laws at the 
+local level. vigorous enforcement rhetoric from the federal government, coupled with the 
+opportunity to informally cooperate with federal officials, might satisfy the local enforcement 
+impulse. or, the presence of a like-minded, pro-enforcement regime in washington could 
+stir local interest, generated either through the work of the interest group or intraparty 
+networks that have been pushing pro-enforcement policy at all levels of government, or as 
+the result of energized public opinion on the immigration question.  
+
+b. enforcement skepticism
+
+enforcement  skepticism  abounds  in  our  federal  system.  few,  if  any,  localities  reject 
+immigration enforcement of all kinds (in contrast to some immigrants rights advocates). 
+but  local  skepticism  embodies  an  overarching  concern  that  immigration  enforcement 
+will have a negative impact on local communities  a concern typically buttressed by 
+a  commitment  to  immigrant  integration  regardless  of  lawful  status.  this  orientation 
+is common among political officials and bureaucrats in immigrant-heavy cities such as 
+new york, chicago, houston, and san francisco, as well as in democratic states with 
+large  immigrant  populations,  such  as  california  and  illinois.  but  small  towns  such  as 
+new haven, connecticut, have also been the sites of some of the fiercest resistance to 
+federal enforcement tactics, as well as pro-immigrant politics, and progressive cities within 
+conservative states also have adopted the skeptics posture. 
+the central federalism question these skeptical jurisdictions face is whether and to what 
+extent to cooperate with the federal government by honoring detainer requests. by one 
+estimate,  over  300  jurisdictions  have  adopted  some  form  of  noncooperation  strategy27 
+(henderson 2014). sometimes called trust acts, or colloquially referred to as sanctuary 
+
+26   chamber of commerce v. whiting, 563 u.s. 582 (2011). the arizona law at issue in this case survived 
+preemption largely because of a savings clause in the ina. even though congress preempted all state laws 
+that sanctioned employers for hiring unauthorized workers in 1986, when it adopted a federal employer 
+sanctions regime, it expressly provided that states could continue to use licensing and other similar laws 
+to regulate. the arizona law fell squarely within the text of the savings clause, and so claims that the law 
+otherwise undermined the federal scheme or that congress intended the law to have a narrower reach did 
+not persuade the court. the court also held that arizonas e-verify mandate did not conflict with federal 
+law, id. at 608, confirming that states retained authority to adopt measures of this kind to deter the hiring of 
+unauthorized workers.
+27   the anti-detainer policy is the most recent instantiation of the noncooperation impulse. in the 1990s, 
+cities such as new york and los angeles adopted policies that prohibited local officials from communicating 
+immigration status information to the federal government. congress eventually preempted these laws in 1996, 
+and the us court of appeals for the second circuit rejected a claim brought by then-mayor rudolph giuliani 
+that  the  1996  law  violated  the tenth amendment  by  commandeering  local  governments  as  immigration 
+enforcers. see new york v. united states, 169 f.3d 29 (2nd cir. 1999).
+
+521
+
+enforcement, integration, and the future of immigration federalismlaws,28 these measures delineate under what circumstances states and localities will honor 
+detainer  requests.  though  few  if  any  jurisdictions  categorically  rule  out  cooperation, 
+the adoption of some form of noncooperation law underscores that localities retain the 
+discretion to decide what circumstances warrant enforcement. 
+these policies have both pragmatic and symbolic dimensions. they reflect concern that 
+conflating policing and immigration enforcement will undermine trust in public officials and 
+police and could even undermine public safety.29 but they also embody a political position 
+on the immigration debate writ large  that immigrants or some subset of immigrants (the 
+unauthorized without a criminal record, for example) ought not be deported. with respect 
+to the former, it remains empirically contestable whether the noncooperation laws actually 
+promote public safety. and whether they result in fewer deportations also remains to be 
+meaningfully established. 
+but whether noncooperation laws can actually claim their supposed pragmatic benefits, 
+they do succeed in joining a political fight. localities that have resisted federal enforcement 
+in this way have decided for themselves whether to be complicit in federal immigration 
+enforcement. the  noncooperation  movement  as  a  whole  offers  an  alternative  vision  of 
+immigrants  place  in  the  community  to  the  exclusionist  narrative  advanced  by  zealous 
+enforcement  jurisdictions.  indeed,  the  trust  acts  and  other  similar  laws  reflect  the 
+influence of a widespread immigrants rights movement that has sought to use the federal 
+structure to its advantage by creating alternative legal regimes (rodriguez 2015, 12-15; 
+vock 2013).
+federal-local polarization. in 2017, a highly polarized version of the intergovernmental 
+dynamic  created  by  local  enforcement  skepticism  dominates  federalism  debates.  on 
+january  25,  2017,  president  trump  issued  an  executive  order  (eo)  laying  out  the 
+administrations interior enforcement policies.30 section 9 of the order targets so-called 
+sanctuary jurisdictions, threatening to rescind federal funds for jurisdictions that refuse to 
+comply with 8 u.s.c. 1373, a provision of the ina designed to facilitate local cooperation 
+with federal law. in order to prevent local officials from shielding any immigration status 
+information  in  their  possession  from  federal  enforcement  officials,  congress  enacted 
+1373, declaring it unlawful for states and their subdivisions to prohibit their personnel 
+from  communicating  immigration  information  to  the  federal  government.  in  addition 
+to targeting noncompliance with 1373, the executive order also threatens appropriate 
+enforcement action against any entity that has in effect a statute, policy, or practice that 
+prevents or hinders the enforcement of federal law.31 in response to the eo, a handful 
+of localities around the country have taken the federal government to court, leading at 
+
+28   the sanctuary designation harkens back to a movement of the 1980s of churches providing safe haven to 
+unauthorized immigrants cum refugees fleeing the civil wars of central america.
+29   one comprehensive academic study finds that secure communities, which entails the detainers some 
+localities resist for public safety reasons, has not reduced police ability to resolve crimes (cox and miles 
+2017), though the effects detainers might have on trust and the psychic burdens they impose on immigrants 
+may be hard to measure. 
+30   enhancing public safety in the interior of the united states, exec. order no. 13768, 82 fed. reg. 8799 
+(jan. 25, 2017).
+31   id. 
+
+522
+
+journal on migration and human securityleast one district court to cast constitutional doubt on the order, despite acknowledging the 
+federal governments authority to take the steps it outlined in the course of litigation.32 
+in this sort of polarized context, the federalism question becomes twofold: what can the 
+federal government do to reign in resistant localities? and what are the legal foundations 
+for ongoing local resistance? any legal analysis will depend on the precise reach of the 
+federal and local actions at issue. but a few general principles provide a framework that 
+can be applied to federal-local tensions of this sort.
+federal power is simultaneously limited and broad. on the first score, the anti-commandeering 
+doctrine interprets the tenth amendment and the federalist structure of the constitution 
+to prohibit the federal government from requiring states and their subdivisions to act as 
+federal agents in the implementation of federal law.33 any federal law or interpretation of 
+federal law by the executive that would treat detainer requests as mandatory fits comfortably 
+within the scope of commandeering, as it would reflect the expectation that local police and 
+their facilities and resources serve as agents of immigration enforcement, whether local 
+officials consent or not.34 
+but the federal government can accomplish a great deal through its use of the spending 
+power that it could not otherwise achieve through direct regulation. congress can create 
+incentives  for  localities  to  serve  federal  objectives  by  conditioning  federal  funds  on 
+compliance with certain terms. this power is not unlimited, and the supreme court has 
+recently reinvigorated what had come to be seen as a perfunctory set of doctrinal limits 
+on federal power.35 in the interests of federalism, the exercise of the spending power must 
+conform to certain criteria: (1) the condition must be unambiguous and imposed before 
+funds have been distributed; (2) any condition must be germane to the federal program 
+
+32   county of santa clara v. trump, __f. supp. 3d__, 2017 wl 1459081 (n.d. cal. 2017). the decision 
+is at once narrow and broad. the governments litigating position before the district court was that section 
+9 of the eo did nothing more than direct the attorney general to rescind grant monies to jurisdictions that 
+failed  to  comply  with  the  statute,  where  the  grants  in  question  already  required,  as  a  term  of  the  grant, 
+compliance with the federal statute. the court acknowledged the federal governments authority to take away 
+funds that already had been made contingent on compliance with 1373, thus giving the government what 
+it purported to want. and yet, the court went to great lengths to reject the governments construction of the 
+order, concluding that it would have rendered the order toothless. instead, the court read the eo to potentially 
+reach a much larger pool of funds for a wider range of local actions and then proceeded to conclude that its 
+reading raised serious constitutional problems under federalism and spending clause doctrine.
+33   new york v. united states, 505 u.s. 144 (1992) (striking down as unconstitutional commandeering a 
+federal statute that required states that did not comply with federal scheme to dispose of radioactive waste 
+to take title to the waste); printz v. united states, 521 u.s. 898 (1994) (applying commandeering doctrine to 
+state executive officials).
+34   a 2016 report by the inspector general of the doj offers a potentially expansive but also likely erroneous 
+interpretation of 1373  that the statute could encompass policies that prohibit honoring civil detainer 
+requests, even if they do not prohibit information sharing with the federal government, because they affect 
+ices interaction with local officials. this interpretation strays far beyond the text of the actual statutory 
+provision. because reading the law to require compliance with civil detainer requests would raise serious 
+constitutional concerns under the commandeering doctrine, there is little if any justification for reading the 
+law so atextually. see horowitz (2016). 
+35   national federation of independent business v. sebelius, 567 u.s. 519 (2012) (striking down the structure 
+of the affordable care acts expansion of medicaid because it made the entirety of the states medicaid 
+funding contingent on expanding the program according to the terms of the law).
+
+523
+
+enforcement, integration, and the future of immigration federalismpursuant to which the funds are being appropriated; and (3) the financial inducement cannot 
+be overly coercive.
+each of these criteria leaves considerable room for interpretation, particularly the question 
+of what amounts to coercion. but especially since the supreme courts reliance on the 
+spending clause to invalidate the medicaid expansion component of the affordable care 
+act, courts have demonstrated a willingness to test the federal governments positions. in 
+the case of the trump eo, the federal government offered an interpretation of the order that 
+conformed to existing doctrine  that it directed the attorney general to rescind a small 
+number of federal grants already clearly conditioned on compliance with 1373 from those 
+grant recipients that willfully violated the statute. but the district court rejected this reading 
+of the eo, finding instead that it could be read to reach all federal funds, and not just law 
+enforcement funds that might have some nexus to immigration enforcement and 1373. 
+moreover, the order was not clear about what constituted a violation of its conditions.
+beyond the particularities of the january trump eo, at least three important conclusions 
+about federal power over localities emerge from the case. first, the district court emphasized 
+that the spending power belongs to congress and not the executive, which by the courts 
+lights meant that only congress could place conditions on federal grants  a principle 
+that would significantly limit a new administration from unilaterally using federal funds as 
+incentives. this conclusion must be complemented with the observations that congress can 
+delegate to the executive the authority to set terms for its own grant programs. requiring 
+compliance  with  federal  law,  whatever  one  thinks  of  the  law,  seems  straightforwardly 
+legitimate. 
+second, these observations about congresss spending authority open up a whole range of 
+possibilities for a federal government seeking to tamp down local enforcement resistance. 
+it is unlikely a court would find a constitutional problem with a statute that conditioned 
+relevant  funds  not  only  on  compliance  with  1373,  but  also  with  detainer  requests 
+themselves, unless, of course, either of those conditions is itself unconstitutional (on which 
+more below). in other words, with a willing congress, the federal government could really 
+test how far localities commitment to noncooperation runs.36
+and third, the legality and concrete effects of the executive order may ultimately be of 
+secondary importance to the larger political purpose of the eo and other administration 
+actions like it. the governments own interest in 1373 seems somewhat modest. some 
+anecdotal  evidence  exists  of  local  government  personnel  taking  it  upon  themselves  to 
+inform the federal government of the immigration status of people with whom they had 
+come into contact  the acts protected by 1373. but there is no evidence or even really 
+strong reason to believe that government personnel would be motivated or able to report 
+immigration status on a large enough scale to make any meaningful difference in federal 
+
+36   as soon as the president announced his executive order, miami-dade county rescinded its noncooperation 
+law, citing its desire to maintain its federal funding. leaving aside the likelihood that the county misunderstood 
+the legal effect of the order and acted hastily, its actions may well reveal that it and perhaps other jurisdictions 
+only tepidly support the noncooperation movement.
+
+524
+
+journal on migration and human securityenforcement efforts.37 this actuality also re-enforces that, for enforcement skeptics at the 
+local level, very little is actually at stake as a practical matter when it comes to 1373. 
+the stakes in the debate over 1373, then, are largely political, expressive, and rhetorical. 
+the trump eo amounts to the use of the bully pulpit to persuade or shame localities into 
+joining the enforcement bandwagon, or to otherwise build political momentum for a robust 
+and proud enforcement strategy regardless of local opposition. and the local resistance to 
+the order, including the decision to file suit even before the government had taken any action 
+to rescind funds, fits within a larger movement to create a locally based counternarrative 
+to immigrants as public safety risks who ought to be removed to promote the rule of law.
+to be sure, to sideline the spending clause as a source of federal authority, out-and-out 
+resistance by enforcement skeptics could take other forms, too. enforcement skeptics could 
+challenge the very constitutionality of 1373, as santa clara county did in its complaint 
+against the trump eo, declaring that it itself violated the federal statute. but in addition to 
+there being little to gain from ridding the code of 1373, invalidating 1373 would require 
+expanding  the  commandeering  doctrine  to  cover  at  least  some  information  sharing. a 
+plausible claim could be made that 1373 prevents state and local governments, as well as 
+their sub-entities such as police departments, from supervising their employees in order to 
+serve federal immigration purposes  form of commandeering. but drawing the doctrine 
+this broadly could have significant and unpredictable downstream consequences for federal 
+law and policy. in other words, enforcement skeptics should be careful of expanding an 
+already controversial tenant of federalism that limits federal power in a context where the 
+local  position  happens  to  match  their  ideological  preferences,  because  that  match  may 
+not always exist. indeed, cause-oriented mobilization of structural constitutional doctrines 
+always present this risk and therefore should be handled with caution and humility.
+without  relying  on  federalism  doctrine,  enforcement  skeptics  who  seek  to  end  local 
+cooperation  with  federal  enforcement  altogether  could  also  pursue  fourth amendment 
+litigation. as  noted,  a  number  of  courts  have  found  that  localities  lacked  authority  to 
+comply with particular detainers, on the ground that local police had no probable cause 
+to hold the individual in question. this conclusion reflects both the general requirements 
+of  the  fourth amendment,  as  well  as  the  principle  that  local  jurisdictions  do  not  have 
+independent authority to enforce immigration law. as instances of courts finding fourth 
+amendment violations in as-applied cases accumulate, the threat of constitutional liability 
+by itself may lead jurisdictions to eschew ever-larger numbers of detainer requests. not only 
+could this approach significantly constrain the federal governments reliance on detainers, 
+it also could significantly curtail the federal government of the spending clause as means 
+of instigating compliance with detainers, since conditions on grants may not themselves be 
+violations of the law. 
+cautious intergovernmental compromise. even when enforcement skeptics are in office 
+at both the local and the federal level, intergovernmental tensions will persist. even though 
+the obama administration advocated legislation that would have expanded immigration 
+in myriad ways, and used its administrative authorities to grant large-scale enforcement 
+37   the central and most fruitful local avenue for federal enforcement comes from the arrest data the federal 
+government acquires through secure communities, making detainer policy the far more consequential site 
+of local enforcement and resistance.
+
+525
+
+enforcement, integration, and the future of immigration federalismrelief, the local noncooperation movement flowered among democratic jurisdictions during 
+the same years. the likes of chicago and new york, despite being crucial democratic 
+strongholds, presented bureaucratic headaches for the obama-era dhs. 
+this tension among political allies stems to a significant degree from institutional factors. 
+the federal government simply cannot abandon immigration enforcement altogether. by 
+charging it with the enforcement of the ina, congress has delegated responsibility to enforce 
+the nations immigration laws and appropriated significant sums of money to effectuate that 
+responsibility. by law and custom, the administration cannot fail to honor either form of 
+delegation, even as it may have considerable authority to make discretionary judgments 
+about the scope and nature of enforcement policy (cox and rodriguez 2015, 142-65, 210-
+14). by contrast, local jurisdictions need not have anything to do with immigration law 
+or enforcement to satisfy their governmental responsibilities. immigration enforcement at 
+the very least can be a distraction from the management of local public welfare, if not an 
+outright impediment to serving the local interest, for some of the very reasons identified by 
+the noncooperation movement.
+the notion that a skeptical local jurisdiction would cooperate with federal enforcement 
+therefore  might  seem  like  an  impossibility    a  null  set.  but  enforcement  cooperation 
+extends  well  beyond  local  assistance  of  federal  deportation  policy  and  can  include 
+joint efforts that even enforcement skeptics could support, such as cooperation to target 
+smuggling rings (meissner and kerwin 2009, 48-49, 54). and with respect to deportation 
+policy, there could be pragmatic reasons for local skeptics to reach an enforcement dtente 
+with the federal government, even though localities can more comfortably and visibly reject 
+immigration enforcement than the federal government (rodriguez 2015, 15-16, 20). indeed, 
+few if any of the anti-detainer policies adopted at the local level eschew detainer requests 
+altogether. instead, localities have defined for themselves the sorts of detainers they will 
+honor, usually recognizing the prudence of responding to detainers for people who have 
+committed serious or violent crimes. this kind of partial cooperation reflects recognition 
+at the local level of a potential public safety dimension to immigration enforcement. but 
+perhaps more important, it demonstrates the importance of maintaining functional, cordial 
+intergovernmental  relations,  given  the  value  of  federal-local  cooperation  not  only  with 
+respect to law enforcement writ large, but also across other domains. 
+embodying  this  pragmatic  tendency,  some  jurisdictions  have  begun  developing  model 
+detainer  ordinances.  in  particular,  to  address  potential  fourth  amendment  liability, 
+jurisdictions might opt to decline detainers that are not accompanied by a warrant or some 
+indication of probable cause that the person in custody is deportable. as many have done, 
+localities could exercise their own judgment concerning the types of underlying crimes 
+that warrant the initiation of removal proceedings, declining detainer requests based only 
+on immigration status violations. to complement this prioritization, localities might also 
+enumerate for themselves the positive equities, such as community or family ties, that would 
+warrant declining a detainer request in individual circumstances. these sorts of judgments 
+ of when removal is appropriate  might seem like precisely the sorts of determinations 
+that ought to be left to the federal government. but because they fundamentally implicate 
+the local governments relationship to its own community, they are judgments that local 
+officials are well placed, perhaps even better-placed, to make, as well.
+
+526
+
+journal on migration and human securitywhen enforcement skeptics populate both the local level and the political positions of the 
+federal administration, noncooperation laws that embody pragmatic compromise arguably 
+represent a form of enforcement collaboration  a way of recognizing the inevitability of 
+some form of deportation regime while working however awkwardly toward ensuring its 
+basic fairness. put another way, otherwise skeptical local jurisdictions might better justify 
+calibrated cooperation when the political officials in charge of the enforcement regime self-
+consciously define their policies to achieve humane and targeted enforcement. this uneasy 
+but not necessarily oppositional relationship arguably presents the best state of affairs from 
+a  systemic  perspective,  if  we  accept  a  baseline  legitimacy  to  immigration  enforcement 
+and acknowledge the integration of the enforcement regime, because it helps to keep the 
+federal government accountable. 
+the  obama  administrations  now  superseded  priorities  enforcement  program  (pep) 
+reflects  this  sort  of  equilibrium.  in  november  2014,  then-dhs  secretary  jeh  johnson 
+announced pep as a rebranding and reformulation of secure communities, in response 
+to pressure from enforcement-skeptical jurisdictions. governors, mayors, and state and 
+local law enforcement officials around the country, he noted, have increasingly refused 
+to cooperate with [secure communities] . . . the overarching goal of secure communities 
+remains in my view a valid and important law enforcement objective, but a fresh start and 
+a new program are necessary (johnson 2014). the program would have maintained the 
+data-sharing feature of secure communities, which is required by statute, but it would 
+have changed the dhs follow-up strategy. instead of issuing detainer requests, ice simply 
+would have notified local officials if a potentially removable person was in their custody, 
+thus re-enforcing local discretion over how to proceed.
+beyond developing a cooperative but wary relationship with a federal enforcement apparatus 
+whose  policymakers  might  share  certain  skeptical  objectives,  resistant  localities  could 
+take other steps to help disentangle local law enforcement from immigration enforcement 
+without  engaging  in  outright  defiance. as  noted  at  the  outset,  state  and  local  criminal 
+justice systems feed the immigration bureaucracy not only through the decisions of police, 
+but also through the charging decisions made by prosecutors. because criminal convictions 
+under state law become the basis for removal in many cases, state and local prosecutors 
+exert  tremendous  indirect  effect  on  enforcement  policy.  developing  charging  practices 
+with  immigration  consequences  in  mind  thus  could  reduce  the  number  of  noncitizens 
+in the potential enforcement pool. the maryland states attorneys office, for example, 
+recently has instructed prosecutors to consider the immigration consequences for potential 
+defendants, victims, and witnesses of charging minor, nonviolent crimes (fenton 2017). 
+of course, when determining prosecutorial priorities within the criminal justice context, 
+the immigration consequences of a conviction can represent but one factor; it hardly seems 
+prudent to create a system where immigration consequences drive criminal justice policy, 
+and backlash by the public and lawmakers against broad policies of this sort is likely to be 
+swift. but as an equity, those consequences can quite reasonably be taken into account. it 
+would be perfectly appropriate for state and local prosecutors offices, as a matter of policy, 
+to include immigration consequences as a relevant general factor in guiding discretionary 
+judgments (motomura 2011).
+
+527
+
+enforcement, integration, and the future of immigration federalismthe varieties of enforcement federalism thus look something like the following:
+                                      resistance to                       cooperation with 
+                                     federal priorities                  federal priorities 
+
+t
+n
+e
+m
+e
+c
+r
+o
+f
+n
+e
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+m
+s
+i
+c
+i
+t
+p
+e
+k
+s
+
+ 
+s
+u
+o
+l
+a
+e
+z
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+t
+n
+e
+m
+e
+c
+r
+o
+f
+n
+e
+
+both enforcement enthusiasts and enforcement skeptics at the local level will be able to 
+advance their agendas regardless of who controls the federal enforcement bureaucracy. in the 
+former case, localities can adopt laws in aid of enforcement that have escaped preemption. 
+the  skeptics  can  take  advantage  of  conservative  federalism  doctrines  that  prevent  the 
+federal  government  from  coopting  local  authorities  to  limit  their  own  participation  in 
+enforcement, and they can manage their own criminal justice systems with a view to how 
+they feed into the federal immigration system. 
+but  the  scope  and  tenor  of  immigration  federalism  will  always  remain  a  function  of 
+intergovernmental dynamics. those dynamics will be shaped by a set of legal relationships 
+and  constitutional  doctrines  that  the  federal  courts  have  done  much  to  refine  in  recent 
+years, precisely because immigration federalism has filled judicial dockets. perhaps more 
+important, the nature of the federal-local relationship will vary in response to shifts in 
+political control at each level of government, even as it embodies persistent institutional 
+tensions. and in mediating this interplay of politics and bureaucracy, the architects of any 
+enforcement federalism strategy will have to grapple with the central question of the place 
+of immigrants in our society.
+
+ii. integration federalism: political will and bureaucratic 
+capacity
+despite the fact that immigration law and the immigration bureaucracy emanate from and 
+are controlled by the federal government, washington historically has played a very limited 
+role in the formulation and implementation of integration policy. as a 2011 government 
+accountability office report notes, no single federal entity has been designated to lead the 
+creation, implementation, and coordination of a national immigrant integration capability 
+(gao 2011, 25). instead, immigrant integration largely has been a private sector affair, with 
+state and local institutions playing crucial roles as well in devising affirmative integration 
+
+528
+
+journal on migration and human securitypolicies. in the integration and acculturation of immigrant children, for example, the local 
+public schools play the single most important and comprehensive role. and a variety of 
+state  services  and  public-private  partnerships  provide  language  instruction  and  civics 
+education, job training, and assistance with public benefits. many of the federal integration 
+programs that do exist, primarily to aid in the resettlement of refugees, involve contracts 
+with ngos to provide basic services, or are otherwise run through state agencies.
+as  with  enforcement  federalism,  integration  federalism  captures  the  ideological 
+polarization of the country over the place of immigrants in american communities and 
+their  role  in  the  nations  future.  this  divergence  has  long-standing  historical  roots.  in 
+the antebellum period, for example, states in the west and south of the country adopted 
+policies to attract immigrants in order literally to build their communities. eastern seaboard 
+states, by contrast, sought to drive immigrants away because they perceived them as public 
+burdens and sources of crime (salyer 1995, 4-5). in the years leading up to the chinese 
+exclusion acts and the decades that followed, many states, including california, adopted 
+laws restricting immigrants ability to earn a livelihood or take advantage of local public 
+resources.  today,  many  states  and  localities  seek  to  ground  and  improve  the  lives  of 
+immigrants, often regardless of their legal status. these local integration measures aim to 
+secure immigrants long-term political incorporation and economic and financial stability, 
+as well as their cultural affiliation and sense of social solidarity with those who make up 
+the  communities  around  them.  other  jurisdictions  remain  agnostic  or  indifferent  to  the 
+incorporation enterprise. still others actively seek to drive immigrants away  to promote 
+their  attrition    primarily  with  the  sort  of  enforcement  federalism  above,  but  also  by 
+closing many local institutions and benefits to immigrant participation (suro 2015, 1-25).
+a  thorough  accounting  of  federalisms  role  in  shaping  the  possibilities  for  immigrant 
+integration is well beyond the scope of this paper. we would need to begin by defining 
+the thorny concepts of integration and acculturation and articulating a set of markers to 
+determine  success.  from  there,  a  discussion  of  the  particular  policies  and  institutional 
+commitments  that  facilitate  integration  could  begin.  the  possibilities  for  affirmative 
+integration strategies in todays context, as well as the particular role the federal government 
+might play, have been covered expertly and comprehensively elsewhere in this series (de 
+graauw and bloemraad 2017, 105-23). 
+but the historical and contemporary relevance of federalism to the project of immigrant 
+integration,  as  well  as  the  potential  effects  of  the  enforcement  federalism  discussed  in 
+parts i and iii on the prospects of immigrant integration, warrant making three conceptual 
+points about federalism and integration. first, the problem of unauthorized immigration 
+looms large in integration policy, and only congress can decisively address the matter. 
+the  absence  of  legal  status,  in  the  main,  deprives  noncitizens  of  the  capacity  to  work 
+lawfully and therefore of adequate labor and employment protections. it also creates an 
+inherent instability in immigrants lives (for fear of removal) that diminishes the incentives 
+and opportunities for making investments that would enable long-term settlement, such 
+as language acquisition, civic knowledge, and home ownership. and it can heighten the 
+psychological and financial burdens on mixed-status families. to be sure, unauthorized 
+immigrants have become deeply embedded in their communities, and those who arrived 
+as youth are functionally american  the very justifications for legislative legalization 
+
+529
+
+enforcement, integration, and the future of immigration federalismand administrative relief. the creation by the executive branch of discretionary statuses, 
+including the large-scale deferred action granted by the obama administration, have helped 
+ameliorate the disabilities associated with lack of status. but the 2016 election underscores 
+the fragility and inadequacy of discretionary statuses, at least as mechanisms of stabilizing 
+the lives of unauthorized immigrants and those with whom they associate. the lack of legal 
+status will always be a drag on social status.
+a  great  deal  of  contemporary  immigration  federalism,  both  of  the  enforcement  and 
+integration varieties, consists of a debate about the meaning of unauthorized status and 
+its  relevance  to  community  participation  (rodriguez  2008,  581-600).  like  past  federal 
+administrations, some states and localities have sought to ameliorate the lack of status with 
+the regulatory authorities at their disposal. in tandem with their enforcement skepticism, 
+cities and states such as new york, chicago, and california and its localities, have attempted 
+stabilize the status of unauthorized immigrants, including through the extension of benefits 
+and legal protections, such as in-state tuition, drivers licenses or municipal identification 
+cards,  and  labor  and  employment  guarantees  (ramakrishnan  2015,  2-6).  enforcement 
+enthusiasts have done the same, not only through indifference to immigrant integration, but 
+also through measures as draconian as prohibiting landlords from renting to unauthorized 
+immigrants38 (suro 2015, 9-17).
+of course, as with any issue, the approach to unauthorized immigration does not track 
+partisan lines neatly. some indifferent or even hostile jurisdictions have adopted in-state 
+tuition laws, for example, or a variety of affirmative integration measures (rodriguez 2008, 
+579-80, 585-86). as discussed in more detail below, within hostile states, progressive cities 
+seek to protect and incorporate the unauthorized in some ways. and even in states with 
+historical commitments to integration, the political will behind integration strategies can 
+wane in response to politics. in illinois, for example, the current republican governor, 
+upon taking office, proposed to slash spending for affirmative integration programs and 
+rescinded two executive orders issued by his predecessor, one of which prohibited state 
+law  enforcement  from  stopping  individuals  on  the  basis  of  immigration  or  citizenship 
+status, and the other aimed to enable residents of the state to benefit from deferred action 
+for childhood arrivals  even as he proclaimed support for immigration reform (tareen 
+2015). but this variation is simply further evidence of the churning federalism will produce 
+until the federal government resolves the status question.
+a legal framework that draws from similar resources as the one governing enforcement 
+federalism also structures this domain. anti-integration measures can run afoul of federal 
+policy and therefore be preempted.39 and the equal protection clause provides a strong 
+
+38   the federal courts of appeals have taken differing positions on whether the ina preempts these landlord 
+ordinances. compare villas at parkside v. farmers branch, 688 f.3d 801 (5th cir. 2012) (concluding that 
+local landlord ordinances constitute de facto attempts to regulate immigration and are thus preempted), with 
+keller v. fremont, 719 f.3d 931 (8th cir. 2013)  (concluding that the connection between landlord laws 
+and immigration regulation was too attenuated to justify preemption). the supreme court has declined to 
+intervene.
+39   see villas at parkside, 688 f.3d 801; keller, 719 f.3d 931.; arizona dream act coalition v. brewer, 757 
+f.3d 1053 (9th cir. 2014) (issuing preliminary injunction against arizona law that would have denied drivers 
+licenses to recipients of deferred action for childhood arrivals, on the ground that plaintiffs were likely to 
+succeed with their claim that the state law violated the equal protection clause). 
+
+530
+
+journal on migration and human securitybulwark for legal immigrants against state discrimination and a potentially available but 
+still  weak  and  uncertain  tool  for  unauthorized  immigrants.  but  from  the  point  of  view 
+of  integration  policy,  this  framework  simply  manages  the  political  contestation  around 
+immigrants social place and restrains states and localities from engaging in egregious forms 
+of discrimination. it cannot cure the ultimate instability of unlawful status. the persistence 
+and irresolution of the federalism debates over the meaning of unauthorized status point 
+to the need for federal intervention, not only if our goal is to anchor and improve the lives 
+of unauthorized immigrants not only to provide stability, but also in the interest of shifting 
+integration federalism  whether of the enforcement or integration variety  to more 
+constructive and less legally contested terrain.
+second,  the  need  for  federal  leadership  on  the  status  question  does  not  mean  that  the 
+work of integration should pass to the federal government. instead, integration policy writ 
+large would benefit from a well-conceived, intergovernmental strategy that plays to the 
+institutional competencies of the different levels of government. the federal governments 
+primary role, as the government least connected to the integrative institutions described 
+above,  should  be  to  provide  a  strong  integration  scaffolding,  which  would  include 
+sharing information, coordinating best practices, and providing robust resource support. 
+indeed, were congress to adopt a legalization program to address the status question, its 
+implementation would necessarily depend on state and local institutions working with the 
+private  and  nonprofit  sector,  simply  because  federal  capacity  does  not  exist  to  provide 
+outreach to eligible immigrants, protect them from fraudulent service providers, assemble 
+the  requisite  documentation  to  support  a  claim  of  legalization,  or  provide  the  english-
+language and civics instruction that likely would be necessary to qualifying for legalization 
+(pew charitable trusts 2014, 2-3). 
+as with the federalization of any issue, the risks of shifting the weight of integration policy 
+to the federal government would be two-fold. centralization can have a leveling effect, 
+which in the integration context could mean providing less support and creative problem 
+solving than would come from the most dynamic states and localities with the deepest 
+experience integrating immigrants and their children. and, robust centralization could also 
+threaten to turn integration policy into a homogenizing and ideological project, as opposed 
+to a quotidian, practical one. over-federalization could create pressure on lawmakers or 
+officials to define a concept of americanness to guide integration, which if done without 
+nuance or openness, could stifle policy flexibility, such as by prohibiting or discouraging 
+native language use in language education. 
+of course, some states will be well suited to the role of integration innovation  california 
+and new york leap immediately to mind. but other parts of the country will have neither the 
+political will nor the bureaucratic capacities required to develop true integration policies, 
+thus leaving integration to the vagaries of social life, or the private sector, which may or may 
+not be robust in any given jurisdiction. and states, including todays integration paragon 
+
+531
+
+enforcement, integration, and the future of immigration federalismof california,40 might themselves succumb to the over-ideologization of integration. but 
+this  possibility  of  variation    of  highs  and  lows  resulting from  political diversity and 
+different historical trajectories  is precisely why the federal governments role should be 
+as a facilitator rather than as the primary player. the federal government can coordinate a 
+national integration strategy that nonetheless permits, prioritizes, and harnesses local and 
+private sector leadership.
+third,  the  value  of  a  disaggregated  integration  strategy  should  not  be  understood  as 
+obviating the importance of a national concept of citizenship supported by federal legal 
+authority. the promise of state and local strategies for integration, particularly because of 
+local progressive resistance to enforcement, has given rise to an optimistic but romantic 
+notion of local citizenship (ramakrishnan and colbern 2015, 10-13); (spiro 2009, 568-71). 
+the concept is valuable as far as it goes, which is not as a substitute for national citizenship 
+or belonging, but as a bridge to it. the practices of citizenship are certainly grounded at 
+the local level, as the preceding discussion of integration policy presumes. the ultimate 
+expression of local citizenship  voting rights in municipal elections  may be attainable 
+in some jurisdictions (gilbert 2014), but it remains a limited form of participation, and 
+an  impossible  one  for  those  who  lack  even  legal  immigrations  status.  the  citizenship 
+status that can only be granted by the federal government, like legal status itself, will be 
+indispensable to the long-term stability that promotes investment in the community and 
+adaptation to the country. 
+
+iii. cities and states
+because  the  federal  government  controls  the  domain  of  immigration  law  and  policy, 
+discussions  of  immigration  federalism  naturally  become  framed  by  the  dichotomy  that 
+guides parts i and ii of this essay: the scope of federal law on the one hand and the limits 
+of state and local power on the other. the central intergovernmental relationship in the 
+formulation of enforcement policy, in particular, is of course the federal connection to the 
+sub-federal. legal federalism debates thus revolve around understanding the vast scope of 
+the ina and the extent to which the us code and the constitution leave localities with any 
+authority to shape enforcement policy other than through carefully controlled cooperation 
+with the federal government. 
+but as happens in federalism debates generally, a singular focus on relations between the 
+central government and the periphery obscures another vital intergovernmental dynamic 
+in  immigration  federalism    the  relationship  between  states  and  their  subdivisions, 
+especially their cities. the existence of thousands of local governments, and particularly 
+of large urban centers that transcend their geography, has significant implications for the 
+regulation of the populaces health, safety, and welfare. localities often operate according 
+
+40   at the state level, california has undergone a shift that ought to be studied and understood, as a potential 
+model for transformation. in the mid-1990s, it was the land of proposition 187 and the effort to exclude 
+unauthorized immigrants from whatever state and local institutions were possible. voters also enacted an 
+ideologically driven, counterproductive measure to prohibit the use of native language in english-language 
+instruction in the public schools. but today, the state has taken the lead in doing everything within its power to 
+provide security to unauthorized immigrants, both by resisting federal enforcement and providing affirmative 
+tools of integration, and it even appears to be rethinking the native language ban (suro 2015).
+
+532
+
+journal on migration and human securityto their own politics while overseeing the institutions most vital to immigrant integration, 
+such as schools and police forces. and the ideological diversity within states embodied in 
+local governments further complicates and enriches the national debates over contentious 
+issues that federalism helps structure (gerken 2014; bulman-pozen 2014).
+across  the  country,  staunchly  republican  states  and  their  erstwhile  blue  cities  sharply 
+diverge on some of the days most pressing socioeconomic concerns, including gun control 
+and gun rights, civil rights for the lgbtq community, and immigration enforcement. and, 
+of course, the dynamic works the other way, too, with democratic statehouses looking 
+for means of ensuring that local agents tow their line. these increasingly pitched battles 
+also reflect a more profound divergence in american life  between rural and exurban 
+communities on the one hand, whose interests are magnified and often protected at the state 
+level, and cities on the other, whose cosmopolitan ethos is driven by wealth, immigration, 
+and economic productivity. indeed, the rural-urban split cuts across the country and the 
+red and blue lines our national-level politics rely on to divide up the country. increasingly 
+sophisticated accounts of american federalism thus break down the blue and red boxes of 
+the states to study decentralization in all of its manifestations (gerken 2010; hills 2005). 
+the once ancillary field of local government law has become central to federalism theory, 
+if not constitutional law itself. 
+in  our  constitutional  system,  states  have  the  formal  power,  and  cities  are  essentially 
+creatures of state law. powerful and important cities can sometimes drive state policy by 
+virtue of their sheer size and economic might. but the divergence in world views between 
+many states and their cities is still leading the former to use their formal authority to enact 
+laws to preempt the latter. for progressive movements that find their firmest footing in 
+liberal  cities  within  conservative  states    think  houston, austin,  and  san antonio  in 
+texas, and raleigh-durham and charlotte in north carolina  state preemption of local 
+law represents a clear and present danger. and this dynamic matters a great deal generally, 
+too, because states themselves are internally complex. state preemption of local law can 
+succeed in flattening the ideological and policy diversity federalism produces. 
+immigration federalism has long been marked by this state-city tension (rodriguez 2008, 
+637-40). republican states have been responding for at least a decade to the noncooperation 
+movement by preempting local sanctuary laws. texas senate bill 4 (sb 4), enacted in may 
+of this year,41 builds on this practice, as do similar laws recently adopted in north carolina, 
+georgia, and alabama. texas sb 4 introduces formal legal devices meant to coerce local 
+police and governments into participating in federal immigration enforcement. sb 4 takes 
+the predictable step of expressly preempting local laws or policies that prohibit officials 
+from engaging or assisting in the enforcement of state and federal immigration laws, and 
+it requires that law enforcement agencies honor ice detainer requests. but the law goes a 
+novel step further and targets potentially noncompliant officials directly with legal jeopardy. 
+the law defines failure to honor detainer requests as a misdemeanor, enumerating fines as 
+high as $25,000 per offense (after a first offense). the law also creates a civil proceeding to 
+remove elected officials who violate the laws provisions.42
+
+41   tex. s.b.4, 85th leg., (2017). 
+42   the law does carve out a number of local institutions from its reach, including hospitals, peace officers 
+working at religious institutions, school districts, public health departments, community centers, or mental 
+health authorities. see sb 4, section 752.052, subsections (a)-(f).
+
+533
+
+enforcement, integration, and the future of immigration federalismas with the higher-level, federal-state debate, these sorts of laws can be analyzed legally or 
+as a matter of politics and policy. legally speaking, it is a familiar tenet of local government 
+law  that  cities  can  exercise  power  only  within  the  legal  frameworks  that  others  have 
+created for them (frug and barron 2006, 1). the us constitution does not protect cities 
+from  state  interference  in  the  way  it  protects  states  (and  its  subdivisions)  from  federal 
+commandeering  or  displacement.  the  commandeering  doctrine,  which  can  provide  a 
+bulwark for enforcement skeptics at the local level against the federal government, applies 
+when the federal government has dragooned states or localities into the implementation 
+or enforcement of federal law. the doctrine embodies the balance the constitution strikes 
+between  the  central  government  and  the  states.  but  the  principle  does  not  apply  when 
+the federal government is absent from the equation. to be sure, cities may have state law 
+claims against preemption statutes or other state measures that interfere with local policy 
+making  or  governing  structure,43  and  some  local  government  scholars  argue  that  cities 
+ought to have a place within the us constitutional firmament. but the basic principle that 
+localities amount to creatures of state law gives states wide-ranging coercive authority over 
+its subdivisions.
+in fact, there are strategic reasons to remain wary of devising structural claims to prevent 
+states  from  disabling  their  subdivisions,  for  the  same  reason  that  preemption  works  as 
+a  double-edged  sword  in  federal-state  relations.  fights  over  constitutional  structure 
+frequently if poorly mask deeper disagreements about policy. one could certainly take a 
+principled, across-the-board, localist position, on the theory that local policies are easiest 
+to change or best reflect our ideological diversity in its many manifestations. but it can be 
+risky to develop structural claims in highly charged settings such as immigration policy, 
+where those advancing the novel legal claims really have an underlying agenda. cities 
+(especially large ones) in the main tend to support the progressive agenda, especially when 
+it comes to immigration, because of their cosmopolitan and immigrant identities. but states 
+can also be enforcement skeptics. the california model discussed above reflects precisely 
+that, and the state legislature has relied on preemption as a tool to promotes its vision of 
+state integration policy.44
+but even though states have considerable power over their cities, they cannot regulate their 
+subdivisions in ways that would violate federal law or the us constitution, or require their 
+subdivisions to do what would otherwise be legally prohibited. based on this principle, in 
+confronting sb 4, a good lawyer would thus ask whether federal law or the constitution 
+prohibits anything about the texas law. 
+because the ina defines and effectively captures the field of immigration enforcement, 
+there is always the possibility that a state enforcement law will run into conflict with it. but 
+
+43   see, e.g., state building and construction trades council of cal. v. city of vista, 54 cal.4th 547, 555-
+557 (s. ct. cal. 2012) (striking down application of state prevailing wage law to contracts entered into by 
+local jurisdiction and discussing home rule doctrine that permits cities to govern themselves free of state 
+legislative intrusion, as to those matters deemed municipal affairs but does not insulate them from state laws 
+that address matters of statewide concern).
+44   the state legislature enacted a law preempting localities from adopting housing ordinances that penalized 
+landlords for renting to unauthorized immigrants, responding to the emergence in the late 2000s of these sorts 
+of ordinances at the local level in various parts of the country. see 2007 cal. assem. bill 976, 2007-2008 
+reg. sess. (2007). 
+
+534
+
+journal on migration and human securitybecause federal law contemplates localities offering their cooperation with federal law, a 
+state law that requires local entities to respond to detainer requests, which are themselves 
+requests  for  cooperation,  seems  to  re-enforce  the  ina.  perhaps  a  hypothetical  state 
+requirement that localities enter into 287(g) agreements would create tension with an ina 
+that contemplates leaving that choice to the local sheriffs and police departments, on the 
+theory that law enforcement officials are the appropriate local entities to decide whether to 
+actively enforce immigration law. but because local authority stems from state authority, 
+it would be hard to muster a claim that the state cannot stand in for its own subdivision in 
+making that choice, in the absence of a state law basis to ground that claim.
+constitutional rights provisions might also limit certain types of state preemption laws, 
+including sb 4. in the case of the anti-anti-cooperation laws, the most viable claim would 
+be the fourth amendment one, which local enforcement skeptics could use against either 
+the federal or the state government. to the extent honoring a federal detainer request would 
+violate the fourth amendment, the state cannot require its police departments to violate the 
+constitution. the limit of this approach is that it makes challenging state laws facially, or 
+in their entirety, difficult. fourth amendment claims tend to be fact-specific. but perhaps 
+the very complexity of sorting out which detainers can be honored and which risk fourth 
+amendment liability provides a strong legal policy argument against the adoption of a 
+sweeping pro-detainer law, to insure localities from legal liability and act as a prophylactic 
+against predictable fourth amendment violations. 
+slightly  further  afield,  equal  protection  claims  against  anti-sanctuary  laws  might  be 
+devised, to the extent local noncooperation laws can be framed as attempts to insulate 
+noncitizens or particular racial groups from animus and discrimination. preemption laws 
+that withdraw such protections might be manifestations of animus against noncitizens.45 
+unlike the fourth amendment theory, this legal critique of the likes of sb 4 has not been 
+tested to date; the primary purpose of most anti-detainer laws is to promote good policing, 
+not to prevent discrimination, and states like texas could well justify their own preemption 
+laws by pointing to the importance of enforcing federal immigration law. but regardless of 
+its likelihood of success, this approach to legal strategy at least has the benefit of expressing 
+substantive reasons for opposing the state law.
+the limits of these legal claims against state laws like sb 4 underscore the surpassing 
+importance of a feature of immigration federalism also relevant in the federal-local debate 
+ the need to build a politics around these issues. litigation can certainly be a part of 
+that strategy. even unsuccessful legal arguments can play a vital role in deepening these 
+political claims, and lawsuits can help write a narrative about immigration, policing, and 
+the local community to counter the states. by drawing attention through litigation to the 
+sheer breadth of the states attempt to control its localities, litigation can draw political 
+support and other resources to a fight worth having as part of the broader immigration 
+enforcement debate. but cities are unlikely to be able to protect themselves, or advance the 
+interests of their noncitizen residents, with legal arguments alone.
+
+45   romer v. evans, 517 u.s. 620 (1996) (striking down amendment to colorado constitution that prohibited 
+localities from adopting nondiscrimination ordinances to protect gays and lesbians, on the ground that the 
+amendment reflected bias or animus on the basis of sexual orientation, in violation of the equal protection 
+clause).
+
+535
+
+enforcement, integration, and the future of immigration federalismanother legal political-strategy would have the federal government come in on the side of 
+localities in some way. some scholars have raised the prospect that congress or the federal 
+government might take steps to protect cities from state preemption through congressional 
+preemption (davidson 2007), or at least give states incentives to permit their cities room 
+for maneuver, including by providing funding for integration programs (rodriguez 2008, 
+637)  long a source of concern for states with large immigrant populations. but whether a 
+federal-local partnership is either viable or a good idea depends less on theories of optimal 
+intergovernmental  arrangements  than  on  ones  views  about  the  politics  of  immigrant 
+integration.
+the state-local divide ultimately helps highlight how fundamentally contingent political 
+structure questions can be. the intergovernmental relationship we might prefer will depend 
+both on our substantive immigration preference and on the policies each level of government 
+might pursue at any given moment in time. but regardless of substantive preferences, the 
+very fact that intergovernmentalism encompasses a multiplicity of arrangements means 
+that a federalism strategy must be attentive to the full range of intergovernmental relations. 
+laws  such  as  sb  4  re-enforce  a  vigorous  enforcement  agenda  and  help  quash  locally 
+supported  movements  toward  humane  enforcement,  or  even  non-enforcement. as  with 
+integration policy, an exclusive focus on what emanates from the center therefore obscures 
+many of the sites in which our immigration policies and the corresponding politics take 
+shape.
+
+conclusion
+despite its control over the terms of immigration law and the vast administrative apparatus 
+created to enforce it, the federal government cannot escape the push and pull dynamics 
+generated by federalism. in an arena as ideologically contested as immigration policy, it 
+should come as no surprise that our federal system will produce divergent policies and 
+regular challenges to whatever might be the federal governments reigning conception of 
+immigration policy. the intergovernmental disputes and dependencies that can arise in a 
+federal system are most apparent and complex when it comes to enforcement policy and the 
+federal governments relationship to states, cities, and their law enforcement bureaucracies. 
+but they are also increasingly salient in the relationships between states and their cities, 
+which are often at odds about the place of immigrants in our societies. to a less pointed 
+extent, federalism also structures the processes of immigrant integration, separate and apart 
+from debates over how vigorously to pursue deportation, though the latter intimately affects 
+the former, too. the intractability of the immigration policy questions that animate these 
+federalism  dynamics  is  perhaps  the  best  argument  for  sustaining  an  intergovernmental 
+framework  for  immigration,  whether  enforcement  or  integration  is  at  stake.  and  yet, 
+perhaps  the  most  contested  matter  within  immigration  federalism    the  proper  social 
+status of those without legal status  can only be truly resolved through decisive federal 
+action. whether our immigration federalism and the legal and policy diversity it entails 
+can eventually prompt a humane and lasting resolution to that question remains to be seen.
+
+536
+
+journal on migration and human securityreferences
+
+archibold, randal c. 2010. arizona enacts stringent law on immigration. new york 
+times, april 23. http://www.nytimes.com/2010/04/24/us/politics/24immig.html?_
+r=0.
+
+bulman-pozen, jessica. 2014. partisan federalism. harvard law review 127(4): 1077-
+
+46.
+
+coonan,  terry.  2013.  when  perception  is  reality:  287(g)    a  solution  in  search 
+of  a  problem.  criminology  and  public  policy  12(2):  283-94.  https://doi.
+org/10.1111/1745-9133.12036. 
+
+cox, adam b., and thomas miles. 2017. legitimacy and cooperation: will immigrants 
+cooperate with local police who enforce federal immigration law? new york 
+university working paper. new york: new york university school of law. https://
+papers.ssrn.com/sol3/papers.cfm?abstract_id=2658265.
+
+cox,  adam  b.,  and  cristina  rodriguez.  2015.  the  president  and  immigration  law 
+
+redux. yale law journal 125(6): 104-225.
+
+davidson, nestor. 2007. cooperative localism: federal-local collaboration in an era of 
+
+state sovereignty. virginia law review 93(4): 960-1034.
+
+de graauw, els, and irene bloemraad. 2017. working together: building successful policy 
+and program partnerships for immigrant integration. journal on migration and 
+human security 5(1): 105-23. https://doi.org/10.14240/jmhs.v5i1.76. 
+
+dhs  (us  department  of  homeland  security).  2012.  guidance  on  state  and  local 
+governments  assistance  in  immigration  enforcement  and  related  matters. 
+washington,  dc:  dhs.    https://www.dhs.gov/publication/guidance-state-and-
+local-governments-assistance-immigration-enforcement-and-related. 
+
+fenton,  justin.  2017.  baltimore  prosecutors  told  to  consider  consequences  for 
+prosecuting  illegal  immigrants  for  minor  crimes.  baltimore  sun,  april  28. 
+http://www.baltimoresun.com/news/maryland/crime/bs-md-ci-states-attorney-
+immigrants-20170428-story.html.
+
+frug, gerald, and david barron. 2006. international local government law. the urban 
+
+lawyer 38(1): 1-62.
+
+gao (us government accountability office). 2011. u.s. citizenship and immigration 
+services could better assess its grant program. washington, dc: gao. http://
+www.gao.gov/products/gao-12-274.
+
+gerken, heather k. 2010. federalism all the way down. harvard law review 124(1): 
+
+1-74.
+
+.  2014.  federalism  as  the  new  nationalism: an  overview.  yale  law  journal 
+
+123(6): 1626-2133.
+
+537
+
+enforcement, integration, and the future of immigration federalismgilbert,  lauren.  2014.  reconceiving  citizenship:  noncitizen  voting  in  new  york 
+city  municipal  elections  as  a  case  study  in  immigrant  integration  and  local 
+governance. journal on migration and human security 2(3): 223-50. https://doi.
+org/10.14240/jmhs.v2i3.33.
+
+gulasekaram, pratheepan, and karthick ramakrishnan. 2013. immigration federalism: a 
+
+reappraisal. new york university law review 88(6): 2074-145.
+
+guttentag,  lucas.  2013.  the  forgotten  equality  norm  in  immigration  preemption: 
+discrimination,  harassment,  and  the  civil  rights act  of  1870.  duke  journal 
+of  constitutional  law  &  public  policy  8(2):  1-52.  https://doi.org/10.2139/
+ssrn.2339424. 
+
+henderson,  tim.  2014.  more  jurisdictions  defying  feds  on  deporting  immigrants. 
+philadelphia: the  pew  charitable trusts.  http://www.pewtrusts.org/en/research-
+and-analysis/blogs/stateline/2014/10/31/more-jurisdictions-defying-feds-on-
+deporting-immigrants.
+
+hills, roderick. 2005. is federalism good for localism? the localist case for federal 
+
+regimes. journal of law & politics 21: 187-221.
+
+horowitz, michael e. 2016. department of justice referral of allegations of potential 
+violations  of  8  u.s.c.    1373  by  grant  recipients.  memorandum,  may  31. 
+washington, dc: doj. https://oig.justice.gov/reports/2016/1607.pdf.
+
+ice  (us  immigration  and  customs  enforcement).  2014.  delegation  of  immigration 
+authority  section  287(g)  immigration  and  nationality act.  washington,  dc: 
+ice. https://www.ice.gov/factsheets/287g. 
+
+johnson, jeh. 2014. secure communities. memorandum, november 20. washington, 
+dc:  dhs.  https://www.dhs.gov/sites/default/files/publications/14_1120_memo_
+secure_communities.pdf.
+
+kalhan, anil. 2013. immigration policing and federalism through the lens of technology, 
+
+surveillance, and privacy. ohio state law journal 74(6): 1105-1165.
+
+kelly, john. 2017. enforcement of the immigration laws to serve the national interest. 
+memorandum,  february  20.  washington,  dc:  dhs.  https://www.dhs.gov/sites/
+default/files/publications/17_0220_s1_enforcement-of-the-immigration-laws-
+to-serve-the-national-interest.pdf.
+
+martin, david a. 2012. reading arizona. virginia law review, in brief 98(1): 112-20. 
+
+https://ssrn.com/abstract=2111510. 
+
+meissner, doris, and donald m. kerwin. 2009. dhs and immigration: taking stock and 
+correcting  course.  washington,  dc:  migration  policy  institute.  http://www.
+migrationpolicy.org/research/dhs-and-immigration-taking-stock-and-correcting-
+course.
+
+538
+
+journal on migration and human securitymotomura, hiroshi. 2011. the discretion that matters: federal immigration enforcement, 
+state and local arrests, and the civil-criminal line. ucla law review 58(6): 
+1819-58.
+
+ncsl (national conference of state legislatures). 2015. report on 2014 state immigration 
+laws. washington, dc: ncsl. http://www.ncsl.org/research/immigration/2014-
+immigration-report.aspx.
+
+. 2016. report on 2015 state immigration laws. washington, dc: ncsl. http://
+www.ncsl.org/research/immigration/report-on-2015-state-immigration-laws.aspx.
+pew charitable trusts. 2014. immigration and legalization: roles and responsibilities 
+of  states  and  localities.  philadelphia:  pew  charitable  trusts.  http://
+www.pewtrusts.org/~/media/legacy/uploadedfiles/pcs_assets/2014/
+immigrationandlegalizationreport2014pdf.pdf. 
+
+ramakrishnan, s. karthick, and allan colbern. 2015. the california package: immigrant 
+integration  and  the  evolving  nature  of  state  citizenship.  policy  matters  6(3): 
+1-19.  http://policymatters.ucr.edu/wp-content/uploads/2015/06/pmatters-vol6-3-
+state-citizenship.pdf.
+
+rodriguez, cristina. 2008. the significance of the local in immigration regulation. 
+
+michigan law review 106(4): 567-642.
+
+. 2011. the integrated regime of immigration regulation. in writing immigration: 
+scholars  and  journalists  in  dialogue,  edited  by  roberto  suro  and  marcelo 
+suarez-orozco, 44-61. berkeley, ca: university of california press. https://doi.
+org/10.1525/california/9780520267176.003.0003.  
+
+. 2015. toward dtente in immigration federalism. journal of law & politics 
+
+30(3): 505-26.
+
+rosenblum, marc, and doris meissner. 2014. the deportation dilemma: reconciling 
+tough and humane enforcement. washington, dc: migration policy institute. 
+http://www.migrationpolicy.org/research/deportation-dilemma-reconciling-tough-
+humane-enforcement.
+
+salyer, lucy. 1995. law as harsh as tigers: chinese immigrants and the shaping of modern 
+american immigration law. chapel hill, nc: university of north carolina press.
+schuck,  peter.  2013.  immigrant  criminals  in  overcrowded  prisons:  rethinking  an 
+
+anachronistic policy. georgetown immigration law journal 27: 597-661.
+
+spiro, peter. 2009. formalizing local citizenship. fordham urban law journal 37(2): 
+
+559-72. 
+
+suro, roberto. 2015. california dreaming: the new dynamism in immigration federalism 
+and opportunities for inclusion on a variegated landscape. journal on migration 
+and human security 3(1): 1-25. https://doi.org/10.14240/jmhs.v3i1.41. 
+
+539
+
+enforcement, integration, and the future of immigration federalismtareen,  sophia.  gov.  rauners  immigration  message  leaves  advocates  perplexed. 
+chicago tribune, march 22. http://www.chicagotribune.com/news/local/breaking/
+chi-bruce-rauner-immigration-illinois-20150322-story.html.
+
+vock, daniel c. 2013. capping string of victories for immigrants, brown signs california 
+trust act. philadelphia: the pew charitable trusts. http://www.pewtrusts.org/en/
+research-and-analysis/blogs/stateline/2013/10/07/capping-string-of-victories-for-
+immigrants-brown-signs-california-trust-act.
+
+540
+
+journal on migration and human security

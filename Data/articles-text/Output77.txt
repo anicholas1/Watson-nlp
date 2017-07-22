@@ -1,0 +1,3854 @@
+the us labor standards 
+enforcement system and 
+low-wage immigrants: 
+recommendations for legislative 
+and administrative reform
+
+donald kerwin
+center for migration studies 
+
+executive summary
+low-wage  immigrants  in  the  united  states,  particularly  the  8  million 
+unauthorized workers, suffer from widespread labor standards violations.  
+their  protection  represents  a  singular  challenge  for  modestly-resourced 
+federal and state regulators, particularly in an era of record immigration 
+enforcement.  many  employers  hire  the  unauthorized,  knowingly  or 
+unknowingly, because they cannot attract sufficient numbers of authorized 
+workers. an enduring minority, however, prefer to employ unauthorized 
+workers in order to suppress wages and working conditions and to gain an 
+advantage over their competitors. their business model depends on the 
+exploitation of workers who are less likely to complain, organize or pursue 
+other remedies for mistreatment. exacerbating matters, the unauthorized 
+work disproportionately in jobs to which certain labor standards do not 
+apply, and they belong to labor unions at lower rates than the us workforce 
+as a whole (schmitt 2010). employers, in turn, face intense competition and 
+pressure to cut costs.  in addition, intensive immigration enforcement can 
+make employees more vulnerable to retaliation for exercising their rights 
+and less likely to challenge abuses (cho and smith 2013).
+this paper analyzes labor standards enforcement in light of the challenges 
+posed by bad-faith employers, the historically high population of low-wage 
+immigrant laborers (particularly the unauthorized), and record spending 
+on immigration enforcement. it draws from a comprehensive report titled 
+labor  standards  enforcement  and  low-wage  immigrants:  creating  an 
+effective  enforcement  system  (kerwin  and  mccabe  2011).  the  paper 
+identifies gaps in protection in the legal and regulatory labor standards 
+framework, with a particular focus on the us department of labors (dols) 
+wage and hour division (whd) which enforces the fair labor standards 
+
+32
+
+ 2013 by the center for migration studies of new york. all rights reserved.
+
+jmhs volume 1 number 1 (2013): 32-57
+
+act (flsa).1 it argues that labor standards should be strengthened and 
+enforcement resources bolstered. however, it also recognizes that federal 
+and state agencies will never be able to investigate, penalize, or monitor 
+a significant share of the employers subject to their jurisdictions. thus, 
+it  concludes  that  the  overall  goal  of  these  agencies  should  be  to  deter 
+violations and to maximize compliance with the law.
+to achieve these goals, regulators must be able to identify industries, sectors 
+and  firms  with  vulnerable  workers;  map  the  structures,  relationships, 
+and  the  distinct  incentives  of  employers  within  these  industries;  and 
+continuously  evaluate  the  effectiveness  of  their  enforcement  strategies. 
+whd, in particular, needs to establish robust partnerships with other federal 
+and state enforcement agencies, as well as with businesses, labor unions, 
+and  community-based  organizations  (cbos)  that  enjoy  direct  access  to 
+low-wage immigrant workers. status-blind enforcement and a coordinated 
+response to the misclassification of employees as independent contractors 
+must also be key priorities. in addition, a large-scale legalization program 
+would strengthen the ability of immigrant workers to exercise and defend 
+their rights. 
+
+the legal and regulatory framework 
+
+federal standards and enforcement resources
+
+whd has responsibility for enforcing core federal labor laws, which include the flsa, 
+migrant and seasonal agricultural worker protection act (mspa), family and medical 
+leave act (fmla), davis bacon and related acts (dbra), and certain temporary worker 
+programs. these laws cover more than 135 million private, state, and local government 
+workers in more than 7.3 million business establishments (us dol 2011). yet despite the 
+scope of its responsibilities and staffing increases in recent years, whd still employs only 
+about 1,100 investigators (us dol 2013).  
+the  flsa  sets  standards  for  national  minimum  wage,  overtime  pay,  recordkeeping, 
+and  child  labor.2  it  exempts  certain  domestic  workers,  farmworkers,  and  seasonal  and 
+recreational  workers  from  its  minimum  wage  and  overtime  requirements,  as  well  as 
+additional workers from its overtime rules.3 in general, the flsa allows children to work 
+at younger ages in agricultural than in other jobs.4 the flsas remedies for minimum 
+wage and overtime violations include back pay, liquidated damages equal to the wages 
+owed, and civil monetary penalties.5 repeated or willful violations of minimum wage and 
+overtime  requirements  carry  fines  up  to  $1,100  per  violation.6 the  penalties  for  illegal 
+termination or discrimination against employees who bring complaints or who institute 
+suits over flsa violations include reinstatement, promotion, payment of lost wages, and 
+
+1  fair labor standards act, pub. l. no. 75-718, 52 stat. 1060 (june 25, 1938).
+2  29 usc  201 et seq. 
+3  29 usc  213(a)(15) and 213(b)(21).
+4  29 usc  213(c).
+5  29 usc  216(b).  
+6  29 usc  216(e)(2).
+
+33
+
+us labor standards enforcementliquidated damages (equal to lost wages).7 willful violations carry criminal penalties of  
+up to $10,000 and imprisonment of up to six months.8 us dol can also seek to restrain 
+the transport, delivery, and sale of hot goods, which are goods produced in violation of 
+the law.9
+many  commentators  contend  that  the  flsas  remedial  sanctions  and  penalties  do  not 
+sufficiently  deter  violations  by  bad-faith  employers,  particularly  when  weighed  against 
+the limited chances of being caught or, if caught, of having to pay the full penalty assessed 
+(smith  and  ruckelshaus  2007).   an  analysis  of  whds  wage  and  hour  investigative 
+support and reporting database (whisard) found that dol collected only 61 percent 
+of the civil monetary penalties that it assessed between 1998 and 2008 (weil 2010, 14). 
+others criticize whd and the dols office of the solicitor for failing to seek all penalties 
+available under the law (just pay working group 2010, 10). in addition, the flsas two-
+year statute of limitations for recovery of wages (three years in the case of willful violations) 
+runs from the time of the employers failure to pay the proper wages and not from the filing 
+of the complaint.10 as a result, investigative delays can threaten recovery of back wages 
+and liquidated damages (kutz and meyer 2009, 22-23). 
+the occupational safety and health act of 1970 (osh act) requires employers to comply 
+with safety and health standards, warn of potential hazards, and provide appropriate safety 
+equipment.11 osh act also allows workers to request workplace inspections and it protects 
+them from discrimination for filing complaints or instituting legal actions.12 employers 
+must address violations within a reasonable time and can be assessed financial penalties 
+and criminal sanctions for violating the law.13 
+osh act applies to businesses affecting interstate commerce,14 but it does not apply to 
+domestic  workers.15  in  addition,  a  longstanding  rider  to  us  dols  appropriations  bill 
+has  prohibited  enforcement  of  osh acts  safety  and  health  standards  against  farming 
+operations that do not have labor camps and have ten or fewer employees. except on the 
+basis of complaints, the rider also prohibits osh acts safety (not health) standards from 
+being enforced against employers in an extensive list of low-hazard industries with ten 
+or fewer employees (osha 2011).
+osh  act  covers  an  estimated  114  million  workers  at  7.5  million  private  business 
+establishments  and  200,000  construction  work  sites  (us  dol  2011).  like  whd,  the 
+occupational  safety  and  health administration  (osha)  can  investigate  only  a  fraction 
+of  the  employers  under  its  jurisdiction,  even  in  the  most  dangerous  industries  (smith 
+and  ruckelshaus  2007,  587-588).  osha  has  also  been  criticized  for  levying  fines  that 
+do not approximate what it would cost employers to comply with the law, thus creating  
+
+7  29 usc  216(b). 
+8  29 usc 216(a).
+9  29 usc  215(a) and 217. 
+10  29 usc  255(a).
+11  29 usc  654 and 655(b)(7).
+12  29 usc  657(f)(1), 660(c)(1).
+13  29 usc  658(a), 659(a), 666. 
+14  29 usc  652(5).
+15  29 cfr  1975.6 (2009).
+
+34
+
+journal on migration and human securitya disincentive to compliance (weil 2007, 145).
+the  national  labor  relations  act  (nlra)  safeguards  the  right  to  self-organization, 
+to form, join, or assist labor organizations, to bargain collectively  and to engage in 
+other concerted activities for the purpose of collective bargaining or other mutual aid or 
+protection.16  the national labor relations board (nlrb), an independent government 
+agency, administers the nlra. the nlrb investigates potential unfair labor practices and 
+administers elections to determine whether groups of employees want union representation.    
+the  nlra  does  not  cover  agricultural  workers,  certain  domestic  workers,  and  other 
+categories of workers.17  the authors of the wagner act of 1935 (the original nlra) viewed 
+agricultural workers as the hired hands of small family farmers and domestic workers 
+as quasi-family members to their employers (human rights watch 2000, 247-250). as a 
+result, they deemed these workers as ill-suited for coverage under a law designed to curb 
+industrial strife and unrest. however, in the current era of large-scale corporate farming 
+and expanded demand for in-home child and elder care, these assumptions may no longer 
+be valid.
+in 2002, the us government accountability office (gao) estimated that three-quarters 
+of the civilian workforce enjoyed collective bargaining rights under federal, state, or local 
+laws. this left an estimated 32 million workers without such rights, among them 10.2 million 
+managers and supervisors; 8.5 million independent contractors; 6.9 million federal, state, 
+and local employees; 5.5 million small-business employees; 532,000 domestic workers; 
+and  357,000  agricultural  workers  (gao  2002,  10).  low-wage  immigrants,  including 
+the unauthorized, work at high rates in jobs within these exempt categories (passel and 
+cohn 2009, 32).18  overall, immigrants belong to labor unions at lower rates than the us 
+workforce as a whole (schmitt 2010).
+the  nlrb  can  order  an  employer  to  discontinue  an  unlawful  practice,  to  reinstate  an 
+employee,  and  to  pay  back  wages  and  benefits.19  critics  argue  that  these  non-punitive 
+sanctions  lack  the  teeth  to  deter  anti-organizing  efforts.  in  addition,  the  nlras  most 
+substantial penalty, payment of back wages, is not available for unauthorized workers.20 
+nor can the unauthorized be reinstated.  like whd and osha, nlrb staffing levels fell 
+significantly between 2001 and 2008, but increased after 2009 (kerwin and mccabe 2011).
+
+state enforcement
+federal  law  undergirds  the  nations  system  of  labor  protection.  however,  some  states 
+devote substantial resources to labor standards enforcement, possess extensive expertise 
+in the area, and target industries and practices that are also federal priorities. many states 
+have minimum wage or child labor laws that exceed federal standards and view themselves 
+as the primary enforcer of claims under the law (lurie 2010, 10). some states cover 
+
+16  29 usc  151-169.
+17  29 usc  152(3).
+18  the unauthorized represent 23 percent of private household workers and 20 percent of crop-production 
+workers.
+19  29 usc  160(c).
+20  hoffman plastic compounds, inc. v. nlrb, 535 u.s. 137, 122 s. ct. 1275 (2002). 
+
+35
+
+us labor standards enforcementemployees and situations not protected by the flsa (2-3).  for example, there is no federal 
+counterpart  to  state  wage  payment  or  payday  laws,  which  require  that  employees 
+be  paid  on  regularly  scheduled  days  (6-7,  26-27).  in  addition,  many  state  enforcement 
+agencies enjoy the authority to compel payment of back wages, liquidated damages, and 
+civil monetary penalties (12-14). by contrast, whd must rely on the dol office of the 
+solicitor to pursue cases in court.
+in recent years, the role of state labor enforcement agencies has been highlighted in reports 
+and surveys by the brennan center for justice (bernhardt, mcgrath, and defilippis 2007), 
+policy matters ohio (schiller and decarlo 2010), the nelson a. rockefeller institute of 
+government at the state university of new york (lurie 2010), and the migration policy 
+institute (mpi) (kerwin and mccabe 2011).  
+mpis report revealed a range of state funding and investigative staffing levels. states with 
+laws that are stricter than or parallel to federal standards often devote substantial resources 
+to enforcing these laws. by contrast, states with weaker (than federal) labor laws have little 
+reason to enforce their laws and employees in these states typically seek redress under 
+federal laws.21 according to whd, 17 states and the district of columbia have minimum 
+wage rates higher than the federal rate, 24 have rates that equal the federal rate, four have 
+lower rates, and five have not established a minimum wage requirement. thirty-two states 
+and washington, dc, require premium pay for overtime work (lurie 2010, 3).
+most states devote modest resources to labor standards enforcement. of the 13 respondents 
+to mpis survey, two states reported that they did not enforce minimum wage or overtime 
+laws.  the georgia department of labor reported enforcing only child labor standards, 
+while the florida department of business and professional regulation enforces only child 
+and farm labor standards.  the mississippi department of employment security reported 
+that  it  provided  job  training  and  business  services,  but  did  not  enforce  labor  standards 
+(mississippi  department  of  employment  security,  n.d.;  interstate  labor  standards 
+association, n.d.).  georgia and texas provide little or no enforcement by any [state] 
+agency but offer a private right of action for labor standards violations (lurie 2010, 4-6).
+however, states collectively employ nearly as many investigators as whd (schiller and 
+decarlo 2010, 4). the 43 respondents to the policy matters ohio survey employed 659.5 
+labor  standards  investigators  (2-4). the  18  state  agencies  surveyed  by the  rockefeller 
+institute employed 405 investigators (lurie 2010, 18). twenty-seven states also administer 
+and enforce health and safety standards under plans approved and monitored by osha.  
+the  safety  and  health  standards  of  state  plans  must  equal  or  exceed  osha  standards 
+(osha, n.d.). in total, these states employ 1,331 investigators, the great majority of them 
+safety investigators (kerwin and mccabe 2011, 55).
+the brennan center studied 13 industry clusters in new york city. its report highlighted 
+enforcement  challenges  even  in  a  community  with  comparatively  strong  labor  laws, 
+established task forces devoted to particular industries and high union density (bernhardt, 
+mcgrath,  and  defilippis  2007,  36). at  the  time,  roughly  100  of  the  new  york  labor 
+
+21  some employees may only be able to seek redress under state laws as, for example, when a state statute 
+of limitations for obtaining back wages (such as in florida) is longer than the federal statute of limitations
+even though state minimum wage or other provisions are weaker than federal laws.  
+
+36
+
+journal on migration and human securityinvestigators  covered  approximately  500,000  workplaces  (32).  the  report  documented 
+widespread  minimum  wage,  overtime,  osha,  and  workers  compensation  violations 
+against unauthorized and authorized immigrants (36).
+although certain workers (like the unauthorized) are less likely to file complaints than 
+others, states overwhelmingly rely on complaints to initiate investigations (lurie 2010, 
+8, 25). by way of contrast, california, new york, new jersey, and connecticut engage 
+in proactive, strategic enforcement. in particular, they target industries with a history 
+of  violations,  inspect  firms  within  targeted  industries,  conduct  sweeps  of  targeted 
+neighborhoods  and  employers,  partner  with  community  groups,  and  participate  in  task 
+forces devoted to particular industry sectors (9). 
+
+lessons from past administrations
+to be effective, a labor standards enforcement system should incorporate lessons learned 
+from past enforcement programs and strategies. to that end, this section examines the distinct 
+enforcement philosophies and strategies of the clinton, bush and obama administrations.  
+under the clinton administration (1993 to 2001), whd attempted to shift its strategic focus 
+away from complaint-based investigations and toward industries with the most pronounced 
+compliance problems. complaint-based enforcement strategies do not adequately cover 
+workers who feel vulnerable to exploitation (weil and pyles 2005, 91), including those 
+without immigration status, union representation, knowledge of their rights, or job security 
+(weil 2010, 76). whd reasoned that pursuing individual claims for wages that should have 
+been paid in the first instance did not sufficiently deter violations or otherwise increase 
+compliance. it relied upon enforcement data and historical information from osha, ins, 
+state agencies, and other sources to target industries that:
+
+  employed high concentrations of low-wage workers and substantial numbers of 
+
+immigrant workers (legal and unauthorized) who were unlikely to complain about 
+violations;
+
+  were undergoing rapid growth or contraction in a changing, often global 
+
+marketplace; and 
+
+  included prominent corporations that could help to effect compliance throughout 
+
+their supply chains. (us dol 2001, 6)
+
+the  garment  manufacturing,  health  care,  and  agriculture  industries  met  these  criteria 
+nationally, as did several locally targeted industry sectors (us dol 2001, 7, 8). during 
+inspections, whd surveyed randomly selected establishments within targeted industries 
+and  industry  sectors.  this  allowed  it  to  establish  baseline  information  on  patterns  of 
+noncompliance. as part of a multi-faceted strategy, whd educated consumers, workers, 
+and contractors; conducted investigations; imposed civil sanctions, including back wages, 
+liquidated  damages,  and  the  return  of  gains  realized  from  the  sale  of  goods  produced 
+in  violation  of  the  flsa;  referred  cases  for  criminal  prosecution;  entered  compliance 
+agreements with multi-establishment and lead employers; established strike forces in select 
+low-wage  industries;  and  intensively  monitored  targeted  employers  by  reviewing  their 
+payroll records and time cards, interviewing employees, recommending corrective action, 
+
+37
+
+us labor standards enforcementand making unannounced visits (us dol 2001, 11-12).
+subsequent surveys, typically two or three years later, measured changes in compliance 
+levels. although premised on a long-term, unflagging commitment to changing behavior 
+in select industries, whd measured its success over a relatively short period.  this may 
+explain, in part, why compliance rates did not uniformly or steadily improve in the targeted 
+industries and sectors during these years (us dol 2001, 36).  additionally, the studies may 
+have failed to account for external factors, such as the penetration of imports or increased 
+out-sourcing. whd attributed what it viewed as disappointing results in us garment 
+centers to competition by offshore manufacturers, as well as to pricing and consolidation 
+by apparel retailers (14).
+during  this  era,  whd  developed  an  innovative  compliance  strategy  of  pressuring 
+manufacturers and their suppliers by embargoing (preventing the delivery) of hot cargo 
+goods produced in violation of the flsa (weil 2007, 140-142). under this initiative, whd 
+required manufacturers to develop compliance programs with subcontractors, which led to 
+decreases in wage-and-hour and other violations (uscir 1993a).  
+an  analysis  of  data  collected  through  whd  surveys  of  the  southern  california  (1998 
+and 2000) and new york (1999 and 2001) garment industries confirmed that intensive 
+monitoring  increased  overall  compliance  with  minimum  wage  laws,  and  led  to  fewer 
+violations  and  less  severe  violations  per  worker  (us  dol  2001,  13-15).  whd  also 
+found that compliance was higher in firms that paid workers through their regular payroll 
+systems than in those that did not; compliance was lower among new and small businesses; 
+compliance improved when contractors could renegotiate prices with manufacturers when 
+circumstances changed; and top-down investigations of retailers effectively engaged them 
+in efforts to address problems of noncompliance in their supply chains (14-15).
+whds work during this era confirmed the importance of:
+ rigorously identifying problem industries and sectors;
+
+ 
+  pursuing multi-pronged education and enforcement strategies (in partnership with 
+
+others), with severe penalties for repeat or egregious offenders;
+
+  assessing the effectiveness of strategies, and making adjustments in response;
+  exerting pressure on manufacturers, retailers, multi-establishment businesses, and 
+
+brand-name agencies in order to enlist them in monitoring their contractors; and
+
+  adopting a sustained, multi-year approach to ensuring compliance in industries with a 
+
+long history of labor violations.   
+
+under  the  george  w.  bush  administration  (2001  to  2009),  whd  prioritized  outreach, 
+educational activities, and compliance assistance, primarily to employer groups (lasowski 
+2008). during this period, the number of establishments subject to whds jurisdiction 
+grew  significantly  (weil  2007,  6;  bernhardt  and  mcgrath  2005).22 yet  its  investigative 
+
+22  between 1975 and 2004, the number of workers within whds jurisdiction grew 55 percent, the number 
+of business establishments covered by whd increased by 112 percent, and the number of whd investigators 
+decreased by 14 percent.
+
+38
+
+journal on migration and human securitystaff fell from 945 to 731. staffing at us dols office of the solicitor also continued a 
+long decline, from 786 employees in fy 1992 to 590 in fy 2009, as did the number of 
+flsa  law  suits  filed  by  the  solicitors  office  (weil  2007,  90).23   the  gao  issued  two 
+sharply critical reports on whds planning, prioritization, and investigative work during 
+this period (lasowski 2008; kutz and meyer 2009).
+in 2004, however, whd reported that it had improved compliance in the garment, long-
+term  health  care  industry  and  agricultural  commodities  industries  (us  dol  2004,  80-
+81). it attributed these results to  compliance assistance in the form of fact sheets and 
+worker rights cards, in-person consultations with employers, and compliance agreements 
+with nursing homes and farm bureaus. it also successfully monitored garment industry 
+employers  through  unannounced  visits,  review  of  payroll  records  and  timecards,  and 
+interviews with employees.  
+under the obama administration, whd staffing has increased: us dol plans to increase 
+the number of whd investigators to 1,132 by the end of fy 2014 (us dol 2013). in 
+addition, whd has revisited several strategies from the clinton era.  in particular, it has 
+sought to identify problem industries and practices through:
+
+  current population survey data on industries that pay sub-minimum wages and 
+
+require more than 40 hours of work per week (i.e. potential overtime pay violators); 
+
+  federal and state complaint databases;
+  whd-commissioned and academic studies on industries and business clusters 
+
+thought to violate labor standards at high rates; 
+
+  investigator reports; 
+  partnerships with labor unions, consular offices, worker centers, and other entities 
+
+with direct access to low-wage workers; and
+
+  state datasets, commissioned reports and other non-traditional information sources.  
+
+whd  has  also  prioritized  analysis  of  statistically  reliable  samples  of  firms  in  targeted 
+industries to determine the extent and nature of their noncompliance with the law and to 
+test if it has accurately identified problem industries, sectors, and firms.  
+whd is attempting to create communities of compliance by targeting lead or dominant 
+employers that can influence contractors, suppliers, and other entities within their ambit. it 
+also plans to revitalize the clinton-era strategy of pressuring private corporations to create 
+monitoring programs for their contractors and subcontractors (us dol 2011, 30-32). in the 
+case of business clusters or independent firms, it seeks to target known violators in particular 
+geographic areas and, thus, to dissuade similar firms (in their proximity) from violating the 
+law through public education and media coverage before, during, and after enforcement 
+actions. it uses the media to educate employers, workers, and community members about 
+workplace  rights  and  the  consequences  of  violations.  it  also  plans  to  measure  baseline 
+compliance in targeted industry sectors over multiple years and to monitor these sectors.    
+23  between fy 1987 and fy 2007, the number of flsa law suits filed by the office of the solicitor fell 
+from 705 to 151.
+
+39
+
+us labor standards enforcementwhd  has  also  prioritized  leveraging  enforcement  resources  through  partnerships  with 
+state labor standards enforcement agencies.  to date, working relationships between states 
+and whd have largely involved case referrals. however, improved data sharing, including 
+possible aggregate analysis of federal and state data, may prove to be an effective form of 
+collaboration, particularly on issues of common concern like employee misclassification.  
+whd has historically reported on metrics like back wages collected, penalties assessed, 
+resources expended, cases concluded, and other outputs (table 1) (lasowski 2008, 17-21).24  
+it has not reported on the link between these metrics and its overarching goals of deterrence 
+and compliance. nor does its case management database record the different contractual 
+and employment relationships at targeted work sites, which would make it a more useful 
+tool in effecting compliance and deterrence (weil 2007, 91). meeting these goals, however, 
+will require more sophisticated research, enforcement strategies and metrics. 
+
+recommendations for legal and administrative reform 
+this  section  describes  the  characteristics  of  an  effective  labor  standards  enforcement 
+system and recommends legal and administrative reforms. it argues that the united states 
+needs to strengthen its federal labor laws, legalize a substantial share of its unauthorized 
+population,  and  increase  federal  and  state  labor  standards  enforcement  resources.  an 
+effective enforcement system would seek to deter violations and would continuously assess 
+the deterrent effects of its strategies. whd and other regulators need to improve their ability 
+to  identify  problem  industries,  sectors  and  firms;  to  map  their  structures,  relationships, 
+and the distinct incentives of employers within them; and to evaluate the effectiveness of 
+their programs.  robust partnerships, status-blind strategies, and an aggressive response to 
+problem of employee misclassification will also be key to this response. 
+
+strengthening labor standards, expanding resources and 
+reforming us immigration law
+
+federal labor laws set significant standards for minimum wage, overtime pay, child labor, 
+safe and healthy workplaces, anti-discrimination, and freedom to organize and to bargain 
+collectively. however, gaps in coverage undermine the underlying goals of these laws, 
+particularly  in  industries,  sectors  and  firms  that  employ  substantial  numbers  of  low-
+wage immigrants. in addition, labor standards enforcement agencies receive insufficient 
+resources, given the scope of their responsibilities. 
+by  way  of  comparison,  in  fy  2012,    the  two  u.s.  department  of  homeland  security 
+(dhs)  immigration  enforcement  agencies,  customs  and  border  protection  (cbp)  and 
+immigration  and  customs  enforcement  (ice),  received  16-times  more  funding  (a 
+combined  $17.6  billion)  than whd,  osha  and  nlrb  (which  received  less  than  $1.1 
+billion combined) (us dol 2012a; us dol 2012b; nlrb 2012; dhs 2012). in addition, 
+the $17.6 billion figure, while covering some non-enforcement costs, likely understates 
+immigration enforcement spending because it fails to include signature dhs enforcement 
+programs that are not located within cbp or ice. it also does not count the substantial 
+
+24  gao has criticized whd for failing to track certain performance metrics, including how often willful and 
+repeat violations were found, and for frequently changing metrics.
+
+40
+
+journal on migration and human security 
+s
+r
+o
+t
+a
+g
+i
+t
+s
+e
+v
+n
+
+i
+
+ 
+
+ 
+ 
+f
+o
+d
+n
+e
+ 
+t
+a
+
+r
+a
+e
+y
+
+ 
+l
+
+a
+c
+s
+f
+
+i
+
+ 
+ 
+
+d
+h
+w
+
+ 
+y
+e
+n
+o
+m
+
+ 
+l
+i
+
+i
+
+v
+c
+
+ 
+ 
+s
+e
+i
+t
+l
+a
+n
+e
+p
+
+ 
+ 
+
+d
+e
+s
+s
+e
+s
+s
+a
+
+ 
+ 
+s
+t
+c
+a
+
+ 
+l
+l
+
+a
+
+ 
+t
+n
+e
+m
+e
+c
+r
+o
+f
+n
+e
+
+d
+h
+w
+ 
+y
+b
+
+ 
+t
+c
+a
+ 
+s
+d
+r
+a
+d
+n
+a
+t
+s
+
+ 
+r
+o
+b
+a
+l
+ 
+r
+i
+a
+f
+
+ 
+)
+
+l
+
+d
+e
+d
+u
+c
+n
+o
+c
+
+(
+
+ 
+
+d
+e
+r
+e
+t
+s
+g
+e
+r
+
+i
+
+*
+s
+e
+s
+a
+c
+
+ 
+t
+n
+e
+m
+e
+c
+r
+o
+f
+n
+e
+
+s
+t
+c
+a
+
+ 
+l
+l
+
+a
+ 
+s
+r
+u
+o
+h
+
+5
+3
+0
+
+,
+
+1
+
+ 
+
+3
+5
+9
+
+,
+
+4
+7
+5
+
+,
+
+7
+$
+
+ 
+
+2
+8
+1
+
+,
+
+0
+2
+
+ 
+
+8
+8
+1
+
+,
+
+6
+6
+0
+
+,
+
+1
+
+4
+9
+8
+
+1
+3
+7
+
+2
+3
+7
+
+1
+5
+7
+
+3
+7
+7
+
+8
+8
+7
+
+0
+5
+8
+
+8
+9
+8
+
+5
+4
+9
+
+9
+4
+9
+
+8
+3
+9
+
+2
+4
+9
+
+2
+4
+9
+
+ 
+
+7
+1
+6
+
+,
+
+5
+2
+5
+
+,
+
+0
+1
+$
+
+ 
+
+5
+5
+1
+
+,
+
+9
+1
+
+ 
+
+1
+1
+1
+
+,
+
+5
+3
+9
+
+,
+
+9
+$
+
+ 
+
+5
+7
+3
+
+,
+
+1
+2
+
+ 
+
+5
+3
+7
+
+,
+
+5
+5
+2
+
+,
+
+0
+1
+$
+
+ 
+
+6
+7
+5
+
+,
+
+3
+2
+
+ 
+
+9
+2
+5
+
+,
+
+9
+7
+8
+
+,
+
+7
+$
+
+ 
+
+3
+0
+6
+
+,
+
+5
+2
+
+ 
+
+7
+9
+9
+
+,
+
+1
+4
+5
+
+,
+
+0
+1
+$
+
+ 
+
+3
+7
+4
+
+,
+
+9
+2
+
+ 
+
+5
+2
+7
+
+,
+
+5
+6
+8
+
+,
+
+8
+$
+
+ 
+
+8
+4
+4
+
+,
+
+1
+3
+
+ 
+
+7
+3
+5
+
+,
+
+4
+7
+9
+
+,
+
+9
+$
+
+ 
+
+1
+9
+5
+
+,
+
+2
+3
+
+ 
+
+3
+1
+2
+
+,
+
+7
+9
+3
+
+,
+
+9
+$
+
+ 
+
+4
+5
+1
+
+,
+
+3
+3
+
+ 
+
+1
+6
+4
+
+,
+
+8
+7
+9
+
+,
+
+1
+1
+$
+
+ 
+
+2
+7
+7
+
+,
+
+1
+3
+
+ 
+
+5
+0
+3
+
+,
+
+7
+6
+5
+
+,
+
+0
+1
+$
+
+ 
+
+2
+3
+4
+
+,
+
+7
+3
+
+ 
+
+1
+3
+1
+
+,
+
+9
+5
+2
+
+,
+
+9
+$
+
+ 
+
+0
+4
+9
+
+,
+
+5
+3
+
+ 
+
+3
+6
+0
+
+,
+
+7
+4
+9
+
+,
+
+9
+$
+
+ 
+
+7
+5
+0
+
+,
+
+3
+4
+
+ 
+
+8
+7
+7
+
+,
+
+8
+4
+4
+
+,
+
+0
+1
+$
+
+ 
+
+0
+4
+9
+
+,
+
+5
+3
+
+ 
+
+6
+2
+6
+
+,
+
+9
+7
+8
+
+ 
+
+9
+1
+4
+
+,
+
+2
+8
+8
+
+ 
+
+6
+0
+4
+
+,
+
+9
+9
+8
+
+ 
+
+1
+7
+9
+
+,
+
+1
+5
+9
+
+ 
+
+6
+7
+7
+
+,
+
+9
+6
+9
+
+ 
+
+9
+3
+7
+
+,
+
+0
+0
+0
+
+,
+
+1
+
+ 
+
+9
+7
+8
+
+,
+
+2
+3
+0
+
+,
+
+1
+
+ 
+
+0
+0
+6
+
+,
+
+0
+7
+0
+
+,
+
+1
+
+ 
+
+7
+3
+9
+
+,
+
+8
+9
+9
+
+ 
+
+0
+5
+3
+
+,
+
+8
+6
+9
+
+ 
+
+2
+3
+3
+
+,
+
+2
+8
+9
+
+ 
+
+6
+1
+6
+
+,
+
+9
+0
+9
+
+ 
+
+3
+4
+6
+
+,
+
+0
+4
+7
+
+ 
+
+d
+e
+t
+a
+i
+t
+i
+n
+i
+-
+d
+h
+w
+
+ 
+t
+n
+e
+m
+e
+c
+r
+o
+f
+n
+e
+
+ 
+l
+l
+
+a
+ 
+s
+n
+o
+i
+t
+c
+a
+
+ 
+
+l
+
+d
+e
+d
+u
+c
+n
+o
+c
+
+ 
+l
+l
+
+i
+
+l
+
+ 
+s
+t
+n
+a
+p
+m
+o
+c
+
+ 
+
+a
+d
+e
+r
+e
+t
+s
+g
+e
+r
+
+i
+
+ 
+
+9
+7
+5
+
+,
+
+4
+
+ 
+
+6
+2
+8
+
+,
+
+5
+
+ 
+
+8
+6
+8
+
+,
+
+6
+
+ 
+
+4
+9
+0
+
+,
+
+7
+
+ 
+
+0
+5
+2
+
+,
+
+7
+
+ 
+
+1
+9
+8
+
+,
+
+7
+
+ 
+
+5
+4
+8
+
+,
+
+8
+
+ 
+
+4
+3
+5
+
+,
+
+0
+1
+
+ 
+
+2
+4
+3
+
+,
+
+0
+1
+
+ 
+
+9
+6
+6
+
+,
+
+1
+1
+
+ 
+
+5
+9
+0
+
+,
+
+2
+1
+
+ 
+
+2
+0
+5
+
+,
+
+3
+1
+
+ 
+
+0
+6
+6
+
+,
+
+4
+1
+
+ 
+
+9
+1
+6
+
+,
+
+1
+1
+
+ 
+
+6
+8
+4
+
+,
+
+6
+2
+
+ 
+
+2
+2
+9
+
+,
+
+4
+2
+
+ 
+
+2
+4
+2
+
+,
+
+8
+2
+
+ 
+
+7
+6
+4
+
+,
+
+0
+3
+
+ 
+
+7
+8
+9
+
+,
+
+1
+3
+
+ 
+
+8
+5
+8
+
+,
+
+4
+3
+
+ 
+
+2
+4
+8
+
+,
+
+7
+3
+
+ 
+
+5
+2
+4
+
+,
+
+9
+3
+
+ 
+
+4
+6
+2
+
+,
+
+0
+4
+
+ 
+
+1
+5
+0
+
+,
+
+8
+3
+
+ 
+
+2
+0
+0
+
+,
+
+4
+4
+
+ 
+
+1
+4
+4
+
+,
+
+8
+4
+
+ 
+
+4
+4
+3
+
+,
+
+0
+5
+
+ 
+
+5
+7
+2
+
+,
+
+2
+4
+
+ 
+
+4
+2
+8
+
+,
+
+1
+3
+
+ 
+
+1
+1
+3
+
+,
+
+6
+2
+
+ 
+
+5
+4
+8
+
+,
+
+3
+2
+
+ 
+
+0
+5
+9
+
+,
+
+4
+2
+
+ 
+
+6
+5
+2
+
+,
+
+6
+2
+
+ 
+
+5
+7
+3
+
+,
+
+0
+3
+
+ 
+
+6
+8
+7
+
+,
+
+1
+3
+
+ 
+
+3
+2
+1
+
+,
+
+1
+3
+
+ 
+
+3
+1
+4
+
+,
+
+1
+3
+
+ 
+
+5
+8
+0
+
+,
+
+9
+2
+
+ 
+
+3
+1
+1
+
+,
+
+4
+3
+
+ 
+
+6
+8
+2
+
+,
+
+3
+4
+
+ 
+
+2
+9
+8
+
+,
+
+6
+3
+
+ 
+
+5
+2
+0
+
+,
+
+7
+3
+
+s
+t
+c
+a
+
+s
+t
+c
+a
+
+ 
+l
+l
+
+a
+ 
+s
+e
+s
+a
+c
+
+s
+t
+c
+a
+
+ 
+
+i
+
+i
+
+g
+n
+v
+e
+c
+e
+r
+
+ 
+l
+l
+
+ 
+
+a
+d
+e
+t
+c
+e
+
+l
+l
+
+o
+c
+
+ 
+s
+e
+g
+a
+w
+ 
+k
+c
+a
+b
+
+ 
+
+d
+e
+c
+r
+o
+f
+n
+e
+ 
+s
+t
+c
+a
+
+ 
+
+ 
+y
+b
+d
+e
+c
+r
+o
+f
+n
+e
+
+ 
+
+n
+o
+i
+t
+a
+fl
+n
+
+i
+ 
+t
+o
+n
+
+(
+
+ 
+ 
+s
+t
+c
+a
+
+ 
+l
+l
+
+a
+
+d
+h
+w
+ 
+y
+b
+
+d
+h
+w
+
+)
+
+d
+e
+t
+s
+u
+d
+a
+
+j
+
+ 
+
+4
+1
+8
+
+,
+
+9
+0
+2
+
+ 
+
+9
+5
+7
+
+,
+
+9
+1
+2
+
+ 
+
+5
+4
+6
+
+,
+
+8
+2
+2
+
+ 
+
+4
+2
+6
+
+,
+
+1
+4
+3
+
+ 
+
+4
+7
+8
+
+,
+
+6
+4
+2
+
+ 
+
+9
+7
+3
+
+,
+
+1
+4
+2
+
+ 
+
+6
+9
+2
+
+,
+
+8
+8
+2
+
+ 
+
+8
+5
+3
+
+,
+
+2
+4
+3
+
+ 
+
+3
+9
+5
+
+,
+
+3
+6
+2
+
+ 
+
+7
+4
+6
+
+,
+
+6
+1
+2
+
+ 
+
+6
+2
+3
+
+,
+
+7
+5
+2
+
+ 
+
+0
+7
+8
+
+,
+
+9
+5
+2
+
+ 
+
+7
+4
+2
+
+,
+
+2
+5
+2
+
+ 
+
+4
+4
+2
+
+,
+
+9
+8
+1
+
+ 
+
+3
+4
+0
+
+,
+
+5
+0
+0
+
+,
+
+6
+7
+1
+$
+
+ 
+
+5
+2
+1
+
+,
+
+5
+1
+6
+
+,
+
+2
+7
+1
+$
+
+ 
+
+7
+2
+8
+
+,
+
+7
+8
+2
+
+,
+
+5
+8
+1
+$
+
+ 
+
+3
+0
+7
+
+,
+
+3
+1
+6
+
+,
+
+0
+2
+2
+$
+
+ 
+
+3
+3
+5
+
+,
+
+5
+5
+9
+
+,
+
+1
+7
+1
+$
+
+ 
+
+4
+1
+0
+
+,
+
+5
+0
+0
+
+,
+
+6
+6
+1
+$
+
+ 
+
+6
+4
+1
+
+,
+
+4
+6
+6
+
+,
+
+6
+9
+1
+$
+
+ 
+
+4
+5
+5
+
+,
+
+7
+3
+5
+
+,
+
+2
+1
+2
+$
+
+ 
+
+2
+9
+4
+
+,
+
+0
+4
+6
+
+,
+
+5
+7
+1
+$
+
+ 
+
+7
+5
+6
+
+,
+
+4
+5
+9
+
+,
+
+1
+3
+1
+$
+
+ 
+
+1
+2
+8
+
+,
+
+1
+0
+6
+
+,
+
+3
+6
+1
+$
+
+ 
+
+1
+4
+3
+
+,
+
+5
+3
+7
+
+,
+
+1
+3
+1
+$
+
+ 
+
+1
+8
+0
+
+,
+
+3
+5
+9
+
+,
+
+3
+6
+1
+$
+
+ 
+ 
+
+8
+0
+1
+
+,
+
+9
+1
+7
+
+,
+
+6
+9
+$
+
+ 
+0
+1
+0
+2
+ 
+y
+f
+
+ 
+9
+0
+0
+2
+ 
+y
+f
+
+ 
+8
+0
+0
+2
+ 
+y
+f
+
+ 
+7
+0
+0
+2
+ 
+y
+f
+
+ 
+6
+0
+0
+2
+ 
+y
+f
+
+ 
+5
+0
+0
+2
+ 
+y
+f
+
+ 
+4
+0
+0
+2
+ 
+y
+f
+
+ 
+3
+0
+0
+2
+ 
+y
+f
+
+ 
+2
+0
+0
+2
+ 
+y
+f
+
+ 
+1
+0
+0
+2
+ 
+y
+f
+
+ 
+0
+0
+0
+2
+ 
+y
+f
+
+ 
+9
+9
+9
+1
+ 
+y
+f
+
+ 
+8
+9
+9
+1
+ 
+y
+f
+
+ 
+7
+9
+9
+1
+ 
+y
+f
+
+r
+a
+e
+y
+
+0
+1
+0
+2
+-
+7
+9
+9
+1
+ 
+y
+f
+ 
+,
+s
+c
+i
+r
+t
+e
+m
+
+ 
+t
+n
+e
+m
+e
+c
+r
+o
+n
+e
+d
+h
+w
+
+ 
+
+f
+
+ 
+.
+1
+ 
+e
+b
+a
+t
+
+l
+
+ 
+ 
+s
+e
+e
+y
+o
+p
+m
+e
+
+l
+
+ 
+s
+e
+g
+a
+w
+ 
+k
+c
+a
+b
+
+ 
+
+ 
+e
+r
+a
+ 
+s
+e
+s
+a
+c
+d
+e
+r
+e
+t
+s
+g
+e
+r
+a
+s
+l
+f
+ 
+.
+
+ 
+
+i
+
+m
+e
+t
+s
+y
+s
+ 
+t
+n
+e
+m
+e
+g
+a
+n
+a
+m
+ 
+a
+t
+a
+d
+ 
+s
+
+y
+c
+n
+e
+g
+a
+ 
+e
+h
+t
+ 
+n
+i
+ 
+e
+g
+n
+a
+h
+c
+ 
+a
+ 
+f
+
+o
+
+l
+
+ 
+
+ 
+e
+s
+u
+a
+c
+e
+b
+ 
+a
+t
+a
+d
+ 
+t
+n
+e
+c
+e
+r
+ 
+e
+r
+o
+m
+o
+t
+ 
+e
+b
+a
+r
+a
+p
+m
+o
+c
+ 
+t
+o
+n
+ 
+e
+r
+a
+ 
+9
+9
+9
+1
+ 
+h
+g
+u
+o
+r
+h
+t
+ 
+7
+9
+9
+1
+y
+f
+ 
+m
+o
+r
+f
+ 
+a
+t
+a
+d
+
+ 
+
+ 
+ 
+:
+
+e
+t
+o
+n
+*
+
+i
+
+ 
+r
+e
+d
+n
+u
+ 
+d
+e
+r
+e
+t
+s
+g
+e
+r
+ 
+s
+n
+o
+i
+t
+a
+g
+i
+t
+s
+e
+v
+n
+i
+ 
+y
+n
+a
+m
+ 
+n
+i
+ 
+s
+n
+o
+i
+t
+a
+o
+v
+ 
+a
+s
+l
+f
+ 
+r
+o
+
+i
+
+l
+
+f
+ 
+s
+k
+c
+e
+h
+c
+ 
+d
+h
+w
+
+ 
+.
+
+d
+e
+t
+a
+
+i
+l
+i
+
+ 
+
+c
+n
+o
+c
+ 
+r
+o
+d
+e
+t
+a
+g
+i
+t
+s
+e
+v
+n
+i
+ 
+t
+c
+a
+ 
+y
+r
+a
+m
+
+i
+r
+p
+ 
+e
+h
+t
+ 
+s
+i
+ 
+
+a
+s
+l
+f
+ 
+e
+h
+t
+ 
+h
+c
+h
+w
+ 
+n
+i
+ 
+s
+n
+o
+i
+t
+a
+
+i
+
+i
+l
+i
+
+c
+n
+o
+c
+ 
+r
+o
+
+ 
+s
+n
+o
+i
+t
+a
+g
+i
+t
+s
+e
+v
+n
+i
+ 
+e
+s
+o
+h
+t
+
+.
+s
+t
+c
+a
+
+ 
+t
+n
+e
+r
+e
+
+f
+f
+i
+
+d
+
+.
+
+1
+1
+0
+2
+ 
+y
+r
+a
+u
+n
+a
+j
+ 
+,
+
+d
+h
+w
+
+ 
+,
+l
+o
+d
+s
+u
+
+ 
+:
+
+e
+c
+r
+u
+o
+s
+
+41
+
+us labor standards enforcementimmigration enforcement expenses borne by other federal agencies, by the federal court 
+system,  or  by  states  and  localities.  immigration  enforcement  programs  can  impede  the 
+exercise  and  protection  of  labor  rights.  to  cite  two  examples,  the  electronic  employer 
+verification process has been found to drive low-wage immigrant laborers underground 
+and effectively outside the reach of government regulators (lofstrom, bohn, and raphael 
+2011,  25).  in  addition,  inter-operable  criminal  and  immigration  screening  systems  can 
+result in the deportation of workers who are arrested based on false accusations (cho and 
+smith 2013, 3; meissner, kerwin, chishti and bergeron 2013, 119-120). 
+congress  should  comprehensively  review  federal,  state,  and  local  labor  and  workplace 
+safety and health laws. among other reforms, it should: extend core labor protections to 
+categories of employees who are now exempt or otherwise not substantially afforded these 
+protections; strengthen penalties so they meaningfully deter violations; and provide for the 
+tolling of statute of limitation periods upon the filing of complaints.  
+as part of this review, congress should consider granting us dol authority to compel 
+payment of back wages, liquidated damages, and civil monetary penalties. it should also 
+pass legislation to make unauthorized workers eligible for payment of back wages under 
+the nlra and to ensure that all remedies under the flsa, osha act, nlra and other 
+workplace protection laws are available to all workers, regardless of their immigration status.
+congress  should  also  pass  comprehensive  immigration  reform  legislation,  including  a 
+legalization program for a substantial percentage of the us unauthorized population. legal 
+status  would  make  low-wage  immigrant  workers  less  vulnerable  to  workplace  abuses 
+and allow them to exercise their labor rights without fear of deportation.  immigration 
+reform legislation should include substantial funding increases for federal and state labor 
+standards  enforcement  agencies.  rigorous  labor  standards  enforcement  would  create  a 
+strong disincentive to hiring unauthorized workers, diminish the competitive disadvantage 
+faced by good-faith employers, and help to ensure that bad-faith employers do not exploit 
+low-wage  immigrant  laborers  and  drive  down  wages  and  working  conditions  for  other 
+workers. 
+
+leveraging additional resources and pursuing high-impact
+strategies
+
+while labor standards enforcement resources should be increased, federal and state agencies 
+will never be able to investigate, penalize, or monitor a significant share of the employers 
+subject to their jurisdictions. thus, these agencies need to prioritize the use of their limited 
+resources, leverage additional resources, and pursue cost-effective, high-impact strategies. 
+their overall goal should be to maximize compliance with the law and deter violations. 
+they should establish metrics that reflect these goals.   
+voluntary  compliance  can  typically  be  achieved  by  educating  otherwise  law-abiding 
+employers on the law and by applying graduated, proportional penalties for occasional 
+violations. for employers that willfully, repeatedly, or severely violate the law, enforcement 
+agencies should pursue significant civil monetary penalties, liquidated damages, injunctive 
+relief, and criminal sanctions. they should also enlist lead or dominant corporations to 
+pressure the employers within their spheres of influence to comply with the law. 
+
+42
+
+journal on migration and human securitywhd should leverage additional enforcement resources through expanded partnerships 
+with  other  federal  agencies,  states,  and  localities;  consulates;  business  and  trade 
+associations; labor unions and worker centers; faith-based groups and other stakeholders. 
+such partnerships would improve whds ability to educate employers, employees, and 
+the public on the law; reach vulnerable workers who are unlikely to register complaints; 
+identify  problem  industries  and  employers;  chart  the  complex  relationships  in  fissured 
+industries;  pursue  employers  who  violate  labor  and  related  laws;  train  employees  how  
+to file complaints; test and evaluate enforcement strategies; and monitor compliance with 
+the law.  
+us dol already tracks and maps state labor laws. however, it should expand its collaboration 
+with state enforcement agencies by creating an office of federal/state labor standards that 
+would survey states annually on their enforcement resources, priorities, and activities as a 
+means to share best practices and research, to inform federal and state planning processes, 
+to promote partnerships, and to avoid enforcement redundancies. the goal of this office 
+should be to establish a continuous learning and enforcement cycle that helps participating 
+agencies to identify problem industries, understand business models and tactics designed to 
+evade the law, coordinate education and enforcement strategies, evaluate the effectiveness 
+strategies, and adjust their programs accordingly. state labor enforcement agencies should 
+likewise develop more expansive partnerships with federal and state agencies, business 
+associations, labor unions, worker centers, and faith-based groups.
+
+identifying industries and firms that substantially violate 
+labor standards
+
+effective labor standards enforcement turns on the ability of federal and state regulators to 
+identify industries and firms that substantially violate labor standards.  unauthorized and 
+other low-wage immigrants have long worked at high rates in certain industries and firms 
+that substantially violate these laws.
+a  congressionally-mandated  study  in  1991  compared  firms  that  violated  employment 
+verification requirements, with those that violated the flsas minimum wage, overtime, 
+and child labor provisions (us dol 1991, 19-20). the study reviewed administrative data 
+on  the  non-agricultural  investigations  opened  and  closed  by whd  between  october  1, 
+1987 and january 31, 1990 (11, 21). roughly one-half of the investigated firms had been 
+targeted under us dols special targeted enforcement program (step) (15, 21). firms 
+selected for the step program were deemed to be more likely to employ unauthorized 
+immigrants (15). the study further distinguished between firms in high- and low-alien 
+industries: it defined high-alien industries as non-agricultural industries that routinely 
+employ illegal aliens (26).
+the study found that whd-investigated firms violated labor and immigration standards at 
+high rates: 24.1 percent violated only the flsa, 18.5 percent violated only employment 
+verification rules, and 42.7 percent violated both sets of standards (us dol 1991, 20-21). 
+step-designated firms proved only marginally more likely to violate the flsa (69 percent 
+compared to 64 percent) and slightly more likely to violate both immigration and labor laws 
+(46 percent compared to 39 percent) (21). the study posited that these modest differences 
+reflected a lack of hard evidence by whd in determining which firms merited the step 
+
+43
+
+us labor standards enforcementdesignation  (us  dol  1991).  in  addition,  employers  in  the  five  high-alien  industries 
+committed flsa violations (69 percent versus 66 percent) and minimum wage violations 
+(16 percent versus 14 percent) at slightly higher rates, but they were marginally less likely 
+to violate overtime pay requirements (23, 27). 
+in 2008, the center for urban economic development, the national employment law 
+project,  and  the  ucla  institute  for  research  on  labor  and  employment  surveyed 
+4,387 persons working in low-wage industries in chicago, los angeles, and new york 
+(bernhardt et al. 2009). respondents included workers who: (1) were at least 18 years 
+old; (2) worked in front-line jobs (i.e. not management or professional workers); and 
+(3) worked in industries for which the median wage for front-line workers was less than  
+85 percent of the citys median wage (56). foreign-born persons represented 70 percent of 
+the total respondents, and nearly 40 percent were thought to be unauthorized (14-15, 43-45, 
+58, 62).  
+the study started with a seed group of workers and used their social networks and the 
+networks  of  successive  respondents  to  identify  survey  participants  (bernhardt  et  al. 
+2009, 56-58). its authors attempted to reduce the bias inherent in snowball sampling 
+by accounting for differences in social network size. the survey found widespread labor 
+standards violations. based on hours worked and pay received the week prior to the survey, 
+it appeared that more than one-fourth of all respondents had been paid sub-minimum wages 
+and 76.3 percent who had earned overtime pay had not received it (20). violations occurred 
+at higher rates for unauthorized than for authorized foreign-born workers, for foreign-born 
+than for us-born workers, and for foreign-born women than for foreign-born men (42-44). 
+the study underscored the limits of complaint-driven enforcement. twenty percent of the 
+workers surveyed had experienced a serious workplace problem in the previous 12 months 
+but did not complain due mostly to fear of losing their jobs (24). another 20 percent either 
+registered a complaint or attempted to form a union. of the latter, 43 percent experienced 
+retaliation in the form of diminished hours and pay, threatened deportation, termination, 
+or increased work (25). the report recommended more proactive, investigation-driven 
+enforcement in low-wage industries with systemic violations (52).
+another study analyzed formal labor charges, petitions, complaints, and other proceedings 
+brought against companies that the ins district office in new york raided for immigration 
+violations over a 30-month period between 1997 and 1999 (wishnie 2004, 389-395). of 
+the 184 entities raided, 102 had been subject to formal federal or state labor investigations 
+or proceedings, including 18 before multiple labor enforcement agencies. 
+immigration enforcement at work sites with a history of labor standards complaints and 
+investigations can potentially chill the exercise of labor rights by unauthorized immigrants. 
+bad-faith employers exploit unauthorized workers by threatening to have them arrested 
+and deported for protesting or reporting violations, and by acting on these threats (cho and 
+smith 2013; bernhardt, mcgrath, and defilippis 2007, 36; browne-dianis et al. 2006; us 
+dol 2008a; smith and ruckelshaus 2007, 565-566; human rights watch 2000, 33-35; 
+kwong 1997, 172-174; preston 2007; greenhouse 2000; taylor 1999).
+more recent studies suggest that employers gain an advantage over their competitors by 
+hiring workers whose lack of status limits their work options. the studies analyze data 
+
+44
+
+journal on migration and human securityfrom  georgias  employer  file  and  individual  wage  file  from  1990  to  2006  (brown, 
+hotchkiss,  and  quispe-agnoli  2009,  5-6;  hotchkiss  and  quispe-agnoli  2008,  23-27, 
+40, 43; hotchkiss and quispe-agnoli 2009). they conclude that georgia employers paid 
+unauthorized workers less than authorized employees, unauthorized workers had fewer 
+work options than authorized workers (as measured by worker separations due to reduced 
+wages), and firms benefitted competitively (as measured by firm survival) by employing 
+the unauthorized.
+the gao or us dol should commission and regularly update a study that matches industries 
+and industry subsets that violate employment verification laws with those that violate labor 
+laws.  such a study could serve as a centerpiece of federal and state labor enforcement 
+planning. in addition, whd should draw on an exhaustive range of information to identify 
+industries that violate labor standards at high rates in order to determine the nature of the 
+violations and to map the structure of industries and the incentives of different employers 
+within them.  it should conduct probabilistic sampling to determine the nature, incidence, 
+and geographic concentrations of violations. probabilistic sampling will also allow whd 
+to explore anomalies in broader datasets, like firms with low self-reported accident rates in 
+industries with high rates of injury and fatality.
+reports,  studies,  and  database  mining  should  be  supplemented  by  investigations  that 
+include interviews with affected workers in their primary languages and consultation with 
+stakeholders that enjoy access to and the confidence of low-wage workers. whd should 
+prioritize the cases of employers that have been assessed penalties for violations of the 
+law but have failed to pay them. it should publicize its findings in order to increase public 
+awareness, accountability and support for its work.
+
+targeting labor standards violations against low-wage workers
+in fissured industries
+
+over the last four years, us dol has commissioned a series of studies that identify and 
+map the structures of industries that violate labor standards at high rates (weil 2010, 132-
+135).  much  of  this  work  has  been  summarized  in  a  may  2010  report  titled  improving 
+workplace conditions through strategic enforcement: a report to the wage and hour 
+division (weil 2010). the report argues that whd should target industry sectors with large 
+concentrations of vulnerable workers in which employer behavior could be changed in a 
+lasting and systematic manner (75-77).  it concentrates on fissured industries, which are 
+characterized by the extensive use of subcontracting, franchising, third-party management, 
+and self-employed contractors. in such industries, the dominant employer, the one that 
+links multiple smaller employers, may be a buyer at the end of a large supply chain (like 
+wal-mart), a national, brand-name organization (like mcdonalds), a central production 
+coordinator (like the large national home builder corporations), or a purchaser of services 
+from multiple entities (like building owners) (24-25).
+the research concludes that low-wage workers in fissured industries, including immigrants, 
+are particularly vulnerable to labor standards violations (weil 2010, 18-19). it argues for 
+enforcement strategies that take into consideration the non-traditional structures and the 
+often-competing incentives of the corporate actors in these industries. fast-food outlets, 
+for example, are owned both by large brand-name organizations and by franchisees that 
+
+45
+
+us labor standards enforcementoperate through highly prescriptive agreements. analysis of us dol investigation data 
+from 2001 to 2005 found that fast-food outlets owned by brand-name corporations were 
+more likely than franchisee-owned outlets to comply with the law. the study attributed 
+the difference to the diverse incentives of branded organizations and franchisees (44-48). 
+brand-name organizations seek to preserve the value of their brands through compliance 
+with the law, as well as to ensure a flow of revenue from their franchisees. by contrast, 
+franchisees  are  driven  by  shorter-term  considerations  of  profit  (revenue  minus  costs), 
+giving them a stronger incentive than branded corporations to keep costs low and to violate 
+the  law  (58-71). the  research  suggests  a  greater  need  to  direct whd  investigations  at 
+franchisee-owned outlets than at outlets owned by branded corporations.  
+whd should extend hot goods penalties, including the seizure and embargo of goods, 
+to fissured industries, certain lean retailers, and others that violate labor standards at 
+high rates (just pay working group 2010, 12). it should also target problem industries and 
+practices through task forces comprised of federal and state labor standards enforcement 
+and related agencies. whd and state enforcement agencies should formally evaluate their 
+programs at least annually, and they should make strategic adjustments on a regular basis.  
+
+deterring violators by pressuring dominant or lead employers in
+an industry or geographic area 
+
+because whd will never be able to investigate more than a fraction of the employers 
+subject to its jurisdiction, deterrence should be a primary goal of its enforcement system. 
+yet  the  deterrent  effect  of  whd  enforcement  strategies  has  been  difficult  to  measure, 
+in part because whd has not traditionally collected data on the workplaces that it has 
+not  investigated.  however,  recent  us  dol-commissioned  research  has  attempted  to 
+measure  deterrence  by  analyzing  the  impact  of  prior  investigations  on  the  behavior  of 
+subsequently investigated fast-food outlets and hotels and motels. this research has found 
+that investigations can have a significant deterrent effect, depending, inter alia, on their 
+geographic location, the businesses investigated, and the type of investigation.  
+analyzing us  dol  data  from  2001  to  2005,  the  research  examined the  incidence and 
+severity of labor standards violations among fast-food outlets in areas (measured by five-
+digit zip code) where there had been investigations of top 20 fast-food outlets within the 
+previous year, compared to areas in which no investigation had taken place (weil 2010, 
+50-57). the research found that labor standards compliance, as measured by the percent of 
+subsequently investigated outlets with no violations, steadily improved based on the number 
+of  past  investigations  in  the  area.  likewise,  total  back  wages  owed  (per  investigation) 
+steadily diminished based on the frequency of past investigations (weil 2010).
+the  study  concluded  that  prior  investigations  lowered  the  total  back  wages  owed  by 
+subsequently investigated outlets, lowered the number of employees found in violation, and 
+lowered the average back wages owed per worker.  these trends grew more pronounced 
+in the case of prior whd-directed (as opposed to complaint-driven) investigations. the 
+report attributed this difference, in part, to the increased publicity generated by directed 
+investigations.  however,  the  deterrent  effect  largely  disappeared  when  the  previous 
+investigation(s) occurred in a larger geographic area, measured by a three-digit (not five-
+digit) zip code.  
+
+46
+
+journal on migration and human securitylike  the  fast  food  industry,  the  hotel  and  motel  industry  rely  heavily  on  franchising 
+arrangements:  roughly  80  percent  of  hotel  properties  are  franchised  (weil  2010,  61). 
+ownership  and  operating  structures  in  franchise  arrangements  vary  significantly.  both 
+brand-name corporations and franchisees may own an individual hotel or motel. brand 
+corporations,  independent  management  companies,  and  other  entities  can  manage 
+properties. the top 50 management companies operate 10 percent of all branded hotels 
+and, thus, have wide-ranging influence within this industry (66-67).
+the researchers sought to determine whether branded hotels acted as market leaders in 
+setting and influencing policies and practices in particular geographic areas.  as with the 
+fast food industry, the hotel-motel study looked at properties that were located in areas 
+(five-digit zip code) that had experienced investigations in the previous year and compared 
+them with properties in areas in which no investigations had occurred in the prior year.  it 
+found that prior investigations of top-five brand hotels significantly improved subsequent 
+compliance (measured by total back wages per investigation) by branded hotels in the area. 
+by contrast, the impact of prior investigations of any hotel/motel property, or even of a top 
+25 or a top 50 brand property, was far more modest (weil 2010, 71-72). prior investigations 
+of top-five branded hotels and of independent hotels also substantially improved compliance 
+by independent hotels (73). based on these results, the report concluded that hotels/motels 
+follow the leader (71).
+this  research  underscores  the  importance  of  identifying  the  lead  or  dominant  entities 
+in particular industries and industry sub-sets, and of learning which employers watch 
+each other and how they do so, whether through trade journals, membership associations, 
+publicity, or word-of-mouth. 
+it also highlights the need to measure the deterrent effect of whd enforcement strategies 
+and to adjust strategies accordingly. deterrent-relevant factors in the fast food and hotel/
+motel industries include the location of enforcement activities, their frequency, the entities 
+targeted  (brand-name,  independent,  or  other),  and  the  type  of  enforcement  (complaint-
+driven or agency-directed).  
+finally, labor standards monitoring should be incorporated into existing systems, standards, 
+and  procedures  used  by  brand  organizations  to  promote  quality  and  performance  in 
+particular industries (weil 2010, 87). franchise agreements set forth the responsibilities 
+of  franchisees  in  painstaking  detail.    regulators  should  consider  requiring  targeted 
+organizations (franchisors) to monitor their franchisees through these agreements.  
+
+ensuring that immigration enforcement does not compromise
+labor standards enforcement, and vice versa 
+
+labor standards have long applied to workers irrespective of their immigration status, and 
+investigators have been reluctant to assume immigration responsibilities that might impede 
+their ability to gain the confidence of unauthorized workers (uscir 1993b, 173, 177). 
+the distinct purposes of immigration and labor laws argue for vigilance in ensuring that 
+enforcement of one set of laws does not undermine the goals or enforcement of the other.  for 
+this reason, us dol and dhs/ins have long operated under formal working arrangements 
+that recognize that their respective missions require distinct and coordinated enforcement 
+
+47
+
+us labor standards enforcementtactics. in late 1996, ten years following passage of the immigration reform and control 
+act  of  1986  (irca),  ins  adopted  a  policy  on  immigration  enforcement  during  labor 
+disputes, which it incorporated into its operating instructions (oi) and subsequently into 
+its special agent field manual.25  the policy attempted to block employers from triggering 
+immigration investigations that would interfere with the exercise of their employees labor 
+rights, and it encouraged unauthorized workers to bring complaints related to labor law 
+violations. 
+the policy applied to complaints or tips on potentially unauthorized workers, but only in 
+situations in which a labor dispute was in progress. if an immigration officer suspected there 
+was a pending dispute, he or she was required to make a reasonable attempt to determine 
+whether this was indeed the case. if so, the oi required that an ins supervisor review the 
+case. however, immigration officials could still move ahead with an enforcement action. 
+the oi did not detail the remedy for a violation of these procedures. in a 2003 deportation 
+proceeding, an immigration judge ordered the suppression of evidence due to inss failure 
+to abide by these procedures.26  
+in 1998, ins and us dol entered a memorandum of understanding (mou) to coordinate 
+their  work  and  to  enhance  enforcement  of  labor  standards  and  employer  verification 
+laws (ins, doj, and dol 1998). the mou assumed that labor standards enforcement 
+could deter illegal immigration by denying the competitive advantages gained through 
+the employment of highly vulnerable and exploitable workers at sub-standard wages and 
+working conditions (ins, doj, and dol 1998). it stipulated that neither agency would 
+take action that compromised their respective missions of worker protection (us dol) and 
+immigration enforcement (ins). it affirmed ins policy not to interfere in labor disputes. 
+in addition, it precluded us dol from inspecting for employment verification violations 
+in investigations prompted by complaints alleging labor standards violations but not in 
+investigations initiated by the agency.27 
+the mou also called for reasonable efforts to ensure that arrested unauthorized workers 
+would  not  be  deprived  of  appropriate  compensation  for  the  work  performed,  thereby 
+affording an economic benefit to the employer from employment of unauthorized workers. 
+it  did  not  preclude  ins/dhs  immigration  enforcement  activities  during  and  following 
+labor organizing activities, and these activities, in fact, continued (kerwin and mccabe 
+2011, 38).
+on  march  31,  2011,  ice  and  us  dol  entered  a  mou  that  superseded  the  earlier 
+agreement, but affirmed its goals. the mou seeks to prevent conflicts between the dhs 
+and us dol in their civil work-site enforcement activities, to advance their respective 
+missions, and to insulate enforcement from inappropriate manipulation by other parties 
+(dhs and dol 2011). under the mou, ice must assess whether tips and leads related 
+to immigration violations involve work sites with pending labor disputes or are motivated 
+by an improper desire to manipulate a pending labor dispute, retaliate against employees 
+for exercising their labor rights, or otherwise frustrate the enforcement of labor laws. the 
+
+25  ins operating instruction 287.3a, revised december 4, 1996, redesignated as 33.14(h) of ins special 
+agents field manual, march 13, 1998, 74 interpreter releases 199-201, january 27, 1997.
+26  in the matter of herrera-priego, us doj eoir (lamb, ij, july 10, 2003).
+27  ina  274a(b)(3).
+
+48
+
+journal on migration and human securitymou is subject to the same criticism as its predecessor because it allows ice to engage in 
+work-site enforcement during a labor dispute in a broad range of circumstances.28 in cases 
+involving immigration enforcement during a labor dispute, ice must:
+
+  notify us dol of its activities unless to do so would violate a federal law or 
+
+compromise an ice investigation;  
+
+  produce detainees for interviews with us dol if it does not interfere with or delay 
+
+removal proceedings;
+
+  consider us dol requests to provide temporary immigration status to unauthorized 
+
+immigrants who are needed as witnesses in us dol investigations.   
+
+the  agencies  also  agreed  to  exchange  information  on  abusive  employment  practices 
+against workers regardless of status and on labor standards violations, human smuggling 
+and trafficking, child exploitation, extortion and forced labor. the mou creates a joint 
+committee on implementation and it requires dhs and us dol to notify and train their 
+employees on its requirements. the mou stipulates that it does not create any right or 
+benefit to outside parties. 
+us dol and dhs have long recognized the need to coordinate their work so that the 
+enforcement activities of one agency do not compromise the operations and goals of the 
+other. the two agencies should regularly evaluate the effectiveness of their march 2011 
+mou, should issue regulations that codify its main provision, and should make it a high 
+priority to train and instruct their staffs on its requirements.29  
+the agencies should also certify victims of severe labor violations for u non-immigrant 
+visas and promote the use of u visas in these circumstances (smith and cho 2013). u 
+visas can be granted to victims of crimes who cooperate in the investigation and prosecution 
+of crimes. allowing such workers to pursue their claims will diminish threats of retaliation 
+and deportation by bad-faith employers. finally, as one scholar has argued, dols role in 
+reviewing planned dhs/ice enforcement actions should be strengthened and enhanced 
+(lee 2011). in particular, dhs should rely far more heavily on dol to determine whether 
+a labor dispute is in progress at a dhs-targeted worksite or if an employer is retaliating 
+against  an  employees  attempt  to  exercise  his  or  her  labor  rights.  dhs/ice  will  often 
+have no way of knowing if their activities might frustrate the enforcement of labor laws 
+without stronger ex ante collaboration with dol. the alternative is dhs/ice complicity 
+in labor standards violations, as has been amply documented in several cases (cho and 
+smith 2013).
+
+28  these include investigations related to national security, critical infrastructure, or federal crimes other 
+than illegal employment, or when directed by the secretary of dhs or the secretary of labor or a designee. 
+29  section 274a(b)(3) of irca required employers to retain employment verification records and make 
+them available to the ins or dol. it contemplated a role for dol in checking whether employers had 
+adequately screened employees to determine their legal eligibility to work.  congress may need to revisit this 
+provision in order to ensure status-blind enforcement.
+
+49
+
+us labor standards enforcementstatus blind enforcement and challenges created by disparate
+remedies for labor standards violations
+
+the supreme courts decision in hoffman plastic compounds, inc. v. nlrb represents 
+the most consequential blurring in recent years of the line between immigration and labor 
+standards enforcement.30 in a five-to-four decision, the court held that unauthorized workers 
+illegally fired for union organizing did not qualify for back pay.  in dissent, justice stephen 
+breyer criticized the majority for allowing employers to conclude that they can violate the 
+labor laws at least once with impunity and by providing an incentive to find and to hire 
+illegal-alien employees.31  
+while it is difficult to assess the extent to which the denial of back pay to unauthorized 
+workers has stifled labor organizing or has led to increased labor violations, commentators 
+have argued that the hoffman decision exemplifies how labor standards, if not extended 
+to unauthorized workers, can undermine the purposes of both immigration and labor laws 
+(developments 2005, 2171-2290, 2229). according to human rights watch:
+
+[t]he  hoffman  decision    promotes  new  and  perverse  forms  of  discrimination.  it 
+creates  an  incentive  for  employers  to  hire  undocumented  workers  because  of  their 
+new vulnerability in union-organizing efforts, rather than hiring documented workers 
+or  citizens  . the  resulting  discrimination  is  two-fold:  first,  discrimination  against 
+documented workers and citizens who are not hired because of their status, followed 
+by discrimination against undocumented workers who are hired because of their status. 
+(human rights watch 2004, 119)
+
+the  courts  reasoningthat  labor  protections  should  not  be  extended  to  workers  who 
+cannot legally workhas subsequently been adopted by courts in sexual discrimination, 
+nonpayment  of  overtime,  and  workers  compensation  cases  (moran  2007;  smith  and 
+ruckelshaus 2007, 565-566). it has also been used to deny the recovery of future earnings 
+to injured workers under state statutes and common law (developments 2005, 2229-2231). 
+at  the  same  time,  one  scholar  has  described  a  pattern  of  regulatory  resistance  to 
+hoffman in federal labor standards and civil rights agencies that has taken the form of 
+minimizing hoffmans application, expanding remedies for workplace abuse, facilitating 
+the participation of workers in labor standards enforcement actions, and strengthening their 
+ability to collect the wages owed them (chen 2012). the equal employment opportunity 
+commission (eeoc), for example, has affirmed its commitment to status-blind enforcement, 
+vigorous application of the law, and protection of unauthorized workers (chen 2012). in 
+addition, us dol continues to enforce the flsa and the migrant and seasonal protection 
+act without regard to immigration status (us dol 2008b). it distinguishes hoffman on 
+the ground that the nlra allows but does not require back pay and hoffman involved an 
+employee who sought back pay not for time he had worked, but for time he would have 
+worked had he not been illegally discharged. by contrast, the flsa and mspa require 
+back pay for unreimbursed hours that employees actually work. in distinguishing hoffman 
+in these ways, regulators seem to be affirming that discriminatory enforcement practices 
+undermine the core goals of labor and workplace protection laws.  
+
+30  535 u.s. 137, 122 s. ct. 1275 (2002).
+31  535 u.s. at 154-155, breyer, j., dissenting.
+
+50
+
+journal on migration and human securityprioritizing misclassification of employees as independent
+contractors 
+
+effective enforcement requires the identification of industries, industry sectors, and business 
+clusters with high rates of labor standards violations. it also requires that regulators possess 
+thorough and timely information on how employers attempt to evade the law and avoid 
+legal liability. the misclassification of employees, particularly low-wage immigrants, has 
+been an enduring problem. while not a violation of federal law, misclassification is often 
+prompted by a desire to avoid payment of social security, medicare, workers compensation 
+or unemployment insurance premiums. in addition, independent contractors do not receive 
+flsa, osha, nlra and other statutory protections.
+standards used to classify workers as employees vary by federal and state statute, but 
+they generally turn on an assessment of whether the employer controls and directs the 
+employees  work  or,  conversely,  whether  the  employee/contractor  exercises  autonomy 
+in the performance of their work (planmatics 2000, 2, 14-22). under section 530 of the 
+revenue act of 1978, a worker can be treated as a non-employee for the purposes of 
+employment taxes if the employer files federal tax returns in a manner that does not treat 
+the  worker  as  an  employee,  if  the  employer  treats  individuals  in  substantially  similar 
+positions as non-employees, and if there is a reasonable basis for treating the worker as a 
+non-employee.32
+although  difficult  to  quantify,  misclassification  appears  to  be  widespread.    in  1984,  the 
+internal revenue service (irs) estimated that 3.4 million persons were misclassified. irs 
+plans to revisit this issue, reviewing the extent of misclassification as part of a broader study 
+on employment tax compliance (gao 2009, 10-11). a study conducted for us dol in 1998 
+and 1999 on the impact of misclassification on unemployment insurance programs found 
+substantial misclassification in the construction, manufacturing, home healthcare, and retail 
+industries (planmatics 2000, 91). it noted the pervasive misclassification and exploitation of 
+low-wage immigrant workers who are unaware of american worker arrangements, ethics, 
+rights and laws and who do not protest misclassification owing to fear of deportation, 
+language barriers and ignorance of worker rights (planmatics 2000, 35-36).
+state  labor  officials  have  similarly  reported  that  immigrants  are  less  likely  to  know 
+their  rights  and  more  likely  to  be  misclassified  than  other  types  of  workers  (gao 
+2009, 19). several studies and at least one government task force have found high rates 
+of misclassification in the construction industry, which employs substantial numbers of 
+authorized and unauthorized immigrants (gao 2009, 14; new york state department of 
+labor and joint enforcement taskforce 2009, 3). the national employment law project 
+identified  20  studies  on  the  incidence  and  costs  of  misclassification  in  particular  states 
+(leberstein 2010). most of these studies rely on audits of unemployment insurance and 
+workers compensation programs.
+many  employers  misclassify  employees  as  independent  contractors  to  avoid  the 
+requirements  of  federal  laws.    others  do  so  by  mistake.  congress,  the  us  department 
+of  justice,  and  relevant  federal  and  state  agencies  should  attempt  to  harmonize  the 
+standards and definitions governing employees and independent contractors.  whd, in 
+
+32  pub.l. no. 95-600, 92 stat. 2763 (november 6, 1978).
+
+51
+
+us labor standards enforcementcoordination with the us dol office of the solicitor, should bring legal actions to clarify 
+the boundaries of the employer/employee relationship in major industries (weil 2010, 80). 
+us dol, irs, and other federal agencies should coordinate a nationwide effort to educate 
+workers, employers, and the general public on these standards. as us dol has proposed, 
+congress should pass legislation to shift the burden of proof to employers, requiring them 
+to demonstrate that their employees are correctly classified. as the gao recommended in 
+2009 whd should increase its focus on misclassification during its investigations; whd 
+and  osha  should  share  information  on  misclassification  cases;  us  dol  and  the  irs 
+should establish an interagency, federal/state partnership to address misclassification; and 
+us dol and irs should develop a standard document on misclassification that employers 
+can provide to new workers (gao 2009, 41-42). whd should also continue to prioritize 
+joint federal-state initiatives to combat misclassification.
+
+conclusion
+while far from perfect, us labor standards embody enduring national goals. they reflect 
+a national consensus that all workers should be paid the agreed upon wages, none should 
+be paid below a certain minimum level, and certain workers should be paid additional 
+amounts for extra hours that they work. in addition, they provide that workers should be 
+able to organize and bargain collectively for better pay and working conditions; should 
+be able to work in safe and healthy conditions; and that children should not work, except 
+in very limited circumstances. employers, in turn, should not be able to deny core labor 
+protections  to  their  workers,  whatever  their  skills,  backgrounds,  or  immigration  status. 
+strengthened and well-enforced standards would safeguard all workers, while ensuring 
+that bad-faith employers do not benefit at the expense of their law-abiding competitors. 
+
+references
+bernhardt, annette, and siobhn mcgrath. 2005. trends in wage and hour enforcement 
+by the us department of labor, 1975-2005. economic policy brief 3. new york, 
+ny: brennan center for justice. 
+
+bernhardt, annette, siobhn mcgrath, and james defilippis. 2007. unregulated work in 
+the city: employment and labor law violations in new york city. new york, ny: 
+brennan center for justice. http://nelp.3cdn.net/cc4d61e5942f9cfdc5_d6m6bgaq4.
+pdf.    
+
+bernhardt, annette, ruth milkman, nik theodore, douglas heckathorn, mirabai auer, 
+james  defilippis,  ana  luz  gonzlez,  victor  narro,  jason  perelshteyn,  diana 
+polson, and michael spiller. 2009. broken laws, unprotected workers: violations 
+of employment and labor laws in americas cities. center for urban economic 
+development, national employment law project, ucla institute for research on 
+labor  and  employment.  http://nelp.3cdn.net/1797b93dd1ccdf9e7d_sdm6bc50n.
+pdf.
+
+brown, david j., julie l. hotchkiss, and myriam quispe-agnoli. 2009. undocumented 
+
+52
+
+journal on migration and human securityworker employment and firm survival. iza discussion paper no. 3936. http://
+papers.ssrn.com/sol3/papers.cfm?abstract_id=1329574.
+
+browne-dianis,  judith,  jennifer  lai,  marielena  hincapie,  and  saket  soni.  2006.  and 
+injustice  for  all:  workers  lives  in  the  reconstruction  of  new  orleans.  new 
+orleans:  national  immigration  law  center,  advancement  project,  and  new 
+orleans  worker  justice  center.  http://archive.uua.org/news/gulfcoastrelief/pdf/
+and_injustice_for_all_report.pdf. 
+
+chen,  ming  h.  2012.  where  you  stand  depends  on  where  you  sit:  bureaucratic 
+incorporation of immigrants in federal workplace agencies. berkeley journal of 
+employment and labor law 33.  http://papers.ssrn.com/sol3/papers.cfm?abstract_
+id=2019181##.
+
+cho, eunice h., and rebecca smith. 2013. workers rights on ice: how immigration 
+reform  can  stop  retaliation  and  advance  labor  rights.  http://nelp.3cdn.
+net/79a636339c0c2dcf72_l7m6b8j1i.pdf
+
+developments in the law: jobs and borders. 2005. harvard law review 118(7).
+dhs (united states department of homeland security). 2012. fy 2013 budget in brief. 
+
+http://www.dhs.gov/xlibrary/assets/mgmt/dhs-budget-in-brief-fy2013.pdf. 
+
+dhs  and  dol  (united  states  department  of  homeland  security  and  united  states 
+department of labor). 2011. revised memorandum of understanding between 
+the  departments  of  homeland  security  and  labor  concerning  enforcement 
+activities at worksites. http://www.dol.gov/asp/media/reports/dhs-dol-mou.
+pdf.
+
+gao (government accountability office). 2002. collective bargaining rights: information 
+on  the  number  of  workers  with  and  without  bargaining  rights,  gao-02-835. 
+washington, dc: gao. http://www.gao.gov/new.items/d02835.pdf.
+
+.  2009.  employee  misclassification:  improved  coordination,  outreach  and 
+targeting could better ensure detection and prevention. washington, dc: gao. 
+http://www.gao.gov/new.items/d09717.pdf.
+
+greenhouse, stephen. 2000. immigrants in the middle of union push at bakery. new 
+
+york times, october 9.
+
+hotchkiss, julie l., and myriam quispe-agnoli. 2008. the labor market experience and 
+impact of undocumented workers. working paper 2008-7c. atlanta, ga: federal 
+reserve bank of atlanta. www.frbatlanta.org/filelegacydocs/wp0807c.pdf.
+
+.  2009.  employer  monopsony  power  in  the  labor  market  for  undocumented 
+workers.  working  paper  2009-14a.  atlanta,  ga:  federal  reserve  bank  of 
+atlanta. www.frbatlanta.org/filelegacydocs/wp0914a.pdf
+
+human rights watch. 2000. unfair advantage: workers freedom of association in the 
+united  states  under  international  human  rights  standards.  new  york,  ny: 
+human rights watch. http://www.hrw.org/legacy/reports/2000/uslabor/.
+
+53
+
+us labor standards enforcement. 2004. blood, sweat, and fear: workers rights in u.s. meat and poultry plants. new 
+york, ny: human rights watch. http://www.hrw.org/reports/2005/usa0105/usa0105.
+pdf.
+
+ins, doj, and dol (united states immigration and naturalization service, united states 
+department of jusice, united states department of labor). 1998. memorandum of 
+understanding, between the immigration and naturalization service, department 
+of justice, and the employment standards administration, department of labor.
+interstate labor standards association. n.d. state contacts. http://www.ilsa.net/contacts/
+
+contact007.htm.  
+
+just pay working group. 2010. just pay: improving wage and hour enforcement at the united 
+states department of labor. new york, ny: national employment law project. 
+http://www.nelp.org/page/-/justice/2010/justpayreport2010.pdf?nocdn=1.
+
+kerwin, donald m. and kristen mccabe. 2011. labor standards enforcement and low-
+wage immigrants: creating an effective enforcement system. washington, dc: 
+migration policy institute.
+
+kutz, gregory d., and jonathan t. meyer. 2009. wage and hour divisions complaint 
+intake and investigative processes leave low wage workers vulnerable to wage 
+theft. testimony before u.s. house of representatives, committee on education 
+and  labor,  gao-09-458t.  washington,  dc:  gao.  http://www.gao.gov/new.
+items/d09458t.pdf.
+
+kwong, peter. 1997. forbidden workers: illegal chinese immigrants and american labor. 
+
+new york: w.w. norton & company.
+
+lasowski, anne-marie. 2008. fair labor standards act: better use of available resources 
+and  consistent  reporting  could  improve  compliance.  testimony  before  u.s. 
+house  committee  on  education  and  labor,  gao-08-962t.  washington,  dc: 
+gao. http://www.gao.gov/new.items/d08962t.pdf.
+
+leberstein,  sarah.  2010.  independent  contractor  misclassification  imposes  huge  
+costs  on  workers  and  federal  and  state  treasuries.  new  york,  ny: 
+national  employment  law  project.  http://www.nelp.org/page/-/justice/2010/
+independentcontractorcosts.pdf?nocdn=1
+
+lee,  stephen.  2011.  monitoring  immigration  enforcement.  arizona  law  review  53: 
+
+1089-1121. 
+
+lofstrom, magnus, sarah bohn, and steven raphael. 2011. lessons from the 2007 legal 
+arizona  workers act.  san  francisco,  ca:  public  policy  institute  of  california. 
+http://www.ppic.org/content/pubs/report/r_311mlr.pdf.
+
+lurie, irene. 2010. enforcement of state minimum wage and overtime laws: resources, 
+procedures,  and  outcomes.  albany,  ny:  nelson  a.  rockefeller  institute  of 
+government, state university of new york.
+
+54
+
+journal on migration and human securitymeissner, doris, donald kerwin, muzaffar chishti and claire bergeron, 2013. immigration 
+enforcement  in  the  united  states:  the  rise  of  a  formidable  machinery.  
+washington, dc: migration policy institute. http://www.migrationpolicy.org/pubs/
+enforcementpillars.pdf. 
+
+mississippi  department  of  employment  security.  n.d.  about  us.  http://www.mdes.
+
+ms.gov/home/aboutus.html.
+
+new  york  state  department  of  labor,  new  york  state  department  of  taxation  and 
+finance, new york state workers compensation board, new york state workers 
+compensation  board    fraud  inspector  general,  new  york  state  attorney 
+general, comptroller of the city of new york. 2009. annual report of the joint 
+enforcement  task  force  on  employee  misclassification,  to  david  paterson, 
+governor, state of new york. new york, ny: new york state department of labor 
+and joint enforcement taskforce. http://www.labor.state.ny.us/agencyinfo/pdfs/
+misclassification_taskforce_annualrpt_2008.pdf.
+
+nlrb (united states national labor relations board). 2012. justification of performance 
+budget for committee on appropriations: fiscal year 2013. http://www.nlrb.gov/
+sites/default/files/documents/188/cj_2013.pdf. 
+
+moran, tyler. 2007. statement to the house committee on the judiciary, subcommittee 
+on immigration, citizenship, refugees, border security and international law, 
+hearing  on  proposals  for  improving  the  electronic  verification  and  worksite 
+enforcement  system.  http://v2011.nilc.org/immsemplymnt/cir/eevs_testimony_
+nilc_2007-05-03.pdf  
+
+osha (occupational safety and health administration). 2011. osha instruction cpl 
+02-00-051, enforcement exemptions and limitations under the appropriations 
+act. washington, dc: united states department of labor. http://www.osha.gov/
+pls/oshaweb/owadisp.show_document?p_table=directives&p_id=1519 
+
+. n.d. frequently asked questions about state occupational safety and health 
+
+plans. http://www.osha.gov/dcsp/osp/faq.html#establishingyourown.
+
+passel,  jeffrey,  and  dvera  cohn.  2009.  a  portrait  of  unauthorized  immigrants  in  the 
+united  states.  washington,  dc:  pew  hispanic  center.  http://pewhispanic.org/
+files/reports/107.pdf.  
+
+planmatics,  inc.  2000.  independent  contractors:  prevalence  and  implications  for 
+unemployment  insurance  programs.  report  for  the  us  department  of  labor, 
+employment and training administration. http://wdr.doleta.gov/owsdrr/00-5/00-5.
+pdf.
+
+preston, julia. 2007. immigration raid draws protest from labor officials. new york 
+
+times, january 26. 
+
+schiller, zach, and sarah decarlo. 2010. investigating wage theft. cleveland, oh: policy 
+
+matters ohio.
+
+55
+
+us labor standards enforcementschmitt, john. 2010. unions and upward mobility for immigrant workers. washington, 
+dc: center for economic and policy research. http://www.cepr.net/documents/
+publications/unions-immigrants-2010-03.pdf. 
+
+smith, rebecca, and eunice hyunhye cho. 2013. workers rights on ice: how immigration 
+reform  can  stop  retaliation  and advance  labor  rights.  oakland,  ca:  the 
+national  employment  law  project.  http://nelp.3cdn.net/79a636339c0c2dcf72_
+l7m6b8j1i.pdf.
+
+smith, rebecca, and catherine ruckelshaus. 2007. solutions, not scapegoats: abating 
+sweatshop conditions for all low-wage workers as a centerpiece of immigration 
+reform. new york university journal of legislation and public policy 10(3): 
+555-602.  http://www1.law.nyu.edu/journals/legislation/issues/vol10num3/smith_
+ruckelshaus.pdf.  
+
+taylor, r.h. 1999. undocumented hotel workers who formed union are released. 
+
+star tribune (minneapolis), october 20.
+
+uscir (united states commission on immigration reform). 1993a. enforcement in the 
+underground economy. in curbing unlawful migration. unpublished appendix.
+.  1993b.  options  for  enhancing  worksite  enforcement.  in  curbing  unlawful 
+
+migration. unpublished appendix. 
+
+us dol (united states department of labor). 1991. employer sanctions and us labor 
+markets: second report. washington, dc: us department of labor, division of 
+immigration policy and research, bureau of international labor affairs.
+
+. 2001. 1999-2000 report on initiatives. washington, dc: us department of labor, 
+employment  standards  division.  http://nelp.3cdn.net/a5c00e8d7415a905dd_
+o4m6ikkkt.pdf.
+
+.  2004.  fy  2004  performance  and accountability  report. washington,  dc:  us 
+department  of  labor.  http://www.dol.gov/_sec/media/reports/annual2004/
+annualreport.pdf.
+
+. 
+
+statistics 
+
+fact 
+
+sheet. 
+
+http://www.dol.gov/whd/
+
+2008a. 
+
+2008 
+
+statistics/2008fiscalyear.htm. 
+
+. 2008b. fact sheet #48: application of us labor laws to immigrant workers: 
+effect  of  hoffman  plastics  decision  on  laws  enforced  by  the  wage  and  hour 
+division. washington, dc: us department of labor, wage and hour division. 
+http://www.dol.gov/whd/regs/compliance/whdfs48.pdf.
+
+.  2011.  fy  2012  budget  in  brief  http://www.dol.gov/dol/budget/2012/pdf/
+
+fy2012bib.pdf.
+
+.  2012a.  fy  2013  congressional  budget  justification:  occupational  safety 
+and  health  administration.  http://www.dol.gov/dol/budget/2013/pdf/cbj-
+2013-v2-12.pdf. 
+
+56
+
+journal on migration and human security. 2012b. fy 2013 congressional budget justification: wage and hour division. 
+
+http://www.dol.gov/dol/budget/2013/pdf/cbj-2013-v2-09.pdf. 
+
+. 2013. fy 2014 congressional budget justification: wage and hour division. 
+
+http://www.dol.gov/dol/budget/2014/pdf/cbj-2014-v2-09.pdf. 
+
+weil, david. 2007. crafting a progressive workplace regulatory policy: why enforcement 
+matters.  comparative  labor  law  and  policy  journal  28(2):  125-154.  http://
+papers.ssrn.com/sol3/papers.cfm?abstract_id=996901. 
+
+.  2010.  improving  workplace  conditions  through  strategic  enforcement:  a 
+report  to  the  wage  and  hour  division.  http://www.dol.gov/whd/resources/
+strategicenforcement.pdf.
+
+weil, david, and amanda pyles. 2005. why complain? complaints, compliance, and 
+the problem of enforcement in the u.s. workplace. comparative labor law and 
+policy journal 27(1): 59-92. 
+
+wishnie, michael j. 2004. the border crossed us: current issues in immigrant labor. 
+
+new york university review of law & social change 28: 389-95.
+
+57
+
+us labor standards enforcement

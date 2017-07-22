@@ -1,0 +1,1617 @@
+there and back again:  on 
+the diffusion of immigration 
+detention 
+
+michael flynn1
+global detention project
+
+executive summary 
+from mexico to the bahamas, mauritania to lebanon, turkey to saudi 
+arabia,  south  africa  to  indonesia,  malaysia  to  thailand,  immigration-
+related detention has become an established policy apparatus that counts 
+on dedicated facilities and burgeoning institutional bureaucracies. until 
+relatively  recently,  however,  detention  appears  to  have  been  largely  an 
+ad hoc tool, employed mainly by wealthy states in exigent circumstances. 
+this  paper  uses  concepts  from  diffusion  theory  to  detail  the  history  of 
+key policy events in several important immigration destination countries 
+that led to the spreading of detention practices during the last 30 years 
+and  assesses  some  of  the  motives  that  appear  to  have  encouraged  this 
+phenomenon. the paper also endeavors to place the united states at the 
+center of this story because its policy decisions appear to have played an 
+important role in encouraging the process of policy innovation, imitation, 
+and  imposition  that  has  helped  give  rise  to  todays  global  immigration 
+detention phenomenon. nevertheless, many us offshore practices have not 
+received nearly the same attention as those of other important destination 
+countries.  more broadly, in telling this story, this paper seeks to flesh out 
+some of the larger policy implications of the externalization of immigration 
+control regimes. just as offshore interdiction and detention schemes raise 
+important questions about custody, accountability, and sovereignty, they 
+should also spur questions over where responsibility for the wellbeing of 
+migrants begins and ends. 
+
+introduction
+in  october  2004,  the  u.s.s.  curtsa  guided-missile  frigate  armed  with  antisubmarine 
+warfare systems, torpedoes, and twin 76-millimeter cannonswas patrolling coastal areas 
+off  latin americas  pacific rim when  it spotted a suspicious-looking vessel  some 240 
+kilometers northeast of the galapagos islands and went to intercept (ros 2004). in the 
+mid-1980s, the object of such pursuit would likely have been a soviet nuclear submarine. 
+
+1  the author would like to thank niels frenzen, mariette grange, izabella majcher, and david sylvan. 
+
+ 2014 by the center for migration studies of new york. all rights reserved.jmhs volume 2 number 3 (2014): 165-197after  the  end  of  the  cold  war,  however,  the  curts  role  in  us  security  underwent  a 
+dramatic metamorphosis. instead of tracking deadly nuclear submarines, the frigate began 
+chasing down smuggling vessels. in this case, the vessel the curts had in its sights was an 
+ecuadorian fishing boat that doubled as a migrant smuggling vessel. packed into the ships 
+cargo hold were some 80 unauthorized migrants who were on the first leg of a harrowing 
+journey north that included a long ocean passage in a rickety smuggling boat, a perilous 
+border crossing in the region straddling mexico and guatemala, and uncertain treatment at 
+the hands of coyotes working the us-mexico border (ros 2004; flynn 2005b).
+the curts operational transformation is part of a broader, global phenomenon involving 
+efforts by the worlds major industrialized democracies to blockor managemigrants 
+long  before  they  reach  their  intended  destinations.  sometimes  referred  to  as  remote 
+control by migration scholars,2 this process of expanding interdiction efforts has been a 
+key policy apparatus for a host of immigration destination countries for decades. among 
+the more notable cases has been australia, whose notorious and recently-revived pacific 
+solution has involved interdicting migrant smuggling vessels on the high seas and confining 
+asylum seekers in offshore facilities located in nearby countries. the european union 
+(eu) has stepped-up maritime interdiction patrols through the mechanism of its frontex 
+agency. this has been accompanied by on-again-off-again plans to establish processing 
+centers for asylum seekers outside the borders of europe, as well as multiple efforts by 
+individual european countries to fund and support detention practices in neighboring non-
+eu countries. 
+while these european and australian endeavors have been the focus of heated debates 
+in scholarly and policy circles, the united states has been one of the worlds pioneers 
+in offshore interdiction and detention. however, many of its activities have not received 
+nearly  the  same  scrutiny.  the  united  states  has:  used  military  bases  located  in  host 
+countries as staging grounds for migrant interdiction efforts (the curts routinely used the 
+now-closed  us  military base  in  manta,  ecuador);  funded  detention  centers  that  lacked 
+basic living conditions in places like guatemala city; used offshore detention facilities in 
+the caribbean long before australia began implementing the pacific solution; and teamed 
+up with law enforcement officials from other countries to carry out multi-lateral operations 
+aimed at apprehending migrant smugglers and shutting down clandestine migrant routes. 
+a shared quality of these extraterritorial efforts is their emphasis on detention, including 
+the establishment of offshore detention sites as well encouraging the emergence of new 
+detention institutions in neighboring countries. during a three-decade period of outwardly-
+expanding  immigration  controls,  immigration-related  detentiondefined  by  the  global 
+detention project as the deprivation of liberty of non-citizens for reasons related to their 
+immigration status3has truly gone global.  
+from  mexico  to  the  bahamas,  mauritania  to  lebanon,  turkey  to  saudi arabia,  south 
+africa to indonesia, malaysia to thailand, immigration-related detention has become an 
+
+2  aristide zolberg initially developed the concept of remote control to characterize the emergence of visa 
+regimes, which enable states to regulate entrance to their territory before a persons arrival. see zolberg 1999 
+and 2001. 
+3  global detention project, http://www.globaldetentionproject.org/. for an explanation of this definition, see 
+flynn 2012.  
+
+166
+
+journal on migration and human securityestablished modus operandi that counts on dedicated facilities and burgeoning institutional 
+bureaucracies. before the decade of the 1980s, however, detention appears to have been 
+largely an ad hoc tool, employed mainly by wealthy states in exigent circumstances and 
+typically made use of prisons, warehouses, hotel rooms, or other off-the-shelf facilities. 
+while  there  has  been  no  comprehensive  study  that  documents  immigration  detention 
+regimes globally to date,4 the reasons detention policies and practices matured and grew 
+in major detaining countries like france, the united kingdom, and the united states have 
+been widely discussed and researched.5 less well known, however, is how this tool of 
+immigration control grew to have the worldwide dimensions it has today.
+this paper seeks to address this gap. it details the history of key policy events that led 
+to  the  spread  of  detention  practices  during  the  last  three  decades  in  three  far-flung  yet 
+interconnected  geographic  regions  of  the  worldthe  asia-pacific,  the  americas,  and 
+europeand assesses some of the factors that appear to have encouraged this outcome. the 
+paper makes use of a range of source material, including evidence developed by the author 
+as a result of on-the-ground reporting in various countries, official histories, diplomatic 
+correspondence, parliamentary records, and previous studies. using concepts developed 
+in the literature on policy diffusion, it shows how industrialized democracies learned from 
+each other the purported utility of detaining migrants and asylum seekers outside territorial 
+boundaries, and how this process eventually led to the emergence of new detention regimes 
+in a host of countries on their peripheries. 
+another objective of this paper is to focus attention on the role of the united states in this 
+process because its policy decisions (particularly during the 1980s and 1990s) appear to 
+have been instrumental in encouraging the process of policy innovation, imitation, andin 
+some casesimposition that has helped give rise to todays global immigration detention 
+phenomenon. ultimately, these policies have, in some form or another, traversed the planet 
+and appear to be influencing the practices of some of the united states closest neighbors, 
+thus the title of this paper. 
+more broadly, in telling this story, this paper seeks to underscore how the extraterritorial 
+immigration control efforts of the worlds major liberal democracies have severely impacted 
+the ability of migrants and asylum seekers to enjoy basic human rights, and the variety of 
+motives that have helped spur these developments. 
+
+the diffusion framework
+in detailing the history of the spread of immigration detention, this paper employs concepts 
+that have been developed in the literature on diffusion, a theoretical framework used in 
+international studies to describe how policies transfer between countries. 
+scholars  have  advanced  a  number  of  models  to  capture  different  types  of  diffusion 
+phenomena. according  to  one  definition,  policy  diffusion  is  a  process  through  which 
+communication regarding a policy in place in one country results in that policys adoption 
+
+4  the global detention project has published detention profiles on dozens of countries, which are available on 
+its website. however, a comprehensive account of the global spread of this practice has yet to be undertaken. 
+5  see, for instance, silverman 2012, fischer 2011, and welch 2002. 
+
+167
+
+the diffusion of immigration detention in another (wipfli 2007, 42). drawing from everett rogers classic work on diffusion of 
+innovations, wipfli states that there are five main aspects of this definition: (1) a policy 
+innovation; (2) a communication process enabling states to share innovations; (3) channels 
+of communication, including global issue-networks and interstate meetings; (4) differing 
+periods  of  time  for  innovations  (citing  rogers  distinction  between  innovators,  early 
+adopters,  early  majority,  late  majority,  and  laggards);  and  (5)  social  systemssuch  as 
+states or any collection of interrelated unitswhere diffusion occurs.
+this conceptualization of diffusion is intended to refer to a process of policy convergence 
+that  is  distinct  from  either  harmonizationlike  in  the  case  of  the  eu  directivesor 
+coercion resulting from power imbalances between states. instead, it aims to capture the 
+spontaneous unplanned spread of new ideas, which occurs in the absence of formal or 
+contractual obligation, or external pressure (wipfli 2007, 20).
+as  illustrated  repeatedly  in  this  paper,  this  narrowly  defined  concept  has  only  limited 
+application to global immigration detention. while it can assist in explaining certain elements 
+that are part of the spread of immigration control practices, in particular its emphasis on 
+innovation and divergences in the timing of policy adoption, rogers framework is unable 
+to capture the variety of ways in which immigration detention practices have diffused. for 
+instance, while there are some notable cases of policy imitation and spontaneous adoption 
+of detention practices, many instances of detention diffusion occur in a situation of power 
+imbalance or as a result of more formal policy harmonization processes. 
+other scholars have proposed a more detailed set of diffusion mechanisms. weyland (2005), 
+for instance, explores four mechanisms: (1) rational learning; (2) symbolic or normative 
+imitation;  (3)  cognitive  heuristics;  and  (4)  external  pressure.  rational  learning  models 
+contend that policymakers adopt policies by searching for rational solutions to perceived 
+problems through comprehensive cost-benefit analysis of available policy models, leading 
+to policy convergence. 
+in contrast to rational actor models, states also enact policies for symbolic and normative 
+reasons by imitating their neighbors and trying to emulate perceived best practices in their 
+pursuit of international legitimacy, often times window-dressing their efforts instead of 
+making substantive changes. guiraudon and lahav (2000) argue that states often seek to 
+circumvent normative constraints by seeking out burden-sharing arrangements and other 
+strategies that enable them to evade adhering to norms. others have pointed to the ability of 
+states to selectively apply human rights, like incorporating norms related to the security of 
+migrantssuch as ensuring proper conditions of confinementwhile resisting arguments 
+regarding the need to employ detention only as a last resort (flynn 2013). 
+cognitive heuristics emphasizes that policymakers know their interests and wholeheartedly 
+embrace policies not just for window dressing. however, according to this concept, such 
+actions do not necessarily coincide with the rational actor model whereby costs and benefits 
+are weighed based on comprehensive knowledge of possible solutions to social problems. 
+diffusion through external pressure can occur as a result of interstate relations and advocacy 
+from international organizations. as discussed later in this paper, external pressure is an 
+obvious and well-trodden path by which immigration control policies have spread in recent 
+
+168
+
+journal on migration and human securityyears, though there are a number of ways this notion can be refined to account for differing 
+experiences of diffusion. 
+weyland ultimately advances a cognitive-psychological framework, arguing that rational-
+choice  approaches  simplify  decision-making  whereas  cognitive  approaches  are  more 
+empirically grounded and are better equipped to explain decision-making in the absence of 
+an exhaustive cost-benefit analysis. operating in a context of bounded rationality, decision-
+makers endeavor to find policy solutions in the absence of a comprehensive assessment of 
+either the problem or all its possible solutions.
+weyland developed some of his arguments as part of an assessment of policy diffusion in 
+latin america, with a particular focus on the spread of pension schemes in that region. 
+however, a number of scholars have adapted similar concepts to explain the multitudinous 
+nature of the spreading of immigration control policies, particularly in the european sphere 
+where the evolution of internal freedom of movement in the eu has been accompanied by 
+increasing efforts to control the external borders of the region and to externalize control 
+efforts to third countries (karakayali and rigo 2010). others have underscored that as part 
+of the process of expanding migration controls, states have employed a host of private 
+entities  and  international  organizations,  in  effect  diffusing  certain  aspects  of  migration 
+control to non-state actors (guiraudon and lahav 2000). 
+according to lahav and guiraudon, these various strategies can be arranged on a playing 
+field  that  runs  along  two  intersecting  axes:  public-private  and  domestic-international 
+(lahav  and  guiraudon  2000,  58).  thus,  for  example,  in  the  domestic  sphere,  we  find 
+some  states  delegating  responsibility  for  apprehending  migrants  to  local  police  forces 
+(public) and increasingly using for-profit companies (private) to run detention centers. in 
+the international sphere, for instance, states pressure airlines (private) to verify whether 
+travelers have proper travel documentation and arrange with third-countries (public) to 
+manage migration movements (e.g., by establishing readmission agreements). 
+it is in the last quadrantpublic internationalthat we observe the phenomenon of policy 
+diffusion relevant to the case of immigration detention. in a study of the external dimension 
+of  eu  immigration  policy,  lavenex  and  uarer  (2004)  contend  that  there  are  various 
+avenues by which the eu effects external policy changes. these include the unintended 
+externalities of eu policies on third countries, the purposeful export of common policies 
+through bilateral and/or multilateral agreements, and the extension of european policies to 
+third countries through institutionalized forms of cooperation (lavenex and uarer 2004, 
+418).
+lavenex and uarer propose a conceptual model for explaining how immigration policies 
+diffuse internationally, which they term the policy transfer framework. according to this 
+framework, there are four principal forms of policy adaptation and transfer: (1) unilateral 
+emulation, in which countries are cognitively motivated to adopt a policy they learned or 
+observed from another without any external pressure or coercion; (2) adaptation through 
+externality, which is a mix of voluntary and involuntary adaptation that occurs when a 
+state elects to adopt a specific policy in response to the impact of policies adopted by a 
+neighboring country; and (3 and 4) two types of policy transfer through conditionality, 
+which in the case of europe is a policy transfer that occurs at the insistence of the eu 
+
+169
+
+the diffusion of immigration detention and where cooperation on a certain aspect of asylum and immigration policy is regulated 
+by a bilateral agreement between the eu and the third country. one version of this form 
+of  policy  transfer,  (3)  opportune  conditionality,  occurs  when  one  country  insists  that 
+another adopt a policy, but such adoption is viewed by the adopting country as a welcome 
+development. the  other  version,  (4) inopportune conditionality,  indicates  transfers  that 
+occur in a more authoritative manner, which usually implies significant costs to the third 
+country (lavenex and uarer 2004, 421). according to lavenex and uarer, the broad 
+network of eu external agreements provides a powerful tool for binding third countries to 
+common eu policies, thereby extending the scope of the latter (ibid.).
+while weylands cognitive-psychological framework provides a valuable critique of the 
+shortcomings of rational-choice, the objective in this paper is not to advance a particular 
+theoretical framework. rather, it aims to use basic explanatory models for underscoring the 
+diverse contexts in which the diffusion of immigration detention practices occur. because 
+it is broadly conceptualized and particularly geared to explaining diffusion in the migration 
+context, lavenex and uarers framework is well equipped to achieve this task. 
+
+the origins of guantnamo 
+an  internal  history  of  the  us  immigration  and  naturalization  service  (ins)  recounts 
+how passage of the chinese exclusion act and other restrictionist measures in the 1880s 
+created a new federal function, immigration control, which led to the development of the 
+countrys first national immigration policy. as the history illustrates, since its earliest days, 
+us immigration control has employed detention as a key tool:
+
+operations began in new york harbor at a new federal immigration station on ellis 
+island, which opened january 2, 1892. the largest and busiest station for decades, ellis 
+island housed inspection facilities, hearing and detention rooms, hospitals, cafeterias, 
+administrative offices, railroad ticket offices, and representatives of many immigrant 
+aid societies. ellis island station also employed 119 of the immigration services entire 
+staff of 180 in 1893. the service continued building additional immigrant stations at 
+other principal ports of entry through the early twentieth century. (smith, n.d.)
+
+thus was born what appears to be one of the worlds first immigration detention estates.6 
+between then and now, the united states has experienced numerous periods during which 
+the issue of immigration has reached a fever pitch in public discourse, most recently in 
+the early 1980s, mid-1990s, and in the aftermath of the 9/11 attacks. these successive 
+periods of collective societal alarmoften encouraged by elected officialshelped spur 
+not only stepped-up internal detention and deportation practices but also efforts to control 
+migration beyond us borders, resulting in the adoption of stepped-up detention practices 
+in neighboring countries. 
+the  modern  us  immigration  detention  estate  first  emerged  in  the  early  1980s,  when 
+6  it is worth noting that another facility from roughly the same era, the angel island immigration station in 
+the san francisco bay, acted more like a detention center than ellis island, where most people were detained 
+for only brief periods of time. in contrast, angel island, which opened in 1910, detained numerous chinese 
+and other asian migrants for long periods of time. 
+
+170
+
+journal on migration and human securitythe  reagan-era  immigration  and  naturalization  service  (ins)  began  systematically 
+apprehending  unauthorized  migrants  from  certain  countries  in  response  to  growing 
+migration  pressures  from  the  caribbean.  the  ins  opened  a  number  of  new  detention 
+centers in puerto rico and the us mainland to cope with the resulting surge in detainees 
+(frenzen 2010, 377). according to welch, prior to the 1980s, the ins enforced a policy 
+of detaining only those individuals deemed likely to abscond or who posed a security risk 
+(2002, 107). 
+in  a  1985  us  supreme  court  case,  jean  v.  nelson,  the  court  overturned  a  mandatory 
+detention policy put in place in 1981 that strictly targeted haitian nationals. according to 
+one migration scholar, to a large extent once the jean v. nelson decision came down and 
+the reagan administration did not have the authority to detain only haitians, the current 
+detention system was born, i.e. detain all nationalities.7 
+a year after this court ruling, in 1986, the government passed the immigration control and 
+reform act (irca), which combined the legalization of certain unauthorized immigrants 
+with stepped-up internal enforcement and control measures (dixon and gelatt 2005). irca 
+marked a significant moment in the us approach to immigration by cementing enforcement 
+of immigration restrictions as a cornerstone of us policy. according to a 2005 assessment, 
+overall  spending  on  enforcement  activities  has  ballooned  from  pre-irca  levels, 
+with appropriations growing from $1 billion to $4.9 billion between fiscal years 1985 
+and  2002  and  staffing  levels  increasing  greatly.  resources  have  been  concentrated 
+heavily on border enforcement, particularly the border patrol. spending for detention 
+and removal/intelligence activities multiplied most rapidly over this period, with an 
+increase in appropriations of over 750 percent. (dixon and gelatt 2005)
+
+the  increased  pressure  on  internal  enforcement  measures  helped  lead  to  a  number  of 
+innovations in us policy. in particular, the need to quickly ramp up detention capacity was 
+exploited by prison privatization entrepreneurs and their supporters in congress to pressure 
+the ins to allocate funds in the mid-1980s for establishing the countrys first privately-run 
+immigration detention center.8 since then, numerous other countries, particularly in the 
+anglophone world, have invited private prison companies to manage their immigration 
+detention facilities, raising important questions about everything from legal accountability 
+at detention centers to the social forces that may be involved in promoting growth in this 
+practice (flynn and cannon 2009).9 
+this period also saw early efforts by the united states to extend enforcement measures 
+
+7  niels frenzen, e-mail correspondence with the author, march 26, 2014.
+8  t. don hutto co-founded with tom beasley and robert crants the corrections corporation of america 
+(cca) in 1983. in 1984, cca opened the countrys first privately-run detention center using a former hotel 
+called the olympic motel. this temporary facility, which according to cca was opened at the behest of the 
+ins, was replaced soon thereafter by the houston processing center, ccas first design, build and manage 
+contract  from  the  us  department  of  justice  for  the  bureau  of  immigration  and  customs  enforcement 
+(formerly the ins) in texas (cca, a quarter century of service to america, http://cca.com/our-history).
+9  it is important to note that the united states was not the first case of privatization in the field of immigration 
+detention. in the 1970s, the united kingdom delegated responsibilities to private contractors in detention 
+facilities based on the logic that the use of prison or police officers would be seen as too oppressive for non-
+prisoners (bacon 2005, 6). 
+
+171
+
+the diffusion of immigration detention beyond its physical borders in order to deter asylum seekers and prevent alien smuggling. 
+this  process  eventually  led  to  the  establishment  of  one  of  the  worlds  first  offshore 
+immigration detention facilitieswhich is now privately-operated and called the migrant 
+operations centerat the us naval base in guantnamo bay, cuba. the bases central 
+role in the history of immigration detention is of course today overshadowed by its more 
+notorious role as the detention site for alleged unlawful combatants apprehended as part 
+of the us war on terror.10 
+helping spur these various developments in us immigration policies and practices were 
+large-scale migration events involving people from cuba and haiti starting in 1980. in 
+april of that year, fidel castro announced that cuban americans could pick up friends and 
+relatives at the cuban port of mariel, which led to the creation of a freedom flotilla that 
+transported some 125,000 cubans to the united states within the first several months of 
+what later became known as the mariel boatlift. in an effort to discredit the emigrants, 
+the castro government obliged boats to transport numerous convicted criminals, mental 
+health patients, and provocateurs. this large migration of people was soon augmented by 
+one from haiti, which in 1980 saw its emigration rate shoot up 25 times the rate of the 
+1970s (welch 2002, 86).
+the size of this migration phenomenon was not the only element that generated public 
+reaction. the social characteristics of the people also seem to have played a role. many 
+of the cubans who had fled to the united states after the revolution were white, educated 
+elites, whose emigration was encouraged by the united states. in contrast, the mariels 
+were poorer and had been labeled criminals by both the cuban government and some us 
+officials. these differences, together with significant increases in asylum seekers, provided 
+fertile terrain for immigration opponents.
+at  the  same  time  that  immigration  authorities  were  busy  rounding  up  haitians  and 
+excludable  cubans  on  us  territory,  the  reagan  administration  began  a  policy  of 
+interdicting migrant boats in international waters. in 1981, president ronald reagan issued 
+a presidential proclamation in which he suspended the entry of undocumented aliens 
+from  the  high  seas  because  it  had  become  detrimental  to  the  interests  of  the  united 
+states.11  he subsequently ordered the coast guard to board foreign vessels in international 
+waters to determine whether passengers had documentation to enter the country (frenzen 
+2010). 
+while  the  united  states  officially  acknowledged  that  the  1951  convention  relating  to 
+the status of refugees prohibition against non-refoulement applied to people interdicted 
+during these operations, haitians were given summary asylum hearings on board coast 
+guard vessels that lasted only minutes. the vast majority were then sent back to haiti 
+
+10  this effort to externalize immigration enforcement was grounded in a core aspect of us immigration law 
+that has become well-established through us case law, the plenary power doctrine. this doctrine provides 
+congress full and plenary power over immigration enforcement. the first us supreme court case to discuss 
+the forced detention of a non-citizen was chae chan ping, which concerned the detention of a chinese 
+laborer by a steam-ship captain who was trying to comply with the chinese exclusion act of 1882, which 
+provided an absolute moratorium on chinese labor immigration (chae chan ping v. united states, 130 u.s. 
+581 (1889)).
+11  proclamation no. 4865, 46 fed. reg. 48107 (september 29, 1981. 
+
+172
+
+journal on migration and human securityunder an agreement the united states had established with the duvalier regime. of the 
+estimated 23,000 haitians interdicted by the coast guard during this program, only eight 
+were judged to have bona fide asylum claims (estimate from cheryl little, cited in frenzen 
+2010,  380). as  one  scholar  writes,  washington  wished  to  deal  with  haitian  migrants 
+outside us territory, since if they reached us shores they could often delay deportation 
+through  a  series  of  claims  within  the  us  administrative  and  courts  systems  (mitchell 
+2000, 87).12
+throughout their history, offshore interdiction and detention programs consistently provoke 
+thorny  questions  regarding  jurisdiction,  custody  and,  ultimately,  sovereignty  (see  also 
+adler-nissen and gammeltoft-hansen 2008). these practices have also led to numerous 
+accusations that the united states and other wealthy destination countries are abetting the 
+mistreatment of migrants by supporting their detention in squalid and sometimes inhuman 
+conditions, and undermining obligations provided in treaties like the united nations (un) 
+refugee convention. 
+in the case of the 1980s us caribbean solution, a key issue raised by advocacy groups 
+was whether the summary asylum hearings on coast guard boats were adequate and non-
+discriminatory. the government responded arguing that us courts did not have jurisdiction 
+to review the adequacy of the shipboard screening procedures  because the interdiction 
+and screening took place in international waters (frenzen 2010, 380). in the 1985 case 
+haitian refugee center v. gracey, a lower court ruled against the advocates, concluding 
+that the relevant laws only establish procedures guaranteed to aliens within the united 
+states. because the interdicted haitians never reach the united states, these [laws] can 
+provide  no  relief  to  plaintiffs. this  judgement  would  be  repeated  in  subsequent  cases 
+involving caribbean interdiction operations, including the 1993 supreme court case sale 
+v. haitian centers council. in 1992, president george h.w. bush issued a presidential 
+order that officially ended the previous policy of applying the refugee conventions article 
+33 non-refoulement norm in cases of people apprehended in international waters, thereby 
+freeing us authorities to summarily return migrants (frenzen 2010, 385). 
+in the early 1990s, a political and humanitarian crisis in haiti spurred by the overthrow 
+of president jean-bertrand aristide prompted a new large-scale migration to the united 
+states,  which  was  followed  in  1994  by  a  significant  upsurge  in  cuban  balseros.  this 
+time,  however,  the  united  states  faced  political  challenges  in  returning  the  interdicted 
+migrants because of the brutality of the cdras junta that had ousted president aristide. 
+while the united states sought out third countries to send haitians fleeing the violence
+including jamaica, the bahamas, the dominican republic, belize, venezuela, honduras, 
+and suriname (frenzen 2010)those intercepted were kept on the decks of coast guard 
+cutters, under jury-rigged tarpaulins to ward off sun and rain, writes mitchell (2000, 88). 
+conditions on the vessels quickly became unmanageable  and camps for the migrants 
+were hurriedly constructed at the nearest offshore us facility: the guantnamo bay 
+naval base in eastern cuba. at other times, detained refugees were held on us bases 
+in panama, and on a hospital ship anchored in the harbor at kingston, jamaica. (ibid.) 
+according  to  the  congressional  research  service,  the  administration  of  george  h.w. 
+12  for a summary of us policies toward haitian refugees, see kerwin 2012, 20. 
+
+173
+
+the diffusion of immigration detention bush began using the guantnamo naval airbase to detain haitians in 1991. it reports that 
+immigration and customs enforcement (ice) uses this migrant operations center to 
+hold no more than 20-40 people at a time (wasem 2009). 
+throughout the 1990s, guantnamo was a key element of the us response to boat migration 
+events. in july 1994, for instance, as the us prepared to overthrow the military junta then 
+in power at port-au-prince, it began sending all interdicted haitians to guantnamo as 
+part of a new safe haven policy, ultimately detaining some 16,000 people there. after the 
+overthrow of the junta, the united states gave the detainees that remained at the facility 
+the option of voluntarily returning and receiving $80 dollars or being forcibly repatriated 
+without payment (frenzen 2010, 384).
+in addition to guantnamo, by the early 1990s, the united states had access to a network 
+of  offshore  processing  facilities  that  extended  from  the  bahamas  to  panama. as  one 
+scholar  writes,  these  sites  presented  a  range  of  logistical  constraints  for  detainees, 
+and, importantly, the camps made it challenging for asylum seekers to access us asylum 
+procedures (magner 2004).
+
+ operation global reach
+running parallel to the situation in the caribbean were a number of other developments 
+and events in the early 1990s, which according to observers conspired to generate renewed 
+public alarm about immigration. these included a stagnating economy, the 1993 bombing 
+of the world trade center, the 1995 bombing of the federal building in oklahoma city, and 
+several widely publicized immigration-related incidents. one important event at the time 
+was the 1993 drowning of several undocumented migrants when the chinese smuggling 
+vessel transporting them, the golden venture, ran aground off queens, new york, spurring 
+widespread fears about growing chinese smuggling rings in the united states. 
+according to a new york times account, 
+
+the nightmarish, four-month journey of the golden venture began off the coast of 
+thailand and wound through the indian and atlantic oceans. it ended on june 6, 1993, 
+when the freighter was ordered to run aground on the rockaway peninsula in queens 
+and the nearly 300 immigrants aboard were told to swim ashore in the early morning 
+darkness. ten of the passengers drowned or died of hypothermia from the effort, which 
+required a long swim through rough waters because the ship ended up on a sandbar 
+200 yards offshore. the immigrants, who had made various down payments to get 
+aboard, were to pay the rest of the $30,000 fee after their illegal arrivals in the united 
+states. nearly all of those who made it to shore were quickly rounded up and many 
+spent up to three and a half years in american jails after their voyage. (fried 1998)
+
+public  officials  and  political  candidates  capitalizing  on,  and  sometimes  instigating,  a 
+resurgent  fear  over  immigration,  competed  over  who  could  develop  the  most  stringent 
+measures. in states like california, public pressure to get tough on unauthorized immigration 
+from  mexico  eventually  led  to  passage  of  anti-immigrant  measures  that  denied  public 
+services to the unauthorized. at the same time, the federal government began laying the 
+groundwork for a massive overhaul of its immigration policies and practices (nevins 2000).
+
+174
+
+journal on migration and human securityhelping to increase tensions were the negotiations between canada, mexico, and the united 
+states over the north american free trade agreement (nafta). nafta presented the 
+us government with a seemingly intractable dilemma: how could the country open its 
+borders to the free transit of goods and servicesand yet keep out unwanted migrants? 
+in 1993, the clinton administration proposed a one-size-fits-all solution to the problem
+the country would build bigger and better walls. the first target was el paso, texas, where 
+in 1993 the ins implemented operation hold the line, one of a series of border blockade 
+efforts that involved building walls along selected sections of the border, multiplying the 
+number of border guards, and deploying a fleet of jeeps, boats, and helicopters armed with 
+high-tech sensor equipment. no longer would the country wait to detain migrants after 
+they crossed the border; instead, it would employ what the ins called territorial denial 
+and prevention thorough deterrence strategies meant to keep aliens from reaching us 
+territory (spencer 2000; nevins 2000).
+in 1996, the clinton administration bolstered these border protection measures with two 
+laws that dramatically expanded the detention and deportation mandates of immigration 
+authoritiesincluding  a  dramatic  expansion  of  mandatory  detention  for  certain  groups 
+of  non-citizensthe antiterrorism  and  effective  death  penalty act  (aedpa)  and  the 
+illegal  immigrant  reform  and  immigrant  responsibility  act  (iirira).  according  to 
+most accounts, these two laws more than any other intervening eventthe 9/11 attacks 
+includedhave been instrumental in the ballooning of the us detention estate. by 2009, 
+the countrys budgeted immigration-related detention capacity was 33,400, up from 27,500 
+in 2006 and 6,785 in 1994 (roberts 2009).13 
+while these high-profile endeavors were drawing media and public attention, below the 
+radar the clinton administration was busy formulating a set of policies aimed at projecting 
+its prevention through deterrence strategy beyond the border. in june 1993, president 
+william  j.  clinton  issued  presidential  decision  directive-9  (pdd-9).  prompted  in  part 
+by  the  rise  of asian  migrant-smuggling  syndicatesin  particular,  the  snakeheads,  a 
+notorious chinese smuggling outfit whose activities gained headlines in the aftermath of 
+the golden venture tragedypdd-9 directed a passel of government agencies to take the 
+necessary measures to preempt, interdict, and deter alien smuggling in the us.  we will 
+deal with the problem at its source, in transit, at our borders, and within the united states. 
+we will attempt to interdict and hold smuggled aliens as far as possible from the us border 
+and to repatriate them when appropriate.14 
+the president outlined the responsibilities each government agency would shoulder: 
+
+justice and ins will be responsible for criminal enforcement and all us prosecutions 
+and  for  conducting  law  enforcement  operations  and  investigations  outside  the  us. 
+  state  will  be  responsible  for  international  policy  and  relations  with  foreign 
+
+13   a  2013  report  published  by  the  migration  policy  institute  indicates  that  spending  on  immigration 
+enforcement has continued to skyrocket. by 2012, the total budgets of immigration and customs enforcement 
+(ice) and the customs and border protection (cbp) was nearly $18 billion, more than the combined budgets 
+of all the other principal law enforcements agencies combined (meissner, et. al 2013, 21).  
+14  clinton adminstration presidential decision directive pdd/nsc 9, alien smuggling (june 18, 1993). 
+http://fas.org/irp/offdocs/pdd/pdd-9.pdf.   
+
+175
+
+the diffusion of immigration detention governments  and  international  organizations.  transportation  and  coast  guard  will 
+be  responsible  for  interdiction  at  sea  with  appropriate support  by  defense.   the 
+director of central intelligence will be responsible for foreign intelligence in support 
+of interdiction efforts.  the border security working group will be responsible for 
+coordinating the interagency effort overall. efforts at the source state will approach 
+source nations whose nationals, businesses, and/or infrastructure provide assistance to 
+alien smuggling and to develop common policies to prevent the departure of criminal-
+sponsored, non-refugee, and undocumented aliens.15 
+
+various elements of this directive would later be crystallized in an ins-led initiative called 
+operation global reach. global reach, launched in 1997, entailed an unprecedented 
+expansion  of  us  anti-smuggling  and  migrant  interception  activities.  according  to  a 
+2001 justice department fact sheet, global reach was a strategy of combating illegal 
+immigration through emphasis on overseas deterrence. the ins established 40 overseas 
+offices with 150 us positions to provide a permanent presence of immigration officers 
+overseas,  trained  more  than  45,000  host-country  officials  and  airline  personnel  in 
+fraudulent document detection, and completed special operations to test various illegal 
+migrant deterrence methods in source and transit countries (doj 2001a).
+during a 1997 news conference announcing the initiative, thenins commissioner doris 
+meissner argued that global reach was a necessary response to the growing problem of 
+alien smuggling: 
+
+let me be clear about the problem. migrant trafficking is ruthless, and it has become 
+global.  these smuggling organizations will use any means whatsoever to produce 
+profits. we have seen instances of mistreatment as well as cases of murder, rape, torture, 
+forgery, and extortion. all too often, unwitting customers are forced into prostitution, 
+virtual bondage, or criminal activities. (meissner et al 1997)
+
+although  global  reach,  about  which  there  is  little  or  no  official  information  available 
+after 2003, was an international programvarious us agencies collaborated with officials 
+in  greece,  spain,  india, turkey,  thailand,  china, vietnam,  as  well  as  dozens  of  other 
+countriesits  greatest  impact  seems  to  have  been  in  latin  america.  as  the  primary 
+sources of unauthorized migration to the united states, as well as the principal regions 
+through which traffickers and migrants from across globe are funneled before reaching the 
+country, mexico and central america have long been a central focus of us cross-border 
+interdiction, even before global reach was initiated. 
+in 1996, the ins district office in mexico city began a series of intelligence and anti-
+smuggling operations called operation disrupt, which targeted migration and smuggling 
+activities in the dominican republic, costa rica, ecuador, honduras, and canada. in a 
+1997  testimony  before  the  house  subcommittee  on  immigration  and  claims,  george 
+regan, then-ins acting associate commissioner, claimed that as part of disrupt, ins had 
+undertaken joint operations with foreign counterparts to break up several latin american 
+and chinese smuggling organizations.16
+
+15  ibid.
+16   testimony  of  george  regan,  acting  associate  commissioner,  enforcement,  immigration  and 
+naturalization service, in us congress, house committee on the judiciary, subcommittee on immigration 
+
+176
+
+journal on migration and human securityin 1997, after disrupt activities became a part of the overall global reach initiative, the 
+ins significantly broadened the scope of its latin american activities, undertaking annual 
+multilateral interception operations with law enforcement personnel from dozens of latin 
+american countries. according to rights advocates in these countries, during the operations, 
+us immigration authorities served as advisors and provided funding to detain and deport 
+those apprehended (usccb 2000). 
+in a series of yearly press statements in the late 1990s and early 2000s, the agency proudly 
+announced  the  results  of  each  operation.  in  2000,  for  example,  the  ins  declared  that 
+years disrupt operation, forerunner, to be the largest anti-smuggling operation ever 
+conducted in the western hemisphere. involving agents from six latin america countries, 
+the operation nabbed 3,500 migrants and 38 smugglers (doj 2000). 
+forerunner  was  followed  in  2001  by  crossroads  international,  which  the  ins  again 
+described  as  the  largest  multinational  anti-smuggling  operation  ever  conducted  in  the 
+western hemisphere, this one resulting in the arrest of 75 smugglers and the interdiction 
+of some 8,000 migrants from 39 countries. according to a press statement, the wide-
+ranging anti-smuggling operation was directed by the ins mexico city district office and 
+involved . . . law enforcement officers in columbia, costa rica, the dominican republic, 
+ecuador, el salvador, guatemala, haiti, honduras, jamaica, mexico, panama, and peru 
+(doj 2001b). 
+officials in countries participating in the us-led anti-smuggling operations often received 
+us budgetary assistance to help detain and deport migrants. in 2000, for example, the us 
+catholic conference of bishops (usccb), which had sent a delegation to central america 
+to study regional migration issues, issued a scathing press release decrying us interdiction 
+activities in the region (usccb 2000). as part of the trip, the conference representatives 
+visited a prison in tegucigalpa, honduras, that was filled with migrants who had been 
+detained during operation forerunner. the press release noted that while operations were 
+purportedly  targeted  at  smugglers,  they  resulted  in  thousands  of  migrants  being  placed 
+in substandard prisons in the region without representation or the opportunity to apply 
+for asylum. it added that the us officials were intimately involved in these interdiction 
+efforts, offering teams of advisors to the central american governments and paying for 
+the return of extra-regional migrants to their homes. one us official told the conference 
+representatives, it is less expensive to take care of the problem here than when they reach 
+the united states (ibid.).   
+in another case from 2001, kanu patel, a migrant from india who had paid thousands of 
+dollars to be smuggled halfway across the globe to the united states, was arrested in mexico 
+along with dozens of his compatriots as they approached the us border (miami herald 
+2001). under pressure from the united states to toughen its stance on illegal migration, 
+mexico deported the migrants to guatemala, where they were placed in a squalid detention 
+center  that  received  funding  through  the  us  embassy. after  spending  eight  months  in 
+detention and being repeatedly denied medical attention for cardiac pains, patel committed 
+suicide (miami herald 2001; flynn 2002). 
+an investigative report published by this author at the time established that the facility at 
+and claims, combating illegal immigration: progress report, 105th cong.,1st sess., apr. 23, 1997.
+
+177
+
+the diffusion of immigration detention which patel had been detained was one of two facilities that had received funding through the 
+us embassy in guatemala city in direct response to a request from guatemalan authorities, 
+who complained that anti-smuggling operations were overwhelming their capacities (flynn 
+2002). in an interview, a guatemalan immigrant-rights advocate described the two us-
+funded detention centers, which were closed shortly after patels suicide, stating that after 
+operation disrupt in 2001, the centers were filled with people from everywherefrom 
+ecuador,  india,  peru,  syria,  cuba.  in  one  space  there  were  40  people.  everything  was 
+being destroyed, there was no light, no air. they were worse than our jails (flynn 2002). 
+in response to inquiries about whether us officials had bothered to check on the facilities 
+they were funding, a us embassy spokesperson claimed she did not know and referred 
+questions to the ins regional office in mexico city. the director of this office said that us 
+officials did eventually visit, and they determined that the facilities guatemala was using 
+were not acceptable. guatemala is now looking at another location to build a new detention 
+center, which will be almost like a model for central america. . . . i sent my deputy director 
+to check it out because we are greatly concerned (flynn 2002).
+this evolution of guatemalan detention efforts appears to reflect two of the diffusion models 
+advanced by lavenex and uarer. on the one hand, we can observe policy transfer through 
+conditionality insofar as the multi-lateral anti-smuggling operation in which guatemala 
+participated appears to have been undertaken at the instigation of the united states. at 
+the same time, however, us efforts to effectively push out its border controls resulted in a 
+situationa dramatic increase in the numbers of third-country nationals in custodythat 
+forced guatemalan authorities to adopt new detention strategies, including using hastily 
+prepared ad hoc facilities and requesting funds to operate them. such a situation appears to 
+track closely with the notion of adaptation through externality, or a mix of voluntary and 
+involuntary adjustments that occur when a state elects to pursue a policy in response to the 
+impact of policies adopted by another country. 
+in other cases of us offshore interdiction from this period, the overriding issues are less 
+concerned with diffusion processes than they are about the deployment of innovative
+and at times apparently misleadingtactics to overcome the constraints of custody and 
+sovereignty  that  arise  when  operating  outside  national  boundaries.  one  notable  case 
+occurred in 2002, when the us navy interdicted an ecuadorian vessel, the san jacinto, 
+off the coast of guatemala and towed it to southern mexico, where the 270 migrants on 
+board were briefly questioned and then repatriated. although nominally in the custody of 
+mexican officials, the five alleged smugglers, identified by passengers as the crew, were 
+questioned by ins officials, who, somewhat remarkably given their location at the time, 
+advised them of their rights under the us constitution. although the crew had little or no 
+understanding of us laws, the ins officials asked them if they would waive their miranda 
+rights, which they did (flynn 2003 and 2005b).
+according to court documents filed in federal court in washington, dc, ins officials then 
+contacted the justice department about the case, and the decision was made to file an arrest 
+warrant against the crew. according to one document from the us attorneys office, after 
+being expelled from mexico, the defendants were arrested in houston, where their flight 
+landed, and taken into custody by federal authorities (flynn 2005b).
+the documents fail to explain how the crew ended up on that flight, or whether they had 
+
+178
+
+journal on migration and human securityany idea they were heading to the united states. according to an attorney who represented 
+the crewmembers, when they boarded their flight in mexico, their understanding was 
+that they were going to ecuador (flynn 2005b). in an interview with this author, a us 
+immigration official in ecuador solved the mystery, explaining that mexico would be the 
+country that deported [the crew], and if they choose to deport them by way of the united 
+states, where the plane has a layover, what can we do about it? (flynn 2005b).
+while the coast guard, with support from the us navy, has long been a key player in the 
+caribbean, its national security mandate was expanded in the early 1990s as the result of 
+a succession of presidential decrees. in testimony before congress in 1999, coast guard 
+captain anthony s. tangemon described the orders: 
+
+president [george h.w.] bush issued [executive order] 12807 in 1992, directing the 
+secretary  of transportation  to  issue  appropriate  instructions  to  the  coast  guard  to 
+enforce the suspension of the entry of undocumented aliens into the us by sea and to 
+interdict the vessels carrying them. president [bill] clinton issued pdd-9 [presidential 
+decision directive-9] in june 1993, directing the coast guard and other federal law 
+enforcement agencies to cooperate in the suppression of alien smuggling.17
+
+one outcome of these orders was stepped-up enforcement efforts in the pacific ocean. 
+in the late 1990s, the united states apprehended thousands of chinese migrants during 
+interdiction patrols in the western pacific. the migrants were subsequently sent to guam, 
+midway island, and the northern mariana islands for processing (frenzen 2010). 
+as  the  san  jacinto  case  illustrates,  the  us  coast  guard  also  extended  its  interdiction 
+efforts to the southern pacific coast of the americas at this time, which was experiencing 
+significant upsurges in the number of chinese and ecuadorian smuggling vessels. although 
+the principal mission of the patrols has been to search for illegal narcotics trafficking, the 
+coast guard (sometimes with the support of the us navy or its counterparts in mexico) 
+regularly intercepts migrant smuggling boats, often for legitimate humanitarian purposes. 
+most  of  the  vessels  do  not  have  the  proper  conditions  to  transport  migrants  and  lack 
+emergency equipment (thompson and ochoa 2004). interdicted migrants have been sent 
+to detention facilities in the southern mexican city of tapachula and to guatemala city to 
+await deportation (flynn 2002). 
+for several years, the coast guards efforts in the pacific were bolstered by the operation 
+of surveillance planes flying out of a now-shuddered us military base in manta, ecuador. 
+the  base,  which  became  a  lightning  rod  for  criticism  of  us  actions  and  intentions  in 
+latin america, is widely believed to have played a key role in efforts to detain unwanted 
+migration at its source (finley 2004). us ships operating out of manta detained thousands 
+of  unauthorized  migrants  heading  north  and  destroyed  suspected  smuggling  vessels  in 
+ecuadorian waters, a practice that was loudly decried in that country and was the subject 
+of an ecuadorian congressional investigation (flynn 2005b). 
+furor over us interdiction efforts in the region erupted in october 2004 after the u.s.s 
+curts  intercepted  an  ecuadorian  fishing  vessel  carrying  some  80  migrants  240  miles 
+
+17  testimony of anthony s. tangemon before the subcommittee on immigration and claims, us house of 
+representatives, may 18, 1999.
+
+179
+
+the diffusion of immigration detention northeast of the galapagos islands. when the migrants arrived in manta, they immediately 
+denounced the abuses they had suffered at the hands of us sailors who, they said, had 
+mistreated several detainees in an effort to identify the crew. one of the detainees told 
+reporters that sailors had beaten a polio victim with an iron bar because he didnt get up 
+fast enough (ros 2004).
+us  coast  guard  interdiction  efforts  peaked  in  the  mid-2000s,  with  detention  numbers 
+reaching some 10,000 per year during 2004-2005. the numbers tailed off during the final 
+years of the bush presidency, a trend that continued after the election of president barack 
+obama. in 2011, the coast guard reported interdicting 2,474 migrants, followed by 2,955 
+in 2012, and 2,094 in 2013 (uscg 2014).
+although the manta base was shuttered in 2009 and interdiction numbers have tapered 
+off  in  recent  years,  the  obama  administration  has  continued  to  pursue  extraterritorial 
+strategies, including providing support for detention practices in neighboring countries. 
+in september 2010, for example, the us embassy in the bahamas reported that united 
+states northern command co-sponsored a tour with the embassy of the krome service 
+processing and detention center in florida by members of the royal bahamas defence 
+force  commando  squadron  in  order  to  discuss  best  practices  in  immigration  facility 
+detention management. according to the embassy press release, the krome visit was the 
+second in a series of exchanges on detainee operations funded by usnorthcom (us 
+embassy nassau 2010).
+more recently, in december 2011, panamanian officials announced that the united states, 
+columbia, and panama were jointly opening a new training center in the central american 
+country that would have as one of its objectives training security personnel on how to 
+combat the smuggling of unauthorized migrants in the region (prensa latina 2011). the 
+announcement followed the opening in panama earlier that year of a central american 
+center of regional security information (sica), which receives logistical support from 
+us southern commands joint inter agency task force-south. the center, which includes 
+personnel  from  the  militaries  and  police  forces  of  all  countries  in  central america,  is 
+located at the former us howard air base. among its primary goals, alongside fighting 
+narco-trafficking, is to combat human smuggling in the region (el nuevo diario 2011). 
+
+ the pacific solution and beyond
+although many us externalization efforts have remained largely off the media and scholarly 
+radars, the countrys activities in the caribbean, including the use of guantnamo as an 
+offshore detention site, have served as important exemplars for other countries seeking 
+ways to export their border controls. 
+in particular, in the early 2000s, australian parliamentary records reveal that officials in 
+that country specifically cited us detention operations at guantnamo, as well as at the 
+mariana islands and midway, when proposing the pacific solution aimed at interdicting 
+vessels before they reached national waters and detaining asylum seekers and unauthorized 
+migrants in offshore facilities located in nauru and papua new guinea.
+the seeds of this policy appear to have been sown in the early 1990s, when a labor-led 
+
+180
+
+journal on migration and human securitygovernment introduced the policy of mandatory detention of unlawful immigrants with 
+passage of the 1992 migration amendment act. the policy was spurred by public concern 
+about mounting numbers of unauthorized boat arrivals, which the government argued were 
+undermining the countrys ability to protect its borders (stevens 2002). the amendment 
+made  detention  mandatory  for  all  unauthorized  boat  arrivals.  the  maximum  length  of 
+detention was increased to nine months, but could be prolonged indefinitely due to legal 
+procedures and appeals (stevens 2002). the law also established that detainees could only 
+be freed if they were removed from the country or granted a visa, leaving no room for 
+alternative arrangements such as bail (amnesty international 2005). to accommodate the 
+resulting  increases  in  the  detainee  population,  additional  immigration  detention  centers 
+were established in remote areas of australia, with heightened security (stevens 2002). 
+the  real  impact  of  this  policy  was  not  feltexcept,  of  course,  amongst  the  detainees 
+themselvesuntil the late 1990s, when australia began experiencing new increases in the 
+number of asylum seekers and unauthorized migrants from the middle east and central 
+asia  being  smuggled  into  the  country  through  indonesia.  although  the  total  numbers 
+of  people  remained  relatively  smallless  than  4,000  annuallythe  situation  became 
+politically  charged  as  the  government  ran  into  a  number  of  well  publicized  difficulties 
+trying to process and remove the migrants, which resulted in entire families being held for 
+years in highly restrictive detention conditions (amnesty international 2005). 
+as the australian government came under increasing international criticism for its mandatory 
+and indefinite detention policies, officials began looking for alternative strategies to limit 
+the countrys exposure to boat people. on august 26, 2001, authorities were presented 
+with an ideal case to deploy these strategies when surveillance flights detected a suspicious 
+fishing vessel off the coast of christmas island. a bills digest from a september 2001 
+australian parliament debate recounts the ensuing events: 
+
+the vessel was carrying 433 potential asylum seekers [from afghanistan] en route 
+to australia before it broke down. the following day australian search and rescue 
+(aussar) broadcast a call to any merchant ships in the vicinity to render assistance 
+to  the  stricken  vessel.  a  norwegian  freighter,  the  tampa,  responded  to  the  call, 
+intercepting the vessel and bringing its passengers aboard. the master of the tampa, 
+captain arne rinnan, had intended to take the rescuees to a port in indonesia but was 
+requested by the passengers to proceed to christmas island. before the tampa reached 
+australias territorial waters it was instructed to remain in the contiguous zone. on 
+28 august the tampa issued a distress signal based on the fact that assistance had not 
+been provided within 48 hours. on 29 august it proceeded into the territorial waters 
+surrounding christmas island and was interdicted by 45 sas members. the same day 
+the government introduced border protection legislation into parliament. 18
+
+the legislation tabled by the government proposed allowing australian officers to detain
+using reasonable force if necessaryany ship in the territorial sea and to force the ship 
+to be taken outside the territory. the legislation also proposed making such actions not 
+reviewable by the courts because of concerns, as the digest states, that the rescuees might 
+18   bills  digest  no.  62  2001-02:  border  protection  (validation  and  enforcement  powers)  bill  2001. 
+parliamentary  library,  parliament  of  australia.    http://www.aph.gov.au/parliamentary_business/bills_
+legislation/bd/bd0102/02bd062.
+
+181
+
+the diffusion of immigration detention have access to protection visas and the judicial review system (ibid.). the initial bill was 
+rejected  by  the  senate. additionally,  the  decision  to  force  the  detention  of  the  asylum 
+seekers on board the tampa, where they had remained after the sas took control of the 
+tampa, was found to be unlawful by a federal court. 
+one month after the incident, in september 2001, the australian government successfully 
+introduced the pacific solution, a set of legislative changes that allowed for the detention 
+of  unauthorized  migrants  on  the  island  nations  of  papua  new  guinea  and  nauru. the 
+1958  migration  act  was  revised  to  exclude  ashmore  reef,  cartier  island,  christmas 
+island, cocos (keeling) islands, and other territories external to australia, creating excised 
+offshore places. thereafter, people who entered these territories were taken to detention 
+and processing centers in nauru or papua new guineas manus island. as the migrants 
+had not officially entered australia, they were denied access to australian legal protection 
+(bailliet 2003). 
+the parliamentary digest describing these proposals makes clear the source of inspiration 
+for this australian solution. in a section titled united states analogy, the digest recounts 
+various policies pursued by successive us administrations to combat people smuggling, 
+highlighting in particular directives to interdict suspected smuggling vessels in the high 
+seas,  including  president  clintons  directive  providing  for  the  offshore  processing  of 
+illegal immigrants. the digest then states how in the united states, 
+
+[t]here is a distinction between illegal immigrants who are interdicted offshore and 
+those who apply within the territory of the united states. the distinction is between 
+immigrants who are seeking admission and those who are in and admitted to the united 
+states.  illegal immigrants who are interdicted offshore are taken to a third country 
+or a united states trust territory for processing. these places include guantnamo in 
+cuba, the mariana islands and midway, but not guam or the virgin islands which form 
+part of the united states. as of 1998, the united states was negotiating with mexico 
+to reach an agreement allowing assessment within mexican waters and repatriation via 
+mexico. it is difficult to get accurate information on agreements between the united 
+states and processing countries or countries of origin. however, it is understood that 
+in  several  cases,  jurisdiction  over  foreign  ships  in  international  waters  has  been 
+exercised  under  the  safety  of  life  at  sea  (solas)  regulations  established  by  the 
+international  maritime  organisation.  otherwise,  jurisdiction  has  been  obtained  by 
+consent in individual cases.19 
+
+the process of policy emulation that we observe in the australian case appears to reflect 
+numerous diffusion concepts described earlier in this paper, including wipfis spontaneous 
+unplanned spread of new ideas, which occurs in the absence of formal or contractual 
+obligation, or external pressure; weylands cognitive-psychological framework, in which 
+policymakers, operating in a context of bounded rationality, seek policy solutions in the 
+absence  of  a  comprehensive  cost-benefit  analysis  of  all  possible  solutions  to  a  rapidly 
+evolving situation; and lavenex and uarers unilateral emulation, in which states are 
+cognitively motivated to adopt a policy they learned or observed from another absent 
+any external pressure. 
+
+19  ibid. 
+
+182
+
+journal on migration and human securitynevertheless, while the pacific solution became the focus of national and international 
+human  rights  campaignsamnesty  international,  for  instance,  filed  complaints  against 
+australia with the un high commissioner for refugees (unhcr) and the un committee 
+against torture, claiming that refugees rights were being jeopardizedthe us practices 
+that  australia  sought  to  emulate  never  received  similar  attention  internationally.  the 
+australian public largely supported the new policies, re-electing the conservative howard 
+government, which proclaimed victory over a foreign invasion (baillet 2003). 
+although a labor-led administration decided to close the countrys offshore facilities in 
+nauru and papua new guinea in 2008 (bbc news 2008; unhcr 2008), the policy was 
+revived in 2012 with multi-party backing. the revival of the pacific solution came after 
+years of pursuing related offshore schemes in other nearby countries. for example, since the 
+early 2000s, australia has worked with the international organization for migration (iom) 
+and the indonesian government to accommodate migrants interdicted by indonesia en 
+route to australia. this program, which has been funded by australia, reportedly conforms 
+to the indonesian practice of generally allowing asylum seekers to be housed in non-secure 
+facilities (taylor 2010).
+however, in 2007, the iom launched a complementary australian-funded initiative called 
+management and care of irregular migrants project, which has had three core aims: 
+boosting  the  capacity  of  indonesias  main  detention  centers;  developing  a  manual  of 
+standard operating procedures for detention operations; and providing training to officials 
+involved  in  overseeing  the  voluntary  return  of  detainees  to  their  countries  of  origin 
+(taylor 2010). according to one australian scholar who has investigated the situation in 
+indonesia, the australian funded increase in indonesian immigration detention capacity 
+has been matched by an increased tendency on the part of the indonesian government to 
+detain asylum seekers (taylor 2010). 
+a 2009 investigation by an australian lawyer-journalist team reported similar concerns, 
+stating: 
+
+there is growing concern about the volume of asylum seekers flowing into indonesia 
+from afghanistan,  iraq,  sri  lanka  and  burma  (in  particular).  until  recently,  there 
+had been an almost total media blackout on the subject, but information has seeped 
+through, confirming that australia is involved in the practice of warehousing asylum 
+seekers  (including  children  and  babies)  in  indonesia,  and  that  taxpayers  money  is 
+being used to facilitate this practice. (taylor 2009)
+
+australias efforts to boost the detention capacities of countries on its periphery, particularly 
+in indonesia, are strikingly similar to us efforts in central america and the caribbean. 
+in effect, we see a core destination country adopting policies that ultimately impact the 
+situations of upstream countries, which respond by deploying practices promoted by the 
+destination country. in this instance of adaptation through externality, however, we can 
+observe  another  important  aspect  of  the  diffusion  phenomenon  described  by  scholars, 
+notably  weylands  and  guiraudon  and  lahavs  emphasis  on  the  role  that  international 
+actors (in this case iom) play in promoting policy objectives.
+australias offshore practices have paralleled those of the united states in another important 
+
+183
+
+the diffusion of immigration detention way  as  well. as  its  policies  of  offshore  interdiction  and  mandatory  detention  failed  to 
+provide the desired deterrent impact, canberra deployed a series of innovative strategies 
+beginning in 2010-2011, when a labor-led government endeavored to make agreements 
+with  east timor  and  malaysia  for  establishing  asylum  seeker  processing  facilities  that 
+would confine migrants apprehended by australia while their claims were processed by 
+unhcr. while the east timor proposal was quickly abandoned, the so-called malaysian 
+solutionwhich  involved  swapping  several  hundred  unauthorized  arrivals  in australia 
+for several thousand refugees in malaysia who had already received statusbecame the 
+subject of heated debate, both nationally and internationally. it was ultimately rejected by 
+australias high court in the 2011 case plaintiff m70/2011 v. minister for immigration and 
+citizenship. 
+the m70 decision was an important catalyst, as one scholar puts in, for the revival of 
+the pacific solution (constand 2013). the high court in effect found that the agreement 
+with malaysia was contrary to domestic law because the australian government could not 
+guarantee that asylum seekers sent to malaysia would be afforded effective protection, 
+which  undermined  australias  offshore  processing  efforts.  the  australian  parliament 
+responded  by  adopting  the  migration amendment act  2012,  an  objective  of  which  is 
+to ensure that the government retains its ability to implement certain offshore processing 
+arrangements, which it is currently pursuing with nauru and papua new guinea (constand 
+2013). the amendment removed the requirement provided under previous law that a state 
+must provide basic refugee protections to be designated a regional processing country. 
+instead,  it empowered the australian government to make such designation whenever the 
+countrys immigration minister thinks that it is in the national interest to do so (constand 
+2013).  
+as it encountered with previous offshore processing efforts, australias revived pacific 
+solution  has  raised  a  number  of  unsettling  questions  not  only  about  the  countrys 
+commitment to the 1951 refugee convention, but also about jurisdictional authority at 
+offshore detention sites, legal accountability, and national sovereignty. according to one 
+observer, writing in the sunday morning herald, successive governments have struggled 
+to explain what responsibility australia bears for asylum seekers detained in camps run and 
+paid for by australia but operating in the legal jurisdiction of other nations (flitton 2014). 
+these questions  came to  a  head in february  2014  when  asylum seekers  held at  papua 
+new guineas manus island offshore detention center rioted against their confinement. 
+the ensuing violence between detainees and security personnel resulted in the death of an 
+iranian asylum seeker who was allegedly beaten to death by locals. severely complicating 
+matters was the fact that the killing purportedly occurred in the presence of private guards 
+from g4s, the company hired by australia to provide security at the facility. one expert 
+quipped that if it were government officials that had been involved in the incident instead 
+of a private contractor, there would be a much easier case of legal responsibility.  the 
+fact that [the manus island facility] is simultaneously located offshore and subject to this 
+unclear memorandum of understanding [with the papua new guinea government], means 
+that  the  legal  assessment  is  much  more  complicated  (gammeltoft-hansen  quoted  in 
+siegfriend 2014). 
+
+184
+
+journal on migration and human security fortress europe
+transit states and other developing nations on the periphery of australias geographical 
+sphere of influence are not the only countries that have been impacted by the detention 
+and interdiction policies pursued by canberra. canadian officials, for instance, have cited 
+australias response to unauthorized boat arrivals in their discussions on how to handle such 
+arrivals at their ports, and there are reports of canadian officials touring australian detention 
+centers  (bradimore  and  bauder  2011;  cic  2010).20  likewise,  in  a  clear  demonstration 
+of how detention and interdiction practices diffuse between peer countries, new zealand 
+officials subsequently cited both canadian and australian responses to unauthorized boat 
+arrivals to press for harsher detention policies, including the use of offshore processing 
+facilities for mass boat arrivals. said new zealand prime minister john key in 2010, 
+if they can get to canada they can get to new zealand so we are looking at our own 
+legislation and our response to this issue (vance 2010). 
+despite the fact that it has never had such a boat arrival in its modern history, new zealand 
+amended its immigration legislation in 2013 to allow for mandatory, indefinite detention 
+of people apprehended as part of mass arrivals and finalized an agreement with canberra 
+that  includes  the  possibility  of  using australias  offshore  facilities  for  processing  these 
+maritime arrivals (see gdp 2014c).
+however, it is in europe where australian solutions appear to have made their greatest 
+impact outside the asia pacific region. while the borders within europe have become more 
+open, european governments have agreed to a number of external border control policies 
+aimed at stopping migrants and asylum seekers before they enter the european union, 
+leading to the creation of what some observers call fortress europe. 
+the phenomenon of the externalization of detention in the eu sphere contrasts with the 
+remote control practices we have seen in the united states and australia, in particular 
+because the process of shifting practices and pressures to the exterior involves negotiations 
+with governments from both in and outside the union. broadly, one can characterize the 
+externalization of detention in the european region as an interlocking chain of diffusion 
+processes whereby detention pressures and practices are exported from main migration 
+destination countries to the periphery of the eu and beyond. policy developments at the 
+20   canada  in  fact  has  a  long  history  of  involvement  in  controversial  extraterritorial  interdiction  and 
+refoulement practices, although there appears to be little documentation of such cases. writes aiken (2001): 
+one of the rare, documented cases of such refoulement occurred in 1998. canadian government officials 
+participated in the interception of a boat in the territorial waters of senegal which was carrying one hundred 
+and ninety two tamil asylum seekers from sri lanka. one of the young men on the vessel, thambirasa 
+kamalathasan, describes being detained on the boat and told that he would not be given food or water until he 
+signed a document stating that he agreed to voluntarily return to sri lanka. none of the authorities involved 
+in the interception, including representatives of the canadian and american governments as well as staff 
+with the international organization for migration, afforded kamalathasan an opportunity to explain that he 
+had been arrested by sri lankan police on several occasions in the past few years, mistreated in detention, 
+but always released without charge. no one gave him an opportunity to explain his fears concerning the 
+prospect of return to sri lanka. upon return to sri lanka, the tamils were arrested and held in detention for 
+up to five weeks. several weeks after his release, kamalathasan was re-arrested by the police on the pretext 
+of  a  terrorism  investigation  and  subjected  to  severe  torture.  in  the  only  public  acknowledgement  of  this 
+interdiction almost a full year later, a canadian government spokesman described the action as a success in 
+safeguarding the country from illegal economic migrants.
+
+185
+
+the diffusion of immigration detention regional level and among major destination countries place pressures on eu border states 
+to  serve  as  gatekeepers  for  europe  and  bolster  their  detention  activities.  in  turn,  these 
+border countries and their eu partners (often working with international organizations like 
+the iom) diffuse detention pressures outward to their non-european neighbors. this occurs 
+both directly, by funding detention efforts and negotiating agreements that include or imply 
+stepped-up detention activities (policy transfer through conditionality); and indirectly, by 
+hardening  their  borders  and  leaving  neighboring  countries  the  task  of  accommodating 
+increasing  numbers  of  unauthorized  migrants  and  asylum  seekers  (adaptation  through 
+externality).
+agreements reached at the eu level have served as key vehicles for diffusing detention 
+pressures  and  practices  to  border  countries  within  europe.  one  notable  policy  in  this 
+regard is the dublin ii regulation (recently modestly modified and redubbed dublin iii), 
+which establishes a process for determining the member state responsible for examining 
+an asylum application. this policy has resulted in many asylum seekers being deported, or 
+transferred, to periphery eu states. as detention burdens have shifted to border states, the 
+eu has stepped in to help boost some of these countries detention capacities, particularly 
+in greece (see, gdp 2014a). 
+externalization to non-eu countries includes both direct and indirect processes. indirectly, 
+eu countries have used a number of mechanisms that shift migratory burdens to neighboring 
+countries, which spur these countries to boost their own controls. one approach has been 
+to negotiate readmission agreements with non-eu countries, which oblige these countries 
+to accept not only their own nationals but also third-country nationals in exchange for 
+compensatory measures like visa facilitation programs. in december 2013, for example, 
+the eu finalized such an agreement with turkey, according to which ankara will have to 
+readmit its own citizens as well as third-country nationals who enter the eu directly from 
+turkey.  during  2011  alone,  the  eu  reported  that  nearly  56,000  third-country  nationals 
+entered or attempted to enter the eu by way of turkey (gder 2013). if turkey follows 
+established practice in other countries that have readmission agreements with the eu, like 
+ukraine, many of the readmitted people will be placed in detention. this is particularly 
+significant in the case of turkey as it retains a geographical limitation clause that restricts 
+the countrys refugee protection regime to asylum seekers and refugees from europe (see 
+gdp 2014b).
+another key indirect mechanism has been to harden the external borders of europe, which 
+has forced countries that border europe to develop new responses, like increased detention 
+activities, to confront changing migration patterns. intensified policing of the eu border 
+began in earnest during the lead-up to the eus expansion to 25 member states in 2004, 
+which extended its borders farther east. eu governments spent lavishly on training programs 
+aimed at increasing the border policing capacities of the newest member states, in the hope 
+of addressing criminal activity there and clamping down on unauthorized migration (flynn 
+2006). to coordinate a joint response, the european commission created a new border 
+security agency called frontex, which went into operation in may 2005 on the strength of a 
+9 million euro budget. during the agencys june 2005 inauguration event, franco frattini, 
+then  european  commissioner  for  justice,  freedom,  and  security,  said  that  cooperation 
+on border policing was necessary to address an array of security problems, including the 
+
+186
+
+journal on migration and human securityspecter of international terrorism, the human tragedies of victims of trafficking, and the 
+equally sad and grave consequences of illegal immigration into the eu (frattini 2005).
+with frontex serving as coordinator, european maritime forces participate in joint patrols 
+along the mediterranean and west african coasts, and undertake targeted operations, like 
+deploying  rapid  border  intervention  teams  (rabits)  to  perceived  vulnerable  border 
+areas, including most notoriously the 2010 rabit deployment to greeces land border 
+with turkey, which rights groups claim led to serious violations of human rights (guild 
+and carrera 2010; human rights watch 2010). describing the operation, human rights 
+watch reported:
+
+in early november, frontex, the eus border agency, deployed a 175-member rapid 
+border intervention team (rabit) for the first time in its five-year history. equipped 
+with  high-tech  detection  equipment,  a  helicopter,  dogs,  and  vehicles,  rabit  has 
+assisted greek authorities in trying to stop the migrant flow into greece. (hrw 2010)
+as migratory patterns have changed in response to hardening eu borders, so too have 
+detention practices, often with unpredictable consequences. in some instances, countries 
+that had previously not experienced significant migratory events have found themselves 
+forced to cope with large numbers of migrants. they have also found themselves under 
+pressure  from  europe  to  interdict  migrants  and  asylum  seekers  (adaption  through 
+externality)a  phenomenon  that  occurred  in  various  west african  countries  when  the 
+route through morocco was shut down in the early 2000s. 
+this chain reaction eventually led to spains involvement in establishing a detention center 
+in the west african nation of mauritania in 2006 as part of a larger effort to stem the flow of 
+migrants to the canary islands (flynn 2006). mauritanias first dedicated detention center 
+for unauthorized migrants, sometimes referred to as el guantanamito, was established 
+inside a former school located in the port city of nouadhibou with assistance provided by 
+the spanish agency for international development cooperation. before 2006, in the rare 
+instances migrants were arrested by the police, they were typically held at police stations 
+(amnesty international 2008). 
+spains involvement in establishing the detention center has led to questions over who 
+controls the facility and guarantees the rights of the detainees, similar questions to those 
+seen in cases involving the united states and australia. while the mauritanian national 
+security  service  appears  to  have  managed  the  facility,  mauritanian  officials  clearly 
+and  emphatically  stated  to  a  spanish  human  rights  organization  in  october  2008  that 
+mauritanian  authorities  performed  their  jobs  at  the  express  request  of  the  spanish 
+government (european social watch 2009). 
+jurisdictional questions regarding spains activities in mauritania were addressed in the 
+marine i case,21 which involved a different ad hoc detention facilitythis one located 
+in  an  abandoned  fish-processing  facility  in  nouadhibouused  by  spain  after  it  aided 
+passengers aboard a smuggling boat that had lost power in international waters off the 
+coast of west africa in 2007. while the un committee against torture ultimately ruled 
+that the case itself was inadmissible because the complainant, a spanish citizen working 
+
+21  committee against torture, j.h.a. v. spain, 21 nov. 2008, no. 323/2007
+
+187
+
+the diffusion of immigration detention for a human rights ngo, did not have standing, it nevertheless rejected claims by spain 
+that the incidents covered in the case occurred outside spanish territory. citing its general 
+comment no. 2, which provides that a states jurisdiction includes any territory where it 
+exercises effective control, the committee found that spain 
+
+[m]aintained control over the persons on board the marine i from the time the vessel 
+was rescued and throughout the identification and repatriation process that took place 
+at  nouadhibou.  in  particular,  the  state  party  exercised,  by  virtue  of  a  diplomatic 
+agreement  concluded  with  mauritania,  constant  de  facto  control  over  the  alleged 
+victims during their detention in nouadhibou. consequently, the committee considers 
+that the alleged victims are subject to spanish jurisdiction insofar as the complaint that 
+forms the subject of the present communication is concerned.22
+
+the  mauritania  situation  reflects  a  broader  trendpreviously  observed  with  australia 
+and  the  united  statesof  core  countries  attempting  to  deflect  migratory  pressures  by 
+externalizing immigration controls to states that are not considered main destinations of 
+migrants and where the rule of law is often weak. this raises questions about the culpability 
+of  liberal  democracies  in  the  abuses  detainees  suffer  when  they  are  interdicted  before 
+reaching their destinations. 
+the mauritania case is representative of what could be termed direct diffusion, or the 
+direct  involvement  of  one  country  in  promoting  and  financing  detention  practices  and 
+policies in another. this contrasts with indirect diffusion, the emulation of (or learning 
+from) another countrys policies (e.g., australia copying us programs, or europe using 
+australias offshore detention as a model). the eu and its member states have repeatedly 
+pressured  and  supported  ramped-up  detention  practices  in  neighboring  countries.  they 
+have also worked through international organizations, like the iom, to prop up overseas 
+detention efforts. such a case is the ukraine, where the european commission provided 
+funds to the iom to work on boosting and reforming detention efforts, including by funding 
+non-governmental organizations (ngos) to monitor detention centers.23 according to one 
+ukraine  expert,  ngos  that  work  with  the  iom  on  the  european  commission-funded 
+project have been under pressure not to criticize state practices because doing so could 
+ultimately jeopardize their funding (flynn and cannon 2010).
+arguably  europes  best  known  effort  to  become  directly  involved  in  detention  beyond 
+its  borders  have  been  the  on-again-off-again  proposals  by  the  eu  to  establish  offshore 
+processing  procedures  in  neighboring  countries  aimed  at  forcing  migrants  to  submit 
+asylum claims before reaching european soil. the origins of these proposals are rooted in 
+european policy discussions that cited the policies of the united states and australia as 
+examples to follow.
+although european officials first began suggesting the offshoring of asylum procedures in 
+the 1980s (afeef 2006), it was not until 2003, two years after australia proposed its pacific 
+solution, that the idea gained widespread traction in europe. that year, the government of 
+british prime minister tony blair suggested establishing transit processing centers on 
+
+22  ibid., para. 8.2.
+23  dasney, james (international organisation for migration, kyiv), interview by alex mackinnon (global 
+detention project),september 30, 2009.
+
+188
+
+journal on migration and human securitythe non-eu side of europes borders.
+policy documents from an important and secretive series of intergovernmental meetings at 
+the time (called the intergovernmental consultation on asylum, refugees and migration 
+policies, or igc) reveal the central role that the australian policies, as well as us caribbean 
+policies, played in influencing european leaders. describing these documents, noll writes: 
+the  spring  2003  debate  reveals  that  the  pacific  solution  constituted  a  source  of 
+inspiration for the british and danish governments. on the 23 april meeting of the 
+mini-igc  the australian model as well as the haiti and cuban interdiction programs 
+implemented by the us were discussed. (2003, 313)
+
+the uk proposal, however, was quickly abandoned after it met strong resistance from a 
+number  of  european  governments,  including  germany,  which  referred  to  the  proposed 
+centers as concentration camps. the idea, or variations of it, has been revived numerous 
+times since then, though with little success to date because of the apparent reluctance of eu 
+countries to be viewed as disavowing altogether the 1951 refugee convention. 
+this  failure  to  establish  an  eu-wide  offshore  processing  policy  has  been  described  by 
+levy as a consequence of the self-constructed normative image of the eu, the embedded 
+liberalism of european political culture (levy 2010, 96). however, as both the cases of the 
+ukraine and mauritania demonstrate, the eu itself, in addition to individual member states, 
+have developed other methods for diffusing detention policies and practices. some of these 
+efforts predate the pacific solution. for instance, in 1998, italy and tunisia finalized an 
+agreement that set conditions for the readmission of tunisian and third-country nationals. 
+as part this agreement, italy agreed to provide 500 million liras (260,000 euros) expressly 
+for the creation of migrant detention facilities (centri di permanenza).24 
+similarly, the eu as well as individual member states have provided financial assistance 
+for the detention practices of third countries within the framework of the twinning, or 
+jumelage, programme, an initiative of the european commission in which eu states 
+partner with new members, candidate, or potential candidate states, to assist in developing 
+their  administrative  and  bureaucratic  structures  and  processes.  turkey  has  been  a  key 
+benefactor.  under  a  2007  twinning  project,  titled  support  to  turkeys  capacity  in 
+combating illegal migration and establishment of removal centers for illegal migrants, 
+the  eu  agreed  to  provide  15,000,000  euros  towards  the  establishment  of  two  removal 
+centers and development of standards for their management. this project aimed to provide 
+a better capacity to cope with illegal migration and create centers devoted to the purpose 
+of  controlling  the  illegal  migrants  to  be  removed  that  will  serve  as  models  for  future 
+facilities (ec 2007, 4,5; chr 2009, 30). 
+
+conclusion: diffusion and responsibility
+this  paper  has  endeavored  to  describe  various  cases  of  the  diffusion  of  immigration 
+detention practices and policies to demonstrate how this tool of immigration control has 
+
+24  scambio di note tra litalia e la tunisia concernente lingresso e la riammissione delle persone in posizione 
+irregolare, roma, 6 agosto 1998.
+
+189
+
+the diffusion of immigration detention become a global phenomenon. it has shown how receiving countries from australia to the 
+united states to the member states of the eu have successfully diffused detention practices 
+to  a  large  number  of  states  on  their  peripheries,  helping  to  establish  an  archipelago  of 
+emerging detention regimes that literally spans the globe. we have also observed how, 
+prior to these direct diffusion efforts, important destination countries learned from each 
+other the purported utility of offshore practices. 
+the papers characterizations of these various diffusion pathways reflect work done by 
+numerous scholars who have developed policy transfer frameworks for understanding how 
+policies spread. thus, for example, following the work of lavenex and uarer (2004), we 
+could argue that the diffusion and eventual institutionalization of immigration detention 
+regimes in periphery countries have involved a combination of both adaptation through 
+externalitythat  is,  a  mix  of  voluntary  and  involuntary  adaptation  in  response  to  the 
+impact of policies adopted by another countryand policy transfer through conditionality 
+involving a level of coercion by another country. 
+arguably, there are two overarching categories of diffusion, direct and indirect, each of 
+which contains nuanced subcategories. on the one hand, we can observe from the cases 
+described in this paper the transfer through imitation (or indirect diffusion) of offshore 
+detention strategies from the united states to australia to europe, with the united states 
+serving as an early innovator (what lavenex and uarer term unilateral emulation). among 
+the motives that have spurred these states to adopt such strategies are political decisions 
+aimed  at  allaying  growing  public  fearswhich  are  often  instigated  or  encouraged  by 
+political  actorsby  demonstrating  that  authorities  are  taking  all  measures  possible  to 
+confront the specter of unauthorized migration, as franco frattini put it in his speech 
+inaugurating frontex. similarly, such decisions can be based on the belief that interdicting 
+boats on the high seas and transferring apprehended migrants to third countries will deter 
+others.  
+in the case of periphery states, direct and indirect diffusion processes often combine, leading 
+to the adoption of detention measures. for instance, periphery states often imitate more 
+powerful neighborsor each otherwhen migratory pressures force their hand, creating a 
+domino effect we have seen in europe with respect to the gradual externalization of asylum 
+and migration pressures from the center of the continent to its external borders. adding 
+to these pressures is the eus transparent effort to use membership as a coercive tool for 
+advancing  interdiction  objectives,  in  particular  through  the  twinning  process.  similar 
+forces are at play in the cases of mauritania and guatemala, two countries which found 
+themselves having to adapt to new realities that emerged as a result of the interdiction 
+policies adopted by regional powers, which may help explain why both were receptive to 
+external involvement in establishing new detention capabilities. however, because of the 
+opacity of the decision-making and discussions involved in these cases, it is difficult to 
+determine whether they reflect adaptation through externality or policy transfer through 
+conditionality.
+also driving diffusionparticularly direct diffusionmay be the realization that detaining 
+someone abroad is less expensive than doing so at home. us anti-smuggling operations 
+in  honduras  and  elsewhere  in  the  americas  would  appear  to  support  such  a  theory. 
+additionally, authorities may be spurred to develop innovative measures when policies 
+
+190
+
+journal on migration and human securityfail to deliver expected results, like in the case of australia, whose policy of mandatory 
+detention failed to deter increasing numbers of unauthorized boat arrivals. 
+another recurring motif in this history has been the response of core countries to normative 
+pressure stemming from international human rights obligations (like the right to asylum) 
+by seeking ways to circumvent, co-opt, or otherwise counteract this pressure through the 
+diffusion of detention to upstream countries. it seems that a desire to prevent migrants from 
+accessing asylum procedures and other legal protections has been an important contributing 
+factor in many of the offshore detention schemes described above. this is observed in the 
+us decision to detain haitians on board navy vessels in the early 1990s, which immediately 
+preceded the decision to establish guantnamo as a migrant operations center. it is also 
+observed in the parliamentary deliberations that preceded the establishment of australias 
+pacific solution, as well as among the motives that have driven eu discussions on whether 
+to  create  offshore  asylum  processing  centers.  what  one  observer  said  of  australias 
+policies applies equally to all these cases: by locating asylum seekers offshore, australia 
+successfully diluted its human rights obligations towards these people and hindered public 
+scrutiny of their living conditions (afeef 2006). thus, this paper supports the argument 
+advanced by numerous scholars, including guiraudon and lahav (2000), that states often 
+seek to circumvent normative constraints by employing avoidance mechanisms.
+however, these reflections come with a number of caveats. for instance, at the same time 
+that human rights norms appear to have helped motivate states to externalize detention 
+efforts,  they  may  have  also  worked  to  limit  the  extent  to  which  states  pursue  such 
+efforts, as levy (2010) argues has been the case with the eu and its failure to agree on a 
+community-wide offshore processing policy. insofar as this is the case, it underscores a 
+broader argument that has been described in other writings by this authorthat normative 
+pressure has generated a schizophrenic response by liberal democracies with respect to 
+their immigration detention regimes (see flynn 2013). 
+also, the normative argument presumes a unidirectional process, leading from the core 
+to the periphery. but as seen with the history of us-cuban relations, it is not always the 
+hegemonic  country  that  sets  the  conditions  of  migration  arrangements.  in  europe,  the 
+most notorious case of a non-eu country attempting to drive the process is that of libya. 
+in mid-2010, just a few months before the north atlantic treaty organization (nato) 
+began bombing that country in support of rebels, muammar gaddafi took advantage of 
+a diplomatic trip to italy to warn that without his support europe might no longer be 
+european and even black as there are millions who want to come in (squires 2010).
+because of the predominance of discourses of fear regarding impending invasions of 
+migrants  in  main  destination  countries,  these  countries  make  themselves  vulnerable  to 
+blackmail by their neighbors. the degree to which transit states have been able to exploit 
+this fear to establish favorable quid-pro-quo arrangements as part of diffusion processes is 
+beyond the scope of this paper. however, it is an important and generally overlooked issue 
+that should be kept in mind when considering the various elements that have contributed to 
+the overall phenomenon of the spreading of immigration detention. 
+ultimately, regardless of the particular channel by which detention practices and policies 
+spread, a key lesson should be that in an interconnected world, the policies pursued by one 
+
+191
+
+the diffusion of immigration detention country can have an enormous impact on how people are treated on the other side of the 
+globe. through  the  forces  of  example,  learning,  coercion,  and  persuasion,  immigration 
+detention has attained global dimensions. the role that the united states and other wealthy 
+countries have played in this process should be better acknowledged, especially when we 
+see that this process has at times been driven by efforts to evade fundamental rights and 
+with the result that thousands of people are confined in paltry and inhuman conditions 
+without proper legal guarantees. just as offshore interdiction and detention schemes raise 
+important questions about custody, accountability, and sovereignty, they should also spur 
+questions over where responsibility for the wellbeing of migrants begins and ends.
+
+references
+adler-nissen, rebecca, and thomas gammeltoft-hansen, eds. 2008. sovereignty games: 
+instrumentalizing state sovereignty in europe and beyond. new york: palgrave 
+macmillan. http://dx.doi.org/10.1057/9780230616936
+
+afeef, karin fathimath. 2006. the politics of extraterritorial processing: offshore asylum 
+policies in europe and the pacific. oxford refugee studies centre working paper 
+no. 36. oxford: university of oxford refugee studies centre. 
+
+aiken, sharryn. 2001.of gods and monsters: national security and canadian refugee 
+
+policy. revue qubcoise de droit international  14(2): 1-51.
+
+amnesty international. 2008. mauritania: nobody wants to have anything to do with us. 
+
+afr 38/001/2008. http://www.amnesty.org/en/library/info/afr38/001/2008.
+
+.  2005.  the  impact  of  indefinite  detention:  the  case  to  change  australias 
+mandatory  detention  policy.  asa/12/001/2005.  http://www.amnesty.org/en/
+library/info/asa12/001/2005.
+
+bacon, christine. 2005. the evolution of immigration detention in the uk: the involvement 
+of  private  prison  companies.  refugee  studies  centre  working  paper  no.  27. 
+oxford: university of oxford refugee studies centre. 
+
+bailliet, cecilia. 2003. the tampa case and its impact on burden sharing at sea. human 
+
+rights quarterly 25(3): 741-74. http://dx.doi.org/10.1353/hrq.2003.0025
+
+bbc news. 2008. australia ends pacific solution. february 8. http://news.bbc.co.uk/2/
+
+hi/asia-pacific/7229764.stm.
+
+bradimore, ashley  and  bauder,  harald.  2011.  mystery  ships  and  risky  boat  people: 
+tamil refugee migration in the newsprint media. metropolis british colombia 
+working paper series no. 11  02. vancouver: metropolis british columbia. http://
+mbc.metropolis.net/assets/uploads/files/wp/2011/wp11-02.pdf.
+
+chr  (council  of  europe:  commissioner  for  human  rights),  report  by  thomas 
+hammarberg, commissioner for human rights of the council of europe, following 
+his  visit  to turkey  on  28  june  -  3  july  2009.  issue  reviewed:  human  rights  of 
+asylum seekers and refugees, 1 october 2009, commdh(2009)31, available at: 
+
+192
+
+journal on migration and human securityhttp://www.refworld.org/docid/4ac459e90.html. 
+
+cic (citizenship and immigration canada). 2010. governments of canada and australia 
+working to combat human smuggling. news release, september 19. http://www.
+cic.gc.ca/english/department/media/releases/2010/2010-09-19.asp. 
+
+constand, stephanie. 2013. implications for offshore processing in australia: the case 
+of plaintiff m70/2011. sydney law school research paper. no. 13/53. sydney: 
+sydney law school. 
+
+dixon,  david,  and  julia  gelatt.  2005.  immigration  enforcement  spending  since  irca. 
+washington,  dc:  migration  policy  institute.  http://www.migrationpolicy.org/
+research/immigration-enforcement-spending-irca
+
+doj (us department of justice). 2000. ins and central american governments disrupt 
+
+alien smuggling operations. ins press release, october 17. 
+
+.  2001a.  ins  global  reach  initiative  counters  rise  of  international  migrant 
+
+smuggling. ins press release, june 27. 
+
+.  2001b.  largest  multinational  alien  smuggling  operation  results  in  7,898 
+arrests in latin america and caribbean, international cooperation of 14 nations 
+called key to success. ins press release, june 27.
+
+ec (european commission). 2007. standard summary project fiche: support to turkeys 
+capacity in combating illegal migration and establishment of removal centers 
+for  illegal  migrants.  twinning  project  no.  tr  07  02  16.  http://ec.europa.eu/
+enlargement/pdf/turkey/ipa/tr_07_02_16_removal_centres_en.pdf. 
+
+el nuevo diario. 2011. inauguran en panam centro para el combate al narcotrfico en 
+centroamrica . april 19. http://www.elnuevodiario.com.ni/imprimir.php/100113.
+european  social  watch.  2009.  spain:  the  externalisation  of  migration  and  asylum 
+policies: the  nouadhibou  detention  center.  national  report,  european  social 
+watch report 2010. http://www.socialwatch.eu/wcm/spain.html.
+
+finley, bruce. 2004. u.s. takes border war on the road. denver post, december 19. 
+
+http://www.amicc.org/docs/12-19-04%20denver%20post.pdf. 
+
+fischer,  nicolas.  2011.  monitoring  detention:  the  control  of  immigration  detention 
+in france and the role of human rights organizations. paper prepared for the 
+workshop  europeanization  of  exclusion  policies  and  practices,  university  of 
+neuchtel, switzerland, 16-17 june.
+
+flitton, daniel. 2014. a conundrum at the heart of the pacific solution. sunday morning 
+
+herald, february 20. 
+
+flynn, michael, and cecilia cannon. 2009. the privatization of immigration detention: 
+towards a global view. global detention project working paper. geneva: global 
+detention  project.  http://www.globaldetentionproject.org/fileadmin/docs/gdp_
+privatizationpaper_final5.pdf. 
+
+193
+
+the diffusion of immigration detention . 2010. detention at the borders of europe: report on the joint global detention 
+projectinternational  detention  coalition  workshop  in  geneva,  switzerland, 
+2-3  october  2010.  geneva:  global  detention  project:  geneva.  http://www.
+globaldetentionproject.org/fileadmin/publications/gdp_workshop_report_2010.
+pdf. 
+
+flynn, michael. 2002. donde esta la frontera? bulletin of the atomic scientists, july/
+
+august 2002. 
+
+.  2003,  u.s.  stretching  borders  to  block  migrants,  inter  press  service,  july 
+http://www.ipsnews.net/2003/07/population-us-stretching-borders-to-block-
+
+31. 
+migrants/. 
+
+. 2005a. whos trying to cross our southern border? everyone. washington post, 
+december 11. http://www.washingtonpost.com/wp-dyn/content/article/2005/12/10/
+ar2005121000103.html
+
+. 2005b. whats the deal at manta? bulletin of the atomic scientists, january/
+http://www.globaldetentionproject.org/fileadmin/publications/
+
+february, 
+23. 
+flynn_manta.pdf. 
+
+. 2006. europe: on its borders, new problems, bulletin of the atomic scientists, 
+http://www.globaldetentionproject.org/fileadmin/
+
+november/december, 
+publications/flynn_europe_migration.pdf. 
+
+21. 
+
+.  2012.  who  must  be  detained?  proportionality  as  a  tool  for  critiquing 
+
+immigration detention policy. refugee survey quarterly 31(30). 
+
+. 2013. the hidden costs of human rights: the case of immigration detention. 
+global detention project working paper no. 7. geneva: global detention project.  
+http://www.globaldetentionproject.org/fileadmin/publications/flynn_hidden_
+costs.pdf. 
+
+frattini, franco. 2005. inauguration speech of the the frontex agency, warshaw, poland, 
+
+june30.
+
+frenzen, niels. 2010. u.s. migrant interdiction practices in international and territorial 
+waters.  in  extraterritorial  immigration  control:  legal  challenges,  edited 
+by  bernard  ryan  and  valsamis  mitsilegas,  375-97.  boston:  martinus  nijhoff 
+publishers. http://dx.doi.org/10.1163/ej.9789004172333.i-441.86
+
+fried, joseph. 1998. mastermind of golden venture smuggling ship gets 20 years. new 
+
+york times, december 2. 
+
+global  detention  project  (gdp).  2014a.  immigration  detention  in  greece.  geneva: 
+global detention project. www.globaldetentionproject.org/fileadmin/docs/greece_
+report_april2014.pdf. 
+
+. 2014b. immigration detention in turkey. geneva: global detention project. 
+
+www.globaldetentionproject.org/fileadmin/docs/turkey_report.pdf. 
+
+194
+
+journal on migration and human security.  2014c.  immigration  detention  in  new  zealand.  geneva:  global  detention 
+
+project. www.globaldetentionproject.org/fileadmin/docs/nz_report_v2.pdf. 
+
+gder  nagehan.  2013.  the  issue  of  irregular  migration  in  the  light  of  turkey-  eu 
+relations and its effects on the negotiations. t.c.marmara university, eu institue,  
+eu politics and international relations. http://www.academia.edu/2972953/the_
+issue_of_irregular_migration_in_the_light_of_turkey-_eu_relations_and_its_
+effects_on_the_negotiations. 
+
+guild, elspeth, and carrera, sergio. 2010. joint operation rabit 2010  frontex 
+assistance to greeces border with turkey: revealing the deficiencies of europes 
+dublin asylum system. justice and home affairs, liberty and security in europe 
+papers. belgium: centre for european policy studies. http://aei.pitt.edu/15186/1/
+no_34_carrera_&_guild_on_rabit_2010.pdf. 
+
+guiraudon,  virgine  and  gallya  lahav.  2000.  a  reappraisal  of  the  state  sovereignty 
+debate:  the  case  of  migration  control.  comparative  political  studies  33(2): 
+163-95. http://dx.doi.org/10.1177/0010414000033002001
+
+human rights watch. 2010. greece: end inhumane detention conditions for migrants. 
+human  rights watch  news,  december  6.  http://www.hrw.org/news/2010/12/06/
+greece-end-inhumane-detention-conditions-migrants
+
+karakayali, serhat, and rigo, enrica. 2010. mapping the european space of circulation. 
+in the deportation regime: sovereignty, space, and the freedom of movement, 
+edited by nicholas de genova and nathalie peutz. durham, nc: duke university 
+press. http://dx.doi.org/10.1215/9780822391340-005
+
+kerwin, donald. 2012. the faltering us refugee protection system: legal and policy 
+responses  to  refugees,  asylum-seekers,  and  others  in  need  of  protection. 
+refugee survey quarterly 31(1): 1-33. http://dx.doi.org/10.1093/rsq/hdr019
+
+lahav,  gallya,  and  virgine  guiraudon.  2000.  comparative  perspectives  on  border 
+control.  in  the  wall around  the  west,  edited  by andreas,  peter,  and timothy 
+snyder. lanham, md: rowman & littlefield. 
+
+lavenex, sandra, and uarer, emek. 2004.the external dimension of europeanization: 
+the case of immigration control. cooperation and conflict 39(4): 417-43. http://
+dx.doi.org/10.1177/0010836704047582
+
+levy,  carl.  2010.  refugees,  europe,  camps/state  of  exception:  into  the  zone,  the 
+european  union  and  extraterritorial  processing  of  migrants,  refugees,  and 
+asylum-seekers  (theories  and  practice).  refugee  survey  quarterly  29(1):  92-
+119. http://dx.doi.org/10.1093/rsq/hdq013
+
+magner, tara. 2004. a less than pacific solution for asylum seekers in australia. 
+international  journal  of  refugee  law  16(1):  53-90.  http://dx.doi.org/10.1093/
+ijrl/16.1.53
+
+195
+
+the diffusion of immigration detention meissner, doris, donald kerwin, muzaffar chishti, and claire bergeron. 2013. immigration 
+enforcement in the united states: the rise of a formidable machinery. washington, 
+dc: migration policy institute. 
+
+meissner, doris, and jonathan winer, joseph cuddihy, sam martin, and greg smit. 1997. 
+international anti-smuggling efforts: operation global reach. immigration and 
+naturalization service. news conference, june 19. 
+
+miami herald. 2001. illegal migrants languish in guatemala. december 26. 
+mitchell, christoper. 2000. the political costs of state power. in the wall around the 
+west, edited by peter andreas and timothy snyder, 81-99. lanham, md: rowman 
+& littlefield. 
+
+nevins,  joseph.  2000.  the  remaking  of  the  california-mexico  boundary  in  the age 
+of nafta. in the wall around the west, edited by peter andreas and timothy 
+snyder, 99-115. lanham, md: rowman & littlefield.
+
+noll, gregor. 2003. visions of the exceptional: legal and theoretical issues raised by 
+transit processing centres and protection zones. working paper. lund, sweden: 
+lund  university  faculty  of  law.  http://www.stranieriamilano.it/briguglio/
+immigrazione-e-asilo/2003/giugno/noll-iniziativa-uk-asilo.pdf. 
+
+prensa  latina.  2011.  instalar  panam  academia  militar  con  ee.uu.  y  colombia. 
+
+january 6. http://www.aporrea.org/internacionales/n194295.html. 
+
+ros, edgar. 2004. emigrantes denunciarion vejaciones. el universo, october 8. http://
+www.eluniverso.com/2004/10/08/0001/626/23c287b78d86447f8adf8b2f76a
+385a1.html
+
+roberts,  michelle.  2009.  ap  impact:  immigrants  face  detention,  few  rights. 
+
+associated press, march 15.
+
+siegfried, kristi. 2014. private security firms prosper as more migrants detained. irin, 
+march  12.  http://www.irinnews.org/report/99766/private-security-firms-prosper-
+as-more-migrants-detained. 
+
+silverman, stephanie j. 2012. regrettable but necessary? a historical and theoretical 
+study of the rise of the u.k. immigration detention estate and its opposition. 
+politics & policy 40(6): 1131-57.
+
+smith,  marian.  n.d.  insu.s.  immigration  and  naturalization  service  history,  the 
+website of us citizenship and immigration services. last accessed november 20, 
+2011. http://www.uscitizenship.info/ins-usimmigration-insoverview.html. 
+
+spencer, david. 2000. the logic and contradictions of intensified border enforcement. 
+in the wall around the west. edited by peter andreas and timothy snyder (rowman 
+& littlefield, 2000).
+
+squires, nick. 2010. gaddafi: europe will turn black unless eu pays libya 4bn a year. 
+
+daily telegraph,  august 31. 
+
+196
+
+journal on migration and human securitystevens, christine. 2002. asylum seeking in australia. international migration review 
+
+36(3): 864-93. http://dx.doi.org/10.1111/j.1747-7379.2002.tb00107.x
+
+taylor, jessie. 2009. behind australian doors: examining the conditions of detention 
+of asylum seekers in indonesia. project report, http://www.law.monash.edu.au/
+castancentre/news/behind-australian-doors-report.pdf.  
+
+taylor, savitiri. 2010. australian funded care and maintenance of asylum seekers in 
+indonesia and papua new guinea: all care but no responsibility? university of 
+new south wales law journal 33(2): 337-59.
+
+thompson, ginger, and sandra ochoa. 2004. by a back door to the u.s.: a migrants 
+
+grim sea voyage. new york times, june 13.
+
+unhcr  (un  high  commissioner  for  refugees).  2008.  australias  pacific  solution 
+
+draws to a close. unhcr news, february 11. 
+
+usccb  (us  conference  of  catholic  bishops).  2000.  statement  on  visit  to  central 
+
+american nations of guatemala, el salvador, honduras, november 10.
+
+uscg (us coast guard). 2014. alien migrant interdiction. us coast guard website last 
+updated february 10, 2014. http://www.uscg.mil/hq/cg5/cg531/amio/flowstats/
+currentstats.asp.
+
+us embassy nassau. 2010. royal bahamas defense force officers participate in tour 
+of floridas primary immigration detention center. press release, september 11. 
+vance, andrea. 2010. key says no to refugee detention centre. stuff.co.nz, october 
+
+29.
+
+wasem, ruth ellen. 2009. cuban migration to the united states: policy and trends. 
+congressional research service report for congress r40566.  washington, dc: 
+congressional research service. http://fas.org/sgp/crs/row/r40566.pdf.
+
+welch,  michael.  2002.  detained:  immigration  laws  and  the  expanding  ins  complex. 
+
+philadelphia, pa: temple university press. 
+
+weland, kurt. 2005. theories of policy diffusion lessons from latin american pension 
+
+reform. world politics 57(2): 262-95. http://dx.doi.org/10.1353/wp.2005.0019
+
+wipfli,  heather  lynn.  2007.  diffusion,  norms,  and  governance:  the  case  of  tobacco 
+control. phd diss., graduate institute of international studies at the university of 
+geneva. heith 747. 
+
+zolberg,  aristide.  1999.  matters  of  state:  theorizing  immigration  policy.  in  the 
+handbook of international migration: the american experience, edited by charles 
+hirschman,  philip  kasinitz,  and  josh  dewind,  71-94.  new york:  russell  sage 
+foundation. 
+
+. 2001. guarding the gates in a world on the move. social science research 
+
+council. 
+
+197
+
+the diffusion of immigration detention 

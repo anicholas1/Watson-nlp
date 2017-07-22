@@ -1,0 +1,1491 @@
+humanitarian protection for 
+children fleeing gang-based 
+violence in the americas1
+
+elizabeth carlson 
+maggio + kattar
+
+anna marie gallagher
+maggio + kattar
+
+executive summary
+by the end of 2011, the us customs and border protection (cbp) began to 
+see a steady rise in the number of unaccompanied alien children (uac) 
+from central america, particularly from the northern triangle countries
+el salvador, honduras and guatemalaarriving to the us-mexico border. 
+the number of children entering the united states from these countries 
+more  than  doubled  during  fiscal  year  (fy)  2012  and  continued  to  grow 
+through  fy  2014.  in  fy  2013,  cbp  apprehended  over  35,000  children. 
+that number almost doubled to 66,127 in fy 2014, with central american 
+children  outnumbering  their  mexican  counterparts  for  the  first  time. 
+research has identified high levels of violence perpetrated by gangs and 
+drug cartels in the northern triangle countries and mexico as a primary 
+reason for this surge. under the william wilberforce trafficking victims 
+protection reauthorization act (tvpra) passed with bi-partisan support 
+in 2008, children from central america cannot be deported immediately 
+and must be given a court hearing. 
+in  contrast,  unless  there  are  indicia  of  trafficking,  mexican  children 
+are  returned  immediately  to  their  country.  advocates  have  expressed 
+concern that expedited removal of mexican children places children with 
+valid  humanitarian  claims  at  risk  of  being  returned  to  harm,  including 
+forcible  recruitment  into  drug  cartels  and  trafficking  rings.  after  the 
+spike  in  arrivals  in  fy  2014,  several  members  of  congress  called  for  a 
+change in the tvpra, urging that central american children be treated 
+like mexican children and undergo expedited procedures for their removal. 
+many  of  their  constituents  supported  such  measures.  the  obama 
+administration requested additional funds to strengthen border security, 
+speed up deportation procedures and implement measures to address the 
+humanitarian crisis in central america. groups and individuals across the 
+
+1  the authors would like to thank former maggio + kattar interns catherine betts, gillian davies, pegah 
+eftekhari, and katherine thacker for significant contributions to this article.
+
+ 2015 by the center for migration studies of new york. all rights reserved.jmhs volume 3 number 2 (2015): 129-158country came together to provide shelter, medical and psychological care, 
+and legal representation to many of these children. despite these efforts, 
+much needs to be done to ensure that their rights are protected. 
+this paper provides an overview of the violence perpetrated by gangs and 
+other  criminal  organizations  which  compels  many  children  to  flee  their 
+communities.  it  describes  the  us  governments  obligations  to  protect 
+uac  upon  arrival,  and  good  practices  of  other  governments  relating  to 
+the  protection  of  child  migrants  and  refugees.  it  also  discusses  special 
+immigrant juvenile status, gang-related asylum case law, and the difficulty 
+of prevailing in asylum claims based on persecution by gangs. it concludes 
+with recommendations to the administration and policymakers to ensure 
+compliance with us obligations under national and international laws. 
+
+introduction:  flight  from  northern  triangle  countries 
+and mexico
+at the end of 2011, the united states started to experience a dramatic increase in arrivals 
+of unaccompanied alien children (uac)2 from central america, particularly from the 
+countries  of  el  salvador,  honduras,  and  guatemala  (cbp  2014). the  number  of  uac 
+entering the united states from these countries more than doubled in fiscal year (fy) 2012 
+and continued through fy 2014 (ibid.).3 the department of health and human services 
+office of refugee resettlement (hhs-orr), which provides for the care and custody of 
+uac, had a record number of 10,005 children in its care by april 2012 (jones and podkul 
+2012). in fy 2013, the us customs and border patrol (cbp) apprehended over 35,000 
+unaccompanied children. that number almost doubled to 66,127 in fy 2014, with central 
+american children outnumbering mexican children for the first time (cbp 2014). 
+various studies, including those commissioned by the united nations high commissioner 
+for refugees (unhcr), the womens refugee commission, and the american immigration 
+council, have attempted to understand the underlying reasons for the dramatic rise in uac 
+arrivals to the united states4 (jones and podkul 2012; unhcr 2014a; kennedy 2014). 
+interviews with children have identified high levels of violence perpetrated by gangs and 
+drug  cartels  as  a  primary  push  factor  (jones  and  podkul  2012;  kennedy  2014).  other 
+
+2   an unaccompanied alien child is any child who (1) does not have legal status in the united states; (2) 
+is under 18 years old; and (3) has no parent or guardian in the united states who can care for him or her. 6 
+u.s.c.  279(g)(2).
+3   during the first quarter of fy 2015, 10,100 children were apprehended at the southwest border, a 39 
+percent decrease compared to the same period in fy 2014. however, analysts suggest that the numbers will 
+likely accelerate unless measures to address the root causes of flight are implemented. see meyer et al. 2015. 
+4   the united states may not always be the default option. children often try first to relocate within their 
+country, and, if they have family in a nearby country, they are likely to seek protection in a country other than 
+the united states (kennedy 2014, 4). in fact, unhcr reported a 432 percent increase in asylum applications 
+from the neighboring countries of belize, costa rica, nicaragua, panama and mexico by individuals from el 
+salvador, honduras, and guatemala (unhcr 2014).
+
+130
+
+journal on migration and human securityfigure 1. uac arrivals by country of origin
+
+reasons for their flight include extreme poverty, domestic violence, family reunification, 
+rumors  of  immigration  benefits,5  and  lack  of  adequate  employment  and  educational 
+opportunities.  a  2014  study  conducted  by  fulbright  fellow  elizabeth  kennedy  in 
+el salvador found that 90 percent of 322 minors interviewed had family in the united 
+states,  but  only  35  percent  provided  family  reunification  as  a  reason  for  attempting  to 
+reach the united states (kennedy 2014, 3). most of the children interviewed cited fear of 
+crime and violence as the reason for seeking to reunify with family in the united states. 
+a study by the us conference of catholic bishops found that over 50 percent of children 
+from honduras, guatemala, and el salvador reported that violent crime in their country of 
+origin had influenced their decision to leave home (usccb 2012, 7-8). about 50 percent 
+of honduran refugees had witnessed gun or gang-related violence, including the murder 
+of family or friends (ibid., 8-9). rising levels of gang membership also support the claim 
+that  widespread  violence  and  gang  activity  are  an  underlying  cause  of  uac  migration 
+to the united states (seelke 2014). additionally, children who reach their teenage years 
+start receiving threats and pressure to join gangs, prompting them to undertake a perilous 
+journey at a young age with the hope of attaining long-term security. 
+this article examines why unaccompanied children have arrived in record numbers to the 
+united states in recent years. it provides an overview of the violence that children face in 
+el salvador, guatemala, honduras and mexico perpetrated by gangs and other criminal 
+organizations.  the  article  discusses  the  us  governments  legal  obligations  towards 
+children arriving at its borders and describes good practices of other governments relating 
+to the protection of child migrants and refugees. it describes possible forms of relief from 
+
+5   some commentators contend that immigration policies such as deferred action for childhood arrivals 
+(daca)  and  rumors  spread  by  smugglers  have  encouraged  the  influx.  however,  recent  entrants  are  not 
+eligible for daca and the study conducted by kennedy found that the majority of salvadoran children 
+interviewed had never heard rumors to the contrary. 
+
+131
+
+humanitarian protection for children fleeing gang-based violencedeportation with a focus on asylum and special immigrant juvenile status (sijs). the 
+article concludes with recommendations for the administration and policymakers to ensure 
+that the rights of these children are protected. 
+
+background: children and gangs 
+
+gang culture in the united states 
+
+much  of  the  violence  in  central america  and  flight  of  central americans  north  is  the 
+consequence of long-term social inequality and poverty throughout the region. violence 
+in the region grew and spread in large part due to us support of wars against popular 
+movements seeking social change in northern triangle countries in the 1970s and 1980s. 
+the violence and displacement over the past decades are the legacy of these wars with 
+consequences not only in central america but in the united states as well.6
+the origin of gangs in the united states can be traced as far back as the 1780s. gangs 
+emerged with particular force when waves of irish, italian, slavic and other immigrants 
+came to the country in the nineteenth century (thale and falkenburger 2006; howell and 
+moore 2010). gangs in central american immigrant communities began to develop in los 
+angeles by the 1980s, the mara salvatrucha (ms-13) and the 18th street gang being the 
+most prominent (thale and falkenburger 2006, 2-4; howell and moore 2010, 9-12, 14; 
+seelke 2014). gangs tend to originate in communities characterized by poverty, racism, 
+disenfranchisement, deprivation, and low levels of social control and exposure to violent 
+conflict increases the risk of affiliation (johnson 2006). 
+us politicians mistakenly believed that deportation of gang members would remedy the 
+gang  problem  in  the  united  states.  this  led,  in  part,  to  congressional  approval  of  the 
+illegal immigration reform and immigrant responsibility act of 1996, which significantly 
+expanded  the  range  of  criminal  activities  and  convictions  for  which  immigrants  could 
+be  deported  (thale  and  falkenburger  2006,  4;  seelke  2014,  2-3).  persons  with  certain 
+criminal convictions became subject to deportation regardless of their length of time in the 
+united states, family and community ties, or status as lawful permanent residents (lprs) 
+(johnson  2006).  deportations  of  thousands  of  central americans  occurred  at  the  same 
+time as guatemala and el salvador were ending long-term civil wars and honduras was 
+recovering from low-intensity conflict that left more than ten thousand persons disappeared. 
+the united states has targeted gang members through programs such as operation return 
+to sender implemented in 2006, and the ongoing operation community shield, launched 
+in 2005 (thale and falkenburger 2006, 4; seelke 2014, 15). unfortunately, the involuntary 
+return of gang members to countries of origin has resulted in strengthening the transnational 
+link between the central american and us gangs, without curtailing the level of gang 
+violence in central america or in the united states (thale and falkenburger 2006, 4).7 
+
+6   for in-depth analysis of the history of inequality, poverty and violence in central america and the role of 
+us foreign policy in the region, see understanding central america: global forces, rebellion and change 
+by john a. booth, christine j. wade and thomas w. walker (westview press 6th ed., 2014). 
+7   see also seelke 2014 stating that policymakers in central america have expressed concerns regarding the 
+
+132
+
+journal on migration and human securitymigration flows have reinforced this link and have contributed to the spread of us gang 
+culture throughout central america (arana 2005; thale and falkenburger 2006, 4; howell 
+and moore 2010, 15; johnson 2014). 
+in  response,  central  american  governments  have  adopted  highly  repressive  policing 
+strategies, often referred to as mano dura (iron fist), in order to curtail gang violence and to 
+assert control over the increasing rise in gang membership. mano dura laws and policies have 
+made youth gang membership unlawful and apply more relaxed evidentiary standards in 
+legal proceedings against them, resulting in massive detention of gang members and harsh 
+prison sentences (thale and falkenburger 2006, 3, 5). gangs now control many of the 
+prisons in el salvador, guatemala, and honduras, operating their criminal activities form 
+within prison walls. rather than reducing gang activity, these short-term repressive policies 
+have stimulated gangs to go underground, become more organized, commit more violent 
+crimes, become involved in new types of criminal conduct, and lower their public profile 
+(ibid., 4-5, 11, 20).8 in addition, gangs are often blamed for crimes actually committed 
+by other parties, and a large number of young men are being arrested merely for having a 
+tattoo or wearing baggy pants (ibid., 3, 5; seelke 2014, 4).
+
+violence in honduras
+
+during the last six years, transnational criminal groups, especially mexican drug cartels, 
+have increased their presence in honduras. the 2009 coup that removed president manuel 
+zelaya  from  power  exacerbated  the  instability  in  the  country.  shortly  after  the  coup, 
+colombian drug traffickers changed their routes and made honduras the primary point 
+for cocaine transfer to the mexican cartels (noriega and lanza 2013). local gangs such 
+as the 18th street gang and the chirizos have grown in great part due to the presence of 
+the colombian and mexican cartels (gurney 2014). the honduran police force is one of 
+the most corrupt in the americas. the government often uses the military to enforce the 
+law and the judicial system is weak (insight crime 2014). gang violence, propelled by 
+drug trafficking and weak law enforcement, has made honduras one of the most violent 
+countries in the region (the economist 2013).
+as of 2012, the most recent year for which global statistics are available, honduras had the 
+highest homicide rate in the world at 90.4 deaths per 100,000 people (undoc 2013). total 
+homicides increased from a total of 2,417 in 2005 to a peak of 7,172 homicides in 2012, 
+before declining slightly to 6,757 in 2013 (observatorio de la violencia 2006; 2013; 2014). 
+the most recent reports released by the honduran government on december 31, 2014, 
+report that the homicide rate has decreased to 66 per 100,000 inhabitants from a rate of 79 
+per 100,000 in 2013 (gagne 2014; la prensa 2015). san pedro sula and distrito central 
+(an area comprising the capital, tegucigalpa), had the first and fourth highest homicide 
+adverse effects of us deportation policies on the regions gang and security problems and indicating that us 
+law enforcement has compiled evidence that certain imprisoned ms-13 leaders had requisitioned retaliatory 
+killings of people in the washington, dc metro area and were attempting to unify salvadoran gang cells with 
+their us counterparts. 
+8   for example, thale and falkenburger report that gang members now refuse to get tattoos or wear clothing 
+that would identify them as gang members, making them less visible for law enforcement identification. 
+seelke observes that mano dura techniques proved counter-productive, and falsely-imprisoned youth who 
+were not gang members often became so in prison. 
+
+133
+
+humanitarian protection for children fleeing gang-based violencerates  in  the  world  outside  a  war  zone,  at  169.30  per  100,000  and  101.99  per  100,000, 
+respectively (ccspjp 2013). 
+children and teens have been the primary targets of the significant increase in both inter-
+gang and generalized violence (jones and podkul 2012, 9). according to the washington 
+office on latin america, honduran boys and men ages 15 to 30 have a one in 300 chance 
+of being murdered (jesuits and wola 2014). since 2005, the murder rates for women 
+and girls have increased by 346 percent, while murder rates for men and boys increased by 
+292 percent (ibid.; observatorio de la violencia 2006; 2013; 2014). in the first five months 
+of 2014, over 454 young people under 24 years of age were murdered, with 102 murders 
+occurring in may alone. of these recent homicides, 64 percent of victims were 18 to 23 
+years old, while 36 percent were under 17 years old (la nacin 2014). 
+while the statistics do not indicate which proportion of these deaths resulted from gang 
+violence, unhcr found that about 34 percent of honduran children were fleeing to escape 
+violence perpetrated by gangs or other criminal groups (unhcr 2014a). selvin, a 23-
+year old honduran, fled honduras when he was 16 years old and now lives in worcester, 
+massachusetts. he described his experience with gangs as follows: [t]hose guys, they 
+make you to do things that you dont want to do. youre trying to be someone in life, but 
+you cant, unless you join them selling drugs, killing people. and you didnt want to do 
+that. you want to be a better person (malone and gaynor 2012). 
+police  and  members  of  the  public  in  honduras  also  engage  in  violence  against  poor 
+adolescents, and young men in particular (us department of state 2014c). young people 
+who do not belong to a gang and who have not been violently targeted by gangs may fall 
+victim to police and civilian violence, particularly if they are supposed habitual criminals 
+[or] suspected gang members and sometimes for no apparent reason at all (ibid.). 
+
+violence in el salvador 
+
+el salvadors homicide rate declined from 66 per 100,000 in 2011 to 41.2 per 100,000 in 
+2012 as the result of a truce between its two biggest gangs, the 18th street gang and ms-
+13. however, it still has the fourth highest homicide rate in the world (jones and podkul 
+2012, 10; undoc 2013, 122-33). while the homicide rate dropped in 2012, the rate of 
+extortion remained the same, or increased in some areas (villiers negroponte 2013). as 
+the truce began to break down, homicides increased by nearly 70 percent in the first half 
+of 2014 (mejia giraldo 2014; el espectador 2014). the national police report a total of 
+3,912 homicides in 2014an average of thirteen murders a dayrepresenting a 35 percent 
+increase from the prior year (el salvador.com 2015).
+the  2013  us  department  of  state  human  rights  report  for  el  salvador  notes  that 
+prisonersincluding gang membersconduct criminal activities from prison, sometimes 
+with  the  assistance  of  prison  guards,  raising  serious  concerns  about  the  governments 
+ability to control the violence, which disproportionately targets children, young adults and 
+single women (us department of state 2014a). 
+according to the womens refugee commission, children are mostly targeted by gang 
+members at their schools, leading to one of the lowest school attendance rates in latin 
+
+134
+
+journal on migration and human securityamerica (jones and podkul 2012, 10). women and girls are particular targets of violence, 
+and 580 out of 4,000 murders committed in 2010 were classified as femicides, or gender-
+based murders (ibid., 11). 
+unhcr  noted  with  concern  that  72  percent  of  salvadoran  children  interviewed  had 
+traveled to the united states after experiencing severe harm, and 66 percent left specifically 
+to avoid violence by gang or criminal groups or because of police incapacity in the face 
+of such threats (unhcr 2014, 31). kennedy found that 59 percent of salvadoran boys 
+and 61 percent of salvadoran girls identified crime, gang threats, or violence as a reason 
+for migrating (kennedy 2014, 1). gang members threatened and beat mario, age 17, for 
+instance, when he rebuffed their attempts to recruit him and he reported the threats to the 
+police. when the police failed to respond, he fled to the united states with copies of the 
+complaints he filed with the police. many of his friends had been murdered or disappeared 
+for refusing to join a gang (malone and gaynor 2012). 
+children frequently recounted witnessing murders, extortion, and threats to family members. 
+unhcr reported that while boys most often feared gang recruitment and retaliation, girls 
+feared sexual violence. maritza, age 15, left el salvador after her uncle told her that a gang 
+member was planning to hurt her. she stated, in el salvador they take young girls, rape 
+them and throw them in plastic bags. after hearing of the threat, maritzas family decided 
+that it was safer to send her to the united states to reunite with her mother than for her to 
+remain at home (unhcr 2014a, 34).
+according to kennedy, children who do not have a gang presence in their neighborhoods 
+frequently indicated that they expect one to arrive soon, viewing it as inevitable (kennedy 
+2014). children are targeted by gangs and police alike and have few opportunities. carlos, 
+a young salvadoran, described the challenges he faced as a young man in el salvador. he 
+stated, [i]n el salvador, there is wrongits being young. youre stalked by gangs, the 
+authorities beat and follow kids because they dont trust them; they think they are gang 
+members. there are no jobs for young people because employers dont trust the kids either 
+. . . it is better to be old (jones and podkul 2012).
+
+violence in guatemala
+
+almost twenty years after the end of guatemalas bloody civil war, the country continues 
+to  suffer  from  pervasive  violence  committed  by  gang  members  and  supported  by  state 
+corruption. guatemala joins el salvador and honduras as a country with one of the highest 
+murder rates in the world. guatemalas 2012 homicide rate topped out at 39.9 per 100,000 
+people, the fifth highest rate in the world (jones and podkul 2012; the economist 2013). 
+guatemala also has one of the highest rates of femicide in the world, along with honduras 
+and el salvador (musalo and bookey 2013), and anecdotes of gang-perpetrated rapes and 
+femicides abound (see, e.g., unhcr 2014a; jones and podkul 2012; musalo and bookey 
+2013). although homicide rates have declined in 2014, unicef has named guatemala as 
+the second most dangerous country in the world for children from zero to 19 years of age; 
+el salvador placed first (unicef 2014; examiner.com 2014). 
+the ms-13 and 18th street gang are guatemalas most prominent street gangs. although 
+
+135
+
+humanitarian protection for children fleeing gang-based violencethey mainly focus on extortion, they are also involved in other major crimes, including 
+kidnapping and bank robberies. while estimates vary widely, the united nations office 
+on drugs and crime calculated that there were 22,000 members of the ms-13 and 18th 
+street gangs in guatemala in september 2012 (undoc 2012). although both gangs are 
+transnational in nature, they are not as centralized and organized as the zetas (daughterty 
+2015), a violent transnational criminal organization from mexico.
+the  zetas  have  established  operations  in  guatemala  for  their  drug  trafficking,  money 
+laundering, and contraband networks. their presence dates back to 2008 when they first 
+stored narcotics and arms in the northern region of the country. the zetas control over 
+local police and the military is growing and they launder their proceeds through private 
+businesses and public contracts. the zetas bribe local police and their supervisors, members 
+of the judiciary, and prosecutors, to provide information and protection for the maintenance 
+and growth of their operations. they also recruit former military personnelespecially 
+those from the special forces known as the kaibilesto provide security (insight crime 
+2011; sacks 2013). the zetas have been responsible for some of the most horrific violence 
+in guatemala, including the 2011 massacre of 28 farmhands of los cocos farm in northern 
+guatemala (insight crime 2011). 
+children from the urban areas of guatemala are amongst the most vulnerable to the long-
+lasting problems of food insecurity, targeting and recruitment by gang members, and the 
+rise in the use of force and violence on the part of state militarized security forces (jones 
+and podkul 2012, 11). the united nations has criticized guatemala for the militarization 
+of its police force, raising concerns of greater violations of human rights in the country 
+(gagne 2015). only 20 percent of guatemalan children interviewed by unhcr reported 
+fleeing violence in society, including gang violence. however, many stated that they were 
+fleeing  domestic  abuse,  extreme  poverty,  and  state-sponsored  violations,  which  make 
+children more vulnerable to gang recruitment (unhcr 2014a, 34; us department of state 
+2014b, 19). 
+canilo,  a  young  guatemalan  who  fled  to  the  united  states  because  of  gang  violence, 
+reported that gang members came to the store where he worked and robbed him. he stated, 
+[t]hey took me out of the store, and they took the money and they beat me up . . . they were 
+following me everywhere (malone and gaynor 2012). 
+
+violence in mexico 
+
+ there are several major drug cartels operating in mexico, including the zetas, the sinaloa 
+cartel and the knights templar, all of them involved in drug trafficking, human smuggling, 
+extortion, and human trafficking. armed civilian vigilante groups have formed in a number 
+of areas across the country to defend their communities against cartels (the telegraph 
+2014). 
+the war against the cartels launched in 2006 by mexican president felipe caldern has 
+resulted in significant violations of human rights (hrw 2014b). it is estimated that more 
+than  120,000  mexicans  died  and  27,000  disappeared  between  2007  and  2012  (molloy 
+2013).  torture  is  widely  practiced  by  security  forces  to  obtain  information  and  forced 
+
+136
+
+journal on migration and human securityconfessions. the criminal justice system rarely provides justice to the victims of violent 
+crimes and human rights violations (hrw 2014b).
+criminal groups in mexico often engage children in smuggling activities precisely because 
+us authorities deport them back to mexico with little delay (unhcr 2014a, 38). their 
+age, poverty, and exposure to violence from criminal groups and cartels make children 
+vulnerable  to  trafficking  and  exploitation  (ibid.,  38,  39).  criminal  organizations  force 
+children to engage in unlawful and dangerous activities, including smuggling, which 
+facilitates the flight of families and children from northern triangle countries who cross 
+the us-mexico border to escape gang violence in their home countries (ibid.). 
+the zetas also regularly kidnap migrants from northern triangle countries in mexico and 
+demand ransom from their family members in the united states. franklin, for instance, 
+was 16 years old when he fled honduras and was kidnapped by los zetas in mexico. he 
+noted, [t]he zetas are dangerous. they want money, and they want to know if you have 
+family in the us who can pay. after five days in captivity, franklin was able to escape and 
+eventually reached the united states (malone and gaynor 2012). 
+
+us  legal  obligations  to  children  fleeing  violence  in 
+their home countries
+as  the  number  of  unaccompanied  minors  has  steadily  risen  over  the  years,  the  us 
+government has developed a structure to address the needs of children seeking protection. 
+in  2002,  congress  passed  the  homeland  security act  of  2002. the act  eliminated the 
+immigration  and  naturalization  service  (ins),  created  the  department  of  homeland 
+security (dhs) and transferred all of its immigration benefit and enforcement functions 
+to dhss immigration and customs enforcement (ice), cbp, and us citizenship and 
+immigration  services  (uscis)  (byrne  and  miller  2012,  6).9  the  act  also  transferred 
+responsibility for the care and custody of uac to hhs-orr.10 us law defines uac as 
+persons under age 18 who lack lawful immigration status in the united states and have 
+no parent or legal guardian who is willing or able to provide them with care and physical 
+custody.11
+
+tvpra screening 
+
+the william wilberforce trafficking victims  protection  reauthorization act  (tvpra) 
+of  2008  (tvpra)  governs  the  treatment  of  uac  arriving  in  the  united  states.12  the 
+tvpra instituted screening procedures for uac that provide different treatment for uac 
+
+9   homeland security act (hsa) of 2002, pub. l. no. 107-296,  471(a), 116 stat. 2135, 2205 (2002). 
+10   hsa of 2002,  462(a), 116 stat. at 2202. 
+11   6 usc  279(g)(2) (2012). typically, this means that if a parent or legal guardian is not present to provide 
+care (or cannot be present within a short period of time) that child is technically considered unaccompanied 
+and processed accordingly (quoted in zamora 2014). thus, a child may have relatives in the united states, 
+but if they live on the opposite coast and do not have the money to travel, the child will likely be classified 
+a uac (see ibid.). 
+12   william wilberforce, trafficking victims protection reauthorization act of 2008, pub. l. no. 110-457, 
+235, 122 stat. 5044, 5074-82 (2008) (codified as amended at 8 usc  1232). 
+
+137
+
+humanitarian protection for children fleeing gang-based violencefrom contiguous countries (i.e., mexico and canada) than for uac from other points of 
+origin (seghetti, siskin and wasem 2014).13 while federal immigration law mandates that 
+unaccompanied children from non-contiguous countries be admitted and placed into the 
+custody of hhs, similarly-situated children from mexico do not have the same rights and 
+can be deported within 24 hours of their arrival if they do not have a valid humanitarian 
+protection claim. 
+cbp must screen all incoming uac (or suspected uac) within 48 hours to determine 
+whether they are uac from a contiguous country and, if so, whether they have been victims 
+of trafficking or persecution (seghetti, siskin and wasem 2014, 3-5).14 those uac from 
+contiguous countries who fear persecution or may have been victims of trafficking must 
+be transferred immediately to hhs-orr. uac from contiguous countries who are not 
+found to have a credible fear of persecution or to have been trafficked may be allowed to 
+withdraw their application for admission to the united states and voluntarily return to their 
+country rather than be placed in removal proceedings (ibid.).15 the number of mexican 
+children who enter hhs-orr custody is small (graham 2014).
+reports have shown that most mexican children do not receive adequate screening at the 
+border. unhcr found that despite the us governments legal burden to establish that each 
+mexican uac does not have an international protection need during the tvpra screening, 
+cbps operational practices reinforce a presumption of an absence of a protection need. 
+during field missions to the border, unhcr personnel observed a bias by cbp officers 
+which desensitized them to the needs of mexican children (unhcr 2014b).
+ice must transfer all uac arriving from non-contiguous countries such as el salvador, 
+guatemala,  and  honduras  to  hhs-orr  custody  within  72  hours;  these  children  are 
+typically subject to removal proceedings and may begin an application for asylum or other 
+immigration relief in the course of those proceedings (seghetti, siskin and wasem 2014, 
+3-4, 8).16 
+prior  to  the  tvpra,  there  were  many  obstacles  for  uac  who  hoped  to  obtain  legal 
+immigration status in the united states, whether through special immigrant juvenile status 
+(sijs),17 political asylum, or other means (usccb 2012). sijs applicants often aged out 
+of eligibility because uscis had no mandatory processing deadline, and some would-be 
+applicants could not even apply because dhs refused to provide its consent, which was 
+a pre-requisite. furthermore, successful applicants did not have access to the specialized, 
+federally-funded foster care programs that now exist (ibid.). likewise, underage asylum 
+applicants did not benefit from a tolling of the one-year bar, and they were required to 
+pursue their cases before a federal immigration court instead of through uscis (ibid.). 
+enactment  of  the  tvpra  eliminated  many  of  these  barriers  (usccb  2012,  3-5,  8). 
+13   8 usc  1232 (2012). 
+14   8 usc  1232(a)(2).
+15   8 usc  1232(a)(2) (2012). 
+16   8 usc  1232(a)(4), (b)(3) (2012). 
+17   for those uac who do not qualify for asylum, sijs may be the only immigration relief available. sijs 
+allows children who come to the united stateslegally or notto adjust to permanent resident status if they 
+have been abused, abandoned, or neglected by at least one parent. sijs may be available to children who are 
+unmarried, under 21, and physically present in the united states at the time of filing (uscis 2014a).
+
+138
+
+journal on migration and human securityadditionally, it provided that sijs applicants only had to prove that reunification with one 
+parentrather than bothwas not possible due to abuse, neglect, or abandonment, and that 
+return to their home country was not in their best interest (ibid., 8).18 unfortunately, because 
+of their limited access to this form of protection, mexican minors who are apprehended at 
+the border are unable to apply for sijs. 
+it is important to note that until the recent influx of unaccompanied children at the border, 
+the  tvpra  had  a  history  of  bipartisan  support  dating  back  to  2000,  when  congress 
+originally passed the law. the tvpra was reauthorized in december 2008 by congress 
+and signed into law by president bush. 
+shortly after the surge in arrivals of families and unaccompanied children at the border 
+in 2014, president obama requested $ 3.7 billion in emergency supplemental funding to 
+respond to their needs.19 in response to the presidents request, several members of congress 
+introduced legislation seeking to amend the tvpra in order to be able to apply the same 
+standards to central american children that apply to mexican children. these bills included 
+provisions to expedite screening and removal of all unaccompanied children arriving at the 
+border and to detain children until proceedings were finalized (zamora 2014). 
+with the exception of advocacy groups, few in the public or private sectors have suggested 
+that mexican children should be provided the same procedural protections at the border 
+as their central american counterparts. this is particularly troubling given the length and 
+breadth of violence suffered by children in mexico, including gang and cartel violence, 
+violations committed by the military and police, domestic abuse and human trafficking. 
+
+apprehension and detention of unaccompanied minors
+
+typically, uac enter the immigration system through apprehension and detention at a port 
+of entry by ice, cbp or the us coast guard. less commonly, they may be apprehended 
+internally by local, state, or federal authorities (byrne and miller 2012, 9-10). in the latter 
+scenario, uac who have entered the juvenile or criminal system can be transferred to 
+dhs detention facilities (ibid., 10). after dhs takes uac into its custody, they are then 
+transferred to a temporary detention facility. this temporary detention facility is where 
+preliminary dhs processing occurs, in which an initial determination of uac status is 
+conducted (ibid.). 
+if the child is an accompanied minor from a contiguous country (mexico or canada), he or 
+she will be removed with his or her parent or guardian unless it is suspected that he or she 
+may be a victim of trafficking or fears persecution. if the child is an accompanied minor 
+from a non-contiguous country, he or she will be placed in family detention facilities, from 
+which dhs will initiate removal proceedings. if older than 18 years of age, he or she will 
+be placed in dhs custody, from which point removal proceedings will be initiated.
+
+18   8 usc  1232(d) (2012). 
+19   white house fact sheet: emergency supplemental request to address the increase in child and adult 
+migration from central america in the rio grande valley areas of the southwest border (july 8, 2014), 
+available  at:  https://www.whitehouse.gov/the-press-office/2014/07/08/fact-sheet-emergency-supplemental-
+request-address-increase-child-and-adu. 
+
+139
+
+humanitarian protection for children fleeing gang-based violencedifferent  detention  procedures  apply  for  unaccompanied  children.  if  the  child  is 
+unaccompanied,  under  18  years  of  age,  and  mexican  or  canadian,  a  voluntary  return 
+process will be initiated by dhs unless the child fears persecution or may be the victim 
+of trafficking.20 if the child is from a non-contiguous country, dhs will initiate removal 
+proceedings and transfer the child to the custody of hhs-orrs division of unaccompanied 
+childrens services (ducs).
+orr provides care for children in its custody through a network of private and nonprofit 
+entities and governmental juvenile agencies (byrne and miller 2012, 14). services such as 
+education, health care, recreational activities, vocational training, mental health services, 
+case management, and, if possible, efforts to reunite the child with family, must be provided 
+(ibid.; womens refugee commission 2009, 5). 
+orr initially places children according to the information provided by ice regarding age, 
+gender, country of origin, date and location of apprehension, and medical and psychological 
+condition. children are placed in shelter care, staff-secure care, secure care, and transitional 
+(short-term) foster care, based on their special needs, criminal record and age (womens 
+refugee commission 2009). according to a vera institute of justice report, 80 percent of 
+children are transferred to shelter care, four percent to secure care, another four percent to 
+staff-secure care, and the rest to short-term care (ibid., 15).
+typically,  when  children  are  transferred  to  hhs-orr-affiliated  long-term  foster  care 
+programs, they undergo a second screening process to determine their eligibility for any 
+form of immigration relief, including sijs, asylum, t non-immigrant visa (t visa), and u 
+non-immigrant visa (u visa) (usccb 2012, 3-5). however, a study conducted by the us 
+conference of catholic bishops migration and refugee services (usccb/mrs) revealed 
+that very few uac who applied for asylum were granted asylum, and none of the uac in 
+usccb/mrs custody had successfully applied for a u or t visa (ibid., 12). children had 
+much higher success rates with sijs applications (ibid.). 
+
+protection of minors: a global perspective
+
+convention on the rights of the child: providing emergency and 
+
+humanitarian aid to children
+as of august 1, 2014, 194 states are parties to the convention on the rights of the child.21 
+although the united states signed the convention, it has not ratified it. the united states 
+and  somalia  remain  the  only  two  signatories  who  have  not  ratified  this  treaty.22 while 
+the  convention  is  not  binding  in  the  united  states,  many  of  its  provisions  have  been 
+
+20   see byrne and miller 2012 diagramming pathways through the immigration system for an arriving alien 
+child. 
+21   databases: convention on the rights of the child, un treaty collection, https://treaties.un.org/pages/
+viewdetails.aspx?mtdsg_no=iv-11&chapter=4&lang=en#17  [hereinafter  databases];  convention  on  the 
+rights of the child, nov. 20, 1989, 1577 u.n.t.s. 3, available at: https://treaties.un.org/doc/publication/
+unts/volume%201577/v1577.pdf [hereinafter convention]. 
+22   id. 
+
+140
+
+journal on migration and human securityincorporated into us law.23 
+the convention defines a child as every human being below the age of eighteen years 
+unless, under the law applicable to the child, majority is attained earlier.24 the convention 
+requires that states parties take appropriate measures to ensure that child refugees and children 
+seeking refugee status receive protection and assistance from the state.25 furthermore, the 
+convention lays out a number of rights related to the treatment of unaccompanied minors 
+and victims of violence, including: 
+
+  states parties are obliged to protect children from trafficking, drugs, and exploitation, 
+
+whether economic, sexual, or otherwise.26 
+
+  states  parties  must  undertake  appropriate  measures  to  help  child  victims  heal 
+physically and psychologically from any abuse, exploitation, or violence they have 
+suffered.27 
+
+  children have a right to health care and an adequate standard of living.28 
+  states must provide care and custody when a childs parents or guardians are unable 
+
+or unavailable to do so.29 
+
+best interests of the child standard and us practices 
+
+these obligations conform to one of the conventions foundational concepts: that states 
+parties must act in the best interests of the child.30 the best interests of the child standard 
+has deep roots in us domestic and international law (carr 2009).31 in instances of abuse 
+and neglect, child custody battles, and other lawsuits involving children, courts seek to 
+determine the childs best interests when crafting an appropriate legal solution (ibid., 125-
+26). 
+in immigration law, however, the best interests of the child standard rarely applies. prior 
+to 2008, a federal court settlement, known as the flores settlement agreement, served as the 
+guideline for treatment of uac and included no requirement relating to the best interests 
+of  the  child  (hill  2010,  91-97). the  united  states  added  best  interests  of  the  child 
+language to the tvpra in 2008, requiring uac in hhs-orr custody to be promptly 
+placed in the least restrictive setting that is in the best interest of the child (hill 2010). 32 
+however, this standard does not necessarily apply in determining a legal remedy for the 
+
+23   databases. 
+24   convention art. 1.
+25   id. art. 22.
+26   id. art. 3236.
+27   id. art. 38. 
+28   id. art. 24, 27. 
+29   id. art. 20. 
+30   id. art 3. 
+31   the un committee on the rights of the child asserts that the standard must be read in light of the 
+conventions goals and other protections and should not be taken out of context to justify corporal punishment 
+or more extreme practices detrimental to a childs life and human dignity. rep. of the comm. on the rights of 
+the child, at 42  61, 65th sess., un doc. a/67/41 (2012), available at: http://docstore.ohchr.org/selfservices/
+fileshandler.ashx?enc=dtyoazphj4nmy4lu1toebfnrdp8xisc5b81scc2pljdcs0tycmed87%2f%2bn
+sapckfgylt8sjxek9pc0bos6opnrw7yz3uvb6swt9lee31wrze%3d.
+32   see also 8 usc 1232(c)(2)(a). 
+
+141
+
+humanitarian protection for children fleeing gang-based violencechild, who may be treated exactly like an adult under us immigration law.33 furthermore, 
+us immigration law too often discards this standard for the sake of expediency or other 
+priorities (carr 2009, 126; cavendish and cortazar 2011, 46-47). after recent allegations 
+that cbp officers have mistreated uac while in custody, cbp has initiated an internal 
+investigation,  but  stories  of  substandard  uac  and  family  detention  conditions  abound 
+(preston 2014; hennessy-fiske and carcamo 2014). 
+despite  progress  in  the  development  of  us  legal  standards  governing  the  treatment  of 
+uac, human rights watch has criticized sub-par screening processes: 
+
+under  current  us  policy,  unaccompanied  migrant  children  who  may  be  refugees 
+must undergo initial asylum screenings and some trafficking screenings by armed and 
+uniformed cbp officers. by contrast, international standards say it is in unaccompanied 
+childrens best interests to be assessed in a friendly and safe atmosphere by qualified 
+professionals  who  are  trained  in  age  and  gender-sensitive  interviewing  techniques. 
+(hrw 2014a) 
+
+unaccompanied children are generally held in shelters or temporary holding facilities by the 
+us government upon apprehension. while these facilities are distinct from adult detention 
+centers, they are secure. the practice of housing children in detention-like conditions is 
+extremely  detrimental  to  their  well-being  given  their  vulnerability  (corlett  et  al.  2012; 
+farmer  2013;  plumer  2013).  to  worsen  matters,  the  united  states  does  not  guarantee 
+the  right  to  free  legal  representation  for  unaccompanied  children,  despite  international 
+community recommendations that children should be provided counsel especially in court 
+proceedings (jones and podkul 2012, 26). the united states recognizes the importance 
+of  legal  counsel  for  children  in  other  contextsits  own  child  welfare  system  provides 
+representation for minors in the court system as a safeguard of a childs interests in the 
+outcome of his or her case (ibid.). 
+
+other country practices relating to migrant and refugee 
+children
+while no one state implements all of the conventions articles perfectly, a number have 
+developed practices worth adopting, some of which are detailed below. 
+
+sweden
+
+in  2009,  sweden  was  among  the  states  parties  that  had  strictly  complied  with  the 
+conventions  recommendations  and  had  implemented  new  legislation  and  public  laws 
+to  enhance  and  protect  the  rights  of  children.  for  example,  2006  legislation  divested 
+the swedish migration board of the care and responsibility of uac and transferred that 
+responsibility to municipalities, who have more experience in the care and integration of 
+children  into  their  communities.34    sweden  also  enacted  anti-discrimination  legislation, 
+33   see, e.g., 8 usc  1158 (establishing requirements for asylum, which apply equally to children and 
+adults). 
+34  concluding observations of the committee on the rights of the child: sweden, at 2, 51st session., un 
+doc. crc/c/swe/co/4 (2009), on file with the authors [hereinafter concluding observations: sweden]. 
+
+142
+
+journal on migration and human securitywhich entered into force on january 1, 2009. the legislation included age as a protected 
+ground and also prohibited discrimination throughout the education system. furthermore, 
+it established the office of the equality ombudsman which is responsible for implementing 
+the law.35 
+on  a  related  note,  the  swedish  migration  board  is  very  careful  in  its  age  assessment 
+procedures  for  incoming  uac.  children  are  interviewed  by  an  official  who  makes  an 
+initial determination of age based on a range of factors, not just physical appearance. in 
+cases where the immigrants age is uncertain, officials may pursue additional investigation 
+or  request  x-rays  to  help  determine  his  or  her  age  (corlett  et  al.  2012,  65).  in  case  of 
+continuing doubts, the case will be resolved in favor of the immigrant (ibid.). 
+even  after  the  enactment  of  the  anti-discrimination  act  in  sweden,  the  committee 
+on  the  rights  of  the  child,  the  treaty  body  which  monitors  the  implementation  of  the 
+convention, was concerned that such laws would not eliminate discrimination in practice 
+and criticized de facto discrimination against and xenophobia and racist attitudes towards 
+children of ethnic minorities, refugee and asylum-seeking children, and children in migrant 
+families.36 the committee commended legislation passed in 2008 that provides asylum 
+seekers and former asylum seekers a right to health care and medical services similar to 
+that of children with legal residency status.37 however, the committee expressed concern 
+that undocumented children had access only to urgent medical care. it also noted that large 
+numbers of unaccompanied asylum-seeking children disappear from reception centers, even 
+after the responsibility for their housing and custody has been transferred to municipalities. 
+it also criticized the absence of legislation to appoint a temporary legal guardian within 24 
+hours of a uacs arrival.38
+
+belgium
+
+belgium  has  also  implemented  a  number  of  praiseworthy  laws  and  programs  for  the 
+humane treatment of arriving uac.39 the international detention coalition has highlighted 
+belgiums  guardianship  procedures  and  housing  and  detention  policies  as  worthy  of 
+imitation (corlett et al. 2012, 66, 75, 85). 
+immigration  authorities  in  belgium  have  no  connection  to  guardianship  services,  the 
+entity that appoints guardians for arriving children. ultimately, the guardian ensures the 
+childs overall mental and physical wellbeing. this involves finding housing and a lawyer 
+for the child and helping him or her to navigate the countrys legal system. it also requires 
+developing a relationship of trust as the guardian proceeds to resolve problems and find a 
+long-term solution for the child (ibid., 66). 
+
+35   id. 
+36   id.
+37   id. at 14. 
+38   id. 
+39   concluding observations of the comm. on the rights of the child: belgium, 54th sess., u.n. doc. 
+crc/c/bel/3-4  (2010),  available  at:  http://docstore.ohchr.org/selfservices/fileshandler.ashx?enc=6qk
+g1d%2fppricaqhkb7yhsk8r1vphio%2fg7mp83ctcs1c05qt5mnr5thncrmz3uitpq9%2fanfxmfs0d
+gwqjih76%2bjz%2f9ef3m18bxdhvcyswt%2fr46vm6bl6qs8qrtohy7vbg 
+[hereinafter  concluding 
+observations: belgium].
+
+143
+
+humanitarian protection for children fleeing gang-based violencebelgium offers a variety of housing options for arriving minors, including collective housing 
+facilities, individual housing, and autonomous living with guidance from guardians (72). 
+belgium also avoids detaining children and families that are required to return to their 
+country  of  origin,  instead  lodging  them  in  return  houses,  where  they  generally  have 
+access to education and appropriate medical care (85). 
+
+potential  legal  protections  for  minors  in  the  united 
+states 
+while there exist a number of legal protection options for minors in the united states, 
+including t and u visas, for victims of trafficking and other crimes, daca, and relief 
+under the violence against women act, this section will focus only on asylum and sijs. 40
+
+i. asylum 
+
+a.  eligibility criteria 
+
+us law establishes baseline requirements for asylum in 8 usc  1158. to qualify, a person 
+must meet the definition of a refugee as defined in the statute, must satisfy procedural 
+filing  requirements  and  must  not  be  statutorily  barred  from  asylum.41 the  immigration 
+and nationality act defines refugee as any person who is outside any country of such 
+persons nationalityand who is unable or unwilling to return to, and is unable or unwilling 
+to avail himself or herself of the protection of, that country because of persecution or a 
+well-founded fear of persecution on account of race, religion, nationality, membership in a 
+particular social group, or political opinion42 us law requires that the protected ground 
+(e.g., political opinion, social group) be at least one central reason for the persecution.43 
+most gang-based asylum claims rely on the particular social group or political opinion 
+categories, although cases have succeeded on religious grounds as well, where applicable.44 
+since the issuance of the supreme courts decision in ins v. elias-zacarias,45 courts have 
+also put particular emphasis on the nexus language in the definition of refugee, which 
+requires persecution on account of one of the enumerated protected categories.46 in other 
+
+40   for information on t and u visas, visit the website of asista, a nongovernmental organization dedicated 
+to the protection of immigrant survivors of domestic violence and sexual assault at: http://www.asistahelp.
+org/en/about_asista/. 
+41   ina  208; 8 usc  1158. 
+42   ina  101(a)(42)(a), 208; 8 usc  1101(a)(42)(a), 1158. see also, protocol relating to the status of 
+refugees, jan. 31, 1967, 19 ust. 6223, t.i.a.s. 6577 (establishing the international bases for refugee status, 
+which correspond to the us definition in 8 usc  1101(a)(42)(a)). 
+43   ina  208(b)(1)(b)(i); 8 usc  1158(b)(1)(b)(i). 
+44   see, e.g., matter of __, (newark, n.j., may 13, 2008), available at: http://www.refugees.org/resources/
+for-lawyers/asylum-research/gang-related-asylum-resources/immigration-judge.html 
+es.017) 
+(granting asylum based on 16-year-old girls evangelical christian views); matter of __, (arlington, va., 
+march  20,  2008),  available  at:  http://www.refugees.org/resources/for-lawyers/asylum-research/gang-
+related-asylum-resources/immigration-judge.html (case h.019) (granting asylum after determining that his 
+pentecostal christian religion was one central reason for the young mans persecution). 
+45   502 us 478, 483 (1992) (holding that neutrality is not a political opinion). 
+46   ina  208(b)(1)(b)(i); 8 usc  1158(b)(1)(b)(i). 
+
+(case 
+
+144
+
+journal on migration and human securitywords, there must be some objective indication that the claimant was persecuted because 
+of his or her political opinion, social group, or other category, and not merely because he or 
+she refused to fight with guerillas or join a gang, for example.47 
+this poses a challenge in asylum cases, where refusal to join a gang does not, on its own, 
+constitute  expression  of  a  political  or  religious  opinion  or  membership  in  a  particular 
+social group.48 in fact, [a]djudicators [of gang-based asylum claims] have been quick to 
+conclude that gangs are motivated by the desire to increase their ranks, wealth, or power 
+rather than by the victims political opinion, religion, or social group membership.49 this 
+has been particularly problematic in political opinion and religious persecution cases, since 
+persecutors rarely share with their victims the precise reasons for their beating, kidnapping, 
+or  torturing  (frydman  and  desai  2012,  15).50  social  group  cases  often  fail  in  the  first 
+instance on social visibility and particularity grounds, as discussed below (ibid.). 
+
+b.  gang-related asylum case law
+1.  particular social group 
+
+courts  have  uniformly  adopted  the  board  of  immigration appeals  (bia)  formulation 
+of particular social group in matter of acosta as one whose members share a common, 
+immutable characteristicthat members of the group either cannot change, or should not be 
+required to change because it is fundamental to their individual identities or consciences.51 
+matter of acosta goes on to specify that [t]he shared characteristic might be an innate 
+one such as sex, color, or kinship ties, or in some circumstances it might be a shared past 
+experience52 
+however, subsequent decisions have altered the acosta formula, creating challenges for 
+gang-based asylum seekers. in 2008, the bia decided matter of s-e-g-,53 which officially 
+designated social visibility and particularity requirements for social group membership. 
+its  companion  case,  matter  of  e-a-g-,54  rejected  the  claimants  two  proposed  social 
+groups for failure to meet these new requirements: (1) young salvadorans who have been 
+subject to recruitment efforts by criminal gangs, but who have refused to join for personal, 
+religious, or moral reasons and (2) family members of such salvadoran youth.55 matter 
+of e-a-g- refused social group status to persons resistant to gang membership for lack of 
+social visibility56 and rejected the proposed group of young persons who are perceived to 
+be affiliated with gangs because association with criminal entitiesand thus the mistaken 
+perception that one is involved with such entitiescannot underpin an asylum claim.57 
+
+47   ins v. elias-zacarias, 502 u.s. at 483. 
+48   see, e.g., ins v. elias-zacarias, 502 u.s. at 483; matter of e-a-g-, 24 i&n dec. 591, 594 (bia 2008). 
+49   id.
+50   gafoor v. ins, 231 f.3d 645, 650 (9th cir. 2000). 
+51   matter of acosta, 19 i. & n. dec. 211, 233 (bia 1985). 
+52   id. 
+53   24 i&n dec. 579 (bia 2008). 
+54   24 i&n dec. 591 (bia 2008). 
+55   matter of s-e-g-, 24 i&n dec. 579, 588 (bia 2008). 
+56   matter of e-a-g-, 24 i&n dec. 591, 594 (bia 2008). 
+57   id. at 59596 (bia 2008). 
+
+145
+
+humanitarian protection for children fleeing gang-based violencethe circuit courts have largely adopted the bias social visibility and particularity 
+requirements from matter of s-e-g- and matter of e-a-g-, and generally show no sign of 
+changing course in the near future. however, the third and seventh circuits have refused 
+to defer to these bia requirements, and the ninth circuit seems on course to join them 
+(frydman and desai 2012, 3-6).58 perhaps because of this circuit split, the bia decided 
+two new cases in 2014 which explicitly attempted to clarifynot overrulethe social 
+visibility  requirement,  which  the  bia  renamed  social  distinction.59  in  doing  so,  it 
+emphasized  that  social  visibility  had  never  meant  literal  ocular  visibility.60  matter  of 
+w-g-r- then stated that [t]o have the social distinction necessary to establish a particular 
+social group, there must be evidence showing that society in general perceives, considers, 
+or recognizes persons sharing the particular characteristic to be a group.61 matter of m-e-
+v-g-  further  clarified  that  the  persecutors  actions  or  perceptions,  though  relevant,  are 
+not  determinative;  rather,  courts  must  look  to  societys  perception  or  recognition  when 
+determining the validity of a given social group.62 the potential repercussions of these 
+decisions are not yet known since the circuit courts have not yet had the occasion to address 
+this new precedent. 
+while gang-based social group claims are often difficult to prove at the bia and circuit 
+court  level,  successful  claims  before  immigration  judges  indicate  an  openness  on  their 
+part to consider them. for example, in one case, the immigration judge determined that 
+the claimants were members of a social group defined by membership in their family and 
+the fact that they were identical twin girls.63 despite the fact that the girls had never been 
+physically harmed by gang members, the judge found that they had suffered past persecution 
+based on the alleged aggressiveness of certain gang members and the fact that the girls 
+had changed schools and essentially secluded themselves at home, taking taxis between 
+home and school to avoid recruitment, rape, or other misfortune.64 the judge found past 
+persecution but also made sure to analyze well-founded fear of future persecution in case 
+the government appealed the decision.65
+generally, social group cases fall into one of a few categories, some of which have proven 
+more successful than others. ultimately, the only category of social group claim that almost 
+invariably fails is the claim predicated exclusively on resistance to gang recruitment or 
+
+58   see also henriquez-rivas v. holder, 707 f.3d 1081, 1083, 1087-91 (9th cir. 2013) (holding that witnesses 
+who testify against gang members may constitute a particular social group and casting doubt on the bias 
+social visibility requirement); valdiviezo-galdamez v. holder, 663 f.3d 582, 60607 (3d cir. 2011); gatimi 
+v. holder, 578 f.3d 611, 615 (7th cir. 2009). 
+59   matter of m-e-v-g-, 26 i&n dec. 227, 236 (bia 2014); matter of w-g-r-, 26 i&n dec. 208, 216 (bia 
+2014). 
+60   matter of m-e-v-g-, 26 i&n at 236; matter of w-g-r-, 26 i&n at 216. 
+61   matter of w-g-r-, 26 i&n at 21617. 
+62   matter of m-e-v-g-, 26 i&n at 24243 (responding to the ninth circuits decision in henriquez-rivas v. 
+holder, 707 f.3d 1081, 1089 (9th cir. 2013)). 
+63    matter  of  m-,  at  28  (jan.  14,  2009),  available  at:  http://www.uscrirefugees.org/2010website/5_
+resources/5_4_for_lawyers/5_4_1%20asylum%20research/5_4_1_2_gang_related_asylum_
+resources/5_4_1_2_3_immigration_judge_decisions_briefs_and_affidavits/matter_of_m%20_ij_
+decision.pdf. 
+64   id. at 32. 
+65   id. at 3540. 
+
+146
+
+journal on migration and human securityrefusal to join a gang.66 courts at all levels have consistently denied these claims, although 
+if they succeed, it tends to be at the immigration judge level.67 on the other end of the 
+spectrum, claims of persecution based on membership in a particular family are among 
+the most successful. courts at all levels recognize the family as sufficiently visible and 
+particular,68 so the major challenge with these groups is proving nexus (frydman and desai 
+2012,  12-14).  claims  by  former  gang  members  also  tend  to  succeed,  although  current 
+gang membersactive or notwill be denied asylum.69 prosecutorial witnesses and police 
+informants have met with less success due to the bias decision in in re c-a-,70 which 
+denied relief to former noncriminal government informants working against the cali drug 
+cartel. however, many circuits have since recognized that police informants constitute a 
+particular social group (ibid., 11-12).71 relief will therefore largely depend on the federal 
+judicial circuit in which the individual resides (ibid.). gender-based claims can be successful 
+as well, particularly at the immigration judge level. however, many of the gender social 
+group  claims  are  rejected  as  overly  general,  amorphous,  unparticular,  or  insufficiently 
+visible in society.72 for example, a particular social group of women between certain ages 
+
+66   see, e.g., gaitan v. holder, 671 f.3d 678 (8th cir. 2012); matter of e-a-g-, 24 i&n dec. 591 (bia 2008); 
+matter of s-e-g-, 24 i&n dec. 579 (bia 2008). but see valdiviezo-galdamez v. holder, 663 f.3d 582 (3d 
+cir. 2011) (refusing chevron deference to the social visibility and particularity requirements and remanding 
+to the bia); see also, frydman and desai 2012. 
+67    see,  e.g.,  matter  of  __,  (arlington,  va.,  aug.  4,  2009),  available  at:  http://www.uscrirefugees.
+org/2010website/5_resources/5_4_for_lawyers/5_4_1%20asylum%20research/5_4_1_2_gang_
+related_asylum_resources/5_4_1_2_3_immigration_judge_decisions_briefs_and_affidavits/matter_
+of_ij_decision.pdf;  transcript  of  immigration  proceedings,  matter  of  __,  (harlingen,  tex.,  dec.  11, 
+2002),  available  at:  http://www.uscrirefugees.org/2010website/5_resources/5_4_for_lawyers/5_4_1%20
+asylum%20research/5_4_1_2_gang_related_asylum_resources/5_4_1_2_3_immigration_judge_
+decisions_briefs_and_affidavits/es_007.pdf. 
+68   see, e.g., aquino cordova v. holder, no. 13-1597, 2014 wl 3537873, (4th cir. july 18, 2014); martinez-
+seren v. holder, 394 f. appx 404 (9th cir. 2012); matter of c-a-, 23 i. & n. dec. 951, 959 (bia 2006) (social 
+groups based on innate characteristics such as sex or family relationship are generally easily recognizable and 
+understood by others to constitute social groups.); matter of s-, (baltimore, md., june 11, 2009), available 
+at: 
+http://www.uscrirefugees.org/2010website/5_resources/5_4_for_lawyers/5_4_1%20asylum%20
+research/5_4_1_2_gang_related_asylum_resources/5_4_1_2_3_immigration_judge_decisions_briefs_
+and_affidavits/matter_of_s_ij%20decision.pdf. 
+69   see, e.g., martinez v. holder, 740 f.3d 902 (4th cir. 2014); urbina-mejia v. holder, 597 f.3d 360 (6th 
+cir. 2010) (recognizing former gang membership as a valid social group but denying relief on other grounds); 
+benitez ramos v. holder, 589 f.3d 426 (7th cir. 2009); arteaga v. mukasey, 511 f.3d 940 (9th cir. 2007) 
+(denying relief for current gang members); matter of edwin jovani enamorado, (harlington, tex., nov. 22, 
+1999),  available  at:  http://www.uscrirefugees.org/2010website/5_resources/5_4_for_lawyers/5_4_1%20
+asylum%20research/5_4_1_2_gang_related_asylum_resources/5_4_1_2_3_immigration_judge_
+decisions_briefs_and_affidavits/h_008.pdf. but, see matter of w-g-r-, 26 i&n dec. 208, 221, 224 (bia 
+2014) (denying claim for lack of particularity and nexus). 
+70   in re c-a-, 23 i. & n. dec. 951, 957, 961 (bia 2006).
+71   see, e.g., henriquez-rivas v. holder, 707 f.3d 1081 (9th cir. 2013); garcia v. atty gen., 665 f.3d 496 
+(3rd cir. 2011), as amended (jan. 13, 2012). 
+72   see, e.g., perdomo v. holder, 611 f.3d 662, 666 (9th cir. 2010) (noting that the bia has never specifically 
+addressed in a precedential decision whether gender by itself could form the basis of a particular social group); 
+in  re  sandra,  (baltimore,  md.,  nov.  8,  2006)  available  at:  http://www.uscrirefugees.org/2010website/5_
+resources/5_4_for_lawyers/5_4_1%20asylum%20research/5_4_1_2_gang_related_asylum_
+resources/5_4_1_2_3_immigration_judge_decisions_briefs_and_affidavits/g_008.pdf.  but,  see  rivera 
+barrientos v. holder, 658 f.3d 1222, 1225 (10th cir. 2011) (affirming the bias refusal to grant asylum, even 
+though the woman had been the victim of gang rape for her refusal to join a gang); caal-tiul v. holder, 582 
+
+147
+
+humanitarian protection for children fleeing gang-based violencewithout more characteristics may be taken as too broad and considered a mere demographic 
+division. such a group possesses a multiplicity of other characteristics, including lifestyles, 
+diverse  cultural  backgrounds  and  religious  affiliations.  in  order  to  bolster  such  claims, 
+evidence of other characteristics in addition to gender should be submitted to narrow 
+the diverse and disconnected group. 73
+
+2.  political opinion 
+
+as with social group claims, refusal to join a gang for allegedly political reasons does not 
+typically qualify a person for asylum. courts almost uniformly deny such cases on two 
+grounds: (1) lack of political opinion or imputed political opinion and (2) lack of nexus 
+(frydman and desai 2012, 16-18).74 in fact, since matter of s-e-g- and matter of e-a-g-, 
+which  addressed  political  opinion  claims  as  well,  no  published  cases  have  found  that 
+refusal to join a gang substantiates a political opinion asylum claim.75 in those two cases, 
+the bia found no indication that the gangs persecution resulted from respondents political 
+or  imputed  political  opinion,  stating  that  it  was  equally  possible  that  the  gangs  merely 
+wanted to increase their ranks.76 even in seemingly worthy cases, like rivera barrientos v. 
+holder,77 the courts have dismissed indications that political opinion caused persecution, 
+concluding instead that recruitment concerns were the gangs primary motivation.78 
+rivera barrientos had responded to ms-13 recruitment attempts saying, [n]o, i dont want 
+to have anything to do with gangs. i do not believe in what you do, to which they responded 
+[i]f you dont want to join with us, if you dont participate with us, if you are against us, 
+your family will pay.79 later, ms-13 members gang-raped her, but the circuit court still 
+determined that this could have occurred just as much for recruitment purposes as for her 
+political opinion.80 under the immigration and nationality act, an applicant for asylum 
+must establish that race, religion, nationality, membership in a particular social group, or 
+political opinion was or will be at least one central reason for the claimed persecution. 
+81  concerns  have  been  raised  that  courts  are  misinterpreting  the  one  central  purpose 
+language in the statute to mean the central purpose when analyzing nexus in political 
+opinion  cases  and,  thereby,  impermissibly  limiting  other  potential  purposes  (frydman 
+and desai 2012, 17). courts seem to approve such claims only when the applicant was 
+already  a  member  of  a  group  that  the  persecutors  viewed  to  be  a  political  opponent.82 
+political opinion cases based on extortion or on a persons decision to become a police 
+
+f.3d 92 (1st cir. 2009) (rejecting asylum based on membership in the social group of indigenous women). 
+73   perdomo v. holder, 611 f.3d 662, 668 (9th cir. 2010).
+74   see, e.g., mendez-barrera v. holder, 602 f.3d 21 (1st cir. 2010); santos-lemus v. mukasey, 542 f.3d 738 
+(9th cir. 2008). 
+75   mendez-barrera v. holder, 602 f.3d at 1618. 
+76   matter of e-a-g-, 24 i&n dec. 591, 59697 (bia 2008); matter of s-e-g-, 24 i&n dec. 579, 58890 
+(bia 2008).
+77   658 f.3d 1222 (10th cir. 2011).
+78   id. at 1225, 1228.
+79   rivera-barrientos v. holder, 666 f.3d 641, 643 (10th cir. 2012).
+80   658 f.3d at 1228. 
+81   ina  208(b)(1)(b)(i) (2012); 8 usc  1158(b)(1)(b)(i) (2012). 
+82   escobar v. holder, 657 f.3d 537 (7th cir. 2011) (member of columbias liberal party); martinez-buendia 
+v. holder, 616 f.3d 711, 717 (7th cir., 2010) (member of colombian health brigades). 
+
+148
+
+journal on migration and human securityinformant also tend to fail due to lack of nexus because courts attribute greed and a desire 
+for retribution as the primary motivators for gang persecution in such cases (ibid., 18-19). 
+cases  at  the  immigration  judge  level  seem  to  meet  with  more  success.  for  example, 
+applicants have received asylum for imputed political opinion based on family members 
+politics83 and for repeated refusal to join a gang.84 in other cases, belief in the rule of law 
+and opposition to crime and the criminal lifestyle constituted a political opinion.85 
+
+3. religion 
+
+claims based on religious persecution can be successful, particularly at the immigration 
+judge level. when they fail, it is often for lack of nexus.86 in fact, circuit courts that have 
+adjudicated  gang-based  religious  persecution  cases  have  not  yet  approved  a  case,  each 
+finding lack of a sufficient nexus.87 however, these cases either lacked evidence that gang 
+members knew of and cared about the claimants religious views, or they involved a mixed-
+motive, and the courts found personal and financial reasons to be the initial and central 
+cause of the persecution.88 thus, there is no reason to believe that these claims will continue 
+to fail in the circuit courts if the nexus between religious views and persecution can be 
+established. in cases in which gang members knew of the claimants religious opinions 
+before approaching them, the claim would be better-situated than those which the circuit 
+courts have addressed thus far.89
+
+ii. special immigrant juvenile status (sijs)
+for those uac who do not qualify for asylum, sijs may be the only immigration relief 
+available. sijs allows children who come to the united stateslegally or notto adjust 
+
+83   matter of __, (boston, mass., nov. 26, 2007), available at: http://www.refugees.org/resources/for-lawyers/
+asylum-research/gang-related-asylum-resources/immigration-judge.html (case es. 015, at 10).
+84   transcript of immigration proceedings, matter of __, (harlingen, tex., dec. 11, 2002), available at: http://
+www.refugees.org/resources/for-lawyers/asylum-research/gang-related-asylum-resources/immigration-
+judge.html (es.007, at 12); matter of __, (los angeles, cal., may 1, 2002), available at: http://www.refugees.
+org/resources/for-lawyers/asylum-research/gang-related-asylum-resources/immigration-judge.html  (h.006, 
+at 13-15) (imputing to respondent a pro-government view based on his repeated refusals to join the gang). 
+85   matter of __, (san antonio, tex., september 9, 2004), available at: http://www.refugees.org/resources/
+for-lawyers/asylum-research/gang-related-asylum-resources/immigration-judge.html,  (h.002,  at  13-14); 
+matter of __, (el paso, tex., dec. 19, 1997), available at: http://www.refugees.org/resources/for-lawyers/
+asylum-research/gang-related-asylum-resources/immigration-judge.html (g.003, at 10-13). 
+86   see, e.g., matter of __, (newark, n.j., may 13, 2008), available at: http://www.refugees.org/resources/for-
+lawyers/asylum-research/gang-related-asylum-resources/immigration-judge.html  (case  es.017)  (granting 
+asylum based on 16-year-old girls evangelical christian views); matter of __, (arlington, va., march 20, 
+2008),  available  at:  http://www.refugees.org/resources/for-lawyers/asylum-research/gang-related-asylum-
+resources/immigration-judge.html  (case  h.019)  (granting  asylum  after  determining  that  his  pentecostal 
+christian religion was one central reason for the young mans persecution); see also frydman and desai 
+2012, 21 and n.291-93 (citing successful ij cases based on religious persecution). 
+87   see, e.g., bueso-avila v. holder, 663 f.3d 934 (7th cir. 2012); mendez-barrera v. holder, 602 f.3d 21 
+(1st cir. 2010); quinteros-mendoza v. holder, 556 f.3d 159 (4th cir. 2009).
+88   bueso-avila, 663 f.3d at 938; mendez-barrera, 602 f.3d at 27; quinteros-mendoza, 556 f.3d at 164.
+89   bueso-avila, 663 f.3d at 938; mendez-barrera, 602 f.3d at 27. 
+
+149
+
+humanitarian protection for children fleeing gang-based violenceto lpr status if they have been abused, abandoned, or neglected by at least one parent.90 
+sijs may be available to children who are unmarried, under 21, and physically present in 
+the united states at the time of filing (uscis 2014). 
+to qualify, a us state juvenile court must designate the uac a dependent on the court and 
+declare that the uac cannot reunite with one or both parents due to abuse, abandonment, 
+neglect, or similar reasons (uscis 2011). furthermore, the juvenile court must determine 
+that  it  is  not  in  the  best  interests  of  the  child  to  be  returned  to  his  or  her  country  of 
+citizenship  (ibid.).  after  the  juvenile  court  makes  this  factual  finding,  uscis  can 
+adjudicate the immigration application and grant sijs (ibid.). 
+although a grant of lpr status to an unaccompanied child is certainly a positive outcome, 
+it does not come without a price. the law prevents a child from petitioning for a parent or 
+a sibling based on his or her lpr status. in addition, the family court process can place 
+a child in the uncomfortable and difficult position of alleging neglect against his or her 
+parents who have made the difficult decision of sending their child north on a dangerous 
+journey. parents must decide between the dangers at home versus the journey north with 
+the hopeful goal of protection for their child in the united states, and children typically 
+find no fault in their parents decision. 
+the  number  of  applications  for  sijs  has  steadily  risen  over  the  last  years  from  1,645 
+in 2010 to 3,993 in 2013 (uscis 2013). these numbers are low in comparison to the 
+potentially thousands of eligible children who enter the united states on a yearly basis. 
+lack of counsel and the bifurcated nature of sijs proceedings, which involve family courts 
+and uscis pose a real challenge in identifying and obtaining sijs for many children. 
+
+conclusion
+there are a number of ways in which the us government, nongovernmental organizations 
+(ngos), and individuals can work together improve protection of unaccompanied children 
+fleeing their countries. local and state bar associations across the united states are working 
+with immigration and family lawyers within their ranks to create pro bono programs to 
+identify and provide representation to children. immigration courts are working closely with 
+ngo advocates and private attorneys to create friend of the court programs, encouraged 
+by the executive office for immigration review (eoir), to better adjudicate childrens 
+cases.91 
+several medical-legal-social partnerships have been created in cities, including new york, 
+philadelphia, san francisco, los angeles and in the rio grande valley. a large number 
+of children are fleeing their countries of origin because of violence and trauma. while the 
+most pressing needs may be medical attention and legal representation for children shortly 
+after their arrival, psycho-social support is vital in the long-term for them and for their 
+caregivers. 
+
+90   ina  245(h) (2012); 8 usc  1255(h) (2012); ina  101(a)(27)(j). ; 8 usc  1101(a)(27)(j) (2012). 
+91    eoir  memorandum,  office  of  the  chief  immigration  judge,  friend  of  the  court  guidance,  10 
+september  2014,  available  at:  http://www.americanbar.org/content/dam/aba/administrative/immigration/
+uacfriendctoct2014.authcheckdam.pdf. 
+
+150
+
+journal on migration and human securityin order to comply with national and international obligations, the obama administration 
+and policymakers should focus on the following:
+
+  additional personnel to adjudicate claims: the number of immigration judges 
+and uscis asylum officers is insufficient to adequately and fairly process the 
+claims for protection filed by children. as a result, backlogs have increased in 
+the adjudication of cases in both the courts and before the uscis asylum office. 
+there are over 430,000 cases pending on the dockets of 260 immigration judges 
+sitting  in  58  immigration  courts  across  the  country.  cases  remain  pending  on 
+some court dockets for up to 800 days.92 the number of applications for asylum 
+filed in immigration court and with uscis in 2014 rose to 121,200 claims44 
+percent more than the number filed the previous year (unhcr 2014c, 3).93 as 
+a result of the overload of cases, applicants who file with the uscis asylum 
+office can expect long delays as they wait to be interviewed, in some cases from 
+one to two years (carlson 2015). resources should be provided to train and hire 
+new immigration judges and asylum officers immediately in order to assure that 
+due process rights of both the children and those affected by the backlogs are 
+protected. long delays adversely affect the asylum process. witnesses may no 
+longer be available. memories fade. torture victims suffer greatly when they are 
+unable to present their claims in a timely fashion. they are left in a state of limbo, 
+which can and often does cause psychological harm. 
+incorporating best interests of the child standard into all decision-making, 
+not just custody decisions. the bipartisan immigration reform bill passed by 
+the senate in 2013, s. 744, would require cbp to give due consideration to 
+the  best  interests  of  the  child,  family  unity  and  humanitarian  concerns  in 
+repatriation  decisions. amendment  1340  to  that  bill,  which  was  unfortunately 
+not  included  in  the  senate  vote,  would  have  made  the  best  interests  standard 
+the  primary  consideration  in  all  federal  decisions  involving  unaccompanied 
+children. congress should pass s.744 and include the amendment. 
+
+ 
+
+  cbp screening: organizations and individuals have raised concerns regarding 
+the border patrols ability to fairly screen children from non-contiguous countries 
+for trafficking and persecution and to prevent the return of children to persecutors 
+or abusers. measures must be taken to improve the screening process. men and 
+women in uniform with weapons should not question children. cbp screeners 
+should, at minimum, be paired with child welfare experts or ngo personnel, as 
+proposed in s. 744. alternatively, cbp screeners should be replaced with uscis 
+asylum officers. 
+
+  due  process  protections:  organizations  and  individuals  have  advocated  for 
+a  system  which  provides  greater  procedural  protections,  resources,  and  time 
+to  protect  families  and  children  under  the  law  without  unduly  delaying  the 
+adjudication process. these measures can and should include access to court-
+appointed counsel and legal orientation programs. us immigration law has been 
+
+92   trac  immigration  court  backlog tool:  pending  cases  and  length  of wait  in  immigration courts, 
+available at: http://trac.syr.edu/phptools/immigration/court_backlog/. 
+93   for more on the uscis asylum backlog, see matza 2015. 
+
+151
+
+humanitarian protection for children fleeing gang-based violencelikened in complexity to us tax law. thus, the need for adequate and free counsel 
+along  with  understandable  information  on  the  legal  process  is  vital  to  protect 
+children fleeing the violence in their countries. 
+
+efforts to address the problems arising as a result of the violence in the northern triangle 
+countries and mexico should not be limited to the united states. mexico, guatemala, el 
+salvador, honduras and the united states must share responsibility for addressing the push 
+and pull factors of refugee flows northward. a human rights-based approach must form the 
+basis for collaboration and should prioritize the following: 94
+
+  promote  sustainable  economic  development:  development  should  focus  on 
+job creation, training and education to provide opportunities for young people in 
+sending countries.
+
+  sponsor violence prevention programs: funding should be funneled to credible 
+and  successful  violence  prevention  programs  in  communities,  to  reintegration 
+efforts for young people seeking to leave behind the influence of gangs, and for the 
+protection of children who have suffered or are at risk of violence. organizations 
+in the united states such as homeboy industries in los angeles, internationally 
+recognized as one of the most successful gang intervention and reentry programs of 
+its kind, can provide a model for the creation of similar programs in the northern 
+triangle countries.95
+
+  strengthen  civilian  institutions:  in  order  to  effectively  confront  and  resolve 
+problems of organized crime, gangs and insecurity, the northern triangle countries, 
+mexico,  and  the  united  states  should  work  together  to  create  and  support 
+professional and accountable police forces and an unbiased and effective criminal 
+justice  system.  civilian  institutions,  not  the  military,  should  be  responsible  for 
+criminal investigations, prosecutions and sentencing. the united states is urged 
+to share its resources and experiences in strengthening institutions to effectively 
+enforce laws against organized crime within its borders.  
+
+  combat  corruption  and  increase  accountability:  strong  programs  must  be 
+established to increase transparency and accountability to address deep corruption 
+which prevents access by individuals to services, weakens state bodies, and poisons 
+democracy. 
+
+the united states is urged to support governments and agencies whose leaders demonstrate 
+a serious commitment to strengthening civilian-led enforcement, sound prosecutions, and 
+the rule of law. sending countries must encourage and create conditions necessary for the 
+effective participation of civil society in this process; otherwise, it will fail. 
+
+94   the washington office of latin america published these suggestions after a meeting of vice-president 
+joseph biden, the presidents of el salvador, guatemala and honduras and inter-american development 
+bank president luis alberto moreno on november 14, 2014, during which they discussed a joint plan to 
+respond to the underlying conditions driving migration from central america. more information is available 
+at: http://www.wola.org/sites/default/files/sif-camericaad-eng-web-fnl-1118.pdf.
+95   for more information on homeboy industries, visit its website at http://www.homeboyindustries.org/
+why-we-do-it/. 
+
+152
+
+journal on migration and human securityalthough unexpected numbers of migrants and refugeesespecially vulnerable families 
+and childrencertainly pose challenges for the us government, measures consistent with 
+us legal and moral obligations must be taken to protect those seeking refuge and safety 
+in our nation. we should heed pope francis call that these children be welcomed and 
+protected as he stated during his 2014 colloquium on migration in mexico (blumberg 
+2014). to do otherwise runs contrary to our identity as a nation. 
+
+references
+arana, ana. 2005. how the street gangs took central america. foreign affairs may/
+http://www.foreignaffairs.com/articles/60803/ana-arana/how-the-street-
+
+june. 
+gangs-took-central-america. 
+
+blumberg,  antonia.  2014.  pope  francis:  immigrant  children  must  be  welcomed 
+and  protected.  the  huffington  post,  july  15.  http://www.huffingtonpost.
+com/2014/07/15/pope-francis-immigrant-children_n_5588442.html.
+
+byrne,  olga  and  elisa  miller.  2012.  the  flow  of  unaccompanied  children  through 
+the  immigration  systems:  a  resource  for  practitioners,  policy  makers,  and 
+researchers. new york: vera institute of justice. http://www.vera.org/sites/default/
+files/resources/downloads/the-flow-of-unaccompanied-children-through-the-
+immigration-system.pdf.
+
+carlson, elizabeth. 2015. asylum offices nationwide modify procedures for scheduling 
+interviews. maggio + kattar, http://www.maggio-kattar.com/blog/asylum-offices-
+nationwide-modify-procedures-scheduling-interviews.
+
+carr,  bridgette  a.  2009.  incorporating  a  best  interests  of  the  child  approach  into 
+immigration  law  and  procedure.  yale  human  rights  and  development  law 
+journal 12: 120-59.
+
+cavendish,  betsy  and  maru  cortazar.  2011.  children  at  the  border:  the  screening, 
+protection and repatriation of unaccompanied mexican minors. washington, dc: 
+appleseed. 
+http://appleseednetwork.org/wp-content/uploads/2012/05/children-
+at-the-border1.pdf.
+
+cbp  (us  customs  and  border  protection).  2014.  southwest  border  unaccompanied 
+alien  children.  cbp.  http://www.cbp.gov/newsroom/stats/southwest-border-
+unaccompanied-children.
+
+ccspjp (consejo ciudadano para la seguridad pblica y justicia penal, a.c.). 2013. san 
+pedro  sula  otra  vez  la  ciudad  ms  violenta  del  mundo; acapulco,  la  segunda. 
+http://www.seguridadjusticiaypaz.org.mx/sala-de-prensa/759-san-pedro-sula-otra-
+vez-la-ciudad-mas-violenta-del-mundo-acapulco-la-segunda. 
+
+corlett, david, grant mitchell, jeroen van hove, lucy bowring and katherine wright. 
+2012. captured childhood. melbourne: international detention coalition. http://
+idcoalition.org/wp-content/uploads/2012/03/captured-childhood-final-
+june-2012.pdf
+
+153
+
+humanitarian protection for children fleeing gang-based violencedaughterty, arron.  2015.  ms13  and  barrio  18  rivalry  increasing  violence.  insight 
+http://www.insightcrime.org/news-briefs/ms13-barrio-18-rivalry-
+
+crime. 
+increasing-violence-in-guatemala.
+
+the economist. 2013. central america  out of control. march 9. http://www.economist.
+com/news/americas/21573108-first-two-reports-threat-rampant-violence-central-
+americas-small.
+
+el espectador. 2014. aumentan signitivamente los homocidios en el salvador. july 24. 
+http://www.elespectador.com/noticias/elmundo/aumentan-significativamente-los-
+homicidios-el-salvador-articulo-506451.
+
+el  salvador.com.  2015.  el  salvador  cerro  el  2014  con  casi  4,000  homicidios. 
+http://www.elsalvador.com/mwedh/nota/nota_completa.
+
+january 
+asp?idcat=47859&idart=9360619.
+
+2. 
+
+examiner.com. 2014. el salvador and guatemala most dangerous nations for children. 
+november  3.  http://www.examiner.com/article/el-salvador-and-guatemala-most-
+dangerous-nations-for-children. 
+
+farmer, alice. 2013. the impact of immigration detention on children. forced migration 
+
+review 44: 14-6. http://www.fmreview.org/en/detention.pdf.
+
+frydman,  lisa  and  neha  desai.  2012.  beacon  of  hope  or  failure  of  protection?:  us 
+treatment  of  asylum  claims  based  on  persecution  by  organized  gangs. 
+immigration  briefings  12(10):  1-49.  http://cgrs.uchastings.edu/sites/default/files/
+october%202012%20immigration%20briefings.pdf.
+
+gagne, david. 2015. insight crime 2014 homicide round up. insight crime. http://
+
+www.insightcrime.org/news-analysis/insight-crime-2014-homicide-round-up.
+
+graham,  matt.  2014.  child  migration  by  numbers.  bipartisan  policy  center. 
+http://bipartisanpolicy.org/wp-content/uploads/sites/default/files/bpc%20
+immigration%20task%20force%20-%20child%20migration%20by%20the%20
+numbers%20june%202014.pdf.
+
+gurney, kyra. 2014. honduras gang evolution spurred by transnational crime. insight 
+http://www.insightcrime.org/news-briefs/honduras-gang-evolution-
+
+crime. 
+spurred-by-transnational-crime.
+
+hennessy-fiske, molly and cindy carcamo. 2014. overcrowded, unsanitary conditions 
+seen at immigrant detention centers. los angeles times, june 18. http://www.
+latimes.com/nation/nationnow/la-na-nn-texas-immigrant-children-20140618-
+story.html#page=1.
+
+hill, linda kelly. 2010. the right of safe repatriation for unaccompanied alien children: 
+advancing the intent of the trafficking victims protection reauthorization act. 
+loyola journal of public interest law 12: 85-108.
+
+howell, james c. and john p. moore. 2010. history of street gangs in the united states. 
+
+154
+
+journal on migration and human securitynational gang center bulletin, may 1. http://www.nationalgangcenter.gov/content/
+documents/history-of-street-gangs.pdf. 
+
+human rights watch (hrw). 2014a. us: surge in detention of child migrants: congress 
+should protect, not punish, unaccompanied children, hrw, june 25. http://www.
+hrw.org/news/2014/06/25/us-surge-detention-child-migrants.
+
+.  2014b.  word  report  2014    mexico,  human  rights  watch.  human  rights 
+
+watch. http://www.hrw.org/world-report/2014/country-chapters/mexico.
+
+insight crime. 2011. the zetas in guatemala. http://www.insightcrime.org/investigations/
+
+the-zetas-in-guatemala. 
+
+.  2014.  country  report    honduras.  http://www.insightcrime.org/honduras-
+
+organized-crime-news/honduras.
+
+jesuits  and wola  (washington  office  on  latin america).  2014.  myths  and  facts  of 
+central  american  immigration  surge.  last  updated  june  17,  2014.  http://
+www.jesuits.org/assets/publications/file/myths%20and%20facts%20on%20
+central%20american%20migration%20surge.pdf.
+
+johnson, mary. 2006. national policies and the rise of transnational gangs. migration 
+information  source.  washington,  dc:  migration  policy  institute.  http://www.
+migrationpolicy.org/article/national-policies-and-rise-transnational-gangs. 
+
+johnson, tim. 2014. us export: central americas gang problem began in los angeles. 
+mcclatchy  dc,  august  5.  http://www.mcclatchydc.com/2014/08/05/235476/us-
+export-central-americas-gang.html.
+
+jones,  jessica  and  jennifer  podkul.  2012.  forced  from  home:  the  lost  boys  and 
+girls  of  central  america.  new  york:  womens  refugee  commission.  http://
+womensrefugeecommission.org/resources/download/844.
+
+kennedy,  elizabeth.  2014.  no  childhood  here:  why  central  american  children  are 
+fleeing  their  homes.  washington,  dc: american  immigration  council.  http://
+www.immigrationpolicy.org/sites/default/files/docs/no_childhood_here_why_
+central_american_children_are_fleeing_their_homes_final.pdf.
+
+la nacin. 2014. ms de cien menores de 23 aos fueron asesinados en honduras 
+en  mayo.  la  nacin,  june  13.  http://www.nacion.com/mundo/centroamerica/
+menores-anos-asesinados-honduras-mayo_0_1420458239.html.
+
+la prensa. 2015. la meta ahora es bajar tasa de homicidios a 30; est en 66. january 
+http://www.laprensa.hn/inicio/781826-417/la-meta-ahora-es-bajar-tasa-de-
+
+2. 
+homicidios-a-30-est-en. 
+
+malone, scott and tim gaynor. 2012. poverty and fear of gangs drive young immigrants 
+to us. reuters, december 22. http://www.reuters.com/article/2012/12/22/us-usa-
+immigration-children-idusbre8bl03a20121222.
+
+matza,  michael.  2015.  many  factors  contribute  to  the  backlog  of  asylum  seekers. 
+
+155
+
+humanitarian protection for children fleeing gang-based violencephiladelphia 
+news/59200787_1_asylum-seekers-asylum-system-asylum-claim. 
+
+inquirer,  february  17.  http://articles.philly.com/2015-02-17/
+
+mejia giraldo, camilo. 2014. new el salvador govt yet to take action as homicides 
+rocket. insight crime. http://www.insightcrime.org/news-briefs/new-el-salvador-
+govt-yet-to-take-action-as-homicides-rocket.
+
+meyer, peter j., clare ribando seelke, maureen taft-morales, and rhoda margesson. 2015. 
+unaccompanied children from central america: foreign policy considerations. 
+congressional research service report for congress r43702. washington, dc: 
+congressional  research  service.  https://www.fas.org/sgp/crs/homesec/r43702.
+pdf. 
+
+molloy,  molly.  2013.  the  mexican  undead:  toward  a  new  history  of  the  drug 
+war  killing  fields.  small  wars  journal,  august  21.  http://smallwarsjournal.
+c o m / j r n l / a r t / t h e - m e x i c a n - u n d e a d - t o w a r d - a - n e w - h i s t o r y - o f - t h e -
+%e2%80%9cdrugwar%e2%80%9d-killing-fields.
+
+musalo,  karen  and  blaine  bookey.  2013.  crimes  without  punishment: an  update  on 
+violence against women and impunity in guatemala. hastings race and poverty 
+law journal 10: 265-92.
+
+noriega, roger f. and javier lanza. 2013. honduras under siege. american enterprise 
+
+institute. https://www.aei.org/publication/honduras-under-siege/.
+
+observatorio  de  la  violencia.  2006.  mortalidad  y  otros.  boletn  nacional  1  may. 
+tegucigalpa, honduras: universidad nacional autnoma de honduras, instituto 
+universitario  de  democracia,  paz  y  seguridad.  http://iudpas.org/pdf/boletines/
+nacional/ned01enedic2005.pdf.
+
+.  2013.  mortalidad  y  otros.  boletn  nacional  28  january.  tegucigalpa, 
+honduras: universidad nacional autnoma de honduras, instituto universitario 
+de  democracia,  paz  y  seguridad.  http://iudpas.org/pdf/boletines/nacional/
+ned28enedic2012.pdf.
+
+.  2014.  mortalidad  y  otros.  boletn  nacional  32  february.  tegucigalpa, 
+honduras: universidad nacional autnoma de honduras, instituto universitario 
+de  democracia,  paz  y  seguridad.  http://iudpas.org/pdf/boletines/nacional/
+ned32enedic2013.pdf.
+
+plumer, brad. 2013. throwing children in prison turns out to be a really bad idea. 
+washington  post,  june  15.  http://www.washingtonpost.com/blogs/wonkblog/
+wp/2013/06/15/throwing-children-in-prison-turns-out-to-be-a-really-bad-idea/.
+
+preston, julia. 2014. officials to investigate reports of mistreatment of minors caught 
+crossing border. new york times, june 12. http://www.nytimes.com/2014/06/13/
+us/officials-to-investigate-reports-of-mistreatment-of-minors-caught-crossing-
+border.html.
+
+sacks, daniel. 2013. los zetas southward expansion. forbes magazine, august 27. 
+
+156
+
+journal on migration and human securityhttp://www.forbes.com/sites/riskmap/2013/08/27/los-zetas-southward-expansion/.
+seelke, clare ribando. 2014. gangs in central america. congressional research service 
+report for congress rl34112. washington, dc: congressional research service. 
+http://fas.org/sgp/crs/row/rl34112.pdf.
+
+seghetti, lisa, alison siskin and ruth ellen wasem. 2014. unaccompanied alien children: 
+an  overview.  congressional  research  service  report  for  congress  r43599. 
+washington, dc: congressional research service. http://fas.org/sgp/crs/homesec/
+r43599.pdf.
+
+the  telegraph.  2014.  mexicos  major  drug  cartels.  the  telegraph,  january  15. 
+http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/
+mexico/10575135/mexicos-major-drug-cartels.html.
+
+thale,  geoff  and  elsa  falkenburger.  2006.  youth  gangs  in  central america:  issues  in 
+human rights, effective policing and prevention. washington, dc: washington 
+office  on  latin  america.  http://www.wola.org/sites/default/files/downloadable/
+citizen%20security/past/gangsreport_final.pdf.
+
+unhcr (united nations high commissioner for refugees). 2014a. children on the run: 
+unaccompanied children leaving central america and mexico and the need for 
+international protection. washington, dc: united nations high commissioner for 
+refugees  regional  office  for  the  united  states  and  the  caribbean.  http://www.
+unhcrwashington.org/sites/default/files/1_uac_children%20on%20the%20run_
+full%20report.pdf.
+
+.  2014b.  unhcr  findings  and  recommendations  relating  to  the  2012-2013 
+missions to monitor the protection screening of mexican unaccompanied children 
+along the us-mexico border. washington, dc: united nations high commissioner 
+for  refugees  regional  office  for  the  united  states  and  the  caribbean.  http://
+americanimmigrationcouncil.org/sites/default/files/unhcr_uac_monitoring_
+report_final_june_2014.pdf. 
+
+.  2014c.  unhcr  asylum  trends  2014.  geneva:  unhcr.  http://www.unhcr.
+
+org/551128679.html. 
+
+unodc (united nations office on drugs and crime). 2013. global study on homicide. 
+vienna:  unodc.  http://www.unodc.org/documents/gsh/pdfs/2014_global_
+homicide_book_web.pdf. 
+
+. 2012. transnational organized crime in central american and the caribbean: a 
+threat assessment. vienna: unodc. http://www.unodc.org/documents/data-and-
+analysis/studies/toc_central_america_and_the_caribbean_english.pdf. 
+
+unicef (united nations childrens fund). 2014. hidden in plain sight  a statistical 
+analysis of violence against children. new york: unicef. http://files.unicef.org/
+publications/files/hidden_in_plain_sight_statistical_analysis_en_3_sept_2014.
+pdf. 
+
+157
+
+humanitarian protection for children fleeing gang-based violenceusccb  (us  conference  of  catholic  bishops)  migration  and  refugee  service.  2012. 
+improving  access:  immigration  relief  for  children  in  federal  foster  care 
+before  and  after  the  trafficking  victims  protection  reauthorization  act  of 
+2008.  washington,  dc:  usccb.  http://www.usccb.org/about/children-and-
+migration/unaccompanied-refugee-minor-program/upload/immigration-relief-
+for-children-in-federal-foster-care-before-and-after-tvpra-2008_usccb-
+december-2012.pdf.
+
+uscis (us citizenship and immigration services). 2011. history of sij status. http://
+
+www.uscis.gov/green-card/special-immigrant-juveniles/history-sij-status. 
+
+. 2013. number of i-360 petitions for special immigrant with a classification of 
+special immigrant juvenile (sij) by fiscal year and case stats 2010-2013. http://
+www.uscis.gov/sites/default/files/uscis/resources/reports%20and%20studies/
+immigration%20forms%20data/adjustment%20of%20status/i-360fy2013.pdf.
+. 2014a. immigration relief for abused children. washington, dc: uscis. http://
+www.uscis.gov/sites/default/files/uscis/green%20card/green%20card%20
+through%20a%20job/immigration_relief_for_abused_children-final.pdf.
+
+us department of state. 2014a. el salvador 2013 human rights report. washington, 
+dc:  us  department  of  state  bureau  of  democracy,  human  rights  and  labor. 
+http://www.state.gov/documents/organization/220654.pdf.
+
+. 2014b. guatemala 2013 human rights report. washington, dc: us department 
+of  state  bureau  of  democracy,  human  rights  and  labor.  http://www.state.gov/
+documents/organization/220657.pdf.
+
+. 2014c. honduras 2013 human rights report. washington, dc: us department 
+of  state  bureau  of  democracy,  human  rights  and  labor.  http://www.state.gov/
+documents/organization/220663.pdf.
+
+villiers negroponte, diana. 2013. ms-13 and barrio 18 truce: can this be successfully 
+replicated in honduras and guatemala? brookings, june 5. http://www.brookings.
+edu/blogs/up-front/posts/2013/06/05-el-salvador-gang-truce-negroponte.
+
+womens refugee commission and orrick herrington & sutcliffe llp. 2009. halfway 
+home:  unaccompanied  children  in  immigration  custody.  new york:  womens 
+refugee 
+http://womensrefugeecommission.org/resources/
+download/196.
+
+commission. 
+
+zamora,  lazaro.  2014.  unaccompanied alien  children: a  primer.  bipartisan  policy 
+center,  july  21.  http://bipartisanpolicy.org/blog/unaccompanied-alien-children-
+primer/.
+
+158
+
+journal on migration and human security

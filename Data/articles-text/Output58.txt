@@ -1,0 +1,2080 @@
+democratizing data about 
+unauthorized residents in the 
+united states: estimates and 
+public-use data, 2010 to 20131
+
+robert warren
+center for migration studies
+
+executive summary
+information  about  the  unauthorized  resident  population  is  needed  to 
+develop  and  evaluate  us  immigration  policy,  determine  the  social  and 
+economic  effects  of  unauthorized  immigration,  and  assist  public  and 
+private  service  providers  in  carrying  out  their  missions.  until  recently, 
+estimates  have  been  available  only  for  selected  data  points  at  the 
+national and sometimes the state level. the center for migration studies 
+(cms)  convened  a  meeting  in  september  2013  to  assess  the  need  for 
+information  about  the  unauthorized  resident  population.  the  meeting 
+included leading academics, researchers, nongovernmental organizations 
+(ngos) that serve immigrants, and local, state, and federal government 
+representatives. based on the recommendations from that meeting, cms 
+initiated a project to derive estimates of the size and characteristics of the 
+unauthorized population at the national, state, and sub-state levels, and 
+to make the information readily available to a wide cross-section of users. 
+a series of statistical procedures were developed to derive estimates based 
+on microdata collected by the us census bureau in the 2010 american 
+community  survey  (acs).  the  estimates  provide  detailed  demographic 
+information  for  unauthorized  residents  in  population  units  as  small  as 
+100,000  persons.  overall,  the  estimates  are  consistent  with  the  limited 
+information  produced  by  residual  estimation  techniques.  a  primary 
+consideration in constructing the estimates was to protect the privacy of 
+acs respondents.
+
+1   the center for migration studies is grateful for the valuable comments and suggestions from an advisory 
+group that included sarah bohn, laura hill, enrico marcelli, rob paral, jeffrey passel, audrey singer, rob 
+warren, and vicky virgin. valuable advice, assistance, and technical expertise were provided by jose pacas, 
+university of minnesota department of applied economics. we also thank the participants in the september 
+2013 meeting in washington, dc where the idea originated to develop a database and tool that would allow a 
+broad cross-section of users to access geographically specific data on unauthorized residents using data from 
+the american community survey. this paperand broader projecthas been substantially improved due 
+to the regular engagement, feedback and input from meeting participants and many others over the course 
+of the last 15 months. we also gratefully acknowledge the financial support of the john d. and catherine t. 
+macarthur foundation.
+
+ 2014 by the center for migration studies of new york. all rights reserved.jmhs volume 2 number 4 (2014): 305-328introduction
+in september 2013, the center for migration studies of new york (cms) convened a 
+meeting in washington, dc that linked two important communities in the immigration 
+field: (1) leading academics, demographers, and researchers; and (2) non-governmental 
+organizations (ngos) that directly serve immigrants, and local, state and federal government 
+representatives.  the  meeting,  supported  by  the  john  d.  and  catherine  t.  macarthur 
+foundation, focused on the research, information and related tools that government and 
+ngo  service  providers  need  to  serve  the  unauthorized  population,  particularly  in  the 
+context of a legalization program, whether administrative or legislative.2 cms subsequently 
+developed a database and tool that would allow users to create detailed, geographically-
+specific  estimates  on  the  unauthorized  from  public  data.  the  database  allows  users  to 
+distinguish between legal noncitizens and unauthorized residents and search against all 
+available fields in the us census bureaus american community survey (acs) data. this 
+article describes the construction of the database and estimates produced by this project. 
+despite the inherent difficulty of making estimates for a hidden population, current estimates 
+of  the  unauthorized  resident  population  are  considerably  better  than  the  speculative 
+estimates made in the 1970s and 1980s. arthur corwin (1982) provides an informative and 
+often amusing description of the mostly unsuccessful efforts to determine the size of the 
+population during the period from 1970 to 1981. over the past few decades, demographers 
+have  made  considerable  progress  in  estimating  the  size  of  the  unauthorized  resident 
+population. passel, van hook, and bean (2004) and van hook et al. (forthcoming) provide 
+detailed  descriptions  of  the  various  methods  that  evolved  beginning  in  about  the  mid-
+1980s. the most widely accepted current estimates rely on residual methods of estimation. 
+essentially, the residual method involves subtracting estimates of the legally foreign-born 
+resident population from census or survey data for the total foreign-born population; the 
+difference, or residual, is assumed to be the population counted in the census or survey. 
+usually, adjustments are made to account for under-enumeration. 
+the residual method has established the contours of the population: the total population 
+is approximately 11 million; just over half are from mexico; many of the rest are from 
+central and south american countries; and they are concentrated in the top 10 states, the 
+most populous being california and texas. the best evidence indicates that unauthorized 
+immigration increased rapidly in most states in the late 1990s to 2000, and then dropped 
+steadily after 2001 (warren and warren 2013). the total population has been at or near zero 
+growth during the past five years. it is also known that approximately 40 percent of the total 
+unauthorized resident population entered with temporary visas and overstayed or otherwise 
+violated the terms of their admission (warren 1997).
+with  so  much  information  available,  one  might  ask  why  additional  information  about 
+unauthorized  immigrants  is  needed. although  significant  progress  has  been  made  over 
+the past few decades, it is increasingly clear that the residual method does not provide 
+sufficiently  detailed  characteristics  of  the  population  needed  for  many  purposes.  until 
+recently, most of the information that has been available about unauthorized immigrants 
+has been produced by a handful of statisticians and disseminated in the form of reports that 
+2  for a report about this meeting, see riosmena 2013. 
+
+306
+
+journal on migration and human securityshow selected data points at the national and sometimes the state level. in addition to the 
+limited scope of the residual estimates, the quality of the data and assumptions underlying 
+the residual method are becoming more tenuous each year.3
+the limitations inherent in the residual method have led to efforts in recent years to derive 
+individual-level estimates by assigning probable legal status to survey respondents.  passel 
+and clark (1998) were the first to provide population estimates of immigrants by legal status. 
+the pew research center has used this approach to estimate the social and demographic 
+characteristics of unauthorized residents using data from the current population survey 
+(cps) sponsored by the us census bureau and the us bureau of labor statistics (passel 
+and cohn 2008), and, more recently, from the acs (passel and cohn 2014). capps et al. 
+(2013) combined procedures developed by passel and clark, information on legal status 
+from the relatively small us census bureau survey of income and program participation 
+(sipp), and multiple imputation techniques4 to assign legal status to respondents in the acs. 
+in both cases, the results were controlled to a residual estimate of the national population. 
+in contrast, the cms project employs a technique of controlling the initial estimatesthe 
+number counted in the microdata collected by the acs in 2010to separate independent 
+population controls for 145 countries or areas.  comparison of the methods used to construct 
+prior estimates with those used by cms is beyond the scope of this paper.  however, the 
+analysis of the data indicates that the technique represents a significant improvement in this 
+type of approach.
+
+overview of the methodology
+the estimates are based partly on the reported characteristics of non-us citizens (henceforth, 
+noncitizens) in the microdata of the 2010 acs. the acs is an annual statistical survey 
+covering  approximately  one  percent  of  the  total  us  population.  the  survey  gathers 
+information previously obtained in the decennial censusthe acs questionnaires are very 
+similar to the 2000 census long form. the survey provides detailed social and economic 
+data for all states, as well as all cities, counties, metropolitan areas, and population groups 
+of 100,000 people or more.
+it is assumed that nearly all of the unauthorized resident population contained in the acs 
+data is comprised of noncitizens that entered the united states after 1981. very few who 
+entered before 1982 would still be residing in the country as unauthorized residents in 2010 
+because: (1) a large percentage of those who entered before 1982 obtained legal status 
+under the immigration reform and control act of 1986 (irca);5 and, (2) the remainder 
+3  for example, in the estimates published by the pew research center and the department of homeland 
+security (dhs) in the past few years, legal immigrants admitted more than 30 years ago are survived 
+to current dates based on emigration ratesassumed to be applicable to all countries and statesthat are 
+increasingly out of date. in addition, the lack of data on internal migration of legal immigrants affects the 
+accuracy of the state estimates.
+4  see van hook et al. (forthcoming) for an evaluation of the efficacy of using multiple imputation techniques 
+to estimate legal status in surveys. 
+5  the immigration reform and control act of 1986 (irca) went into effect in 1987. two main groups 
+were  eligible  for  legalization,  each  with  their  own  residency  requirements:  legalization  applicants  who 
+continuously resided in the united states since before january 1, 1982 and special agricultural workers 
+(saws) who had 60 days of seasonal agricultural work experience in qualifying crops from may 1985 to 
+
+307
+
+democratizing data about unauthorized residents in the united stateshave had about 30 years in which to leave the unauthorized resident populationthat is, to 
+adjust to legal status, be removed, leave voluntarily, or die. 
+the methodology involved three major steps: (1) applying a series of edits, referred to 
+here as logical edits, 6 to identify as many legal residents as possible based on responses 
+in the survey; (2) deriving separate population controls, for 145 countries or areas, for 
+unauthorized residents counted in the 2010 acs; and (3) using those population controls to 
+make final selections of individual respondents in the acs to be classified as unauthorized 
+residents. the following discussion focuses exclusively on noncitizens that arrived after 
+1981 unless noted otherwise. although this discussion focuses on 2010, annual estimates 
+were also derived for 2011 to 2013.  the methods used to derive the estimates for all four 
+years are described in the appendix.  
+a total of 19.9 million noncitizens that arrived after 1981were counted in the 2010 acs.7 
+about 10.9 million, or 55 percent, were unauthorized residents (warren and warren 2013). 
+based on the logical edits, about 7.3 million of the 19.9 million noncitizens were moved 
+into the legal category, leaving 12.6 million as likely unauthorized. finally, we selected 
+10.9 million of the remaining 12.6 million to be unauthorized residents using the country-
+by-country population controls, as described in the appendix. the technique of controlling 
+the likely unauthorized population to 145 country controls produced estimates by age, year 
+of entry, and state of residence that are very similar to the best available residual estimates.
+the  final  step  in  the  methodology  was  to  adjust  the  estimates  for  under-enumeration. 
+as described in detail below, the data was adjusted using the same methodology used to 
+construct residual estimates by state (warren and warren 2013). the most recent entrants 
+are assumed to have the highest undercount rates (about 12 percent), and the undercount 
+rate drops steadily with length of residence, falling to two percent for those who entered 
+in 1982. the estimated undercount rate for the total population is about 7.5 percent. the 
+appendix shows additional details.
+for most countries the logical edits produce numbers that are fairly close to the control 
+totals. however, the logical edits do not shift all of the legal residents out of the likely 
+unauthorized category. as a result, a small percentage of those remaining in the database 
+actually  are  legal  residents.  however,  a  sizeable  proportion  of  these  legal  residents 
+had previous experience as unauthorized residents. overall, the database consists of an 
+estimated 89 percent unauthorized residents, but adding in those with previous unauthorized 
+experience raises the total to 93 percent. the appendix shows how these percentages were 
+computed and provides more detail.   
+
+may 1986. about 1.6 million legalization applicants and 1.1 million saw applicants were approved.
+6  the term logical edit refers to the process of determining probable legal status by examining survey data. 
+respondents were assigned to the legal category if they worked in occupations that generally require legal 
+status, were legal temporary migrants, were immediate relatives of us citizens, received public benefits, 
+were from countries where most arrivals would be refugees, or were age 60 or older at entry. this method 
+was developed by jeffrey passel and rebecca clark (1998), extended by passel, bean and van hook (2004), 
+and refined by passel and others in recent years at the pew research center.
+7  natives of cuba are omitted because in most cases they are eligible to apply for legal status under the 
+cuban adjustment act.
+
+308
+
+journal on migration and human securitysources of data
+the  estimates  for  each  country  used  as  population  controls  for  the  2010  estimates  are 
+based partly on administrative data from the department of homeland security (dhs), 
+estimates and assumptions consistent with warren and warren (2013), and a variety of 
+other sources, including foreign-born data from the 2000 census, legalization applications 
+by country from irca, and estimates of nonimmigrant overstays, by country, derived by 
+dhs annually from 1988 to 1992. the appendix provides a more complete description of 
+the data and methods used to derive the population controls for 145 countries or areas for 
+2010 as well as the annual estimates for 2011 to 2013. 
+public-use samples of individual survey records from the acs were tabulated to provide 
+the data used in the estimation process. the public-use file is a representative one percent 
+sample of the entire us (including about three million individual records for 2010) obtained 
+from the integrated public-use microdata series, or ipums (ruggles et al. 2010).
+
+validation of the results
+
+comparisons with other estimates
+
+comparisons with other estimates address the issue of face validity that is, do the 
+estimates generated by this method conform generally to the accepted parameters of the 
+unauthorized  resident  population?  the  first  comparisons,  between  the  cms  and  dhs 
+estimates in table 1, are not a test of the overall database; they are a comparison of cms 
+population  controls,  by  country,  with  dhs  residual-based  estimates. this  section  later 
+shows  how  estimates  compiled  from  this  database  compare  to  other  widely-accepted 
+residual estimates.
+based on the comparisons shown, the estimates described in this paper are consistent with the 
+best current estimates of the unauthorized resident population. although all methodological 
+approaches  have  inherent  errors,  the  close  correspondence  between  estimates  derived 
+from such disparate approaches indicates that they are measuring approximately the same 
+population.
+
+population controls compared to dhs estimates
+
+cms chose to control the final results to estimates by country of origin, rather than states, 
+because residual estimates for states are subject to error due to the lack of information 
+about internal migration of legal residents.8 unfortunately, estimates by country of origin 
+were available for only a few countries at the beginning of this project. table 1 shows a 
+comparison between the cms population controls and dhs estimates for their top ten 
+
+8  in the residual estimates for states, net out-migration of legal residents from entry to the survey date will 
+produce underestimates of the population; net in-migration will produce overestimates. to produce accurate 
+estimates for california, for example, it would be necessary to know the cumulative net migration of legal 
+immigrants in every year from 1980 to the survey date. residual estimates by country of origin are unaffected 
+by the lack of data on internal migration.     
+
+309
+
+democratizing data about unauthorized residents in the united statescountries in 2010. the two sets of estimates are generally consistent with each other. the 
+estimates for these ten countries are important because they make up more than 80 percent 
+of the unauthorized resident population.
+
+table 1. comparison of cms population controls with 
+dhs estimates: 2010
+
+numbers in thousands; rounded independently
+
+country
+
+all countries
+mexico
+el salvador
+guatemala
+honduras
+philippines
+india
+china
+korea
+ecuador
+vietnam
+all other
+source: cms population controls, see text; baker and rytina (dhs) 2013, table 3, revised 
+estimates for 2010 based on the 2010 acs data.
+
+percent of total population
+dhs 2010 
+(4)
+100%
+59%
+6%
+4%
+3%
+3%
+2%
+3%
+2%
+2%
+2%
+15%
+
+cms 2010
+(3)
+100%
+56%
+5%
+4%
+3%
+2%
+3%
+3%
+2%
+1%
+1%
+20%
+
+unauthorized population
+dhs 2010
+(2)
+11,590
+6,830
+670
+520
+380
+290
+270
+220
+300
+210
+190
+1,710
+
+cms 2010
+(1)
+11,725
+6,600
+615
+465
+315
+245
+365
+205
+325
+175
+110
+2,300
+
+cms estimates compared to published estimates for 2010
+
+this section compares the estimates compiled from the database described here for 2010 
+with estimates for 2010 derived using the residual method. note that in tables 2, 3, and 4 
+the cms estimates are compilations of microdata, with the exception of the cms estimate 
+for mexico in table 2. the estimate for mexico is a control total computed as described in 
+the appendix. 
+the estimates shown in columns 2, 3, and 4 of table 2 are based on estimates derived 
+by warren and warren (2013), dhs (baker and rytina 2013), and pew research center 
+(passel and cohn 2013), respectively. the cms estimates for 2010 shown in table 2 are 
+generally consistent with those estimates, which were derived using the residual method. 
+some differences among the estimates are to be expected considering the diverse data and 
+methods used to construct the estimates. the important point is that the cms estimates 
+described here for 2010 fit well with the best available residual estimates. 
+
+310
+
+journal on migration and human securitytable 2. comparison of cms data with residual estimates 
+of unauthorized residents, for selected areas: 2010
+
+numbers in thousands; rounded independently
+
+estimated unauthorized resident population in 2010
+
+area
+
+warren and 
+warren (2013)
+(2)
+11,725
+2,935
+1,610
+1,000
+705
+585
+410
+395
+370
+340
+260
+3,115
+n/a
+n/a
+
+us total
+california
+texas
+florida
+new york
+illinois
+new jersey
+georgia
+north carolina
+arizona
+washington
+other states
+mexico
+  pct. from mexico
+source: see references shown in column headings.                               
+
+cms
+(1)
+11,725
+2,915
+1,720
+785
+915
+595
+485
+395
+335
+300
+240
+3,040
+6,600
+56%
+
+dhs (2013)
+(3)
+11,570
+2,910
+1,780
+730
+690
+550
+440
+430
+390
+350
+260
+3,040
+6,830
+59%
+
+pew research
+center (2013)
+(4)
+11,400
+2,500
+1,650
+900
+800
+500
+500
+n/a
+n/a
+n/a
+n/a
+n/a
+6,150
+54%
+
+table 3. age distribution of the unauthorized resident 
+population  derived  from  the  cms  estimates  for  2010 
+compared to dhs estimates for 2012
+numbers in thousands; rounded independently
+
+estimated unauthorized population
+
+percent of the total population
+
+age
+
+total
+under 18
+18-24
+25-34
+35-44
+45-54
+55+
+source: 2010 cms, see text; 2012 dhs, from baker and rytina (2013), table 5.
+
+cms 2010
+(3)
+100%
+12%
+15%
+31%
+25%
+12%
+5%
+
+cms 2010
+(1)
+11,725
+1,415
+1,785
+3,610
+2,945
+1,420
+550
+
+dhs 2012
+(2)
+11,430
+1,120
+1,410
+3,660
+3,320
+1,400
+520
+
+dhs 2012
+(4)
+100%
+10%
+12%
+32%
+29%
+12%
+5%
+
+311
+
+democratizing data about unauthorized residents in the united statesage distribution
+
+the  age  distribution  of  the  unauthorized  resident  population  derived  here  for  2010  is 
+similar to the published dhs estimates for 2012 (table 3). in both sets of estimates, about 
+83 percent of the population is under age 45. the dhs estimates have relatively fewer 
+under age 25 (22 percent compared to 27 percent) and more in the 25 to 44 age range (61 
+percent compared to 56 percent). the percentages in the 45 to 54 and the 55 and over age 
+ranges are identical (table 3).
+
+year of entry
+
+comparable  estimates  of  unauthorized  immigration  by  period  of  entry  are  not  readily 
+available because of differences9 in data and methodology, and because the distributions 
+by period of entry can change in just a few years. nevertheless, the figures shown in table 
+4 are roughly comparable for the time periods shown. 
+
+table 4. estimated unauthorized resident population, 
+by period of entry: 1980 to 2009
+rounded to thousands
+period of entry
+
+dhs 2012
+(4)
+n/a 
+2005 to 2009
+3,250
+2000 to 2004
+4,640
+1990 to 1999
+2,000
+1980 to 1989
+source of columns: (1) cms 2010, see text; (2) warren 2010 from warren and warren (2013); 
+(3) pew 2009 from passel and cohn (2010), table 5; (4) dhs 2012 from baker and rytina 
+(2013), table 1.
+
+pew 2009
+(3)
+n/a 
+3,500
+4,500
+1,400
+
+cms 2010
+(1)
+3,100
+3,600
+3,700
+1,100
+
+warren 2010
+(2)
+2,500
+3,500
+n/a 
+n/a 
+
+estimates for states
+
+table 5 shows estimates compiled from the cms database for every state and the district 
+of columbia along with estimates derived by warren and warren (2013) using the residual 
+method. the two distributions of unauthorized residents are remarkably similar considering 
+the fundamental differences in the methods of estimation. note that the cms estimates 
+for each state shown in table 5 were not controlled to marginal state controls; they are 
+compilations from the cms database.
+
+9  for example, the estimates in table 4, column 3 were derived from cps data controlled to estimates based 
+on updated 2000 census data, while the data in columns 2 and 4 were derived from acs data controlled to 
+2010 census data. note also that data are not shown for the 2005 to 2009 period for pew 2009 and dhs 2012 
+because (a) the pew estimates refer to march 2009, so the period is incomplete; and (b) the source of the dhs 
+2012 estimates, table 1, shows only the 2005 to 2011 period.
+
+312
+
+journal on migration and human securitytable  5.  estimated  unauthorized  resident  population 
+derived from the cms database compared to estimates 
+derived using the residual method: 2010
+in thousands; states might not add to total because of rounding                                        
+state of
+residence
+us total
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+dc
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+
+state of
+residence
+  missouri
+  montana
+  nebraska
+  nevada
+  new hampshire
+  new jersey
+  new mexico
+  new york
+  north carolina
+  north dakota
+  ohio
+  oklahoma
+  oregon
+ 
+pennsylvania
+  rhode island
+south carolina
+ 
+south dakota
+ 
+tennessee
+ 
+ 
+texas
+  utah
+  vermont
+  virginia
+  washington
+  west virginia
+  wisconsin
+  wyoming
+
+warren and
+warren
+11,725
+95
+5
+340
+70
+2,935
+195
+110
+20
+25
+1,000
+395
+15
+30
+585
+110
+45
+75
+50
+60
+2
+225
+195
+90
+100
+25
+
+cms
+estimates
+11,725
+90
+10
+300
+60
+2,915
+180
+115
+20
+15
+785
+395
+40
+35
+595
+105
+45
+80
+50
+55
+2
+240
+170
+95
+95
+25
+
+cms
+estimates
+60
+1
+35
+185
+10
+485
+80
+915
+335
+1
+95
+90
+130
+150
+25
+95
+5
+120
+1,720
+90
+2
+250
+240
+2
+80
+5
+
+warren and
+warren
+70
+1
+40
+180
+2
+410
+85
+705
+370
+z 
+100
+95
+130
+150
+30
+105
+1
+135
+1,610
+100
+z 
+265
+260
+1
+80
+5
+
+source: cms estimates compiled from cms database; warren and warren estimates from warren and 
+warren (2013).                                                                                                                  z rounds to zero.
+
+313
+
+democratizing data about unauthorized residents in the united statesunauthorized resident population in 2013
+the main purpose of this article is to describe the construction of the database. however, this 
+article includes the estimates shown in tables 6 and 7 to illustrate the kinds of information 
+that can be compiled. table 6 shows the states that have the highest number of unauthorized 
+residents from the countries listed under the state. for example, even though many states 
+have large numbers from mexico, california has the largest population from mexico, about 
+30 percent of the total number in the united states (table 6). as might be expected, illinois 
+has the highest number of unauthorized residents from poland (44 percent).
+
+table 6. states with the largest numbers of unauthorized 
+residents, by country of origin: 2013
+(numbers in thousands)                      minimum of 4,500 unauthorized residents
+
+state and
+   country
+
+pct. of
+total
+(3)=2/1
+ 
+
+state and
+   country
+
+jamaica
+
+unauthorized pop.
+in the
+us
+(1)
+ 
+6,088
+588
+359
+246
+187
+16
+25
+6
+8
+11
+ 
+ 
+66
+ 
+ 
+23
+
+in the
+state
+(2)
+ 
+1,806
+151
+103
+100
+62
+9
+7
+5
+5
+5
+ 
+ 
+29
+ 
+ 
+12
+
+unauthorized pop.
+in the
+us
+(4)
+ 
+122
+133
+104
+57
+55
+38
+16
+ 
+ 
+194
+144
+104
+30
+25
+26
+ 
+
+in the
+state
+(5)
+ 
+81
+51
+36
+29
+25
+11
+8
+ 
+ 
+78
+63
+31
+15
+15
+8
+ 
+
+pct. of
+total
+(6)=5/4
+ 
+66%
+38%
+35%
+51%
+45%
+29%
+50%
+ 
+ 
+40%
+44%
+30%
+50%
+60%
+31%
+ 
+
+  florida
+
+30%   haiti
+26%   colombia
+29%  
+41%   venezuela
+33%   nicaragua
+56%   argentina
+28%   uruguay
+83%  
+63%   new york
+45%   dominican rep.
+
+california
+mexico
+el salvador
+china
+philippines
+korea
+iran
+egypt
+armenia
+fiji
+indonesia
+ 
+illinois
+poland
+ 
+virginia
+bolivia
+source: cms data; see text.
+table 7 shows estimates of the unauthorized resident population for three major sending 
+areas in the western hemisphere, cross-classified by the top six states of residence of the 
+unauthorized resident population for each year from 2010 to 2013. the annual estimates for 
+large sending areas and the top six states indicate that, at least at this level of aggregation, 
+the methodology produces stable results from year to year. the total population declined 
+each year from 2010 to 2013, but the rate of decline slowed each year. the population from 
+mexico fell by about a half million from 2010 to 2013, a reduction of about eight percent. 
+population decline was the largest for south american countries; the population dropped 
+from 820,000 in 2010 to 640,000 in 2012, a decline of 180,000, or 22 percent, in just two 
+years. the population from central america was largely unchanged from 2010 to 2013. 
+
+  guyana
+  bangladesh
+
+44%   trinidad & tob.
+
+  ecuador
+ 
+jamaica
+
+ 
+ 
+
+ 
+ 
+
+52%  
+
+ 
+
+ 
+
+314
+
+journal on migration and human securitytable 7. annual estimates of the unauthorized resident 
+population from all countries, mexico, central america, 
+and south america, for the top 6 states: 2010 to 2013
+
+numbers in thousands                       ranked on state estimates for all countries in 2013
+
+area and
+state
+
+all countries
+california
+texas
+new york
+florida
+illinois
+new jersey
+all other states
+total mexico
+california
+texas
+new york
+florida
+illinois
+new jersey
+all other states
+total central america
+california
+texas
+new york
+florida
+illinois
+new jersey
+all other states
+total south america
+california
+texas
+new york
+florida
+illinois
+new jersey
+all other states
+
+2010
+(1)
+11,725
+2,915
+1,720
+915
+785
+595
+485
+4,305
+6,600
+2,015
+1,330
+200
+175
+395
+110
+2,375
+1,505
+340
+190
+115
+150
+20
+75
+615
+820
+55
+35
+150
+210
+15
+115
+240
+
+2011
+(2)
+11,315
+2,825
+1,710
+865
+755
+545
+465
+4,150
+6,360
+1,930
+1,320
+190
+200
+390
+95
+2,230
+1,495
+330
+195
+110
+145
+15
+75
+620
+715
+45
+25
+140
+170
+15
+100
+220
+
+2012
+(3)
+11,110
+2,765
+1,650
+855
+725
+540
+475
+4,100
+6,115
+1,850
+1,250
+175
+165
+385
+90
+2,195
+1,515
+345
+195
+135
+150
+15
+80
+600
+640
+40
+20
+135
+150
+10
+95
+185
+
+change, 2010 to 2013 
+percent
+(6) = 5/1
+-6%
+-9%
+z 
+-11%
+-11%
+-11%
+-2%
+-5%
+-8%
+-10%
+z 
+-11%
+-14%
+-10%
+-9%
+-9%
+1%
+-5%
+4%
+8%
+6%
+-30%
+9%
+1%
+-22%
+-28%
+-14%
+-17%
+-26%
+4%
+-19%
+-23%
+
+2013 number
+(5) = 
+4-1
+-715
+-250
+10
+-100
+-85
+-65
+-10
+-220
+-515
+-210
+z 
+-20
+-25
+-40
+-10
+-210
+15
+-15
+10
+10
+10
+-5
+5
+5
+-180
+-15
+-5
+-25
+-55
+z 
+-20
+-55
+
+(4)
+11,010
+2,665
+1,725
+820
+705
+530
+475
+4,090
+6,090
+1,805
+1,330
+180
+155
+355
+100
+2,165
+1,520
+325
+195
+125
+160
+15
+80
+620
+640
+40
+30
+125
+155
+15
+95
+180
+
+source: dhs database; see text for methods of estimation.                                 z rounds to zero.
+
+315
+
+democratizing data about unauthorized residents in the united statesdiscussion 
+
+uses of the data
+
+this data should be useful for many purposes, from planning and evaluating changes in 
+us immigration policy to assisting states, counties, cities, and private entities that serve 
+immigrants. although much attention is currently focused on president obamas executive 
+actions to defer deportation of millions of unauthorized residents, the information in this 
+database will be particularly valuable to service providers at the local level.10 for example, 
+the data tool will provide information about unauthorized residents at the local level for 
+such variables as age, gender, years in the us, languages spoken, ability to speak english, 
+educational attainment, occupation, poverty status, and legal status of parents and children. 
+
+executive action 
+
+on november 20, 2014, president obama announced a series of executive actions that 
+included temporary relief from deportation (referred to as deferred action) for millions 
+of unauthorized residents. the cms database was used to derive estimates for the groups 
+most  affected  by  president  obamas  executive  actions.11  the  largest  group  consists  of 
+unauthorized  residents  whose  children  are  us  citizens  or  lawful  permanent  residents 
+(lprs).12 the estimation shows that a total of 3.9 million13 unauthorized residents could 
+qualify  under  this  provision. the  second  group  consists  of  unauthorized  residents  who 
+were under age 16 when they arrived and are eligible for the deferred action for childhood 
+arrivals (daca) program. the revision in the daca eligibility requirements announced 
+on november 20 added about 235,000 to the number eligible for daca. thus, the actions 
+announced  on  november  20  added  a  total  of  about  4.1  million  to  the  number  eligible 
+for deferred action. approximately one million already were eligible for daca when the 
+program was announced in 2012. altogether, about 5.1 million unauthorized residents have 
+been offered deferred action. cms will make estimates of the unauthorized population 
+eligible for deferred action available at the state and local levels to assist service providers 
+in implementing the provisions of these actions.  
+
+local area data 
+
+organizations  that  provide  services  to  immigrants  will  need  the  following  kinds  of 
+information available from this database: the number of unauthorized residents in the area, 
+their countries of origin, their ability to speak english, which languages they speak, how 
+10  in this context, local level refers to areas that have approximately 100,000 or more total residents.
+11  the first major executive action, announced on august 15, 2012, established the deferred action for 
+childhood arrival (daca) program. the second, on november 20, 2014, expanded the number eligible for 
+daca and also provided temporary relief from deportation to unauthorized residents who entered the us 
+before 2010 and are parents of us citizens or lawful permanent residents (lprs).
+12  lprs are foreign-born persons authorized by dhs to reside permanently in the united states. they are 
+sometimes referred to as green card holders. 
+13  the estimated total for this group, 3,885,000, is composed of the following: (1) 3,475,000 parents who 
+have a us citizen child, but no lpr children; (2) 270,000 parents who have an lpr child, but no us citizen 
+children; and (3) 140,000 parents who have both a us citizen child and an lpr child.
+
+316
+
+journal on migration and human securitymany children they have, what percent are living below the poverty level, and (beginning 
+with the 2013 estimates) how many have access to a computer or the internet. to make sure 
+that such local-area data are viable, the estimates were evaluated by comparing them to the 
+best and most detailed information available. 
+
+strengths and limitations of the cms data
+
+there are several strengths of the cms data:
+1.  controlling the data (after the logical edits) for 2010 to control totals for 145 countries 
+or areas is a new and important step in constructing estimates of the unauthorized. the 
+estimates produced by applying this technique are consistent with other information 
+available about the unauthorized resident population.
+
+2.  unauthorized  residents  constitute  a  high  percentage  of  the  population  included  in 
+the cms database, as described in the appendix, making it an excellent resource for 
+researchers, policymakers, and ngos service providers.
+
+3.  the large sample size of the acs makes it possible to compile data for unauthorized 
+
+residents for geographic areas with population sizes of 100,000 or more.
+
+4.  the individual-level data available from the acs makes it possible to measure the social 
+and economic conditions of the unauthorized resident population for such variables as 
+income, education, health care coverage, and language usage.
+
+5.  the methods used to construct the database for 2010 and 2011 can be used for several 
+
+years to produce similar annual estimates based on acs data (see appendix).
+
+potential limitations include:
+1.  although  the  cms  database  contains  a  high  percentage  of  unauthorized  residents, 
+inevitably some legally resident noncitizens are also included. however, as explained 
+below, this variation in percent unauthorized by country of origin should have little 
+effect on estimates of unauthorized residents compiled for most purposes.
+
+2.  although the logical edits have been reviewed carefully, misclassification errors are 
+inevitable. in cases where some error would occur regardless of the choice for a logical 
+edit, cms made the choice that was likely to introduce the least amount of error. for 
+example, all noncitizens who were aged 60 and over at entry are assumed to be legal 
+residents. while a small number could have been unauthorized, the available evidence 
+indicates that very few unauthorized residents arrive at ages 60 and over. 
+
+3.  the data are based on a sample, and sampling variability must be taken into account, 
+
+especially as the size of the population or the geographic area under study decreases.
+
+4.  if comprehensive legislative reform were to be enacted, the logical edits described here 
+would have to be reviewed and revised. it is possible that the characteristics specified 
+in the legalization program could be used to modify the methodology so that estimates 
+could continue to be made. 
+
+317
+
+democratizing data about unauthorized residents in the united statesprivacy of respondents
+
+ a  primary  consideration  in  this  project  was  the  protection  of  the  privacy  of  all acs 
+respondents.  in  most  cases,  access  to  the  information  about  unauthorized  immigrants 
+will be limited to the creation of tables through the cms website. in rare cases, the acs 
+microdata used to compile tables might be made available, but only upon request, after 
+consultation with expert advisors, and after the establishment of a confidentiality (non-
+sharing) agreement.    
+from a demographic perspective, the possibility of identifying individuals or groups of 
+unauthorized immigrants from the database is extremely unlikely for three primary reasons:
+the  annual acs  is  an  approximately  one  in  100  sample,  and  the  cms  estimates  are 
+restricted to areas with population sizes of 100,000 or more. in a population that large, 
+individuals or small groups of unauthorized residents are likely to be indistinguishable 
+from legal foreign-born residents.
+almost three quarters (73 percent) of the total foreign-born population in the united states 
+are legal residents. the legally resident foreign-born population outnumbers unauthorized 
+residents in every state and the district of columbia, making it extremely unlikely that 
+individuals or groups of unauthorized residents can be distinguished from legal foreign-
+born residents. 14 in the 10 states with the lowest numbers of unauthorized residents, more 
+than 90 percent of the foreign-born population consists of legal residents.
+as with the residual estimates of unauthorized residents, this database contains a small 
+percentage of legal residents, making it unlikely that any particular population group is 
+composed exclusively of unauthorized residents.
+
+sampling variability
+estimates  of  sampling  variability  will  be  available,  along  with  the  estimates  of  the 
+unauthorized  resident  population,  at  the  cms  website:  http://cmsny.org.  a  detailed 
+discussion  of  the  accuracy  of  2010  pums  data,  including  measures  used  to  assure 
+confidentiality, weighting and estimation, measuring sampling error, and design factors, is 
+available from us census bureau (2010) at: http://www.census.gov/acs/www/downloads/
+data_documentation/pums/accuracy/2010accuracypums.pdf.
+
+conclusion
+the database developed by cms makes it possible for a broad cross-section of users to 
+tabulate detailed geographic, social and economic data on the unauthorized and compare that 
+data to variables collected in the acs.  historically, most of the information that has been 
+available about unauthorized immigrants has been produced by a handful of statisticians 
+and disseminated in the form of reports that show selected data points at the national and 
+sometimes the state level. the cms database produces estimates that are highly consistent 
+
+14  for each state, the source of data for unauthorized residents is warren and warren 2013, and the source of 
+data for total foreign-born population by state is the 2010 acs data from ipums.
+
+318
+
+journal on migration and human securitywith the most widely-accepted estimates derived using the residual estimation methods 
+while providing detailed information for each figure at population units as small as 100,000 
+persons. 
+the  idea  of  democratizing  access  to  data  on  legal  and  unauthorized  residents  has 
+overwhelming  advantages  for  policymakers,  government  entities,  and  ngos  that 
+legislate, craft, implement and evaluate programs that serve immigrants. in the context 
+of a legalization program, detailed, sub-state data will allow stakeholders to determine: 
+(1) how to allocate resources, including staffing; (2) which populations would likely need 
+assistance with fees and would struggle to meet income requirements; (3) where to expand 
+charitable legal service capacity and english language classes; (4) how to conduct outreach, 
+in what languages and where; and (5) which immigrants might have other relief available. 
+estimates from the cms database will assist service providers at the state and local levels 
+in implementing provisions of executive action by the obama administration, and state and 
+local integration initiatives. 
+
+appendix. detailed methodology
+
+this section first describes the methods used to derive estimates of the unauthorized resident 
+population counted in the 2010 acs. the final step was an adjustment for undercount. 
+before beginning the estimation process, the data is adjusted for misreporting of citizenship. 
+for  2010,  foreign-born  persons  who  arrived  from  2007  to  2010    and  reported  being 
+naturalized  were shifted to the noncitizen category.15
+the estimates are based partly on the characteristics of noncitizens reported in the microdata 
+of the 2010 acs. it is assumed that nearly all of the unauthorized immigrant population 
+is in the acs data for noncitizens who entered the us after 1981 because (a) pre-1982 
+entrants could have legalized under irca and (b) those who did not do so have had 28 
+years in which to leave the unauthorized resident population.16 
+
+step 1. logical edits
+
+the first step examined individual characteristics reported in the survey, comparing them 
+to other data and assumptions, to identify those who are likely to be legal residents. the 
+responses of all noncitizens that arrived after 1981 were examined to determine whether 
+they were in any of the following categories: 
+
+15  although there are exceptions, for example marriage to a us citizen or serving in the military, immigrants 
+must reside in the country for five years before they can become naturalized citizens.
+16  choosing 1982 as the starting date is an example of making the assumption that is likely to produce 
+the least error. including 1980 and 1981 entrants, as others have done, probably would have added a small 
+number of unauthorized residents, but it most likely would have added an even greater number of legal 
+noncitizens to the database, especially since the acs data for entrants in 1980 are subject to heaping. 
+
+319
+
+democratizing data about unauthorized residents in the united statesc)
+
+a) occupations that require legal status. examples include lawyers, judges, police,
+firefighters, and pilots. others in this group included government workers, veterans,
+active  members  and  employees  of  the  armed  forces,  and  their  dependents.
+b) legal  temporary  migrants.    noncitizens  in  this  category,  often  referred  to  as
+nonimmigrants,17  were  selected  based  on  their  date  of  entry  and  on  certain
+educational and occupational characteristics. those who are likely to be enumerated
+in censuses or surveys are included; tourists and other short-term visitors are not.
+immediate  relatives  of  us  citizens.  noncitizens  who  were  immediate  relatives
+of  us  citizens  were  assumed  to  be  legal  residents  except  noncitizens  from
+mexico,  el  salvador,  guatemala,  and  honduras  who  arrived  after  2000.18
+d) receiving  public  benefits.  noncitizens  were  classified  as  legal  if  they  reported
+receiving public benefits  that are restricted to  legal residents. examples include
+medicare,  social  security,  medicaid  (for  certain  recipients19),  supplemental
+security  income (ssi),  and  temporary assistance  for  needy  families  (tanf).
+e) age  60  or  older  at  entry.    respondents  who  were  60  years  old  or  older  in
+the  year  they  entered  the  us  were  considered  to  be  legal  residents  in  the  2010
+acs.  this  assumption  is  based  on  work  by  passel  and  cohn  (2010)  and  on
+estimates of unauthorized residents by age published by dhs (2013). in the dhs
+estimates,  4.5  percent  of  all  unauthorized  residents  were  55  years  and  older;  in
+the  estimates  derived  from  the  cms  data,  4.7  percent  are  55  years  and  older.
+f) from refugee countries. if the number of refugees was double the number of
+new arrivals from a country in a particular year (based on dhs data), the arrivals
+for  that  country/year  were  assumed  to  be  legal  residents  in  the  2010  acs.
+
+as a result of the logical edits, a total of 7.3 million noncitizens who entered the us after 
+1981 were judged to be legal residents. after the 7.3 million were shifted into the legal 
+category, about 12.6 million remained in the likely unauthorized category. at that point, 
+about 86 percent (10.9 million of 12.6 million) of the noncitizens remaining in the database 
+were unauthorized residents.
+
+step 2. population controls for each country
+
+the next major step in the methodology was to derive independent population controls by 
+
+17  nonimmigrants are non-us citizens who are admitted legally to the united states for specified, temporary 
+periods.  examples include tourists, students, foreign government officials, and temporary workers and their 
+families.
+18  this exception was made because unauthorized immigrants who entered the us after 2000 from these 
+countries are more likely than others to be subject to the three- and ten-year bars, which prohibit applicants 
+from returning to the united states if they entered the us illegally (that is, they entered without inspection, 
+most likely across the southern border). note that noncitizens that entered the us after 2000 from these 
+four countries are not automatically assumed to be unauthorized residents; they could be classified as legal 
+residents as the result of any of the logical edits.
+19  the following noncitizen medicaid recipients were classified as legal residents: men age 19 and over; and 
+women age 19 and over who had not had a child in the previous year.
+
+320
+
+journal on migration and human securitycountry of origin. for this project, estimates of the unauthorized resident population from 
+145 countries20 or areas of origin were needed; unfortunately, such estimates were available 
+for  only  a  few  countries.  a  variety  of  demographic  techniques  were  used,  including 
+residual estimation procedures, to derive a complete set of estimates. the residual method 
+alone could not produce acceptable estimates for every country primarily because detailed 
+information about emigrationwhich can vary considerably by countryis not available. 
+therefore, other relevant data, described below, were used to ensure that the estimate for 
+each country fell within a plausible range. the total number of 10,850,000 counted in the 
+2010 acs is based on estimates by warren and warren (2013).21
+
+table  a-1.  computation  of  provisional  residual 
+estimates for 145 countries and areas
+
+a. foreign-born population, entered annually, 1986* to 2009, from 145 countries.
+
+computation of legally resident population.
+1. legal permanent residents (lprs) and refugees admitted annually from 1986 to 
+
+2009 from 145 countries (from dhs annual statistical yearbooks)
+emigration of lprs and refugees. rates from warren and warren (2013): 3.3 
+percent in the first year in the us; annual rate drops by five percent for each 
+additional year in the us 
+deaths to lprs and refugees. rate in initial year from warren and warren (2013): 
+5.7 per 1,000 in the first year in the us; annual death rate increases by one 
+percent for each additional year in the us (the increase accounts for ageing of the 
+population).
+
+2.
+
+3.
+
+4. undercount of legal residents. rates from warren and warren (2013): five percent in 
+
+the first year in the us; rate drops by 10 percent for each additional year in the us
+5. nonimmigrants. data for 2010 from 145 countries (from 2010 dhs yearbook) for 
+
+temporary legal residents likely to be counted in censuses and surveys. 
+
+countries.   b = 1-2-3-4+5
+
+b. legally resident foreign-born population, entered annually, 1986 to 2009, from 145 
+c. provisional estimates of unauthorized residents from 145 countries, counted in the 2010 
+
+acs.         c = a - b 
+
+* the provisional estimates covered the 1986 to 2009 period, rather than the 1982 to 2010 period, because 
+detailed data for lprs by country of origin were not readily available from the dhs website for years prior 
+to 1986. the steps taken to convert the provisional estimates to final estimates generated estimates for the 
+entire unauthorized resident population.    
+
+20  hereineafter, to simplify the description, the terms 145 countries, or each country, or all of the 
+countries are used to refer to the individual countries or areas for which estimates of the unauthorized 
+resident population were derived. the countries or areas are listed in ipums for 2010 (country codes 15000 
+to 71042).
+21  see warren and warren 2013 for the methodology used to estimate the number of unauthorized residents 
+counted in the 2010 acs. the estimate of 10,850,000 counted in the 2010 acs was derived by following the 
+same procedures described in that report but without any adjustment for undercount.  
+
+321
+
+democratizing data about unauthorized residents in the united statesprovisional estimates were derived for 145 countries using the residual method, as illustrated 
+in table a-1. then, an extensive analysis and evaluation of the estimates for each country 
+was undertaken. the provisional estimates were adjusted so that they fell within certain 
+demographic guidelines. for example, the final estimate for a country could not exceed the 
+number derived in step 1 for that country. also, estimates of the percent of unauthorized 
+to foreign-born in 2000 and 2010, by country, were used to calibrate the estimates. finally, 
+two other sets of data were used as indirect indicators of the general magnitude of the 
+unauthorized resident population from various countries and regions of the world: (1) the 
+country-by-country distribution of the three million applicants under irca; and (2) dhs 
+annual estimates of nonimmigrant overstays for every country from 1988 to 1992 (see 
+bean, edmonson and passel 1990; gao 1995).
+
+step 3. selection of unauthorized residents counted in the acs
+
+step 3 selected the individual respondents to be included in the database. after applying the 
+logical edits to compile the number of likely unauthorized residents, by country, a random 
+process was used to select the appropriate number, i.e., the population control, for each 
+country. for mexico, for example, 8.1 million noncitizens arrived after 1981; about 1.6 
+million were judged to be legal residents based on the logical edits (step 1), leaving 6.4 
+million as possible unauthorized residents. the control total for mexico was 6.1 million 
+(step 2). in step 3, about 6.1 million, or 95.6 percent, of the 6.4 million were randomly 
+selected to be in the database. those not selected were classified as legal residents. overall, 
+a total of 10.9 million as unauthorized residents were selected; the remaining 9.1 million 
+noncitizens who arrived after 1981were classified as legal residents. after this selection 
+process was completed, about 89 percent of the total consisted of unauthorized residents.22
+table a-2  illustrates  the  estimation  procedure  for  south american  countries.  the  first 
+three columns in the table represent the first major step in the methodology. the procedure 
+began with total noncitizens (column 1) and then identified legal noncitizens based on the 
+logical edits (column 2). column 3 shows the number remaining as likely unauthorized 
+residents after the logical edits. the population controls for each country are shown in 
+column 4. note that in the unlikely event that the logical edits had identified all of the legal 
+noncitizens, the numbers in columns 3 and 4 would have been identical.
+the numbers included in the cms database were derived by randomly selecting (from 
+the microdata) the numbers shown in column 4 from those in column 3 (table a-2). for 
+brazil, for example, 130,000 (column 4) of the 145,000 in column 3 were selected to be 
+in the database. to summarize the procedures for estimating the number counted in 2010: 
+the number of noncitizens who entered from each country after 1981was compiled; the 
+procedures described above (logical edits) were used to move some of them into the legal 
+category; and the remainder was controlled to country-by-country population totals. the 
+process was repeated for 145 countries or areas.
+
+22  table a-5, items a, b, and c, illustrates how this percent was computed for each country.
+
+322
+
+journal on migration and human securitytable  a-2.  selection  of  unauthorized  residents  from 
+south  american  countries  to  be  included  in  the  2010 
+cms estimates (data not adjusted for undercount)
+
+numbers in thousands; rounded independently
+
+noncitizens, entered 1982 to 2010
+remainder
+after the
+logical edits
+(3)=(1)-(2)
+910
+50
+27
+145
+24
+192
+190
+36
+4
+140
+27
+72
+3
+
+legal based
+on the
+logical edits
+(2)
+539
+36
+13
+95
+16
+125
+68
+31
+4
+90
+8
+50
+2
+
+total
+ 
+
+(1)
+1,449
+86
+40
+240
+40
+317
+259
+67
+8
+230
+34
+121
+5
+
+in the 2010 cms estimates
+percent of
+column 3 
+selected
+(5)=(4)/(3)
+n/a 
+79%
+79%
+90%
+80%
+81%
+84%
+77%
+80%
+82%
+82%
+84%
+77%
+
+selected based
+on population
+controls
+(4)
+755
+40
+21
+130
+19
+155
+160
+28
+3
+115
+22
+60
+2
+
+country
+of birth
+
+total
+argentina
+bolivia
+brazil
+chile
+colombia
+ecuador
+guyana
+paraguay
+peru
+uruguay
+venezuela
+other s. america
+source: see text.
+
+annual estimates for 2011 to 2013
+
+the method of constructing the database for unauthorized residents in 2011 is illustrated in 
+table a-3. note that columns 1, 2, and 3 were compiled from 2011 acs data in the same 
+way as columns 1, 2, and 3 in table a-2 above. the percents in column 4 of table a-3 are 
+the same percents shown in table a-2, column 5. in essence, it is assumed that the logical 
+edits shift the same percent of the noncitizen population into the legal category in 2011 as 
+they did in 2010; that is, they produce the same percent unauthorized in 2011 as they did 
+in 2010.23 
+the estimates of unauthorized residents in 2011 (table a-3, column 5) were derived by 
+multiplying the percent unauthorized in column 4 by the likely unauthorized population, 
+that is, the number of noncitizens remaining after the logical edits (column 3). then, the 
+numbers in column 5 were randomly selected from the figures in column 3. the same 
+estimation procedures used for 2011 were used to derive estimates for 2012 and 2013. 
+an important aspect of the estimation procedure for 2011 and subsequent years is that it 
+
+23  under this assumption, the estimated unauthorized resident population varies from year to year in response 
+to changes in the logically-edited (i.e., mostly unauthorized) noncitizen population. 
+
+323
+
+democratizing data about unauthorized residents in the united statesdoes not rely on administrative data or residual estimates. in addition to avoiding the errors 
+inherent in that data, estimates for the most recent year of acs data can be derived using 
+this estimation procedure as soon as the public-use data become available.  
+
+table  a-3.  selection  of  unauthorized  residents  from 
+south american countries for the cms database in 2011 
+(data not adjusted for undercount)
+
+numbers in thousands; rounded independently
+
+noncitizens, entered 1982 to 2011
+remainder
+after the
+logical
+edits
+(3)=(1)-(2)
+793
+41
+27
+124
+23
+167
+166
+31
+6
+122
+16
+70
+2
+
+legal
+based on
+logical
+edits
+(2)
+550
+34
+12
+97
+23
+139
+67
+35
+2
+80
+8
+51
+2
+
+total
+ 
+
+(1)
+1,343
+75
+40
+221
+46
+306
+233
+66
+8
+202
+24
+120
+4
+
+in the 2011 cms database
+estimated
+percent of
+unauthorized
+column 3 
+that are
+population
+in 2011
+unauthorized
+(5)=(3)*(4)
+(4)
+660
+n/a 
+79%
+33
+79%
+22
+111
+90%
+80%
+18
+136
+81%
+140
+84%
+24
+77%
+80%
+4
+100
+82%
+13
+82%
+58
+84%
+77%
+1
+
+country
+of birth
+
+total
+argentina
+bolivia
+brazil
+chile
+colombia
+ecuador
+guyana
+paraguay
+peru
+uruguay
+venezuela
+other s. america
+source: see text.
+
+adjustment for undercount
+
+the estimates were adjusted for undercount using the approach described by warren and 
+warren (2013). the undercount rate is relatively higher for recent arrivals than for those 
+who have been in the us the longest. unauthorized residents who arrived in the five years 
+before the survey were adjusted by about 12 percent; those who entered before 1986 were 
+adjusted by about 2 percent. the undercount rate used here dropped by about 25 to 30 
+percent for each additional five years of residence in the us24 the adjustments were made 
+by re-weighting the microdata based on year of arrival from 1982 to the survey date. the 
+result for 2010 is a total population of 11,725,000, the total number estimated by warren 
+and warren (2013). the estimated undercount rate for the total population is 7.5 percent.  
+
+24  specifically, for the 2010 estimates, those who entered in 2010 and 2009 were adjusted for undercount by 
+13.2 percent; that rate dropped by 7 percent each year, falling to 1.9 percent for those who entered in 1982.
+
+324
+
+journal on migration and human securityoverall percent unauthorized 
+
+as shown in table a-2 above (column 5), for most countries the logical edits produce 
+numbers that are fairly close to the control totals.  however, a small percentage of those 
+selected for the database are erroneously classified as unauthorized residents. many of these 
+legal residents who are misclassified as unauthorized actually had previous experience as 
+unauthorized residents (see table a-4). therefore, they probably would have characteristics 
+similar to unauthorized residents. 
+data  from  the  1996  dhs  longitudinal  study  of  legal  immigrants  (jasso  et  al.  2008) 
+indicates that a sizeable proportion of those who attain lpr status have spent time in an 
+unauthorized status at some time in the past. as shown in table a-4, almost one-third of 
+those who became legal permanent residents in fiscal year 1996 had previous unauthorized 
+experience in the united states.  
+
+table  a-4.  estimated  percent  of  legal  permanent 
+residents who had previous unauthorized experience 
+in the united states: 1996 cohort of lprs
+continent of birth
+all countries
+north america
+south america
+africa
+europe
+asia
+
+percent
+31.7
+58.4
+43.2
+22.8
+15.8
+12.9
+
+country of birth
+mexico
+el salvador
+dominican republic
+jamaica
+poland
+philippines
+china
+india
+
+percent
+73.7
+65.4
+45.2
+33.1
+32.1
+13.5
+11.0
+3.6
+
+source: jasso et al. 2008, table 4.
+
+for the 1996 cohort of lprs, the percent with previous unauthorized experience varied 
+by country and continent of origin. for mexico and el salvador, the percents were 74 
+percent and 65 percent, respectively (table a-4). for north and south america combined, 
+approximately half of the 1996 cohort of lprs had previous unauthorized experience. the 
+percents from africa, europe, and asia, ranging from 13 to 23 percent, were lower than 
+those from the western hemisphere.
+table a-5 shows the computation of the percent unauthorized, as well as the percent that 
+had previous unauthorized experience, for el salvador in 2010. based on random selection, 
+about 87 percent of the 570,000 unauthorized residents from el salvador in the database 
+for 2010 are likely to be unauthorized residents (item c). adding the number who probably 
+were legal but had previous unauthorized experience (item g), the percent of salvadorans 
+in the database who were unauthorized or had previous unauthorized experience increases 
+to 96 percent (item i). replicating table a-5 for each country and summing across all 
+countries yields a total of 89 percent unauthorized; adding legal residents who had previous 
+unauthorized experience to those estimated to be unauthorized yields an overall total of 93 
+percent. 
+
+325
+
+democratizing data about unauthorized residents in the united statestable  a-5.  estimation  of  the  percent  of  unauthorized 
+residents from el salvador who were unauthorized or 
+had previous unauthorized experience: 2010 acs
+numbers in thousands; rounded independently
+item category
+a.
+
+noncitizens from el salvador, entered 1982-2010, after logical edits
+
+estimate
+653,000
+
+b.
+
+c.
+
+d.
+
+e.
+
+f.
+
+g.
+
+h.
+
+i.
+
+estimated unauthorized resident population from el salvador, 2010
+
+percent of a above who are unauthorized   c = b/a
+
+probable unauthorized, based on random selection   d = b x c
+
+probable legally resident, based on random selection   e = b - d
+
+percent of legal residents with previous unauthorized experience
+
+probable legal residents with previous unauthorized experience g = e x f
+
+unauthorized or with previous unauthorized experience   h = d + g
+
+pct. unauthorized or with previous unauthorized experience   i = h/b x 100
+
+570,000
+
+87%
+
+497,000
+
+73,000
+
+65%
+
+48,000
+
+544,000
+
+96%
+
+source: item f from jasso et al. 2008; other estimates calculated as shown or as described in 
+the text.
+
+the  percent  unauthorized  varies  by  country;  the  countries  with  the  largest  numbers  of 
+unauthorized  residents  tend  to  have  the  highest  percent  unauthorized.  this  variation 
+in  percent  unauthorized  by  country  of  origin  should  have  little  effect  on  estimates  of 
+unauthorized residents compiled for most purposes. for example, estimates for each state 
+will have a high percentage of unauthorized residents because all of the states have relatively 
+large numbers of unauthorized residents from mexico and central america (countries with 
+high percentages of unauthorized residents) and relatively few from europe and canada 
+(countries with lower percentages of unauthorized residents). 
+while clearly a limitation, this statisticabout 89 percent unauthorizedis comparable to 
+the percent unauthorized in the residual estimates and in more recent estimates that derive 
+legal  status  from acs  microdata.  the  estimates  published  in  recent  years  by  the  pew 
+research center, dhs, warren and warren (2013), and capps, et al. (2013) are, strictly 
+speaking,  mostly  unauthorized  because  data  are  not  available  for  some  categories  of 
+legal residents. that is, some categories of legal or quasi-legal residents, such as recent 
+asylees and parolees, aliens who have filed for (but not officially received) lpr status, 
+and  recipients  of  temporary  protected  status,  are  included  as  unauthorized  residents  in 
+the residual estimates. passel and cohn (2009) noted that their residual estimate of 11.9 
+million  unauthorized  residents  in  2008  included  immigrants  from  certain  countries 
+holding temporary protected status (tps) or people who have filed for asylum status but 
+whose claims are unresolved. this group may account for as much as 10 percent of the 
+unauthorized estimate.
+
+326
+
+journal on migration and human securityreferences
+
+baker,  bryan  c.  and  nancy  rytina.  2013.  estimates  of  the  unauthorized  immigrant 
+population residing in the united states: january 2012.  washington, dc: office of 
+immigration statistics, policy directorate, us department of homeland security. 
+http://www.dhs.gov/sites/default/files/publications/ois_ill_pe_2012_2.pdf.
+
+bean,  frank  d.,  barry  edmonson,  and  jeffrey  s.  passel,  eds.  1990.  undocumented 
+migration to the united states: irca and the experience of the 1980s. washington, 
+dc: urban institute press.
+
+capps,  randy,  bachmeier,  james,  fix,  michael,  and  van  hook,  jennifer.  2013.  a 
+demographic,  socioeconomic,  and  health  coverage  profile  of  unauthorized 
+immigrants in the united states. washington, dc: migration policy institute. 
+
+corwin, arthur f. 1982. the numbers game: estimates of illegal aliens in the united 
+states,  19701981.  law  and  contemporary  problems  45:223-97.  http://dx.doi.
+org/10.2307/1191409
+
+gao (us government accountability office).1995. illegal immigration: ins overstay 
+estimation methods need improvement. gao/pemd-95-20. http://www.gao.gov/
+products/pemd-95-20. 
+
+jasso, g., massey, d. s., rosenzweig, m. r. and smith, j. p. 2008. from illegal to legal: 
+estimating previous illegal experience among new legal immigrants to the united 
+states.  international  migration  review  42:  80343.  http://dx.doi.org/10.1111/
+j.1747-7379.2008.00148.x
+
+passel, jeffrey s. and rebecca l. clark. 1998. immigrants in new york: their legal status, 
+
+incomes and taxes. washington, dc: urban institute. 
+
+passel, jeffrey s., jennifer van hook, and frank d. bean. 2004. estimates of the legal 
+andunauthorized  foreign-born  population  for  the  united  states  and  selected 
+states, based on census 2000. washington, dc: us census bureau. 
+
+passel, jeffrey s. and dvera cohn. 2008. trends in unauthorized immigration: undocumented 
+
+inflow now trails legal inflow. washington, dc: pew research center.
+
+. 2009. a portrait of unauthorized immigrants in the united states. washington, 
+
+dc: pew research center.
+
+. 2010. us unauthorized immigration flows are down sharply since mid-decade. 
+
+washington, dc: pew research center.
+
+. 2013. population decline of unauthorized immigrants stalls, may have reversed. 
+
+washington, dc: pew research center.
+
+. 2014. unauthorized immigrant totals rise in 7 states, fall in 14. washington, 
+
+dc: pew research center.
+
+327
+
+democratizing data about unauthorized residents in the united statesriosmena,  fernando.  2013.  at  the  edge  of  us  immigrations  halt  of  folly:  data, 
+information,  and  research  needs  in  the  event  of  legalization.  journal  on 
+migration  and  human  security  1(4):  148-62.  http://dx.doi.org/10.14240/jmhs.
+v1i4.18
+
+ruggles,  steven,  j.  trent  alexander,  katie  genadek,  ronald  goeken,  matthew  b. 
+schroeder, and matthew sobek. 2010.  integrated public use microdata series: 
+version 5.0 [machine-readable database]. minneapolis: university of minnesota.
+
+us  census  bureau.  2010.  pums  accuracy  of  the  data  (2010),  available  at: 
+http://www.census.gov/acs/www/downloads/data_documentation/pums/
+accuracy/2010accuracypums.pdf. 
+
+van hook, jennifer, james bachmeier, donna coffman, ofer harel. forthcoming. can 
+we spin straw into gold? an evaluation of immigrant legal status imputation 
+approaches. demography, february 2015.
+
+warren, robert and j. r. warren, 2013. unauthorized immigration to the united states: 
+annual estimates and components of change, by state, 1990 to 2010. international 
+migration review 47: 296329. http://dx.doi.org/10.1111/imre.12022
+
+warren, robert. 1997. estimates of the undocumented immigrant population residing in 
+the united states: october 1996, joint statistical meetings, anaheim, ca, august 
+13.
+
+328
+
+journal on migration and human security

@@ -1,0 +1,771 @@
+facing immigration fears: a 
+constructive local approach 
+to day labor, community, and 
+integration1
+
+sandra lazo de la vega
+university of florida
+
+timothy steigenga
+florida atlantic university 
+
+executive summary
+as one of the most visible and vulnerable manifestations of the presence 
+of latino immigrants in new destination communities across the united 
+states, day laborers have become a locus of conflict over the past fifteen 
+years for local policy makers, advocacy organizations, and neighborhood 
+residents. communities have dealt with day labor in drastically different 
+ways.  some  have  passed  harsh  anti-immigrant  ordinances,  hoping  that 
+a hostile environment will encourage immigrants to leave. restrictionist 
+state  and  local  legislation,  however,  has  proven  costly  to  enforce,  has 
+been challenged in court, and has hindered immigrant integration. other 
+communities have gone against the restrictionist tide. this paper argues 
+that organized day labor centers, such as the el sol resource center in 
+jupiter, florida, address many of the fundamental fears that polarize local 
+policymaking  and  the  national  immigration  reform  debate.  in  jupiter, 
+el sol has not only eliminated a controversial open-air labor market by 
+bringing  the  process  into  a  formal  and  organized  structure,  it  has  also 
+provided access to english and civics classes, preventive health screenings 
+and legal services in cases of wage theft. furthermore, through el sol the 
+town of jupiter has opened a two-way process of immigrant integration. 
+jupiters day laborers are no longer hiding in the shadows, but rather are 
+engaging in active citizenship and working with native-born community 
+volunteers to run the center.
+
+1 portions of this article are redacted from lazo de la vega, sandra and timothy j. steigenga. 2013. against 
+the  tide:  immigrants,  day  laborers,  and  community  in  jupiter,  florida.  madison,  wi:  university  of 
+wisconsin press. 
+
+ 2013 by the center for migration studies of new york. all rights reserved.jmhs volume 1 number 1 (2013): 1-16introduction
+in early 2012 the prospects for the passage of comprehensive immigration reform in the 
+united  states  looked  as  bleak  as  they  had  ever  been.  despite  promises  to  address  the 
+issue  in  his  first  term,  president  obama  continued  to  ramp  up  enforcement  hoping  to 
+convince his critics that he was serious about border control. the first four years of the 
+obama  administration  saw  record  levels  of  deportations  (nearly  400,000  per  year)  and 
+unprecedented  enforcement  efforts  such  as  the  expansion  of  the  secure  communities 
+program.2 at the state level, according to the national conference of state legislatures 
+1,607 immigration-related bills were introduced in 2011 (up from 1,400 the year before).  
+alabama (hb 56), georgia (hb 87), indiana (sb 590), south carolina (s 20), and utah 
+(hb 497 and sb 288) passed laws similar to arizonas sb 1070 (national council of state 
+legislatures 2012). together, these federal, state, and local self-deportation initiatives 
+dominated the countrys immigration agenda.
+as the dust from the 2012 presidential election settled, one fact appeared abundantly clear; 
+the ground had fundamentally shifted on the issue of immigration reform. the latino vote 
+as a percentage of the overall electorate increased from 9 percent in 2008 to 10 percent 
+in 2012. according to the exit polls, president obama won 71 percent of the latino vote 
+nationally, improving upon his 2008 performance of 67 percent (lopez and taylor 2012). 
+the  latino  vote  was  a  key  component  of  obamas  winning  coalition  in  several  swing 
+states,  including  colorado,  florida,  nevada,  and  even virginia.  politicians  and  pundits 
+from  across  the  political  spectrum  have  taken  notice  and  the  conventional  wisdom  on 
+comprehensive immigration reform shifted from impossible to very likely.  
+even  as  discussion  has  turned  from  an  exclusive  focus  on  enforcement  toward  reform 
+and  a  potential  path  to  citizenship  for  certain  unauthorized  immigrants,  a  gaping  hole 
+remains in the national immigration dialogue on the issue of immigrant integration. while 
+congress debates the details of how much immigrants will be fined, how long they must 
+wait, or which back-taxes they must pay, little attention has been paid to the vehicles and 
+processes necessary to facilitate the integration of millions of immigrants into communities 
+around the country. in other words, while there is much political maneuvering over how to 
+negotiate the legal inclusion of previously unauthorized immigrants into the united states, 
+questions about if, when, and how unauthorized immigrants will be socially included in 
+american society have yet to be addressed.
+the  road  to  immigrant  integration  confronts  important  obstacles,  particularly  in  new 
+destination communities that have pursued restrictive policies that drive wedges between 
+the  native-born  and  latino  immigrants.  while  congress  may  pass  comprehensive 
+immigration  reform,  this  would  not  thereby  eliminate  the  fears  and  images  that  the 
+rancorous  immigration  debate  has  fostered.  though  many  of  the  estimated  11  million 
+unauthorized people living in the united states are, as the president recently emphasized, 
+american in every way, but on paper, there are also many who are not. in new destination 
+
+2   secure communities is an information-sharing program between the dhs and the fbi. ice states that 
+secure communities prioritizes the removal of criminal aliens who are the most dangerous and violent 
+offenders. however, according to dhs, in 2011 twenty-nine percent of those deported were convicted of 
+minor or level 3 crimes resulting in sentences of less than one year. twenty-six percent of those deported 
+had no criminal convictions (see waslin 2011). 
+
+2
+
+journal on migration and human securitycommunities, unauthorized immigrants are frequently more recent arrivals who have lower 
+socio-economic profiles and remain segregated (both spatially and socially) from the rest 
+of the community. this is not because they reject american society, but because they live 
+in places where they are feared, not easily accepted, and actively made to feel unwelcome. 
+while immigrant integration is a multi-faceted process that extends beyond the scope of 
+this article, we focus on the barrier of common fears about immigrants, how those fears 
+are frequently manifested in new destinations for latino immigrants, and the costly and 
+divisive restrictionist policies that foment and exacerbate such fears. this article examines 
+the case of the town of jupiter, florida where fears about immigrants have been mitigated 
+through an organized day labor center.  we argue that community centers such as the el sol 
+neighborhood resource center3 in jupiter represent examples of what remains missing in 
+the national immigration discussion: integrative policies to provide a physical location and 
+institutional mechanism at the local level where fears about immigrants can be overcome 
+so that the two-way process4 of immigrant integration can begin to take place.  
+
+new destinations and fears about new immigrants
+over the past 20 years, latino immigrants have increasingly settled and found work in 
+what immigration scholars now call new destinations. these are places that, unlike the 
+traditional immigrant gateway cities of los angeles, chicago and new york, have had 
+little previous experience with immigrants. the southeast and the midwest experienced 
+economic and population changes that attracted latinos to work in construction, landscaping 
+and other service industry jobs as well as in meat-packing, poultry and textile plants. new 
+destination cities in areas characterized by a binary racial divide like atlanta, charlotte 
+and even post-katrina new orleans have seen their latino populations grow significantly 
+since  the  mid-1990s  (zuiga  and  hernandez-leon  2006; terrazas  2011;  massey  2008; 
+marquardt et al. 2011). for example, the latino population of franklin county, alabama 
+grew by 2,193 percent, between 1990 and 2000. like other new destinations, franklin 
+county continues to be primarily white (92 percent as of the 2010 census) and the influx 
+of latinos is very noticeable to established residents.5
+day laborers are one of the most visible and vulnerable manifestations of the presence of 
+
+3   the story of the founding of el sol is detailed in against the tide. portions of this article are redacted from 
+the book, but the entire story of the centers founding and its operations are not included in this brief article.   
+4   a two-way process of immigrant integration does not mean that the receiving society must fundamentally 
+change itself in order to accommodate the needs and wants of immigrants; rather it means that host societies 
+should  be  open  and  provide  equal  opportunities  for  newcomers.  for  example,  it  does  not  mean  that  the 
+native-born in the united states must learn spanish to accommodate latino immigrants; rather, it means 
+that latino immigrants must learn english and the native-born should make opportunities and resources 
+for learning english available to newcomers.  in a report submitted to the office of refugee resettlement 
+(orr)  of  the  us  department  of  health  and  human  services,  the  orr-convened  integration  working 
+group defined integration as a dynamic, multidirectional process in which newcomers and the receiving 
+communities intentionally work together, based on a shared commitment to tolerance and justice, to create 
+a secure, welcoming, vibrant, and cohesive society (brown et al. 2007). see also communication from the 
+commission to the council 2003.  
+5   between 1990 and 2010, the seven states which experienced the highest rate of growth of the unauthorized 
+population (a combined 14-fold increase) were all in the southeast: alabama, south carolina, north carolina, 
+tennessee, arkansas, kentucky and georgia (warren and warren 2013). 
+
+3
+
+facing immigration fearslatino immigrants in new destinations. day laborers are usually young, foreign-born men 
+who gather at a hiring site and wait for potential employers (mostly homeowners) to pick 
+them up for temporary work assignments (valenzuela et al. 2006). such informal hiring 
+sites frequently form outside home-improvement stores or along streets near residential 
+neighborhoods, generating complaints about loitering, litter, and other health and human 
+safety issues (valenzuela et al. 2006; valenzuela 2007). this combination of factors has 
+made day laborers and hiring sites the locus of much of the conflict in new destination 
+communities.
+the presence of latino immigrant day laborers ignites fears about immigration held by 
+residents in new destinations and across the country (chavez 2008). polls in popular news 
+organizations consistently show that the most common fears about immigration are that 
+immigrants  overburden  government  and  social  services,  take  jobs  away  from  citizens, 
+increase crime, pose a national security threat, and have the potential to change the culture 
+of the united states (fox news/opinion dynamics poll 2010). when popularized by the 
+media and exploited by politicians, fear has important policy impacts. in new destinations, 
+the high visibility of day laborers makes these fears all the more palpable and local elected 
+officials are frequently urged by frightened constituents to clean up the streets. 
+over the past ten years, many local governments have responded by enacting ordinances 
+intended  to  make  everyday  life  difficult  for  immigrants,  hoping  that  they  will  self-
+deport. to a significant degree, these local ordinances are symbolic measures taken by 
+local politicians, often with consultation or direct assistance from national restrictionist 
+organizations such as the federation for american immigration reform (fair),  intended 
+to send a message both to constituents (that something is being done) and to washington 
+(that  something  should  be  done)  about  immigration.  hazleton  (pennsylvania),  prince 
+william  county  (virginia)  and  riverside  (new  jersey)  are  examples  of  the  dozens  of 
+communities that have passed local immigration enforcement legislation in recent years.  
+in  2012  alone,  localities  in  44  states  and  puerto  rico  enacted  267  immigration-related 
+laws and resolutions, which is a decrease from the 306 laws and resolutions enacted the 
+previous year (national council of state legislatures 2012). 
+during this same time period, some communities have gone against the anti-immigrant 
+tide and instead adopted more integrative policies (varsanyi 2010, 3). jupiter, florida, is 
+one such community where local government partnered with civil society organizations to 
+open a resource center where day laborers could wait for work (thus effectively answering 
+the calls to remove the day laborers from the streets) and also access educational and social 
+services that facilitate the two-way process of immigrant integration. 
+
+the opening of jupiters el sol resource center
+jupiter is a wealthy community 90 miles north of miami. like other small, new destination 
+communities  throughout  the  southeast,  jupiter  experienced  significant  economic  and 
+population growth in the late 1900s and the 2000s that was correlated with an influx of 
+immigrants from central america and mexico. the 1990 census put jupiters population 
+at 24,986, of which less than 3 percent was hispanic. by the 2000 census the population had 
+grown to 39,328, with a hispanic population of 7 percent. the 2010 census put jupiters 
+population at just over 55,000 residents, almost 13 percent of whom were hispanic. this 
+
+4
+
+journal on migration and human securityrapid growth was fueled by the development of a number of planned communities, creating 
+an  increased  demand  for  construction  workers,  landscapers  and  other  service  industry 
+labor. soon after immigrants arrived in jupiter, an open-air labor market formed in front 
+of apartment complexes in an immigrant neighborhood. by 2001, town authorities and the 
+local police began fielding complaints from neighbors about noise, traffic, litter, and other 
+health, human safety, and quality of life concerns related to day labor. 
+from  2001  until  2006,  the  issues  of  immigration  and  day  labor  became  intertwined  in 
+jupiter.  the  first  step  toward  opening  a  day  labor  center  was  taken  by  immigrants 
+themselves.  immigrant  leaders  initially  mobilized  around  cultural  issues,  collaborating 
+with  the  university  to  celebrate  the  fiesta  de  candelaria,  the  most  important  festival 
+from the primary migrant-sending region of huehuetenango, guatemala. the process of 
+organizing the fiesta in 2001 initiated the revitalization of a migrant hometown association 
+that would eventually become the non-profit organization corn-maya, inc. corn-maya, in 
+turn, opened a pilot day labor initiative in a small storefront, housing many of the programs 
+and services that would eventually become central to el sol.
+in the creation of a center, the immigrant community did not mobilize in isolation. it sought 
+and found connections with non-immigrant jupiter residents and community groups. a 
+coalition  of  immigrants,  community  residents,  the  local  catholic  church,  and  students 
+and professors from florida atlantic university formed and lobbied for the creation of 
+a  center  to  address  the  local  quality  of  life  issues  raised  by  the  open-air  labor  market. 
+these educational and religious institutions became crucial bridges for the community, 
+providing resources and garnering support from students, residents, and parishioners. the 
+university contributed faculty with technical and language skills who served as liaisons 
+with  the  immigrant  community. the  st.  peter  catholic  church  began  offering  spanish 
+language  masses  and  brought  in  a  spanish-speaking  priest  and  nuns  who  played  key 
+roles  in  building  trust  in  the  community.  representatives  of  jupiters  democratic  club 
+served as key organizers, forming a coalition, friends of el sol, that conducted research, 
+strategized, and informed local government representatives about the labor center model. 
+as father don finney, the priest who formed part of the coalition explained, it is almost 
+like a case study in strategic alliances. if the church tried to do this alone, it wouldnt work. 
+if corn maya tried to do this alone, it wouldnt work. if the town tried to do it alone, it 
+wouldnt work. it had to have all the players there, each bringing their piece of the puzzle.
+opponents  also  mobilized  in  jupiter.  in  2004  representatives  of  fair  met  with  center 
+opponents and provided them with talking points for letters and statements to the town 
+council advocating a restrictionist local approach. ultimately, however, the town council 
+voted  in  favor  of  a  center  in  2005.  when  catholic  charities  stepped  up  and  pledged 
+financial support for the first year of the center, the stage was set for an alternative policy. 
+in contrast, in july 2006, as jupiter was preparing to open el sol, many communities were 
+continuing on the restrictive route. hazleton, pa enacted the illegal immigration reform 
+act ordinance. following hazletons lead, riverside, nj passed a similar ordinance aimed 
+at unauthorized workers. one year later, in july 2007, prince william county, va adopted 
+similar measures.  in all three cases, the results compare unfavorably with even the short-
+term outcomes in jupiter.
+
+5
+
+facing immigration fearsan expensive response to fear
+the hazleton illegal immigration relief act ordinance is one of several anti-immigration 
+pieces of legislation that have been enacted at the local level (campbell 2007; mckanders 
+2009) largely in response to the perceived threat of latino immigrants. in 2006, while 
+preparing  to  enact  hazletons  local  policy,  then-mayor  lou  barletta  explicitly  outlined 
+that fear was a primary impetus behind the restrictive ordinance. in a speech aired on cbs, 
+barletta said, thats why i took action. i saw my city gripped by fear. because of violent 
+acts committed by illegal aliens, my residents were afraid to shopor even driveon 
+certain streets. 
+the  hazleton  illegal  immigration  relief act  ordinance  reflects  and  reaffirms  common 
+fears about the unauthorized. in order to free residents of hazleton of the debilitating 
+effects on their economic and social well-being imposed by the influx of illegal aliens, 
+the city instituted fines of one hundred dollars a day for landlords who rented property to 
+individuals who could not produce social security cards or other forms of identification 
+to corroborate their immigration status. businesses risked losing their local commercial 
+licenses if they hired an unauthorized worker, and were also charged with checking the 
+immigration status of all subcontractors. the ordinance also required that all government 
+business be conducted in english (hazleton ordinance 2006-18 illegal immigration relief 
+act ordinance). 
+soon after enacting the original versions of the immigration-related ordinance, and under 
+pressure from several groups questioning the constitutionality of the new laws, hazleton 
+began scaling back. the scaled-back versions of the ordinance were still discriminatory, 
+however, and lawsuits soon followed. the hazleton ordinance was successfully challenged 
+in court at the district and appellate levels and never went fully into effect. estimates of 
+the amount of money that hazleton has already spent and will continue to spend defending 
+what is left of the ordinance in court range from $2.8 to $5 million (martinez 2011, 4).
+like the hazleton illegal immigration act ordinance, the illegal immigration relief act in 
+riverside, new jersey, explicitly cites the same fears about immigrants, stating that, 
+
+illegal  immigration  contributes  to  negative  impacts  on  our  streets  and  housing, 
+negatively impacts our neighborhoods, subjects our classrooms to overcrowding and 
+puts distend [sic] demands on our schools edging our schools to fiscal hardships, leads 
+to higher crime rates, adds demands on all aspects of public safety jeopardizing the 
+public safety of legal residents and diminishes our overall quality of life. (riverside 
+ordinance 2006-16 illegal immigration relief act) 
+
+the  riverside  ordinance  included  fines  of  between  one  and  two  thousand  dollars  for 
+landlords harboring illegal aliens, revocation of licenses for businesses that were found 
+employing unauthorized workers, and even potential jail sentences. riversides ordinance 
+went even further, stating that any business in the united states (not just in riverside) that 
+aided and abetted the unauthorized was to be subject to penalties.
+as  in  hazleton,  riversides  ordinance  proved  costly.  riverside  faced  legal  challenges 
+almost immediately after passing its immigration ordinance. within a year it rescinded the 
+ordinance, but by then the small town of less than ten thousand residents had already spent 
+
+6
+
+journal on migration and human securitymore than eighty thousand dollars in legal fees. the cost to riverside went well beyond the 
+legal fees. the riverside coalition of business owners and landlords estimates that 75 
+percent of the immigrant population left the town and 45 percent of local businesses closed 
+as a consequence (martinez 2011, 16-17).
+virginias prince william county enacted a similar ordinance, but had to scale it back 
+significantly  after  facing  threats  of  legal  action  and  opposition  from  within,  especially 
+from its own police chief. eventually the county signed a memorandum of agreement to 
+participate in the secure communities program, which in practice is very similar to the 
+countys scaled-back resolution and makes it essentially redundant. nonetheless, prince 
+william  county  spent  $1.3  million  in  start-up  costs  and  continues  to  spend  $700,000 
+annually to maintain a police unit specializing in criminal aliens (martinez 2011, 18).  
+a  report  evaluating  the  outcomes  of  the  ordinance  commissioned  by  the  county  found 
+that the policy had seriously disrupted police-community relations in the county, at least 
+temporarily (guterbock et al. 2010). the report went on to note that the ordinance had 
+resulted in a significant negative impact on latinos trust in county government, desire to 
+live in, and perception of, life in the county. among its conclusions, the report stated that 
+the policy created fear and a sense of being unwelcome among immigrants in general 
+(xvii).
+
+a practical and affordable model
+jupiter, florida has gone against the anti-immigrant tide that swept over hazleton, riverside, 
+prince william county, and many other communities around the country. jupiter did not 
+attempt to use local policy to make symbolic statements about national immigration policy. 
+jupiter is not a sanctuary city,6 as anti-immigration groups (such as fair) are apt to 
+claim. the police in jupiter collaborate with immigration authorities when asked, and there 
+are no local ordinances prohibiting the jupiter police from asking anyone about his or her 
+immigration status. jupiter has not had to spend millions of dollars defending itself against 
+lawsuits  for  implementing  unconstitutional  anti-immigrant  ordinances.    instead,  jupiter 
+opted to allow a coalition of immigrants, local residents, students, and town representatives 
+to come together to mediate community tensions by moving the informal labor market 
+and associated problems to an organized structure. the el sol neighborhood resource 
+center costs jupiter taxpayers almost nothing and returns an estimated one million dollars 
+in services annually to the local community (el sol 2011 annual report).7  
+el  sol  provides  a  critical  bridge  between  the  immigrant  and  native  populations  of  the 
+town. within a few years, the town not only found a positive solution to the very real 
+
+6    sanctuary  cities  usually  prohibit  the  use  of  municipal  funds  and  resources  to  assist  ice. they  also 
+do  not  collect  or  share  information  related  to  residents  immigration  status.  san  francisco  is  one  such 
+sanctuary city as per ord. 375-89, app. 10/24/89. http://www.sfcityattorney.org/modules/showdocument.
+aspx?documentid=485. the term sanctuary city, however, is frequently used by anti-immigrant groups to 
+express their contempt at cities that are not in fact sanctuaries, but rather have community policing policies 
+(tramonte 2012).   
+7    el  sol  operates  with  an  annual  budget  of  approximately  $300,000,  all  of  which  comes  from  private 
+donations and grants. the town of jupiter contributes by renting out the building where el sol operates for 
+a symbolic amount of $1 per year. in 2012 el sol contributed services with an estimated value of $1,306,000 
+to the community. 
+
+7
+
+facing immigration fearsneighborhood and quality of life problems that many new destinations face, but also began 
+to lay the groundwork for a long-term process of immigrant integration. the primary goal 
+when it opened in 2006 was to get day laborers off the street. in this respect, the center 
+succeeded and has grown beyond the expectations of its founders and supporters. 
+today, el sol is an established social service agency that enjoys widespread support among 
+jupiter residents, local media, and politicians (lazo de la vega and steigenga 2013). open 
+seven days a week, el sols mission is framed in terms of improving the quality of life 
+for all of jupiters residents. el sol pursues this mission by organizing and supervising 
+the day labor market in a controlled and sanitary atmosphere, educating day laborers and 
+contractors about their rights and responsibilities, assisting immigrants to become an active 
+and integrated part of the larger community, building bridges between jupiters different 
+ethnic, cultural, and religious groups, and providing occupational training, language and 
+literacy instruction, counseling, health education, and legal and other services to individuals 
+in need. el sol provides both a critical set of services for immigrants and a way for local 
+residents who volunteer at the center to conceive of immigration in more human terms. 
+since el sol was founded in 2006, three other labor centers have opened in south florida 
+based on the el sol model. although one of those centers recently closed (in lake worth), 
+el sol continues to receive requests from other localities about its practices and programs. 
+the center is now a fixture in the jupiter community. 
+
+alternative responses to fear
+the  el  sol  center  provides  an  alternative  model  for  local  policy  makers  who  seek  to 
+respond to the fears and concerns that an influx of latino immigrants generates in new 
+destinations. one specific fear about latino immigrants is that they are not assimilating 
+properly and in particular not learning english quickly enough. a group of protesters who 
+gathered each saturday outside el sol during its first years of operation frequently held 
+up signs demanding that immigrants learn english and decrying the need to press 2 for 
+english. ironically, while they were demanding that el sol shut down, they ignored the 
+fact that every year hundreds of people learn english at el sol. 
+there are three english programs at el sol, and in 2010 almost three hundred students 
+increased one level in their english proficiency. el sols clients are eager to learn english; 
+in a 2011 survey, 80 percent stated that classes should be mandatory, 84 percent noted that 
+participating in the english classes at el sol has made their lives in jupiter easier, and 
+80 percent felt that their improved english has also improved their job prospects. these 
+figures reflect studies showing that todays immigrants are learning english at a rate faster 
+than in previous generations (jimenez 2011; fischer and hout 2006, 43). 
+access to medical care and other social services remains one of the most salient immigration-
+related issues for the american electorate and lawmakers. one of the sticking points in the 
+debate over immigration reform has been whether immigrants will receive benefits under the 
+affordable care act. across the united states, the majority of the unauthorized immigrant 
+population is uninsured and lacks sufficient access to preventive care. in jupiter, el sol has 
+a health committee, which addresses many of these needs by providing early screenings, 
+preventive care, health referrals, and health education. in 2012, el sol partnered with the 
+health department and a local hospital to open a joint volunteer clinic. in its first year 
+
+8
+
+journal on migration and human securityof operation the clinic served over 500 low-income, uninsured patients. el sols health 
+program also referred over 700 clients to other local health service providers in 2012 and 
+held more than 40 workshops on topics ranging from cancer prevention to mental health, 
+nutrition and womens health. while el sol is not in a position to provide health insurance 
+to the client population it serves, it is on the front lines of preventive health services and 
+thus reduces costs to local emergency rooms by preventing or avoiding unnecessary visits 
+and referring clients to available health services. 
+another popular charge against immigrants is that they drive down wages and make it 
+impossible for the american worker to compete. the biggest protest in opposition to el 
+sol was the 2009 save the american worker rally, during which protesters argued that  
+el sol was undermining the ability of american citizens to get jobs. it is hard to dispute that 
+in open-air day labor sites where work is often scarce, immigrants may accept extremely 
+low wages in order to secure a days work. a nationwide study found that on average day 
+laborers earn less than fifteen thousand dollars annually, putting them below the poverty 
+line (valenzuela et al. 2006, 12). the same study found that 49 percent of day laborers 
+had been denied payment for work they had already completed and 48 percent had been 
+underpaid. 
+while  el  sol  does  not  directly  negotiate  wages  with  employers,  the  simple  fact  that 
+employers have to register at the center encourages higher wages and deters wage theft. 
+workers  at  el  sol  also  have  access  to  legal  assistance  in  cases  of  wage  disputes  with 
+employers. in 2012, el sols legal program assisted individuals in 372 cases, 45 of which 
+were related to work and wages (though none of the wage disputes arose from workers who 
+were matched with employers via el sol). furthermore, the fact that the hiring process is 
+ordered and managed by el sol discourages the race to the lowest possible wage among 
+workers common to open-air hiring sites. although the center does not formally set wages, 
+the workers council and volunteers suggest fair wage rates for employers and employees 
+based on the number of hours to be worked and prevailing local wages for landscaping, 
+moving,  painting,  and  other  temporary  employment  opportunities  that  characterize  the 
+majority  of  job  requests  at  el  sol.  in  a  2011  survey  of  el  sol  clients,  91.6  percent  of 
+workers who got a job through el sol reported feeling safer and better paid than if they 
+had gotten a job on the street.  thus, moving workers from the street to el sol has likely 
+increased local wage rates rather than driven down wages in the day labor market. 
+a related concern with immigrant labor is the fact that unauthorized immigrants are often 
+subject to abuse and mistreatment, which is not only a problem for them, but also lowers 
+standards for other workers. in other words, employers who do not wish to uphold basic 
+labor standards prefer to hire immigrant workers who they believe are less willing or able 
+to  file  complaints.  immigrant  workers,  and  especially  day  laborers,  are  indeed  subject 
+to several forms of abuse above and beyond wage theft. a study of day laborers found 
+rampant abuse: 44 percent of day laborers had been denied food, water, and breaks by 
+their employers; 32 percent had worked more hours than agreed to with the employer; 28 
+percent had been threatened or insulted by the employer; 27 percent had been abandoned at  
+the work site by an employer; and 18 percent had been subject to violence by their employer 
+(valenzuela  et  al.  2006,  14).  the  anonymity  that  the  informal  labor  market  provides 
+employers facilitates these abuses. such anonymity is eliminated by el sol. employers 
+
+9
+
+facing immigration fearsmust register, and they are therefore more likely to uphold basic labor standards. the day 
+labor market may continue to be relatively unregulated, but el sol provides workers with 
+access to resources through which they can report abuses, and in most cases this knowledge 
+is sufficient to curb mistreatment on the part of employers. 
+despite  abundant  evidence  to  the  contrary,  the american  public  continues  to  associate 
+immigration with crime.8 the mere presence of unauthorized immigrants in the united 
+states serves for many as evidence of a general disregard for american laws, and thus the 
+cognitive leap from illegal immigrant to criminal becomes an easy one to make. the 
+perception of high immigrant involvement in gangs, drugs, and other criminal activity is 
+prevalent in media portrayals of immigration (media matters 2008) and often at the root 
+of the fear that divides communities. in fact, unauthorized immigrants who are afraid of 
+contact with the police are often the victims of crimes which they are unlikely to report (see 
+marquardt et al. 2011, 136-138). day laborers are especially susceptible to crime because 
+they are paid in cash and are unlikely to have bank accounts. el sols financial literacy 
+programs address this issue by encouraging workers to open and use bank accounts. 
+more  important,  el  sol  has  become  a  trusted  community  institution  where  immigrants 
+can feel safe talking to the police and other authorities to report crimes, thus making it 
+more likely that criminals will be caught and removed from the jupiter community. in 
+combination with more aggressive code enforcement and community policing, the jupiter 
+police  department  has  had  significant  success  in  removing  criminal  elements  from  the 
+community. throughout the year the police make several presentations at el sol, ranging 
+from  practical  issues  such  as  bike  safety  to  warnings  about  unscrupulous  notaries  or 
+other criminals. according to the 2010 uniform crime report of the federal bureau of 
+investigation (fbi), the number of violent crimes reported in jupiter dropped by a third 
+since el sol opened in 2006. furthermore, el sol is a physical manifestation of the growing 
+trust in the community. the latest (2011) town of jupiter citizen survey asked residents to 
+rate the sense of community: 78 percent of respondents said that the sense of community 
+in jupiter was good or excellent, and 74 percent said that jupiter was open and accepting 
+towards people of diverse backgroundsscores significantly higher than state and national 
+averages on these measures (jupiter citizen survey 2011, 35). 
+the improved relationship between the police department and the immigrant community 
+brokered by el sol is a great benefit, but el sol does much more to make jupiter a safer 
+place  to  live. as  of  march  2011  more  than  2,000  people  were  registered  at  the  center. 
+each  member  has  picture  identification  with  personal  information,  address,  nationality, 
+and other data on the card. el sol identification cards are recognized by the local library 
+and other public and private organizations in the area. information about each members 
+job skills, positions worked, and employer feedback is also stored in the centers database. 
+el sols clients are no longer living in the shadows. immigrants who live in jupiter feel 
+safe providing their personal information to el sol. the logical result is that it would be 
+more difficult for someone looking to hide in the shadows to do so in jupiter. because 
+workers must register at el sol, criminal aliens would be deterred from seeking work in 
+jupiter. furthermore, because  immigrants now have a more open and trusting relationship 
+
+8   a variety of studies have debunked the popular belief that criminality is more common among the foreign-
+born. for examples, see sampson 2008; rumbaut and ewing 2007. 
+
+10
+
+journal on migration and human securitywith local authorities, the immigrant community itself is more likely to report the presence 
+of such individuals in its midst.
+while jupiter is not a sanctuary city and does not issue its own identification cards, the town 
+is not alone in pursuing positive, practical responses to managing the problems generated 
+by antiquated and inadequate national immigration policies. more than sixty cities around 
+the country have issued local limited cooperation ordinances between local police and 
+immigration  authorities  in  non-felony  crimes  (varsanyi  2010,  3).  more  than  a  hundred 
+other  communities  around  the  country  have  opened  day  labor  hiring  sites,  such  as  the 
+one in jupiter, florida (fine 2006, 3).  as the tide of restrictive state and local legislation 
+begins to ebb, it is possible that more inclusionary alternatives will find space to grow.  
+although each local community struggling with day labor and other immigration-related 
+issues is different, many of the lessons from the jupiter experience are applicable to other 
+communities. 
+
+reframing immigration
+in essence, el sols success in jupiter is about the practical management of real problems 
+and the human interactions that take place on a day-to-day basis between immigrants and 
+the native-born to address those problems. board members, volunteers, and staff at el sol 
+do not speak with one voice on immigration policy, but they do share an understanding of 
+the human dimensions of the issue and an appreciation for the complexities of immigration 
+and the immigration debate.  el sols volunteers, staff, and community supporters come 
+face-to-face with the daunting hurdles confronted by unauthorized immigrants in their daily 
+lives. one day it is a mother who arrives at the center in tears because she has been stopped 
+for driving without a license while taking her children to school and fears picking them up 
+because she will have to pass the same officer stationed outside the school. the next day it 
+is a young man asking for help translating court documents related to his immigration case. 
+no matter the issue, volunteers, employees, and the workers themselves are constantly 
+confronted  with  the  reality  of  the  impediments  that  being  unauthorized  places  on  the 
+process of integrating into society.
+in 2012, el sol brought workers and employers together with 140 active volunteers who 
+served in the kitchen, employer desk, english and literacy classes. in this sense, el sol serves 
+as a bridge across the social distance that otherwise separates immigrants from the native-
+born in jupiter. because jupiter attracts many retirees, el sols volunteer corps reflects 
+a broad spectrum of human capital from the local community, including volunteers with 
+experience in hospitals, schools, universities, churches, and other non-profit organizations. 
+more than 60 percent of el sols volunteers are over the age of 60 and almost 10 percent 
+are local students. on the other hand, the average el sol worker is 40 years-of-age and 
+has very little education: 60 percent of el sol users have only completed primary school.  
+nowhere else in jupiter do these vastly different groups come together so frequently to 
+work collaboratively on common goals.
+some of the most successful stories at el sol are those of clients who have transitioned 
+to  become  volunteers.  ulysses  is  a  young  man  who  was  seventeen  when  he  arrived  at  
+el sol for the first time. though he did not find work at first, he attended english classes 
+
+11
+
+facing immigration fearsand forged a lasting bond with one of el sols key volunteers. with the assistance of the 
+volunteer, ulysses was able to learn english, complete his high school education and has 
+started taking college courses. today, ulysses teaches his own english classes at el sol. 
+as ulysses explains: 
+
+my life would be completely different without el sol. i am a volunteer now at el 
+sol, i have made that transition. i went from user to user and volunteer. i love it so 
+much. later i started teaching the beginning english class. the first day i remember 
+i got there very early, with all my things. i was well-prepared. the students started 
+coming in. when everyone was already there, i wrote my name on the board. i saw 
+the expression on their faces: what is this guy doing there? they were probably 
+expecting some blond guy with light eyes, so they were surprised when i told them i 
+was going to be the instructor. little by little i earned their trust. the class was great. 
+i had nine students. i remembered when i was in the same classroom as a student, and 
+now i was a teacher. 
+
+el sol cannot issue florida drivers licenses or change immigration laws, but it can and does 
+assist immigrants as they negotiate the many barriers to integration in a new destination 
+such as jupiter. the family literacy program helps mothers to negotiate the complicated 
+bureaucracy of the palm beach county school system. access to public services, the library 
+and the banking system for new immigrants opens pathways for language and financial 
+literacy.  civics  training  and  code  compliance  education  not  only  help  new  immigrants 
+to avoid code violations but also help them to become more engaged residents of jupiter. 
+opportunities for service in community cleanups and property restoration through el sol 
+provide an increased sense of ownership and belonging in the community.9 through el 
+sol, the towns new immigrants are beginning to feel that they belong in jupiter and jupiter 
+belongs to them. this provides an opportunity for jupiter to evolve as a single and more 
+unified community, rather than a community divided by fear and mistrust. no matter the 
+outcome of immigration reform proposals at the national level, jupiter will be in a better 
+position to positively integrate its immigrant community than localities that have chosen  
+a punitive route.
+moreover, the enforcement-only approach of hazleton and similar communities does not 
+move the immigration debate in any direction. the costly and symbolic ordinances adopted 
+in hazleton and elsewhere may deflect immigrants to other areas, but they are unlikely to 
+cause them to leave the country. given the sacrifices immigrants have made to get to the 
+united states, and the fact that many unauthorized families are rooted in the united states 
+via children or family members who are citizens, many are here to stay. those who stay 
+may carry a distinct sense of alienation and rejection. the process of integration for these 
+immigrants will be slow and difficult. if we conceive of the united states as an efficient 
+immigrant integration machine, the punitive local enforcement initiatives witnessed around 
+the country are rapidly draining the oil that lubricates the moving parts. the country will be 
+left to deal with the consequences of a persistent and potentially oppositional and racially-
+defined underclass. jupiters experience with el sol shows the viability of practical local 
+solutions that effectively address real problems, reduce fear and alienation, and have the 
+
+9   more detailed information about el sols multiple programs, including its community service projects are 
+available online at el sols website at http://friendsofelsol.org/?page_id=50 .
+
+12
+
+journal on migration and human securitypotential to move the national immigration debate forward in a productive way. 
+first,  el  sol  is  a  logical  answer  to  the  many  real  tensions  that  arise  in  communities 
+undergoing rapid socio-demographic and economic change. el sol has improved the quality 
+of life in the neighborhoods where tensions began. today, hundreds of day laborers no 
+longer line center street and complaints about public nuisances, littering, overcrowding, 
+and code violations have all decreased. from the perspective of town authorities, el sol 
+has exceeded expectations in terms of overcoming the practical quality of life issues it was 
+created, in part, to address. jupiters town manager andy lukasik explains: 
+
+the issue for us was quality of life and making sure that we addressed everybodys 
+needs  and  still  have  the  appropriate  respect  for  people  as  human  beings.  it  was  a 
+difficult balance for people. i never claimed to want to solve immigration. it is not our 
+issue to solve.
+
+father don finney also highlights the quality of life issues. as he put it: 
+
+it cleaned up the look on center street. they put [up] the nice lamp posts and everything 
+so  that  when  you  drive  through  it  looks  better.  i  think  everyone  in  jupiter  takes  a 
+certain pride. . . . this is a pretty place. it is a nice place to live, and it has that nice 
+quality. the schools are good. this is a nice place. maybe even if you werent sold on 
+el sol at the beginning, you will still like that it has solved the neighborhood problem 
+of people standing around making it look bad.
+
+although the town has a no-solicitation ordinance on the books, the transition to el sol 
+has been so effective that to this day the ordinance has never been actively enforced by the 
+police department. 
+second, el sol brings immigrants and the native-born together in a way that reduces the 
+set of generalized fears that stymie productive discussions about immigration. as jupiter 
+residents come to better understand the forces propelling immigration, the challenges faced 
+by immigrants, and the contributions they make to the community, many of those fears 
+dissipate as the human face of immigration begins to emerge. 
+finally, the process of reducing fears and bridging differences takes place in two directions, 
+as immigrants also begin to feel more welcome and they make personal connections with 
+volunteers, employers, and neighbors in an environment that was previously closed and 
+even hostile. ulyses, the young man who transitioned from being a client to a volunteer at 
+el sol, explains his experience:
+
+i feel so safe at el sol, 100 percent. i feel welcome at el sol. i feel welcome in jupiter 
+because of el sol. beyond the work the volunteers do . . . the town was also supportive. 
+in the building of el sol, inside, i feel like i am at home. i know so many people there 
+. . . [and] the volunteers are my good friends. i say hi, we hug; it is a great family. i am 
+very comfortable there.
+
+conclusion
+comprehensive  immigration  reform  remains  a  moving  target.  during  the  spring  of 
+
+13
+
+facing immigration fears2013,  the  target  began  moving  with  exceptional  speed.  the  senate  and  president  laid 
+out their ideas for comprehensive immigration reform that included a path to what both 
+called earned citizenship for unauthorized immigrants. the proposals currently being 
+discussed involve several steps to earned citizenship. at minimum, potential beneficiaries 
+of comprehensive immigration reform will have to show evidence that they have learned 
+english, determine how much in taxes they should pay on past income, and clear a number 
+of other administrative requirements. while immigrants in traditional gateway cities will 
+have access to well-established networks of support and advocacy organizations to facilitate 
+these processes, immigrants in new destinations, particularly in those localities that have 
+passed restrictive legislation to isolate immigrants and pressure them to leave, will find the 
+process onerous. immigrants in jupiter, however, already have a place where they have 
+been taking english classes, have established trust, can ask questions and get appropriate 
+help with navigating the system. in jupiter, immigrants have a logical place where they can 
+begin to emerge from the shadows, but the administrative process is just the beginning. 
+in the presidents january 2013 speech at del sol high school in las vegas, he hinted at 
+the work yet to be done: 
+
+but i promise you this: the closer we get [to comprehensive immigration reform], 
+the more emotional this debate is going to become. immigration has always been an 
+issue that enflames passions.  thats not surprising. there are few things that are more 
+important to us as a society than who gets to come here and call our country home; 
+who gets the privilege of becoming a citizen of the united states of america.  thats a 
+big deal. when we talk about that in the abstract, its easy sometimes for the discussion 
+to take on a feeling of us versus them.  and when that happens, a lot of folks forget 
+that most of us used to be them. we forget that.  
+
+at el sol, the discussion about who is included as a member of our society is much less 
+abstract. every year hundreds of native-born residents of jupiter share their lives directly 
+with  jupiters  immigrants.  the  exchange  between  them  challenges  the  more  abstract 
+rhetorical exchange outlined by the president. in jupiter, some residents have started the 
+process of remembering when they used to be them, and more importantly, they have 
+engaged in the process of negotiating a wider definition for us.
+
+references
+brown, gerald, peggy gilbert, jan losby, et al. 2007. report of the integration working 
+group.  institute  for  social  and  economic  development.  http://ised-sow3.org.
+s56263.gridserver.com/sites/default/files/report%20of%20the%20iwg.pdf .
+
+campbell, kristina m. 2007.local illegal immigration relief act ordinances: a legal, 
+policy, and litigation analysis. denver university law review 84(4): 1041-1060.
+chavez,  leo  r.  2008.  the  latino  threat:  constructing  immigrants,  citizens,  and  the 
+
+nation. stanford, ca: stanford university press.
+
+14
+
+journal on migration and human securitycommunication from the commission to the council, the european parliament, the european 
+economic and social committee and the committee of the regions on immigration, 
+integration and employment. 2003. (com (2003) 336). brussels. http://eur-lex.
+europa.eu/lexuriserv/lexuriserv.do?uri=com:2003:0336:fin:en:pdf
+
+el  sol,  jupiters  neighborhood  resource  center.  2011.  2011 annual  report.  jupiter, 
+florida. http://friendsofelsol.org/wp-content/uploads/2011/12/q-iv-final-2011.
+pdf
+
+fine, janice. 2006. worker centers: organizing communities at the edge of the dream. 
+
+ithaca and london: ilr press. 
+
+fischer, claude s., and michael hout. 2006. century of difference: how america changed 
+
+in the last one hundred years. new york, ny: russel sage foundation.
+
+fox news/opinion dynamics poll. 2010. which one of the following is your biggest 
+concern  when  you  think  about  illegal  immigration?  http://www.pollingreport.
+com/immigration.htm. 
+
+guterbock, thomas, christopher koper, milton vickerman, bruce taylor, karen walker 
+and timothy carter. 2010. evaluation study of prince william countys illegal 
+immigration  enforcement  policy:  final  report  2010.  prince  william  county, 
+va:  center  for  survey  research  at  the  university  of  virginia  and  police  
+executive  research  forum.  http://www.coopercenter.org/sites/default/files/csr/
+final_report_consolidated_final.to%20printer.v2%2011.18.10s.pdf 
+
+hazleton ordinance 2006-18 illegal immigration relief act ordinance. official website 
+of  the  city  of  hazleton.  http://www.hazletoncity.org/090806/2006-18%20_
+illegal%20alien%20immigration%20relief%20act.pdf. 
+
+hoffmaster, debra a., gerard murphy, shannon mcfadden, and molly griswold. 2010. 
+police and immigration: how chiefs are leading their communities through 
+the challenges. washington, dc: police executive research forum.
+
+jimnez, toms r. 2011. immigrants in the united states: how well are they integrating 
+
+into society? washington, dc: migration policy institute.
+
+lopez, mark hugo and paul taylor. 2012. latino voters in the 2012 election. washington 
+dc:  pew  hispanic  center.  http://www.pewhispanic.org/files/2012/11/2012_
+latino_vote_exit_poll_analysis_final_11-09.pdf 
+
+marquardt, marie f., timothy j. steigenga, phillip j. williams, and manuel a. vsquez. 
+2011.  living  illegal:  the  human  face  of  unauthorized  immigration.  new 
+york, ny: new press.
+
+martinez, gebe. 2011. unconstitutional and costly: the high price of local immigration 
+
+enforcement. washington, dc: center for american progress.
+
+massey, douglas s. 2008. new faces in new places: the changing geography of american 
+
+immigration. new york, ny: russell sage foundation.
+
+15
+
+facing immigration fearsmckanders  ,  karla  mari.  2007.  welcome  to  hazleton!  illegal  immigrants  beware: 
+local immigration ordinances and what the federal government must do about 
+it. loyola university chicago law journal 39(1): 1-49.
+
+media matters. 2008. fear and loathing in prime time: immigration myths and cable 
+news.  media  matters  action  network.  http://mediamattersaction.org/reports/
+fearandloathing/online_version. 
+
+national  council  of  state  legislatures.  2012.  2012  immigration-related  laws  and 
+resolutions  in  the  states.  immigration  policy  project.  http://www.ncsl.org/
+documents/statefed/2012immigrationreportjuly.pdf 
+
+riverside  ordinance  2006-16  illegal  immigration  relief act.  riverside,  n.j.: aclu 
+anti-immigrant ordinances. http://www.aclu.org/files/pdfs/immigrants/riverside_
+firstordinance.pdf. 
+
+rumbaut, ruben and walter ewing. 2007. the myth of immigrant criminality and the 
+
+paradox of assimilation. washington, dc: immigration policy center.
+
+sampson, robert. 2008. rethinking crime and immigration. contexts 7(1): 28-33.
+terrazas, aaron. 2011. immigrants in new destination states. migration information 
+source. washington, dc: migration policy institute. http://migrationinformation.
+org/usfocus/display.cfm?id=826  
+
+tramonte,  lynn.  2012.  debunking  the  myth  of  sanctuary  cities.  washington,  dc: 
+immigration  policy  center.  www.immigrationpolicy.org/sites/default/files/docs/
+community_policing_policies_protect_american_042611_update.pdf.
+
+valenzuela, abel , nik theodor, edwin melndez, and ana luz gonzalez. 2006. on the 
+corner: day labor in the united states. los angeles, ca: ucla center for the 
+study of urban poverty.
+
+valenzuela, abel. 2007. immigrant day laborers: myths and realities. nacla report 
+
+on the americas (may/june): 25-42.
+
+varsanyi, monica. 2010. taking local control: immigration policy activism in u.s. cities 
+
+and states. stanford, ca: stanford university press.
+
+warren,  robert,  and  john  r.  warren.  2013.  unauthorized  immigration  to  the  united 
+
+states. international migration review 47(2): 296-329. 
+
+waslin, michelle. 2011. the secure communities program: unanswered questions and 
+
+continuing concerns. washington, dc: immigration policy center.
+
+ziga, vctor, and rubn len. 2005. new destinations: mexican immigration in the 
+
+united states. new york, ny: russell sage foundation.
+
+16
+
+journal on migration and human security

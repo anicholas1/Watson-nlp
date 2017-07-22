@@ -1,0 +1,586 @@
+the promise of a subject-centered 
+approach to understanding 
+immigration noncompliance 
+
+emily ryo1  
+university of southern california
+
+executive summary
+unauthorized  immigrants  and  immigration  enforcement  are  once  again 
+at  the  center  of  heated  public  debates  and  reform  agendas.  this  paper 
+examines  the  importance  of  applying  a  subject-centered  approach  to 
+understanding  immigration  noncompliance  and  to  developing  effective, 
+ethical, and equitable immigration policies. in general, a subject-centered 
+approach  focuses  on  the  beliefs,  values,  and  perceptions  of  individuals 
+whose behavior the law seeks to regulate. this approach has been widely 
+used in non-immigration law contexts to produce a richer and more nuanced 
+understanding of legal noncompliance. by contrast, the subject-centered 
+approach has been an overlooked and underappreciated tool in the study 
+of immigration noncompliance. this paper argues that a subject-centered 
+understanding  of  why  people  obey  or  disobey  the  law  has  the  potential 
+to generate new insights that can advance public knowledge and inform 
+public policy on immigration in a number of important ways. specifically, 
+the paper considers how the use of this approach might help us: (1) recognize 
+the  basic  humanity  and  moral  agency  of  unauthorized  immigrants,  (2) 
+appreciate not only direct and immediate costs of immigration enforcement 
+policies, but also their indirect and long-term costs, and (3) develop new 
+and innovative strategies to achieving desired policy goals. 
+
+introduction
+across  many  areas  of  law,  researchers  have  long  accepted  the  basic  notion  that  to 
+understand why people obey or disobey the law, we ought to understand the perspectives 
+and experiences of individuals whose behavior the law seeks to regulate. this subject-
+centered approach to the study of legal noncompliance has produced a rich body of research 
+across  many  different  areas  of  law    as  wide-ranging  as  illegal  littering  (grasmick, 
+bursik, and kinsey 1991), illegal fishing (gezelius 2002), juvenile delinquency (fagan 
+and tyler 2005), neighborhood violence (kirk and papachristos 2011), and white-collar 
+crime (soltes 2016). in this paper, i suggest that a subject-centered approach is an often 
+overlooked  and  underappreciated  tool  in  the  study  of  immigration  noncompliance,  and 
+
+1   i thank rachel yang for her excellent research assistance, and greg keating, donald kerwin, and nomi 
+stolzenberg for their insightful comments. 
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 2 (2017): 285-296that this approach to understanding why people obey or disobey the law has the potential 
+to generate new insights that can advance public knowledge and inform public policy on 
+immigration in a number of important ways. to be clear, i am not suggesting that a subject-
+centered approach ought to replace other approaches to the study of legal noncompliance 
+in immigration law (or in any other area of law). rather, my argument is that in light of the 
+unique knowledge and insight that a subject-centered approach can provide, this approach 
+should be adopted more widely to complement non-subject-centered approaches.
+the remainder of this paper will develop this argument in three parts. the first part discusses 
+some of the basic features of a subject-centered approach, and key challenges to employing 
+this approach. the second part examines the application of a subject-centered approach in 
+studies of legal noncompliance in tax and criminal law, respectively, in order to illustrate 
+the versatile use of this approach across the civil-criminal law divide. my goal is to provide 
+a broad context for thinking about the utility of a subject-centered approach, and to show 
+that this approach has been used in varying ways across many different areas of law to 
+enhance public knowledge and produce policy-relevant findings. finally, i conclude by 
+outlining some of the significant benefits to using this approach to understand immigration 
+noncompliance. my discussion of these expected benefits centers around the following 
+three key points that i further elaborate in this paper.
+first, i show that a subject-centered approach can play an important role in helping us 
+to  recognize  the  basic  humanity  and  moral  agency  of  unauthorized  immigrants.  this 
+recognition, in turn, is a critical foundation for developing immigration policies that are 
+informed by international human rights norms, rather than by the immigrants-as-criminals 
+trope, which lacks empirical basis but is often used to fuel public anxiety and fear.2 second, 
+i discuss the ways in which a subject-centered approach can help us to better appreciate not 
+only direct and immediate costs of immigration enforcement policies, but also their indirect 
+and long-term costs. although these indirect and long-term costs may be more difficult to 
+measure, their potential implications for governance and system legitimacy are significant. 
+third,  i  consider  how  a  subject-centered  understanding  of  immigration  noncompliance 
+can foster new and innovative strategies to achieving desired policy goals. for example, 
+my prior study indicates that unauthorized labor migration arises not from the immigrants 
+lawlessness or disrespect for the rule of law, but from their belief that unauthorized migration 
+constitutes the only morally-acceptable response to economic exigencies that threaten their 
+ability to perform legal and honorable work in support of their families. this finding 
+would suggest that a focused developmental strategy that promotes job opportunities in 
+key sending communities is more likely to reduce noncompliance than expending the same 
+resources to produce threats of criminal punishment or to build a physical barrier along the 
+us-mexico border.
+
+i. subject-centered approach
+a subject-centered approach requires researchers to place their research subjects perceptions 
+and experiences at the center of their investigative focus and analysis. a number of scholars 
+
+2   for a summary of studies that show that popular assumptions of immigrant criminality lack empirical 
+basis, see ryo (2015).
+
+286
+
+journal on migration and human securityhave  expressly  recognized  the  importance  of  applying  subject-centered  approaches  to 
+understand  diverse  and  wide-ranging  social  phenomena.  for  example, yasemin  besen-
+cassino (2008, 352), in her study of youth labor in the united states, explains that [w]
+hile  youth  employment  has  been  studied  extensively  from  the  perspectives  of  parents, 
+educators, and policy-makers, the central actors  young people themselves  have been 
+relatively neglected and young peoples motives behind work remain virtually unexplored. 
+besen-cassino (2008, 360) argues that exploring the youths perspectives advances our 
+understanding of not only those individuals decision-making process about work, but the 
+way in which they make sense of their work and the alternative functions [that] work 
+fulfills for them. 
+likewise, min zhou and colleagues (zhou et al. 2008; see also lee and zhou 2014; zhou 
+2015) expressly acknowledge the importance of using a subject-centered approach in their 
+study of immigrant assimilation. according to zhou et al. (2008, 42), the process of social 
+mobility is complex and multifaceted and . . . mechanisms leading to divergent outcomes 
+depend largely upon how structural and cultural exigencies affect subjects and how subjects 
+respond or react to those exigencies. thus, zhou et al. (2008, 42) argue that a subject-
+centered approach that attends to immigrants perceptions, and definitions of mobility and 
+success, will enable us to better understand both the obvious and subtle reasons [why] 
+members of the second generation make certain choices and pursue particular pathways 
+to social mobility.
+while there is temptation to strictly equate subject-centered approaches with qualitative 
+methods  like  ethnography  or  open-ended  interviews,  i  suggest  that  subject-centered 
+approaches are pluralistic and often times agnostic, with respect to methodology. to be 
+sure, quantitative methods such as closed-ended surveys are less adept at capturing in depth 
+the inner world of research subjects than qualitative methods like open-ended interviews. 
+however, surveys typically enable researchers to more easily capture the perspectives of 
+a  significantly  larger  sample  of  individuals.  given  these  tradeoffs  between  quantitative 
+and qualitative methods, researchers have often deployed both types of methods, either 
+simultaneously or sequentially, to obtain a more holistic picture of the complex dynamics 
+underlying  the  social  or  legal  phenomenon  at  issue.  whatever  the  researchers  chosen 
+methodology, subject-centered approaches can present daunting challenges. for example, 
+these  approaches  often  require  time-  and  resource-intensive  field  research.  researchers 
+may encounter substantial hurdles to gaining access to subject populations of interest if 
+those  populations  are  hidden  from  public  view.  researchers  may  also  face  formidable 
+obstacles to establishing the mutual understanding and trust necessary for meaningful data 
+collection, especially if the members of the subject population occupy marginalized or 
+vulnerable positions in society.
+in  the  next  section,  i  turn  to  research  on  criminal  law  and  tax  law  to  illustrate  how 
+scholars have deployed subject-centered approaches to produce richer and more nuanced 
+understandings of legal noncompliance in those disparate areas of law. my goal is not to 
+offer a comprehensive review of the vast and growing bodies of research in these two areas 
+of law. nor do i mean to suggest that immigration noncompliance is in any way analogous 
+or similar (legally or morally) to criminal or tax noncompliance. rather, my goal is simply 
+to illustrate in relatively broad strokes the ways in which subject-centered approaches have 
+become an important device across both criminal and civil law domains. 
+
+287
+
+the promise of a subject-centered approachii. applications in criminal law and tax law
+a long line of research has focused on the question of why people obey or disobey the law 
+(see, e.g., meier and johnson 1977; grasmick and bryjak 1980; maccoun 1993; jackson 
+et al. 2012; tyler and jackson 2014). the dominant models of legal noncompliance  
+from  the  instrumental  model  to  the  procedural  justice  model    are  perceptual  models 
+at their core. these models focus on, for example, how people perceive the certainty of 
+apprehension and severity of sanctions (nagin 1998; paternoster 2010), or how people 
+perceive the legitimacy of law or legal authority regulating their conduct (tyler [1990] 
+2006;  mazerolle  et  al.  2013).3  researchers  have  responded  to  the  subjective  nature  of 
+inquiries required to test these models by collecting and analyzing a voluminous array of 
+empirical data on the legal attitudes and legal experiences of individuals subject to the law. 
+below, i highlight a few of these studies in criminal law and tax law contexts, respectively, 
+to illustrate these studies diverse range, scope, and methodology.4 
+in  criminal  law  research,  scholars  have  long  recognized  that  to  ignore  or  minimize 
+the value of [offenders] views and opinions of criminal law and policies because of 
+distrust of their honesty and motives is to risk failing to obtain invaluable information from 
+those in a position to offer unique and unanticipated insights (larson and berg 1989). 
+for example, it was only through surveying nearly 300 criminal inmates across a number 
+of  prisons  and  jails  that  david anderson  (2002)  was  able  to  demonstrate the  extent  to 
+which criminal offenders made uninformed decisions about whether to engage in criminal 
+behavior. anderson asked on the survey, when you committed this crime, how likely did 
+you think it was that you would be caught? and when you committed this crime, did you 
+know what the likely punishment would be if you were caught? andersons analysis of the 
+responses to these survey items showed that 76 percent of active criminals and 89 percent 
+of the most violent criminals in the study, respectively, had not thought about either the risk 
+of apprehension or the likely punishments at the time of their offending. 
+eugene soltes (2016) reached a similar conclusion in his study of former executives who 
+had been convicted of white-collar crimes such as insider trading, violations of financial 
+reporting requirements, and pyramid schemes. drawing on in-depth interviews with almost 
+50 former executives, soltes (2016, 5) sought to place [himself] in their positions and to 
+understand the world as they saw it. by adopting this subject-centered approach, soltes 
+was able to dispel the myth of the mastermind, which presumes that white-collar crime 
+is  a  product of  careful cost-benefit analysis.  contrary  to  this  myth,  soltes  showed  that 
+white-collar crime was more a result of failures in intuition and gut instincts, as well as the 
+executives inability to appreciate the human suffering and harm caused by their corporate 
+malfeasance. soltes (2016, 6) explained, [w]hile manipulative corporate conduct has the 
+same financial effect as stealing money from an investors wallet, there is a crucial difference 
+
+3   models of legal compliance have also become more complex over the past several decades as researchers 
+have sought to develop more realistic theories that explicitly take into account aspects of human behavior that 
+challenge standard assumptions of neoclassical economics (see jolls, sunstein, and thaler 1998 [discussing 
+bounded rationality, bounded willpower, and bounded self-interest]).
+4   i focus on us studies for the purposes of my exposition, though there are many studies in this body of 
+research that focus on non-us contexts (see, e.g., hucklesby 2009 [examining factors underlying compliance 
+with electronically-monitored curfew orders among criminal offenders in england]; wenzel 2004 [examining 
+the impact of social norms on tax compliance among australian citizens]).
+
+288
+
+journal on migration and human securitybetween these types of crime from the perspective of the perpetrator. according to soltes 
+(2016), stealing money from anothers pocket involves a high degree of intimacy . . . but 
+manipulative corporate conduct lacks all these sensations associated with theft. executives 
+never need to get close  physically or psychologically  to their victims.
+subject-centered  approaches  have  also  broadened  our  understanding  of  the  complex 
+dynamics underlying tax noncompliance.5 a great deal of this research has focused on the 
+importance of tax morale  what marjorie kornhauser (2007, 139) refers to as the 
+collective name for all the non-rational factors and motivations  such as social norms, 
+personal  values  and  various  cognitive  processes    that  strongly  affect  an  individuals 
+voluntary  compliance  with  laws.  subject-centered  approaches  have  been  critical  to 
+uncovering the nature and operation of tax morale subtypes. for example, stalans, kinsey, 
+and smith (1991) investigated how people form beliefs about sanctions and norms about 
+tax compliance by conducting a survey of 1,200 residents in minnesota. this study found 
+that communication with coworkers lowered the perceived likelihood of apprehension and 
+the severity of sanctions for tax evasion, whereas communication with family members 
+increased  the  perceived  fairness  of  tax  laws  and  positive  personal  norms  about  tax 
+compliance. 
+onu and oats (2016) also studied the importance of social communication and social norms 
+on tax compliance, but they relied on an in-depth discourse analysis. their analysis focused 
+on 120 interactions between professional web designers on online forums, in which the 
+professionals sought one anothers advice on their tax obligations. onu and oats study 
+revealed active social influence processes in tax communication  processes that had been 
+ignored in past studies based on the assumption that taxpayers were passive transmitters 
+of information to each other. onu and oats found that the study samples professionals, 
+most of whom were self-employed and thus obligated to voluntarily report their income 
+tax, actively influenced and persuaded each other to comply with tax laws, using a range 
+of known persuasion techniques in their discussions. these persuasion techniques ranged 
+from stating the benefits of compliance, to threats and warnings of the consequences of 
+tax evasion. onu and oats (2016, 38) concluded that while the former set of techniques 
+generally  yielded  responses  that  were  supportive  of  tax  compliance,  the  latter  set  of 
+techniques generated more defiant responses, especially when those techniques referred to 
+the coercive power of tax authorities.
+taken together, both bodies of research  research on criminal offending and research on 
+tax evasion  suggest that subject-centered approaches have played a key role in advancing 
+our knowledge of the relative importance of complex social dynamics, such as community 
+norms, perceptions of the legitimacy of the law, and moral judgments, that underlie legal 
+noncompliance. these advances have challenged, complicated, and extended traditional 
+deterrence models that have focused almost exclusively on instrumental factors such as 
+expected economic costs and benefits of noncompliance. 
+
+5   for recent reviews of tax compliance studies, see khlif and achek (2015), pickhardt and prinz (2014), and 
+devos (2013).
+
+289
+
+the promise of a subject-centered approachiii. understanding immigration noncompliance
+what might a subject-centered understanding of immigration noncompliance look like, and 
+what might be the relevance and implications of such an understanding for policymaking? 
+a  growing  but  still  a  small  number  of  studies  have  examined  immigrants  experiences 
+with and the impacts of immigration law from the immigrants perspective (see, e.g., ryo 
+2006; gleeson 2010; abrego 2011; gonzales 2011; menjvar and abrego 2012; rodrguez 
+and hagan 2014; menjvar and lakhani 2016).6 in a related but a distinct line of inquiry, 
+i  adopted  a  subject-centered  approach  to  explore  immigration  noncompliance  among 
+current  and  prospective  unauthorized  immigrants  in  the  united  states  (ryo  2013;  ryo 
+2015; ryo 2017). consistent with the discussion above that a subject-centered approach 
+is not synonymous with specific research methods, i have relied on both qualitative and 
+quantitative methods, as appropriate, to examine the perspectives, beliefs, and motivations 
+of individuals who are subject to us immigration laws and policies. 
+for example, in deciding to cross, i collected and analyzed a large-scale survey in mexico 
+with individuals who were considered to be at risk of engaging in unauthorized migration 
+into the united states (ryo 2013). my findings showed that in addition to certain economic 
+cost-benefit calculations, prospective immigrants normative values, such as their moral 
+sensibilities and their perceptions about the legitimacy of immigration laws and authorities, 
+were significantly related to their intentions to cross the border illegally.7 in a companion 
+piece, less enforcement, more compliance, i explored the nature of these normative values 
+based on group interviews with immigrants at the us-mexico border and in the interior 
+of  the  united  states  (ryo  2015).  my  analysis  in  less  enforcement,  more  compliance 
+yielded several insights about the immigrants normative values and their role in individual 
+decisions to engage in unauthorized migration. below, i briefly underscore two key findings 
+that emerged from that study.
+first,  i  found  that  the  immigrants  viewed  themselves  as  law-abiding  individuals  who 
+valued legal order and respected national sovereignty notwithstanding their violations of 
+us immigration law. underlying this self-perception were certain value orientations and 
+moral imperatives. for example, in discussing their decisions to cross the border illegally, 
+the immigrants commonly emphasized structural forces that were beyond their individual 
+control, such as the collapse of their national or local economies, and crop failures. faced 
+with  these  structural  forces  brought  on  through  no  fault  of  their  own,  the  immigrants 
+viewed their migration decision as the only morally appropriate way to fulfill their deeply-
+felt personal responsibility to provide for their families, and their commitment to legal 
+and honorable work. moreover, the immigrants viewed immigration noncompliance as 
+morally distinct from other kinds of noncompliance such as criminal law violations. from 
+their perspective, the former type of noncompliance allowed them to perform work that 
+helped to build the us economy, whereas the latter type of noncompliance engendered 
+clear harm at the individual and societal level. 
+6   there are also studies that engage in subject-centered analyses of the spillover effects of immigration 
+policies on community members who are not the direct targets of the policies but are nonetheless impacted by 
+those policies; these community members include, for example, border region residents and us-born latinos 
+(see, e.g., heyman 2013; quiroga, medina, and glick 2014).
+7    more  recently,  i  used  a  survey  to  examine  the  legal  attitudes  of  immigrant  detainees,  and  found  that 
+the detainees procedural justice perceptions were significantly related to their reported willingness to obey 
+immigration authorities (ryo 2017).
+
+290
+
+journal on migration and human securitysecond,  my  analysis  showed  that  the  immigrants  viewed  the  current  us  immigration 
+system  (in  terms  of  both  its  admission  and  its  enforcement  policies  and  practices)  as 
+neither in alignment with their expressed moral values nor legitimate. prominent in the 
+immigrants  narratives  were  discussions  of  the  various  ways  in  which  the  current  us 
+immigration system violated fundamental notions of equality and fairness by operating in 
+biased, hypocritical, and arbitrary ways. for example, the immigrants often described the 
+us immigration system as a business or a lottery, in which only the lucky few won 
+visas to enter the united states legally. these beliefs about the lack of system transparency, 
+predictability,  and  rule-based  qualities,  together  with  the  immigrants  expressed  moral 
+values  undergirding  their  decisions  to  migrate,  formed  a  powerful  normative  basis  for 
+enabling  noncompliance.  moreover,  these  findings  provide  a  nuanced  account  of  why 
+unauthorized immigrants might engage in a particularized rather than a generalized form of 
+noncompliance  that is, why they might violate us immigration law but not other laws. 
+in sum, the foregoing discussion suggests that subject-centered approaches can generate a 
+fuller and more complex perspective on immigration noncompliance. 
+why might we want such a deeper understanding of immigration noncompliance? there 
+are at least three reasons. first, legal discourse and political debates about unauthorized 
+migration and immigration enforcement policies in the united states are largely divorced 
+from discussions of human rights. this is in large part due to the deeply-held and widely-
+accepted notion that nation-states have an absolute and unfettered right to determine who 
+may enter and stay in their territories (cole 2006; lpez 2006). but what are the limits, 
+if any, to this self-determination principle, and what does a just and ethical immigration 
+policy  require  for  those  seeking  to  enter,  for  those  already  in  the  united  states,  and 
+for those whom the government seeks to expel? more specifically, what does a liberal 
+democracys  professed  commitment  to  and  respect  for  every  individuals  human  rights 
+demand in terms of its immigration policy?8 grappling with these questions requires first 
+recognizing the basic humanity and moral agency of immigrants. fundamental to such a 
+recognition is the understanding of immigrants not as passive objects of state control, but 
+as individuals who are capable of normative judgments about the law and legal authorities, 
+and whose actions are guided by their value judgments and shared social beliefs about what 
+is right and appropriate given their situations (see ryo 2015; ryo forthcoming). subject-
+centered approaches are uniquely situated to foster this understanding, given their focus on 
+the immigrants voices and lived experiences as they confront, acquiesce in, or resist the 
+existing systems of governmental control that restrict their cross-border movement. 
+second,  i  suggest  that  subject-centered  approaches  can  produce  knowledge  that  may 
+focus our attention on not just the direct and immediate costs of immigration enforcement 
+policies, but also their indirect and long-term costs. for example, immigration detention 
+has become an increasingly important enforcement tool in the united states  a tool that 
+the former secretary of the department of homeland security has described as an effective 
+deterrent to unauthorized migration (preston 2014). there is little evidence that detention 
+actually  deters  unauthorized  migration  (sampson  2015).  but  emerging  research  does 
+suggest that there are significant short-term costs of maintaining this system of detention, 
+as well as long-term societal costs that may be harder to measure but are equally significant 
+8   for in-depth discussion and debate on these questions, see, e.g., bosniak (2006), carens (2013), wellman 
+and cole (2011).
+
+291
+
+the promise of a subject-centered approach(ryo 2016; ryo 2017; ryo forthcoming). for example, my study based on survey and 
+in-depth interviews with long-term immigrant detainees suggests that various structural 
+and interactional factors in detention might work together to engender widespread legal 
+cynicism among the detainees (ryo forthcoming). by legal cynicism, i mean a deep sense 
+of distrust of us laws and legal authorities, and skepticism about the us legal systems 
+commitment to the rule of law. because immigrant detainees are individuals embedded 
+in  domestic  and  transnational  networks,  they  have  the  potential  to  widely  disseminate 
+delegitimating beliefs about the us legal system and authorities. such an outcome, i argue, 
+has significant negative implications for democracy and governance in the long run. 
+third, subject-centered approaches may help us to consider new and innovative strategies 
+to achieving desired policy goals. for example, a longstanding body of research in other 
+areas of law shows that laws that are incongruent with peoples moral values are bound 
+to generate widespread noncompliance. my study of unauthorized migration suggests that 
+immigration law faces a similar challenge. as i discussed earlier in this paper, current and 
+prospective unauthorized immigrants do not view violations of us immigration law as 
+immoral. on the contrary, the immigrants in my study considered such violations to be the 
+only viable morally-permissible option given their desire to work to support their families 
+(ryo 2015). in light of these findings, temporary worker programs that facilitate circular 
+migration with transparency and predictability (rather than at the whim of a given political 
+party in power), or focused development strategies that promote job opportunities in key 
+sending communities, may promote expectations among current and prospective immigrants 
+that there are viable, legal avenues of fulfilling their expressed moral obligations to support 
+their families through work. these shared expectations in turn will likely encourage timely 
+return migration among current immigrants, as well as motivate prospective immigrants to 
+wait to enter legally rather than attempt to cross illegally.
+
+conclusion
+the purpose of this paper has been to explain the importance of subject-centered approaches 
+to understanding immigration noncompliance, and to present a case for why we should 
+care  about  the  views  of  unauthorized  immigrants.  that  unauthorized  immigrants  are 
+nonmembers to our polity in the legal sense does not lessen the importance of attending to 
+their voices. understanding their beliefs, values, and perceptions may help us to recognize 
+their basic humanity and moral agency  an important first step toward a concrete and 
+critical  engagement  with  the  idea  that  immigrant  rights  are  human  rights.  i  have  also 
+argued that we should care about the views of unauthorized immigrants because doing so 
+may help us to appreciate the indirect and long-term costs of our enforcement policies, and 
+to engage in a broader range of public discussions about how we might promote greater 
+voluntary compliance. in these ways, adopting subject-centered approaches to the study 
+of immigration noncompliance may have an important role to play in the development of 
+effective, ethical, and equitable immigration policies.
+
+292
+
+journal on migration and human securityreferences
+
+abrego, leisy j. 2011. legal consciousness of undocumented latinos: fear and stigma 
+as barriers to claims-making for first- and 1.5-generation immigrants. law & 
+society review 45(2): 337-69. https://doi.org/10.1111/j.1540-5893.2011.00435.x. 
+anderson,  david  a.  2002.  the  deterrence  hypothesis  and  picking  pockets  at  the 
+pickpockets  hanging.  american  law  and  economics  review  4(2):  295-313. 
+https://doi.org/10.1093/aler/4.2.295. 
+
+besen-cassino, yasemin. 2008. the study of youth labor: the shift toward a subject-
+centered approach.  sociology  compass  2(1):  352-65.  https://doi.org/10.1111/
+j.1751-9020.2007.00066.x. 
+
+bosniak, linda. 2006. the citizen and the alien: dilemmas of contemporary membership. 
+
+princeton: princeton university press. https://doi.org/10.1515/9781400827510. 
+
+carens, joseph h. 2013. the ethics of immigration. oxford: oxford university press.
+cole,  david.  2006.  the  idea  of  humanity:  human  rights  and  immigrants  rights. 
+
+columbia human rights law review 37: 627-58.
+
+devos, ken. 2013. tax compliance theory and the literature. in factors influencing 
+
+individual taxpayer compliance behaviour, 13-65. new york: springer. 
+
+fagan, jeffrey, and tom r. tyler. 2005. legal socialization of children and adolescents. 
+social justice research 18(2): 217-42. https://doi.org/10.1007/s11211-005-6823-3. 
+gezelius, stig s. 2002. do norms count? state regulation and compliance in a norwegian 
+fishing community. acta sociologica 45(4): 305-14. https://doi.org/10.1177/00
+0169930204500404. 
+
+gleeson, shannon. 2010. labor rights for all? the role of undocumented immigrant 
+
+status for worker claims making. law & social inquiry 35(2): 561-602.
+
+gonzales, roberto g. 2011. learning to be illegal: undocumented youth and shifting 
+legal contexts in the transition to adulthood. american sociological review 
+76(4): 602-19. https://doi.org/10.1177/0003122411411901. 
+
+grasmick, harold g., and george j. bryjak. 1980. the deterrent effect of perceived severity 
+
+of punishment. social forces 59(2): 471-91. https://doi.org/10.2307/2578032. 
+
+grasmick,  harold  g.,  robert  j.  bursik,  and  karyl  a.  kinsey.  1991.  shame  and 
+embarrassment as deterrents to noncompliance with the law. environment and 
+behavior 23(2): 233-51. https://doi.org/10.1177/0013916591232006. 
+
+heyman, josiah mcc.  2013.  a voice of the us  southwestern border: the 2012  we 
+the  border:  envisioning  a  narrative  for  our  future  conference.  journal  on 
+migration and human security 1(2): 60-75. https://doi.org/10.14240/jmhs.v1i2.9. 
+
+293
+
+the promise of a subject-centered approachhucklesby,  anthea.  2009.  understanding  offenders  compliance:  a  case  study  of 
+electronically monitored curfew orders. journal of law and society 36(2): 248-
+71. https://doi.org/10.1111/j.1467-6478.2009.00465.x. 
+
+jackson,  jonathan,  ben  bradford,  mike  hough, andy  myhill,  paul  quinton,  and  tom 
+r. tyler..  2012.  why  do  people  comply  with  the  law?:  legitimacy  and  the 
+influence of legal institutions. british journal of criminology 52(6): 1051-71. 
+https://doi.org/10.1093/bjc/azs032. 
+
+jolls,  christine,  cass  r.  sunstein,  and  richard  thaler.  1998.  a  behavioral approach 
+to  law  and  economics.  stanford  law  review  50(5):  1471-1550.  https://doi.
+org/10.2307/1229304. 
+
+khlif, hichem, and imen achek. 2015. the determinants of tax evasion: a literature 
+
+review. international journal of law and management 57(5): 486-97.
+
+kirk,  david  s.,  and  andrew  v.  papachristos.  2011.  cultural  mechanisms  and  the 
+persistence of neighborhood violence. american journal of sociology 116(4): 
+1190-1233. https://doi.org/10.1086/655754. 
+
+kornhauser,  marjorie  e.  2007.  normative  and  cognitive aspects  of tax  compliance: 
+literature  review  and  recommendations  for  the  irs  regarding  individual 
+taxpayers.  national  taxpayer  advocates  2007  annual  report  to  congress, 
+volume 2. washington, dc: internal revenue service. https://www.irs.gov/pub/
+tas/arc_2007_vol_2.pdf. 
+
+larson, calvin j., and bruce l. berg. 1989. inmates perceptions of determinate and 
+indeterminate sentences. behavioral sciences & the law 7(1): 127-37. https://
+doi.org/10.1002/bsl.2370070109. 
+
+lee, jennifer, and min zhou. 2014. the success frame and achievement paradox: the 
+costs and consequences for asian americans. race and social problems 6(1): 
+38-55. https://doi.org/10.1007/s12552-014-9112-7. 
+
+lpez, mara pabn. 2006. the intersection of immigration law and civil rights law: 
+noncitizen  workers  and  the  international  human  rights  paradigm.  brandeis 
+law journal 44(3): 611-35.
+
+maccoun,  robert  j.  1993.  drugs  and  the  law:  a  psychological  analysis  of  drug 
+prohibition. psychological bulletin 113(3): 497-512. https://doi.org/10.1037/0033-
+2909.113.3.497. 
+
+mazerolle,  lorraine,  sarah  bennett,  jacqueline  davis,  elise  sargeant,  and  matthew 
+manning. 2013. procedural justice and police legitimacy: a systematic review 
+of the research evidence. journal of experimental criminology 9(3): 245-74. 
+https://doi.org/10.1007/s11292-013-9175-2. 
+
+meier, robert f., and weldon t. johnson. 1977. deterrence as social control: the legal 
+and extralegal production of conformity. american sociological review 42(2): 
+292-304. https://doi.org/10.2307/2094606. 
+
+294
+
+journal on migration and human securitymenjvar, cecilia, and leisy j. abrego. 2012. legal violence: immigration law and the 
+lives of central american immigrants. american journal of sociology 117(5): 
+1380-1421. https://doi.org/10.1086/663575. 
+
+menjvar, cecilia, and sarah m. lakhani. 2016. transformative effects of immigration 
+law: immigrants personal and social metamorphoses through regularization. 
+american journal of sociology 121(6): 1818-55. https://doi.org/10.1086/685103. 
+nagin, daniel s. 1998. criminal deterrence research at the outset of the twenty-first 
+
+century. crime and justice 23: 1-42. https://doi.org/10.1086/449268. 
+
+onu, diana, and lynne oats. 2016. paying tax is part of life: social norms and social 
+influence in tax communications. journal of economic behavior & organization 
+124(april): 29-42. https://doi.org/10.1016/j.jebo.2015.11.017. 
+
+paternoster, raymond. 2010. how much do we really know about criminal deterrence? 
+
+journal of criminal law & criminology 100(3): 765-823.
+
+pickhardt, michael, and aloys prinz. 2014. behavioral dynamics of tax evasion  a 
+survey.  journal  of  economic  psychology  40:  1-19.  https://doi.org/10.1016/j.
+joep.2013.08.006. 
+
+preston, julia. 2014. detention center presented as deterrent to border crossings. new 
+york  times,  december  15.  https://www.nytimes.com/2014/12/16/us/homeland-
+security-chief-opens-largest-immigration-detention-center-in-us.html. 
+
+quiroga,  seline  szkupinski,  dulce  m.  medina,  and  jennifer  glick.  2014.  in  the 
+belly  of  the  beast  effects  of  anti-immigration  policy  on  latino  community 
+members.  american  behavioral  scientist  58(13):  172342.  https://doi.
+org/10.1177/0002764214537270. 
+
+rodrguez,  nestor,  and  jacqueline  maria  hagan.  2004.  fractured  families  and 
+communities: effects of immigration reform in texas, mexico, and el salvador. 
+latino studies 2(3): 328-51. https://doi.org/10.1057/palgrave.lst.8600094. 
+
+ryo, emily. 2006. through the back door: applying theories of legal compliance to 
+illegal immigration during the chinese exclusion era.  law  &  social  inquiry 
+31(1): 109-46. https://doi.org/10.1111/j.1747-4469.2006.00004.x. 
+
+.  2013.  deciding 
+
+to  cross:  norms  and  economics  of  unauthorized 
+migration.  american  sociological  review  78(4):  574-603.  https://doi.
+org/10.1177/0003122413487904. 
+
+.  2015.  less  enforcement,  more  compliance:  rethinking  unauthorized 
+
+migration. ucla law review 62: 622-70.
+
+. 2016. detained: a study of immigration bond hearings. law & society review 
+
+50(1): 117-53. https://doi.org/10.1111/lasr.12177. 
+
+. 2017. legal attitudes of immigrant detainees. law & society review 51(1): 
+
+99-131. https://doi.org/10.1111/lasr.12252. 
+
+295
+
+the promise of a subject-centered approach.  forthcoming.  fostering  legal  cynicism  through  immigration  detention. 
+
+southern california law review 90.
+
+sampson,  robyn.  2015.  does  detention  deter?  international  detention  coalition 
+briefing paper. http://idcoalition.org/wp-content/uploads/2015/04/briefing-paper_
+does-detention-deter_april-2015-a4_web.pdf.
+
+soltes, eugene. 2016. why they do it: inside the mind of the white-collar criminal. new 
+
+york: public affairs.
+
+stalans, loretta j., karyl a. kinsey, and kent w. smith. 1991. listening to different 
+voices: formation of sanction beliefs and taxpaying norms. journal of applied 
+social  psychology  21(2):  119-38.  https://doi.org/10.1111/j.1559-1816.1991.
+tb00492.x. 
+
+tyler, tom r. (1990) 2006. why people obey the law. princeton: princeton university 
+
+press.
+
+tyler, tom r., and jonathan jackson. 2014. popular legitimacy and the exercise oflegal 
+authority: motivating compliance, cooperation, and engagement. psychology, 
+public policy, and law 20(1): 78-95.
+
+wellman, christopher h., and phillip cole. 2011. debating the ethics of immigration: 
+is  there  a  right  to  exclude?  oxford:  oxford  university  press.  https://doi.
+org/10.1093/acprof:osobl/9780199731732.001.0001. 
+
+wenzel, michael. 2004. an analysis of norm processes in tax compliance. journal 
+of  economic  psychology  25(2):  213-28.  https://doi.org/10.1016/s0167-
+4870(02)00168-x. 
+
+zhou,  min,  jennifer  lee,  jody  agius  vallejo,  rosaura  tafoya-estrada,  and  yang  sao 
+xiong.  2008.  success  attained,  deterred,  and  denied:  divergent  pathways 
+to  social  mobility  in  los  angeless  new  second  generation.  annals  of  the 
+american  academy  of  political  and  social  science  620(1):  37-61.  https://doi.
+org/10.1177/0002716208322586. 
+
+zhou, min. 2015. assimilation and its discontents. in emerging trends in the social and 
+behavioral  sciences:  an  interdisciplinary,  searchable,  and  linkable  resource, 
+edited  by  robert a.  scott  and  marlis  c.  buchmann,  1-16.  hoboken,  nj:  john 
+wiley & sons, inc. 
+
+296
+
+journal on migration and human security

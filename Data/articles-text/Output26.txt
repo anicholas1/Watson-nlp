@@ -1,0 +1,1088 @@
+responding to a refugee influx: 
+lessons from lebanon
+
+ninette kelley1
+
+executive summary
+between 2011 and 2015, lebanon received over one million syrian refugees. 
+there is no country in the world that has taken in as many refugees in 
+proportion to its size: by 2015, one in four of its residents was a refugee 
+from syria. already beset, prior to the syrian crisis, by political divisions, 
+insecure  borders,  severely  strained  infrastructure,  and  over-stretched 
+public  services,  the  mass  influx  of  refugees  further  taxed  the  country. 
+that  lebanon  withstood  what  is  often  characterized  as  an  existential 
+threat  is  primarily  due  to  the  remarkable  resilience  of  the  lebanese 
+people. it is also due to the unprecedented levels of humanitarian funding 
+that  the  international  community  provided  to  support  refugees  and  the 
+communities that hosted them. un, international, and national partners 
+scaled up more than a hundred-fold to meet ever-burgeoning needs and 
+creatively  endeavored  to  meet  challenges  on  the  ground.  and  while  the 
+refugee  response  was  not  perfect,  and  funding  fell  well  below  needs, 
+thousands of lives were saved, protection was extended, essential services 
+were provided, and efforts were made to improve through education the 
+future prospects of the close to half-a-million refugee children residing in 
+lebanon. this paper examines what worked well and where the refugee 
+response stumbled, focusing on areas where improved efforts in planning, 
+delivery, coordination, innovation, funding, and partnerships can enhance 
+future emergency responses.
+
+i. introduction
+over a three-and-a-half year period, beginning in the spring of 2011, lebanon, a small 
+country of just 4,000 square miles, received over one million syrian refugees. the impact 
+of both the syrian conflict and the refugee influx on lebanon has been profound. by 2015, 
+one in four residents in lebanon was a refugee from syria, and lebanon hosted the second 
+largest number of refugees in the world. in relative terms, the number of syrian refugees 
+
+1   ninette kelley is director of the united nations high commissioner for refugees (unhcr) new york 
+office. she served  as unhcrs representative to lebanon from 2010-2015. the views expressed in this 
+paper are her own and do not necessarily reflect the positions of unhcr. this paper has benefitted from 
+substantive comments from elizabeth ferris, betsy greve, rayan koteiche, lynne miller, and dominique 
+tohme. 
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 1 (2017): 82-104lebanon has received would be the equivalent to the united states receiving approximately 
+108 million refugees, or europe receiving approximately 169 million refugees.2
+this paper examines the international and national response to what is considered one of 
+the severest challenges faced by lebanon in all its complex history. it covers the four-year 
+period from the spring of 2011 until february 2015, when border restrictions effectively 
+stemmed  the  flow  of  refugees  to  the  country.  the  refugee  response  was  not  short  of 
+missteps. but it was also full of great accomplishments: hundreds of thousands of refugees 
+were received and protected, and basic needs were met, while efforts expanded to support 
+local communities and national institutions in what was, and continues to be seen as, an 
+existential challenge for lebanon. 
+the war in syria continues: its impact now reverberates beyond the region while other 
+new  and  ongoing  conflicts  force  millions  to  flee  or  remain  in  protracted  displacement. 
+there is much to be learned from the response to the extraordinary challenges in lebanon. 
+this paper examines the key lessons learned during the four years from 2011 to 2015. it 
+focuses on areas that can improve the timeliness and effectiveness of refugee responses, 
+including in regard to preparedness, scaling up, protecting refugees, coordinating efforts, 
+mobilizing resources, expanding partnerships, engaging innovative practices, and ensuring 
+humanitarian actions are fully accountable to those being helped. 
+
+ii. context
+
+a. political environment
+
+at the start of the syrian crisis, lebanon had hosted palestinian refugees for over 60 years, 
+estimated in 2010 to number 280,000 persons living in conditions considered among the 
+most marginal in the middle east.3 a country that was officially at war with israel, that 
+suffered from severe and often paralyzing internal political divisions and frequent security 
+breaches, was on the cusp of becoming the largest recipient of refugees in the world, and 
+arguably the most challenged by the influx. 
+the experience of hosting palestinian refugees influenced to a great degree lebanons fears 
+and responses to syrian refugees. hundreds of thousands of palestinians fled to lebanon in 
+1948, and as their stay became prolonged, restrictions on their rights within lebanon were 
+imposed, including being confined to camps that through time became over-crowded and 
+under-serviced urbanized areas. ongoing marginalization contributed to palestinian support 
+for the palestinian liberation organization (plo), which relocated to lebanon following 
+its expulsion from jordan in 1970. plo involvement in lebanons brutal civil war (1975-
+1990), which politically and economically devastated the country, fueled resentment within 
+lebanon against palestinians and stigmatized the entire palestinian community. from the 
+2   for the united states (us) and european union (eu) population data see respectively: http://www.
+census.gov/popclock/; https://data.oecd.org/pop/population.htm.
+3   united nations relief and work agency for palestine refugees in the near east (unrwa) 
+registration numbers since 1948 show that as of 2011, 425,000 palestinians had registered in lebanon. a 
+socioeconomic survey of palestinians in lebanon published at the end of 2010 estimated that due to mass 
+migration, 260,000280,000 palestinian refugees resided in lebanon (chaaban et al. 2010).  
+
+83
+
+responding to a refugee influx: lessons from lebanonearly days of the syrian refugee influx, and based on the experience with palestinian refugees, 
+lebanese authorities, with few exceptions, ruled out any possibility of establishing formal 
+refugee camps4 for fear they would become permanent. similar reasons were given for the 
+refusals to enable legal recognition of temporary residence and to facilitate registration of 
+syrian refugee births. 
+lebanons  long  and  close  history  with  syria  was  another  factor  that  influenced  the 
+lebanese  governments  response  to  the  refugee  crisis.  during  the  ottoman  empire, 
+lebanon was considered part of greater syria which geographically embraced lebanon, 
+syria, jordan, and palestine. from 1976 to 2005, syria maintained a military presence and 
+wielded strong political influence in lebanon. syrian ties inside lebanon therefore were 
+and remain strong. throughout the syrian crisis, successive lebanese governments have 
+adopted a policy of neutrality, officially known as disassociation, towards the situation 
+inside syria. nonetheless, the two major political coalitions within lebanon were divided, 
+with one supportive of the syrian opposition cause and the other backing the government 
+of syria. public policy formation, including concerning refugees, often faced gridlock due 
+to these divisions. 
+between  2011  and  mid-2015,  lebanon  had  three  different  governments.  there  were 
+also periods of caretaker governments when policy decision making reached a standstill. 
+the government of prime minister tamam salam was formed in february 2014, and in 
+may of that year, with the end of the presidential term of michel suleiman, the dominant 
+political actors agreed that executive decision making would be reached by consensus. in 
+many fundamental matters of basic governance, as well as issues pertaining to refugees, 
+such consensus was hard to secure. political divisions further exacerbated gridlock at the 
+executive and legislative levels by forestalling for over two years the election of a president 
+and the reaching of an agreement on a roadmap for legislative elections. 
+an additional challenge facing the government in the management of the refugee response 
+was the lack of a specific legal framework or dedicated and comprehensive administrative 
+system  for  the  management  of  refugee  affairs.  suggestions  to  create  an  administrative 
+system were perceived as an attempt to perpetuate the presence of refugees in the country 
+and therefore were not advanced. all humanitarian activities had to be coordinated across a 
+number of ministries, each of which faced severe capacity issues in addressing their regular 
+responsibilities, let alone the additional ones brought on by the refugee influx. 
+finally, although the governance system is largely centralized, the absence of comprehensive 
+policies to manage the refugee influx meant that decision making often devolved by default 
+to  the  local  level.  lebanon,  which  can  comfortably  fit  within  the  state  of  connecticut, 
+has  eight  governorates,  26  districts  (whose  leaders  are  centrally  appointed)  and  1,108 
+municipalities  whose  leaders  are  elected  by  their  constituents.  municipal  authorities 
+were the first responders and, despite significant administrative and financial constraints, 
+
+4   from the outset, unhcr did not seek a camp option for refugees but did advocate for greater support 
+to host communities so that refugees could live with as much dignity, independence, and normality as 
+possible. when the numbers of arrivals exceeded available shelter supply, unhcr discussed with the 
+authorities the possibility of establishing temporary shelter sites to relieve the situation of hundreds of 
+thousands of refugees living in insecure informal sites. this idea was supported by some politicians as a 
+humanitarian necessity but never received the consensus required. 
+
+84
+
+journal on migration and human securityhad to make decisions to deal with the massive influx of refugees in their communities. 
+humanitarian efforts, therefore, had to navigate a complicated web of at times competing 
+political agendas between the various levels of government. this was essential to ensure 
+activities were appropriately authorized and to maintain the real and perceived impartiality 
+of humanitarian action.
+
+b. overview of the influx
+
+the syrian refugee influx into lebanon initially was relatively modest. the first group 
+of syrian refugees fled to northern lebanon in april 2011. they came from areas in and 
+around tallalakh, homs, which had been the locus of confrontation between opposition 
+protesters and government forces. several thousand syrians fled from this confrontation 
+and traversed the few kilometers between talkhalekh and wadi khaled in north lebanon. 
+most sought refuge with friends or family and many returned over the ensuing months to 
+areas where tensions had subsided. at the end of the year there were only 5,000 syrian 
+registered refugees in lebanon. 
+in the next 12 months, however, the number of syrian refugees in lebanon increased to 
+175,000 before further swelling to over 800,000 at the close of 2013. by this time they were 
+spread throughout the entire country. for 21 months, between january 2013 until border 
+restrictions began to be progressively imposed in september 2014, the united nations high 
+commissioner for refugees (unhcr) was registering on average over 48,000 refugees 
+per month.
+by this time, the lebanese had gone beyond being uneasy about the influx, and across 
+all political lines there was a consensus that the unabated arrival of refugees threatened 
+the continued stability of the country. the incidents in aarsal, a small town perched on 
+the rocky slopes of the anti-lebanon mountains bordering syria, marked a turning point. 
+aarsal had been a port of safety for over 40,000 syrian refugees whose number by august 
+2014 eclipsed that of the local population of 35,000 inhabitants. syrian opposition fighters 
+moved freely in and out of aarsal and, in early august 2014, they engaged in a violent 
+stand-off with the lebanese army that left 19 lebanese soldiers and 42 civilians dead, 
+hundreds of soldiers and civilians wounded, and 29 policemen and soldiers captured by 
+al-nusra and isis forces.
+lebanon had reached a crossroads. at the time of the aarsal stand-off, the syrian refugee 
+population exceeded one million. refugees were living in very dire circumstances. most 
+rented overcrowded and very basic apartments or small plots of land to pitch a tent. others 
+found  shelter  in  garages,  worksites,  and  unfinished  buildings. as  the  crisis  progressed, 
+more  and  more  syrians  without  any  shelter  populated  the  streets  of  beirut,  including 
+refugee children who, in states of abject poverty and neglect, could be found shining shoes, 
+begging, and living under bridges. of the 400,000 school aged child refugees, only one 
+quarter were enrolled in formal education and less than half had access to any education 
+at all. 
+other consequences of the syrian refugee influx also had become clear by the time of the 
+battle at aarsal. primary health care clinics were overstretched, with lebanese experiencing 
+
+85
+
+responding to a refugee influx: lessons from lebanonlong waits for medical attention as more syrian refugees sought service. an already frail 
+infrastructure (water, electricity, sanitation) was severely taxed by the additional demand. 
+electricity  interruptions,  which  had  been  a  flash  point  of  protests  before  the  refugees 
+arrived, were now more frequent. lack of appropriate waste disposal and waste and water 
+treatment  endemic in lebanon  was more pungent and visible, with river beds near 
+refugee  settlements  choked  with  garbage  and  land  around  collective  centers  similarly 
+overflowing  with  refuse.  low-wage  lebanese  workers  saw  their  limited  employment 
+opportunities shrink as syrian adult and child refugees were willing to work for even lower 
+pay than they were. 
+every town and village across the country had syrian refugees, and many villages contained 
+more refugees than local residents. lebanese saw their small country being transformed 
+and aarsal, it was widely felt, pointed to the risks the refugee influx posed. tightening 
+the borders was well supported by all political parties, as were broader efforts to restrict 
+refugee movement within lebanon, evict refugees from sensitive areas, and discourage 
+prolonged stay. 
+
+c. operational response
+
+while  a  full  description  of  the  expansion  of  agency  responses  to  the  refugee  influx  in 
+lebanon is beyond the scope of this paper, mentioning a few highlights is warranted. in 
+virtually all areas of the agencies engagement, responses matured. reception moved from 
+an ad hoc process to ensuring a border presence that provided information to prospective 
+refugees on how to register with unhcr and referred those in urgent need to care providers. 
+registration went from relying largely on mobile teams, to permanent registration centers 
+in  four  locations  fitted  with  biometric  iris  scan  technology.  registration  centers  were 
+equipped with places for children to play and for mothers to nurse their babies in privacy, 
+as well as with immunization centers run by the ministry of health and the united nations 
+international  childrens  fund  (unicef).  unhcr  and  the  ministry  of  social  affairs 
+provided social and protection counseling at the registration centers. shelter interventions 
+that initially focused on provision of in-kind assistance (materials, renovations of empty 
+buildings for collective centers, and the provision of small housing units to landlords for 
+installment on their land) gradually shifted to greater reliance on cash for rent or to buy 
+shelter supplies. 
+in-kind provision of food, initially by the government and later by the world food program 
+(wfp), was eventually replaced by a wfp-run cash voucher system. initial reliance on 
+trucking  of  water  to  refugees  in  informal  settlements  was  progressively  overtaken  by 
+more sustainable options, such as investing in wells and reservoirs which also benefited 
+local communities. ad-hoc assistance in meeting primary and secondary health care needs 
+eventually  gave  way  to  investing  more  in  primary  health  care  centers,  and  a  new  and 
+innovative means to engage a private sector health administrator to apply guidelines, monitor 
+costs and efficiencies, and approve more costly secondary care. in regard to education, the 
+goal was to ensure as many school-age refugees as possible were accommodated in the 
+public system. the efforts gained significant traction when a consortium consisting of the 
+ministry of education and higher education (mehe), un agencies, the world bank (wb) 
+and donors formed a steering committee to assess the investments needed to ensure every 
+
+86
+
+journal on migration and human securityrefugee child was enrolled in school, to approve the budgets necessary, and to endorse and 
+promote the collective appeals that followed. 
+investment  in  community  support  projects  also  grew  exponentially  over  the  years.  for 
+unhcr, this was important from various perspectives. in the first place, local communities 
+were the first responders, opening up their homes and their properties to an ever-increasing 
+number of refugees. investing in community projects, some related to the refugee presence 
+and others to address systemic gaps in local services that predated the refugee crisis, was 
+both an important measure of appreciation and helped to maintain a positive environment 
+towards  refugees.  initial  investments  in  community  support  projects  by  unhcr  of 
+$170,000 in 2012 increased to over $24 million by the end of 2014.5
+combined  with  national  efforts,  international  contributions  had  an  important  impact. 
+over a million refugees who fled into lebanon were received and registered. hundreds of 
+thousands of refugees required and received food, shelter, and health assistance. tens of 
+thousands were provided with specialized services to meet their specific needs. community 
+centers grew to provide services to refugees and local residents, and projects to address 
+systemic gaps in service delivery at the municipal level were expanded, while targeted 
+support to ministries was increased. this was made possible by international humanitarian 
+contributions that increased from less than $20 million in 2011 to $1 billion in 2015. at 
+the same time, persistent budget shortfalls6 meant that food security remained precarious, 
+shelter for tens of thousands of refugees was substandard, sanitation remained a constant 
+challenge, and various negative impacts of the crisis  including illness and death from 
+preventable causes  remained a constant scar on the refugee landscape. 
+moreover,  refugees  faced  considerable  risks  to  their  security  which  humanitarian 
+assistance and protection advocacy could not lessen. the lebanese authorities remained 
+reluctant to relax the residency permit system, which remained too costly for most refugees 
+to  afford. this  left  refugees  open  to  arrest  and  detention,  and  vulnerable  to  abuse  and 
+extortion  from  unscrupulous  landlords.  similarly,  while  lebanon  has  always  relied  on 
+syrian workers, progressive restrictions on the issuing of work permits left many refugees 
+unable to secure work, while others who could find informal employment were exposed 
+to serious exploitation by employers. the authorities also would not agree to facilitate the 
+registration of refugee births, which were estimated to exceed 40,000 in 2015. lebanese 
+law  mandates  the  registration  of  all  births  in  lebanon.  however,  refugees  had  great 
+difficulty obtaining birth certificates for their newborns due to complicated administrative 
+processes, burdensome fees, and arbitrary actions by local authorities. in the absence of 
+a  birth  certificate  attesting  to  the  place  of  birth  and  nationality  of  the  parents,  refugee 
+children in lebanon have no official legally recognized identity and therefore are at risk of 
+being stateless. the consequences can be severe and include the inability to attend school, 
+to receive medical care, to travel, to work legally, to marry, or to pass on ones nationality 
+to ones children. 
+5   notwithstanding the positive impact on communities, it is also the case that development support in areas 
+such as water, waste management, electricity and health, and other service provision fell woefully short of 
+what was required to address the impact of the refugee presence in lebanon. this is discussed more fully in 
+section iii(d). 
+6   the inter-agency refugee and resilience response plan for lebanon was consistently underfunded with 
+shortfalls averaging 55 percent in 2015 and 2016. 
+
+87
+
+responding to a refugee influx: lessons from lebanoniii. lessons learned
+
+a. preparedness
+
+reflecting back on the early years of the syrian crisis, it is perhaps surprising to see the 
+short term planning time frames used and what turned out to be erroneous contingency 
+scenarios  engaged.  however,  buoyed  by  the  initial  phases  of  the arab  spring  that  had 
+swept through tunisia, yemen, and egypt, there was a general view that the crisis inside 
+syria would be short-lived. to be sure, there were those who predicted otherwise, but this 
+was not the dominant view of the refugees or the lebanese, nor was it the dominant view 
+of the humanitarian actors whose initial contingency planning underestimated by far the 
+influx to come. humanitarian forecasting in the syrian situation seemed to be based more 
+on previous experience elsewhere, than grounded in a firm understanding of the social, 
+political, and economic history within syria. 
+certainly throughout 2011 and the first half of 2012, the expectation was that displacement 
+would be contained  through political concessions inside syria, the syrian government 
+exerting control over areas of insurrection, or a stalemate in parts of syria. in lebanon, 
+unhcr contingency planning in december 2011 estimated a refugee population of 7,000 
+for  the  next  year,  accounting  for  future  arrivals.  nine  months  later,  when  the  refugee 
+population reached 57,000 persons and was rising by 10,000 persons per month, the influx 
+was projected to reach 300,000 by mid-2013. by june of 2013, however, over half a million 
+syrian refugees were registered with unhcr, with more than 65,000 newly registered 
+each month.
+initially, projections were based on the expectation that  as in tunisia, egypt and libya 
+ mass refugee flows would abate. as the conflict spread and the volume continued to 
+grow, other factors limited projections. of these, the most significant factor was the sense 
+that humanitarian planning based on projected political outcomes was fraught with risks. 
+humanitarian action is grounded in four principles: humanity, neutrality, impartiality, and 
+independence. these must be upheld at all times to ensure access to persons in need. a 
+contingency plan based on projected outcomes, especially in highly politicized conflict 
+situations, risks being seen as being partial. in the syria context, projecting mass outflows 
+could  have  been  perceived  poorly  by  the  syrian  government,  hindered  humanitarian 
+operations there, and caused panic in neighboring countries. 
+it is also the case that once the influx reached a critical mass, agencies were stretched to 
+meet daily and growing needs, and so there was simply no time to spare for projecting 
+further increases and what that would require for agency scale-up. 
+contingency planning that fell far short of what materialized was not unique to lebanon. 
+in fact, by 2013, unhcr realized that a new planning vehicle was needed and developed a 
+preparedness package for refugee emergencies, which is now complemented by an inter-
+agency one (unhcr 2017; iasc n.d.). essentially, this methodology facilitates planning 
+informed by assessing risks but not exclusively so: agencies can plan on what may be 
+needed in various different escalating scenarios without formally assessing the likelihood 
+of those scenarios occurring. in effect, this methodology removes the need to forecast a 
+
+88
+
+journal on migration and human securitypolitical outcome and allows for preparedness planning for a range of scenarios from the 
+modest to most grave. it also assists in ensuring advance planning and readiness and avoids 
+multiple revisions of contingency planning due to rapidly changing realities on the ground. 
+
+b. agency scale-up 
+
+enhanced preparedness planning may have helped to avert some of the difficulties agencies 
+had in ensuring necessary staffing and program implementation capacity to meet growing 
+demands. other challenges, however, would have remained regardless of the effectiveness 
+of preparedness measures. 
+for humanitarian actors, keeping up with the increase in scale of the influx was a major 
+challenge, not the least for unhcr. the crisis was a slow burn, starting with a small 
+influx in 2011, building slowly through 2012 and then expanding massively throughout 
+2013 to 2015. the government could not cope and it fell upon unhcr along with un 
+and ngo partners to receive and assist an ever burgeoning refugee population scattered 
+across the hundreds of small communities in which they settled. in 2011, when the crisis 
+began, unhcr had one small office in beirut, assisting 10,000 mostly iraqi refugees with 
+an operating budget of just four million dollars. within four years, unhcr had six offices 
+strategically located throughout the country, assisting over one million refugees with an 
+operating budget of $322 million.7
+managing such a rapid expansion required overcoming a variety of challenges. between 
+2012  and  2014,  unhcr  struggled  to  find  physical  space  to  register  and  receive  all 
+refugees. many landlords were hesitant to provide space or willing only to provide it for 
+limited lengths of time. as a result, unhcr experienced 16 office set-ups and relocations 
+throughout the country. the number and needs of refugees sky-rocketed, requiring constant 
+expansion of programs and the staff to design and deliver needed assistance. unhcr went 
+from having a few implementing partners to having over 40, and from having just 65 staff 
+members initially to having 800 when the influx was at its peak. 
+rapid emergency scale-up is part of unhcrs dna. it relies on the quick deployment 
+of  experienced  professional  international  staff  in  critical  functional  areas  (protection, 
+program, shelter, administration, finance, and human resources), bolstered by recruitment 
+of national staff who often need rapid training to assume their functions. national staff 
+typically outnumber international staff by a factor of 3:1. this formula usually ensures 
+a  smooth  capacity  increase,  but  2013  proved  anything  but  usual.  the  magnitude  of 
+the  syria  displacement,  coming  on  the  heels  of  the arab  spring  and  consequent  mass 
+displacement in north africa, and occurring at the same time as emergencies in central 
+african republic, south sudan, and the philippines, created challenges in identifying and 
+deploying  experienced  staff  in  sufficient  numbers  and  with  the  functional  background 
+needed to establish fully effective operational responses. 
+unhcr reinforces its emergency staffing capacity in a staggered manner, starting with 
+initial emergency deployments of a few months duration, drawing from expertise available 
+
+7   unhcrs budget, although consistently less than projected needs, rose continually throughout the period 
+and cumulatively amounted to $907 million for the 20122015 period. 
+
+89
+
+responding to a refugee influx: lessons from lebanonin the region and beyond. these emergency deployments, often managed through rosters 
+and partner stand-by arrangements, are frequently engaged several times, as they were in 
+lebanon, until a more stable staffing structure can be put in place.8 
+other  emergency-oriented  international  partners  also  had  rapid  deployment  schemes. 
+however, many beirut-based international agencies who wanted to contribute were unable 
+to deliver programs at the desired level of speed or breadth because of insufficient capacity 
+to expand quickly and effectively outside the capital as the situation demanded. this created 
+challenges, for it meant that capacity on the ground was simply not able to match the need 
+during the initial years. it also led to concerns that unhcr was too dominant, and engaged 
+in areas where its operational partners were believed to have a comparative advantage, 
+notwithstanding delays in being able to deliver on that advantage. 
+moreover, despite unhcrs ability to deploy quickly, the refugee emergencies that swept 
+the globe from 20122014 highlighted shortages of staff trained in the areas of administration, 
+finance, project control, and supply. these competencies are all critical in managing the 
+heavy  procurement,  disbursement,  project  monitoring,  audit,  and  strengthening  partner 
+capacity necessary in an emergency response. unhcr has since engaged in recruitment 
+exercises to attract new staff with the required competencies, and has expanded the number 
+of national officers with these skill sets. these actions are appropriate. the lebanon crisis 
+has  made  clear  the  need  for  extremely  forward-looking  human  resource  planning  by 
+unhcr and all partners to ensure that staff with required skills will be available to meet 
+emergency needs. 
+
+c. coordination
+
+in lebanon, as in 136 countries, around the world, un agencies ensure coordination of 
+their activities as part of a un country team (unct). agencies jointly plan using a un 
+development planning framework, and generally the plan becomes operational once endorsed 
+by the government of the country concerned. the unct is led by a resident coordinator 
+who also serves as head of the united nations development programme (undp).  within 
+the unct, agencies lead in areas according to their mandate and expertise, with unhcr in 
+the lead on refugee responses. the planning framework extends for five years. in lebanon, 
+prior to the refugee influx, most un agencies were engaged in providing policy guidance 
+to the office of the prime minster and to government ministries in one or more of the 
+following five areas: governance, human rights, gender, socioeconomic development, and 
+the environment. the united nations relief and works agency for palestine refugees in 
+the near east (unrwa) ran the largest humanitarian program, while unhcr had a rather 
+modest program to meet the needs of 10,000 mostly iraqi refugees. 
+given its specialization, and pursuant to its mandate, unhcr, alongside the government, 
+coordinated the work of un and partner agencies in regard to the refugee response. although 
+
+8   a more stable second phase, beyond emergency deployments, was facilitated in lebanon by the initiation 
+of an accelerated redeployment scheme, which enabled advertising, selection and redeployment of existing 
+unhcr staff much more quickly than under normal procedures. this redeployment on a fast-track basis 
+ensured a relatively efficient staffing scale up, although admittedly by placing a strain on other unhcr 
+operations which saw their staff leave earlier than anticipated to meet emergency needs in lebanon and the 
+region
+
+90
+
+journal on migration and human securitythe  governments  capacity  was  limited,  seeking  and  helping  to  capacitate  government 
+leadership  early  on  was  essential  in  ensuring  necessary  approval  and  authority  for  the 
+expansion necessary to meet the needs of refugees and the communities that were assisting 
+them.9 it was the case, however, that regardless of this early engagement, coordination with 
+the authorities remained a challenge given the many different government actors involved 
+and the absence of detailed policy guidance being issued at the central level. 
+no less challenging was coordination among un and partner agencies. here the problems 
+were  threefold:  initial  lack  of  capacity,  insufficient  local  focus,  and  overlapping  and 
+duplicative un processes. 
+firstly,  agencies  were  initially  short  of  capacity  in  the  form  of  staff  and  information 
+management tools to meet growing demands. the scale-up of appropriate staff remedied 
+the former while the introduction of new automated tools greatly enhanced the latter. but 
+these remedies should ideally have come far earlier in the crisis. 
+related to this challenge was the fact that un and international partner agencies had a 
+relatively heavy presence in beirut and readily attended coordination meetings there but 
+had little presence in the field areas where the majority of refugees and communities in 
+which they lived needed support. as a consequence, there were insufficient links between 
+policy decisions taken in the inter-agency meetings in beirut, and implementation taking 
+place in the field. similarly, policy decisions were limited by an incomplete understanding 
+of the opportunities and constraints faced by humanitarians in the field, which varied in 
+each location. this heavy beirut-based focus shifted gradually with a more proportionate 
+engagement in the field as unhcr and its implementing and operational partners delegated 
+more program management and decision making to field offices in late 2013 and 2014. 
+again, this decentralization should have come sooner. 
+secondly, since most agency activities had been traditionally beirut-based, they did not 
+have a significant understanding of the local governance structures at an early stage. one 
+clear  lesson  from  lebanon,  applicable  across  many  humanitarian  contexts,  is  that  it  is 
+not  sufficient  to  coordinate  only  with  central  authorities.  engaging  local  authorities  is 
+also critical and investment in both must occur at the outset. this is also an area where 
+good preparedness planning prior to an emergency is essential. in the lebanon situation, 
+un and partner agencies did not have a detailed enough view or understanding of the 
+governance structure in lebanon from the central to the local level nor deep connections 
+to local authorities. undp had invested heavily in strengthening capacities of both central 
+and local authorities but this experience was not widely shared. a mapping of government 
+actors at various levels, accompanied by clear analysis of their respective accountabilities 
+and authorities, would have helped to produce stronger area-based coordination earlier in 
+the crisis, and would have improved outcomes for both refugees and impacted communities. 
+a third constraint to effective inter-agency coordination was the duplicative coordination 
+mechanisms of the united nations. consistent with its relatively rapid initial scale-up, 
+
+9   for example, initially registration was done jointly with the government, as was food distribution, until 
+the number of refugees eclipsed the ability of the government to continue. but the early engagement was 
+critical, and helped to counter later allegations that unhcr had registered and assisted refugees without 
+government approval. 
+
+91
+
+responding to a refugee influx: lessons from lebanonunhcr assumed leadership positions not just for the overall refugee response but also 
+in sectors where other agencies felt they had a comparative advantage. unhcr took this 
+approach because many such agencies initially faced substantial constraints in deployments 
+and  operational  delivery. a  system  of  co-leadership  was  undertaken  from  the  outset  in 
+sectors such as social cohesion and livelihoods, education, water, sanitation, and health. 
+while  this  made  sense  initially,  unhcr  could  have  more  readily  relinquished  its  co-
+leadership of these sectors as soon as its operational partners were able to take them on, 
+and focused instead on areas in which unhcrs capacity and leadership are recognized: 
+protection,  shelter,  and  overall  coordination  of  the  refugee  response.  this  would  have 
+helped to ease the tension and competition between agencies which characterized the early 
+years of the response. 
+an additional complicating factor in the lebanon situation was an overlap and duplication 
+brought about by the creation of a humanitarian country team (hct) that worked in parallel 
+to the refugee coordination structure and the unct. 
+in june 2012, when the number of syrian refugees in lebanon was just 8,300 persons, the 
+un emergency relief coordinator appointed a humanitarian coordinator (hc) for lebanon. 
+while this appointment was not intended to organize a refugee response, the fact was that 
+the refugee influx was the dominant humanitarian concern in the country. the designation 
+of a humanitarian coordinator, who was also the resident coordinator (rc) serving in a dual 
+capacity, was followed by the creation of a hct consisting of un agencies, the international 
+organization for migration, ngo representatives, and members of the international red 
+cross and red crescent societies. donor representation was later added. 
+as the situation became more complex inside lebanon, the need for a more robust response 
+to strengthen lebanese institutions and support communities affected by the syrian crisis 
+became more readily recognized. this was a pivotal moment. the work could have been 
+pursued as part of the unct. relevant agencies of the un development system, which 
+provides the policy advice to uncts, should have worked to reinforce the capacity of the 
+unct to reorient its work accordingly and to engage ngos and donors in the process. 
+instead, the rc was designated as hc with a mandate to initiate a parallel coordination 
+structure.
+there were now three coordination mechanisms operating in tandem with the government: 
+the refugee response led by unhcr; the humanitarian response led by the humanitarian 
+coordinator; and the longer term development response within the unct.  for the former, 
+while policy was set in beirut, the bulk of the efforts  assessments, implementation, 
+monitoring, and evaluation  were done in the field. in contrast, both unct and hct 
+meetings generally were information sharing, with a heavy focus on the refugee response. 
+the cost of the additional hct process, in terms of time, and also arguably in diminished 
+relevance of the unct, was notable. throughout 2014 and 2015 there were separate and 
+often bi-weekly meetings of the hct and unct, with each meeting 1.5 to 2.5 hours in 
+duration. both meetings occurred in beirut and often covered the same agenda items. the 
+meetings regularly occurred a few days apart and were attended by over 24 agencies. the 
+most significant difference between the two meetings was that donors and ngo partners 
+attended the hct. 
+
+92
+
+journal on migration and human securityin the end, there was a consolidated plan, with unhcr leading on the refugee response 
+component and undp leading on the resilience and stabilization side. by this time, the 
+growth of undps capacity allowed it to embrace its role. however, rather than starting 
+with this approach from the outset, as part of a capacitated unct, an additional layer 
+was added which depleted the already stretched time and resources of humanitarian and 
+development partners. 
+the  value  of  an  hct  is  indisputable  in  humanitarian  emergencies,  particularly  when 
+there is widespread internal displacement, which was the reason for their creation. ideally, 
+however, even in such situations, the life of the hct should be limited and investments made 
+to capacitate the existing unct and bring in additional partners from donor, ngo, and 
+private sector spheres as necessary, to holistically support a country with its humanitarian 
+and  development  challenges.  this  would  prevent  duplication  and  reflect  the  growing 
+consensus that humanitarian and development actions should be linked from the outset 
+of an emergency. coordination should be streamlined and the unct held accountable for 
+delivering on its mandate, as calls for empowered rc and unct leadership increasingly 
+demand. 
+
+d. development action
+
+while there is no doubt that the creation of the hct added an additional layer of coordination, 
+it is also the case that the unct failed to flexibly reorient itself to the changing situation 
+in lebanon. within the unct, agency joint planning  often referred to as joined up 
+planning  was based on desired development outcomes conceived and approved well 
+before the syrian crisis. many agencies were pursing objectives with various ministries that 
+had little or nothing to do with humanitarian relief to refugees. the concern was frequently 
+expressed that the humanitarian response not overshadow or distract from the important 
+development priorities in which agencies were already engaged. even in 2013, when it 
+became clear that the crisis in syria was likely to be protracted, it was difficult to reorient 
+development priorities and actions to the new reality in lebanon. 
+this was a result of many factors. in addition to initial erroneous forecasting of the length of 
+the conflict in syria, the development actors faced difficulties in readjusting programs, most 
+of which were the product of detailed design and long negotiation to secure government 
+approval. moreover, as readily as undp saw the need to invest in providing support to 
+local communities assisting refugees, it had an extremely small funding envelop to draw 
+upon. additionally,  because  lebanon  is  a  middle-income  country,  direct  support  to  its 
+institutions beyond technical and policy advice was often not accounted for in agency or 
+donor program designs. coupled with these challenges was a historically poor record of 
+accounting by government agencies for support such as was provided for the post-2006 
+israeli-lebanese conflict reconstruction efforts. 
+as a consequence of these factors, the unct missed opportunities to unify and reorient 
+un  agency  work  early  on  towards  a  resilience  agenda  (for  support  to  institutions  and 
+host  communities  impacted  by  the  syrian  crisis).  interventions  to  help  institutions  and 
+communities impacted by the refugee influx were initially introduced by unhcr in inter-
+
+93
+
+responding to a refugee influx: lessons from lebanonagency funding appeals for the syria situation in 2014.10 subsequently, unhcr, with the 
+support of several partners, implemented over 270 community support projects throughout 
+the country in areas where poverty levels, refugee numbers, and tensions were high. projects 
+included new wells; water, sanitation and waste management facilities; community centers; 
+improved medical facilities; youth education and sport activities; rehabilitation works; and 
+livelihood projects.11 yet as important as these projects were, they alone could not address 
+the serious impact of the syrian crisis on lebanon, including the refugee influx, which was 
+far beyond humanitarian funding to address. 
+the  extent of  that impact was  dramatically illustrated by  the  publication in  september 
+2013 of the economic and social impact assessment (esia) of the syrian conflict on 
+lebanon.12 the assessment concluded that the syrian crisis had a significant economic 
+impact on lebanon. trade, tourism, consumer confidence, and investment all had fallen, 
+contributing to a loss of government public revenue of $1.5 billion. moreover, increased 
+numbers  of  refugees  had  taken  a  toll  on  public  services  (health  and  education)  and 
+infrastructure (electricity, water, sanitation, and transportation), such that lebanon would 
+need approximately $2.5 billion to restore public services and infrastructure to pre-conflict 
+levels. the report further estimated that an additional 170,000 lebanese would be pushed 
+into poverty. 
+several months later the world bank established a trust fund to help the lebanese government 
+deal with the fiscal impact of the syrian crisis. the objective was to ensure a timely and 
+reliable flow of international grants to finance projects that would have immediate impacts 
+on lebanese communities affected by the influx of syrian refugees. unfortunately, the trust 
+fund failed to meet expectations in the ensuing years due to a lack of political consensus 
+to ensure that necessary mechanisms were in place and that disbursements were made as 
+planned. 
+another relatively early partner on the development side was the european union (eu). the 
+eu responded quickly to unhcrs concerns that hosting communities needed assistance 
+to cope with the increase in arrivals of refugees. through various funding sources, the eu 
+financed a range of projects designed at the municipal level, including efforts to improve 
+waste collection, water distribution, community services, and the delivery of public health. 
+these efforts went a long way in assisting communities and lessening prospective tensions 
+between refugees and the lebanese. eu funding was also directed towards strengthening 
+the capacities of the ministry of health and the ministry of education to improve service 
+delivery and to do so in a manner that included refugees in the provision of services. 
+10   during 2014 and subsequently, there were six refugee response plans, i.e., regional strategy 
+documents, with specific country chapters, designed to present an inter-agency assessment of humanitarian 
+needs resulting from the crisis in syria, and aiming to ensure a coherent response to those needs.
+11   funding was provided by a variety of donors including the european union, france, germany, italy, 
+kuwait, mexico, the russian federation, the said and asfari foundations, saudi arabia, the swiss agency 
+for development and cooperation and the united states (unhcr 2014). 
+12   the 2013 assessment was led by the world bank (wb) in collaboration with a number of un agencies 
+(notably undp, unicef and unhcr), the european union, and the international monetary fund 
+(imf). its background can be found in 2012 discussions held between unhcr and the wb regarding how 
+unhcrs data could be used together with wb expertise to analyze the economic impact of the syrian 
+crisis, including the impact of the refugee influx on lebanon and the institutional support that would be 
+needed.
+
+94
+
+journal on migration and human securitythese efforts by the eu, and others, started to become more entrenched in the refugee 
+response from late 2014 onwards. unlike the community support projects, these investments 
+were of a larger scale and were intended to be multi-year. the benefits were particularly 
+visible in the area of education: the minister of education and higher education (mehe), 
+with the support of several donor states, unicef, the world bank, unhcr, and other 
+specialized agencies, made a concerted push to strengthen the capacity of the public school 
+system. the  ambition  was  twofold:  to  improve  the  quality  of  public  education,  and  to 
+expand capacity to ensure the inclusion of refugee children. the former was important since 
+weaknesses in the public system had resulted in 75 percent of lebanese children attending 
+private institutions and rendering the public system populated largely by poorer children 
+whose need for a good education was every bit as essential. the push to achieve these 
+aims was concentrated in a new three-year program, reaching all children with education 
+(race) that was initiated in 2014 (mehe 2014). race encompassed a combination of 
+efforts including physical rehabilitation of schools, teacher training, accelerated learning 
+programs, and technical support to the ministry. 
+this broad-based partnership, which engaged humanitarian and development actors in an 
+effort both to expand education to children and improve the outcomes for lebanon, has 
+had significant impact. although it is too early to know whether the efforts will translate 
+over time into longer school retention rates, and more primary and secondary graduates 
+within  refugee  and  lebanese  communities,  the  initial  results  were  positive.  lebanon 
+went from accommodating just 62,664 refugee children in the public system in 2013, to 
+accommodating over 100,000 in 2015 with plans for an additional 100,000 the following 
+year. 
+the refugee influx into lebanon, particularly from 2013 onwards, focused international 
+attention on lebanon and the level of financial engagement by donors was much larger than 
+existed before the crisis. while the mass arrival of refugees strained the delivery of public 
+services, the relatively early linkages of humanitarian and development planning in the 
+education sector helped to ensure improved outcomes for both refugees and lebanese. it 
+is a useful example of what is increasingly being seen as the advantages of comprehensive 
+joined  up  humanitarian  and  development  planning,  which  should  become  less  of  an 
+exception and more of a rule in future responses. 
+by 2015, this approach was fully reflected in funding appeals which were based on meeting 
+the needs of refugees as well as providing more robust support for lebanese institutions.13 
+the lesson  learned from  lebanon is  that this  joined-up  humanitarian and  development 
+programming should be embarked upon early in the crisis, and extend beyond education to 
+delivery of other critical services.
+
+e. funding 
+
+as funding depends on voluntary contributions, and was neither predictable nor (but for a 
+few exceptions) multi-year, stable programming was not possible. in 2013 alone, unhcr 
+in lebanon experienced nine budget increases. 
+13   the regional refugee and resilience response plan launched in that year, which included lebanon 
+and other hosting countries in the region, appealed for $4.3 billion to respond to refugee needs in the 
+region, and $1.75 billion for lebanon alone. 
+
+95
+
+responding to a refugee influx: lessons from lebanonthe  practical  constraints  of  such  a  situation  cannot  be  underestimated.  unhcr  and 
+partners could not be sure whether they would have the funds needed to meet very basic 
+shelter, protection, health, and food needs throughout the year. limited funds secured at 
+the beginning of the year had to be planned to meet basic needs for a limited number of 
+months, in the uncertain hope that more funding would be forthcoming, or strictly rationed 
+from the beginning, in the hope of maintaining some thin coverage until the end of the year. 
+the consequences were often brutal. in 2013, for example, agencies did not secure funding 
+by mid-year to purchase materials needed to procure shelters for the winter months, which 
+would begin when temperatures started to plummet at the end of september. when funding 
+arrived in the last quarter, it was too late to secure all the materials necessary and distribute 
+them to the thousands of refugees trapped by snow and freezing rain. 
+as the operation matured, and as the crisis in lebanon garnered more international coverage, 
+funding became less of a challenge insofar as agencies could plan with more certainty at 
+the beginning of the year that the level of pledges made (which were never in excess of 
+50 percent of what was needed) would be followed by disbursements throughout the year. 
+this meant that unhcr and partners could plan with a higher level of certainty, although 
+always with significantly less funding than what the situation demanded. 
+for their part, many donors were pledging amounts far above previous levels and without 
+such support there would have been considerable loss of refugee life in lebanon and greater 
+instability throughout the country. at the same time, the tight earmarking of contributions 
+meant that agencies had little flexibility to move funds from areas that were relatively well 
+resourced to life saving interventions that were less well funded. relatively tight earmarking 
+of contributions also led to multiple and complicated reporting on funds received: within 
+a donor country, different sources of funds had different reporting requirements, and no 
+donor country had the same requirements as another. 
+while donors are generally sympathetic to the constraints earmarking imposes on agencies, 
+they nonetheless continue to favor earmarking because contributions to a specific cause, 
+such  as  education,  allow  them  to  show  constituents  concrete  benefits  arising  from  the 
+funding, in exactly the area in which improvement was sought. earmarking also assures 
+them that their priorities will be met and not displaced by priorities that the recipient agency 
+may favor. it is perhaps not surprising, therefore, that earmarked contributions for unhcr 
+in lebanon from 2013 to 2015 grew from 52 to 62 percent of total contributions received. 
+meanwhile, the number of separate donor reports increased during that same period from 
+21 to 61. 
+as the number and size of donor contributions grew, naturally so too did donor interest 
+in  visiting  refugees  and  seeing  firsthand  the  conditions  in  which  refugees  lived,  the 
+consequences of the influx on lebanon and the impact of their own contributions. the 
+number of days each year that unhcr hosted such donor missions, complete with briefings 
+and site visits, increased from 50 in 2013 to 150 in 2015. 
+another  challenge  faced  in  lebanon,  which  is  also  present  in  other  operations,  is  that 
+donors often had bilateral agreements with many of the partners that unhcr and other 
+un agencies used to implement their programs. there was little coordinated assessment 
+of partner activity, either as between un agencies, between un agencies and donors, or 
+
+96
+
+journal on migration and human securitybetween donors themselves. this was unfortunate for each donor and/or agency engaging 
+the same partner in a particular sector that had a separate review, monitoring, assessment, 
+reporting, and auditing mechanism. this was certainly cumbersome for the partners and 
+did not advance improved programming overall. 
+the limitations imposed by the lack of significant multi-year funding for humanitarian 
+action  and  the  constraints  that  are  consequent  upon  heavily  earmarked  funding  were 
+recently addressed as part of the discussion of the grand bargain at the world humanitarian 
+summit (un secretary-general 2016).14 the goal should be to limit earmarking, establish 
+adequate  multi-year  funding  whenever  possible,  and  harmonize  reporting  requirements 
+and partner assessments between donors. 
+
+f. innovation
+
+increasingly donors call for, and humanitarian agencies pledge, to deliver programs more 
+efficiently,  including  through  innovative  means.  indeed,  innovative  means  of  service 
+delivery are coming on stream at an accelerated pace. what is very much needed is better 
+linking of these initiatives to benefit more operations. 
+the response to the refugee influx in lebanon brought together an extremely diverse array 
+of  humanitarian  actors  across  agencies,  which  met  regularly,  formally  and  informally 
+to enhance information and data analysis across all sectors. among them was a core of 
+extremely  savvy  and  technologically  adept  national  and  international  colleagues  who, 
+faced with constraints in program design and delivery, set about creatively to overcome 
+them.  sometimes  these  efforts  drew  from  best  practices  elsewhere,  which  were  often 
+subsequently enhanced; at other times, new means were adopted.
+
+1. registration using biometrics
+
+the move to biometric registration in lebanon was one of the most significant enhancements 
+to  registration,  needs  identification,  coordination,  and  refugee  protection.  adapting 
+the technology piloted in jordan, unhcr introduced biometric iris scanning as part of 
+registration processes in late 2013. that move greatly sped up the process of registration 
+and permitted daily and disaggregated information on arrivals and trends throughout the 
+country. it also helped to ensure the integrity not only of unhcrs registration data but 
+also of the systems that depended on reliable registration data, including for assistance 
+and resettlement. as the data was secure and linked eventually to unhcr offices in the 
+region, it facilitated early detection of multiple claims.  the registration process was further 
+enhanced by the development of an electronic syrian id card reader, which eliminated 
+the risk of human error in transcribing a name from the id card to the registration data 
+base. the card reader became part of a package of efforts to strengthen the capacity of the 
+lebanese government that until then relied largely on manual data entry. 
+
+14   the grand bargain refers to a package of reforms to humanitarian funding launched at the world 
+humanitarian summit. donors and aid financing agreed to 51 commitments to make emergency aid finance 
+more efficient and effective in order to better serve people in need (the grand bargain 2016). 
+
+97
+
+responding to a refugee influx: lessons from lebanon2. refugee assistance information system
+
+registration data was linked to a refugee assistance and information database developed 
+by unhcr and known as the refugee assistance information system (rais). rais is 
+an assistance tracking and referrals database. it allows unhcr and its partners to share 
+information on who has been assisted and how, and what further follow-up is needed. the 
+system is synchronized daily with the registration system. refugees consent to having their 
+data shared with only those partners who sign a data sharing agreement with unhcr and 
+meet data security protocols. the system dramatically reduces the chance of duplication of 
+assessments, reduces the risks of overlap in partner activities, and improves the delivery of 
+services to refugees by facilitating the ability of partners to monitor whether assistance has 
+been provided to persons in need of it and whether referrals to appropriate services have 
+been made.
+beyond the tracking of assistance provided to individual refugees and households, rais 
+is also used in post-distribution monitoring to assess the status and changes in expenditure 
+patterns and coping strategies of refugees. this is done through household visits using a 
+rais mobile data collection solution. the mobile data solution was also applied to taking 
+case  histories  and  referral  of  persons  to  specific  services,  and  for  ongoing  monitoring 
+including as a means to track school enrollment. in large operations like the lebanese 
+one, rais also permits humanitarian actors to respond to inquiries from refugees, and 
+to provide them with up to date information on whether they have been determined to be 
+eligible for assistance and whether they have been registered with unhcr.
+
+3. electronic reporting
+
+as the number of partners and donors grew, consistent reporting became a serious issue. 
+multiple sectors and agencies were using different means and different time periods to 
+report on their assessments and their activities. this was creating confusion and inhibiting 
+a clearer picture of needs, interventions, and gaps. to address this problem, an open source 
+tool called activity info, first piloted by unicef and the office for the coordination of 
+humanitarian affairs (ocha) in the democratic republic of the congo, was adapted to 
+the lebanon context. all partners were trained in its use. partner reports were henceforth 
+streamlined  into  a  single  electronic  database,  using  harmonized  data  sets  and  with 
+predictable  frequency.  the  tool  significantly  enhanced  coordination  by  permitting  the 
+tracking of agencies activities throughout the country and the identification of areas and 
+needs that had yet to be met. activity info is one of the most significant data management 
+tools and one that should be employed in other emergency and large operation settings. 
+
+4. data collection and consolidation
+
+in the early years of the emergency, most field data was collected by hand, using paper, 
+clipboards, and excel spreadsheets. data clerks then had to be employed to encode the 
+data  into  databases,  so  that  the  data  could  be  analyzed. within  a  couple  of  years,  this 
+methodology gave way to mobile data collection using open source software. the data 
+collected was automatically linked to the relevant sector-based database. this enhanced 
+efficiency and improved reliability and analysis. 
+
+98
+
+journal on migration and human securitymoreover, just as activity info harmonized and facilitated agency reporting and coordination, 
+so too did the application of spongebase, developed for the lebanon context by unhcr 
+and  unicef.  spongebase  provides  a  means  to  automatically  collate  information  from 
+different data sources and aggregate them onto a web-based map. prior to its use, agencies 
+received  only  a  partial  view  of  data,  given  that  multiple  databases  and  data  sets  were 
+being used and were not pulled together and linked to geographic areas so as to provide a 
+consolidated overview. 
+significant time and effort can be saved, coordination enhanced, and analysis improved 
+with the use of such data management and analysis tools early in an emergency. 
+
+5. cash-based programming
+
+while cash-based programming is often cited as an example of innovative programming, 
+the use of cash to meet needs is neither particularly new nor innovative. its expanded use in 
+addressing refugee needs, however, is relatively recent. the advantages of properly designed 
+and  monitored  cash-based  programming  include:  cost  effectiveness;  the  empowerment 
+of recipients by enabling them to determine what to prioritize given their specific needs; 
+the provision of a more dignified means of receiving help compared to receiving in-kind 
+assistance; benefits to local markets and economies; and a reduction in fraud. 
+the  use  of  cash  in  lebanon  to  provide  assistance  for  refugees  had  always  been  rather 
+modest. in the early days of the syrian crisis, the wfp introduced a food voucher system, 
+but  it  was  not  until  much  later  in  the  crisis  that  some  agencies  tested  the  use  of  cash 
+cards as an alternative means of delivering assistance. cash-based programming through 
+multi-purpose cash cards had already been successfully implemented in jordan, but its 
+introduction in lebanon met with initial resistance from the government on the grounds that 
+poor lebanese would resent cash being provided to refugees. this reticence was overcome 
+in  large  part  due  to  the  willingness  to  link  cash-based  programming  to  improvements 
+to  lebanons  national  poverty targeting  program  (nptp).  specifically,  with  technical 
+guidance from the world bank, an emergency project was launched to expand and improve 
+the social assistance package of the nptp, including to those affected by the syrian crisis 
+(world bank 2014).15
+the greater reliance on cash-based programming through the use of multi-purpose cash 
+cards in lebanon proved to be a boon and would have helped even more if it had been 
+initiated earlier. for example, investment in communal shelters made sense initially when 
+refugee numbers were small and seemingly temporary. but their use proved difficult as 
+problems were encountered in ensuring proper site management by partners and refugees 
+and  in  maintaining  good  relations  with  surrounding  communities.  such  investment 
+ultimately proved unsustainable given the relatively high cost of maintaining communal 
+shelters amidst burgeoning shelter needs which could not be met by the extremely limited 
+number  of  sites  available  for  collective  accommodation. an  early  recourse  to  cash  for 
+rent, in hindsight, would have been a better option. in addition, the provision of winter 
+assistance initially in kind, and later through partial reliance on fuel vouchers, turned out 
+to be very problematic as the numbers grew. the use of fuel vouchers left agencies open to 
+15     an additional financing grant was sought in june 2016 from the world bank. 
+
+99
+
+responding to a refugee influx: lessons from lebanonintimidation by petrol suppliers who wanted to be included in the scheme but did not meet 
+the selection criteria. moreover, vouchers also left refugees open to intimidation by gangs 
+who insisted that they sell the vouchers for less than the face value. finally, some types of 
+in-kind shelter support, such as weatherproofing materials, were excessively costly in terms 
+of  warehousing  and  transportation  expenses. winter  support  was  more  sustainable  and 
+better able to meet needs when in-kind support was selectively provided  for example, 
+for high efficiency and safe heaters of good quality that were obtained through established 
+and competitive suppliers. 
+reaching more harmonized approaches by wfp, unhcr, and several ngos was complex 
+given that initially they used different methodologies to determine needs, and provided 
+cash for different purposes (food, shelter, multi-use) and in different formats (vouchers, 
+cash  cards).  moreover,  the  move  to  cash  cards  entailed  complicated  negotiations  with 
+banks, technological interfaces to link registration and eligibility data with cash delivery, 
+monitoring mechanisms and most importantly, a common means for determining  across 
+agencies and amongst donors  the criteria to determine who was entitled to such support 
+and at what level. 
+through prolonged and exacting negotiations, a common methodology was agreed upon to 
+address these issues. in the first instance, a statistical model was applied to the information 
+gathered during registration in order to predict the needs of a household. this was followed 
+with information gathered by sectoral specialists through their visits, which could indicate 
+higher or lower levels of vulnerability upon which eligibility would be adjusted. in short, 
+collective action was brought to bear on a situation-specific challenge, one which unhcr, 
+wfp, unicef and partners are examining further as they explore employing joined and 
+single-cash delivery systems elsewhere. 
+
+g. accountability
+
+humanitarians must remain accountable to those they seek to assist. it is not sufficient 
+solely to assess needs and deliver assistance. assistance must be informed by what refugees 
+feel they need and can use, and their feedback on the utility of humanitarian efforts must 
+be communicated to improve responses. while achieving such accountability is important 
+in operations of all sizes, it is especially challenging in large operations like lebanon, with 
+sizable and dispersed beneficiary populations.
+for many years, unhcr has been using participatory assessments, which include holding 
+separate discussions with women, men, girls, and boys in order to gather accurate information 
+on the specific problems they face and also to hear their proposed solutions. participatory 
+assessments help to ensure that humanitarian action reflects refugees priorities and that 
+refugees are able to contribute to the design, modification, and implementation of efforts. 
+print  and  electronic  media  (flyers,  posters,  signs,  and  videos)  are  standard  forms  of 
+communication at registration centers, community centers, health clinics, and elsewhere 
+to deliver important information regarding protection, service availability, public health, 
+fraud prevention, and response messages. unhcr has also developed specific websites 
+for refugees that convey all manner of information needed to address refugee concerns 
+
+100
+
+journal on migration and human securityand provide advice regarding available services. refugees can rate the usefulness of the 
+information provided and suggest means to improve it. in addition, in lebanon, radios 
+were distributed by the united nations educational, scientific and cultural organization 
+(unesco) and unhcr, and a weekly radio program for refugees was used to supplement 
+other information-sharing efforts. 
+relying on refugees to assist in program delivery was also hugely valuable in ensuring 
+that the humanitarian response was optimally directed at real needs. in lebanon, where 
+refugees were spread across 1,700 locations, it was difficult to ensure timely access to all 
+locations. the refugee outreach program was designed to engage up to 1,000 refugees to 
+provide specialized information to refugee communities in the areas of health, education, 
+law, and child protection. refugees engaged in these efforts often have pre-existing training 
+in  specialized  areas,  but  also  receive  specialized  support.  in  lebanon,  they  received 
+induction training on the situation in the country, the humanitarian response, unhcrs 
+code of conduct, and protection and humanitarian principles. they circulated regularly in 
+their communities, providing advice and referring refugees in need to specialized services. 
+they met weekly with unhcr and partner agencies, and received updates on the latest 
+information and stipends for their services. 
+reliance  on  refugees  for  outreach  greatly  improved  communication  with  refugee 
+communities, and led to more persons at risk coming forward to seek advice and help. it 
+also helped to ensure that agencies had up-to-date information about refugees concerns, 
+which was especially vital in communities that, due to security threats, were out of bounds 
+for most humanitarian workers. moreover, the program benefits the refugees it engages, 
+who appreciate the evident impact their involvement has and the useful employment of 
+their time and talents. 
+a relatively simple but useful tool that was developed in the lebanon operation was a 
+two-way instant messaging system to advise refugees on their eligibility for assistance. 
+refugees in lebanon had access to mobile phones and could opt to receive messages from 
+unhcr  on  their  phones.  this  was  especially  useful  in  communicating  time-sensitive 
+information regarding changes in government policy and other important information. a 
+system was developed to enable refugees to contact unhcr by instant message regarding 
+their eligibility for assistance and to receive an immediate automated response. 
+the recognition over time of the need for multiple means to ensure open and informed 
+communication lines with refugees was an important development in the lebanon refugee 
+response. it is another lesson learned: to maximize the breadth of communication lines, 
+complementary tools should be launched at the outset and not rolled out consecutively. 
+
+h. local partnerships
+
+lebanon  had  no  shortage  of  national  ngos  or  civil  society  groups  responding  to  the 
+refugee crisis. there were over 8,000 such groups registered with the authorities, with 
+approximately  1,000  registered  groups  actively  involved  in  providing  assistance  to 
+refugees (brd 2015). a core set of local ngos had long worked as implementing partners 
+for unhcr and other agencies in responding to the needs of iraqi refugees prior to the 
+
+101
+
+responding to a refugee influx: lessons from lebanonsyrian crisis. like everyone else, however, national ngos were challenged by the scale 
+of the syrian refugee influx and it was extremely difficult for them to scale up quickly and 
+ensure that the financial and accountability controls necessary for expanded partnerships 
+with un agencies were in place. moreover, for some, complying with these requirements 
+proved to be a problem that could not be easily remedied, as the requirements (demanded 
+by international accounting practices and auditing regulations) were quite burdensome. 
+the result was that international ngos dominated the scene for the initial years. when the 
+situation escalated so quickly, there was insufficient time to invest sufficiently in the needed 
+capacity building of national partners. this started to change when the refugee inflows 
+subsided. in 2015, unhcr introduced a system of area mentoring, whereby experienced 
+international implementing partners, as part of their agreements with unhcr, worked 
+alongside national ngos under what were known colloquially as umbrella agreements. 
+the idea was that over time the national ngos would replace the international ngos in 
+implementation, once the formers implementation and financial control accountabilities 
+were strengthened. 
+the lesson learned, which also saw expression in the commitments arising from the world 
+humanitarian  summit  of  may  2016,  is  for  greater  reliance  on  national  partners.  this 
+means investing in capacity building prior to crisis, including through the use of umbrella 
+agreements and evaluating their effectiveness over time. 
+it is important to note, however, that the lebanon experience pointed to instances where 
+direct contracting through the private sector also proved beneficial. for example, lebanon 
+suffered from a lack of clean drinking water in areas of high refugee concentrations. this 
+was due, in part, to weak water supply networks that suffered excessive loss because of 
+old and leaking pipes, as well as to increases in demand. with financing from the eu, and 
+technical support from the swiss development corporation, unhcr worked with private 
+lebanese companies, the ministry of water and energy and local water establishments, for 
+the construction of new water wells and storage tanks, and for the replacement of water 
+supply networks. the project (with initial funding of 14 million) sought to bring clean 
+water supply to over 11,000 homes upon completion. 
+by and large, the engagement of the private sector in the lebanon refugee response in the 
+early years was not robust. subsequent years have seen much greater engagement. today, 
+there  are  multiple  fora  seeking  to  harness  not  just  the  funding  potential  of  the  private 
+sector, but, even more importantly, to forge partnerships for humanitarian action in new 
+and creative ways.16 
+
+16   unhcr is investing in innovative approaches with its partners. unhcrs innovation unit collaborates 
+with unhcr divisions, refugees, academia, and the private sector to creatively address complex refugee 
+challenges (see http://www.unhcr.org/innovation/).  see also the new york declaration on refugees 
+and migrants, g.a. res. 71/1, u.n. doc a/res/71/1 ( oct. 3, 2016), annex 1, which establishes the 
+comprehensive refugee response framework (crr). this will engage a wide array of stakeholders and 
+include both humanitarian responses and development actions. it embraces private sector engagement, 
+diverse forms of investment, and innovative humanitarian delivery: http://www.unhcr.org/en-us/events/
+conferences/57e39d987/new-york-declaration-refugees-migrants.html. 
+
+102
+
+journal on migration and human securityiv. conclusion
+since the onset of the refugee influx in lebanon, there have already been a number of 
+developments which bode well for ensuring more effective emergency responses. first, the 
+whole model of contingency planning has been reviewed and replaced by what is turning 
+out to be a better means to prepare for crisis than what was used in the early years of 
+the syria conflict. the new model gives agencies an enhanced means of doing scenario 
+planning that is not constrained by political considerations. this in turn can help to ensure 
+that the standby arrangements for staffing, program delivery, and financial management are 
+in place before a planning scenario takes effect. 
+significantly,  as  well,  is  that  the  divide  between  development  and  humanitarian  action 
+is, at least theoretically, dissolving, with more states, development actors, and financial 
+institutions recognizing the need to shore up public institutions, services, and infrastructure 
+earlier in an emergency to meet the needs of refugees and hosting communities. this should 
+lead to humanitarian responses that are complemented by development ones  conjoined 
+action rather than consecutive action, which has been the situation in the past. while the 
+united nations will continue to be a large player in the humanitarian sphere, it will need to 
+partner more alongside much larger development partners for better outcomes for refugees 
+and their hosts. the comprehensive refugee response framework, adopted by the un 
+general assembly as part of the new york declaration of 2016, is a promising blueprint.17 
+another positive development has been the increased interest in and appetite for the use of 
+innovative technologies to help provide assistance in cost-effective ways. in lebanon, such 
+innovations enhanced data collection, brought new means of communication and learning 
+to refugees, and improved needs assessments, planning, implementation, monitoring, and 
+evaluation. if there is a weakness here, it is in the sharing of such innovative measures in 
+ways that operations around the world can benefit. and while these new technologies are 
+assisting in inter-agency coordination, the united nations could revise its own processes to 
+ensure they are streamlined, non-duplicative, and engage a wider set of partners.
+just  as  the  united  nations  could  positively  rationalize  its  coordination  processes, 
+emergency  responses  would  be  enhanced  with  efforts  by  donors  to  streamline  their 
+reporting  requirements,  coordinate  more  on  partner  assessments,  provide  more  flexible 
+and multi-year funding, and join up their humanitarian and development programming. 
+these ambitions are prominent in the 2016 world humanitarian summit, with some also 
+reflected in commitments found in the new york declaration for refugees and migrants. 
+at  the  local  level,  more  needs  to  be  done  to  ensure  that  humanitarian  agencies  fully 
+understand  the  full  range  of  relevant  accountabilities  and  responsibilities  from  central 
+to local authorities, and that there is an appropriate level of engagement with both. un 
+agencies  have  recently  pledged  to  invest  in  local  partners  (for  example,  in  discussions 
+during the 2016 world humanitarian summit). efforts underway to move forward on these 
+matters with ngos and private sector partners need to be shared and evaluated. enhanced 
+engagement of beneficiaries is already a tried and tested means for achieving appropriate 
+program design and delivery, but lessons and best practices still need to be more widely 
+shared. 
+
+17   new york declaration for refugees and migrants, annex 1.
+
+103
+
+responding to a refugee influx: lessons from lebanonfinally, the best planned emergency refugee response is one that never needs to get off 
+the ground because the anticipated causes for flight are mitigated and safety and security 
+restored. the fact that the syrian crisis has extended as long as it has, with such devastating 
+effect on individual lives, the country and the region, speaks to the enormous international 
+deficit in conflict prevention and mitigation. none of the lessons covered in this paper 
+address that deficit, nor will remedying the gaps identified above solve this most difficult 
+foundational problem. 
+ 
+references
+
+brd (beyond reform and development). 2015. mapping of civil societies in lebanon. 
+http://eeas.europa.eu/archives/delegations/lebanon/documents/
+
+beirut:  brd. 
+news/20150416_2_en.pdf.
+
+chaaban,  jad,  hala  ghattas,  rima  habib,  sari  hanafi,  nadine  sahyoun,  nisreen  salti, 
+karin seyfert, and nadia naamani. 2010. socio-economic survey of palestinian 
+refugees in lebanon. beiruit: american university of beirut. http://www.unrwa.
+org/userfiles/2011012074253.pdf.
+
+iasc  (inter-agency  standing  committee).  n.d.  emergency  response  preparedness. 
+
+https://www.humanitarianresponse.info/en/programme-cycle/space/page/
+preparedness.
+
+mehe  (ministry  of  education  and  higher  education).  2014.  reaching  all  children 
+with education in lebanon (r.a.c.e.). beirut: mehe. http://www.mehe.gov.lb/
+uploads/file/2015/feb2015/projects/racefinalenglish2.pdf.
+
+the grand bargain  a shared commitment to better serve people in need. 2016. 
+http://reliefweb.int/sites/reliefweb.int/files/resources/grand_bargain_
+
+istanbul. 
+final_22_may_final-2.pdf.
+
+united nations high commissioner for refugees (unhcr). 2014. lebanese communities 
+in  focus:  supporting  communities  protecting  refugees.  http://data.unhcr.org/
+syrianrefugees/download.php?id=7825.
+
+. 2017. preparedness package for refugee emergencies. https://emergency.unhcr.
+
+org/entry/55576/preparedness-package-for-refugee-emergencies-ppre.
+
+un secretary-general. 2016. outcome of the world humanitarian summit. report of the 
+secretary-general submitted to the un general assembly, august 23. u.n. doc. 
+a/71/353,  71st  sess.  https://www.worldhumanitariansummit.org/sites/default/
+files/media/a-71-353%20-%20sg%20report%20on%20the%20outcome%20
+of%20the%20whs.pdf.
+
+world  bank.  2014.  lebanon    emergency  national  poverty  targeting  program 
+project. washington, dc: world bank. http://documents.worldbank.org/curated/
+en/810511467987899324/pdf/pad1030-english-p149242-public-final-
+leb-enptp-english.pdf. 
+
+104
+
+journal on migration and human security

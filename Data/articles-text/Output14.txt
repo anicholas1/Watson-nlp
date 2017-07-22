@@ -1,0 +1,5810 @@
+leveraging the world cup: mega 
+sporting events, human rights 
+risk, and worker welfare reform 
+in qatar
+
+sarath k. ganji 
+us fulbright scholar
+
+executive summary
+qatar  will  realize  its  decades-long  drive  to  host  a  mega  sporting  event 
+when,  in  2022,  the  opening  ceremony  of  the  fdration  internationale 
+de football association (fifa) world cup commences. by that time, the 
+qatari government will have invested at least $200 billion in real estate 
+and  development  projects,  employing  anywhere  between  500,000  and 
+1.5  million  foreign  workers  to  do  so.  the  scale  of  these  preparations  is 
+staggering  and not necessarily positive. between 2010 and 2013, more 
+than 1,200 labor migrants working in qatars construction sector died, with 
+another 4,000 deaths projected by the start of the event. foreign workers 
+are subject to conditions of forced labor, human trafficking, and indefinite 
+detention. advocacy groups cite deplorable living and working conditions, 
+coupled with lax legal protections for workers, as the main culprits. absent 
+significant  improvements  in  worker  welfare,  qatars  world  cup  will  be 
+remembered as a human rights tragedy.
+this  article  examines  whether  it  is  possible  for  qatars  world  cup  to 
+forge a different legacy, as an agent of change on behalf of worker welfare 
+reform. in examining the issue, the article takes a two-fold approach. first, 
+it locates the policy problem of worker welfare abuses in the context of 
+the migration life cycle. the migration life cycle represents the range of 
+activities that mediate the relationship between an individual migrant and 
+the labor migration system  from the time the migrant first considers 
+working overseas to his employment abroad to his eventual return to the 
+home country. an understanding of worker welfare abuses in qatar does 
+not begin or end with reports of migrant deaths. a much broader pattern 
+of abuse exists that, if ignored, will undermine effective policy responses. 
+second,  the  article  frames  worker  welfare  as  a  matter  that  lies  at  the 
+intersection  of  business  and  human  rights.  mega  events  are  large-
+scale,  internationally  recognized  activities  that  aim  to  promote  regional 
+development  and  to  advance  universal  values  and  principles.  they  also 
+represent an important collaboration between stakeholders across sectors. 
+the  un  guiding  principles  on  business  and  human  rights,  therefore, 
+
+ 2016 by the center for migration studies of new york. all rights reserved.jmhs volume 4 number 4 (2016): 221-259offer a framework for understanding how worker welfare reform might be 
+in the interests of governmental and corporate actors alike. 
+ultimately,  this  paper  outlines  four  policy  proposals  that  may  be 
+undertaken  by  countries  of  origin,  nongovernmental  organizations, 
+international organizations, and qatari employers: (1) the development of 
+a list of labor-supply agencies committed to ethical recruitment practices; 
+(2) the devising of low-interest, preferential loans for migrants considering 
+employment in qatar; (3) the establishment of a resource center to serve as 
+a one-stop shop for migrant information and services; and (4) the creation 
+of training programs to aid migrants upon their return home. these options 
+are not meant to diminish the role of the qatari government in reform 
+efforts, and indeed, the state can  and should  take steps to improve 
+worker welfare, including strengthening worker welfare standards, closing 
+labor law loopholes, and bolstering law enforcement capacity. but these 
+measures are not enough. therefore, the above four policy proposals put 
+forward a process-specific, rather than actor-specific, approach to reform 
+aimed  at  capitalizing  on  the  spotlight  of  the  world  cup  to  bring  about 
+lasting, positive change in qatars migrant labor practices. 
+
+i. introduction
+the announcement in late 2010 by the fdration internationale de football association 
+(fifa) to award qatar  and the arab world  its first world cup was a seminal moment. 
+it represented the culmination of decades of political and economic development that had 
+positioned qatar as a consequential geopolitical actor. 
+in the years ahead, qatar will undertake infrastructure development on an unprecedented 
+scale. world cup competitions will take place in at least eight stadiums, most of them newly 
+constructed for these specific games. additionally, creation of a team base camp (tbc) 
+village for the athletes, as well as lodging, leisure, sport, recreation, and tourism venues 
+for the spectators, will be necessary. plans are also underway to create a new airport, a rail 
+network, and a metro system (gibson 2012). in all, qatar is expected to invest over $200 
+billion in real estate and infrastructure projects (menary 2015). these projects will require 
+between 500,000 and 1.5 million foreign workers (zegrea and choufany 2012). 
+much  of  qatars  development  has  rested  on  the  efforts  of  these  migrants,  imported 
+primarily  from  south asia  and  the  middle  east,  to  fill  its  expanding  construction  and 
+domestic worker sectors. two years after fifas announcement, qatar became the object 
+of international criticism for the poor conditions in which its labor migrants live and work. 
+between 2010 and 2013, more than 1,200 labor migrants working in qatars construction 
+sector died, with another 4,000 deaths projected by the start of the world cup event in 
+2022 (chen 2015). not all of these deaths have occurred on world cup sites, nor is it 
+clear, given state restrictions on post-mortem data, the extent to which these figures can 
+be attributed to construction-related incidents (dla piper 2014). what is clear, however, 
+is that foreign workers are subject to conditions of forced labor, human trafficking, and 
+
+222
+
+journal on migration and human securityindefinite detention, and that, absent significant improvements in worker welfare, qatars 
+world cup will be remembered as a human rights tragedy.
+what are the prospects for worker welfare reform in qatar, given the prevailing tensions 
+underlying  the  governments  development  objectives  and  its  human  rights  obligations? 
+and in what ways does the world cup offer reform advocates an opportunity to balance 
+these competing interests, positioning the world cup as an agent of change?  
+to  answer  these  questions,  this  paper  focuses  its  analysis  on  migrants  from  the  qatar-
+asia  migration  corridor  who  ultimately  take  up  employment  in  qatars  construction 
+sector. limiting this papers scope to the above qualifications is appropriate for a couple 
+of reasons. first, the qatar-asia migration corridor accounts for over 65 percent of qatars 
+total migrant population (table 1; snoj 2014). more importantly, six countries  india, 
+nepal,  the  philippines,  sri  lanka,  bangladesh,  and  pakistan    are  disproportionately 
+represented in qatars construction and domestic worker sectors, where welfare abuses 
+are most common. as such, this article defines the qatar-asia migration corridor in terms 
+of  one  country  of  destination  (cod),  qatar,  and  these  six  countries  of  origin  (coos), 
+referring to this regional grouping as the qatar-coo migration corridor. 
+
+percent of total population of qatar
+
+23.58
+17.3
+8.65
+6.49
+7.78
+4.33
+3.89
+1.82
+1.72
+1.68
+77.24
+
+table  1.  qatars  expatriate  population  by  country  of 
+origin
+country of origin
+india
+nepal
+philippines
+bangladesh
+egypt
+sri lanka
+pakistan
+sudan
+jordan
+indonesia
+total
+source: snoj 2014 (see text).
+ 
+second,  construction,  more  than  any  other  sector,  is  expected  to  experience  a  surge  in 
+foreign workers. migrant construction workers face unique welfare abuses due to the extent 
+of contracting and subcontracting services typically embedded in construction projects. 
+adding such complexity to these value chains increases the probability, magnitude, and 
+intensity  of  welfare  abuses  experienced  by  this  subset  of  the  labor  migrant  population 
+(ruggie  2013). additionally,  with  the  construction  sector  almost  entirely  composed  of 
+males, focusing on this demographic allows for a more tailored analysis. domestic workers, 
+
+region
+south asia
+south asia
+southeast asia
+south asia
+north africa
+southeast asia
+south asia
+north africa
+middle east
+southeast asia
+
+ 
+
+223
+
+leveraging the world cupmany of whom are women, face a number of welfare abuses overwhelmingly proportioned 
+to their gender, such as sex trafficking. at its current length, this article cannot do justice 
+to such abuses.
+the findings of this article are based on qualitative evidence drawn from three sources. at 
+the outset, a documentary review was undertaken spanning the online and print literatures 
+concerning labor migration, business and human rights, and mega events. complementing 
+this  review  were  interviews  with  18  leaders  from  think  tanks  and  advocacy  groups, 
+governmental bodies, intergovernmental organizations, and corporations. a final source 
+comes from fieldwork conducted in qatar, during which visits to construction sites and labor 
+camps as well as interviews with 15 camp residents provided supplemental perspectives.
+the  remainder  of  this  article  is  organized  into  three  sections. the  first  section  defines 
+the policy problem  namely, the factors that make possible worker welfare abuses in 
+qatars construction sector  before introducing the concept of the migration life cycle to 
+frame the array of abuses experienced by labor migrants across the qatar-coo migration 
+corridor. the next section explores the ways in which the world cup can serve as a vehicle 
+for political change when approached through the un guiding principles on business and 
+human rights. the final section lays out potential recommendations directed at a range of 
+stakeholders invested in qatars policies on migration and development. 
+
+ii. worker welfare
+the qatari states long-term objective is to transform the small gulf nation into an advanced 
+country. as articulated in national vision 2030  a qatari development plan launched in 
+2008  the state plans to achieve this objective through investments in human, social, 
+economic,  and  environmental  development  (qatar  mdps  2008). at  the  heart  of  these 
+efforts is the recognition that the countrys rapid growth must not outpace its capabilities 
+and that its development is largely dependent upon the size and quality of its migrant labor 
+force. at times, however, development as a national interest is at odds with worker welfare 
+as an ethical imperative. 
+this tension is on display in qatars preparations for world cup 2022. hence, the central 
+policy challenge is to improve worker welfare by addressing existing abuses endemic to 
+the migration life cycle linking qatar to coos. 
+
+a. elements of the problem
+
+the number of foreign workers migrating to the arabian gulf places it among the worlds 
+three most active destinations for labor migrants (gardner 2012). in all, nearly 25 million 
+expatriates  are  employed  in  gulf  cooperation  council  (gcc)  countries,  a  figure  that 
+constitutes almost half of the total gcc population (table 2). 
+of course, this population imbalance is hardly new. since the oil boom of the 1970s, gulf 
+states have relied on foreign workers, drawn primarily from arab and asian countries, 
+to channel oil wealth into ambitious economic development projects. over this period, 
+however, gulf states increasingly began to focus their short-term hiring on labor migrants 
+
+224
+
+journal on migration and human securityoriginating from asian countries  the result, some argue, of state concerns that arab 
+migrants were more likely to settle permanently and were more prone to engage in political 
+dissent over perceived unfair labor practices (fargues 2011). 
+
+table 2. population figures for gulf cooperation council 
+countries based on citizenship status
+
+total 
+population
+
+1,314,562 
+4,161,404 
+4,149,917 
+2,421,055 
+30,770,375 
+
+citizen 
+population
+
+citizens as 
+percentage 
+of total
+48
+630,990
+30.8
+1,281,712
+56
+2,323,954
+346,211
+14.3
+20,708,462 67.3
+
+expatriate 
+population
+
+683,572
+2,879,692
+1,825,963
+2,074,844
+10,061,913
+
+expatriate 
+population as 
+percentage of 
+total
+52
+69.2
+44
+85.7
+32.7
+
+8,264,070 
+
+950,368
+
+11.5
+
+7,313,702
+
+88.5
+
+  51,081,383  26,241,697 51
+
+24,839,686
+
+49
+
+country
+
+bahrain
+kuwait
+oman
+qatar
+saudi 
+arabia
+united 
+arab 
+emirates
+total 
+(gcc)
+
+notes: figure for qatars total population taken from qatar mdps 2016, with citizen and expatriate figures 
+extrapolated from percentage estimation given by glmm 2015. all other country figures obtained through 
+glmm, which reports census figures reported between 2010 and 2015. 
+sources: gulf labour markets and migration 2015; qatar mdps 2016 (see text).
+
+today, labor migration and worker welfare standards exist in a complex system that props 
+up the overall architecture of the migration life cycle linking qatar to coos. the benefits 
+and  costs  of  labor  migration  are  a  function  of  this  complex  system.  four  elements,  in 
+particular, frame the push-pull factors driving this system. 
+
+1.  demographic element
+
+the limited pool of nationals available in cods has put pressure on gulf states to import 
+labor from abroad. in qatar, the expatriate population is roughly six times the size of the 
+national  population  (glmm  2015;  qatar  mdps  2016).  furthermore,  according  to  the 
+qatar statistics authority, 94 percent of the countrys working population are expatriates 
+(report: qatar growing 2012). if existing demographic trends are permitted to continue, 
+qatar  will  become  younger,  more  male,  more  foreign,  and  more  concentrated  in  the 
+countrys urban centers of doha and al rayyan (chalabi 2013; report: most nationals 
+2013).
+several factors underlie these demographic trends. the first, as described above, is the lofty 
+goals that animate the qatari states development strategy. these goals, particularly the 
+
+225
+
+leveraging the world cupinfrastructure planning now driving world cup preparations, necessitate the importation 
+of foreign workers, despite state recognition of the demographic challenges such actions 
+invite. a  second  and  closely  related  factor  is  the  uneven  implementation  of  workforce 
+nationalization, often referred to as qatarization. as the gcc states pursue nationalization 
+policies with varying degrees of success, qatar faces an uncompetitive national labor market 
+in which 96 percent of nationals work in the public or mixed public and private sectors and 
+in which demand for skilled national workers outpaces supply (randeree 2012).
+
+2.  economic element
+
+citizens of coos often view temporary jobs in the gulf as lucrative opportunities to earn 
+higher wages than would be possible in their home countries. and with the savings generated 
+by these higher wages, labor migrants typically remit sizable portions of their earnings 
+back to their families living in coos. according to the center for global development, 
+in 2011 expatriates working in gcc countries remitted $75 billion to their home countries 
+(clemens 2013). in qatar alone, remittance outflows in 2009 totaled roughly $9 billion, with 
+just under half of that figure going to asian countries (endo and afram 2011). moreover, 
+the impact of these remittance flows, in terms of economic growth and poverty reduction, 
+can  be  tremendous:  remittances  from  nepali  workers  in  qatar  amounted  to  over  $600 
+million, or 5 percent of nepals gdp, in 2009 (endo and afram 2011).
+driving  these  economic  gains  abroad  are  economic  shortcomings  at  home.  often,  the 
+labor markets of coos are marked by an oversupply of labor and, therefore, staggering 
+unemployment. nepal, for example, suffers from widespread unemployment and poverty, 
+motivating nepali workers to seek job opportunities in the gulf (amnesty international 
+2011). it is precisely because of such high unemployment that some coo states, like the 
+philippines in the 1970s, institutionalized labor migration as a potential remedy to their 
+countries economic stagnation (oneil 2004). the condition of coo labor markets  and 
+the capacity of coo governments to affect them  has much to do with pushing labor 
+migrants to seek jobs in the gulf.    
+
+3.  political element 
+
+the relationships between coos and cods, as well as those among coos, have a bearing 
+on  the  migration life  cycle. as  martin  (2012)  notes,  many  worker  welfare  abuses  take 
+place beyond the reach of coos, requiring active collaboration on the part of cods. there 
+also exists a power imbalance accompanying coo-cod interactions. this imbalance is 
+evident, for example, in a 2013 incident tainting qatar-nepal relations. notably, nepal 
+recalled  maya  kumari  sharma,  its  ambassador  to  qatar,  following  the  publication  of 
+her remarks in a guardian article that compared qatar to an open jail (sharma 2013). 
+days later, in a joint press conference held by nepali and qatari officials, nepali official 
+mohammed ramadan spoke of his countrys labor migrants as safe and fully respected 
+in qatar (doherty and bakr 2013). nepal, in other words, took a deferential position to the 
+qatari state, rather than seizing upon the momentum for reform of a system that exploits 
+its nationals.  
+
+226
+
+journal on migration and human securitynepals decision to distance itself from sharmas comments can also be attributed to the 
+relationships among coos  relationships that are at times competitive. the magnitude 
+of remittance flows, and the broader economic interests at stake, may incentivize coos 
+to forego additional worker welfare protections or relax existing protections to increase 
+their share of workers in gcc labor markets (shaham 2008; ilo 2010). worker welfare 
+protections in the philippines and indonesia, for example, prompted saudi arabia to freeze 
+its hiring of domestic workers from either country. capitalizing on the opportunity, nepal 
+lifted its ban on domestic workers to gcc countries (ecosoc 2013). 
+
+4.  legal element
+
+current worker welfare protections governing the gulf-asia migration corridor exist in a 
+complex web of legal norms that are unevenly recognized and enforced by coos and cods. 
+for the qatar-coo corridor, in particular, the legal norms regulating worker welfare can be 
+organized into three layers. the first layer represents legal norms codified in international 
+law that might be said to define universal principles, whether or not a state has ratified 
+the law (abbott et al. 2000). this layer includes instruments as general as the universal 
+declaration of human rights (udhr) and as specific as the migrant-related conventions 
+of the international labor organization (ilo). to be sure, the enforceability and efficacy of 
+these instruments are not a given. the second layer entails bilateral agreements with coos 
+that are more specific to the migration life cycle linking qatar to a coo. the enforceability 
+and  efficacy  of  these  agreements,  however,  are  also  uncertain,  especially  as  they  often 
+apply across less than the full migration life cycle (zahra 2013; battistella and khadria 
+2011). the final layer of legal norms is composed of domestic laws, in particular law no. 
+14 of 2004 regulating employment (labor law), law no. 4 of 2009 regulating the 
+entry, exit, residence, and sponsorship of expatriates (sponsorship law), and law no. 
+15 of 2011 combatting trafficking in human beings (zahra 2013). these laws  soon to 
+be joined by law no. 21 of 2015 regulating the entry, exit, and residence of expatriates 
+(law no. 21), which became effective in december 2016  define a range of worker 
+welfare  protections  that  are  required  of  employers  in  qatar  that  hire  either  national  or 
+expatriate workers.
+in spite of these norms and regulations, a number of limitations remain. first, qatar and 
+its main coos have not ratified the same instruments of international law. such uneven 
+adoption makes it difficult to follow and enforce common standards (martin 2012). second, 
+to the extent facially useful law exists, both qatar and coos often lack the capacity or 
+motivation to enforce it. qatars domestic laws, therefore, will continue to insufficiently 
+address worker welfare abuses (hrw 2012).
+
+b. migration life cycle 
+
+push-pull factors demonstrate the value of labor migration as a development tool for both 
+qatar and coos. amid these benefits, however, are abuses that often characterize the labor 
+migrant experience. here, the term abuse encompasses a range of conditions, from human 
+rights violations in contravention of national and international laws, to poor living and 
+
+227
+
+leveraging the world cupworking standards that run counter to widely shared norms, to structural impediments, 
+like misinformation, that expose labor migrants to unfavorable circumstances. remedying 
+these abuses, and the conditions that make them possible, is central to any effort to improve 
+worker welfare. 
+
+table  3.  summary  of  tasks,  stakeholders,  and  abuses 
+that characterize the migration life cycle
+recruitment
+
+contractor obtains mlsa permission to hire foreign worker
+
+tasks
+
+contractor subcontracts hiring to pea
+
+pea uses manpower agency/labor broker to identify aspiring migrant
+
+stakeholders
+
+abuses
+
+deployment
+
+tasks
+
+stakeholders
+
+mlsa
+pea
+
+labor broker
+
+construction client
+manpower agency
+aspiring migrant
+
+corruption
+
+misinformation
+
+labor broker recruits deploying migrant to fill client opening
+
+deploying migrant obtains coo ministry of labors permission to 
+
+work
+
+mlsa
+
+qatar ministry of foreign affairs
+
+coo ministry of labor
+
+pea
+
+labor broker
+
+qatar ministry of interior
+
+qatar chamber of commerce
+
+coo embassy in doha
+
+manpower agency
+deploying migrant
+
+abuses
+
+high-interest loan
+
+forced labor
+
+false or substitution contract
+
+human trafficking
+
+228
+
+journal on migration and human securitytable 3. (continued) summary of tasks, stakeholders, and 
+abuses that characterize the migration life cycle
+employment
+
+tasks
+
+ministry of interior enforces labor laws
+
+stakeholders
+
+abuses
+
+return
+
+tasks
+
+mlsa
+
+construction client
+
+coo embassy
+
+qatar ministry of  interior
+
+employer/sponsor
+
+qatari national
+
+current migrant
+
+living conditions
+indefinite detention
+
+working conditions
+irregular migration
+
+mlsa issues exit visa to returning migrant
+
+ministry of interior polices irregular migration
+
+returning migrant reintegrates into coo
+
+stakeholders
+
+mlsa
+
+qatars court system
+employer/sponsor
+
+qatar ministry of interior
+
+coo embassy 
+returning migrant
+
+abuses
+
+inhibited reintegration
+
+a useful way to frame these abuses is in terms of the migration life cycle. the migration life 
+cycle represents the range of activities that mediate the relationship between an individual 
+migrant and the labor migration system from the time the migrant first considers working 
+overseas to his or her employment abroad and eventual return to the home country. this 
+
+229
+
+leveraging the world cupcycle consists of four phases: recruitment, deployment, employment, and return (table 3). 
+worker welfare abuses may occur at any phase of the migration life cycle. some abuses occur 
+within a particular phase, while others span multiple phases or, alternatively, contribute to 
+abuses in other phases. using this frame, therefore, adds clarity to an otherwise complex 
+set  of  abuses  and,  as  is  discussed  later,  offers  multiple  points  for  policy  intervention. 
+additionally, this approach improves upon past approaches to worker welfare reform by 
+examining the transnational and systemic nature of abuses rather than fixating on particular 
+actors  for example, governments or corporations  or phases.
+
+1.  recruitment phase
+
+the migration life cycle begins with the recruitment phase, during which a contracting 
+or subcontracting firm operating in qatar decides to fill an opening using a non-qatari 
+worker. firms  which typically work on behalf of a much larger client, such as the qatar 
+foundation, qatar rail, or msheireb properties  first seek authorization from the qatari 
+ministry of labor and social affairs (mlsa) to hire a certain number of workers from a 
+particular country. after receiving authorization, firms subcontract the hiring process to a 
+private recruitment agency, often referred to as a private employment agency (pea). these 
+peas are qatari firms licensed by the mlsa and hired for the purposes of identifying 
+foreign workers and shuttling them through the visa process in their home countries (endo 
+and afram 2011). 
+from here, peas use coo-based recruiters called manpower agencies to identify aspiring 
+labor migrants. aspiring migrants are migrants who have an interest in seeking employment 
+in qatar but have not yet begun the process of obtaining a work visa from their home 
+governments. while manpower agencies are tasked with locating, processing, and aiding 
+aspiring migrants with the visa authorization process, many rely on labor brokers to locate 
+aspiring migrants at the village level (endo and afram 2011).
+firms operating in qatar often initiate the labor migration process in light of their clients 
+outsized construction projects and high demand for foreign workers. alternatively, citizens 
+of coos who actively seek work opportunities in qatar can initiate the process, though 
+this occurs along a different pathway. social networks, travel agencies, and government-
+to-government agreements are all options available to aspiring migrants hoping to secure 
+a work visa, though the exact nature of each varies among coos (migrant forum in asia 
+2011).  many  aspiring  migrants,  however,  go  through  manpower  agencies,  with  labor 
+brokers as their primary points of contact. in this case, manpower agencies pool the names 
+of aspiring migrants and give them to peas when a request for foreign workers is received. 
+
+2.  deployment phase
+
+once  the  aspiring  migrant  commits  to  the  visa  authorization  process,  he  becomes  a 
+deploying  migrant  and  the  deployment  phase  begins.  though  visa  authorization  was 
+already given by qatars mlsa, the migrant must also obtain authorization from his home 
+countrys relevant ministry, usually the labor ministry. this additional layer of oversight is 
+the result of bilateral labor agreements concluded between qatar and its main coos and
+
+230
+
+journal on migration and human securityn
+a
+t
+s
+i
+
+k
+a
+p
+
+s
+e
+n
+
+i
+
+p
+p
+
+i
+l
+i
+
+h
+p
+
+h
+s
+e
+d
+a
+l
+g
+n
+a
+b
+
+a
+k
+n
+a
+l
+
+ 
+i
+r
+s
+
+l
+a
+p
+e
+n
+
+a
+i
+d
+n
+i
+
+n
+i
+g
+i
+r
+o
+
+ 
+f
+o
+
+ 
+s
+e
+i
+r
+t
+n
+u
+o
+c
+ 
+t
+n
+a
+r
+g
+i
+m
+ 
+r
+o
+b
+a
+l
+ 
+r
+o
+f
+ 
+s
+k
+r
+o
+w
+e
+m
+a
+r
+f
+
+ 
+l
+a
+g
+e
+l
+d
+n
+a
+
+ 
+
+ 
+l
+a
+n
+o
+i
+t
+u
+t
+i
+t
+s
+n
+i
+ 
+.
+
+4
+ 
+
+e
+l
+b
+a
+t
+
+ 
+;
+)
+9
+7
+9
+1
+(
+ 
+e
+c
+n
+a
+n
+i
+d
+r
+o
+n
+o
+i
+t
+a
+r
+g
+i
+m
+e
+
+ 
+
+ 
+f
+o
+
+ 
+;
+)
+9
+7
+9
+1
+(
+ 
+s
+e
+l
+u
+r
+n
+o
+i
+t
+a
+r
+g
+i
+m
+e
+
+ 
+
+ 
+l
+o
+r
+t
+n
+o
+c
+d
+n
+a
+ 
+
+ 
+
+n
+o
+i
+t
+n
+e
+v
+e
+r
+p
+
+ 
+
+ 
+e
+c
+n
+a
+n
+i
+d
+r
+o
+g
+n
+i
+k
+c
+ffi
+a
+r
+t
+n
+a
+m
+u
+h
+
+ 
+
+)
+2
+0
+0
+2
+(
+
+ 
+,
+
+2
+9
+9
+1
+(
+ 
+t
+n
+e
+m
+e
+e
+r
+g
+a
+
+ 
+l
+a
+r
+e
+t
+a
+l
+i
+
+)
+8
+0
+0
+2
+
+b
+
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+
+ 
+f
+o
+
+ 
+
+y
+r
+t
+s
+i
+n
+i
+m
+
+ 
+
+ 
+
+n
+a
+m
+u
+h
+d
+n
+a
+ 
+s
+i
+n
+a
+t
+s
+i
+k
+a
+p
+
+t
+n
+e
+m
+p
+o
+l
+e
+v
+e
+d
+ 
+e
+c
+r
+u
+o
+s
+e
+r
+
+ 
+
+d
+n
+a
+ 
+
+n
+o
+i
+t
+a
+r
+g
+i
+m
+e
+ 
+f
+o
+
+ 
+
+u
+a
+e
+r
+u
+b
+
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+
+ 
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+d
+
+ 
+
+d
+n
+a
+ 
+r
+o
+b
+a
+l
+ 
+f
+o
+
+ 
+;
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+ 
+f
+o
+
+ 
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+d
+
+ 
+;
+s
+r
+i
+a
+ff
+a
+n
+g
+i
+e
+r
+o
+f
+
+ 
+
+ 
+f
+o
+
+ 
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+d
+
+ 
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+d
+
+ 
+;
+h
+t
+l
+a
+e
+h
+
+ 
+e
+r
+a
+f
+l
+e
+
+w
+
+ 
+l
+a
+i
+c
+o
+s
+ 
+f
+o
+
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+
+ 
+e
+r
+a
+f
+l
+e
+
+w
+
+ 
+
+s
+r
+e
+k
+r
+o
+w
+
+ 
+;
+n
+o
+i
+t
+a
+r
+t
+s
+i
+n
+i
+m
+d
+a
+
+ 
+s
+e
+n
+i
+p
+p
+i
+l
+i
+h
+p
+
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+
+ 
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+n
+o
+i
+t
+a
+r
+t
+s
+i
+n
+i
+m
+d
+a
+
+ 
+e
+d
+o
+c
+
+ 
+r
+o
+b
+a
+l
+ 
+e
+h
+t
+
+ 
+t
+n
+a
+r
+g
+i
+m
+
+ 
+;
+)
+4
+7
+9
+1
+(
+
+ 
+
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+d
+n
+a
+ 
+s
+r
+e
+k
+r
+o
+w
+
+)
+5
+9
+9
+1
+(
+ 
+t
+c
+a
+ 
+s
+o
+n
+i
+p
+i
+l
+i
+
+f
+
+ 
+
+ 
+e
+c
+n
+a
+n
+i
+d
+r
+o
+n
+o
+i
+t
+a
+r
+g
+i
+m
+e
+
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+
+ 
+;
+)
+2
+8
+9
+1
+(
+
+ 
+
+d
+n
+a
+ 
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+)
+3
+1
+0
+2
+(
+ 
+t
+c
+a
+ 
+s
+t
+n
+a
+r
+g
+i
+m
+
+ 
+f
+o
+
+ 
+
+u
+a
+e
+r
+u
+b
+ 
+a
+k
+n
+a
+l
+
+ 
+i
+r
+s
+
+ 
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+n
+g
+i
+e
+r
+o
+f
+
+ 
+
+)
+5
+8
+9
+1
+(
+ 
+t
+c
+a
+
+ 
+
+ 
+f
+o
+m
+u
+d
+n
+a
+r
+o
+m
+e
+m
+
+ 
+
+g
+n
+i
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+)
+7
+9
+9
+1
+(
+
+ 
+t
+n
+e
+m
+e
+e
+r
+g
+a
+
+ 
+l
+a
+r
+e
+t
+a
+l
+i
+
+)
+8
+0
+0
+2
+
+ 
+,
+
+8
+8
+9
+1
+(
+
+b
+
+ 
+
+ 
+f
+o
+m
+u
+d
+n
+a
+r
+o
+m
+e
+m
+
+ 
+
+g
+n
+i
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+)
+8
+0
+0
+2
+(
+
+ 
+f
+o
+
+ 
+
+y
+r
+t
+s
+i
+n
+i
+m
+
+ 
+e
+r
+a
+f
+l
+e
+
+w
+
+ 
+
+s
+e
+t
+a
+i
+r
+t
+a
+p
+x
+e
+
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+d
+n
+a
+
+ 
+
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+ 
+
+n
+g
+i
+e
+r
+o
+f
+ 
+f
+o
+
+ 
+
+y
+r
+t
+s
+i
+n
+i
+m
+
+ 
+
+ 
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+d
+n
+a
+ 
+
+n
+o
+i
+t
+o
+m
+o
+r
+p
+
+e
+r
+a
+f
+l
+e
+
+w
+
+ 
+,
+r
+e
+w
+o
+p
+n
+a
+m
+
+ 
+
+ 
+f
+o
+u
+a
+e
+r
+u
+b
+
+ 
+
+d
+n
+a
+ 
+,
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+k
+n
+a
+b
+
+ 
+;
+g
+n
+i
+n
+i
+a
+r
+t
+
+ 
+e
+r
+a
+f
+l
+e
+
+w
+
+ 
+
+s
+e
+t
+a
+i
+r
+t
+a
+p
+x
+e
+
+ 
+
+n
+g
+i
+e
+r
+o
+f
+ 
+f
+o
+
+ 
+
+u
+a
+e
+r
+u
+b
+
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+ 
+
+ 
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+n
+g
+i
+e
+r
+o
+f
+
+ 
+
+ 
+
+ 
+;
+d
+r
+a
+o
+b
+n
+o
+i
+t
+o
+m
+o
+r
+p
+
+n
+g
+i
+e
+r
+o
+f
+ 
+f
+o
+
+ 
+t
+n
+e
+m
+
+t
+r
+a
+p
+e
+d
+
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+ 
+
+n
+a
+i
+d
+n
+i
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+
+ 
+
+ 
+
+d
+n
+a
+ 
+e
+a
+u
+n
+i
+(
+ 
+s
+e
+r
+t
+n
+e
+c
+
+)
+s
+u
+
+231
+
+ 
+
+ 
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+n
+g
+i
+e
+r
+o
+f
+
+ 
+
+n
+g
+i
+e
+r
+o
+f
+
+ 
+;
+)
+7
+0
+0
+2
+(
+ 
+t
+c
+a
+
+ 
+
+n
+o
+i
+t
+a
+l
+u
+g
+e
+r
+
+ 
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+)
+8
+0
+0
+2
+(
+
+ 
+
+ 
+f
+o
+m
+u
+d
+n
+a
+r
+o
+m
+e
+m
+
+)
+5
+0
+0
+2
+(
+ 
+
+g
+n
+i
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+ 
+
+d
+n
+a
+ 
+r
+o
+b
+a
+l
+ 
+f
+o
+
+ 
+
+y
+r
+t
+s
+i
+n
+i
+m
+
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+
+ 
+
+)
+3
+8
+9
+1
+(
+ 
+t
+c
+a
+n
+o
+i
+t
+a
+r
+g
+i
+m
+e
+
+s
+e
+i
+c
+i
+l
+o
+p
+
+ 
+l
+a
+i
+c
+e
+p
+s
+
+s
+w
+a
+l
+ 
+e
+r
+o
+c
+
+ 
+t
+n
+e
+m
+e
+e
+r
+g
+a
+
+ 
+l
+a
+r
+e
+t
+a
+l
+i
+
+)
+7
+0
+0
+2
+
+ 
+,
+
+5
+8
+9
+1
+(
+
+b
+
+s
+e
+i
+c
+n
+e
+g
+a
+
+ 
+s
+a
+e
+s
+r
+e
+v
+o
+
+ 
+f
+o
+
+ 
+
+y
+r
+t
+s
+i
+n
+i
+m
+
+s
+r
+i
+a
+ff
+a
+ 
+a
+i
+d
+n
+i
+
+s
+e
+i
+c
+n
+e
+g
+a
+-
+b
+u
+s
+
+leveraging the world cuprequires  that  both  countries  manage  the  migration  process  (table  4;  endo  and 
+afram  2011).  in  turn,  labor  migrants  are  responsible  for  securing  all  necessary  legal 
+documents,  including  passports,  visas,  and  foreign  employment  permits.  from  there, 
+the  process  varies  considerably  across  coos.  deploying  migrants,  for  example,  may 
+be  required  to  participate  in  an  interview  with  their  home  countrys  relevant  ministry, 
+during  which  time  they  sign  an  employment  contract. additionally,  they  may  undergo 
+a  pre-departure  medical  exam  and  take  part  in  a  government-mandated  briefing 
+outlining  their  rights  and  responsibilities  in  the  cod  (amnesty  international  2011).
+the visa authorization process is complicated and time-intensive, and as a result, most 
+deploying migrants turn to labor brokers as a source of logistical support. brokers, in turn, 
+become responsible for preparing legal documents and updating deploying migrants on the 
+status of their applications. in some cases, brokers even accompany deploying migrants to 
+their interviews, medical exams, and pre-departure briefings (amnesty international 2011).
+as this process unfolds in the coo, a parallel process takes place in qatar. the qatari 
+pea is responsible for collecting passport copies and signed employment contracts from 
+aspiring migrants and submitting them to the mlsa, after which the ministry of interior 
+issues their work visas. the contracts and job openings are also screened by the coo 
+embassies based in doha as well as the qatari chamber of commerce and its ministry of 
+foreign affairs. only after these screenings are complete can the relevant coo ministries 
+authorize the departure of deploying migrants, which comes in the form of a sticker placed 
+in migrants passports (endo and afram 2011). at this point, deploying migrants are given 
+an offer letter by the pea along with a contract stipulating the terms of the job in qatar. 
+
+3.  employment phase
+
+upon arrival in qatar, current migrants begin the employment phase during which they 
+are legally subject to qatari immigration laws  in particular, the 2004 labor law and 
+the 2009 sponsorship law. the labor law includes a number of provisions regulating the 
+recruitment and employment of foreign workers  from setting workplace standards for 
+weekly hours and paid leave to mandating health and safety measures to safeguard against 
+occupational hazards (hrw 2013). the sponsorship law, meanwhile, requires that current 
+migrants  have  at  all  times  a  sponsor,  oftentimes  their  employer,  who  assumes  legal 
+responsibility for their stay while in qatar. the notion of sponsorship is at the heart of the 
+kafala system: a set of traditions, derived from the bedouin principle of hospitality, which 
+arab states have long used to manage guest workers (khan and harroff-tavel 2011). the 
+sponsorship law, as such, enshrines some of these traditions in law by holding sponsors 
+legally responsible for current migrants entry into and exit from qatar, and by requiring 
+them to provide migrants with residence permits (hrw 2013). in practice, this means that 
+current migrants may change employers only if their sponsors consent, and that migrants 
+can leave the country only by obtaining an exit visa through their sponsors.
+
+4.  return phase
+
+upon completing their contractual work period and obtaining an exit visa, current migrants 
+enter the return phase of the migration life cycle, becoming returning migrants who must 
+
+232
+
+journal on migration and human securityreintegrate economically and socially into their home countries. here, coo policies diverge 
+considerably, with some countries, like the philippines, providing substantial reintegration 
+services, such as loans for migrants to begin small businesses, while other countries offer 
+very little (go 2012). the cyclical nature of the migration life cycle means that these same 
+returning migrants may take up opportunities within their home countries or reengage with 
+the labor migration process, once again becoming aspiring migrants.
+
+c. worker welfare abuses
+
+at various points in the migration life cycle, labor migrants are exposed to abuses that 
+make possible the conditions of forced labor, human trafficking, and indefinite detention 
+that are commonly referenced by media and human rights groups. these abuses, in part, 
+are a function of deviations from the ideal process of labor migration described above. of 
+course, these abuses are also the result of inadequate or poorly enforced laws in both qatar 
+and coos. as shown in table 4, a number of factors  some resulting from structural 
+factors, others from diverging stakeholder interests  conspire to create these abuses.
+
+1.  recruitment abuses
+
+during  the  recruitment phase  of  the  life  cycle,  two  abuses  are  common.  one  potential 
+abuse results from the corruption that often accompanies the management and distribution 
+of visas. according to a labor migration specialist at the ilo (personal communication 
+2014), with manpower agencies in coos relying so heavily on labor brokers to identify 
+and to process aspiring migrants, a type of auction occurs: labor brokers bid on the right 
+to secure a work visa, permitting manpower agencies  and the qatari peas that contract 
+with them  to pocket substantial sums prior to doing any work. this amount is later 
+passed on as debt to the aspiring migrant to whom the visa is given, contributing to the 
+debt burden that many labor migrants take on well before ever arriving in qatar (amnesty 
+international 2011).
+such outcomes are unsurprising, given how little regulation exists at the broker level. in 
+nepal, for example, over 1,000 manpower agencies, all based in kathmandu, were licensed 
+to recruit in 2005. at the time, these agencies relied on some 25,000 to 30,000 brokers 
+operating across the country (verite 2012). yet, as of 2013, only 500 brokers had actually 
+registered  with  the  department  of  foreign  employment,  nepals  regulatory  authority 
+(kern and muller-boker 2015). as a result, brokers are able to charge recruitment fees, 
+well above the legal limit, to aspiring migrants without fear of legal punishment. these 
+fees are in addition to the commissions that brokers receive from manpower agencies for 
+providing them with the names of aspiring migrants (migrant forum in asia 2011).
+a  second  potential  abuse  is  the  bevy  of  misinformation  given  to  aspiring  migrants 
+considering employment in qatar. two key sources of misinformation are labor brokers 
+and returning migrants. labor brokers, in the eyes of many aspiring migrants, are a trusted 
+source for information on which cods are best, which sectors are most lucrative, and 
+what steps are needed to secure a work visa. brokers operate at the village level, often 
+knowing the aspiring migrant or his family well, and sometimes knowing, too, the cod 
+
+233
+
+leveraging the world cupfrom personal experience (asfar 2009; amnesty international 2011). yet, because brokers 
+income is dependent upon their ability to connect a job opening to an aspiring migrant, 
+their incentive to provide false information about the cod and the available job is high. 
+similarly, returning labor migrants who have just completed their temporary assignment 
+in  the  cod  often  propagate,  unknowingly  or  intentionally,  inaccurate  information.  a 
+demographer with extensive research experience on labor migrants in the gulf (personal 
+communication  2014)  noted  that  some  returning  migrants  exhibit  an  observable 
+improvement in their standard of living, giving aspiring migrants the impression of cods 
+with gold in the street. other returnees, however, have been the victims of forced labor 
+and would rather misrepresent their experiences abroad than admit their failure to family 
+and friends (asfar 2009). aspiring migrants, in turn, are drawn to an image of qatar that 
+has little basis in reality.
+
+2.  deployment abuses
+
+the deployment phase also carries with it a number of abuses. one set of abuses results 
+from the labor brokers themselves. in light of the services they offer and the fees they 
+charge, brokers often assist migrants, most of whom have limited financial means, with 
+procuring loans. these loans, however, come with high interest rates, some as high as 36 
+percent, thus giving migrants little chance of paying off their debt even in the event that 
+their qatari job provides a reasonable wage (amnesty international 2013; jureidini 2014). 
+additionally, before deploying migrants can depart their home countries for qatar, they 
+must have in hand a demand letter, which is similar to an employment agreement, describing 
+the initial offer. here, as one recruitment agency project manager (personal communication 
+2014) observed, manpower agencies and brokers will have deploying migrants pay a fee 
+to receive their demand letters. this exchange occurs despite laws in qatar prohibiting 
+migrants from paying such fees as well as laws in coos capping the amount that migrants 
+have to pay. a 2011 study by the qatar national human rights committee, for example, 
+noted that 53 percent of construction workers randomly surveyed in qatar had paid fees of 
+some sort (amnesty international 2013). in addition to these factors, there exists an urban-
+rural divide that leads many migrants to take out additional loans to finance their travel to 
+and stay in state capitals where key parts of the visa authorization process take place. 
+as  a  result,  deploying  migrants  accrue  considerable  debt.  according  to  one  report, 
+bangladeshi migrants on average accrued just under $2,500 usd and nepalese migrants 
+approximately $1,200 usd of debt (agunias 2012). these figures do not include interest 
+rates attached to the repayment of these sums. absent other sources of income, the jobs 
+awaiting  these  migrants  in  qatar,  however  much  they  stray  from  stated  expectations, 
+become their only means of paying down a growing debt burden. these circumstances trap 
+migrants into a type of forced labor. 
+a similar trap is created by the widely reported problem of false or substitution contracts. 
+false  contracts  are  contracts  that  contain  false  information,  such  as  inflated  salaries  or 
+inaccurate  job  placements,  but  are  nonetheless  distributed  to  deploying  migrants  by 
+brokers and manpower agencies (yeager 2008). substitution contracts, on the other hand, 
+
+234
+
+journal on migration and human securityare entirely new contracts with new terms that are given to migrants upon arrival to qatar. 
+these contracts are often quite different in the salary, benefits, and even work industries 
+stipulated  in  the  original  contract.  in  both  cases,  brokers  and  manpower  agencies  use 
+these tactics to circumvent  as is the case of nepal  laws that require the cod job to 
+pay a minimum wage or provide particular benefits to the deploying migrant (amnesty 
+international 2013). as such, that migrants are being transported overseas on the basis of 
+deceptive or fraudulent claims  and subsequently being exploited for their labor once in 
+qatar  indicates the presence of human trafficking. 
+also  a  problem  during  the  deployment  phase  is  the  quality  of  pre-departure  training. 
+according to a demography expert familiar with labor migration across the qatar-coo 
+corridor (personal communication 2014), the mandatory trainings held in coos just prior 
+to  their  departure  are  largely  superficial  and  provide  aspiring  migrants  with  very  little 
+information about qatars legal environment or the resources available to labor migrants. 
+as amnesty international (2013) observed in nepal, as of 2011 there were 57 companies 
+authorized to conduct pre-departure briefings, but random surveys of returning migrants 
+revealed that some migrants had not known that pre-departure briefings existed, let alone 
+were mandatory, while still others had simply skipped them, owing to poor monitoring by 
+the government and intermediaries. the result has been that migrants, upon arrival in qatar, 
+know very little about their rights, the ways in which those rights might be threatened, and 
+the resources available to seek a remedy.  
+
+3.  employment abuses
+
+over the past decade, abuses occurring during the employment phase  more so than any 
+other phase  have caught the attention of states, intergovernmental organizations, and 
+media and human rights groups calling for worker welfare reform. these abuses have been 
+well-documented in recent reports by human rights watch (2013), amnesty international 
+(2013 and 2016), the international trade union confederation (2014), and the international 
+labor organization (2016). at the heart of these abuses is the tension between the kafala 
+system and qatars 2004 labor law. azfar khan, a labor migration specialist with the ilo, 
+states that the aim of the labor law was to balance the rights and obligations of employers 
+and employees. instead, he argues, that balance  and the legal enforcement of it  has 
+been hampered by qatars continued reliance on the kafala system, which puts far too 
+much power in the hands of the employer/sponsor (khan 2014). 
+as  a  result,  current  migrants  face  deplorable  working  and  living  conditions.  in  the 
+construction sector, migrants may be forced to work well over 60 hours per week, be given 
+an inadequate supply of water in 100-plus degree weather, be unnecessarily exposed to 
+occupational hazards, and fail to receive the full regular or overtime wages due to them 
+(amnesty international 2013). 
+their living conditions, meanwhile, are equally troubling. sponsors often place construction 
+workers in labor camps located on the outskirts of qatari cities. these accommodations 
+typically fit as many as 10 to 15 workers in a single room consisting of bunk beds and stone 
+floors. occupants have no privacy, must sometimes endure missing or non-functioning air 
+conditioners, and in certain cases use their rooms as kitchens. in instances where separate 
+
+235
+
+leveraging the world cupkitchens are available, their appearance is substandard. the same holds true for bathrooms, 
+which are highly unsanitary. reinforcing these abuses is the employer practice of passport 
+confiscation, which, though illegal, routinizes these conditions as a facet of migrant life in 
+qatar (amnesty international 2013). these working and living conditions  accompanied 
+by local policies that subject construction sector workers to daily discrimination  have 
+become the norm for migrants who either find their complaints consistently ignored or who 
+fear reprisals from sponsors upon reporting such conditions.
+abuses of these types can cause migrants to leave their jobs without permission. under the 
+sponsorship law, sponsors are required to report such events  referred to as absconding 
+ to the ministry of interior. absconding can result in migrants being fined, deported, or 
+even prosecuted on criminal charges (amnesty international 2013). this is true even in 
+instances where current migrants are in fact fleeing situations of abuse or nonpayment. in 
+these cases, the investigative process of the ministry of interiors search and follow-up 
+department (sfd), which enforces the law in matters of absconding, routinely ignores why 
+absconded migrants chose to run away from their sponsors or employers (moi rounds 
+2013). 
+as runaways, migrants become irregular migrants who operate outside qatari labor laws. 
+irregular migrants lack protections afforded to them under the labor law and are all the 
+more likely to be drawn into conditions of forced labor, working for employers who can use 
+the threat of an absconding report to coerce them into highly exploitative circumstances. 
+if found or reported, an irregular migrant may be deported or indefinitely detained until a 
+time at which the government has completed the necessary arrangements to deport him. 
+in some cases, detention of irregular migrants has lasted as long as a year (crepeau 2013). 
+such procedures add an additional layer to current migrants circumstances of forced labor, 
+positioning them to take undesirable jobs due to crushing debt and then necessitating their 
+stay due to the risks that accompany becoming an irregular migrant.
+
+4.  return abuses
+
+although  acquisition  of  an  exit  visa  may  permit  returning  migrants  to  escape  welfare 
+abuses in qatar, they still face another set of abuses upon return to their home countries. 
+chief  among  these,  according  to  an  ilo  study  on  returning  sri  lankan  migrants,  are 
+barriers  to  economic  and  social  reintegration.  economically,  this  sample  of  returning 
+migrants often assumed jobs that were unskilled in character, rarely requiring the use of 
+skills acquired while working in the cod. moreover, although 70 percent of the migrants 
+had secured a job in their home countries within six months of their return, those jobs 
+were of a quality and pay scale that indicated underemployment (ilo 2013b). socially, 
+returning migrants reported certain challenges when reintegrating with their families and 
+communities, including a decline in the familys economic situation as well as a tendency 
+not to form partnerships with or participate in community organizations (ilo 2013b). in 
+both instances, migrants have rarely sought out sources of external support to help with the 
+reintegration process, an apparent reflection of the limited professional support services 
+available to them or a cultural context not conducive to seeking out such services.
+
+236
+
+journal on migration and human securityiii. mega events 
+a sentiment commonly expressed by fifa and qatari officials alike is that the 2022 world 
+cup will serve as an agent of change in qatar, one that will accelerate the undertaking 
+of appropriate labor reforms. thus, qatars world cup chief, hassan al thawadi, called 
+the  event  a  catalyst  to  accelerate  positive  initiatives  that  will  result  in  meaningful 
+progress for worker welfare (gibson 2014). similarly, theo zwanziger, former member 
+of fifas executive committee, called any decision to strip qatar of hosting privileges 
+counterproductive,  drawing  attention  away  from  human  rights  violations  that  will 
+otherwise still exist (stevis 2014). 
+of course, these statements are largely conjecture. it is unclear if a mega event, like the 
+world cup, can indeed drive policy concessions in qatar and, if so, along which causal 
+pathways. 
+to better understand the pathways that might lead to positive labor reform, this article 
+presents  a  theory  of  change  organized  around  the  un  guiding  principles  on  business 
+and human rights (the principles). the principles, which were endorsed by the un 
+human rights council in 2011, aim to enhance standards and practices with regard to 
+business and human rights so as to achieve tangible results for affected individuals and 
+communities (ruggie 2011). more specifically, they clarify the responsibilities of states 
+and  business  enterprises  engaged  in  activities  that  threaten  internationally  recognized 
+rights. at their core are three pillars defined, in 2008, by the un protect, respect, and 
+remedy framework (ihrb 2011):
+
+1.  the  state  obligation  to  protect  against  human  rights  abuses  committed  by  third 
+
+parties.
+
+2.  the corporate responsibility to respect humans rights by performing due diligence.
+3.  the victims access to effective remedy through judicial and non-judicial means.
+
+the principles, on their face, have little to say about migrant rights, only mentioning migrant 
+workers in passing as a category of victim potentially in need of additional attention. when 
+applied  to world  cup  2022,  however,  the  principles  highlight  the  risks  that  the  qatari 
+state and corporations invite in the absence of sufficient rights protections. these risks 
+are consequential, primarily because the world cup is a public-private collaboration that 
+attracts international attention. state and corporate inattention to worker welfare abuses, 
+therefore, is tantamount to a poorly devised risk management strategy. in addition, the 
+failure  of  either  sector    public  or  private    to  follow  through  on  its  human  rights 
+commitments has implications for the other sector. 
+
+a. duty to protect
+
+the state duty to protect human rights is defined by two foundational principles. the first is 
+state protection against human rights abuses within its territory by preventing, investigating, 
+punishing, and redressing such abuses (ruggie 2011). reiterating this duty is important in 
+a context where private actors, and not necessarily states, are responsible for the brunt of 
+rights abuses being committed. even so, by fact of these abuses occurring within states, 
+those states become complicit, either directly when such abuses are attributable to them, 
+
+237
+
+leveraging the world cupor indirectly when they fail to take steps to address them. in qatar, ongoing reports of 
+worker welfare abuses are linked to corporations  some qatari, others joint venture  
+that ultimately shape workers living and working conditions. this foundational principle, 
+therefore, locates these corporations and the abuses committed under their watch within the 
+purview of state obligation.
+a second foundational principle is state recognition that the extraterritorial activities of 
+local  companies  may  also  infringe  upon  human  rights  (ruggie  2011).  existing  human 
+rights law does not extend state obligation to these activities. as such, states themselves 
+are responsible for setting expectations by defining and publicizing the laws and practices 
+that local businesses are subject to, even when operating beyond their home countries. for 
+qatar, setting expectations is especially important vis--vis recruitment agencies. as qatari 
+companies, these agencies engage in business activities abroad that may directly violate or 
+indirectly contribute to rights abuses.   
+these  two  foundational  principles  give  rise  to  two  areas  in  which  public-private 
+collaborations, such as world cup 2022, place pressure on the qatari state to discharge 
+its human rights obligations and, in turn, take an active role in improving worker welfare. 
+broadly, these areas might be categorized as reputational risks associated with possessing 
+a  poor  human  rights  record.  more  specifically,  though,  these  pressure  points  concern 
+national competitiveness and security.
+
+1.  national competitiveness
+
+in its annual global competitiveness report, the world economic forum (wef) (2015) 
+defines competitiveness as the set of institutions, policies, and factors that determine the 
+level of productivity of a country. productivity is based on a number of metrics, but two in 
+particular, institutions and labor market efficiency, are relevant to the discussion on world 
+cup  2022.  institutions  refer  to  the  legal  and  administrative  framework  that  structures 
+interactions among individuals, businesses, and governments (schwab and sala-i-martin 
+2015). this framework considers both public and private institutions: public institutions 
+in  terms  of  government  efficiency,  levels  of  corruption,  and  susceptibility  to  undue 
+influence (among other factors), and private institutions in terms of corporate ethics and 
+accountability. labor market efficiency, meanwhile, considers how effectively workers are 
+allocated across an economy and whether they are incentivized to be productive (schwab 
+and sala-i-martin 2015). the flexibility of the market and the use of talent are thus critical.  
+according to wef, qatar is the most competitive economy in the middle east and the 
+14th most competitive in the world, owing in large part to the strength of its institutions 
+and the presumption of an efficient labor market (scwab and sala-i-martin 2015). failure 
+to address worker welfare abuses, therefore, undermines perceptions of qatari institutions 
+and, with it, national competitiveness. 
+first,  continued  worker  welfare  abuses  demonstrate  the  limited  capacity  of  qatari 
+institutions. promoting accountability, legal certainty, and transparency as well as enforcing 
+regulations in a consistent and coherent manner  these indicators, according to the un 
+guiding principles, are part and parcel of a states duty to protect against rights abuses 
+(ruggie 2011). these indicators also reflect a states institutional quality. as such, qatars 
+
+238
+
+journal on migration and human securityinability to maintain its commitments to national and international law, including human 
+rights law, suggests a state with limited institutional strength. 
+second, the perception of capacity-limited institutions sends the wrong signal to foreign 
+companies seeking to do business in qatar. as the guiding principles make clear, states must 
+set expectations for whether and how they intend to meet their human rights commitments. 
+this is particularly important for businesses that require a certain level of legal certainty 
+and regulatory predictability to conduct operations. hence, state uncertainty in this realm 
+exposes businesses  at least, those that are human rights-conscious  to unwanted risks 
+that might hurt their bottom line. 
+this  dynamic  was  apparent  in  january  of  2014  when  verisk  maplecroft,  a  uk-based 
+global risk and strategic consulting firm, downgraded qatar to an extreme risk country 
+in its working conditions index. the downgrade came in response to the hazardous and 
+sometimes deadly conditions facing labor migrants in the construction sector. lizabeth 
+campbell, a director at the firm, paired the downgrade with an observation: these disasters 
+have  prompted  serious  questions  regarding  corporate  responsibility,  which  have  forced 
+this issue high up the risk register for many multinational companies (verisk maplecroft 
+2014). this perception, in turn, challenges qatars continued ability to attract the foreign 
+firms so critical to executing its development objectives.
+third,  qatars  development  objectives  do  not  exist  in  isolation  but,  rather,  are  in 
+competition for resources with other gcc countries. dubai, for example, was awarded 
+the right to host world expo 2020, another prominent mega event. given the coincidence 
+of  dubais  expo  and  qatars world  cup,  as  well  as  both  countries  heavy  reliance  on 
+foreign capital for development and foreign workers for manpower, continuation of worker 
+welfare abuses in qatar may jeopardize its ability to attract the firms and workers needed 
+to complete its ambitious infrastructure projects (kovessy 2013). this is especially true as 
+reports of dubais human rights record, according to one migrant worker welfare specialist 
+(personal communication 2014), indicate improvements in its labor environment. absent 
+improvements in its own reputation, qatar may find it increasingly difficult, over the next 
+six years, to make good on its world cup vision.
+
+2.  national security interests
+
+in pursuit of their national interests, states typically exercise power to shape the behavior 
+of other actors. some states operationalize their power through bullying, others through 
+buying, and still others through persuading (nye 2009). many use a combination of all 
+three. how these tactics are used for larger foreign policy ends, according to joseph nye, 
+might be described as a states hard power or soft power strategy. hard power, which is 
+dependent on a countrys economic and military might, refers to a states ability to coerce 
+or buy. soft power, by contrast, concerns a states ability to attract  that is, to achieve 
+its interests by persuading other actors to favor those interests as well (nye 2004). both 
+strategies have implications for national security, depending on a countrys stock of hard 
+and soft power resources as well as its ability to deploy those resources toward particular 
+ends. 
+
+239
+
+leveraging the world cupqatars  national  security  strategy,  in  the  eyes  of  many  observers,  is  one  predicated  on 
+soft  power.  mehran  kamrava,  an  academic  at  georgetown  universitys  doha  campus, 
+describes qatars influence as a subtle power  one that is rooted in a combination of 
+contextual opportunities and calculated policies meant to augment its influence over others 
+(kemrava 2013). the origins of this strategy lie in the experiences of the small gulf states 
+during iraqs 1990 invasion and occupation of kuwait. the event, in the eyes of qataris 
+like sheikh hamad bin khalifa al-thani, then the son of the ruling emir (and later, head-of-
+state when qatar was named world cup host), demonstrated the countrys vulnerabilities 
+ namely, its modest military force and its proximity to the iran-iraq-saudi arabia rivalry. 
+the event also showed qataris the importance of securing powerful international partners, 
+like the united states, that would support the country in times of crisis (ulrichsen 2012). 
+the result was qatars pursuit of a soft power strategy aimed at creating interdependencies 
+and cultivating its brand as a modern and peace-loving state  a brand that might earn 
+it friends when in need (dorsey 2013). this brand, shadi hamid argues, is critical to 
+qatars ability to leave its mark on the regions politics and, in turn, bolster its national 
+security (siegal 2013). 
+of course, qatars brand  and its broader soft power appeal  rests on several pillars. 
+these include its activism in regional diplomacy, its messaging through al jazeera, its 
+cultural diffusion via museums, and its research and innovation capacity vis-a-vis education 
+city. all of the above, according to collins (2012), is meant to demonstrate a desire to 
+balance arab traditions and western modernization. as such, ongoing worker welfare 
+abuses are likely to tarnish brand qatar, particularly by undermining its diplomatic pull.
+as a 2012 gulf news report details, qatars efforts in the area of conflict mediation are 
+considerable and include forging agreements between eritrea and yemen (1996), yemen 
+and its houthi rebel movement (2007), rival lebanese factions (2008), sudan and chad 
+(2009), and feuding palestinian factions (2012), among others (seale 2012). the breadth 
+of qatars diplomatic undertakings, meanwhile, has earned it an extensive and baffling 
+diversity  of  friends.  these  include  security  ties  with  the  united  states,  commercial 
+activities  with  iran,  a  nascent  diplomatic  dialogue  with  israel,  and  cozy  relations  with 
+islamist groups like hamas and the muslim brotherhood (collins 2012). 
+but reports of continued worker welfare abuses, including the deaths of hundreds of indian 
+and nepali workers, threaten to undermine qatars influence in the diplomatic realm. one 
+threat comes from worsening relations with members of the european parliament  the 
+legislative body of the european union  that has been critical of the pace of qatari labor 
+reforms. over the span of five months, the body passed an emergency resolution condemning 
+the abuse of construction workers, held a hearing during which parliamentarians spoke 
+of the need to reform the kafala system, and soon after sent a delegation to meet with 
+qatari authorities and push for substantial reform of existing sponsorship laws (european 
+parliament 2013; khatri 2014; kovessy 2014a; european parliament 2014). 
+a second threat arises from the impact of worker welfare abuses on qatars foreign policy 
+priorities  that is, the qatari states unexpected need to shift attention away from regional 
+matters and onto its human rights record. qatars once dominant role in the region has given 
+
+240
+
+journal on migration and human securityway to a string of failures  egypt, libya, and syria chief among them.1 compounding 
+these failures was the decision by saudi arabia, bahrain, and the united arab emirates 
+(uae),  in  2014,  to  withdraw  their  ambassadors  from  doha  in  response  to  perceived 
+qatari meddling in their internal affairs (dickinson 2014). diplomatic relations were later 
+restored. initially, however, rather than mending these relationships or resurrecting its role 
+as regional mediator, the qatari state focused its energies on recasting its human rights 
+image. this was evident in emir sheikh tamim bin hamad al thanis decision, in february 
+2014, to restructure the qatar 2022 supreme committee by replacing its board of directors 
+with members of his own cabinet while he stayed on as chair (dorsey 2014; scott 2014). as 
+a result, the small gulf state increasingly ceded ground to saudi arabia, which, according 
+to political analyst ayed al manna, regained its role in regional politics (agence-france 
+presse 2014).
+a third threat is the possibility of ongoing rights abuses creating a negative legacy for 
+world cup 2022  and what that could mean for qatars sports diplomacy. according to 
+kedar pavgi and nakul kadaba (2012), the primary aim of qatars endeavors in global 
+sport has been to position the country as a leading power broker for business, diplomacy, 
+and  foreign  affairs  between western  and  eastern  states.  put  differently,  hosting  major 
+international sporting events permits qatar to reconcile its small stature  in a region of 
+more considerable powers  with its grand ambitions, demonstrating to a global audience 
+its  aptitude  for  accommodating  capitalist  interests  and  islamic  values.  in  turn,  qatars 
+investments in global sport, from its sponsorship of top european clubs to its hosting of 
+the 2006 asian games, have buttressed its diplomatic brand, allowing it to forge financial 
+and political alliances, such as those with france, and to play a mediator role during the 
+arab spring (amara 2013). hence, to host a world cup, with all the attention that brings, 
+that is widely perceived as corrupt and dismissive of labor migrants welfare would be to 
+undermine qatars diplomatic activism and, with it, its ability to cultivate friends when in 
+need.   
+
+b. responsibility to respect
+
+of the foundational principles listed in the un guiding principles on business and human 
+rights, five are particularly relevant to the corporate responsibility to respect human rights. 
+the first two of these five define what responsibility means and identify the human rights 
+that businesses must safeguard. principle 11, for example, states that business enterprises 
+should respect human rights by recognizing this responsibility as a global standard of 
+expected conduct that exists over and above state laws (ruggie 2011). principle 12 
+defines human rights as those internationally recognized rights included in the universal 
+declaration of human rights (udhr); the international covenant on civil and political 
+rights  (iccpr);  the  international  covenant  on  economic,  social,  and  cultural  rights 
+(icescr);  and  the  international  labor  organizations  eight  core  conventions  (ruggie 
+2011). these two principles are particularly important in the qatari context, as qatar has 
+not ratified the iccpr, the icescr, or three of the ilos eight core conventions. even so, 
+
+1  qatar actively supported mohamed morsi and the muslim brotherhood in egypt, islamist militias in 
+libya, and a number of opposition factions in syria  moves that sowed greater instability in those countries 
+and eventually resulted in diminished qatari clout with their ruling regimes (shapiro 2013).
+
+241
+
+leveraging the world cupcontractors are responsible for these rights because they exist independent of legal liability 
+and enforcement (ruggie 2011). hence, they should avoid infringing on these rights as 
+well as address the adverse impacts of any rights they do violate.
+the next three foundational principles outline the more particular responsibilities attached 
+to a respect for human rights. principle 13 defines respect as encompassing both a businesss 
+direct activities as well as its relationships with other entities in its value chain. in other 
+words,  whether  a  business  directly  causes  adverse  rights  impacts  or  whether  a  trading 
+partner causes adverse impacts, the primary business is still responsible for preventing or 
+mitigating these harms (ruggie 2011). building on the concept of value chains, principle 
+14 specifies that both the primary business and the partnering entity should respect human 
+rights. the way each should do so, however, differs depending on their proximity to the 
+abuse (ruggie 2011). as such, respect is at times a capacity issue that varies from business 
+to business and from relationship to relationship. finally, principle 15 asks that businesses 
+adopt policies and processes to show that they are indeed respecting human rights (ruggie 
+2011). these include a policy commitment, due diligence systems to identify and account 
+for rights abuses, and remediation processes to aid affected individuals or communities.  
+although  these  five  principles  call  on  business  enterprises,  such  as  foreign  companies 
+and recruitment agencies operating in qatar and coos, to respect human rights, they are 
+non-binding. what makes them consequential, however, is their location in a larger risk 
+management system. in this context, rights abuses expose complicit companies to a variety 
+of risks  reputational, legal, and strategic  that can erode their business value and hurt 
+their bottom line if neglected (bhri 2010). for corporate actors, therefore, these risks 
+are pressure points that, under the spotlight of world cup 2022, may motivate behavioral 
+change.
+
+1.  reputational risk 
+
+business brands, according to the world intellectual property organization (2013), serve as 
+a guide for consumers and a means for companies to build a reputation and an image in the 
+marketplace. increasingly, due to the widespread availability of information and the pace 
+of technological change, brands have become companies most valuable intangible assets 
+(abraham et al. 2012). perceptions of human rights abuses, therefore, weigh heavily on a 
+companys reputation and, as a result, its brand. rights violations threaten company share 
+price, are often difficult to refute, and, even when proven to be false, still leave a mark on a 
+businesss brand that takes time to undo. human rights due diligence thus offers companies 
+an opportunity to head off these reputational challenges with the intention of preserving 
+customer loyalty as well as lucrative governmental and commercial opportunities that are 
+based on contracts with strict human rights criteria (amis, brew, and ersmarker 2005).
+in  qatar,  ongoing  worker  welfare  abuses,  particularly  those  linked  to  forced  labor  and 
+human  trafficking,  bear  serious  consequences  for  contracting  companies  brand  value. 
+nicholas mcgeehan states that construction firms in qatar cannot afford not to be there 
+but its also an unregulated market that poses reputational risks (hurst 2013). for example, 
+ch2m  hill,  an american  firm  contracted  by  the  qatar  2022  supreme  committee  for 
+delivery and legacy (q22) to oversee its construction projects was singled out by human 
+
+242
+
+journal on migration and human securityrights watch in 2012 (hrw 2012) and by the international trade union confederation 
+(ituc) in 2015 (ituc 2015), as well as in numerous newspaper articles and in a petition 
+entitled free qatars modern slaves, which to date has garnered over 828,000 signatures 
+(avaaz 2016). ch2m hill has come under scrutiny because of its oversight position, 
+and because one of its divisions, the uk engineering firm halcrow, conducted work in 
+lusail city, where workers reported instances of withheld pay, confiscated passports, and 
+forced labor (pattisson 2013). as michael stephens of the royal united services institute 
+has  observed,  even  if  these  reported  abuses  were  the  result  of  an  individual  foreman, 
+ch2m hill cannot abdicate responsibility because [it plays] a large role in setting the 
+gold standard for labour rights (hurst and withers 2013). these abuses, in line with un 
+guiding principle 13, have led activists to call on ch2m hill to take a more proactive role 
+in  ending  worker  exploitation  across  its  value  chain.  other  contracting  companies  will 
+similarly be scrutinized  and their brands similarly tested  over the next six years.
+
+2.  legal risk 
+
+certain countries present unusually substantial and uncertain legal risks for multinational 
+companies (institute of business ethics 2012). in such environments, which include those 
+in which executive authority is vested primarily in a single individual or family, the extent to 
+which host country laws are enforced is often unclear, and, as a result, companies are more 
+prone to treat their legal obligations like optional guidelines (amnesty international 2013). 
+doing so, however, runs the risk of violating home country laws  those laws enacted by 
+the countries in which these multinational companies are incorporated or headquartered  
+including those laws that prohibit human rights violations. one consequence is company 
+exposure to litigation. in addition to the potential for reputational risk, litigation may mean 
+increased exposure to the costs of legal services, as well as to the costs of out-of-court 
+settlements and adverse court judgments. extraterritorial suits for human rights violations 
+have already taken place in the united states, the united kingdom, canada, belgium, and 
+australia (amis, brew, and ersmarker 2005). another consequence of legal risk is exposure 
+to criminal penalties. in the area of labor migrant recruitment, companies and individuals 
+found to be complicit in forced labor or human trafficking are subject to criminal sanctions, 
+including, in the case of individuals, imprisonment (verite and manpower group 2012). 
+the goal of due diligence, in these cases, is to assess which human rights violations a 
+company is most susceptible to, in light of home country laws, and to prevent or mitigate 
+them accordingly. 
+legal risk is a growing concern for companies operating in qatar, where the labor law, 
+when enforced, imposes civil ($824 to $82,000 in fines) and criminal (six months to 15 
+years in prison) penalties on individuals complicit in forced labor and human trafficking 
+(amnesty  international  2013).  this  is  especially  true  for  the  uk  construction  firms 
+operating in qatar, including, among others, g&t, aecom, buro happold, grimshaw, and 
+paul dollin. according to a 2013 report in building, a uk periodical on the construction 
+industry, british attorneys were examining the legal liabilities of these firms if found in 
+breach of qatari labor laws. echoing the message of un guiding principle 13, daniel 
+leader of the uk law firm leigh day points out that construction firms need to be sure 
+of  the  way  they  are  operating  with  regard  to  their  own  workforce  but  also  be  alive  to 
+the behaviour of subcontractors (hurst 2013). as such, his firm is offering its services, 
+
+243
+
+leveraging the world cupon  a  conditional  fee  basis,  to  labor  migrants  and  families  based  in  qatar  whose  rights 
+have  been  violated  by  uk  construction  firms.  these  legal  risks  will  only  grow  as  the 
+pace of infrastructure development quickens with the development of eight stadiums now 
+underway.
+
+3.  strategic risk
+
+complicity in human rights abuses may deny businesses a range of opportunities that can 
+strategically position them ahead of their competitors. one opportunity is the competitive 
+advantage  businesses  gain  by  building  a  base  of  knowledge  and  experience  in  human 
+rights due diligence. such a base permits businesses to enter new markets, like those in 
+the gcc, where rights abuses exist but where the expertise to address them is still lacking 
+(amis, brew, and ersmarker 2005). a second opportunity arises when businesses are able 
+to leverage their human rights practices to attract top talent in their industry. a 2005 paper 
+by the international business leaders forum found that companies with stronger rights 
+records observed a 45 percent increase in unsolicited job applications, while companies 
+with poorer rights records exhibited a decline in applications (amis, brew, and ersmarker 
+2005). this advantage is all the more important in the gcc context, where the presence of 
+foreign firms continues to increase, along with their need for top talent. a final opportunity 
+comes in the form of productivity gains. businesses with strong human rights cultures 
+are associated with more productive workers who aid profitability, as well as with fewer 
+workplace accidents, strikes, bottlenecks, and delays that cut into their bottom lines (amis, 
+brew, and ersmarker 2005; bhri 2010). ignoring these opportunities by neglecting human 
+rights, therefore, risks leaving value on the table.        
+that companies in qatar should capitalize on these opportunities is a point not lost on 
+observers of qatars world cup preparations. a migrant worker welfare specialist based 
+in  qatar  (personal  communication  2014)  cited  shell,  which  had  built  a  53,000-person 
+accommodation for workers just outside doha and instituted a worker grievance mechanism 
+similar to a union, as an example of a company that had invested in labor rights and, in 
+turn, was witnessing productivity gains. similarly, james ryan of fsi worldwide (fsi), a 
+uk-based ethical recruitment agency, noted that, in his firms experience, productivity was 
+positively linked with satisfying working and living conditions (personal communication 
+2014).  such  a  model  should  be  attractive  to  states  and  companies  with  limited  human 
+rights expertise. from fsis modest beginnings placing nepali ex-gurkhas in the security 
+industry in iraq and afghanistan, to its expansion into other sectors like construction and 
+other markets like the uae, fsis growth demonstrates the opportunities available to firms 
+that  embrace  the  corporate  responsibility  to  respect  human  rights.  fsis  model  is  now 
+considered a best practice by the ilo, and the agency is one of many recruitment agencies 
+that may be included in a qatar foundation initiative to create and disseminate a list of 
+preferred recruitment agencies to contractors (ilo 2013a).
+
+iv. the qatari record
+worker welfare abuses implicate far more than qatars human rights record  at stake, 
+too, is its development trajectory. whether for this reason or others, the qatari government
+
+244
+
+journal on migration and human securitys
+e
+i
+t
+i
+r
+o
+h
+t
+u
+a
+
+ 
+i
+r
+a
+t
+a
+q
+y
+b
+
+ 
+
+ 
+
+d
+e
+c
+n
+u
+o
+n
+n
+a
+ 
+s
+m
+r
+o
+f
+e
+r
+d
+e
+t
+a
+l
+e
+r
+-
+
+ 
+
+n
+o
+i
+t
+a
+r
+g
+i
+m
+
+ 
+.
+
+5
+
+ 
+
+e
+l
+b
+a
+t
+
+ 
+
+w
+a
+l
+
+t
+n
+e
+m
+e
+c
+r
+o
+f
+n
+e
+
+ 
+e
+c
+n
+a
+v
+e
+i
+r
+g
+
+s
+
+m
+
+s
+i
+
+n
+a
+h
+c
+e
+m
+
+s
+e
+i
+r
+o
+g
+e
+t
+a
+c
+ 
+m
+r
+o
+f
+e
+r
+
+-
+o
+m
+m
+o
+c
+c
+a
+
+s
+n
+o
+i
+t
+a
+d
+
+s
+d
+r
+a
+d
+n
+a
+t
+s
+ 
+l
+a
+n
+o
+i
+t
+a
+p
+u
+c
+c
+o
+
+ 
+
+s
+e
+r
+u
+d
+e
+c
+o
+r
+p
+n
+o
+i
+t
+a
+r
+g
+i
+m
+m
+
+i
+
+ 
+r
+e
+b
+m
+u
+n
+
+ 
+
+g
+n
+i
+s
+a
+e
+r
+c
+n
+i
+
+ 
+r
+o
+b
+a
+l
+ 
+
+d
+e
+n
+i
+a
+r
+t
+ 
+f
+o
+
+ 
+
+y
+b
+
+ 
+s
+r
+o
+t
+c
+e
+p
+s
+n
+i
+
+ 
+
+d
+n
+a
+ 
+t
+n
+e
+c
+r
+e
+p
+
+ 
+
+5
+2
+
+ 
+r
+e
+v
+o
+
+ 
+
+g
+n
+i
+t
+c
+u
+d
+n
+o
+c
+
+ 
+
+m
+o
+d
+n
+a
+r
+ 
+
+0
+0
+5
+
+,
+
+1
+1
+
+ 
+f
+o
+
+ 
+s
+k
+c
+e
+h
+c
+ 
+t
+o
+p
+s
+
+ 
+s
+e
+c
+a
+l
+p
+k
+r
+o
+w
+
+ 
+s
+t
+r
+e
+p
+x
+e
+ 
+l
+a
+g
+e
+l
+ 
+
+g
+n
+i
+r
+i
+
+h
+
+ 
+r
+e
+k
+r
+o
+w
+w
+e
+n
+
+ 
+
+ 
+
+g
+n
+i
+t
+c
+u
+r
+t
+s
+n
+o
+c
+
+ 
+
+d
+n
+a
+ 
+
+g
+n
+i
+n
+n
+a
+l
+p
+
+ 
+
+g
+n
+i
+t
+a
+e
+r
+c
+ 
+
+d
+n
+a
+
+ 
+s
+l
+a
+i
+r
+e
+t
+a
+m
+
+ 
+l
+a
+n
+o
+i
+t
+a
+c
+u
+d
+e
+
+ 
+s
+e
+n
+i
+l
+t
+o
+h
+
+ 
+
+d
+n
+a
+
+ 
+
+ 
+
+h
+t
+u
+o
+s
+n
+i
+ 
+e
+l
+b
+i
+s
+s
+e
+c
+c
+a
+
+s
+e
+g
+a
+u
+g
+n
+a
+l
+ 
+
+n
+a
+i
+s
+a
+
+ 
+,
+s
+n
+o
+i
+t
+a
+d
+o
+m
+m
+o
+c
+c
+a
+
+ 
+
+d
+e
+b
+
+ 
+
+0
+0
+0
+
+,
+
+5
+2
+
+ 
+
+g
+n
+i
+d
+u
+l
+c
+n
+i
+
+ 
+a
+h
+a
+r
+a
+b
+
+ 
+l
+
+a
+
+ 
+t
+a
+ 
+
+x
+e
+l
+p
+m
+o
+c
+
+ 
+
+y
+t
+i
+l
+i
+c
+a
+f
+ 
+r
+e
+k
+r
+o
+w
+0
+0
+0
+
+ 
+
+,
+
+ 
+
+6
+d
+n
+a
+
+ 
+
+n
+o
+i
+t
+a
+e
+r
+c
+e
+r
+ 
+a
+w
+r
+a
+b
+n
+i
+
+ 
+
+y
+t
+i
+
+c
+
+ 
+e
+z
+i
+s
+ 
+
+g
+n
+i
+d
+n
+a
+p
+x
+e
+
+ 
+
+ff
+a
+t
+s
+ 
+
+n
+o
+i
+t
+c
+e
+p
+s
+n
+i
+ 
+f
+o
+
+ 
+
+0
+6
+
+ 
+l
+a
+n
+o
+i
+t
+i
+d
+d
+a
+ 
+
+y
+b
+
+s
+r
+o
+t
+a
+g
+i
+t
+s
+e
+v
+n
+i
+
+ 
+c
+i
+n
+o
+r
+t
+c
+e
+l
+e
+ 
+
+g
+n
+i
+h
+c
+n
+u
+a
+l
+
+ 
+r
+e
+k
+r
+o
+w
+d
+l
+e
+fi
+o
+t
+ 
+
+ 
+
+ 
+
+m
+e
+t
+s
+y
+s
+
+s
+t
+n
+i
+a
+l
+p
+m
+o
+c
+
+ 
+r
+o
+f
+ 
+
+y
+t
+i
+c
+a
+p
+a
+c
+ 
+
+g
+n
+i
+d
+l
+i
+u
+b
+
+ 
+s
+d
+e
+b
+
+ 
+
+0
+0
+0
+
+,
+
+0
+7
+
+ 
+l
+a
+n
+o
+i
+t
+i
+d
+d
+a
+
+ 
+r
+o
+t
+c
+e
+s
+ 
+e
+t
+a
+v
+i
+r
+p
+
+ 
+
+h
+g
+u
+o
+r
+h
+t
+
+s
+t
+n
+e
+m
+p
+o
+l
+e
+v
+e
+d
+
+ 
+
+ 
+r
+e
+k
+r
+o
+w
+g
+n
+i
+n
+e
+h
+t
+g
+n
+e
+r
+t
+s
+
+ 
+
+n
+o
+i
+t
+a
+d
+o
+m
+m
+o
+c
+c
+a
+
+ 
+
+d
+n
+a
+ 
+s
+d
+r
+a
+d
+n
+a
+t
+s
+
+ 
+e
+r
+e
+v
+e
+s
+ 
+e
+r
+o
+m
+g
+n
+i
+t
+a
+l
+u
+m
+r
+o
+f
+
+ 
+
+s
+n
+o
+i
+t
+a
+l
+o
+i
+v
+
+ 
+r
+o
+f
+ 
+s
+e
+i
+t
+l
+a
+n
+e
+p
+
+ 
+
+w
+e
+n
+
+ 
+
+g
+n
+i
+p
+o
+l
+e
+v
+e
+d
+
+ 
+
+o
+t
+ 
+s
+n
+o
+i
+t
+a
+d
+o
+m
+m
+o
+c
+c
+a
+
+ 
+l
+a
+n
+o
+i
+t
+i
+d
+d
+a
+ 
+0
+0
+0
+
+,
+
+0
+0
+2
+ 
+e
+s
+u
+o
+h
+
+ 
+s
+r
+e
+k
+r
+o
+w
+
+ 
+
+y
+t
+e
+f
+a
+s
+ 
+l
+a
+n
+o
+i
+t
+a
+p
+u
+c
+c
+o
+
+ 
+
+g
+n
+i
+n
+e
+t
+h
+g
+i
+t
+
+ 
+
+d
+n
+a
+ 
+s
+r
+e
+k
+r
+o
+w
+
+ 
+r
+o
+f
+ 
+s
+d
+r
+a
+d
+n
+a
+t
+s
+
+-
+n
+o
+n
+
+ 
+r
+o
+f
+ 
+s
+e
+i
+t
+i
+l
+a
+n
+e
+p
+
+ 
+
+g
+n
+i
+s
+i
+a
+r
+
+s
+e
+g
+a
+w
+
+ 
+f
+o
+
+ 
+t
+n
+e
+m
+y
+a
+p
+
+ 
+r
+o
+f
+ 
+
+y
+t
+l
+a
+n
+e
+p
+
+ 
+
+g
+n
+i
+s
+a
+e
+r
+c
+n
+i
+
+ 
+s
+t
+r
+o
+p
+s
+s
+a
+p
+ 
+r
+e
+k
+r
+o
+w
+
+ 
+
+ 
+f
+o
+n
+o
+i
+t
+a
+c
+s
+fi
+n
+o
+c
+
+ 
+
+ 
+l
+e
+d
+o
+m
+g
+n
+i
+t
+a
+l
+u
+c
+r
+i
+c
+ 
+
+d
+n
+a
+ 
+
+d
+l
+o
+f
+-
+e
+v
+fi
+
+ 
+e
+s
+u
+
+ 
+
+o
+t
+ 
+s
+r
+e
+y
+o
+l
+p
+m
+e
+ 
+r
+o
+f
+ 
+s
+t
+c
+a
+r
+t
+n
+o
+c
+
+ 
+t
+n
+e
+m
+y
+o
+l
+p
+m
+e
+ 
+
+g
+n
+i
+t
+f
+a
+r
+d
+
+ 
+
+n
+e
+h
+w
+
+s
+t
+n
+e
+m
+e
+e
+r
+g
+a
+
+ 
+t
+a
+h
+t
+ 
+
+o
+s
+ 
+s
+e
+l
+u
+r
+ 
+r
+e
+f
+s
+n
+a
+r
+t
+ 
+
+g
+n
+i
+d
+n
+e
+m
+a
+
+ 
+s
+r
+e
+y
+o
+l
+p
+m
+e
+ 
+e
+g
+n
+a
+h
+c
+ 
+
+n
+a
+c
+ 
+s
+r
+e
+k
+r
+o
+w
+
+ 
+
+g
+n
+i
+t
+s
+i
+x
+e
+ 
+f
+o
+
+ 
+
+n
+o
+i
+t
+e
+l
+p
+m
+o
+c
+ 
+r
+e
+t
+f
+a
+
+-
+n
+e
+p
+o
+
+ 
+ 
+f
+o
+
+ 
+e
+s
+a
+c
+ 
+e
+h
+t
+ 
+
+n
+i
+ 
+,
+r
+o
+
+ 
+s
+t
+c
+a
+r
+t
+n
+o
+c
+
+ 
+f
+o
+
+ 
+s
+r
+a
+e
+y
+ 
+e
+v
+fi
+ 
+r
+e
+t
+f
+a
+ 
+,
+s
+t
+c
+a
+r
+t
+n
+o
+c
+ 
+
+d
+e
+d
+n
+e
+
+ 
+e
+c
+i
+v
+r
+e
+s
+
+ 
+s
+r
+e
+f
+s
+n
+a
+r
+t
+ 
+
+k
+n
+a
+b
+
+ 
+t
+c
+e
+r
+i
+d
+
+ 
+
+g
+n
+i
+r
+i
+u
+q
+e
+r
+
+ 
+
+g
+n
+i
+s
+i
+a
+r
+ 
+
+d
+n
+a
+ 
+s
+t
+n
+e
+m
+y
+a
+p
+
+ 
+e
+g
+a
+w
+
+ 
+f
+o
+
+ 
+e
+t
+a
+l
+ 
+r
+o
+f
+ 
+
+d
+e
+r
+r
+u
+c
+n
+i
+ 
+s
+e
+i
+t
+l
+a
+n
+e
+p
+
+s
+t
+n
+e
+m
+y
+a
+p
+
+ 
+
+2
+h
+s
+a
+r
+t
+e
+
+m
+
+
+ 
+
+d
+e
+t
+a
+m
+o
+t
+u
+a
+ 
+
+g
+n
+i
+t
+u
+t
+i
+t
+s
+n
+i
+
+ 
+t
+i
+x
+e
+ 
+s
+r
+e
+k
+r
+o
+w
+g
+n
+i
+t
+n
+a
+r
+g
+
+ 
+
+ 
+r
+o
+f
+ 
+
+m
+e
+t
+s
+y
+s
+
+d
+o
+i
+r
+e
+p
+ 
+e
+c
+a
+r
+g
+
+ 
+r
+u
+o
+h
+
+ 
+
+2
+7
+
+ 
+r
+e
+t
+f
+a
+ 
+s
+a
+s
+i
+v
+
+ 
+t
+n
+e
+m
+e
+c
+n
+u
+o
+n
+n
+a
+
+e
+t
+a
+d
+
+4
+1
+0
+2
+
+ 
+
+y
+r
+a
+u
+r
+b
+e
+f
+
+4
+1
+0
+2
+
+ 
+
+y
+a
+m
+
+.
+)
+t
+x
+e
+t
+ 
+e
+e
+s
+(
+ 
+
+6
+1
+0
+2
+
+ 
+)
+n
+o
+i
+t
+a
+c
+i
+n
+u
+m
+m
+o
+c
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+(
+ 
+c
+i
+m
+e
+d
+a
+c
+a
+ 
+
+d
+e
+s
+a
+b
+-
+r
+a
+t
+a
+q
+
+ 
+;
+4
+1
+0
+2
+
+ 
+
+h
+t
+o
+o
+b
+d
+n
+a
+ 
+,
+
+ 
+
+n
+o
+s
+b
+i
+g
+
+ 
+,
+
+k
+c
+a
+l
+b
+
+ 
+;
+b
+4
+1
+0
+2
+
+ 
+
+y
+s
+s
+e
+v
+o
+k
+
+ 
+;
+4
+1
+0
+2
+
+ 
+r
+o
+i
+r
+e
+t
+n
+i
+ 
+f
+o
+
+ 
+
+y
+r
+t
+s
+i
+n
+i
+m
+
+ 
+r
+a
+t
+a
+q
+
+ 
+;
+4
+1
+0
+2
+
+ 
+r
+e
+p
+i
+
+ 
+
+p
+a
+l
+d
+
+ 
+;
+4
+1
+0
+2
+ 
+a
+s
+l
+m
+
+ 
+:
+s
+e
+c
+r
+u
+o
+s
+
+245
+
+ 
+
+m
+o
+r
+f
+ 
+s
+r
+e
+k
+r
+o
+w
+g
+n
+i
+t
+i
+b
+i
+h
+o
+r
+p
+
+ 
+
+ 
+s
+r
+u
+o
+h
+
+ 
+
+g
+n
+i
+r
+u
+d
+
+ 
+
+n
+u
+s
+ 
+
+n
+i
+ 
+
+g
+n
+i
+r
+o
+b
+a
+l
+
+t
+s
+u
+g
+u
+a
+
+ 
+f
+o
+
+ 
+
+d
+n
+e
+ 
+
+ 
+
+m
+o
+r
+f
+ 
+
+ 
+
+m
+p
+0
+0
+:
+3
+
+ 
+
+o
+t
+ 
+
+ 
+
+m
+a
+0
+0
+:
+1
+1
+
+ 
+f
+o
+
+h
+g
+u
+o
+r
+h
+t
+ 
+e
+n
+u
+j
+-
+d
+i
+m
+
+ 
+l
+a
+i
+c
+n
+a
+n
+fi
+ 
+r
+e
+y
+o
+l
+p
+m
+e
+ 
+g
+n
+i
+c
+a
+l
+p
+e
+r
+
+ 
+s
+s
+e
+c
+o
+r
+p
+
+ 
+
+h
+t
+i
+
+w
+ 
+s
+r
+e
+k
+r
+o
+w
+
+ 
+r
+o
+f
+ 
+
+y
+t
+i
+l
+i
+b
+a
+i
+l
+
+ 
+
+d
+n
+a
+ 
+l
+i
+v
+i
+c
+ 
+s
+
+e
+t
+a
+t
+s
+ 
+
+y
+b
+
+ 
+
+d
+e
+n
+r
+e
+v
+o
+g
+
+s
+w
+a
+l
+ 
+l
+a
+i
+c
+r
+e
+m
+m
+o
+c
+
+leveraging the world cuphas undertaken a series of reforms over the past few years aimed at improving living and 
+working conditions for its migrant population. these reforms have followed two parallel 
+tracks. one track is that taken by the countrys frontline ministries for labor migration 
+  namely,  the  mlsa  and  the  ministry  of  interior  (table  5). the  first  set  of  reforms, 
+a response to growing criticism from official bodies like the european parliament, was 
+published in a february 2014 statement in the guardian (mlsa 2014); just months later, 
+a second set, coinciding with the release of a government-commissioned study by the law 
+firm dla piper, was announced by qatari officials during a press conference (dla piper 
+2014; ministry of interior 2014; kovessy 2014b). animating both sets of reforms, as qatari 
+officials (personal communication 2014) have intimated, is the states goal of replacing 
+the  kafala  system  with  a  process  premised  on  employment  contracts  and  overseen  by 
+the ministry of interior (black, gibson, and booth 2014). complementing these ad hoc 
+measures, more broadly, were multilateral ones, such as qatars adoption of the 2014 gcc 
+human rights declaration, that aim to reconcile the udhr with the regions cultural and 
+religious particularities.
+a second track is that pursued by the world cups largest client organizations, notably 
+the qatar foundation, a private nonprofit responsible for administering education city, 
+and the q22, the organizing committee charged with overseeing world cup preparations. 
+both clients, currently responsible for the development of eight world cup sites, have 
+created  worker  welfare  standards  to  clarify  the  obligations  assumed  by  contracting 
+parties (qatar foundation 2013; q22 2014). these standards include measures spanning 
+recruitment, employment, accommodations, and transportation and have been embedded 
+in all subsequent contracts tendered by these clients (jureidini 2014). where the track one 
+reforms cut to the very viability of the migration system, the track two reforms largely 
+concern management of that system.
+although  these  measures  appear  promising  on  their  face,  it  is  not  clear  whether  they 
+will translate into tangible changes in workers lives, especially in a timeframe that will 
+accommodate the growing pace of construction efforts in qatar. it is also not clear if these 
+reforms are genuine or, rather, merely lip service aimed at pacifying the chorus of critics 
+calling on fifa to strip qatar of its hosting rights. indeed, when amnesty international 
+researchers confronted [qatari officials] with . . . evidence of human rights abuses  
+evidence that had been collected from february 2015 to february 2016  the governments 
+response was apathetic at best (amnesty international 2016a, 4, 73).
+drawing  on  interviews  with  a  number  of  experts  familiar  with  qatars  capacity  and 
+motivation to undertake reforms, this author is pessimistic about the prospect for effective 
+reform of qatars migrant labor law. in terms of huge reforms on the horizon, as one q22 
+official put it (personal communication 2014), the qatari government has long promised such 
+changes without fully delivering. a project manager at one recruitment agency (personal 
+communication 2014) noted that he had long heard rumors of major reforms to the kafala 
+system, but observed official government pronouncements to be routinely delayed and, 
+once made, often lacking in substance. his observation is confirmed by the new evidence 
+from amnesty international (2016) that uncovered widespread and continuing abuses  
+chief among them, squalid accommodations and confiscation of passports without penalty 
+ tied to the khalifa international stadium site. 
+
+246
+
+journal on migration and human securityunderscoring the above is the governments long-stalled effort to pass and implement its 
+february 2014 reforms. the reforms, initially set to be implemented in march, and then 
+may, drew little support from qatars business community and shura council (legislative 
+body) and were delayed indefinitely (walker 2015). only in december 2015, ultimately, 
+were the reforms signed into law as law no. 21 of 2015 regulating the entry, exit, and 
+residence of expatriates. yet, those reforms fell far short of the mlsa and ministry of 
+interiors initial promises. for example, when law no. 21 finally takes effect in december 
+2016, most migrant workers will still be required to obtain their sponsors approval to 
+change jobs or to leave the country (amnesty international 2016a, 67).2 law no. 21 would 
+even prevent workers who might be victims of abusive practices from freeing themselves 
+from these situations (ilo 2016). it is true that law no. 21 contains language prohibiting 
+passport confiscation. however, so does the current law, the 2004 labor law, and that 
+law  has  essentially  been  enforced  only  in  the  breach  (ilo  2016).  indeed,  the  ilo  has 
+found that in small enterprises . . . employers [have] systematically confiscated [worker] 
+passports (ilo 2016), while the findings of amnesty international suggest that the practice 
+is common at larger companies as well (amnesty international 2016a, 39). given that law 
+no. 21 expressly creates an apparently wide loophole allow[ing] employers to retain the 
+passport or travel document of any employee, with their consent (amnesty international 
+2016a, 74), the problem of passport retention is unlikely to improve much under that law, 
+even assuming stricter enforcement.
+a  similar  level  of  skepticism  is  warranted  regarding  the  impact  of  the  worker  welfare 
+standards. first, although the standards have been adopted by a number of major clients, 
+including msheireb properties, qatar rail, q22, and the qatar foundation, there remain 
+other  major  construction  clients,  like  doha  port  and  the  civil aviation authority,  that 
+have not adopted them. second, the standards devised by the qatar foundation and q22, 
+while  largely  similar  in  makeup,  differ  in  some  key  respects    such  as  the  grievance 
+mechanisms to which workers can turn  leaving company auditors as well as employees 
+with an inconsistent baseline against which to scrutinize labor practices across contracts 
+and construction sites. third, these standards only apply to contracts going forward, which 
+means that contractor practices giving rise to hundreds of migrant deaths since 2012 will 
+be allowed to continue until the work previously contracted for is completed. in fact, q22, 
+which expects to have some 50,000 construction workers on its projects over the next six 
+years, only had 38 construction workers, through 2014, protected by its welfare standards 
+(personal  communication  2014). and  fourth,  auditing  of  construction  sites  and  worker 
+accommodations will depend on the mlsas uncertain ability to handle the hundreds of 
+thousands of labor migrants projected to arrive in the country over the next several years.
+with respect to the fourth point, it is relevant to note that, in the case of q22s construction 
+sites, the present administration of the standards is failing (amnesty international 2016a, 
+66). although the size of the labor inspection force has increased in recent years, a relatively 
+small number of violations [have been] detected in comparison to the large number of 
+migrant workers in the country (ilo 2016). the problem of inadequate enforcement is 
+particularly  acute  for  workers  at  smaller  companies  (ilo  2016; amnesty  international 
+
+2  law no. 21 does not apply to domestic workers (ilo 2016), and even as to migrant construction workers, 
+it significantly relaxes sponsorship requirements only for those workers who have reach[ed] the end of a 
+fixed term contract or who have completed five years of work (amnesty international 2016a, 67).
+
+247
+
+leveraging the world cup2016a, 65). for those workers  and for workers at larger companies as well  an over-
+reliance on self-reporting severely limits the utility of the worker welfare standards. as 
+amnesty international has noted in this very context, self-reporting is a poor enforcement 
+tool, as companies that abuse human rights are often willing to make false claims in self-
+reporting processes (amnesty international 2016a, 65-66). this self-reporting problem is 
+not cured by the existence of three separate bodies charged with validating the self-reports, 
+for the first body itself relies on unverified information provided by companies; the second 
+had, as of march 2016, never met; and the third, the mlsa, suffers from documented 
+weaknesses in the inspection and enforcement process (amnesty international 2016a, 
+65-66).3
+in light of these facts, the current slate of reforms frequently prescribed by civil society 
+groups  and  seemingly  endorsed  by  qatari  bodies  is  unlikely  to  substantially  improve 
+worker conditions. on the one hand, the framing of the policy problem  often in terms of 
+the intrinsic value of human rights commitments  is largely disconnected from qatars 
+development strategy and priorities. on the other hand, the method of execution  placing 
+the onus for change on the qatari government  misses other dimensions of the problem, 
+motivating  qatari  institutions  to  stall,  if  not  avoid  change  altogether. a  new  approach, 
+therefore, is in order.  
+
+v. conclusion and recommendations
+as the preceding analysis demonstrates, worker welfare reform is not an enterprise that 
+the qatari government can take up alone, even if it were so inclined. certainly, the qatari 
+government has primary responsibility for remedying ongoing abuses and, therefore, should 
+take the lead in creating an environment that supports workers human rights. this may 
+include, among other things, increasing the capacity of labor inspection forces so that the 
+current over-reliance on self-reporting by employer is eliminated, closing the loophole that 
+allows employers to retain a migrants passport upon that migrants consent, and developing 
+worker  welfare  standards  that  have  the  force  of  law  and  that  apply  to  all  construction 
+workers.  still, the scale of the problem and the urgency of the moment require that other 
+organizations offer their services in a manner that can alleviate the suffering experienced 
+by labor migrants across the migration life cycle. timely and feasible solutions, in other 
+words, stem from collaborative efforts that draw upon the energy and expertise of multiple 
+stakeholders capable of advancing labor protection in ways that the qatari state cannot or 
+will not do. 
+this article recommends the adoption and implementation of four policy proposals by other 
+stakeholders, each targeting a particular phase of the migration life cycle. together, these 
+four proposals provide a novel approach to preventing worker welfare abuse. the value 
+of these policy options lies in their ability to satisfy three overarching considerations: (1) 
+does the option align with the mission and values of key stakeholders; (2) can the option 
+3  fifa recently announced an intention to create an oversight body of its own. while the announcement 
+was characterized by amnesty international as a small [sign] of progress (amnesty international 2016b), 
+human rights watch greeted the announcement more skeptically, with its director of global initiatives 
+stating that, [b]y announcing a new body to protect workers, fifa gets to look like theyre taking the issue 
+seriously  without having to put any pressure on the qataris to actually take it seriously (worden 2016).
+
+248
+
+journal on migration and human securitybe implemented in light of these stakeholders core capabilities; and (3) does the option 
+have enough support from a critical mass of stakeholders to be implemented and sustained? 
+what follows is a description of each option and the context in which each is warranted.
+first,  qatari  construction  clients,  like  the  qatar  foundation,  should  create  a  preferred 
+suppliers  list    consisting  of  recruitment  agencies  engaged  in  ethical  recruitment 
+practices  that can be referenced by qatar-based contractors seeking manpower. such 
+a measure is consequential in an environment where contractors and subcontractors face 
+increasing pressure to address worker welfare abuses committed at any point along their 
+value chains. this pressure includes admonitions to discontinue relationships with corrupt 
+recruitment  agencies  or  unregulated  labor  brokers. yet,  contractors  and  subcontractors, 
+lacking knowledge of industry leaders that employ responsible practices, may be unable to 
+make this change without further guidance. 
+as such, qatari clients should conduct due diligence on recruitment agencies operating 
+in qatar and coos that employ ethical recruitment practices. additionally, they should 
+limit eligibility for inclusion in the list to those firms that have a record of placing aspiring 
+migrants (1) in concrete and specific jobs, (2) at responsible companies, (3) with suitable 
+working  and  living  conditions,  and  (4)  via  clear  and  dependable  contracts  (verite  and 
+manpower group 2012).
+the  second  recommendation  is  that  coo-based  governmental  and  nongovernmental 
+institutions  should  make  available  low-interest,  preferential  loans  to  help  deploying 
+migrants finance the costs of the deployment phase. in the absence of qatari companies 
+covering migrants visa costs, labor brokers will remain a key source of financing. poor 
+record keeping and high-interest rates, however, make these loans particularly burdensome 
+for deploying migrants, who often assume high levels of debt and, as a result, are forced to 
+commit to jobs in substandard conditions simply to pay down these debts. this debt burden 
+is the primary cause of conditions of forced labor. 
+coo governments and commercial banks, in turn, should develop loan schemes specific to 
+labor migrants, such as pre-departure, housing, or small business loans, recognizing 
+that the economic benefits of debt reduction outweigh the losses incurred by extending 
+low-interest loans (asfar 2009). one option that may be worth considering is to devise 
+loans whose repayment schemes are based on the remitted portions of salaries and whose 
+penalties, in case of default, are reasonable.
+third,  international  organizations    most  appropriately,  the  international  organization 
+for migration (iom)  should establish a migrant resource center (mrc) in doha to 
+provide information, counseling, and legal services to labor migrants. although state and 
+nongovernmental organizations are beginning to invest in programs that provide aspiring 
+migrants with information and services in their home countries, those programs, in general, 
+are inadequately used and poorly constructed. compounding the problem is the fact that 
+few such programs exist for migrants once they arrive in qatar. iom and other actors have 
+experience establishing mrcs as one-stop-shops for delivering information and services 
+to migrants, albeit primarily in their home countries (iom 2012). increasingly, however, 
+mrcs are being set up in cods, including bahrain and the uae. 
+
+249
+
+leveraging the world cupan mrc in doha would be responsible for creating and distributing informational resources 
+on in-country laws, health and safety risks, money transfer mechanisms, and other sources 
+of support. it could also offer job search and training programs as well as general subject 
+workshops in areas such as project development and financial management (tacon and 
+warn  2009).  more  innovatively,  it  could  serve  as  a  congregation  site  for  members  of 
+diaspora communities, enabling migrants to build social networks and develop community 
+initiatives and activities. and, if resources permitted, it could provide legal and counseling 
+services to migrants to aid them in navigating qatars legal system and to cope with the 
+psychological aspects of migration (e.g., separation from family).
+finally, governmental institutions of coos should conduct reintegration workshops for 
+returning labor migrants. upon return to their coos, labor migrants face a number of social 
+and economic barriers when reintegrating into their home communities. some governmental 
+programs exist that facilitate this reintegration, such as the filipino governments provision 
+of small business loans and skills training to returning migrants (go 2012). select iom 
+country offices, meanwhile, provide returning migrants with counseling, medical checks, 
+transportation, and grants, among other services, as part of the assisted voluntary return 
+and reintegration (avrr) program, a product of the 2002 bali process on human trafficking 
+and transnational crime (iom 2012). both forms of assistance, however, are small in scale 
+and encompass few coos. more importantly, these actors often place greater emphasis on 
+pre-departure services than reintegration services, overlooking critical migrant needs at the 
+end of the migration life cycle. 
+governmental  agencies  of  coos,  therefore,  should  provide  reintegration  training  that 
+includes, among other services, skill development, financial literacy, repatriation assistance, 
+and  individual  and  family  counseling.  they  could  partner  with  existing  in-country 
+organizations, such as mrcs, unions, or civil society groups that have the infrastructure to 
+host training workshops. and given the resource-constrained environments in which they 
+operate, they should target returning migrants as possible worker welfare counselors who 
+can carry out reintegration trainings.
+reform  of  qatars  construction  sector  requires  that  stakeholders  adopt  comprehensive, 
+sustainable, and pragmatic measures to improve worker welfare. the above four options 
+attempt to do so by crafting approaches that focus on abuses particular to the construction 
+sector,  make  the  best  use  of  actors  core  capabilities,  and  emphasize  each  options 
+probability of success and size of impact on migrant lives. indeed, as reform advocates 
+seize the present moment in which international scrutiny resulting from the world cup 
+affords them considerable leverage, they must craft an agenda that aligns business interests 
+with rights considerations  if they are to remedy the abusive practices tarring so grand 
+an event.
+
+250
+
+journal on migration and human securityreferences
+abbott, kenneth w., robert o. keohane, andrew moravcsik, anne-marie slaughter, and 
+duncan snidal. 2000. the concept of legalization. international organization 
+54(3): 17-35. https://doi.org/10.1162/002081800551271.
+
+agence-france  presse.  2013.  qatar  losing  mideast  ground  to  saudi  diplomacy, 
+experts  say.  al  arabiya,  july  10.  http://english.alarabiya.net/en/perspective/
+analysis/2013/07/10/qatar-losing-mideast-ground-to-saudi-diplomacy-experts-
+say.html.
+
+agunias, dovelyn rannveig . 2012. regulating private recruitment in the asia-middle 
+east  labour  migration  corridor.  washington,  dc:  migration  policy  institute. 
+http://www.migrationpolicy.org/research/regulating-private-recruitment-asia-
+middle-east.
+
+amara, mahfoud. 2013. the pillars of qatars international sport strategy. e-international 
+relations,  november  29.  http://www.e-ir.info/2013/11/29/the-pillars-of-qatars-
+international-sport-strategy/.
+
+amis,  lucy,  peter  brew,  and  caroline  ersmarker.  2005.  human  rights:  it  is  your 
+business. london: international business leaders forum. http://commdev.org/
+files/1154_file_human_rights_it_is_your_business.pdf.
+
+amnesty international. 2011. false promises: exploitation and forced labour of nepalese 
+migrant  workers.  london:  amnesty  international.  http://www.amnesty.org/
+en/library/asset/asa31/007/2011/en/b58f0185-455d-425c-bc4f-d6b7fe309524/
+asa310072011en.pdf.
+
+. 2013. the dark side of migration: spotlight on qatars construction sector ahead 
+of the world cup. london: amnesty international. https://www.amnestyusa.org/
+sites/default/files/mde220102013eng.pdf.
+
+. 2016a. the ugly side of the beautiful game: exploitation of migrant workers 
+on a qatar 2022 world cup site. london: amnesty international. https://www.
+amnesty.org/en/documents/mde22/3548/2016/en/.
+
+amnesty international. 2016b. campaign update: fifa and qatar government responding 
+to  our  pressure  london:  amnesty  international.  https://www.amnesty.org/en/
+latest/campaigns/2016/05/fifa-qatar-government-responding-to-pressure/.
+
+asfar,  rita.  2009.  unraveling  the  vicious  cycle  of  recruitment:  labour  migration 
+from  bangladesh  to  the  gulf  states.  working  paper  63.  international  labor 
+organization, geneva, switzerland, may 12. http://www.ilo.org/wcmsp5/groups/
+public/@ed_norm/@declaration/documents/publication/wcms106536.pdf.
+
+avaaz. 2016. free qatars modern slaves: petition to tamim bin hamad al thani, emir 
+of qatar; hassan abdullah al-thawadi, secretary-general, qatar 2022 supreme 
+committee; jacqueline hinman, ceo, ch2m hill. https://secure.avaaz.org/en/
+bloodiest_world_cup_loc/?pv=254&rc=fb.
+
+251
+
+leveraging the world cupbattistella, graziano, and binod khadria. 2011. labour migration in asia and the role of 
+bilateral migration agreements: market access facilitation by informal means. 
+geneva:  global  forum  on  migration  and  development.  http://www.gfmd.org/
+labour-migration-asia-and-role-bilateral-migration-agreements-market-access-
+facilitation-informal.
+
+bhri (business and human rights initiative). 2010. how to do business with respect 
+for human rights a guidance tool for companies. the hague: global compact 
+network netherlands. http://www.gcnetherlands.nl/docs/how_to_business_with_
+respect_for_human_rights_gcn_netherlands_june2010.pdf.
+
+black, ian, owen gibson, and robert booth. 2014. qatar promises to reform labour 
+laws after outcry over world cup slaves. the guardian, may 14. http://www.
+theguardian.com/world/2014/may/14/qatar-reform-labout-laws-outcry-world-
+cup-slaves.
+
+chalabi, mona. 2013. qatars migrants: how have they changed the country? the 
+guardian,  september  26.  http://www.theguardian.com/news/datablog/2013/
+sep/26/qatar-migrants-how-changed-the-country.
+
+chen,  michelle.  2015.  qatars  world  cup  preparations  could  kill  as  many  as  4,000 
+migrant workers. the nation, june 15. http://www.thenation.com/article/qatars-
+world-cup-preparations-could-kill-as-many-as-4000-migrant-workers/.
+
+choufany,  hala  matar,  and  christina  zegrea.  2013.  doha  in  focus:  welcoming  fifa 
+world  cup  2022.  hvs,  october.  http://www.hvs.com/staticcontent/file/
+hvs2013dohainfocus.pdf.
+
+clemens,  michael.  2013.  seize  the  spotlight:  a  case  for  gulf  cooperation  council 
+engagement in research on the effects of labor migration. washington, dc: 
+center for global development. http://www.cgdev.org/sites/default/files/archive/
+doc/full_text/cgdessays/3120608/seize-spotlight-labor-migration.html.
+
+collins, tantum. 2012. qatars grand experiment. new haven: yale university. http://
+
+iss.yale.edu/node/72/attachment.
+
+crepeau,  francois.  2013.  un  special  rapporteur  on  human  rights  of  migrants 
+concludes  country visit  to  qatar.  geneva:  office  of  the  high  commissioner 
+for  human  rights.  http://www.ohchr.org/en/newsevents/pages/displaynews.
+aspx?newsid=13974&langid=e.
+
+dickinson, elizabeth . 2014. how qatar lost the middle east. foreign policy, march 5. 
+
+http://www.foreignpolicy.com/articles/2014/03/05/how_qatar_lost_the_middle_
+east.
+
+dla  piper.  2014.  migrant  labor  in  the  construction  sector  in  the  state  of  qatar. 
+london:  engineers  against  poverty.  http://www.engineersagainstpoverty.org/
+documentdownload.axd?documentresourceid=58.
+
+252
+
+journal on migration and human securitydoherty, regan, and amena bakr. 2013. nepali official denies labor abuses in qatar. 
+reuters, september 30. http://www.reuters.com/article/2013/09/30/us-qatar-labor-
+rights-idusbre98t13z20130930.
+
+dorsey, james. 2013. qatar 2022: a mixed blessing. huffington post, september 12. http://
+
+www.huffingtonpost.com/james-dorsey/qatar-2022-a-mixed-blessi_b_3846940.
+html.
+
+dorsey,  james.  2014.  qatars  sports-focused  public  diplomacy  backfires.  the 
+huffington post, february 6. http://www.huffingtonpost.com/james-dorsey/qatars-
+sportsfocused-publ_b_4713589.html.
+
+ecosoc  (un  economic  and  social  commission  for  western  asia).  2013.  inter-
+regional report on labour migration and social protection. new york: united 
+nations. http://www.unescapsdd.org/files/documents/pub_escwa_sdd_2013_
+technicalpaper2_e.pdf.
+
+endo, isaku, and gabi g. afram. 2011. the qatar nepal remittance corridor: enhancing 
+the impact and integrity of remittance flows by reducing inefficiencies in the 
+migration process. washington, dc: world bank.
+
+european parliament. 2013. human rights: bangladesh elections, migrant workers in 
+qatar,  justice  in  bolivia.  press  release.  brussels:  european  parliament.  http://
+www.europarl.europa.eu/news/en/news-room/content/20131115ipr24731/html/
+human-rights-bangladesh-elections-migrant-workers-in-qatar-justice-in-bolivia.
+.  2014.  joint  statement  of  the  european  parliaments  delegation  for  relations 
+with the arab peninsula and the ad hoc delegation on the situation of migrant 
+workers.  brussels:  european  parliament.  http://www.europarl.europa.eu/
+document/activities/cont/201403/20140325att81738/20140325att81738en.
+pdf.
+
+fargues, philippe. 2011. immigration without inclusion: non-nationals in nation-building 
+in the gulf states. asian and pacific migration journal 20(3): 273-92. https://doi.
+org/10.1177/011719681102000302. 
+
+gardner, andrew. 2012. why do they keep coming? labor migrants in the gulf states. 
+in migrant labor in the persian gulf, edited by mehran kamrava and zahra babar. 
+london: hurst and company.
+
+gibson, owen. 2012. qatars 2022 world cup preparations demand deep pockets and 
+hard work. the guardian, december 12. http://www.theguardian.com/football/
+blog/2012/dec/12/qatar-2022-world-cup-preparations.
+
+. 2014. qatar commits to new welfare standards for world cup workers. the 
+guardian,  february  11.  http://www.theguardian.com/world/2014/feb/11/qatar-
+world-cup-2022-workers-welfare-standards.
+
+glmm (gulf labour markets and migration) database. 2015. gcc: total population and 
+percentage of nationals and non-nationals in gcc countries (national statistics, 
+2010-2015) (with numbers). jeddah, saudi arabia: gulf research center. http://
+
+253
+
+leveraging the world cupgulfmigration.eu/gcc-total-population-and-percentage-of-nationals-and-non-
+nationals-in-gcc-countries-national-statistics-2010-2015-with-numbers/.
+
+go, stella p. 2012. the philippines and return migration: rapid appraisal of the return 
+and reintegration policies and service delivery. philippines: ilo. http://www.
+ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-manila/documents/
+publication/wcms_177081.pdf.
+
+good news for migrant workers  qatar to drop sponsorship and adopt recruitment 
+on contract system. 2012. asian tribune, may 6. http://www.asiantribune.com/
+news/2012/05/06/good-news-migrant-workers--qatar-drop-sponsorship-and-
+adopt-recruitment-contract-sy.
+
+hrw (human rights watch). 2012. building a better world cup: protecting migrant 
+workers in qatar ahead of fifa 2022. new york: hrw. https://www.hrw.org/
+report/2012/06/12/building-better-world-cup/protecting-migrant-workers-qatar-
+ahead-fifa-2022.
+
+hurst, will. 2013. qatars migrant construction workers: what can be done? building, 
+october  11.  http://www.building.co.uk/qatars-migrant-construction-workers-
+what-can-be-done?/5061806.article. 
+
+hurst,  will,  and  iain  withers.  2013.  ch2m  hill  must  act  on  qatar  2022  worker 
+exploitation.  building,  october  3.  http://www.building.co.uk/ch2m-hill-?must-
+act?-on-qatar-2022-worker-exploitation/5061559.article.
+
+ibe (institute of business ethics). 2012. business ethics and human rights. business 
+ethics  briefing,  july.  london:  ibe.  https://www.ibe.org.uk/userassets/briefings/
+ibe_briefing_26_business_ethics_and_human_rights.pdf.
+
+ihrb (institute for human rights and business). 2011. the state of play of human 
+rights due diligence: anticipating the next five years. london: ihrb. http://
+www.ihrb.org/pdf/the_state_of_play_of_human_rights_due_diligence.pdf.
+
+ilo (international labor organization). 2010. international labor migration: a rights-
+based approach. geneva: ilo. http://www.ilo.org/wcmsp5/groups/public/---ed_
+protect/---protrav/---migrant/documents/publication/wcms_208594.pdf.
+
+. 2013a. good practice  fsi worldwide. geneva: ilo. http://www.ilo.org/dyn/
+
+migpractice/migmain.showpractice?p_lang=en&p_practice_id=96.
+
+. 2013b. reintegration with home community: perspectives of returnee migrant 
+workers  in  sri  lanka.  sri  lanka:  ilo  country  office  for  sri  lanka  and  the 
+maldives.  http://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-
+colombo/documents/publication/wcms_233365.pdf.
+
+. 2016. complaint concerning non-observance by qatar of the forced labour 
+convention,  1930  (no.  29),  and  the  labour  inspection  convention,  1947  (no. 
+81).  geneva:  ilo.  http://www.ilo.org/wcmsp5/groups/public/---ed_norm/---
+relconf/documents/meetingdocument/wcms_459148.pdf. 
+
+254
+
+journal on migration and human securityinterbrand.  2012.  best  global  brands  2012.  new  york:  interbrand.  http://www.
+rankingthebrands.com/pdf/interbrand%20best%20global%20brands%202012.
+pdf.
+
+iom (international organization for migration). 2012. iom migrant resources centres. 
+iom.  http://www.iom.int/files/live/sites/iom/files/what-we-do/docs/
+
+geneva: 
+iom-dmm-factsheet-lhd-mrcs.pdf.
+
+ituc (international trade union confederation). 2014. the case against qatar: host of 
+the fifa 2022 world cup. ituc special report. brussels: ituc. http://www.
+ituc-csi.org/img/pdf/the_case_against_qatar_en_web170314.pdf.
+
+ituc (international trade union confederation). 2015. qatar: profit and loss, counting 
+the  cost  of  modern-day  slavery  in  qatar:  what  price  is  freedom?  brussels: 
+ituc.  https://www.ituc-csi.org/img/pdf/qatar_en_web.pdf.
+
+jureidini,  ray.  2014.  arab  gulf  states:  recruitment  of  asian  workers.  glmm 
+
+explanatory note no. 3. jeddah, saudi arabia: gulf research center.
+
+kemrava, mehran. 2013. qatar: small state, big politics. new york: cornell university.
+kern, alice, and ulrike muller-boker. 2015. the middle space of migration: a case 
+study of brokerage and recruitment agencies in nepal. geoforum 65: 158-69. 
+http://dx.doi.org/10.1016/j.geoforum.2015.07.024. 
+
+khan, azfar. why its time to end kafala. the guardian, february 26. http://www.
+
+theguardian.com/global-development/2014/feb/26/time-to-end-kafala.
+
+khan, azfar,  and  helene  harroff-tavel.  2011.  reforming  the  kafala:  challenges  and 
+opportunities in moving forward. asian and pacific migration journal 20(3): 
+293-313. https://doi.org/10.1177/011719681102000303. 
+
+khatri, shabina s. 2014. european delegation told deep revision of kafala coming 
+to  qatar.  doha  news,  march  25.  http://dohanews.co/european-delegation-told-
+deep-revision-kafala-coming-qatar/.
+
+kovessy,  peter.  2013.  analysts:  dubais  2022  world  expo  to  put  pressure  on  qatar 
+employees.  doha  news,  november  28.  http://dohanews.co/analysts-dubais-
+2020-world-expo-to-put-pressure-on-qatar-employers/.
+
+. 2014a. european parliament puts qatars kafala system in crosshairs (update). 
+doha  news,  february  12.  http://dohanews.co/european-parliament-puts-qatars-
+kafala-system-in-crosshairs/.
+
+. 2014b. qatar officials propose changes to kafala system. doha news, may 14. 
+
+http://dohanews.co/qatar-officials-propose-changes-kafala-system/. 
+
+maplecroft  verisk.  2014.  qatar  among  11  countries  downgraded  to  extreme  risk 
+for  working  conditions    maplecroft  index.  bath,  uk:  verisk  maplecroft. 
+http://maplecroft.com/portfolio/new-analysis/2014/01/29/world-cup-host-qatar-
+among-11-countries-downgraded-lsquoextreme-riskrsquo-working-conditions-
+maplecroft-index/.
+
+255
+
+leveraging the world cupmartin, susan. 2012. protecting migrants rights in the gulf cooperation council. in 
+migrant labor in the persian gulf, edited by mehran kamrava and zahra babar. 
+london: hurst and company.
+
+menary, steve. 2015. qatar has eyes on bigger prize than fifa world cup. the national, 
+august 6. http://www.thenational.ae/business/economy/qatar-has-eyes-on-bigger-
+prize-than-fifa-world-cup.
+
+migrant forum in asia. 2011. labour recruitment to the uae: gaps between policy 
+and practice in sri lanka, nepal, bangladesh, and the philippines. philippines: 
+migrant forum in asia. http://www.mfasia.org/home/321-labour-recruitment-to-
+the-uae-gaps-between-policy-practice-in-sri-lanka-nepal-bangladesh-and-the-
+philippines.
+
+ moi founds up 178 absconding workers as penalties for hiring runaway increases. 
+2013. doha news, april 23. http://dohanews.co/moi-rounds-up-178-absconding-
+workers-as-penalties-for/.
+
+nye. joseph, 2004. soft power: the means to success in world politics. new york: public 
+
+affairs.
+
+. 2009. get smart: combining hard power and soft power. foreign affairs, july/
+
+august 2009. https://www.foreignaffairs.com/articles/2009-07-01/get-smart.
+
+oneil, kevin. 2004. labor export as government policy: the case of the philippines. 
+migration information source, january 1. http://www.migrationpolicy.org/article/
+labor-export-government-policy-case-philippines.
+
+paschyn, christina maria. 2012. anatomy of a globalized state. think magazine, august 
+
+2, 16-20. 
+
+pattisson, pete. 2013. revealed: qatars world cup slaves. the guardian, september 
+25.  http://www.theguardian.com/world/2013/sep/25/revealed-qatars-world-cup-
+slaves.
+
+pavgi, kedar, and nakul kadaba. 2012. from stadiums to shuttle diplomacy: qatars 
+emergence as a regional diplomatic power. exchange: the journal of public 
+diplomacy 3(1): 24-29.
+
+q22  (supreme  committee  for  delivery  and  legacy).  2014.  sc  workers  welfare 
+standards.  qatar:  supreme  committee.  http://www.sportingintelligence.com/
+wp-content/uploads/2013/11/sc-workers-welfare-standards-
+edition-1-2.pdf.
+
+qadri, mustafa. 2016. campaign update: fifa and qatar government responding to 
+our  pressure.  london:  amnesty  international.  https://www.amnesty.org/en/
+latest/campaigns/2016/05/fifa-qatar-government-responding-to-pressure/.
+
+qatar  foundation.  2013.  qf  mandatory  standards  of  migrant  workers  welfare  for 
+contractors  and  sub-contractors.  qatar:  qatar  foundation.  http://www.qf.org.
+qa/app/media/2379.
+
+256
+
+journal on migration and human securityqatar mdps (ministry of development planning and statistics). 2008. qatar national 
+vision 2030.  qatar: general secretariat for development planning and statistics. 
+http://www.gsdp.gov.qa/portal/page/portal/gsdp_en/qatar_national_vision/
+qnv_2030_document.
+
+.  2016.  monthly  figures  on  total  population  in  qatar.  january  1.  qatar: 
+http://www.mdps.gov.qa/portal/page/portal/gsdp_en/statistics_
+
+qatar  mdps. 
+en/monthly_preliminary_figures_on_population_en/population_archive_
+en?yr=2015.  
+
+qatar ministry of interior. 2014. qatar announces wide-ranging labor market reforms. 
+press release, may 14. qatar: ministry of interior. https://www.moi.gov.qa/site/
+english/news/2014/05/14/32204.html.
+
+qatar mlsa (ministry of labour and social affairs). 2014. qatar ministry of labour 
+and social affairs statement on indian fatalities. the guardian, february 18. 
+http://www.theguardian.com/world/2014/feb/18/qatar-ministry-statement-deaths-
+indian-workers.
+
+randeree,  kasim.  2012.  workforce  nationalization  in  the  gulf  cooperation  council 
+states.  qatar:  center  for  international  and  regional  studies.  http://www12.
+georgetown.edu/sfs/qatar/cirs/kasimrandereecirsoccasionalpaper9.pdf.
+
+report:  1.5  million  more  expat  workers  needed  to  prepare  for  world  cup.  2012. 
+doha news, july 25. http://dohanews.co/report-1-5-million-more-expat-workers-
+needed-to/.
+
+report: most nationals believe qatar is facing a demographic problem. 2013. doha 
+news,  february  24.  http://dohanews.co/government-report-finds-most-nationals-
+believe-qatar-is/.
+
+report:  qatar  growing  increasingly  dependent  on  expat  labor.  2012.  doha  news, 
+january  11.  http://dohanews.co/report-qatar-growing-increasingly-dependent-on-
+expat/.
+
+ruggie, john. 2011. un guiding principles on business and human rights: implementing 
+the united nations protect, respect and remedy framework. geneva: un office 
+of the high commissioner of human rights. http://www.ohchr.org/documents/
+publications/guidingprinciplesbusinesshr_en.pdf.
+
+. 2013. just business: multinational corporations and human rights. new york: 
+
+w.w. norton and company.
+
+schwab,  klaus,  and  xavier  sala-i-martin.  2015.  the  global  competitiveness  report: 
+2015-2016. world economic forum insight report, geneva: world economic 
+forum. http://www3.weforum.org/docs/gcr/2015-2016/global_competitiveness_
+report_2015-2016.pdf.
+
+scott, victoria. emir announces major shake-up of ministries and councils. doha news, 
+february  21.  http://dohanews.co/emir-announces-major-shake-up-of-ministries-
+and-councils/.
+
+257
+
+leveraging the world cupseale, patrick. 2012. deciphering the qatar enigma. gulf news, march 2. http://gulfnews.
+
+com/opinions/columnists/deciphering-the-qatar-enigma-1.988795
+
+shaham, dahlia. 2008. foreign labor in the arab gulf: challenges to nationalization. 
+
+al nakhlah 9. https://www.ciaonet.org/attachments/10677/uploads.
+
+shapiro,  jeremy.  2013.  the  qatar  problem.  foreign  policy,  august  28.  http://
+
+foreignpolicy.com/2013/08/28/the-qatar-problem/.
+
+sharma, gopal. 2013. nepal envoy recalled after qatar open jail remarks. reuters, 
+http://www.reuters.com/article/2013/09/26/us-nepal-qatar-
+
+september 
+ambassador-idusbre98p10o20130926.
+
+26. 
+
+siegel, robert . 2013. how tiny qatar punches above its weight. npr, december 
+http://www.npr.org/blogs/parallels/2013/12/20/255748469/how-tiny-qatar-
+
+23. 
+punches-above-its-weight.
+
+snoj, jure. 2014. population of qatar by nationality. bq magazine, july 12. http://www.
+
+bq-magazine.com/economy/2013/12/population-qatar.
+
+stevis, matina. 2014. fifa to monitor qatars treatment of world cup workers. wall 
+street journal, february 13. http://www.wsj.com/articles/sb10001424052702304
+888404579380521327798430.
+
+tacon, paul, and elizabeth warn. 2009. migrant resource centres: an initial assessment. 
+
+geneva: iom. http://publications.iom.int/bookstore/free/mrs_40.pdf.
+
+ulrichsen, kristian coates. 2012. small states with a big role: qatar and the united 
+arab emirates in the wake of the arab spring. durham, uk: hh sheikh nasser 
+al  mohammad  al  sabah  publication  series,  durham  university.  http://dro.dur.
+ac.uk/10011/1/10011.pdf?ddd35.
+
+verite.  2012.  labor  brokerage  and trafficking  of  nepali  migrant workers. amherst, 
+http://www.verite.org/sites/default/files/images/humanity%20
+
+ma:  verite. 
+united-nepal%20trafficking%20report-final_1.pdf.
+
+verite  and  manpower  group.  2012.  an  ethical  framework  for  cross-border  labor 
+recruitment: an industry/stakeholder collaboration to reduce the risks of forced 
+labor and human trafficking. amherst, ma: verite. http://www.verite.org/sites/
+default/files/ethical_framework_paper_20120209_printed.pdf.
+
+worden, minky. 2016. fifa replays its mistakes in qatar as human cost of the 2022 
+world cup climbs higher. newsweek, may 4. http://www.newsweek.com/fifa-
+2022-world-cup-qatar-455174.
+
+wipo  (world  intellectual  property  organization).  2013.  2013  world  intellectual 
+property report: brands  reputation and image in the global marketplace. 
+geneva:  wipo.  http://www.wipo.int/edocs/pubdocs/en/intproperty/944/wipo_
+pub_944_2013.pdf.
+
+258
+
+journal on migration and human securityyeager,  racheal.  2008.  international  labor  migration:  a  responsible  role 
+http://www.bsr.org/reports/bsr_
+
+for  business.  san  francisco:  bsr. 
+labormigrationroleforbusiness.pdf. 
+
+zahra, maysa. 2013. qatars legal framework of migration. jeddah, saudi arabia: gulf 
+research center. http://gulfmigration.eu/media/pubs/exno/glmm_en_2013_02.
+pdf.
+
+259
+
+leveraging the world cup

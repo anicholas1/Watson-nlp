@@ -1,0 +1,1621 @@
+the impact of externalization of 
+migration controls on the rights 
+of asylum seekers and other 
+migrants1
+
+bill frelick 
+human rights watch
+
+ian m. kysel 
+american civil liberties union (aclu) of southern california
+
+jennifer podkul 
+kids in need of defense
+
+executive summary
+wars, conflict, and persecution have forced more people to flee their homes 
+and seek refuge and safety elsewhere than at any time since the end of 
+world war ii. as displaced people and other migrants increasingly move 
+out of the conflict-ridden and less developed regions of their displacement 
+and  into  relatively  rich  and  stable  regions  of  the  world,  the  countries 
+of  destination  are  increasingly  working  to  contain  and  even  stem  the 
+migration flow before it reaches their shores. perversely, countries that 
+have  developed  generally  rights-sensitive  standards  and  procedures  for 
+assessing  protection  claims  of  asylum  seekers  within  their  jurisdictions 
+have simultaneously established barriers that prevent migrants, including 
+asylum seekers, from setting foot on their territories or otherwise triggering 
+protection  obligations.  consequently,  those  who  would  otherwise  have 
+been able to avail themselves of asylum procedures, social support, and 
+decent reception conditions are often relegated to countries of first arrival 
+
+1billfrelickistherefugeerightsprogramdirectorathumanrightswatch;ianm.kyselisastaffattorney
+at the american civil liberties union of southern california and also co-chairs the steering committee of 
+the international migrants bill of rights (imbr) initiative; and jennifer podkul is the director of policy at 
+kids in need of defense. the views presented here along with any errors or omissions are the authors alone. 
+the authors would like to thank the georgetown law human rights institute for organizing discussion of 
+these issues at the 2015 samuel dash conference on human rights and, along with its co-organizers, for 
+convening further discussion in geneva, switzerland in 2015, as well as the participants in these convenings; 
+becca bailis and julie kornfeld for their research assistance; human rights watch reviewers of the paper, 
+benjamin ward, james ross, elaine pearson, alison parker, and daniel wilkinson; and the student attorneys 
+of the federal legislation and administrative clinic at georgetown for their important contributions. finally, 
+the authors would like to thank the participants in the center for migration studies rethinking the global 
+refugee protection system conference in july 2016 and the editors and reviewers at the journal on migration 
+and human security for their insightful comments and suggestions on drafts of this manuscript. 
+
+ 2016 by the center for migration studies of new york. all rights reserved.jmhs volume 4 number 4 (2016): 190-220or  transit  that  have  comparatively  less  capacity  to  ensure  protection  of 
+human rights in accordance with international standards. 
+this paper seeks to develop a working definition of the externalization of 
+migration controls and how such externalization of the border implicates 
+the human rights of migrants, and asylum seekers in particular. although 
+the majority of those migrants seeking legal protections stay in countries 
+neighboring  their  own,  hundreds  of  thousands  continue  their  journeys 
+in search of protection and stability in more distant states, including in 
+the  european  union,  the  united  states,  and  australia.  in  response  to 
+the  significant  increase  in  asylum  seekers  arriving  at  their  borders,  all 
+three  entities  have  significantly  increased  deterrence  measures  with 
+the  hopes  of  keeping  new  arrivals  from  entering.  this  paper  will  thus 
+highlight a number of the most troubling externalization strategies used 
+by the european union, the united states, and australia. finally, because 
+rights-threatening  externalization  law,  policies,  and  practices  implicate 
+the  international  legal  responsibility  of  the  destination  states  pursuing 
+them, the paper will conclude by presenting recommendations that could 
+strengthen  protection  of  human  rights  in  the  context  of  state  actions 
+seeking to manage migration.
+
+i. introduction
+as displaced people and other migrants2increasinglymoveoutoftheconflict-riddenand
+less-developed regions of their displacement and into relatively rich and stable regions 
+of the world, the countries of destination are increasingly working to contain and even 
+stemthemigrationflowbeforethetideofthosemigratingreachestheirshores.oneof
+the cruel ironies in recent years is that a number of countries that have developed rights-
+sensitive  standards  and  procedures  for  assessing  protection  claims  of  asylum  seekers 
+within  their  jurisdictions  have  simultaneously  established  barriers  that  prevent  asylum 
+seekers from setting foot on their territories or otherwise triggering protection obligations. 
+consequently, asylum seekers who would otherwise have been able to avail themselves of 
+asylum procedures, social support, and decent reception conditions are often consigned to 
+countriesoffirstarrivalortransitthathavecomparativelylesscapacitytoensurerightsand
+process claims in accordance with international standards. 
+humans migrate for a host of reasons  to escape harm or death, to reunify with family 
+members, or to search for new opportunities  and these factors can evolve en route. 
+
+2   in this essay, the term migrant is used broadly to include any person who is outside of their country of 
+citizenship or, in the case of stateless migrants, their country of habitual residence. this term encompasses 
+thosewhoaredisplacedbyconflict,naturaldisasterorothercauses,andalsoincludesthosewhoqualify
+underrelevantinternational,regional,ornationaldefinitionsofrefugee.inlieuofrefugee,thetermasylum
+seeker  is  used  throughout  to  broadly  describe  those  migrants  who  are  seeking  and  merit  humanitarian 
+protections, whether under international, regional, or national law protecting refugees or other forms of legal 
+protections based on risk, vulnerability, or legal status (and also to emphasize, as does refugee law generally, 
+that migrants who are deserving of those protections as a matter of law have a right to them whether or not 
+they have yet been formally recognized or declared to be a refugee). 
+
+191
+
+the impact of externalization of migration controlsrecent estimates place the total number of migrants worldwide at an all-time high and 
+rising  with the latest estimates above 244 million (unfpa 2002). the number of the 
+forcibly displaced  refugees, asylum seekers, and internally displaced persons  are 
+also  at  historical  highs. the  overwhelming  majority  of  the  approximately  63.5  million 
+people of concern to the united nations high commissioner for refugees (unhcr) at 
+the close of 2015 have remained close to their places of original displacement (more than 
+38 million of them remain internally displaced in their home countries; 86 percent of the 
+worlds refugees, 13.9 million, are staying in the developing world) (unhcr 2016c). but 
+hundredsofthousandshavemovedorareseekingtomovebeyondnearbycountriesoffirst
+arrival and knocking on the doors  and sometimes pushing them open or climbing over 
+and around them  of industrialized countries, principally member states of the european 
+union and the united states, as well as australia, though its deterrent measures have very 
+effectivelykeptnewarrivalsfromenteringinrecentyears.3 
+the worlds attention has recently been seized by the drama of asylum seekers and migrants 
+on overcrowded boats and at newly-erected fences on the frontiers that divide the worlds 
+haves from the have-nots. from london to canberra, political leaders have suggested 
+that people smugglers were responsible for enticing migrants to make their journey or, 
+worse,thathumantraffickerswereforcingortrickingthemtoboardboatsortakedangerous
+overland routes (frelick 2015).4 politicians argued that the tide could be stemmed by 
+crackingdownonsmugglingandtraffickingcrimesyndicatesandincreasingdeterrenceto
+dissuade people from migrating. some gave voice to the worst fears  that terrorists might 
+poseasrefugees.otherssuggestedthatmanyofthoseatthegateswereseekingjobsrather
+than asylum and were not in need or deserving of any rights protections at all. finally, 
+particularlyineurope,manysaidthatevenrefugeesfleeingconflictandpersecutioncould
+and should have found asylum in countries closer to home, and were moving onward not 
+to seek protection but rather only in search of a better quality of life.
+this essay acknowledges that the united states and most of the eu member states have 
+generally been providing protection to the people on their territories with legitimate claims 
+for  international  protection    once  migrants  gain  access  to  territory  and  to  asylum  or 
+status determination procedures. a worrisome parallel development, however, has been 
+the development by those states of a toolbox for preventing migrants, including asylum 
+seekers, from reaching their territories and triggering the states international obligations. 
+another, distinct problem is that migrants are removed from a states territory quickly to 
+prevent access to asylum or status determination procedures.5 
+
+3   see the discussion of australia in section iv(b), below.
+4smugglingofmigrantsisgenerallydefinedastheprocurement,inordertoobtain,directlyorindirectly,
+afinancialorothermaterialbenefit,oftheillegalentryofapersonintoastatepartyofwhichthepersonisnot
+anationalorapermanentresident;and,[t]raffickinginpersonsisgenerallydefinedastherecruitment,
+transportation, transfer, harbouring or receipt of persons, by means of the threat or use of force or other forms 
+of coercion, of abduction, of fraud, of deception, of the abuse of power or of a position of vulnerability or of 
+thegivingorreceivingofpaymentsorbenefitstoachievetheconsentofapersonhavingcontroloveranother
+person,forthepurposeofexploitation(unodc2004).
+5considerationofeffortsbystatestoexpeditiouslyremoveorotherwisepreventaccesstoasylumorstatus
+determination procedures for migrants within a states territory is outside the scope of this article.
+
+192
+
+journal on migration and human securitysectioniiofthisarticlewillsuggestaworkingdefinitionofexternalizationofmigration
+controls and describe some of the ways that this phenomenon works in practice. section iii 
+willbrieflydiscussthehumanrightsofmigrants,andasylumseekersinparticular,andhow
+theexternalizationofmigrantcontrolsaffectstheserightsinpractice,includingthespecific
+issue of the international responsibility of destination states that pursue migration-control 
+externalization. section iv will highlight a number of the most troubling externalization 
+strategies used by australia, the european union, and the united states. section v will 
+present some recommendations that could strengthen protection of human rights in the 
+contextofexternalizationofmigrationcontrolsorothereffortstomanagemigration.
+
+ii. what is the externalization of migration controls?
+externalization  of  migration  controls  describes  extraterritorial  state  actions  to  prevent 
+migrants, including asylum seekers, from entering the legal jurisdictions or territories of 
+destination countries or regions or making them legally inadmissible without individually 
+considering the merits of their protection claims. these actions include unilateral, bilateral, 
+and multilateral state engagement (see gammeltoft-hansen 2011; see also crpeau 2013), 
+as  well  as  the  enlistment  of  private  actors.  these  can  include  direct  interdiction  and 
+preventive policies,6 as well as more indirect actions, such as the provision of support for 
+or assistance to security or migration management practices in and by third countries.7 
+as migration policy has become an increasingly politicized issue, externalization is often 
+deceptively framed as either or both a security imperative and a life-saving humanitarian 
+endeavor rather than simply as a strategy of migration containment and control.8 control 
+ofmigrationflowsiscastasanefforttopreventillegal (or irregular) immigration or 
+to protect migrants from the dangers of the journey.9 10 extraterritorial actions to manage 
+
+6   some of the most direct mechanisms have been referred to as  non-entre policies, particularly in the 
+refugee and asylum context (see gammeltoft-hansen 2011; hathaway 2005).
+7   in the context of migration and border externalization, it can be helpful to consider the distinctions between 
+a migrants country of origin (the country or state from which a migrant departs though not always the state 
+of which the migrant is a national or citizen), destination states (the migrants intended destination state) and 
+third countries or countries of transit (those states through which a migrant will or intends to transit en route). 
+8   as politicization of migration has occurred, it has become more common to refer to migration policies 
+as  forms  of  migration  control,  which  presumes  an  inherent  security  risk  stemming  from  migration. 
+contemporary migration controls frequently also criminalize migration, which reinforces states goals of 
+preventing illegal immigration by emphasizing these presumed security concerns (crpeau 2013; see also 
+spijkerboer 2013). 
+9thetermillegalimmigrantissometimesusedbygovernmentofficialsorothersinanefforttodistinguish
+between economic migrants and migrants seeking asylum or those with refugee status, therefore implying that 
+economicmigrantsareallillegal.however,migrationflowsaregenerallymixed,andmigrantsthemselves
+travel with mixed motives, making such simple characterizations generally inaccurate and unhelpful (see 
+mattila  2000).  the  un  system  uses  the  term  irregular  migrant  to  underscore  that  migrants  have  rights 
+regardlessoftheirlegalstatus(g.a.res.3449[xxx],u.n.gaor,30thsess.,u.n.doc.a/res/3449
+[dec. 9, 1975]). 
+10   migrants rights are implicated in key human rights laws and treaties, including: the universal declaration 
+of  human  rights  (10  dec.  1948),  u.n.g.a.  res.  217 a  (iii)  (1948),  pmbl.    1  (hereinafter,  udhr); 
+international covenant on civil and political rights (new york, 16 dec. 1966) 999 u.n.t.s. 171 and 1057 
+u.n.t.s.  407,  entered  into  force  23  mar.  1976  [the  provisions  of  article  41  (human  rights  committee) 
+entered into force 28 mar. 1979], pmbl.  2, (hereinafter, iccpr); international covenant on economic, 
+
+193
+
+the impact of externalization of migration controlsmigration flows are also increasingly linked to the ineffectiveness (and politicization)
+ofnationalorregionalmigrationpolicies.overtime,thephenomenonhasexpandedto
+commonly  include  the  systematic  enlistment  of  third  countries  in  preventing  migrants, 
+including asylum seekers, from entering destination states. third countries enlisted in the 
+prevention of onward movement of migrants and asylum seekers are  at least implicitly 
+ encouraged to prevent migrants and asylum seekers from entering their territories or 
+to  apprehend  and  return  them  (haddad  2008,  199).11  much  of  this  public  engagement 
+takesplaceinthecontextoftransnationalcrime-controleffortsbystatesthatisdirected
+atseekingtocounterhumantraffickingorpeoplesmuggling(andoftenconflatesthetwo)
+(plaut  2015). a  prominent  example  is  law  enforcement  or  military  assistance  designed 
+to stop the flow of illicit materials, such as weapons and drugs, which may have the
+additional effect of sealing borders (both for exit and entry), encouraging push-backs,
+increasingapprehensions,and/orreducingaccesstoprotectionmechanismsinthecontext
+of apprehension and deportation practices.12 
+externalization occurs through formalized migration policies and visa regimes, through 
+bilateral  and  multilateral  policy  initiatives  between  states,  as  well  as  through  ad  hoc 
+policies and practices. externalization policies and practices may explicitly seek to prevent 
+the entry of migrants into a destination state or have only an indirect impact on migration. 
+the rhetoric that provides the humanitarian rationale for externalization focuses not only 
+on preventing migrants and asylum seekers from embarking on what is characterized as 
+a dangerous journey, but is also framed as an exercise in capacity building for countries 
+oforigin,countriesoffirstarrival,andtransitcountries(ifrc2015).whileitmaybe
+questionable whether such capacity-building actions seek to improve rights protections in 
+countries of origin as a humanitarian end in itself, or rather to address the root causes 
+ofinternationalmigrationasameansofcontainingirregularmigrationflows,thebuilding
+social and cultural rights (new york, 16 dec. 1966) 993 u.n.t.s. 3, entered into force 3 jan. 1976., pmbl.  
+2 (hereinafter, icesr); international convention on the elimination of all forms of racial discrimination 
+(new york, 7 mar. 1966) 660 u.n.t.s. 195, 5 i.l.m. 352 (1966), entered into force 4 jan. 1969, pmbl.  
+2(hereinafter,icerd);conventionagainsttortureandothercruel,inhumanordegradingtreatment
+orpunishment(newyork,10dec.1984)1465u.n.t.s.85,23i.l.m.1027(1984),asmodifiedby24
+i.l.m.  535  (1985),  entered  into  force  26  june  1987,  pmbl.    2  (hereinafter  cat);  convention  on  the 
+rights of the child (new york, 20 nov. 1989) 1577 u.n.t.s. 3, 28 i.l.m. 1448 (1989), entered into force 2 
+sept. 1990, pmbl.  1 (hereinafter, crc); convention relating to the status of refugees (geneva, 28 july 
+1951) 189 u.n.t.s. 137, entered into force 22 april 1954, art. 1a (hereinafter 1951 refugee convention); 
+international convention of the protection of the rights of all migrant workers and of their families  (new 
+york, 18 dec. 1990)  2220 u.n.t.s. 3, entered into force 1 july 2003 (hereinafter icrmw); amongst 
+others, including regional human rights declarations and treaties.
+11   haddad contends that border externalization encourages apprehension and return, rather than resettlement, 
+as it assumes that most migrants can be deported (see also crpeau 2013  59, highlighting a trend in european 
+migration policy as more focused on stopping irregular migrants than protecting migrants rights).
+12   for example, the united states has recently given $112 million in technological assistance to mexico 
+for border security. this support is being allocated to three security lines north of mexicos border with 
+guatemalaandbelize.thestatedgoalistocounterhumantraffickinganddrugrunningfromtheregion.
+underthemridainitiative,pillariii,theusdepartmentofstate(dos)focusessupportonmexicosefforts
+toestablishasecuresouthernborder,withthestatedgoalofpermittingfreeflowoflicitgoodsandpeople
+whiledeterringillicitflows.forfy2016,dosrequested$39millionformexicoundermridatoaddress
+securitythreatsfromdrugtraffickingandviolentcrime.additionalfundingcomesfromtheusdepartment
+ofdefense(dod)counter-drugbudget(seedos2012;seealsoisaacson,meyer,andmorales2014).
+
+194
+
+journal on migration and human securityofcapacityfordevelopingruleoflaw,respectforhumanrights,conflictresolution,good
+governance, and humane quality of life all represent positive aspects of externalization 
+(seeogata1995;seealsohaddad2005,202-02,204).whilerecognizingthatsuccessfully
+addressing root causes should enable more people to choose to remain in their homes or in 
+countriesoffirstarrival,capacity-buildingpoliciesandpracticescanhavetheadditional
+effect, even if only indirectly, of advancing, strengthening, or rationalizing migration-
+control externalization.
+externalization  policies  are  often  also  pursued  with  the  stated  goal  of  assisting  third 
+countries  with  migration  control  and  management.  examples  of  these  schemes  include 
+policies and practices that encourage both third countries and countries of origin to prevent 
+would-be migrants from migrating through incentives for individuals to remain in place 
+and also through physical or legal barriers (plaut 2015); policies and practices encouraging 
+migrant apprehensions (interdictions, interceptions, or turn-backs  including on the 
+highseas)throughlogistical,financial,orpoliticalsupport,ordirectlyinexchangefor
+aid; the development of readmission and incentive structures between third countries and 
+countries of origin (hyndman and mountz 2008, 253);13financialandpoliticalsupport
+ofmigrantdetentionorinterdictionpracticesbythirdcountriesoroff-shore(ibid.);and
+partnerships to combat illegal (or irregular) migration or to build capacity of immigration 
+or  asylum  systems  in  third  countries  (haddad  2008,  196).  externalization  policies  can 
+also include measures implemented entirely through requirements imposed on the private 
+sector,suchascarriersanctionsimposedontransportationfirms,andthathavetheeffect
+of preventing departure or transit of migrants to destination states. in the context of forced 
+migration, externalization efforts may also extend to efforts aimed at diverting asylum
+seekers to third countries, such as to third-country processing centers or protected areas 
+near countries of origin (andrijasevic 2010, 266).
+in conjunction with and often to justify the externalization of migration controls, states 
+have specifically sought to reduce access to asylum. many states have pursued a two-
+prongedstrategytoreduceaccesstoasylum.onewayistopush,prod,andsometimes
+payacountryoffirstarrivaloratransitstatetoseektocurbthemigrationflowthrough
+itsownenforcementmeasures.thesecondlineistodeemthetransitorfirstarrivalstatea
+safethirdcountryorfirstcountryofasylumthathasorcouldhaveprovidedprotection
+to a refugee, and to which the person can be returned after only a cursory admissibility 
+determination. 
+unhcrsexecutivecommitteefirsttackledthequestionofwhichcountryisresponsible
+for examining an asylum request in 1979. at that time, the executive committee issued 
+a formal conclusion holding that (1) the intentions of the asylum-seeker as regards the 
+country  in  which  he  wishes  to  request  asylum  should  as  far  as  possible  be  taken  into 
+account and (2) asylum should not be refused solely on the ground that it could be sought 
+from another state (unhcr executive committee 1979). but the same conclusion also 
+said that if a person before requesting asylum, already has a connection or close links with 
+anotherstate,hemayifitappearsfairandreasonablebecalleduponfirsttorequestasylum
+
+13   examples of european border externalization include an 8.5 billion euro program through which the 
+european union signs agreements with countries that agree to readmission of nationals who are illegally 
+present on the territory of a member state (hyndman and mountz 2008, 266).
+
+195
+
+the impact of externalization of migration controlsfrom that state (ibid.). the dublin regulation in europe14 (frelick 2015) and the us-
+canada safe third country agreement15 (frelick 1996) and state practice have expanded 
+the scope of this conclusion in the development of the principle of safe third country as a 
+basis for determining the country within a set of countries with harmonized standards that 
+would be responsible for examining an asylum claim, which included a basis for ruling 
+inadmissible  asylum  claims  in  countries  of  destination  (unhcr  executive  committee 
+1999). 
+with the safe third country concept established in international law, what is at issue in 
+the context of externalization of border control is not the principle per se, but whether 
+thecountryoffirstarrivalortransitis,infact,safe.thisrequiresafactualassessmentof
+whetheritprovideseffectiveprotection,whichisbasedonthefollowingcriteria:
+
+  no risk of persecution within the meaning of the 1951 convention or serious harm 
+
+in the previous state; 
+
+  no risk of onward refoulement from the previous state;
+ 
+
+compliance, in law and practice, of the previous state with relevant international 
+refugee and human rights standards, including adequate standards of living, work 
+rights, health care, and education; 
+access to a right of legal stay; 
+assistanceofpersonswithspecificneeds;and
+timely access to a durable solution (unhcr 2002).
+
+ 
+ 
+ 
+
+in the rush to render asylum claims inadmissible on the basis of the safe third country 
+concept,nominaladherencetothesecriteriahasoftenbeendeemedsufficientevenwhen
+there are evident gaps between formal acceptance of principles and their realization in 
+practice. in effect, asserting that a person should be denied asylum because he or she
+couldhavesoughtanineffectiveformofprotectioninacountryoffirstarrivalortransit
+operationalizes the externalization of migration control  and provides perhaps the starkest 
+illustration of the serious threat that externalization poses to the protection of the rights of 
+migrants, and of asylum seekers in particular. 
+
+iii. the impact of border externalization on the right of 
+migrants
+borderexternalizationpoliciesandpracticescandirectlyaffectthehumanrightsofmigrants
+andtheinternationalobligationsofstatestoprotecttheminsignificantways.
+first, and perhaps most importantly, by directing migrant flows to third countries,
+externalization influences the nature and duration of state legal obligations, as well
+as which states are charged under international law with the protection of the rights of 
+
+14europeancouncilregulationno343/2003of18february2003establishingthecriteriaandmechanisms
+for determining the member state responsible for examining an asylum application lodged in one of the 
+member states by a third-country national (dublin regulation).
+15    united  states  and  canada  safe  third  country  agreement:  hearing  before  the  subcommittee  on 
+immigration, border  security,  and  claims  of  the  committee of  the  judiciary,  house  of  representatives, 
+117thcong.(2002),october16.
+
+196
+
+journal on migration and human securitymigrants.forexample,borderexternalizationmayattemptto(oreffectively)limitformal
+legal obligations, including the right to seek and enjoy asylum, by preventing migrants 
+from ever coming under the jurisdiction of destination states.16 
+suchexternalizationpoliciesandpracticescanthenplacesignificantandunequalburdens
+on third countries; often states with fewer resources are forced (in practice and by law) to 
+seek to ensure the protection of migrants rights, including rights in the context of asylum.17 
+when the rights of asylum seekers and migrants are violated in such third countries as 
+aresultofadestinationstatesexternalizationefforts,thiscanraisecomplicatedissues
+of state responsibility for both destination states and third countries. simply put, it is a 
+violation of international law for states to directly support the internationally wrongful acts 
+of another state. states may not knowingly aid or assist another state in the commission 
+of an internationally wrongful act if the underlying act would be internationally wrongful 
+if committed by the former state (ilc 2001). as a result, destination states pursuing border 
+externalization strategies may come to be responsible (as a matter of international law) for 
+rights violations outside of their own territory, as at a minimum they are responsible when 
+they exert control over the acts of third countries.18 
+second, externalization may actually trigger, directly or indirectly, one or more categories 
+of  rights  violations.  regardless  of  their  status  or  location,  migrants  have  a  range  of 
+fundamental rights that can be implicated by migration-control externalization practices 
+and which protect migrants against abuse throughout the migration process.19 these include 
+rights that are implicated during transit, including while on the high seas and over land, if 
+and when detained as well as during the expulsion or deportation process.20 
+inadditiontothiscoresetofrights,somemigrantsmaybecoveredbyspecificbodiesof
+law that provide a higher standard of protection than is available to other migrants. for 
+example, child migrants are recognized to have a special status under international law, as 
+arethosefleeingrightsabusesintheircountriesofcitizenshiporhabitualresidence,such
+as refugees and asylum seekers or stateless people.21 at times, migrants also encounter 
+
+16   the right to seek and enjoy asylum is enshrined in the universal declaration of human rights and 
+isaffirmedbothbyrefugeelawandgeneralhumanrightslaw(udhr,supra, art. 14). there are at least 
+somecircumstancesinwhichstatepracticesuggestsadeliberateefforttolimitrightsprotectionsavailableto
+migrantsthroughthewayinwhichborderexternalizationeffortsarepursued.forexample,statesmaydirect
+migrationtothirdcountrieswhicharenotpartiestothe1951refugeeconvention,andthusmigrantsbenefit
+from fewer formal legal protections, particularly regarding refoulement (hyndman and mountz 2008, 266).
+17   this can result in unfair burden sharingwithonlylimitedpoliticalorfinancialsupport(seeatger2013,7).
+18   the increasing recognition of the extra-territorial responsibility of states to fulfill their human rights
+obligations, such as in hirsi jamaa and others v. italy, suggest that international law is likely to more broadly 
+recognize  breaches  of  international  law  and  standards  in  the  context  of  the  externalization  of  migration 
+controls.seehirsijamaaandothersv.italy,no.27765/09(ecthr,february23,2012).
+19   the rights of all international migrants are derived from many bodies of law, including general human 
+rightslaw;humanrightslawprotectingspecificcategoriesofpeople(e.g.,children)andwhichthusprotect
+specificcategoriesofmigrants;internationallaborlaw;internationalhumanitarianlaw;andinternational
+refugee law, among others. for a restatement of rights and commentaries that source their origins to various 
+international treaties and the regional conventions, see imbr (2014). 
+20   see, e.g., udhr, supra; iccpr, supra; and icesr, supra.
+21   see the 1951 refugee convention, supra; and crc, supra.
+
+197
+
+the impact of externalization of migration controlssituations  during  transit  that  increase  their  vulnerability  or  trigger  the  attachment  of 
+additionalrights,suchastherightsofvictimsoftraffickingorothercrimes.22 
+the perilous journey undertaken by many migrants, including on the high seas, as well 
+asclandestineeffortsbysometocrossincreasinglymilitarized(andsometimesclosed)
+borders, can expose them to violations of the right to life and the right to seek and enjoy 
+asylum and can additionally implicate their rights as victims of crime and abuse (such 
+asbytraffickers)(seeunohchr2014,1-2).externalizationcanalsoincreasedemand
+for both third-country resources for and interest in apprehension of migrants, and this, in 
+turn, can increase the likelihood of apprehension and both the likelihood and the duration 
+of detention. yet, throughout this entire process, migrants maintain fundamental rights, 
+including to liberty and security of person (including a presumption against detention on 
+the basis of migration status) and, if deprived of liberty and otherwise, rights against torture 
+and ill-treatment.23 
+in  addition  to  being  associated  with  increased  enforcement  practices  (and  detention  of 
+migrants), externalization can implicate asylum rights and prohibitions against refoulement. 
+all persons have the right to leave any country, including their own; refugees and asylum 
+seekers also have rights to seek and enjoy asylum and not to be punished for illegally 
+entering a country to do so.24 perhaps the most important obligation, that of non-refoulement, 
+prohibits states from returning a refugee to territories where her or his life or freedom would 
+be threatened on account of race, religion, nationality, membership in a particular social 
+group, or political opinion. the principle of non-refoulement also prohibits states from 
+returning anyone to a state in which they would be exposed to the danger of torture or cruel, 
+inhuman or degrading treatment or punishment.25  26 in some regions and circumstances, 
+those  fearing  mistreatment  are  also  protected under  human  rights  law  from  return  to  a 
+broader set of harms, including generalized violence or serious deprivation of a range of 
+human rights (see, e.g., unhcr 1984, part iii[3]).27 these obligations require that states 
+provide migrants access to screening and examination of any refugee or asylum claims, 
+includinginsituationsofmixedmigratoryflows(wherenotallmigrantsmayultimatelybe
+determined to merit or require international protection) (see unhcr 2016b).28 
+
+22 migrants may also not fall into any specific category of vulnerable group recognized by existing
+international law, but there is growing recognition of various categories of survival migrants, or those 
+who are forced to leave their countries of origin as a result of impacts of climate change, environmental 
+degradation, natural disaster or serious economic and social distress (see betts 2010, 11; see also imbr 2014 
+[recognizing, in article 4, the rights of vulnerable migrants]).
+23   see, e.g., iccrr, supra art. 7, 9; cat, supra.
+24   see udhr, supra art. 13; the 1951 refugee convention, supra  art. 31(1).
+25   1951 refugee convention, supra art. 33; iccpr, supra art. 7; cat, supra art. 3; unhrc 1992.
+26thecontentofthisrighthasbeenspecificallytiedtoarticle7oftheiccprbytheuncommitteecreated
+by the treaty. also note that the cat does not have a nexus requirement; thus, the cat applies to all migrants, 
+even those who do not fear persecution on a ground recognized by refugee law (cat, supra art. 1).
+27   some migrants who leave their country for reasons that fall outside of refugee protection can still become 
+refugees while abroad if circumstances in their country of origin change to create a well-founded fear of 
+persecution (unhcr 2007a, 5). 
+28   the right to seek and enjoy asylum and the refugee protection regime also provides the right to due 
+process in the context of status determinations (a right which is also independently guaranteed under human 
+rights law) and prohibits the use of detention as a deterrent to potential asylum seekers. 
+
+198
+
+journal on migration and human securityenforcementpressuresonthirdcountriescanincreasethedifficultyofcrossingborders
+for asylum seekers and refugees as well as the ability to seek or access procedures for 
+determining  refugee  status.  given  that  states  are  forbidden  to  practice  indirect  or 
+chain refoulement  in which refugees are returned to a third territory where they face 
+persecution, harm, or the serious threat of being returned to their home country or another 
+territory to face persecution or torture  migration-control externalization can implicate 
+the very cornerstone of the human rights regime.29 
+
+iv. regional case studies
+the united states, australia, and the european union are the primary destination states 
+or regions that have engaged in deliberate externalization strategies aimed at preventing 
+migrants and asylum seekers from irregularly reaching their shores. 
+
+a. the united states
+
+useffortstoexternalizemigrationcontrolsgobackatleasttothereaganadministration.30 
+the 1981 interdiction agreement between the united states and haiti authorized the us 
+coast guard to interdict haitian vessels on the high seas, detain the passengers, and return 
+them to haiti.31 despite assurances in president reagans executive order that the united 
+states would respect the principle of non-refoulement,usofficialsbroughtfewerthanone
+dozen of the 22,651 haitians interdicted at sea between 1981 and 1990 to the united states 
+to pursue asylum claims during the highly repressive duvalier dictatorships (taft-morales 
+and sullivan 1993, 9). 
+aseptember30,1990coupthatoverthrewhaitisfirstdemocraticallyelectedpresident,
+jean-bertrand aristide, caused the number of haitians taking to boats to spike. us president 
+george h.w. bush attempted to continue the reagan policy of shipboard screening, but 
+ran into legal challenges alleging that the screening was inadequate.32onmay23,1992,
+he issued the kennebunkport order, which threw out reagans nod to the principle of
+non-refoulement, and authorized summary returns of interdicted haitians with no refugee 
+screening  whatsoever.33  in  sale  v.  haitian  centers  council,  the  us  supreme  court 
+countenancedthekennebunkportorderpolicyofsummaryreturnofrefugeesinterdicted
+on the high seas.34 several international bodies have rejected the notion that the law of 
+non-refoulement does not apply on the high seas (or extraterritorially).35 the un high 
+
+29   states non-refoulement obligations apply to their actions within and beyond their own territory (see 
+unhcr 2007b; von sternberg 2014).
+30executiveorderno.12,324,46fed.reg.48,109,(1981),reprintedin8u.s.c.1182(supp.v.1981).
+31   interdiction agreement between the united states of america and haiti, sept. 23, 1981, u.s.-haiti, 33 
+u.s.t. 3559, 3559-60
+32   haitian refugee center v. baker, 789 f. supp. 1552 (s.d. fla. 1991), revd, 949 f.2d 1109 (11th cir. 
+1991), cert. denied, 112 s. ct. 1245 (1992).
+33executiveorderno.12,807,57fed.reg.23,133(1992).
+34   sale v. hatian centers council, 807 f. supp. 928 (e.d.n.y. 1992), cert. granted, 113 s. ct. 52 (1992).
+35    see  generally,  inter-american  commission  on  human  rights,  report  no.  51/96,  decision  of  the 
+commissionastothemeritsofcase10,675(march13,1997);hirsijamaaandothersv.italy,no.27765/09
+(ecthr, february 23, 2012). cf. r(europeanromarightscenter)v.immigrationofficeatpragueairport,
+[2004] ukhl 55.
+
+199
+
+the impact of externalization of migration controlscommissioner  for  refugees  called  the  sale  ruling  a  setback  to  modern  international 
+refugee law (unhcr 1993). 
+as widespread human rights violations continued in haiti and haitians continued to seek 
+protectionintheunitedstates,theclintonadministrationbrieflytriedshipboardscreening,
+but decided in july 1994 to detain interdicted haitians temporarily at the us naval base 
+in guantnamo, cuba rather than summarily return them to haiti (wasem 2011, 5). they 
+were not screened for refugee status but held pending their return to haiti (ibid., 4). it was 
+clearly conveyed to the haitians at guantanamo that they would never be resettled in the 
+united states (gordon 1994). 
+president clinton extended this externalization of migration control to cuban boat and raft 
+migrants as well. after a decades-long us policy of welcoming all rescued or irregularly-
+arriving cubans to the united states and automatically granting them residency status, 
+presidentclinton,inaugust1994,announcedthatboatpeopleandraftersfleeingcuba
+would, like the haitians, be interdicted and taken to guantnamo. this new us policy 
+towardcubanrafterswasconfirmedinajoint communique on migration issued by the 
+cuban and us governments on september 9, 1994. the communique stated that cubans 
+rescued at sea attempting to enter the united states will not be permitted to enter the 
+united states, but instead will be taken to safe haven facilities outside the united states. 
+in addition, the communique stated that the cuban government would take effective
+measures in every way it possibly can to prevent unsafe departures using mainly persuasive 
+methods(dos1994).
+president george w. bush reverted to the policy of interdicting and summarily returning 
+haitian boat people, including possible refugees, to haiti. when a wave of political violence 
+in late february 2004 resulted in a second ouster of president aristide, and haitians once 
+again took to boats, president george w. bush announced, i have made it abundantly 
+clear to the coast guard that we will turn back any refugee that attempts to reach our 
+shore (seper 2004).36 
+theobamaadministrationhascontinuedhighseasinterdictionsandcursoryshipboard
+screening. those found to have credible fears are brought to guantnamo where they 
+undergoarefugeestatusdeterminationwithoutthebenefitoflegalrepresentation.thefew
+who are recognized as refugees are held at guantnamo pending third-country resettlement; 
+they are not considered for resettlement to the united states.37 
+us  externalization  of  migration  controls  has  a  long  history  on  land  as  well.  in  1989, 
+an internal us immigration and naturalization service (ins) memo called on the ins 
+liaison  in  mexico  to  secure  the  assistance  of  mexico  and  central american  countries 
+toslowdowntheflowofillegalaliensintotheunitedstates(frelick1991,2).injune
+1989, the ins newsletter, commissioners communique, reported on cooperation with 
+thegovernmentofmexicotostemtheflowofcentralamericansthroughthatcountry,
+including the establishment of checkpoints along the transit corridors and the deportation 
+
+36   remarkably, neither the white house nor the state department issued any correction to this use of the 
+term refugee (frelick 2005).
+37   information in this paragraph is derived from the meeting on interdiction in the caribbean, us department 
+ofstate,onoctober29,2015,attendedbybillfrelick.
+
+200
+
+journal on migration and human securityof intercepted central americans (jones and roney 1989). while cooperation between 
+usimmigrationofficialsandtheirmexicancounterpartshasebbedandflowedoverthe
+years, the idea of pressuring and supporting mexico to control central american migration 
+across its remote 500-mile southern border with guatemala has had a lasting appeal for us 
+policymakers faced with the challenges of policing the nearly 2,000-mile us border with 
+mexico. 
+through  the  mrida  initiative,  a  cooperative  bilateral  security  agreement  between  the 
+united states and mexico that dates from 2008,38 the us congress has appropriated about 
+$2.5 billion in assistance to mexico, of which more than $1.3 billion in equipment and 
+traininghasbeendeliveredtomexico,asofapril2015(seelkeandfinklea2015).one
+of the four pillars of us security assistance to mexico through the mrida initiative is 
+support to create a 21st century border (pillar 3). the goal is to [fa]cilitate legitimate 
+commerce and movement of people while curtailing the illicit flow of drugs, people,
+arms, and cash (us embassy-mexico 2014). while mrida initiative funding involves 
+farmorethanmigrationcontrol,curtailingtheillicitflowof...peoplehasremained
+an important priority for the united states (ibid.), as evidenced by events in the summer 
+of 2014, when extreme gang violence and poverty in the central american countries of 
+honduras, guatemala, and el salvador caused tens of thousands of people, many of them 
+unaccompaniedminors,tofleetotheunitedstatesandmexico.
+presidentobamacommittedhisadministrationtomeetingthesurgeofmigrantswithan
+aggressive,unified,andcoordinatedfederalresponseonbothsidesoftheborder(white
+house 2014a). he told congressional leaders that he intended surging law enforcement 
+task  forces  in  cooperation  with  our  international  partners,  with  a  focus  on  stepped-up 
+interdiction and prosecution (ibid.). a week later, he asked congress for an emergency 
+supplemental  appropriation  of  $3.7  billion  to  comprehensively  address  this  urgent 
+humanitarian situation (white house 2014b). the highest levels of us diplomacy were 
+engaged to persuade mexico and the three central american source countries, el salvador, 
+honduras, and guatemala, to create concrete ways that we can work together to stem the 
+flowofmigrantstakingthedangeroustriptotheunitedstates(whitehouse2015a).39 
+in direct response to the summer 2014 surge in unaccompanied central americans arriving 
+attheusborder,theusdepartmentofhomelandsecurity(dhs)launchedoperation
+coyote, which it said was designed to stem the flow of illegal central american
+migration.40 the operation involved the deployment of dhs investigators to mexico and 
+central america to share criminal intelligence with foreign partners and build capacity 
+inhumansmugglingandhumantraffickingenforcement(hrw2016b,52).bytheend
+ofmay2015,thisefforthadresultedin1,037criminalarrestsinmexicoandtheregion.41
+
+38indecember2008,mexicoandtheunitedstatessignedthefirstletterofagreementforthemrida
+initiative, a bilateral security agreement centered on four pillars: (1) disrupting capacity of organized crime 
+tooperate,(2)institutionalizingcapacitytosustainruleoflaw,(3)creatingatwenty-firstcenturyborder
+structure, and (4) building strong and resilient communities.
+39presidentobama,vicepresidentbiden,andsecretaryofstatekerryallmetwithhighestlevelgovernment
+officialsinmexicoandcentralamericaonthisissue.
+40testimony by lev j. kubiak (assistant director of international operations of us immigration and
+customs  enforcement)  before  the  house  subcommittee  on  border  and  maritime  security  (2015),  7-8, 
+availableathttp://www.ice.gov/sites/default/files/documents/testimony/2015/150602kubiak.pdf.
+41   ibid.
+
+201
+
+the impact of externalization of migration controlsthecongressionalresearchservice(crs)estimatedthatusdepartmentofstate(dos)
+funding  for  equipment  and  training  to  support  immigration  enforcement  on  mexicos 
+southern  border  would  exceed  $86.6  million  prior  to  the  enactment  of  the  fy  2015 
+appropriation  (seelke  and  finklea  2015,  16).  congress  increased  the  presidents  $115 
+millionrequestforfy2015mridainitiativebyanother$79million,andspecifiedthatit
+was to be used for helping mexico secure its southern border and implement justice sector 
+reforms(ibid.,7).significantfundingformexicanmridainitiativeprogramscontinuedin
+theobamaadministrationsfy2016request.42additionalfundsalsoflowedtomexicos
+militaryfromtheusdepartmentofdefenses(dod)counter-narcoticsbudgettobolster
+its capacity to control mexicos southern border.43 
+the  combination  of  funding  and  technical  support,  as  well  as  diplomatic  and  other 
+pressures from the united states, spurred the mexican government to action. the same 
+dayaspresidentobamas emergency supplemental budget request, july 8, 2014, mexican 
+president enrique pea nieto announced the start of the programa frontera sur (southern 
+border program). although a detailed program was never presented publicly, the mexican 
+government  established  a  new  administrative  body  within  the  ministry  of  interior,  the 
+officeofcoordinationforcomprehensivemigrationassistanceatthesouthernborder,to
+coordinatebordercontrolandmigrationmanagement,andfederalofficialsweredesignated
+to  manage  migration  policy  in  the  southern  mexican  states  of  campeche,  chiapas, 
+quintana roo, and tabasco (poder ejecutivo 2014, 1, 2; monroy 2015). moreover, in 
+september 2014, the new york times reported that under pressure from the united states 
+...mexicoinrecentweekshastakenararesteptowardstemmingtheflowofmigrants,
+sweeping[centralamericanmigrants]offtrains,settingupmoreroadwaycheckpointsand
+raidinghotelsandflophouseswheretheycongregateontheirjourneynorth(villegasand
+archibold 2014). 
+apprehensions of non-mexican migrants along the southwestern border of the united states 
+fellby57percentbetweenoctober2014andapril2015comparedtothesamemonthsthe
+previous year, from 162,700 to 70,400 (nyt editorial board 2015). as early as september 
+2014, when the number of central americans appearing at the us border decreased, dhs 
+
+42   the state departments fy 2016 budget request included $39 million for the mexico economic support 
+fund  to  support  the  continued  us-mexico  partnership  under  the  mrida  initiative  to  address  security 
+threatsstemmingfromdrugtraffickingandviolentcrime;$81.5millionforcentralamericanregional
+security initiative (carsi); $26 million for the caribbean basin regional security initiative (cbsi); $80 
+million for international narcotics control and law enforcement (inl) mexico funds for the purposes of 
+institutionalizing the rule of law, disrupting and dismantling criminal organizations, creating a 21st century 
+border,  including  mexicos  southern  border,  and  building  strong  and  resilient  communities  through  the 
+mrida initiative; $225 million for inl for carsi activities such as land border and maritime interdiction 
+programs (and support[ing] civil society through access to justice[ and] protection of human rights); and 
+$20millionforinlssupporttocbsitocontinueeffortstocombatillicittraffickingandorganizedcrime,
+increase port and border security, and strengthen the rule of law through training and technical assistance 
+(seedos2016,90-109).
+43infy2011,dodprovidedmexico$50milliontoimprovesecurityalongthemexico-guatemala-
+belizeborderoutof$84.7millionindodcounter-narcoticssupportfundingtomexicothatyear.dods
+mexico-guatemala-belize border initiative provides training to troops patrolling mexicos southern border, 
+communicationsequipment,andsupportfordevelopmentofmexicossurveillancecapacity.dodcounter-
+narcotics funding for mexico continued after fy 2011with $83.5 million in fy 2012, $68.8 million in fy 
+2013, and $50.8 million in fy 2014 (see seelke and finklea 2015, 17, 24; seelke and finklea 2013, 29).
+
+202
+
+journal on migration and human securitysecretary jeh johnson issued a press release showing the statistical drop and saying that 
+the us government is pleased that the mexican government has itself taken a number of 
+importantstepstointerdicttheflowofillegalmigrantsfromcentralamericaboundforthe
+united states (johnson 2014).
+in parallel, apprehensions of central american migrants in mexico rose by 75 percent, 
+from 53,078 to 92,889 (secretaria de gobernacion 2013, 117; secretaria de gobernacion 
+2014, 117; nyt editorial board 2015). mexicos national immigration institute (inm) 
+reported a 79 percent increase in the number of central americans deported from mexico 
+inthefirstfourmonthsof2015(stillman2015).
+theusgovernmenthascharacterizedtheeffortstostemtheflowofcentralamerican
+migrants to the us border as a success, and has given much of the credit for this success 
+tomexicoforitsenhancedenforcementefforts.aspresidentobamasaidatajointwhite
+house press conference with mexican president pea nieto on january 5, 2015:
+
+iverymuchappreciatemexicoseffortsinaddressingtheunaccompaniedchildren
+whowesawspikingduringthesummer.inpartbecauseofstrongeffortsbymexico,
+including at its southern border, weve seen those numbers reduced back to much 
+more manageable levels. 
+
+(white house 2015b)
+usexternalizationeffortsextendedtothecentralamericansourcecountriesaswell.in
+june of 2014, honduran law enforcement units which had received funding and training 
+fromthedosbureauofinternationalnarcoticsandlawenforcement(inl)launchedan
+operation to intercept children and families attempting to cross the border from honduras 
+into  guatemala  (jesuit  conference  2014,  2).  three  such  honduran  units  apparently 
+collaboratedontwotacticaloperations,operationrescueangelandoperationcoyote
+(ibid.). according to reports, all three units received equipment and special training from 
+us  border  patrol,  us  immigration  and  customs  enforcement,  or  other  us  migration 
+control and law enforcement entities (ibid.; honduras amuralla 2014; carcamo 2014a; 
+carcamo 2014b).
+
+b. australia
+
+australiasmigration-controlexternalizationpolicy,calledthepacificsolution,dates
+from august 2001 when the australian navy began interdicting migrants on the high seas 
+(hathaway 2002; magner 2004). that month, a norwegian freighter, the tampa, rescued 
+migrants from an overcrowded vessel and sought to bring them to australias christmas 
+island, as the next place of safety  the proper place, according to international maritime 
+law, to disembark people rescued from vessels in distress.44 after the norwegian ship captain 
+defiedaustraliasorderandentereditsterritorialwaters,theaustralianmilitaryblocked
+the tampaoffthecoastofchristmasisland,preventeditspassengersfromdisembarking,
+and transferred them to an australian military vessel. 
+
+44guidelinesonthetreatmentofpersonsrescuedatsea,internationalmaritimeorganization(imo)
+doc. resolution msc. 167(78), annex 34, adopted by the maritime safety committee on may 20, 2004, at 
+6.12-6.17. 
+
+203
+
+the impact of externalization of migration controlsduringtheweeks-longstand-offatsea,theaustralianparliamentpassedlegislationwith
+the explicit objective of stemming the unauthorized maritime arrival of asylum seekers 
+(hrw2002,12-13).amongotherprovisions,thelegislation,whichcameintoeffectinlate
+september 2001, excised christmas island and other outlying territories from australian 
+immigration law, thus prohibiting asylum seekers in these erstwhile australian territories 
+from lodging asylum claims in australia (ibid.). 
+whilethereisevidencetosuggestthataustralianofficialsexaminedtheusplaybookin
+devisingthepacificsolutionandinmanyrespectsfollowedinthefootstepsoftheunited
+states in its restrictive policies on asylum seekers who arrive by sea, they also added 
+some new variations (magner 2004, 58). australias new twist on externalization excised 
+australian territories, for immigration law purposes, by a stroke of the pen rather than 
+through any extraterritorial actions, creating the sort of rights free zone that had proved 
+so convenient for the united states at guantnamo (hrw 2002, 63).
+duringseptemberandearlyoctober2001,australiadetainedirregularmaritimearrivals
+on christmas island or on board australian naval ships and then transferred them to the 
+pacific-islandcountry,nauru,ortopapuanewguinea,wheretheywereconfinedincamps.
+(ibid., 12-13). at the time, nauru was not a party to the 1951 refugee convention and 
+papua new guinea, though a party to the convention, had attached numerous reservations 
+totheiraccessionanddidnothaveinplaceadequatelawsandstructurestoprovideeffective
+protectiontorefugeesandasylumseekers(unhcr2010).australianimmigrationofficials
+conducted refugee status determinations in nauru and papua new guinea but not for the 
+purpose of granting asylum under australian law, but rather  as the united states was 
+doing at guantnamo  to consider recognized refugees for discretionary resettlement; 
+the asylum seekers in nauru and papua new guinea had no recourse under any national 
+law to challenge the refugee status determinations (hrw 2002, 62-65). 
+inlateoctober2001,australiaalsobeganinterdictingmigrantboatsandforciblyreturned
+themtoindonesianwaters.indonesiawasnotified,butnospecificreceptionarrangements
+were made and no agreement was in place guaranteeing the protection of the intercepted 
+refugees from refoulement (ibid., 12-13).
+refugee  processing  was  closed  at  manus  island  in  2004  and  at  nauru  in  2008.  nauru 
+became a party to the refugee convention in 2011, but lacked the capacity to provide 
+effectiveasylumproceduresandrefugeeprotection(unhcr2012b,38).45 
+in july 2011 australia announced an arrangement to transfer irregular maritime asylum 
+seekerstomalaysia,butaustraliashighcourthaltedthatplan,findingittobeprocedurally
+invalid because of malaysias poor refugee protections and the risk of refoulement (phillips 
+2014).46  the  high  court  ruling  ended  the  malaysia  deal,  but  the  parliament  scrapped 
+the provision of the migration act upon which the high court had based its ruling, and 
+switcheditsoffshoreprocessingschemeawayfrommalaysia,notapartytotherefugee
+
+45   [t]here areno experienced refugee status determination decision makers in the government of nauru 
+[and]nopoolofpersonsidentifiedtodotheindependentreviewsonthetribunalsenvisagedbytherecently
+enacted refugee convention act of 2012. 
+46plaintiffm70/2011v.ministerforimmigrationandcitizenship;plaintiffm106of2011v.ministerfor
+immigration and citizenship (2011) 244 clr 144.
+
+204
+
+journal on migration and human securityconvention,  and  back  to  nauru  and  papua  new  guinea,  both  nominally  parties  to  the 
+convention. 
+inaugust2012,theoffshoreprocessingandothermeasuresbillauthorizedthegovernment
+to transfer irregular migrants arriving by sea to nauru or to manus island, papua new 
+guinea,wheretheywouldbeheldindefinitelywhiletheirrefugeeclaimswereprocessed
+(hrw 2012). the legislation targeted only those asylum seekers who arrived irregularly 
+by boat (ibid.). under the law, the claims of asylum seekers who arrived by air, even with 
+improper documents, would continue to be processed while they remained in australia 
+(ibid).onjuly19,2013,primeministerkevinruddannouncedthatallirregularmaritime
+asylum seekers would be sent to manus and nauru for processing and that none found to 
+be refugees would be resettled to australia (parliament of australia 2014).
+in  december  2014,  the  australian  parliament  passed  legislation  that  removed  most 
+references  to  the  refugee  convention  from australias  migration act  of  1958,  instead 
+creating a new, independent and self-contained statutory framework to allow australia 
+to pursue its own interpretation of its obligations under the convention (kcirl 2014). 
+among other things, the legislation gave the minister of immigration and border protection 
+extraordinary powers to detain people on the high seas and to transfer them to any country 
+chosen by the minister, with very limited possibilities for judicial review (ibid). the new 
+lawaddedthatthedesignationofacountrytobeanoffshoreprocessingcountryneed
+not be determined by reference to the international obligations or domestic law of that 
+country  (ibid).  prime  minister tony abbott  promoted  his  stop  the  boats  policies  as 
+a  model  for  other  countries  confronting  the  challenge  of  irregular  migration,  including 
+european countries (see norman 2015). 
+australiahascontinuedandexpandedthepacificsolutionundertheabbottgovernment
+(asrc  2015).  this  expansion  includes  a  regional  plan  by  australia,  indonesia,  sri 
+lanka, and malaysia to deter migration by sharing intelligence and information about the 
+identities of migrants, cooperating on naval patrols and border security, launching media 
+campaigns to dissuade migration, and increasing the speed at which migrants are deported 
+(the coalition 2014). the abbott and turnbull governments part in this plan has been 
+directedbythemilitary-ledoperationsovereignborders,whichincludesajointagency
+task force aimed at preventing people smuggling (kcirl 2015). under operation
+sovereign borders, migrants who are not returned to their sending country continue to 
+bedetainedforoffshoreprocessinginsubstandardconditions(australiaasylum2016;
+ostrand2014).
+thestatedguidingprincipleofaustraliaspacificsolutionhasbeentheno advantage 
+test, to ensure that no benefit is gained through circumventing regular migration
+arrangements.47 as a consequence of this approach, australia has refused the option of 
+resettlement in australia to any refugees from nauru or papua new guinea. its search for 
+
+47thelanguagequotedinthetextaboveappearsinthepreamblesofboththemouwithnauruandwith
+papua new guinea (memorandum of understanding between the government of the independent state of 
+papua new guinea and the government of australia relating to the transfer to and assessment of persons in 
+papua new guinea, and related issues and memorandum of understanding between the republic of nauru 
+and the commonwealth of australia relating to the transfer to and assessment of persons in nauru, and 
+related issues). 
+
+205
+
+the impact of externalization of migration controlsthird countries willing to resettle refugees from its outsourcing centers led it to conclude a 
+deal with cambodia in 2014 to accept refugees from nauru. the resettlement agreement, 
+coupled with $40 million in development aid, ignored concerns about safety and the lack 
+ofcapacityofthecambodiangovernment(hrw2015).thefirstgroupoffourrefugees
+arrived in phnom penh in june 2015 at a cost to australia of another $15 million, but by 
+march 2016 three of the original four had chosen to go back to their home countries rather 
+than  remain  in  cambodia  (hasham  2016). with  two  additional  refugees  resettled  from 
+nauru, there were only three such refugees still in cambodia, as of march 2016 (ibid). 
+in april 2016, the supreme court of papua new guinea ruled that detention of asylum 
+seekers and refugees on manus island violated papua new guineas constitution. the papua 
+newguineaprimeministerthencalledontheaustraliangovernmenttofindalternative
+arrangements for its detainees on manus island and to relocate refugees not wanting to stay 
+there (hrw 2016d). 
+
+c. the european union
+
+in2003,britishprimeministertonyblairscabinetandhomeofficecirculatedapolicy
+paper  called  a  new  vision  for  refugees,  which  proposed  that  the  european  union 
+establish regional protection areas (rpas) near refugee-producing countries, which would 
+havethepurposebothtocontainrefugeesincountriesoffirstarrivalandtoserveasplaces
+to which asylum seekers that had arrived in europe could be deported (noll 2015). as 
+proposed, returned asylum seekers as well as refugees arriving from their home countries 
+would be processed in transit processing centers (tpcs) for possible resettlement in the 
+europeanunion(ibid).findinginsufficientsupportfortheproposal,theunitedkingdom
+withdrew it prior to the june 2003 european council meeting in thessaloniki, and it was 
+never formally considered (hrw 2006, 5). but the new vision has persisted through the 
+years and echoes loudly in the 2016 eu-turkey action plan for stemming the irregular 
+flowofmigrantsandasylumseekersintotheeuropeanunion.
+in september 2005, the european commission proposed regional protection programmes 
+(rpps),  a  variation  on  the  new  visions  rpa.  rpps  purportedly  would  strengthen 
+protectioncapacityintheregionsclosetorefugeeflows(europeancommission2005).
+human rights watch noted at the time that while the rpps goals of strengthening the 
+protection capacity and improving access to durable solutions in the target countries are 
+laudable, [t]he rpps concept raises concerns . . . that the eu will use the existence of such 
+programs as a pretext to declare the target countries safe third countries. the eu could 
+then return asylum seekers and migrants who transited through these countries even though 
+effectiveprotectioncouldnotbeguaranteed(hrw2006,4).
+duringthenext10years,theeuropeanunioncontinueditseffortstoputexternalization
+into practice through cooperation with key migration transit countries. in ukraine, at the 
+time an important transit country for migrants and asylum seekers, the european union and 
+its member states bordering ukraine provided resources, signed readmission agreements 
+to  facilitate  summary  returns,  and  conditioned  closer  ties  on  kievs  cooperation  with 
+migration-controleffortsthatledtoasylumseekersbeingwarehousedinthecountry(hrw
+2010).inlibya,eumemberstateitalyledthewayinencouragingthegaddafigovernment
+
+206
+
+journal on migration and human securityto prevent migrants from departing its shores by boat for italy and malta and to accept the 
+summary return of those who did depart, despite the abuses against migrants and asylum 
+seekersandlackofeffectiveprotectioninthatcountry(hrw2009).
+the european union has also pursued a series of eu-wide readmission agreements with 
+third countries to facilitate not only the return of rejected asylum seekers and other migrants 
+who are nationals of those countries but in the case of transit countries, the nationals of 
+othercountries,amovedesignedinparttoovercomethepracticaldifficultiesofdeporting
+rejected asylum seekers to some countries (rais 2016). 
+thesafethirdcountryconceptwascodifiedineuropeintheasylumproceduresdirective
+(apd), one of the key elements of the eus common european asylum system, in 2005.48 
+after the apd passed, unhcr said that it may lead to breaches of international refugee 
+law if no additional safeguards are introduced, and make it harder for refugees to have 
+their asylum claims properly heard in europe. after the european commission proposed 
+a revised (but still problematic) version of the apd in 2009,49 the un refugee agency in 
+january 2012 said: 
+
+unhcr  continues  to  question  the  utility  and  consistency  with  international 
+refugee law of the european safe third country concept. no minimum principles 
+and guarantees appear to govern the procedure under article 39 of the amended 
+proposal. the implication is that access to territory and to an asylum procedure 
+may be denied altogether to asylum seekers who may have protection needs. such 
+a denial could be at variance with international refugee law. 
+
+(unhcr 2012a) 
+the political impact of the refugee crisis in europe in 2015, with the arrival of more than 
+one-million people by sea, 84 percent of whom came from the worlds top 10 refugee-
+producing countries, gave fresh impetus to the european unions interest in externalization 
+(unhcr 2016e). the european union first sought to shift responsibility towards the
+non-eu states on the western balkan migration route and then ultimately to turkey, the 
+main transit country for the 850,000 arrivals in greece in 2015. at the same time, the 
+europeanunionreneweditseffortstocreatemigrationpartnershipswithafricancountries,
+establishing an emergency trust fund for africa in november 2015 with the explicit aim of 
+reducing migration to europe (european commission 2015).
+in march 2016, the european union and its member states used inducements of future visa-
+free travel for turkish nationals, a renewed path toward eu membership, and billions of 
+euros in aid to seek turkeys assistance in preventing syrian refugees from crossing into the 
+europeanunion(europeancommission2016a).onmarch18,2016,theeuropeanunion
+and turkey  came  to  a  formal  agreement to  return  all  new  irregular  migrants  crossing 
+from turkey into greek islands back to turkey (ibid). the agreement states that such 
+returns will take place in full accordance with eu and international law. the agreement 
+
+48eudirective2005/85/ecof1december2005onminimumstandardsonproceduresinmemberstates
+for granting and withdrawing refugee status.
+49    proposal  for  a  directive  of  the  european  parliament  and  of  the  council  on  minimum  standards  on 
+procedures in member states for granting and withdrawing international protection (recast) {sec(2009) 
+1376} {sec(2009) 1377}/*com/2009/0554final-cod2009/0165*/, available at http://eur-lex.europa.eu/
+legal-content/en/txt/?uri=com:2009:0554:fin.
+
+207
+
+the impact of externalization of migration controlscites the apd, and suggests that asylum requests from syrians, iraqis, afghans, and others 
+arriving irregularly by boat from turkey will be ruled inadmissible because turkey will 
+beidentifiedasasafethirdcountryorasafirstcountryofasylumtowhichasylum
+seekers can be returned with less than full examination of their asylum claim (ibid.). 
+at this writing the eu-turkey migration agreement is still in its infancy, but turkey in 
+any case falls short of the apds criteria for either safe third country or country of 
+firstasylum.50 importantly, any syrian, iraqi, or afghan returned to turkey would not 
+be allowed to request refugee status there because turkey excludes non-europeans from 
+qualifyingforrefugeestatus(kirici2005).syriansdo have access to temporary protection 
+in turkey offering some access to assistance and more recently to the labor market,
+althoughinpracticesignificantbarriersremain(hrw2016e).butiraqis,afghans,and
+other nationalities of asylum seekers are not even eligible for temporary protection. the 
+apd also requires the safe third country to respect the principle of non-refoulement, the 
+prohibition on the forced return of refugees.51 that principle not only forbids governments 
+from deporting refugees to places where their lives or freedom would be threatened but 
+also from rejecting asylum seekers at their borders who would face such threats. at the 
+very time the eu was announcing its migration control deal, turkey had closed its border 
+totensofthousandsofsyriansfleeingamilitaryoffensiveinthenorthernsyriancityof
+aleppo (hrw 2016a).
+asofthiswriting,thedealsdeterrenteffectcoupledwiththeclosureofthewesternbalkan
+migration route appears to be working; the number crossing the aegean sea has dropped 
+dramatically (unhcr 2016a). but if no syrians reach greece by boat and the war in syria 
+drags on, turkey will be left with an ever-growing refugee population. and while the deal 
+envisions voluntary resettlement of syrians from turkey to the european union in exchange 
+for the return of syrians from greece to turkey, the fate of non-syrians is far more uncertain. 
+whatever the outcome of the eu-turkey deal, it is clear that externalization is now the 
+main plank of eu migration policy. this was emphasized in june 2016, when the european 
+commission announced a new migration partnership framework (european commission 
+2016b). while there are positive elements in the framework, including the possibility of 
+greater resettlement and other legal routes for migration, the overall approach is consistent 
+withtheeuropeanunionseffortsduringtherefugeecrisistodeflectresponsibilityand
+legal  obligations  away  from  eu  member  states  and  onto  transit  and  origin  countries, 
+including through the eu-turkey deal. the short-term objectives of the framework are 
+to save lives in the mediterranean sea; increase the rate of returns to countries of origin 
+and transit; and enable migrants and refugees to stay close to home and to avoid taking 
+dangerous journeys (ibid.).
+
+50 eu directive 2013/32/eu of 26 june 2013 on common procedures for granting and withdrawing
+international protection (recast), articles 35 and 38. 
+51thedirectivealsosaysafirstcountryofasylumisacountrywheretheapplicanthasalreadybeen
+recognized as a refugee or otherwise enjoys sufficient protection.asturkey does not recognize non-
+europeans as refugees, the only remaining question is whether it provides de facto refugees sufficient
+protection.accordingtounhcr,[t]hewordingsufficientprotection[intheapd]...doesnotrepresent
+anadequatesafeguardwhendeterminingwhetheranasylumseekermaybereturnedtothefirstcountryof
+asylum.eudirective2013/32/euof26june2013oncommonproceduresforgrantingandwithdrawing
+international protection (recast), articles 35 and 38. as noted above, human rights law provides all migrants 
+with legal protection against return to torture and other ill treatment independent of refugee law or status.
+
+208
+
+journal on migration and human securitywhile much of the framework restates long-standing policy approaches, the emphasis on 
+economic development as the main tool to tackle root causes of migration, the choice of 
+potential partners including governments, like sudan and eritrea, with poor records when 
+itcomestoprotectinghumanrights,andtheefforttoconditiongeneraleuaidexplicitlyon
+migration cooperation are worrying elements that will require close scrutiny in the months 
+and years to come. 
+
+for  promoting  government 
+
+v.  recommendations 
+migration policies protective of human rights
+laws,  policies,  and  practices  that  externalize  migration  controls  are  rights-threatening, 
+asdiscussedinsectioniii,whentheyhavetheintentionoreffectofblockingaccessto
+territory in ways that frustrate the right of any person to leave their country of nationality 
+or any other country, or the right of anyone to seek and enjoy asylum outside their country. 
+theyarealsorights-threateningwhentheyhavetheeffect(ortheintention)ofcausing
+or  making  more  likely  violations  of  other  human  rights  of  migrants,  including  asylum 
+seekers. there is ample scope for destination or transit countries to engage in capacity 
+building and to assist with migration management, including as part of supporting security 
+screening and law enforcement, in ways that are consistent with international human rights 
+law and standards. such laws, policies, and practices should be reformed to systematically 
+and directly incorporate rights protections into migration management (including through 
+increasing  the  protective  capacity  of  authorities  involved  in  migration  control  in  third 
+countries), as well as to condition destination- and transit-state funding, training, and other 
+assistance  to  third  countries  on  the  implementation  of  a  minimum  set  of  human  rights 
+protections in law and in practice. 
+rather than promoting the externalization of migration controls, states and other donors 
+could  also  increase  support  to  regional  and  international  organizations  that  provide  or 
+promote the protection of migrants rights, including the rights of asylum seekers, in third 
+countries and countries of origin. such parallel resources could be directed to enhancing 
+the  capacity  of  all  states  along  migration  routes,  including  through  robust  training  of 
+immigrationandbordersecurityofficialsinhumanrightsandrefugeeprotections.these
+couldinparticularincludeadvocacyandtrainingeffortstoensurethatofficialswithout
+a  human  rights  or  refugee  protection  mandate,  but  whose  work  triggers  or  follows 
+apprehension  and  processing  of  migrants,  such  as  border  guards  and  law  enforcement 
+officials,understandandrespecttherightsofallofthemigrantstheyencounter.
+finally,  states  and  other  donors  could  provide  increased  support  to  civil  society  actors 
+whose  work  directly  or  indirectly  supports  protection  of  the  basic  needs  and  rights 
+of  migrants,  refugees,  and  asylum  seekers,  including  humanitarian  protection.  these 
+effortscouldbetargetedtocivilsocietyactorswell-positionedtoadvocateformigrants
+and  asylum  seekers  rights.  it  is  particularly  important  that  international  human  rights 
+organizations and civil society actors monitor the externalization of border control. there 
+are several ways in which this can be done. to begin, civil society groups should educate 
+each other on government practices in their regions. civil society can seek and disseminate 
+information about government practices and regional dynamics, including through civil 
+society platforms and networks, and organize and engage with international and regional 
+
+209
+
+the impact of externalization of migration controlshuman rights bodies that monitor states compliance with human rights laws. civil society 
+groupscanalsodirectlyengagewithlawenforcementeffortsandseektoensuremigrants
+and asylum seekers rights are not violated in the context of the prosecution of alleged 
+criminals. in addition, civil society groups can engage in documentation and monitoring 
+of  compliance  with  international  law  and  standards,  and  promote  the  incorporation  of 
+international human rights law into domestic law. they also can promote accountability for 
+those migration-control externalization policies and practices that violate human rights by, 
+among other things, bringing legal challenges to border externalization in domestic courts 
+and  international  and  regional  human  rights  bodies  whenever  externalization  policies 
+contravene international or national law.
+thefollowingarespecificpolicyrecommendationstargetedtostatesandcorrespondingto
+the regional case studies in section iv above: 
+
+to the united states
+
+1.  stop  the  high  seas  interdiction,  shipboard  screening,  and  summary  returns  of 
+irregular  maritime  migrants  and  asylum  seekers  in  the  caribbean  or  elsewhere. 
+do  not  outsource  screening  and  refugee  processing  to  the  us  naval  base  at 
+guantnamo  bay,  cuba,  but  rather  bring  all  individuals  expressing  a  need  for 
+international protection to the territorial united states to have their claims assessed. 
+2.  redirect funding and support for mexicos southern border program away from 
+interception of central american migrants and asylum seekers and to improving 
+mexicos capacity to protect, receive, and process asylum seekers, including by 
+improving its capacity to provide them social support while their claims for refugee 
+status or other forms of protection are pending.also, increase efforts to assist
+mexico to integrate recognized refugees.
+
+3.  condition any us funding of third countries engaged in immigration and border 
+control  on  their  demonstrated  compliance  with  anti-corruption  measures  and 
+national and international human rights standards.
+
+4.  do  not  use  us  aid  money  to  increase  border  militarization  aimed  at  stopping 
+
+migrants from leaving their home countries in search of international protection. 
+
+to australia 
+
+1.  endthepolicyofoffshoredetentionandprocessingofasylumseekersinnauru,
+manusisland,orinanyothersitesthatunableorunwillingtoprovideeffective
+rights protections to asylum seekers.
+
+2.  stop  the  policy  of  turning  back  migrants  and  asylum  seekers  arriving  by  boat 
+to  countries  of  origin  or  countries  of  transit,  such  as  indonesia,  sri  lanka,  and 
+vietnam, after cursory screening. 
+
+3.  allow  irregularly  arriving  maritime  asylum  seekers  to  have  their  claims  for 
+protection heard in australia and provide asylum in australia for those found to be 
+deserving of international protection.
+
+4.  offerthepossibilityofsettlementinaustraliatoallrefugeescurrentlyinnauruand
+
+manus island.
+
+210
+
+journal on migration and human securityto the european union
+
+1.  do not designate or otherwise treat turkey or any other country as a safe third 
+countryorasafirstcountryofasylumforthereturnofasylumseekersunlessit
+meets the following principles:
+a.   the country in law and practice provides for refugee status or a status that 
+is equivalent to that required by the 1951 refugee convention or its 1967 
+protocol to people of all nationalities deserving of international protection.
+
+b.   the country provides a legal regime, such as a temporary protection regime, to 
+ensurethatmigrantsarenotreturnedtoacountryexperiencingarmedconflict
+and indiscriminate violence where they face a risk of serious harm. the legal 
+regime must also carry with it the possibility of refugee status, including for 
+situations that become protracted.
+
+c.   the country protects the labor rights of lawfully present refugees and the 
+
+beneficiariesofcomplementaryortemporaryprotection.inparticular,
+the country must protect the right to work, such as by providing work 
+authorization and access to the labor market.
+
+d.   the country protects the rights to health and to education for recognized 
+
+refugeesaswellasbeneficiariesofcomplementaryortemporaryprotection,
+and provides access to social services.
+
+e.   the country protects the rights of liberty and security of recognized refugees 
+
+aswellasbeneficiariesofcomplementaryortemporaryprotection,and
+refrains from detaining asylum seekers, particularly children, on the grounds 
+of illegal entry or stay. 
+
+f.   the country demonstrates respect for the principle of non-refoulement, 
+
+includingprohibitinganypracticethatcouldhavetheeffectofreturningan
+asylum seeker or refugee to places where they would face serious risk of 
+violation of fundamental human rights, where their lives or freedom would 
+be threatened, or where they would be at risk of persecution, torture, or 
+cruel, inhuman or degrading treatment or punishment, including through 
+interception, rejection at the frontier, or indirect refoulement. 
+
+2.  do  not  use  the  turkish  or  libyan  or  other  third-country  coastguards  or  border 
+guards to prevent would-be asylum seekers from exercising their rights to leave 
+any country or to seek asylum.
+
+3.  do not make assistance through the eu-africa trust fund, the khartoum process, 
+or any other migration compact under the eu partnership framework conditional 
+on african or other countries preventing individuals from leaving their countries 
+of nationality or habitual residence, but rather help to build the capacity of those 
+countries to respect and protect human rights and to address development needs. 
+
+4.  abrogate  the  unfair  and  unworkable  dublin  regulation  system  for  determining 
+eu member state responsibility for examining asylum claims based on the country 
+offirstarrivalandinitsplaceinstituteamechanismforassigningresponsibility
+for examining asylum claims to member states according to each states assessed 
+capacity,  while  taking  into  consideration  the  dignity,  autonomy,  and  wishes  of 
+asylumseekersandrightstofamilyunityandreunification.
+
+211
+
+the impact of externalization of migration controlsreferences
+aclu (american civil liberties union). 2014. human rights situation of migrant and 
+refugee  children  and  families  in  the  united  states.  hearing  before  the  inter-
+american commission on human rights, 153rd ordinary period of sessions,
+october27.https://www.aclu.org/files/assets/iachr_-_human_rights_situation_of_
+migrant_and_refugee_children_and_families_in_the_united_states-v2.pdf.
+
+andrijasevic,rutvica.2010.deported:therighttoasylumateusexternalborder
+of italy and libya. international migration 48(1). https://doi.org/10.1111/j.1468-
+2435.2009.00554.x.
+
+asrc(asylumseekerresourcecentre).2015.timelineofevents.http://www.asrc.
+
+org.au/resources/fact-sheet/timeline-of-events/.
+
+atger, anas faure, ed. 2013. shifting borders: externalising migrant vulnerabilities and 
+rights? brussels:redcrosseuoffice.http://www.redcross.eu/en/news-events/
+news-room/previous-news/rceu-publication-shifting-borders-
+booklet/.
+
+australiaasylum:whyisitcontroversial?2016.bbc news,april29.http://www.bbc.
+
+com/news/world-asia-28189608.
+
+betts, alexander. 2010. towards a soft law framework for the protection of vulnerable 
+irregular  migrants.  international  journal  of  refugee  law  22(2).  https://doi.
+org/10.1093/ijrl/eeq018.
+
+carcamo, cindy. 2014a. elite honduran unit works to stop flow of children to the u.s. 
+los angeles times,july9.http://www.latimes.com/world/mexico-americas/la-fg-
+ff-honduras-border-20140709-story.html#page=1.
+
+. 2014b. wrenches thrown into careful plans to flee honduras. los angeles 
+times, october 12. http://www.latimes.com/world/mexico-americas/la-fg-ff-
+honduras-journey-narrative-20141012-1-story.html#page=1.
+
+the  coalition.  2013.  the  coalitions  policy  for  a  regional  deterrence  framework  to 
+combatpeoplesmuggling.barton,australia:thecoalition.http://www.nationals.
+org.au/portals/0/2013/policy/13-08-23%20the%20coalition%e2%80%99s%20
+policy%20for%20a%20regional%20deterrence%20framework%20to%20
+combat%20people%20smuggling.pdf.
+
+council of the european union. 2005. presidency conclusions of the brussels european 
+council. brussels: council of the european union. http://www.statewatch.org/
+news/2005/dec/eu-summit-concl-dec-05.pdf.
+
+crpeau,  franois.  2013.  regional  study:  management  of  the  external  borders  of  the 
+european union and its impact on the human rights of migrants.geneva:office
+of the united nations high commissioner for human rights.
+
+dos(usdepartmentofstate).1994.us-cubajointcommuniqueonmigration.dispatch.
+new york: september 9. http://heinonline.org/hol/landingpage?handle=hein.
+journals/dsptch12&div=87&id=&page.
+
+212
+
+journal on migration and human security.2012.programandbudgetguidefy2013.washington,dc:dos,bureauof
+
+internationalnarcoticsandlawenforcementaffairs.
+
+.2015.meetingoninterdictioninthecaribbean,attendedbybillfrelick,october
+
+29.
+
+. foreign operations and related programs. 2016. budget justification for fy
+
+european  commission.  2005.  communication 
+
+2016.washington,dc:dos.http://www.state.gov/s/d/rm/rls/ebs/2016/.
+the  commission 
+
+the 
+council  and  the  european  parliament  on  regional  protection  programmes. 
+brussels: european commission. http://eur-lex.europa.eu/legal-content/en/
+txt/?uri=celex:52005dc0388.
+
+from 
+
+to 
+
+.  2015.  president  juncker  launches  the  eu  emergency  trust  fund  to  tackle 
+root causes of irregular migration in africa. press release. brussels: european 
+commission.http://europa.eu/rapid/press-release_ip-15-6055_en.htm.
+
+.  2016a.  eu-turkey  statement.  press 
+
+european
+releases/2016/03/18-eu-turkey-statement/.
+
+commission.
+
+release,  march  18.  brussels: 
+http://www.consilium.europa.eu/en/press/press-
+
+.  2016b.  communication  from  the  commission  to  the  european  parliament, 
+the  european  council  and  the  european  investment  bank  on  establishing  a 
+new partnership framework with third countries under the european agenda 
+on migration. strasbourg: european commission. http://ec.europa.eu/dgs/
+home-affairs/what-we-do/policies/european-agenda-migration/proposal-
+implementation-package/docs/20160607/communication_external_aspects_eam_
+towards_new_migration_ompact_en.pdf.
+
+frelick, bill. 1991. running the gauntlet: the central american journey through mexico. 
+u.s. committee for refugees january. quoting internal ins memorandum. 1988.
+______.1996.whosonfirst?thecanada-u.s.memorandumofagreementonasylum.
+
+interpreter releases (73, 8), february 26. 
+
+. 2005. abundantly clear: refoulement. georgetown immigration law journal 
+
+19(2).
+
+. 2015a. tone down the scaremongering over migrants. newyork: human
+https://www.hrw.org/news/2015/08/10/dispatches-tone-down-
+
+rights watch.
+scaremongering-over-migrants. 
+
+. 2015b. time to ditch dublin: shift the migrant burden to the country of first 
+
+application, not first arrival. politico. september 8.
+
+gammeltoft-hansen, thomas. 2011. access to asylum: international refugee law and 
+the globalization of migration control. cambridge: cambridge university press.
+https://doi.org/10.1017/cbo9780511763403. 
+
+.  2014.  the  law  and  politics  of  non-entre.  lecture  given  at  the  university 
+
+213
+
+the impact of externalization of migration controlsof oxford, june 4. http://www.rsc.ox.ac.uk/events/the-law-and-politics-of-non-
+entree.
+
+gordon, michael r. 1994. in shift, u.s. will no longer admit haitians at sea. the new 
+york  times, july 6. http://www.nytimes.com/1994/07/06/world/in-shift-us-will-
+no-longer-admit-haitians-at-sea.html.
+
+guatemala  human  rights  commission.  2015.  civil  society  organizations  express 
+urgent concerns about proposed alliance for prosperity plan for the northern 
+triangle  during  summit  of  the  americas. http://www.ghrc-usa.org/wp-content/
+uploads/2015/04/final-letter-to-presidents-at-summit-of-the-americas.pdf.
+
+haddad, emma. 2008. the external dimension of eu refugee policy: a new approach 
+toasylum?government and opposition 43(190). https://doi.org/10.1111/j.1477-
+7053.2007.00250.x.
+
+hasham, nicole. 2016. blow to australias $55 million cambodia deal as two more 
+refugees quit. sydney morning herald,may8.http://www.smh.com.au/federal-
+politics/political-news/blow-to-australias-55-million-cambodia-deal-as-two-
+more-refugees-reportedly-leave-20160308-gnda8q.html.
+
+hathaway,  james  c.  2002.  refugee  law  is  not  immigration  law.  world  refugee 
+
+survey:38-45.
+
+. 2005. the rights of refugees under international law. cambridge: cambridge 
+
+university press.
+
+honduras  amuralla  con  militares  las  fronteras  hacia  guatemala.  la  tribuna,  july 
+http://www.latribuna.hn/2014/07/29/honduras-amuralla-con-militares-las-
+
+29.
+fronteras-hacia-guatemala/.
+
+hrw(humanrightswatch).2002.byinvitationonly:australianasylumpolicy.
+
+december 14(10): 62-65. 
+
+. 2006. european union: managing migration means potential eu complicity in 
+neighboring states abuse of migrants and refugees.newyork:hrw.https://
+www.hrw.org/report/2006/10/17/managing-migration-means-potential-eu-
+complicity-neighboring-states-abuse-migrants. 
+
+. 2009. pushed back, pushed around: italys forced return of boat migrants and 
+asylum seekers, libyas mistreatment of migrants and asylum seekers. new york: 
+hrw.https://www.hrw.org/report/2009/09/21/pushed-back-pushed-around/italys-
+forced-return-boat-migrants-and-asylum-seekers.
+
+. 2010. buffeted in the borderland: the treatment of asylum seekers and migrants 
+in  ukraine. new york: hrw. https://www.hrw.org/report/2010/12/16/buffeted-
+borderland/treatment-asylumseekers-and-migrants-ukraine.
+
+.2014.australia:pacificsolutionredux:stilldiscriminatory,arbitrary,unfair,
+inhumane. new york: hrw. https://www.hrw.org/news/2012/08/17/australia-
+pacific-solution-redux.
+
+214
+
+journal on migration and human security.  2015.  world  report  2015:  australia. new york: hrw. https://www.hrw.org/
+
+world-report/2015/country-chapters/australia.
+
+.  2016a.  turkey:  let  stranded  syrians  seek  protection:  45,000  caught 
+betweenaleppo fighting and border. newyork: hrw. https://www.hrw.org/
+news/2016/02/10/turkey-let-stranded-syrians-seek-protection.
+
+.  2016b.  closed  doors:  mexicos  failure  to  protect  central  american  refugee 
+and migrant children.newyork:hrw.https://www.hrw.org/report/2016/03/31/
+closed-doors/mexicos-failure-protect-central-american-refugee-and-migrant-
+children. 
+
+.2016c.turkey:openbordertosyriansfleeingisis:atleast30,000trapped
+amid northern syrian fighting. new york: hrw. https://www.hrw.org/
+news/2016/04/14/turkey-open-borders-syrians-fleeing-isis.
+
+.  2016d.  papua  new  guinea: address abuses  at  un  review:  make  good  on 
+commitmenttoclosemanusdetentioncenter.newyork:hrw.https://www.
+hrw.org/news/2016/05/04/papua-new-guinea-address-abuses-un-review.
+
+. 2016e. eu: dont send syrians back to turkey: lack of jobs, school, health 
+care  spurs  poverty,  exploitation.  new  york:  hrw.  https://www.hrw.org/
+news/2016/06/20/eu-dont-send-syrians-back-turkey.
+
+hyndman,jennifer,andalisonmountz.2008.anotherbrickinthewall?neo-refoulement
+and  the  externalization  of asylum  by australia  and  europe.  government  and 
+opposition 43(249). https://doi.org/10.1111/j.1477-7053.2007.00251.x. 
+
+ifrc (international federation of red cross and red crescent societies). 2015. statement 
+
+on the valletta summit on migration. 
+
+ilc (international law commission). 2001. draft articles on responsibility of states for 
+internationally wrongful acts.gaor53rdsess.a/56/10.http://legal.un.org/ilc/
+texts/instruments/english/commentaries/9_6_2001.pdf.
+
+imbr (international migrants bill of rights). 2014. georgetown immigration law journal 
+
+28:9-22. http://www.law.georgetown.edu/academics/centers-institutes/isim/
+imbr/imbr-tools/upload/03-international-migrants-bill-of-rights.pdf.
+
+imo(internationalmaritimeorganization).2004.guidelines on the treatment of persons 
+rescued  at  sea.  maritime  safety  committee.  may  20.  doc.  resolution  msc. 
+167(78), annex 34.
+
+isaacson, adam, maureen meyer, and gabriela morales. 2014. mexicos other border: 
+security, migration, and the humanitarian crisis at the line with central america. 
+washington,dc:washingtonofficeonlatinamerica.http://www.wola.org/files/
+mxgt/report/.
+
+jesuitconferenceoftheunitedstatesandcanadaandthewashingtonofficeonlatin
+america. 2014. support and assistance for interdictions, interceptions and border 
+
+215
+
+the impact of externalization of migration controlssecurity measures in mexico, honduras, and guatemala undermine access to 
+international  protection.  written  testimony  presented  to  the  inter-american 
+commission on human rights. http://jesuits.org/assets/publications/file/us_
+border_externalization_2014_v1.pdf.
+
+johnson,  jeh.  2014.  statement  about  the  situation  along  the  southwest  border.  press 
+release. washington, dc: us department of homeland security. http://www.
+dhs.gov/news/2014/09/08/statement-secretary-johnson-about-situation-along-
+southwest-border#.
+
+jones,janelle,andlisaroney.1989.operationholdthelinesucceedsincuttingthe
+flow of illegals into south texas. commissioners communique. washington, 
+dc: immigration and naturalization service.
+
+kcirl  (andrew  and  renata  kaldor  centre  for  international  refugee  law).  2014. 
+legislative  brief:  migration  and  maritime  powers  legislation  amendment 
+(resolving the asylum legacy caseload) act 2014. sydney: university of new 
+south wales. http://www.kaldorcentre.unsw.edu.au/sites/default/files/homepage/
+legislative_brief_migration_amendment_resolving_the_asylum_legacy_
+caseload_act_rev_5_12_014.pdf.
+
+. 2015. turning back boats factsheet. sydney: university of new south wales. 
+
+http://www.kaldorcentre.unsw.edu.au/publication/%e2%80%98turning-back-
+boats%e2%80%99.
+
+kirici, kemal. 2005. to  lift  or  not  to  lift  the  geographical  limitation  to  the  1951 
+geneva convention relating to the status of refugees: turkeys pre-accession to 
+the eu and asylum. http://edam.org.tr/document/kirisci2.pdf.
+
+korthuis, aaron.  2014.  the  central america  regional  security  initiative  in  honduras. 
+workingpaperpreparedforthewoodrowwilsoncenter,september.https://www.
+wilsoncenter.org/sites/default/files/carsi%20in%20honduras.pdf.
+
+magner,tara2004.alessthanpacificsolutionforasylumseekersinaustralia.
+
+international journal of refugee law 16(1). https://doi.org/10.1093/ijrl/16.1.53.
+
+mattila, heikki s. 2000. protection of migrants human rights: principles and practice. 
+
+international migration 38(53).
+
+monroy, jorge. 2015. desaparecen coordinacin de temas migrantes. el economista, 
+http://eleconomista.com.mx/sociedad/2015/08/06/desaparecen-
+
+6.
+
+august
+coordinacion-temas-migrantes. 
+
+noll,  gregor.  2015.  visions  of  the  exceptiona.  open  democracy,  september  28, 
+repostedfromjune2003.https://www.opendemocracy.net/gregor-noll/visions-of-
+exceptional.
+
+norman, jane. 2015. tony abbott urges europe to adopt stronger border protection 
+policies  following  migrant  boat  sinkings.  radio  australia, april 21. http://
+www.radioaustralia.net.au/international/2015-04-21/tony-abbott-urges-
+
+216
+
+journal on migration and human securityeurope-to-adopt-stronger-border-protection-policies-following-migrant-boat-
+sinking/1439284.
+
+nyt  editorial  board.  2015.  central americas  unresolved  migrant  crisis.  new  york 
+times, june 16. http://www.nytimes.com/2015/06/16/opinion/central-americas-
+unresolved-migrant-crisis.html?_r=0.
+
+ogata,sadako.1995.statementtothethirdcommitteeoftheunitednationsgeneral
+assembly,  november  20.  new  york:  united  nations.  http://www.unhcr.
+org/3ae68fbe0.html. 
+
+orozco,manuelandjuliayansura.2015.removed,returnedandresettled:challenges
+of  central american  migrants  back  home.  washington,  dc:  inter-american 
+dialogue. 
+http://www.thedialogue.org/wp-content/uploads/2015/10/central-
+america-return-migration_final_formatted.pdf.
+
+ostrand,nikki.2014.immigration control beyond australias border. new york: center 
+for migration studies. http://cmsny.org/immigration-control-beyond-australias-
+border/.
+
+parliament of australia. 2014. a comparison of coalition and labor government asylum 
+policies in australia since 2001.canberra:parliamentofaustralia.http://www.
+aph.gov.au/about_parliament/parliamentary_departments/parliamentary_
+library/pubs/rp/rp1314/asylumpolicies.
+
+phillips, nicholas. 2014. carsi in guatemala: progress, failure, and uncertainty. working 
+paper prepared for the woodrow wilson center, september 10. https://www.
+wilsoncenter.org/publication/carsi-guatemala-progress-failure-and-uncertainty. 
+
+plaut,  martin.  2015.  europe  dealing  with  african  dictators  to  keep  migrants  out. 
+worldpress.com, may 16. https://martinplaut.wordpress.com/2016/05/16/europe-
+dealing-with-african-dictators-to-keep-migrants-out/.
+
+poder ejecutivo: secretaria de gobernacin: decreto por el que se crea la coordinacin 
+para  la  atencin  integral  de  la  migracin  en  la  frontera  sur.  2014.  official 
+gazette of mexico, july 8.
+
+podkul,  jennifer,  and  ian  kysel.  2015.  interdiction,  border  externalization,  and  the 
+protection  of  the  human  rights  of  migrants.  working  paper  prepared  for the 
+inter-american commission on human rights, october 22. https://www.law.
+georgetown.edu/academics/centers-institutes/human-rights-institute/our-work/
+projects/upload/wrc-hri-border-externalization_oct-2015.pdf.
+
+rais,  mehdi.  2016.  european  union  readmission  agreements.  forced  migration 
+review 51(january).http://www.fmreview.org/sites/fmr/files/fmrdownloads/en/
+destination-europe/rais.pdf.
+
+secretaria  de  gobernacion.  2013.  boletn  mensual  de  estadsticas  migratorias  2013. 
+unidaddepolticamigratoriacentrodeestudiosmigratorios.d.f,mexico.http://
+www.wola.org/files/2013_inm_stats.pdf.
+
+217
+
+the impact of externalization of migration controls.  2014.  boletn  mensual  de  estadsticas  migratorias  2014.  unidad  de  poltica 
+migratoria centro de estudios migratorios. d.f, mexico. http://www.wola.org/
+sites/default/files/boletin2014_.pdf.
+
+seelke, clare ribando, and kristin finklea. 2013. u.s.-mexican security cooperation: 
+the  mrida  initiative  and  beyond.  washington,  dc:  congressional  research 
+service.
+http://www.law.umaryland.edu/marshall/crsreports/crsdocuments/
+r41349_06122013.pdf.
+
+.  2015.  u.s.-mexican  security  cooperation:  the  mrida  initiative  and  beyond. 
+washington, dc: congressional research service. https://www.fas.org/sgp/crs/
+row/r41349.pdf.
+
+seper, jerry. 2004. coast guard repatriates haitians. washington times, february 28.
+spijkerboer, thomas.  2013.  moving  migrants,  states,  and  rights:  human  rights  and 
+
+migrant death. law and ethics of human rights 7-2.
+
+stillman,amy.2015.mexicosminefieldformigrants.irin,june29.http://newirin.
+
+irinnews.org/mexico-minefield-migrants.
+
+taft-morales, maureen, and mark p. sullivan. 1993. haiti: the struggle for democracy 
+and congressional concerns in 1993. issue brief no. 1b93036. washington, dc: 
+congressional research service. 
+
+unfpa (united nations population fund). 2016. migration. http://www.unfpa.org/
+
+migration.
+
+unhcr (united nations high commissioner for refugees) executive committee. 1979. 
+refugees without an asylum country. no.85(xxx).http://www.unhcr.org/en-us/
+excom/exconc/3ae68c960/refugees-asylum-country.html.
+
+unhcr. 1984. unhcr cartagena declaration on refugees, november 22. unhcr, 
+
+http://www.unhcr.org/about-us/background/45dc19084/cartagena-declaration-
+refugees-adopted-colloquium-international-protection.html. 
+
+. 1993. un high commissioner for refugees responds to u.s. supreme court 
+
+decision in sale v. haitian centers council. international legal materials 32.
+
+.  2003.  summary  conclusions  on  the  concept  of  effective  protection  in  the 
+context  of  secondary  movements  of  refugees  and  asylum  seekers.  libson: 
+unhcrhttp://www.refworld.org/docid/3fe9981e4.html.
+
+.  2007a.  unhcr,  refugee  protection  and  international  migration.  geneva: 
+
+unhcr.http://www.unhcr.org/4a24ef0ca2.pdf.
+
+. 2007b. advisory opinion on the extraterritorial application of non-refoulement 
+obligations under the 1951 convention relating to the status of refugees and its 
+1967 protocol.geneva:unhcr.http://www.unhcr.org/4d9486929.html.
+
+. 2010.  submission  by  the  united  nations  high  commissioner  for  refugees  for 
+the  office  of  the  high  commissioner  for  human  rights  compilation  report  - 
+
+218
+
+journal on migration and human securityuniversal periodic review: papua new guinea.geneva:unhcr.http://www.
+refworld.org/pdfid/4ccfe3cf2.pdf.
+
+. 2012a. unhcr comments on the european commissions amended proposal for 
+a directive of the european parliament and of the council on common procedures 
+for  granting  and  withdrawing  international  protection  status  (recast)  com 
+(2011)  319  final. geneva: unhcr. http://www.refworld.org/docid/4f3281762.
+html.
+
+. 2012b. unhcr mission to the republic of nauru: 3-5 december report. canberra: 
+unhcr. http://reliefweb.int/sites/reliefweb.int/files/resources/2012-12-14%2bn
+auru%2bmonitoring%2breport%2bfinal.pdf.
+
+.  2014.  world  at  war:  unhcr  global  trends  forced  displacement  in  2014. 
+
+geneva:unhcr.http://www.unhcr.org/556725e69.html.
+
+.2016a.unhcrdataportalgreece.https://t.co/0a9ga4dzg3.
+.  2016b.  unhcr  refugees  and  migrants    frequently  asked  questions. 
+http://www.unhcr.org/uk/news/latest/2016/3/56e95c676/refugees-
+
+unhcr.
+migrants-frequently-asked-questions-faqs.html. 
+
+. 2016c. global trends: forced displacement in 2015. geneva: unhcr. http://
+www.unhcr.org/en-us/news/latest/2016/6/5763b65a4/global-forced-displacement-
+hits-record-high.html
+
+. 2016d. refugees/migrants emergency response-mediterranean. http://data.
+
+unhcr.org/medportalviz/dist/.
+
+unhrc (un human rights committee). 1992. general comment no. 20 (1992),hri/
+
+gen/1/rev.1,28july1994.
+
+. 2004. general comment no. 31 [80]. the nature of the general legal obligation 
+imposed  on  states  parties  to  the  covenant. ccpr/c/21/rev.1/add.13. http://
+www.refworld.org/docid/478b26ae2.html.
+
+unodc(unitednationsofficeondrugsandcrime).2004.united nations convention 
+against transnational organized crime and the protocols thereto. vienna, austria: 
+unodc.
+https://www.unodc.org/documents/treaties/untoc/publications/
+toc%20convention/tocebook-e.pdf.
+
+. 2015. migrant smuggling in asia: current trends and related challenges. bangkok, 
+thailand: unodc. http://www.unodc.org/documents/southeastasiaandpacific/
+publications/2015/som/current_trends_and_related_challenges_web.pdf.
+
+unohchr(unitednationsofficeofthehighcommissioneronhumanrights).2014.
+recommended  principles  and  guidelines  on  human  rights  at  international 
+borders.geneva,switzerland:ohchr.http://www.ohchr.org/documents/issues/
+migration/ohchr_recommended_principles_guidelines.pdf.
+
+us  embassy-mexico.  2014.  the  mrida  initiativean  overview.  fact sheet. http://
+
+219
+
+the impact of externalization of migration controlsphotos.state.gov/libraries/mexico/310329/july2014/merida-initiative-overview-
+jul14.pdf.
+
+villegas,  paulina,  and  randal  c. archibold.  2014.  mexico  makes  route  tougher  for 
+migrants. new york times, september21.http://www.nytimes.com/2014/09/22/
+world/americas/mexico-makes-route-tougher-for-migrants.html.
+
+vonsternberg,markr.2014.reconfiguringthelawofnon-refoulement:procedural
+and  substantive  barriers  for  those  seeking  to  access  surrogate  international 
+human rights protection. journal on migration and human security (2)4. http://
+dx.doi.org/10.14240/jmhs.v2i4.39.
+
+wasem, ruth ellen. 2011. u.s. immigration policy on haitian migrants. washington, dc: 
+congressional research service, january 21. http://www.uscg.mil/history/docs/
+crs/crs_rs21349.pdf.
+
+whitehouse.2014a.letterfromthepresidenteffortstoaddressthehumanitarian
+situation in the rio grande valleyareas of our nations southwest border.
+washington, dc: white house, office of the press secretary. https://www.
+whitehouse.gov/the-press-office/2014/06/30/letter-president-efforts-address-
+humanitarian-situation-rio-grande-valle. 
+
+.  2014b.  letter  from  the  president    regarding  emergency  supplemental 
+appropriations  request  to address  the  increase  in  child  and adult  migration 
+from central america in the rio grande valley areas of the southwest border; 
+andwildfire suppression.washington, dc:white house, office of the press
+secretary.
+https://www.whitehouse.gov/the-press-office/2014/07/08/letter-
+president-regarding-emergency-supplemental-appropriations-request.
+
+.2015a.theobamaadministrationsgovernment-wideresponsetoinfluxof
+central american  migrants  at  the  southwest  border.  washington,  dc:  white 
+house, office of the press secretary. https://www.whitehouse.gov/the-press-
+office/2014/08/01/obama-administration-s-government-wide-response-influx-
+central-american-.
+
+. 2015b. remarksby presidentobamaandpresidentpeanietoafterbilateral
+meeting.washington, dc:white house, office of the press secretary. https://
+www.whitehouse.gov/the-press-office/2015/01/06/remarks-president-obama-and-
+president-pe-nieto-after-bilateral-meeting.
+
+220
+
+journal on migration and human security

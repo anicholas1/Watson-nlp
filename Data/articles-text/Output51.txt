@@ -1,0 +1,1880 @@
+identifying and measuring 
+the lifelong human capital 
+of unskilled migrants in the 
+mexico-us migratory circuit1 
+
+jacqueline hagan
+university of north carolina at chapel hill
+
+jean luc demonsant 
+ceps/instead, centre for population, poverty and public policy studies 
+
+sergio chvez 
+rice university
+
+executive summary
+most human capital and migration studies classify migrants with limited 
+formal  education  as  unskilled,  despite  substantial  skills  developed 
+through  job  and  life  experiences.    drawing  on  a  binational  multi-stage 
+research project that involved interviews with 320 mexican migrants and 
+return migrants in north carolina and guanajuato, mexico, we identify 
+the lifelong human capital they acquired and transferred throughout their 
+careers and discover that these include not only basic education and english, 
+but also technical and social skills and competences acquired informally on 
+and off the job throughout the course of ones life.  we further find that the 
+learning and transfer of skills is a lifelong, gendered process, reflecting 
+the different social contexts and jobs in which men and women learn. in 
+this  paper  we  document  several  mobility  pathways  associated  with  the 
+acquisition and transfer of skills across the migratory circuit, including 
+reskilling, occupational mobility, job jumping, and entrepreneurship. 
+our study has broad implications for the migration policies of both the 
+us  and  mexico.  us  immigration  policy  confers  preference  to  skilled 
+immigrants who rank high on traditional human capital characteristics, 
+such as education levels and other formal credentials, but limits the entry 
+1 please send all correspondence to jacqueline hagan, department of sociology, university of north carolina 
+at  chapel  hill,  chapel  hill,  nc  27599-3210.  funding  for  this  project  was  provided  by  grants  from  the 
+unc carolina population center, the unc research council, the research program of the mexican higher 
+education secretary (promep-sep), and a woodrow wilson fellowship. we are grateful to the team of field 
+workers: jonathan moreno gmez, gabriel gutirrez olvera, ftima del rayo ornelas ramrez, christian 
+palacios morales, erika rodrguez ortega, ruy valds benavides, brianna mullis, and andrea perdoma. we 
+would like to also thank joshua wassink, annie lee, holly straudt-epsteiner, luis fernando lpez ornelas, 
+and miguel leboreiro for research provided with data management and analysis.
+
+ 2014 by the center for migration studies of new york. all rights reserved.jmhs volume 2 number 2 (2014): 76-100 of  unskilled  migrants,  a  categorization  that  ignores  the  substantial 
+informal skills they bring to us labor markets.  instead of focusing only 
+on the continued expansion of immigration policy preferences for narrowly 
+defined  skilled  migrants,  the  us  government  needs  to  consider  more 
+carefully  what  we  mean  by  skilled  workers  and  design  fairer  and  more 
+effective  immigration  policies  that  match  their  abilities  to  the  specific 
+needs  of  us  industry  and  thereby  recognize  the  economic  contributions 
+of all migrants within a lifelong human capital framework.  mexico can 
+also  learn  from  our  findings.  between  2005  and  2010  an  estimated  1.4 
+million  mexicans returned to mexico from the us, a figure roughly double 
+the  number  who  had  returned  in  the  five-year  period  a  decade  earlier 
+(passel et al. 2012). the government of mexico has a history of developing 
+programs to provide for mexicans abroad and encourage their remittances. 
+our research indicates that the mexican people and their economy would 
+benefit by supporting entrepreneurial ventures and reintegration programs 
+that recognize and reward the enhanced skill sets of return migrants. as 
+we show, some of these individuals are able to fill valued positions and start 
+businesses of their own, creating more jobs in their home communities and 
+thus promoting local economic development.
+
+introduction
+star and strauss (1999) have described the manner in which the public has viewed low-wage 
+workers in the service sector as non-people, despite the value of their work experience and 
+interpersonal skills.  the low degree of social recognition of these skills contributes to their 
+low status. nowhere is this truer than in the perception of unskilled migrants, especially 
+unauthorized immigrants with low levels of formal education.  scholars of migration fall 
+into the same trap, regularly classifying migrants into two groupsskilled and unskilled 
+based solely on easy-to-measure attributes and certifications. 
+the evidence in this paper challenges the narrative of the unskilled migrant by unpacking 
+and elucidating what the category of unskilled really covers. drawing on 120 in-depth 
+interviews  conducted  in  north  carolina  and  guanajuato  and  a  survey  of  200  returned 
+migrants in len, mexico, we identify the total human capital that migrants with low levels 
+of education acquire, transfer, and use throughout their migratory careers.  this lifelong 
+human capital not only includes easy-to-measure or observable components of traditional 
+human capital such as education and on-the-job training, but also technical and social skills 
+that are harder to measure and learned away from the classroom, skills that can influence 
+mobility pathways. we structure our analysis around three research questions: 
+1. what human capital skills do migrants with low levels of education possess, and how 
+are these skills acquired? 
+2. which job experiences and skills learned in mexico lead to better job opportunities in 
+the united states? which skill sets learned in the united states transfer to mexico?
+3. how do social and industrial contexts shape how skills are transferred?
+
+77
+
+identifying and measuring the lifelong human capital of unskilled migrants integrating  migration,  human  capital,  and  learning 
+approaches 
+our theoretical approach engages two literatures that have had very limited collaboration: 
+international  migration  and  human  capital  transfers,  and  learning  and  knowledge 
+transactions. the standard human capital model of socioeconomic attainment sees migration 
+as an investment in which returns are balanced against costs (sjastaad 1962; harris and 
+todaro 1970).  recent immigrants in foreign labor markets generally earn lower wages than 
+the native-born because the human capital acquired in countries of origin is undervalued 
+or unrecognized in places of destination.  with the acquisition of country-specific human 
+capital  such  as  language  proficiency,  education,  and  professional  credentials,  however, 
+immigrants  can  achieve  occupational  mobility  and  wage  growth  (chiswick  and  miller 
+1986; borjas 1990).  immigrants who do not possess these attributes are often trapped 
+and exploited in unregulated industries in the secondary labor market (castells and portes 
+1989; zlolinski 1994; flippen 2012). 
+human capital theory recognizes that the skills acquired abroad can facilitate economic 
+mobility  upon  return    (williams  and  balaz  2005;  dustmann  and weiss  2007).    return 
+migrants can benefit economically from the acquisition of formal human capital abroad, 
+including  schooling  and  english  language  (dustmann  and  kirchkamp  2002).    return 
+migrants experience the most economic gains when their jobs match their us occupations 
+(zahniser and greenwood 1998) and are also more likely than non-migrants to engage in 
+entrepreneurial activities, but most studies credit this difference to duration abroad, savings, 
+and  number  of  foreign  jobs  (dustmann  and  kirchkamp  2002;  mesnard  and  ravallion 
+2006), not skills transfers. finally, source countries can gain from the opportunities that its 
+emigrants have to acquire skills abroad (dustmann and weiss 2007).
+the scholarship on international migration and human capital acquisitions and transfers 
+remains incomplete for three reasons.  first, although human capital theory recognizes 
+that  human  capital  refers  to  both  an  individuals  stock  of  observable  skills  (schooling, 
+post-schooling training, language capital) as well as unobservable skills (pre-labor market 
+influences,  innate  abilities),  data  requirements  compel  most  empirical  studies  to  rely 
+largely on formal qualifications and credentials as proxies for human capital (chiswick 
+1986, borjas 2000, among others).  this practice encourages a dichotomy of skilled and 
+unskilled or low-skilled (williams 2006; 2007a). 
+in contrast, the scholarship on learning and knowledge transfers recognizes and studies 
+many different types of knowledge (williams 2006).  because this literature has focused 
+primarily on codifiable knowledge, it theoretically captures the technical (high levels of 
+symbolic manipulations) and routine (repetitive work) but ignores what polyani (1966) 
+terms tacit knowledge (knowledge that cannot be demonstrated in explicit ways), what 
+reich (1992) refers to as social skills (those that facilitate communication) or what evans 
+(2002) refers to as competences (communication skills; skills related to values and attitudes, 
+such as responsibility and reliability; and practical competences, such as willingness to 
+follow through and carry out tasks). 
+a second weakness of scholars working in the human capital framework is that they rely 
+primarily  on  skills  that  are  learned  in  formal  institutional  settings,  such  as  on-the-job 
+
+78
+
+journal on migration and human securitytraining programs, educational settings, and vocational programs, thus favoring the study 
+of  knowledge  acquired  by  highly-educated  migrants  at  the  schooling  and  employment 
+stages of their lives. in contrast, there is broad recognition in the learning and knowledge 
+literature that all learning is socially situated and therefore shaped by work and culture 
+(blackler 2002) and, as beckett (2000) points out and we document, learning is a lifelong 
+process that is not bound by employment. 
+a  third  omission  of  human  capital  scholars  is  that  they  have  focused  primarily  on  the 
+acquisition of formal human capital in the host country, neglecting the learning and transfer 
+of skills beyond education from the home country (but see akresh 2006; hernndez len 
+2004; hagan, lowe, and quingla 2011).  by not accounting for source country on- and off-
+the-job human capital investments, researchers ignore the value of home country skills for 
+learning new ones and the role that skill transfers potentially play in the learning and work 
+experiences of immigrants and return migrants.  
+we argue that the skills acquired and gains made by mexican migrants have to be understood 
+in the context of lifelong human capital. like the creating capabilities approach of human 
+development  (nussbaum  2011),  lifelong  human  capital  focuses  on  the  capabilities  of 
+individuals that cannot be limited to standardized metrics. migrants with low levels of 
+education often develop new skills informally through interaction and observation on and 
+off the job that include the transfer of knowledge, tacit skills, and technical know-how that 
+cannot be expressed or measured in explicit terms (polanyi 1966; waldinger and lichter 
+2003). skill development is also a gendered process: the social contexts in which men and 
+women learn and work are different. rather than viewing skill acquisition as stage-specific, 
+we conceptualize the accumulation of human capital skills as a lifelong social process that 
+is embedded in social networks, families, communities, and labor markets at both ends of 
+the migratory stream.  international migration provides the opportunity to learn and apply 
+these lifelong skills.
+this  broader  perspective  on  human  capital  has  implications  for  how  we  define  and 
+measure skills and also how we think about economic mobility, which is usually measured 
+through wage increases or occupational change using cross-sectional data at one stage of 
+the migration circuit.  we argue that skill acquisition should be considered as a mobility 
+pathway in and of itself.  as we demonstrate, skills acquired at one stage of the migratory 
+cycle can create individual labor market opportunities at another stage. we identify several 
+mobility pathways associated with learning and transferring skills across the migratory 
+circuit, including skill upgrading, job transitions, and entrepreneurship.
+
+research design, study sites, and survey sample
+this  five-year  research  project  included  two  stages  of  exploratory  fieldwork  followed 
+by a survey of a representative sample of return migrants in the industrial city of len, 
+guanajuato.2  in stage one (2007-08), we focused on skill acquisition and transferability 
+
+2  this paper is part of a larger book project that draws on in-depth interviews, worksite observations, and a 
+representative survey of return migrants to examine the formulation of human capital across the us-mexico 
+migratory  circuit  (hagan,  hernndez  len,  and  demonsant  forthcoming  2015,  university  of  california 
+press).
+
+79
+
+identifying and measuring the lifelong human capital of unskilled migrants among  immigrants  working  in  the  construction  and  building  trades  in  north  carolina, 
+interviewing 50 migrant workers. in stage two (2009), we traveled to guanajuato, mexico 
+and  interviewed  70  return  female  and  male  migrants  working  in  different  occupations, 
+industries, and communities. in stage three (2010), we drew on our qualitative findings 
+and developed a survey instrument that captures skill acquisitions across the usmexico 
+migratory  circuit,  detailing  work  experiences,  learning  techniques,  and  skill  transfers 
+before migration, while abroad, and upon return. we selected len, a city of 1.3 million 
+inhabitants known as the leather and shoe capital of mexico, as the survey site because of 
+its diverse industrial base to capture a range of total human capital and to explore various 
+opportunities for economic mobility. 
+because  the  mexican  census  includes  a  question  on  whether  any  current  household 
+members were living abroad five years ago, we could identify return migrants at the block 
+level in len. we drew a random sample of the blocks where return migrants were identified 
+in the census, and in summer 2010, a team of six mexican undergraduate students visited a 
+total of 77 blocks to obtain a sample of 200 return migrants.3 the 200 interviews averaged 
+an hour-and-a-half and included closed- and open-ended questions that captured detailed 
+job and migration histories.  beginning with the three-digit codes provided by the mexican 
+census, we developed more detailed occupational and self-employment codes, depending 
+on skill level and number of job tasks. finally, we developed skill level codes for each 
+occupation (table 1).  the data in this paper are from the len survey of 200 respondents. 
+
+sample profile and context of departure and return   
+
+table 2 profiles the len return migrants. most return migrants in the sample are men, 
+which is consistent with other studies of return migration that find mexican women are 
+more likely than men to stay longer or settle permanently in the us, often migrating for 
+purposes of joining a spouse or another family member (ruiz-tagle and wong 2009).  as 
+table 2 shows, the return migrants in the len sample possess low levels of traditional 
+human capital based on years of formal education, a finding that is consistent with the 
+standard literature that reports return migrants have lower levels of education than mexicans 
+who stay in the us (ruiz-tagle and wong 2009). despite their relatively low levels of 
+education, the len returnees have considerable total human capital as measured by work 
+experience, having entered the labor force an average of 22 years ago. ninety percent of 
+the sample originated from len. 
+table 3 lists the primary reasons for the first migration to the united states and for the 
+return to mexico for the last trip.  as predicted by neoclassical economic theory, economic 
+factors rank high among respondents reasons. compared to men, women more often cited 
+social reasons for migrating, including joining a family member, usually a spouse, a reason 
+that  the  literature  reflects  (donato  1993;  hondagneu-sotelo  1994). yet  close  to  half  of 
+the women cited economic reasons behind their migration. in recent decades economic 
+restructuring and the subsequent rise of female-intensive industries in the us has pulled 
+an increasing number of women from guanajuato to the us labor market (arias and pea   
+3  although we did survey a sample of 200 non-migrants in len, the purpose of this paper is to examine 
+the labor market experiences of individuals before and after migration. in a paper in progress, we conduct a 
+comparative analysis of the labor market pathways of return migrants and non-migrants.
+
+80
+
+journal on migration and human securitytable  1.  total  human  capital  and  learning  context  variables 
+developed and used in analysis
+
+variable
+formal education
+
+english
+
+on-the-job learning
+
+off-the-job learning
+
+definition
+years of education.
+
+return migrants who reported sufficient knowledge of english that 
+they considered it a marketable skill.
+
+on-the-job technical skills learned through observation, interaction, 
+and other informal learning processes (cooking, painting, auto body 
+repair). 
+
+technical skills acquired in the home or in non-work communities 
+of origin (working on a neighbors home, appliance repair, working 
+on the engine of a family car, specialized domestic activities).
+
+social and personal competences 
+
+customer  service  skills,  new  ways  of  approaching  work,  new 
+work  habits  (punctuality),  entrepreneurial  skills  (initiative),  self-
+confidence, leadership skills, teamwork, and follow through. 
+
+skill level 1 
+
+skill level 2 
+
+skill level 3 
+
+self-employment
+
+work that involves repetitive tasks, e.g., dishwasher, leather cutter, 
+laborer who mows lawns.
+
+requires  experience  and  formal  or  informal  training.  involves 
+multitasking or the mastery of a specific skill, e.g., painter, gardener 
+with  multiple  tasks,  such  as  mowing  lawns,  pruning  trees  and 
+building walls.
+
+workers  who  have  experienced  extensive  occupational  mobility 
+over  time  and  mastered  all  skills  within  an  occupation  through 
+extensive formal or informal training, e.g., maestro albail, shoe 
+designer, factory floor supervisor, carpenter, nurse, teacher.
+
+return migrants who reported owning their own businesses. this 
+does not include return migrants who were independent contractors 
+such as albailes, unless they owned a business that was housed in 
+a structure. 
+
+patrn
+
+return migrants who reported owning their own businesses with 
+one or more employees. 
+
+81
+
+identifying and measuring the lifelong human capital of unskilled migrants table 2. profile of return migrant sample
+
+individual characteristics (at time of interview)
+
+total
+(n=200)*
+39.6
+82%
+
+men
+(n=172)
+39.6
+86%
+
+women
+(n=28)
+39.3
+61%
+
+age (mean)
+married 
+education level
+less than primary
+completed primary
+some secondary
+completed secondary
+more than secondary
+work history
+total years since first job (mean)
+years worked prior to first migration (mean)
+years worked since last return (mean)
+migration experience
+year of first migration (mode)
+age at time of first migration to us (mean)
+number of trips to us (mean)
+number of years working in us (mean)
+percent unauthorized in us
+*due to missing values, the number of observations varies for each panel (work history, educational level, 
+reasons for migrating, migration experience, and reasons for return to mexico) from 191 to 199 cases. 
+
+1995
+23.7
+2.6
+4.6
+93%
+
+1995
+23.9
+2.5
+4.4
+92%
+
+25%
+22%
+35%
+11%
+7%
+
+22.4
+7.7
+4.7
+
+29%
+14%
+32%
+18%
+7%
+
+18.5
+5.7
+2.9
+
+26%
+21%
+34%
+12%
+7%
+
+21.8
+7.5
+4.5
+
+1999
+25.3
+1.6
+3.2
+89%
+
+2004). aspirations for self-improvement and adventure also weighed in the decision to 
+migrate; more than a quarter of the len sample cited adventure, curiosity, interest, and 
+opportunities to improve skills. 
+return migration is a relatively recent phenomenon, with 76 percent of our sample coming 
+home after 2001.  fifty-eight percent of the sample returned to mexico between 2006 and 
+2010 in the wake of the great recession and during a period of modest growth in mexico.  
+as table 3 highlights, 10 percent reported that economic concerns in the us drove their 
+return to mexico. eleven percent of the sample were deported after 1996, a year that marks 
+the passage of a number of laws that made it easier to detain and deport migrants (hagan, 
+eschbach, and rodriguez 2008). while the anti-immigrant sentiment and poor economic 
+conditions in the us pushed some migrants to return to mexico, the positive pull factors 
+associated with  going  home  had  more  influence in  return  migration decisions,  findings 
+consistent with the historical evidence on return migration (king 2000). over half cited 
+family as the primary motive behind return, meaning they wanted to rejoin family or 
+kin. a final category that reflects the desire to return home and supports the target income 
+theory is completed goals (massey et al. 1993). 
+
+82
+
+journal on migration and human securitytable  3.  primary  reasons  for  first  migration  and  most  recent 
+return by gender
+primary reasons given
+
+total
+(n=200)
+
+men
+(n=172)
+
+women
+(n=28)
+
+for migration to us
+investing, expanding, business/buying, building, 
+remodeling home
+debt
+economy/work/money
+family/reunification
+self-improvement/opportunities to learn new skills
+adventure/interest in learning about us
+other
+for return to mexico
+family
+lost job/could not find work
+deported
+completed goals
+other (health, nostalgia, discrimination)
+
+6%
+
+4%
+48%
+12%
+9%
+18%
+4%
+
+53%
+10%
+11%
+8%
+18%
+
+6%
+
+4%
+49%
+9%
+9%
+19%
+4%
+
+52%
+9%
+11%
+9%
+19%
+
+4%
+
+4%
+39%
+29%
+7%
+14%
+4%
+
+57%
+14%
+7%
+7%
+15%
+
+findings
+
+social contexts of learning skills in communities of origin 
+
+table 4 features the contexts in which surveyed return migrants acquired their skills and 
+knowledge before migrating to the us.  formal learning captures skills and knowledge 
+acquired  through  a  structured  set  of  learning  experiences  leading  to  credentials  or 
+qualifications that are recognized beyond the workplace or local industry (misko 2008), and 
+are thus more easily transferable across local, regional, and national labor markets. skills 
+acquired in non-formal social contexts refer to those developed by workplaces for purposes 
+of  skill  development,  such  as  on-the-job  training  programs  or  formal  demonstrations 
+by  experienced  co-workers  (misko  2008).  because  non-formal  learning  processes  are 
+developed at workplaces, they usually do not lead to formal qualification or recognition 
+beyond the workplace.  informal learning is unstructured and refers to the acquisition of 
+knowledge that is acquired through everyday work and life.  informal learning is very 
+much  a  social  process.    skills  and  knowledge  are  acquired  through  interacting  with, 
+speaking or listening to or observing more skilled or experienced individuals. the transfer 
+of skills and knowledge acquired in the informal learning context depends on an individual 
+demonstrating skills and an employer recognizing them. 
+as table 4 shows, many in the survey sample combined multiple forms of learning, though 
+on- and off-the-job informal learning dominates.  only eight percent used skills acquired 
+through formal schooling in their jobs, which is not surprising given that the average number 
+of years of schooling in the sample is seven.  of these, however, over half identified either 
+
+83
+
+identifying and measuring the lifelong human capital of unskilled migrants mathematics or english as a valuable skill they had learned in primary school and applied 
+to  their  jobs  in  construction  and  manufacturing.  the  acquisition  of  mathematical  and 
+english language skills during the formative years of schooling has important implications 
+in terms of how we conceptualize and measure skills among the  unskilled.  traditionally, 
+scholarship identifies migrants with only primary levels of education as unskilled.  yet 
+even a few years of formal education  can be important in the acquisition and application 
+of certain technical and language skills. 
+
+total
+(n=200)
+8%
+
+men
+(n=172)
+9%
+
+women
+(n=28)
+4%
+
+table  4:  social  contexts  and  processes  of  learning  skills  in 
+communities of origin, by gender
+learning process
+
+formal: vocational and other schooling leading to credentials
+
+non-formal:  on-the-job  training  program  designed  by  the 
+workplace or explicit instruction from boss or coworker
+
+39%
+
+40%
+
+29%
+
+informal  (on  the  job):  observation,  social  interaction  with 
+coworkers, experimentation and practice at work
+
+55%
+
+56%
+
+50%
+
+informal (off the job at home and community): observation, 
+social interaction with family, friends and neighbors
+
+53%
+
+54%
+
+43%
+
+note: the total is above 100% as many combined multiple ways of  learning skills
+
+over a third of the sample acquired skills through the non-formal learning environment at 
+work.  on-the-job training programs were reported as either offered or required in several 
+industries:  nursing,  banking,  real  estate,  pharmacies,  and  international  automotive  and 
+agricultural  companies  with  branches  in  mexico,  sometimes  leading  to  inter-company 
+transfers across borders.  by far the most often-reported social contexts of learning were 
+informally on-the-job through observation, interaction with family and friends, trial and 
+error, practice, and off-the-job in homes and communities.  on- and off-the-job learning 
+were important for almost all of the jobs migrants held before migrating, but especially 
+for those in farming or jobs associated with crafts such as shoemaking, construction, and 
+brick-making,  work  environments  that  depend  on  learning-by-doing  rather  than  formal 
+education.  take the case of cristin who was introduced to the craft of shoemaking as a 
+young boy in his fathers piquita. i would come home from school and watch my father 
+make  shoes.    eventually  he  let  me  practice  stitching  the  leather  with  the  pespuntador 
+machine recalled cristin.  when cristin entered lens paid labor force at the age of 17, 
+he had already acquired considerable cobbling and machinist skills, all of which he learned 
+informally through observation and practice at home and in his fathers piquita. 
+off-the-job informal learning is also associated with the acquisition of particular skills, 
+including construction-related skills such as brickmaking and tile installationskills that 
+many  working-class  people  acquire  because  they  lack  the  financial  means  to  purchase 
+
+84
+
+journal on migration and human securitythose products. for example, while he was still in school, ruy assisted his family in the 
+construction of a brick addition to their family home.  from my brothers, who had worked 
+in construction, i learned to make red bricks, beginning with molding them from mud, 
+horse and donkey manure, twigs, and straw, drying them in the hot sun and then firing them 
+in an oven fueled by plastics until they turned red.  ruy learned these marketable skills 
+from his brothers before entering paid employment. 
+women also acquired most of their skills through informal learning, and the types of skills 
+were largely influenced by their gendered work experiences and social contexts. because 
+the majority of women in our survey were concentrated in domestic service, retail, and 
+administrative support positions, jobs that involve face-to-face interactions, they were more 
+likely than men to discuss not only the technical skills they acquired in their jobs, including 
+cooking, cleaning, and caregiving, but also social competences, such as team work and 
+intergroup communication skills. their jobs as receptionists, secretaries, domestics, and 
+cooks made them good candidates for similar positions in the us.
+
+skills and job transitions before migration 
+
+as  the  cases  of  ruy  and  cristin  show,  social  contexts  and  processes  through  which 
+migrants acquire their skills can facilitate opportunities in local labor markets. table 5, 
+which lists the industry transitions from first to last job before migration, shows that over 
+a quarter of the sample found their first jobs in the shoe, leather, and textile manufacturing 
+sectors of len. many of these first-time skilled and semi-skilled jobholders brought with 
+them skills they had learned off-the-job in informal contexts and from an early age, as did 
+cristin from his fathers piquita.  
+table 5 also shows that about half had just one job before migration, while the reminder 
+had two jobs or more.  over 70 percent of the first jobs before leaving mexico were in 
+shoe, leather and textile manufacturing; retail and hospitality; and other services, and most 
+job changes took place within the same industry. in contrast, persons initially working 
+in  construction  and  manufacturing  transitioned  to  different  manufacturing  and  services 
+industries.  half the men who found their first jobs in agriculture stayed in agriculture, 
+but among those who left, almost three-fourths found jobs in the manufacturing sector 
+as  cobblers  and  in  construction  as  plumbers  and  metalworkers.  these  transitions  were 
+in  part  facilitated  by  the  acquisition  of  off-the-job  skills  acquired  in  the  social  spheres 
+of  household  and  community  before  paid  employment.   three  of  the  four  respondents 
+who moved from agriculture to manufacturing and construction reported that the skills 
+they acquired off the job at home had enabled their transition across industries and into 
+new jobs. off-the-job learning allowed some to transition out of farming and land a paid 
+job  in  mexicos  construction  industry,  a  much  desired  occupation  among  the  migrants 
+we  interviewed  because  it  offers  a  moderately  better  salary,  involves  learning  multiple 
+skills that can be easily transferred to other industries, and requires no formal educational 
+credentials.  as table 5 also shows, there was very little movement from the more desirable 
+manufacturing  sector  where  workers  held  jobs  as  machinists,  semi-skilled  and  skilled 
+shoemakers, welders, auto mechanics, electricians, and plumbers. 
+women,  in  contrast,  were  concentrated  in  the  service,  retail,  and  hospitality  industries 
+
+85
+
+identifying and measuring the lifelong human capital of unskilled migrants where  they  experienced  very  little,  if  any,  movement  out.    like  men,  however,  they 
+overwhelmingly transferred off-the-job skills to paid employment.  all women who worked 
+as domestics or cooks reported applying the cooking and cleaning skills they had acquired 
+in their own kitchens and homes to their workplaces.  but by and large, their off-the-job 
+and on-the-job skills did not provide for substantial occupational mobility, either within or 
+across industries, reflecting the narrower occupational opportunities for women relative to 
+men (arias and pea 2004).
+
+table 5. industry transitions before migration (n=200)
+
+ 
+
+ 
+r
+e
+v
+e
+n
+
+ 
+r
+o
+
+ 
+s
+r
+e
+d
+l
+o
+h
+
+ 
+
+b
+o
+j
+ 
+e
+l
+g
+n
+i
+s
+
+d
+e
+k
+r
+o
+w
+
+first industry before 
+leaving mexico
+7
+agriculture
+14
+construction
+shoe, leather, and textile 18
+14
+other manufacturing
+8
+retail and hospitality
+18
+other services
+12
+never worked
+total
+91
+
+last industry before leaving mexico
+
+e
+l
+i
+t
+x
+e
+t
+ 
+
+d
+n
+a
+ 
+,
+r
+e
+h
+t
+a
+e
+l
+ 
+,
+e
+o
+h
+s
+
+2
+1
+18
+3
+6
+2
+ 
+32
+
+g
+n
+i
+r
+u
+t
+c
+a
+f
+u
+n
+a
+m
+
+ 
+r
+e
+h
+t
+o
+1
+3
+4
+4
+0
+1
+ 
+13
+
+y
+t
+i
+l
+a
+t
+i
+p
+s
+o
+h
+
+ 
+
+d
+n
+a
+ 
+l
+i
+a
+t
+e
+r
+2
+2
+6
+5
+12
+2
+ 
+29
+
+s
+e
+c
+i
+v
+r
+e
+s
+ 
+r
+e
+h
+t
+o
+0
+3
+3
+1
+4
+9
+ 
+20
+
+l
+a
+t
+o
+t
+7
+11
+38
+13
+26
+14
+ 
+109
+
+e
+r
+u
+t
+l
+u
+c
+i
+r
+g
+a
+0
+0
+0
+0
+1
+0
+ 
+1
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+n
+o
+c
+2
+2
+7
+0
+3
+0
+ 
+14
+
+migrants acquired their skills in a learning context in which home and work are not easily 
+distinguishable,  and  interaction  with  family  and  observation  and  experimentation  best 
+describe their learning processes.  once in the labor market, they picked up additional 
+on-the-job skills through observation and practice and through informal training. the next 
+question to address, then, is whether they were able to transfer these skills to their jobs in 
+the us. 
+
+skill transfers from mexico to the us   
+
+table 6 shows the skills that return migrants acquired and transferred from all jobs over 
+the entire course of the migratory circuit. as predicted by human capital models, most 
+
+86
+
+journal on migration and human securitymexican migrants bring very little traditional human capital with them to their us jobs 
+as measured through host country language facility, formal education, vocational classes, 
+and on-the-job training programs; in our sample these composed two percent of the entire 
+sample. yet,  as table  6  shows,  close  to  half  of  these  migrants  arrived  with  substantial 
+skills  and  were  able  to  transfer  them  to  the  us  labor  market.  men  were  almost  twice 
+as  likely  as  women  to  report  that  they  transferred  on-the-job  skills  and  three  times  as 
+likely to report having transferred off-the-job skills, reflecting their greater occupational 
+diversity in mexico and the strong emphasis on off-the-job learning among young boys 
+and  men.    machinist  and  electrical  skills,  masonry,  tile  installation,  agricultural  skills, 
+and  metalworking  transferred  the  most  common  technical  skills  to  the  us.  because  of 
+the limited occupational opportunities for women relative to men, the on- and off-the-job 
+skills that women reported centered on interpersonal skills such as caregiving and food and 
+beverage preparation, indicative of womens domestic roles as spouses and homemakers, 
+and entry-level jobs in food production.
+
+table  6.  skill  and  knowledge  transfers  across  the  migratory 
+circuit by gender
+
+mexico to us
+
+us to mexico
+
+total
+(n=200)
+any transfer
+48%
+english
+2%
+formal education
+1%
+on-the-job technical skills
+44%
+off-the-job technical skills
+11%
+social skills and interpersonal competences 3%
+
+men
+(n=172)
+51%
+1%
+1%
+47%
+12%
+2%
+
+women
+(n=28)
+26%
+4%
+0%
+26%
+4%
+4%
+
+total
+(n=200)
+51%
+11%
+2%
+39%
+
+men
+(n=172)
+50%
+10%
+2%
+40%
+
+women
+(n=28)
+56%
+18%
+0%
+32%
+
+19%
+
+17%
+
+32%
+
+mexico-us skill transfers and job transitions  
+
+do  these  skill  transfers  make  a  difference  in  the  labor  market  experiences  of  mexican 
+migrants? do they enable reskilling, job advancement and higher wages? our data suggest 
+that  they  do,  but  with  a  caveat.  skills  alone  do  not  assure  economic  mobility.  social 
+networks, the conditions and social organization of work environments, and the institutional 
+mechanisms that support skill acquisition filter the application of migrant human capital. 
+when  they  arrived  in  the  us  most  of  the  migrants  surveyed  found  low-wage  jobs  in 
+agriculture,  manufacturing,  retail,  hospitality,  and  other  service  industries  where  they 
+labored as farm workers, janitors, busboys, and domestic workers.  these preliminary jobs 
+are not surprising, and the scholarship on the labor market incorporation of unauthorized 
+migrants with low levels of education and language skills would predict them. yet, almost 
+half the sample landed skilled, semi-skilled, or unskilled manufacturing jobs upon arrival 
+in the us, indicating substantial skill variation.  thus, some entered entry-level jobs as 
+dishwashers and helpers, while others entered those same industries as cooks and skilled 
+masons. 
+
+87
+
+identifying and measuring the lifelong human capital of unskilled migrants although social networks play a large role in channeling migrants to their first jobs and 
+industries, job transitions can be in part explained by the skill sets they bring with them 
+from mexico and in part by the skills they learn on their jobs in the us, which they then use 
+to leverage better jobs. of the 20 migrants who entered agricultural work upon arrival, 16 
+reported that the agricultural experience in mexico helped them in their agricultural jobs in 
+the us.  among the skilled and semi-skilled workers, 40 percent reported applying skills 
+learned in mexico to their jobs in the us, and 76 percent got their first jobs because family 
+and friends recommended them to an employer. some respondents were recommended 
+because of their particular skill sets.  
+table 7, which summarizes some social mobility experiences within the sample, shows that 
+migrants reskilled in the us and experienced occupational advancement, and wage gains. 
+eighty-one percent of the sample learned new skills in the us, and many learned multiple 
+skills; 68 percent acquired them through observation on the job, and another 56 percent 
+through explicit instruction from a co-worker. reskilling was especially pronounced in 
+construction because of the technological differences between the industry in the us and 
+mexico.  subcontracting  and  the  social  organization  of  the  work  process  also  facilitate 
+reskilling  in  the  construction  industry.    although  subcontracting  generally  makes  for 
+precarious  employment  and  working  conditions,  especially  for  unauthorized  migrants 
+who often experience wage theft from their subcontractors (bernhardt et al. 2009), this 
+system also offers reskilling opportunities to immigrants.  because immigrant construction 
+workers  are  also  typically  excluded from  formal apprenticeship and  training programs, 
+they depend on learning through observation and trial and error and through informal on-
+the-job mentoring from a more seasoned worker or a skilled maestro or encargado  (hagan 
+et al. 2011).
+
+table  7.  indicators  of  economic  mobility  in  us  labor  market 
+(n=200)
+learned new skills/reskilling in us
+transitioned to a better job requiring more skills
+wage increase
+skills recognized and rewarded
+*  68% learned new skills through on-the-job observation and 56% through explicit instruction 
+from boss or co-worker. 
+** of these, 52% received a raise; 12% were asked to teach others a skill; 19% reported receiving 
+more autonomy at work; and 17% were given more responsibility on the job.
+
+81%*
+36%
+33%
+65%**
+
+reskilling in the us labor market facilitated transitions to jobs that required higher skills. 
+as table 7 shows, 36 percent transitioned to better jobs requiring additional skills.  for 
+example, the six migrants who moved from one job to another within the agricultural sector 
+reported that the on-the-job skills they learned in their us jobs facilitated these moves. 
+one reported learning new planting techniques through observation and practice; another 
+three were taught how to operate farm machinery through instruction from co-workers 
+
+88
+
+journal on migration and human securityor  supervisors. two  moved  into  foreman  positions,  and  one  migrant,  jaime,  mobilized 
+old skills learned off the job at home to engage in what migrant workers call brincando  
+(job jumping with skills), first within the agricultural sector, and later across industries 
+to construction. recognized as an effective strategy employed by both native-born and 
+immigrant  professionals  to  circumvent  exploitation  and  market  new  skills  to  secure 
+higher wages (saxenian 1996; shih 2006), the concept of job jumping has not really been 
+investigated in studies of labor market incorporation of less educated and unauthorized 
+immigrants (but see hagan et al. 2011). we found that migrants with skills regularly took 
+the risk and jumped jobs.  among the survey sample, of those that reported changing jobs, 
+20 percent reported going out on their own and approaching another employer; among 
+these, 59 percent reported changing their jobs to improve wages. others changed jobs to 
+leave exploitative work conditions and improve wages, but these transitions required skills. 
+there was little movement out of manufacturing, construction, and auto repair, especially 
+among the migrants who worked as skilled or semi-skilled masons, carpenters, plumbers, 
+electricians, auto mechanics, and machine operators. industries such as construction and 
+auto repair offer desirable jobs not only because they provide higher wages and greater 
+mobility compared to other migrant-heavy industries like food and hospitality services, but 
+also because migrants can apply skills learned at home and learn new ones abroad. 
+the us labor market experience for women in the sample was very different. migrant women 
+tend to enter a smaller range of jobs in the us compared to their male counterparts (pedraza 
+1991).  concentrated in the service and hospitality industries, they work in low-wage and 
+undervalued jobs as domestics, janitors, and entry-level food service workersjobs that 
+offer few avenues for mobility (pedraza 1991; powers and seltzer 1998; hochschild 2002; 
+hondagenu-sotelo 2001; hagan 1998). the migrant women in our study followed this 
+pattern: in the us they were concentrated in manufacturing, hospitality, and other personal 
+and support services and sales sectors of the economy.   in these sectors they worked as 
+private household domestic workers, chambermaids, janitors, or food preparation workers. 
+and although the majority reported learning new skills in their us jobs (68 percent), their 
+old and new skill sets provided limited opportunities for changing jobs as the nature of the 
+particular job shaped opportunity structures for these women.  for example, none of the 
+women were able to transition from domestic work, where the isolation and nature of the 
+social relations are limited to unequal personal exchanges with employers, making it very 
+difficult to advance to other types of jobs (hagan 1998; hondagneu-sotelo 2001). 
+those women working in food manufacturing or hospitality reported transferring cooking 
+skills  learned  on  and  off  the  job  in  mexico  to  their  us  jobs.    unlike  the  domestics, 
+however, some workers in the hospitality industry were able to move to better jobs within 
+the industry, from chambermaids, food prep workers, or janitors upon arrival in the us 
+to positions as waiters, assistant cooks in restaurants, or supervisory cleaning positions 
+in hotels.  in these positions they reported wage increases and more autonomy. they also 
+transferred and acquired new on-the-job skills, including preparing and cooking different 
+types of food and developing customer service, teamwork, and english skills.  take the 
+case of carmen, who upon arrival in the us, found work busing tables at an anglo-owned 
+restaurant earning $5.50 an hour.  she spoke no english, but eager to learn, she practiced 
+with co-workers and watched television in english.  within time, carmen was promoted 
+
+89
+
+identifying and measuring the lifelong human capital of unskilled migrants to a food preparation assistant.  carmen pointed out to the cook that he was using the 
+wrong chiles for chile rellenos. impressed by her initiative he asked her to teach him how 
+to prepare the dish the mexican way.  by the time she left the restaurant to return home 
+to be with family, she was earning $12.00 per hour, was one of two lead cooks, and spoke 
+enough english to communicate with co-workers. 
+not all migrants were able to transfer skills from mexico to the us.  in some cases, industrial 
+location, regional opportunity structures, and social networks drew them to other sectors 
+of the economy. in other cases, their skill sets did not match the skills demanded in the us 
+labor market or a lack of english language ability made it more difficult to demonstrate 
+skills. lack of work authorization may also impose institutional barriers that block mobility 
+and rewards, even when skills are recognized. thus, for migrants to benefit economically 
+from the skills they bring with them from their home communities, their skills must not 
+only match demands for those skills upon arrival, but workers must be able to demonstrate 
+their skills and employers must recognize and value them (williams and bal 2005).  in 
+spite of these barriers, as table 7 shows, 65 percent of the sample reported that when they 
+were able to demonstrate their skills or when their employers recognized them, they were 
+sometimes rewarded, either through higher wages (52 percent), more job responsibility 
+(17 percent), and/or more autonomy (19 percent). the skills that employers recognized 
+and  valorized  included  both  technical  and  hard  skills,  along  with  what  polyani  (1966) 
+refers to as tacit knowledge, and sociologists of migration and labor have call working 
+knowledge, competences, social skills, and also soft or people skills (kusterer 1978; 
+waldinger and  lichter 2003;  moss  and tilly  1996;  evans  2002;  donato  and  bankston 
+2008).  in the immigration and labor scholarship soft skills are regularly associated with 
+what an employer wants from her or his workers, and scholars view them as indicative 
+of the exploitive nature of immigrant work conditions.  along these lines, and as other 
+studies  have  documented,  our  employers  regularly  spoke  of  the  hard  work  ethic  and 
+punctuality of immigrants workers. 
+
+us-mexico skill transfers and job transitions 
+
+as table 6 shows, the skill sets that migrants take back to their jobs in mexico are more 
+diverse than those transferred to the us.  eleven percent transferred english language skills 
+to their current jobs, primarily in the business and tourist sectors of the local economy. 
+women were almost twice as likely as men to report transferring english skills, reflecting 
+the types of jobs they held in the us (domestic workers, assistant cooks, cooks, waiters, 
+sales  clerks),  which  require  regular  interaction  with  english-speaking  managers  and 
+customers.  the table shows that while neither men nor women acquired off-the-job skills 
+in the us, both transferred substantial on-the-job technical skills to mexico. men reported 
+the transfer of construction, carpentry, and automotive repair skills; women reported food 
+and beverage preparation skills and some support and managerial skills such as computer 
+and data entry knowledge. 
+the  most  striking  feature  of  table  6  is  the  substantial  number  of  personal  and  social 
+competences that were transferred. migrants listed hard-to-measure personal achievements 
+and  competences  such  as  initiative,  responsibility,  self-confidence,  follow-through, 
+punctuality,  and  presentation  of  self,  along  with  a  number  of  social  skills,  including 
+
+90
+
+journal on migration and human securitycustomer service, teamwork, and management skills. women were almost twice as likely 
+as men to report transferring these social skills, reflecting in part the greater propensity 
+among women to hold service jobs in the us, which often require the further development 
+of interpersonal skills. 
+do these skill transfers make a difference in the types of jobs and labor market mobility 
+migrants encounter in the mexican labor market?  our findings are mixed. reintegration 
+into the mexican labor market is a complicated process.  skill transfers depend on many 
+factors,  including  migration  duration,  whether  the  return  was  forced  or  voluntary,  job 
+content, and the industrial sector in which the migrant worked in the us.   there are also 
+institutional and social barriers to reintegration in the local labor market, including different 
+levels of technological development and the fact that recognition of skills is gendered. 
+
+table  8.  industrial  distribution  in  mexico  before  and  after 
+migration (n=200)
+ 
+
+last industry after return
+
+ 
+
+d
+n
+a
+ 
+,
+r
+e
+h
+t
+a
+e
+l
+ 
+,
+e
+o
+h
+s
+
+g
+n
+i
+r
+u
+t
+c
+a
+f
+u
+n
+a
+m
+
+ 
+r
+e
+h
+t
+o
+0
+1
+4
+10
+2
+1
+0
+18
+
+s
+e
+c
+i
+v
+r
+e
+s
+ 
+r
+e
+h
+t
+o
+1
+1
+5
+4
+3
+21
+2
+37
+
+y
+t
+i
+l
+a
+t
+i
+p
+s
+o
+h
+
+ 
+
+d
+n
+a
+ 
+l
+i
+a
+t
+e
+r
+5
+6
+15
+3
+26
+6
+4
+65
+
+e
+c
+r
+o
+f
+ 
+r
+o
+b
+a
+l
+ 
+
+n
+o
+i
+t
+c
+u
+r
+t
+s
+n
+o
+c
+1
+17
+0
+2
+1
+2
+0
+23
+
+e
+r
+u
+t
+l
+u
+c
+i
+r
+g
+a
+0
+0
+0
+1
+0
+0
+0
+1
+
+e
+l
+i
+t
+x
+e
+t
+
+last industry before 
+leaving mexico
+agriculture
+construction
+shoe, leather, and textile
+other manufacturing
+retail and hospitality
+other services
+not in labor force
+total
+*among those not in the labor force before migration were seven unemployed and looking for 
+work, two university students and one homemaker.
+**among those not in labor force at time of interview are 10 unemployed and looking for work, 
+three migrants who just returned from us (within month) and not yet looking for work, two retired 
+persons, one university student, one disabled person, and two homemakers. table 9. labor market 
+status of return migrant sample and len population, by gender
+
+l
+a
+n
+t
+i
+ 
+t
+o
+o
+n
+t
+8
+0
+28
+0
+51
+5
+27
+6
+38
+0
+38
+6
+10*
+2
+ 19** 200
+
+1
+3
+22
+1
+6
+2
+2
+37
+
+despite  these  reintegration  barriers,  table  8  shows  that  skills  acquired  in  the  us  and 
+transferred upon return to mexico facilitated transitions from manual jobs in agriculture 
+and manufacturing to service-based occupations in the hospitality and retail industries. new 
+skills and remitted savings allowed other former machinists in leather and shoe factories 
+
+91
+
+identifying and measuring the lifelong human capital of unskilled migrants to  bypass  salaried  work  and  open  up  their  own  small-  to  medium-sized  shoemaking 
+factories.  others chose not to reenter manufacturing and instead found work in the retail 
+and hospitality and service sectors where they also applied skills learned in the us.  of 
+those  who  returned  to  len  with  english  language  skills,  some  moved  into  retail  and 
+hospitality jobs while others used their english in their professional relationships with the 
+international business clientele who travel to len to purchase leather goods. those who 
+used their english to find work in hospitality and tourism were waiters or receptionists 
+or started their own businesses that cater to english-speaking persons. english language 
+capability has enabled some female return migrants to bypass traditional domestic service 
+and find work as english teachers or move to tourist towns where they can demand a higher 
+salary because of their language skills. 
+table 9, which compares the employment status of our sample with the len population, 
+highlights the large number of return migrants who started businesses after returning to 
+mexico, a finding that has been replicated in other recent studies of return migration to 
+mexico (hazan 2013).  we found that launching a business upon return home may be 
+more than just a function of applying remitted savings or a strategy to secure higher wages 
+and overcome local labor market failures and constraints, as documented in the literature 
+(dusstmann and kirchkamp 2002; papail 2002; mesnard and ravallion 2006; cerase 1974; 
+gmelch 1980).  it is also an opportunity to apply new technical, personal, and social skills 
+learned abroad to an entrepreneurial venture that provides individual occupational mobility 
+and opens up possibilities for local development. 
+
+table 9. labor market status of return migrant sample and len 
+working population, by gender
+
+work status
+salaried worker
+self-employed
+patrones
+unemployed
+homemakers
+others
+
+male
+
+sample len
+(n=172)
+51%
+26%
+16%
+4%
+0%
+3%
+
+(n=12,785)
+59%
+17%
+4%
+4%
+1%
+16%
+
+female
+sample len
+(n=28)
+30%
+30%
+11%
+15%
+4%
+11%
+
+(n=13,810)
+32%
+11%
+1%
+1%
+42%
+13%
+
+in table  9,  we  also  distinguish  between  two  groups  of  return  migrants  who  own  their 
+businesses:  those  that  are  self-employed  and  those  that  are  self-employed  and  have 
+employees, the latter of whom are identified in the table as patrones. in the former category 
+are return migrants who reported using remittances to open up small informal businesses 
+(e.g., small sundry shops, ambulatory food and beverage vending stands, and second-hand 
+clothing stores) as a survival strategy to overcome barriers to labor market reintegration.  
+deportees were largely concentrated in this category, reflecting the problems of labor market 
+
+92
+
+journal on migration and human securityintegration for migrants who are forcibly repatriated and return with little or no financial 
+resources and often are stigmatized upon arrival home.  women also were concentrated in 
+this category and reported turning to self-employment as a response to the gender and age 
+discrimination they experienced in the mainstream labor market.
+on the other hand, 14 percent (15 single job holders and 12 job changers) of the migrants 
+did become patrones, a figure over five times the patrn percentage for the city of len.  
+many of the patrones were target migrants, that is, they moved to the us with the aim 
+of accumulating enough capital to open up a business upon return.  they identified two 
+factors  that  facilitated  their  entrepreneurial  activities:  remittances  and  skill  transfers.  
+eighty percent of all patrones used remitted savings to start their businesses and 68 percent 
+applied skills learned in the us to their current businesses.  of these, 64 percent reported 
+transferring technical skills acquired in us jobs, including from restaurant and construction 
+work, auto repair, and carpentry. 
+but  technical  skills  are  not  the  only  skills  that  facilitate  entrepreneurial  activities  and 
+diversify local economies.  equally important are the language and social skills successful 
+return migrants bring back with them.  fifty-four percent of the patrones and 76 percent 
+of  the  self-employed  return  migrants  cited  specific  non-technical  on-the-job  skills  that 
+they acquired in the us and were able to apply to their business ventures.  another 35 
+percent reported transferring english skills to their entrepreneurial ventures.  take the case 
+of enrique, the son of a cobbler, who emigrated from len to the us as a teenager.  after 
+graduating from a us high school, he found work in an anglo-owned and -run mexican 
+restaurant.  because of his english skills, he quickly moved up the ladder from busboy to 
+assistant manager.  when he returned to len, enrique bypassed shoemaking and became a 
+self-employed taxi driver, catering to the international english-speaking business clientele 
+who travel to len to purchase leather goods. his services are unique, providing airport 
+transfers, tours of the city, and chauffer service for the day. when asked about the skills he 
+learned in the us, he referred to a set of integrated personal and social competences that 
+he had learned from his boss in the restaurant: confidence, responsibility, initiative, and 
+customer service. 
+
+assessing welfare gains across the migratory circuit
+to assess migrants cumulative and relative welfare gains across the migratory circuit, we 
+now turn to table 10, which provides subjective and objective measures of well-being and 
+social mobility across the labor market careers of return migrants. although the majority of 
+the sample reported considerable job satisfaction in their labor market careers, the percentage 
+reporting job satisfaction was highest in the us. even though their limited english and 
+unauthorized status placed many migrants in exploitative work conditions, we know from 
+qualitative interviews that migrants gained satisfaction from, among other things, higher 
+wages, opportunities for learning new skills, and rewards for skill recognition. 
+transitioned to a higher skilled job reflects a direct measure of occupational mobility 
+associated with skill transfers. it is in our opinion the most direct evidence of migrant 
+agency  and  brincando  (job  jumping).  according  to  the  literature,  immigrant  workers 
+adjust to exploitation, discrimination, and blocked mobility in the secondary labor market 
+
+93
+
+identifying and measuring the lifelong human capital of unskilled migrants by shifting back and forth between jobs in the informal and ethnic economies, but rarely 
+experiencing real economic mobility (sassen 1989; zlolniski 1994; theodore, valenzuela, 
+and melendez 2006; light 2006). in contrast, we find that roughly one-third of the sample 
+transitioned to higher skilled and more prestigious jobs across the migratory circuit.  mens 
+transitions to higher paid and more skilled occupations were greatest in the us, reflecting 
+the  skills,  especially  construction-  related  ones,  they  brought  with  them  from  mexico, 
+along with their greater occupational choices and skill opportunities relative to women who 
+entered the us labor market as domestics, chambermaids, and low-skilled food preparation 
+workers.  but  men  also  gained  from  reskilling  in  the  us,  especially  in  automotive  and 
+construction work. in guanajuato, skills acquired in the us also allowed returnees to cater 
+to a growing expatriate population and other return migrants seeking to build homes in 
+the american style. while some women moved on to higher-skilled jobs in the us, many 
+remain trapped in low-wage domestic and hospitality work. on the other hand, on some 
+levels women trumped men upon return, reflecting their ability to mobilize their english 
+language capital and social skills learned in the us to land better jobs.  
+
+table 10. indicators of social mobility across the migratory circuit
+
+before migrating
+women
+men
+(n=22)
+(n=168)
+satisfied with job
+69%
+78%
+27%
+transitioned to a higher skill job* 32%
+mean skill level*
+1.8
+1.5
+* among those who had more than one job at any given stage
+**1=low skilled, 2=semi-skilled, 3=highly skilled
+
+in the us
+
+men
+(n=171)
+84%
+39%
+1.8
+
+women
+(n=28)
+89%
+27%
+1.4
+
+on return
+
+men
+(n=161)
+73%
+29%
+2.1
+
+women
+(n=20)
+76%
+44%
+1.6
+
+finally, we can see from table 10 that overall, both men and women upgraded their skills 
+across the migratory circuit, moving from low-skill jobs characterized by repetitive tasks 
+(dishwasher, leather cutter) to semi-skilled jobs, defined as those that involve multi-tasking 
+or the mastery of a specific skill (see table 1).  men were more likely than women to 
+transition to semi-skilled jobs upon return, reflecting the different entry jobs of men and 
+women upon return and the more limited occupational choices for women.  reintegration 
+into the mexican labor market was more difficult for women than men, but most women 
+appeared to benefit economically and socially from migration.  some faced institutional 
+discrimination because of age; for others, it took time to market their english language 
+capital  and  interpersonal  and  customer  service  skills  acquired  in  the  us.   as  a  result, 
+upon return, some of the women first entered traditional jobs requiring few skills, such 
+as domestic service, but some managed to transition to semi-skilled jobs requiring multi-
+tasking, such as food preparation and customer service or english and customer service. 
+
+conclusion 
+to explain the variability in learning and skill transfers among migrants with low levels 
+
+94
+
+journal on migration and human securityof formal human capital and to distinguish their labor market experiences from the highly 
+skilled,  we  have  engaged  the  literature  on  learning  and  knowledge  transactions  which 
+recognizes multiple types of knowledgeboth codified and tacitalong with the social 
+contexts in which they are created.  we find that unlike migrants whose human capital 
+is largely acquired in formal learning environments leading to credentialed and codified 
+knowledge, migrants with low levels of education acquire most of their skills informally 
+through interaction and observation both on and off the job. this is not to say that migrants 
+with formal credentials do not acquire some skills informally before migration, but that for 
+migrants with low levels of formal education, job skills are learned predominantly in social 
+contexts rather than classrooms and thus are often hidden skills.  it is therefore especially 
+important  that  the  assessment  of  migrant  welfare  gains  according  to  models  of  human 
+capital account for the acquisition of lifelong human capital.
+the literature on learning and knowledge transactions also sheds light on the non-technical 
+skills and knowledge migrants acquire in their workplaces, or what evans (2002) refers to 
+as social methodological, and practical competences. the literature on skilled migration 
+has begun to recognize that language capital and social competences acquired or improved 
+in workplaces abroad can be transforming, enhancing social status and self- esteem upon 
+return (williams 2007b).  but as we argue in this paper, the acquisition of competences is 
+not limited to the skilled, but is dispersed across jobs and labor markets. 
+our research also suggests that the occupational and industrial context of learning and 
+skill transfers matter.  on- and off-the-job work experience in construction and automotive 
+repair is easily transferrable to the us and back to mexico, where demand for these services 
+is high. other skills are place-specific and cannot be transferred (e.g., the techniques used 
+in roofing and some aspects of agriculture in the us are not applicable to work in mexico), 
+while others are easily transferable (e.g., metalworking, automotive repair, and english 
+language  skills),  especially  in  large  cities  with  a  diverse  industrial  base  and  wherever 
+demand for language capital is high. 
+our study has broad implications for the migration policies of both the us and mexico.  us 
+immigration policy confers preference to skilled immigrants who rank high on traditional 
+human capital characteristics, such as education levels and other formal credentials, but 
+limits  the  entry  of  unskilled  migrants,  a  categorization  that  ignores  the  substantial 
+informal skills they bring to us labor markets.  instead of focusing only on the continued 
+expansion of immigration policy preferences for narrowly defined skilled migrants, the us 
+government needs to consider more carefully what we mean by skilled workers and design 
+fairer and more effective immigration policies that match their abilities to the specific needs 
+of us industry and thereby recognize the economic contributions of all migrants within a 
+lifelong human capital framework.  mexico can also learn from our findings. between 
+2005  and  2010  an  estimated  1.4  million  mexicans  returned  to  mexico  from  the  us,  a 
+figure roughly double the number who had returned in the five-year period a decade earlier 
+(passel  et  al.  2012). the  government  of  mexico  has  a  history  of  developing  programs 
+to provide for mexicans abroad and encourage their remittances. our research indicates 
+that the mexican people and their economy would benefit by supporting entrepreneurial 
+ventures  and  reintegration  programs  that  recognize  and  reward  the  enhanced  skill  sets 
+of return migrants. as we have shown, some of these individuals are able to fill valued 
+
+95
+
+identifying and measuring the lifelong human capital of unskilled migrants positions and start businesses of their own, creating more jobs in their home communities 
+and thus promoting local economic development.
+
+references 
+akresh,  ilana  redstone.  2006.  occupational  mobility  among  legal  immigrants  to 
+the  united  states.  international  migration  review  40:  854-84.  http://dx.doi.
+org/10.1111/j.1747-7379.2006.00046.x
+
+arias,  patricia  and  emma  pea.  2004.  las  mujeres  de  guanajuato: ayer  y  hoy  1970-
+2000.  guanajuato,  mexico:  universidad  de  guanajuato/instituto  de  la  mujer 
+guanajuatense. 
+
+beckett, david. 2000. making workplace learning explicit: an epistemology of practice 
+for the whole person. westminster studies in education 23: 4153. http://dx.doi.
+org/10.1080/0140672000230105
+
+bernhardt, annette, ruth milkman, nik theodore, douglas heckathorn, mirabai auer, 
+james  defilippis,  ana  luz  gonzalez,  victor  narro,  jason  perelshteyn,  diana 
+polson, and michael spiller. 2009. broken laws, unprotected workers. new york: 
+national employment law project. 
+
+blackler, frank. 2002. knowledge, knowledge work and organizations. in the strategic 
+management  of  intellectual  capital  and  organizational  knowledge,  edited  by 
+chun wei choo and nick bontis, 47-72. new york: oxford university press.
+
+borjas,  george  j.  1990.  self-selection  and  the  earnings  of  immigrants:  reply.  the 
+
+american economic review 80: 305-8.
+
+______.  2000.  introduction.  in  issues  in  the  economics  of  immigration,  edited  by 
+george borjas. chicago: university of chicago press. http://dx.doi.org/10.7208/
+chicago/9780226066677.001.0001
+
+castells, manuel and alejandro portes. 1989. world underneath: the origins, dynamics, 
+and effects of the world economy. in the informal economy: studies in advanced 
+and less developed countries, edited by alejandro portes, manuel castells, and 
+lauren benton, 11-41. baltimore, md: john hopkins university press.
+
+cerase, francesco p. 1974. expectations and reality: a case study of return migration 
+from the united states to southern italy. international migration review 8: 245-
+62. http://dx.doi.org/10.2307/3002783
+
+chiswick, barry r. (1986) is the new immigration less skilled than the old? journal  
+
+of labor economics 4(2): 168-92. http://dx.doi.org/10.1086/298099
+
+donato, katharine m. 1993 current trends and patterns in female migration: evidence 
+from  mxico.  international  migration  review  27(4):  748-71.  http://dx.doi.
+org/10.2307/2546911
+
+96
+
+journal on migration and human securitydonato, katherine m. and carl l. bankston iii. 2008. the origins of employer demand 
+for  immigrants  in  a  new  destination:  the  salience  of  soft  skills  in  a  volatile 
+economy. in new faces in new places: the changing geography of american 
+immigration,  edited  by  douglas  s.  massey,  124-148.  new  york:  russell  sage 
+foundation.
+
+dustmann, christian and oliver kirchkamp. 2002. the optimal migration duration and 
+activity choice after re-migration. journal of development economics 67: 351
+72. http://dx.doi.org/10.1016/s0304-3878(01)00193-6
+
+dustman , christian and yoram weiss. 2007. return migration: theory and empirical 
+evidence  from  the  uk.  british  journal  of  industrial  relations  45(2):  236-56. 
+http://dx.doi.org/10.1111/j.1467-8543.2007.00613.x
+
+evans,  karen.  2002.  the  challenge  of  making  learning  visible:  problems  and 
+issues in recognizing tacit skills and key competences. in working to learn: 
+transforming learning in the workplace, edited by karen evans, phil hodkinson, 
+and lorna unwin, 7-28. london: kogan.
+
+evans, karen and helen rainbird. 2002. the significance of workplace learning for 
+a  learning  society.  in  working  to  learn:  transformative  learning  in  the 
+workplace,  edited  by  karen  evans,  phil  hodkinson,  and  lorna  unwin,  79-94. 
+london: kogan.
+
+flippen, chenoa. 2012. laboring underground: the employment patterns of hispanic 
+immigrant  men  in  durham,  nc.  social  problems  59:  21-42.  http://dx.doi.
+org/10.1525/sp.2012.59.1.21
+
+gmelch, george. 1980. return migration. annual review of anthropology 9: 135-59. 
+
+http://dx.doi.org/10.1146/annurev.an.09.100180.001031
+
+hagan, jacqueline. 1998. social networks, gender and immigrant settlement: resource 
+and  constraint.  american  sociological  review  63(1):  55-67.  http://dx.doi.
+org/10.2307/2657477
+
+hagan, jacqueline, karl eschbach, and nestor rodriguez. 2008. us deportation policy, 
+family separation, and circular migration. international migration review 42(1): 
+64-88. http://dx.doi.org/10.1111/j.1747-7379.2007.00114.x
+
+hagan,  jacqueline  m.,  nichola  lowe,  and  christian  quingla.  2011.  skills  on  the 
+move:  rethinking  the  relationship  between  human  capital  and  immigrant 
+economic  mobility.  work  &  occupations  38:  149-78.  http://dx.doi.
+org/10.1177/0730888410397918
+
+hagan, jacqueline, ruben hernandez-leon, and jean-luc demonsant. forthcoming 2015. 
+skills of the unskilled labor and social mobility across the u.s.-mexico migratory 
+circuit. berkeley: university of california press.
+
+harris, john r. and michael p. todaro. 1970. migration, unemployment and development: 
+
+a two-sector analysis. the american economic review 60: 126-42.
+
+97
+
+identifying and measuring the lifelong human capital of unskilled migrants hazan,  myram.  2013.  the  u.s.-mexico  cycle:  the  end  of  an  era. washington,  dc: 
+
+matt. http://research.matt.org/category-research/return-migration/
+
+hernndez-len, ruben. 2004. restructuring at the source. work and occupations 31: 
+
+424-52. http://dx.doi.org/10.1177/0730888404268883
+
+hochschild, arlie  r.  2002.  love  and  gold.  in  global  woman:  nannies,  maids,  and 
+sex workers in the new economy, edited by barbara ehrenreich and arlie russell 
+hochschild, 15-30. new york: metropolitan books.  
+
+hondagneu-sotelo,  pierrette.  1994.  gendered  transitions:  mexican  experiences  of 
+
+immigration. berkeley: university of california press.
+
+______. 2001. domstica: immigrant workers cleaning and caring in the shadows of 
+
+affluence. berkeley: university of california press.
+
+king, russell. 2000. generalizations from the history of return migration. in return 
+migration:  journey  of  hope  or  despair,  edited  by  bimal  ghosh.  international 
+organization of migration. geneva: united nations. 
+
+kusterer, kenneth c. 1978. know-how on the job: the important working knowledge of 
+
+unskilled workers. boulder, co: westview press.
+
+light,  ivan.  2006.  deflecting  immigration:  networks,  markets,  and  regulation  in  los 
+
+angeles. new york: russell sage.
+
+massey,  douglas  s.,  joaquin  arango,  graeme  hugo,  ali  kouaouci,  adela  pellegrino, 
+and j. edward taylor. 1993. theories of international migration: a review and 
+appraisal.  population  and  development  review  19(3):  431-66.  http://dx.doi.
+org/10.2307/2938462
+
+mesnard, alice, and martin ravallion. 2006. the wealth effect on new business startups 
+in a developing economy. economica 73(291): 367-92. http://dx.doi.org/10.1111/
+j.1468-0335.2006.00515.x
+
+misko,  josie.  2008.  combining  formal,  non-formal,  and  informal  learning  for 
+workforce skill development. australian department of education, employment 
+and workplace relations (ncver).
+
+moss, philip, and chris tilly. 1996. soft skills and race: an investigation of black 
+mens employment problems. work and occupations 23(3): 252-76. http://dx.doi.
+org/10.1177/0730888496023003002
+
+nussbaum, martha c. 2011. creating capabilities: the human development approach. 
+cambridge: belknap press of harvard university press. http://dx.doi.org/10.4159/
+harvard.9780674061200
+
+papail, jean. 2002. de asalariado a empresario: la reinsercin laboral de los migrantes 
+la  regin  centro-occidente  de  mxico.  migraciones 
+
+internacionales  en 
+internacionales 1: 79-102.
+
+98
+
+journal on migration and human securitypassel,  jeffrey,  dvera  cohn,  and  ana  gonzalez  barrera.  2012.  net  migration  from 
+
+mexico falls to zero. washington, dc: pew hispanic center 
+
+pedraza,  silvia.  1991.  women  and  migration:  the  social  consequences  of  gender. 
+annual  review  of  sociology  17:  303-25.  http://dx.doi.org/10.1146/annurev.
+so.17.080191.001511
+
+polanyi, michael. 1966. the tacit dimension. london: routledge & kegan.
+powers,  mary  and  william  seltzer.  1998.  occupational  status  and  mobility  among 
+undocumented immigrants by gender. international migration review 32: 21-
+55. http://dx.doi.org/10.2307/2547559 
+
+reich,  robert  b.  1992.  the  work  of  nations:  preparing  ourselves  for  21st-century 
+
+capitalism. london, uk: simon & schuster.
+
+ruiz-tagle, juan c., rebeca wong. 2009. determinants of return migration to mexico 
+among mexicans in the united states. detroit: population association of america 
+annual meeting.
+
+sassen, saskia. 1989. new york citys informal economy. in the informal economy: 
+studies in advanced and less developed countries, edited by alejandro portes, 
+manuel castells, and lauren a. benton, 60-77. baltimore, md: johns hopkins 
+university press.
+
+saxenian,  analee.  1996.  beyond  boundaries:  open  labor  markets  and  learning  in 
+silicon valley. in boundaryless career: a new employment principle for a new 
+organizational  era,  edited  by  michael  b. arthur  and  denise  rousseau,  23-39. 
+new york: oxford university press.
+
+shih,  johanna.  2006.  circumventing  discrimination.  gender  &  society  20:  177-206. 
+
+http://dx.doi.org/10.1177/0891243205285474
+
+sjaastad, larry a. 1962. the costs and returns of human migration. journal of political 
+
+economy 70: 80-93. http://dx.doi.org/10.1086/258726
+
+star, susan l. and anselm strauss. 1999. layers of silence, arenas of voice: the ecology 
+of visible and invisible work. computer supported cooperative work: the journal 
+of collaborative computing 8: 9-30. http://dx.doi.org/10.1023/a:1008651105359
+theodore,  nik,  valenzuela, abel,  jr.,  and  melndez,  edwin.  (2006).  la  esquina  (the 
+corner): day laborers on the margins of new yorks formal economy. journal of 
+labor and society, 9: 407-23.
+
+waldinger, roger d. and michael. i. lichter. 2003. how the other half works: immigration 
+
+and the social organization of labor. berkeley: university of california press.
+
+williams, allan  m.  2006.  lost  in  translation?  international  migration,  learning  and 
+knowledge.  progress  in  human  geography  30(5):  588-607.  http://dx.doi.
+org/10.1177/0309132506070169
+
+99
+
+identifying and measuring the lifelong human capital of unskilled migrants ______. 2007a. listen to me, learn with me: international migration and  knowledge 
+transfers. british journal of industrial relations 45(2): 361-382. http://dx.doi.
+org/10.1111/j.1467-8543.2007.00618.x
+
+______.  2007b.  international  labor  migration  and  tacit  knowledge  transactions:  a 
+multi-level perspective. global networks 7(1): 29-47. http://dx.doi.org/10.1111/
+j.1471-0374.2006.00155.x
+
+williams, allan m. and vladimir bal. 2005. what human capital, which migrants? 
+returned skilled migration to slovakia from the uk. international migration 
+review 39: 439-68. http://dx.doi.org/10.1111/j.1747-7379.2005.tb00273.x
+
+zahniser, steven s. and michael j. greenwood. 1998. tranferability of skills and the 
+economic rewards to u.s. employment for return migrants in mexico. mexico-
+united states binational migration study. mexican ministry of foreign affairs and 
+the u.s commission on immigration reform. 
+
+zlolniski, christian. 1994. the informal economy in an advanced industrialized society: 
+mexican immigrant labor in silicon valley. the yale law review 103: 2305-35.  
+http://dx.doi.org/10.2307/797049 
+
+100
+
+journal on migration and human security
