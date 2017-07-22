@@ -69,7 +69,14 @@ plt.title('Scatterplot of Canonical Variables for 3 Clusters')
 plt.show()
 
 
-
+from sklearn.decomposition import TruncatedSVD
+pca_2 = TruncatedSVD(2)
+plot_columns = pca_2.fit_transform(clus_train)
+plt.scatter(x=plot_columns[:,0], y=plot_columns[:,1], c=model3.labels_,)
+plt.xlabel('Canonical variable 1')
+plt.ylabel('Canonical variable 2')
+plt.title('Scatterplot of Canonical Variables for 3 Clusters')
+plt.show()
 
 
 
