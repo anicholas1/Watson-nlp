@@ -42,12 +42,12 @@ for k in clusters:
     meandist.append(sum(np.min(cdist(clus_train, model.cluster_centers_, 'euclidean'), axis=1))
     / clus_train.shape[0])
 
+# This plots error as we increase clusters
 
-
-plt.plot(clusters, meandist)
-plt.xlabel('Number of clusters')
-plt.ylabel('Average distance')
-plt.title('Selecting k with the Elbow Method')
+# plt.plot(clusters, meandist)
+# plt.xlabel('Number of clusters')
+# plt.ylabel('Average distance')
+# plt.title('Selecting k with the Elbow Method')
 
 
 
