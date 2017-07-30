@@ -1,0 +1,877 @@
+california dreaming: the new 
+dynamism in immigration 
+federalism and opportunities 
+for inclusion on a variegated 
+landscape1
+
+roberto suro
+university of southern california
+
+executive summary
+interactions  between  local,  state  and  federal  governments  as  regards 
+immigration policies began to undergo a dramatic change with the passage 
+of proposition 187 in california in 1994. seemingly settled issues over the 
+relative prerogatives of different levels of government and even different 
+branches of government have since been the subject of frequent contention 
+in many venues and in many domains of immigration policy. during this 
+period, especially in the last decade, a new dynamism has developed in 
+immigration federalism that is evident in both policymaking processes and 
+policy outcomes. 
+in policy processes, this dynamism is characterized by an increasingly broad 
+distribution of powers and responsibilities across all levels of government. as 
+a result, an ever-broader array of actors has gained a say over immigration 
+policies.  these  include  not  only  elected  office  holders  and  government 
+officials but also advocates and activists from many sectors of civil society 
+including immigrant communities themselves. finally, the different levels 
+of  government  and  policy  actors  do  not  operate  in  isolation  but  rather 
+in vigorous interaction across multiple levels of government and among 
+advocates of different sorts both in the formulation and implementation of 
+policy. this new dynamism is reflected in recent scholarship that describes 
+models of federalism based on discourse, intermediation and collaboration 
+among  governments  rather  than  resting  primarily  on  the  longstanding 
+constitutional arguments over the balance of power between the states and 
+the federal government. 
+the policy outcomes produced by this new dynamism are marked by highly 
+divergent and varied results. the federal government devolved some powers 
+over welfare and policing policies regarding immigrants, but implementation 
+
+1   this study was made possible through the support of the john d. and catherine t. macarthur foundation.
+
+ 2015 by the center for migration studies of new york. all rights reserved.jmhs volume 3 number 1 (2015): 1-25by state and local governments was largely dictated by local factors rather 
+than washingtons intent. meanwhile, many sub-federal governments have 
+taken the initiative to assume powers on immigration matters. in some 
+cases they have mitigated the punitive effects of being unauthorized under 
+federal rules and have created pathways of civic inclusion for immigrants 
+who otherwise suffer isolation from the body politic. taking the opposite 
+approach,  other  jurisdictions  have  adopted  enforcement  regimes  meant 
+to  heighten  the  impact  of  federal  exclusion.  in  effect,  washington  still 
+exercises exclusive power to determine an individuals immigration status, 
+but many state and local governments have enacted policies that define the 
+practical consequences of that status. 
+the paper concludes by positing the likelihood of heightened differentiation 
+on immigration policy on a state and local basis, particularly if washington 
+remains unable to enact a new policy regime in this area. instead of a single, 
+dominant  federal  policy,  many  state  and  local  jurisdictions  will  create 
+policies that condition the immigrant experience sufficiently to influence the 
+size and content of migration flows.  across a highly variegated landscape 
+of  immigration  policies,  some  places  will  be  welcoming  while  others 
+will be inhospitable, even hostile, to newcomers. this new dynamism in 
+immigration federalism and the resulting variety of outcomes are products 
+of  large,  deeply  rooted  trends  in  american  society  that  are  unlikely  to 
+change in the foreseeable future. 
+
+introduction: two messages from california
+twenty months after taking office as president of mexico, enrique pea nieto made his 
+first official visit to the united states, but his destination in august 2014 was california 
+not washington, dc, and his first major event was not conducted in english.  rather, he 
+addressed a roaring crowd of activists, advocates and businesspeople, representing the 1.7 
+million mexican-born immigrants living in metropolitan los angeles, one out of every 
+seven residents in the area. in the ballroom of the biltmore hotel on pershing square, once 
+the castle keep of the los angeles establishment, pea nieto extolled his audience as el 
+otro mxico, the other mexico (sandoval 2014).
+a day later pea nieto addressed a legislative body in the united states for the first time, 
+and it was the california legislature, not the us congress. he noted, its no coincidence 
+that my first visit to the united states is in california (bernstein 2014). the mexican 
+president then praised the california lawmakers for taking a number of steps to improve 
+the condition of unauthorized migrants in the absence of action by the federal government.  
+specifically praising a california law to grant drivers licenses regardless of immigration 
+status, pea nieto said, the progress you have promoted not only benefits californians 
+because you have sent a very clear message to the us and the entire world (nirappil 
+2014).
+just 20 years earlier california loudly broadcast a far different message on immigration. 
+
+2
+
+journal on migration and human securityvoters  enacted  an  initiative,  proposition  187,  in  1994  that  would  have  denied  a  wide 
+range of social, health and education benefits to unauthorized migrants had it not been 
+blocked by a federal court. californians that year also reelected a governor, pete wilson, 
+who broadcast an infamous television commercial which featured menacing grainy black 
+and white pictures of migrants dashing through a border crossing near san diego. they 
+keep coming, the announcer intoned, two million illegal immigrants in california. the 
+federal government wont stop them at the border yet requires us to spend millions to take 
+care of them.2 in 1994, the california message blamed failed federal policies for leaving 
+the state no choice but to act on its own to rid itself of unwanted illegal aliens before they 
+broke the state budget with their abuse of benefits (suro 1999). 
+in 2014, californias message again began with a claim of federal failure but to an opposite 
+effect. upon signing a package of bills that buffered unauthorized immigrants from federal 
+immigration enforcement and extended a variety of privileges to them including the ability 
+to  practice  law,  governor  edmund  g.  brown  jr.  said,  while  washington  waffles  on 
+immigration, california is forging ahead. im not waiting (govnews.ca 2013). this time, 
+however, washington was being faulted for being insufficiently inclusive versus the 1994 
+claim of failure to exclude. and, californias message included profitable ties with mexico 
+and the creation of welcoming civic spaces for mexican migrants regardless of their status 
+under federal law. 
+
+between then and now
+the distance between california in 1994 and 2014 marks a period of rapid evolution in 
+immigration federalism. during that time battles over the balance of power between the 
+states  and  the  federal  government,  particularly  those  provoked  by arizonas  claim  on 
+enforcement authority, rightfully captured much attention in the news media, in political 
+debates,  and  in  scholarship.  without  diminishing  the  significance  of  those  battles, 
+however, this paper is focused elsewhere. rather than portraying two sovereigns locked 
+in  a  constitutional  duel,  this  paper  explores  evidence  of  expanding  interrelationships 
+among federal, state and local governments on immigration matters. through competition, 
+collaboration and happenstance, both the making and the implementation of immigration 
+policy has spread across all levels of government during this period. diverse formulas of 
+immigration federalism have arisen and with them diverse policy outcomes. taken together, 
+these developments suggest the emergence of a new dynamism in immigration federalism. 
+looking to the formulation of policy reveals that lines of influence are operating in both 
+directions  in  and  out  of  washington.  using  laws,  ballot  box  initiatives  and  litigation, 
+various sub-federal actors have set out to pressure federal policymakers, sometimes with 
+notable success. in other cases washington has deliberately devolved authority to the states 
+over matters related to immigrants or has chosen not to interfere with local initiatives.  
+these kinds of interchanges have become typical for a number of domestic issues such as 
+education and health care that increasingly involve bureaucracies, budgets, policies and 
+politics that arc across all levels of government. immigration policy was once a bastion 
+
+2    pete  wison  1994  campaign  ad  on  illegal  immigration  viewable  at:  https://www.youtube.com/
+
+watch?v=llizzs2hhgy.
+
+3
+
+california dreaming: the new dynamism in immigration federalismof federal prerogatives because it related to borders, citizenship and foreign policy. but 
+as issues related to matters like social services and law enforcement have moved to the 
+foreground, federal preeminence has diminished.
+in terms of policy outcomes, washington alone can decide who gets into the country and 
+under what circumstances. but, the enduring presence of a large unauthorized population 
+suggests that authority is somewhat more hypothetical than real. meanwhile, after four 
+decades of substantial immigration flows, the foreign-born population is not only large but 
+also well settled, and the integration of immigrants has become a policy concern in some 
+ways broader and more contentious than the regulation of entry (suro 1994b). integration 
+raises challenges for all levels of governments and the responses have been highly varied. 
+in some places the interaction between state and federal agencies enhances federal policies 
+that have an exclusionary intent, particularly as regards enforcement against unauthorized 
+immigrants or limiting access to public services for legal immigrants. elsewhere, the new 
+federalism produces policies that mitigate exclusionary policies and create pathways for 
+inclusion even for those considered out-of-status by federal rules. some states offer drivers 
+licenses to unauthorized immigrants while others require their contractors to verify the 
+legal status of all employees. some law enforcement agencies prohibit officers from asking 
+about immigration status; others require it. washington alone can determine immigration 
+status, but increasingly state and local governments are shaping the practical consequences 
+of status. 
+at the start of the 1990s, the context of immigrant settlement varied greatly across the 
+country,  but  it  was  determined  primarily  by  economic,  social  and  demographic  factors 
+at the local level (portes and rumbaut 1990). public policy was generally uniform under 
+federal rules and state and local governments were largely silent on immigrants. then, 
+as daniel j. tichenor puts it, all this seemed to change in the mid-1990s, as california 
+politics became consumed by efforts to limit public benefits for aliens and a new set of 
+congressional reformers pressed for sharp restrictions of immigrant admissions and rights 
+(2002). some scholars depict this period as the beginning of a new nativism (jacobson 
+2008). others describe the passage of proposition 187 as signaling the dawn of a new 
+era of sub-federal activism, demanding that washington toughen immigration enforcement 
+or make good on alleged budgetary burdens caused by unauthorized migration (filindra 
+2009). 
+yet even as new relations between washington and the states unfolded over policies of 
+exclusion, other developments were underway. this paper demonstrates that in the past 
+decade in particular the new dynamism of immigration federalism has also created spaces 
+for welcoming policies undertaken by state and local governments. policies emerging from 
+the new federalism can create the conditions for engagement between newcomers and local 
+institutions that would not exist otherwise. cumulatively, that engagement can produce a 
+new degree of inclusion in civil society, particularly for unauthorized immigrants. 
+the paper is divided into three major sections. the first reviews the policy developments 
+that have produced the new dynamism in state-federal interactions over immigration. the 
+next assesses how scholars have interpreted the potential for new forms of immigration 
+federalism. the  last  section  describes  sub-federal  initiatives  that  aim  at  mitigation  and 
+inclusion for unauthorized immigrants. 
+
+4
+
+journal on migration and human securitythe  1996  legislation  and  the  development  of  a  new 
+immigration federalism
+at a press conference the day after 4.6 million californians voted to deny public benefits 
+to unauthorized immigrants in november 1994, governor wilson called proposition 187, 
+the two-by-four we need to make them take notice in washington (suro 1994a). although 
+litigation begun that same day prevented any element of the ballot measure from ever being 
+implemented, over time it did indeed have a profound impact in washington. 
+in  trying  to  influence  national  policies  by  asserting  state  prerogatives,  wilson  and  the 
+propositions  authors  were  using  tried  and  true  tactics  that  date  back  to  debates  over 
+repayment of the revolutionary war debt in the earliest days of the republic (suro 1998). 
+proposition 187s significance, however, was magnified by two historical circumstances. 
+first, it came after more than 100 years of federal dominance of immigration issues. second, 
+it came just when washington politics favored ceding powers to the states as a means of 
+producing policy change. in this regard, the proposition 187 vote stands as an inflection 
+point in the history of immigration federalism.
+on  election  day  1994,  voters  nationwide  gave  republicans  a  landslide  victory  that 
+produced a 54-seat swing in the us house of representatives. as tichenor notes, the new 
+congress was unmistakably caught up by the popular wave of anti-immigrant politics so 
+evident in california, leading eventually to federal legislation cracking down on illegal 
+immigration and cutting immigrant welfare rights (2002). 
+a trio of bills inspired by proposition 187 in their immigration provisions was enacted 
+in  1996.  the  anti-terrorism  and  effective  death  penalty  act  (aedpa)  expanded  the 
+lists of crimes that could result in deportation and limited both executive discretion and 
+judicial  review  in  handling  removals.3  the  illegal  immigration  reform  and  immigrant 
+responsibility act (iirira) tightened immigration enforcement on a number of fronts 
+from border controls, to law enforcement partnerships, to expanded grounds of removal 
+and mandatory detention.4 meanwhile, the personal responsibility and work opportunity 
+act  (prwora)  overhauled  federal  welfare  programs  and  included  new  limits  on  the 
+federal benefits available to noncitizens, including legal immigrants.5 
+anti-immigrant sentiments were not the only political drivers behind these policy changes. 
+the iirira and prwora also reflected a central aspect of the ideology espoused by 
+representative newt gingrich who served as speaker of the house from 1995 to 1999. 
+devolution, the shift of authority from washington to the states, was central to his policy 
+agenda, the so-called contract with america. both presidents richard m. nixon in the 
+1970s and ronald reagan in the 1980s had undertaken their own forms of devolution each 
+with different tactics and objectives. gingrich and his followers used devolution primarily 
+in the form of new shared policy responsibilities and their goal was to advance conservative 
+social and fiscal policies (conlan 1998).
+prwora  justified  the  new  restrictions  on  noncitizens  access  to  social  benefits  on  the 
+
+3   pub. l. 104-132, 110 stat. 1214
+4   pub. l. 104-208, 110 stat. 3009
+5   pub. l. 104-193, 110 stat. 2105
+
+5
+
+california dreaming: the new dynamism in immigration federalismgrounds that: self-sufficiency has been a basic principle of united states immigration 
+law since this countrys earliest immigration statutes.6 but, congress found an entirely 
+new  policy  mechanism  for  achieving  this  very  old  objective  of  immigration  policy.  in 
+prwora the federal government for the first time explicitly devolved to the states broad 
+powers over a noncitizens access to a range of health and welfare benefits. these powers 
+include the ability to determine an individuals eligibility under certain circumstances as 
+well as the power to determine whether whole classes of immigrants would be eligible for 
+state-funded benefits. moreover, the statute declared that these new state powers over the 
+lives of immigrants met a compelling government interest thus greatly restricting potential 
+judicial review for discrimination or other unconstitutional effects (fix and passel 2002). 
+many  components  of  welfare  reform  have  been  revised  since  1996,  including  federal 
+eligibility requirements for legal immigrants. but the essential aspects of devolution in the 
+immigration realm remain intact with some states taking advantage of their discretionary 
+powers to create a wide variety of eligibility and benefit regimes for immigrants while 
+other states deny access (hartley 2007; singer 2004; wishnie 2001).
+the other major federal immigration legislation enacted in the wake of proposition 187, 
+iirira, took another tack on devolution by enlisting state and local governments as allies 
+in the enforcement of federal laws that regulate entry and presence, an area of policy that 
+had been a redoubt of exclusive federal power. known by the section that was added to 
+the immigration and nationality act, the 287(g) program granted local law enforcement 
+agencies for the first time the authority to screen people for immigration status, detain them 
+and initiate charges that could result in removal (capps et al. 2011). but it wasnt just the 
+scope of powers granted to sub-federal actors that made 287(g) a landmark in immigration 
+federalism.
+each 287(g) agreement was negotiated individually with a local law enforcement agency 
+program and was the subject of a signed memorandum with the federal authority in charge of 
+immigration enforcement, initially the department of justice and then, following post 9/11 
+legislation, the department of homeland security. those agreements varied in both form 
+and scope from one jurisdiction to another and required ongoing articulation between local 
+and federal authorities over a variety of issues such as training and logistical arrangements 
+for the transfer of detainees from local to federal custody. 
+moreover, the program granted a high degree of discretion to local authorities, a feature 
+that  has  proved  one  of  its  most  controversial  characteristics.  some  critics  see  it  as  an 
+opening to unfettered discrimination (wishnie 2001). others see it as an effective means to 
+boost enforcement capacities while adapting policy to local circumstances (kobach 2004). 
+the program did undoubtedly produce a wide variety of local approaches, so much so 
+that the obama administration modified the program twice, in 2009 and 2012, attempting 
+to produce greater consistency with its enforcement priorities (smith 2013, capps et al. 
+2011).  research into the diverse outcomes of the 287(g) program suggests that highly 
+localized concerns quickly trumped federal policy imperatives in determining the extent to 
+which police became involved with immigration enforcement.
+a 2011 study by the migration policy institute (mpi) found variation by jurisdiction in 
+
+6   8 u.s.c.  1601 (1)
+
+6
+
+journal on migration and human securitywhether they screened for immigration status primarily in jails or in the field or in both. it 
+also found wide variation in whether the programs targeted serious criminals or simply tried 
+to capture as many unauthorized immigrants as possible. the mpi study also concluded 
+that jurisdictions signed 287(g) agreements for a variety of reasons, and that these reasons 
+usually reflect state or local pressures often arising from specific incidents that created 
+public perceptions linking unauthorized immigrants to crime (capps et al. 2011). looking 
+beyond 287(g) alone, research on what kinds of localities adopted restrictive immigration 
+policies  found  a  much  more  powerful  association  with  ballot-box  dominance  by  the 
+republican party than with demographic factors like the rapid growth of the immigrant 
+population (ramakrishnan and gulasekaram 2012). 
+a project supported by the national science foundation conducted two national surveys of 
+law enforcement officials and three extended case studies to explain the variation in local 
+police  engagement  with  immigration  enforcement.  unemployment,  crime  rates  and  the 
+size or the pace of growth of the immigrant population had no relation with the severity 
+of immigration enforcement. however, the presence of a hispanic police chief was one of 
+the most important correlations with less severe enforcement along with the presence of 
+hispanic elected officials. codified policies aimed at reducing racial profiling were also 
+associated  with  less  intense  immigration  policing  (lewis  et  al.  2013).  the  researchers 
+described the result as a multilayered jurisdictional patchwork, in which overlapping and 
+neighboring  jurisdictions  can,  and  do,  adopt  conflicting  policies  and  practices  vis--vis 
+their immigrant populations (varsanyi et al. 2012).
+all of this evidence points to a form of federalism in which federal undertakings such 
+as the 1996 legislation produce a proliferation of policy outcomes determined largely by 
+local factors. according to some interpretations, the significance of this variation goes far 
+beyond the specific policy realms affected. monica w. varsanyi explains that the partial 
+devolution of welfare and immigration policy powers challenges rather strict jurisdictional 
+lines in place for over a century, and gives state and local governments newfound and 
+increasing powers to discriminate on the basis of alienage or non-citizen status (2008). the 
+power to discriminate, varsanyi argues, is tantamount to the ability to regulate membership 
+in the nation-state such that the 1996 legislation produced a rescaling of one of the most 
+fundamental functions of government that was once entirely a federal prerogative. 
+for  the  sake  of  this  discussion,  this  paper  is  not  concerned  with  the  effectiveness,  the 
+desirability, or the constitutionality of the 1996 legislation. those matters have been, and 
+continue to be, debated elsewhere. rather, the papers intent is to make an argument about 
+the historical significance of proposition 187 and the federal statutes of 1996 and their 
+ongoing influence today in the relationship between the states and the federal government 
+on immigration. 
+prior to proposition 187 and the 1996 legislation, the federal government exercised virtually 
+exclusive authority over policies that regulated immigrant flows as well as many aspects of 
+immigrant life. that preeminence had been established first as the result of the civil war 
+and the imposition of federal authority over the states on the nature of citizenship. this 
+was followed in the 1870s by a series of legislative acts, executive measures and judicial 
+decisions through which washington established its sole authority over the regulation of 
+immigrant arrivals in the face of state and local actions, particularly those in california 
+
+7
+
+california dreaming: the new dynamism in immigration federalismattempting to curb chinese immigration. by the beginning of the twentieth century, sub-
+federal governments had lost a variety of prerogatives over arrival, settlement, access to 
+benefits, and education and other matters related to immigrants that they had exercised 
+since the colonial era (tichenor 2002; zolberg 2006).   
+this paper contends that the mid-1990s marked the beginning of a new era of immigration 
+federalism. this era is not characterized by a change in the balance of power, as was the case 
+in the 1870s. although states have gained important discretionary powers, washington still 
+makes the most important policy decisions and retains control over all the major institutions 
+and budget authorities. rather, the key characteristic of this new era is the dynamism in 
+federal-state interaction on immigration issues. there are three major tendencies marking 
+this dynamism.
+first,  lines  of  influence  run  in  both  directions  between  washington  and  the  states, 
+sometimes simultaneously and paradoxically. proposition 187 sent a political shockwave 
+east  that  helped  produce  the  1996  federal  legislation  that  devolved  power  back  to  the 
+states. as californians had demanded, washington toughened enforcement and restricted 
+access to benefits, but along the way it also involved state and local governments in the 
+implementation of those policies. regardless of where actual decisions are made, both the 
+political and policymaking processes are shaped by initiatives and influence that skate back 
+and forth between state and federal venues.
+second,  the  range  of  actors  involved  in  making  and  implementing  immigration  policy 
+has  widened  greatly,  as  have  interactions  among  them,  including  across  jurisdictional 
+lines. elected officials and government agencies at the state and local levels now have 
+responsibilities over a wide range of polices regarding immigrants but are often required to 
+engage in complex interactions with federal counterparts. emergency room care, policing, 
+higher education and many other governmental activities now involve some degree of inter-
+governmental interaction in a significant number of jurisdictions. moreover, the increased 
+immigration  policymaking  at  the  state  and  local  levels  has  stimulated  a  burgeoning  of 
+civil society organizations providing services or advocacy in immigrant communities. and, 
+simultaneously, advocacy groups supporting exclusionary policies have grown as well in 
+response to the new opportunities beyond washington. on both sides of the debate, civil 
+society initiatives at the state and local levels are often intertwined with efforts to shape 
+federal policies. 
+third,  policy  regimes  regarding  immigrants  are  dynamic  across  time  and  space.  the 
+discretion available to state and local governments is broad enough and attitudes towards 
+immigration vary sufficiently that wide variations are now appearing across the country, 
+even  in  neighboring  jurisdictions.  this  is  also  an  evolving  process  with  sub-federal 
+initiatives multiplying and taking new directions.  meanwhile, federal policy has developed 
+dynamism  of  its  own  with  all  three  branches  of  government  contributing  sometimes-
+contradictory directives while engaging in repeated yet unresolved debates about the larger 
+purposes and structures of the immigration system. 
+examples  of  these  tendenciescross-cutting  influences,  administrative  interaction,  and 
+dynamism  across  time  and  spacecan  be  found  prior  to  the  mid-1990s,  but  each  has 
+become more pronounced over the past two decades and together they are changing the 
+
+8
+
+journal on migration and human securitynature of immigration federalism. more importantly for purposes of this analysis, these 
+developments  are  changing  the  experience  of  being  an  immigrant  in  the  united  states 
+and creating the potential for important forms of civic inclusion emerging out of state and 
+local initiatives. just as the devolution of powers to the states has created opportunities to 
+discriminate against immigrants and to restrict their civic status (motomura 2014; schuck 
+2009; varsanyi 2008; wishnie 2001), it has also created opportunities to create new forms 
+of welcome and portals to social membership.
+
+arizona and the emergence of civil society actors
+the passage of proposition 187 launched a narrative about immigration to the united states 
+that features the states and the federal government as its protagonists and efforts to erect 
+new policies of enforcement and exclusion as its plot. that narrative culminated in the 2012 
+us supreme court decision in arizona v. united states7 regarding the constitutionality of 
+harshly restrictionist legislation generally known by its abbreviated designation, sb 1070.
+but it is possible to construct a different narrative by seeing events through a wider lens 
+that reveals a larger cast of characters and a more complex plot. that narrative begins on 
+the evening of april 27, 1990 when more than 1,000 members of an ad hoc citizens group 
+calling itself the light up the border campaign gathered along dairy mart road in san 
+diego near the us-mexico border to protest lax immigration enforcement. as they had 
+on several previous occasions, the protestors lined up cars facing south and turned on the 
+headlights in an effort to illuminate illegal border crossers. that evening, however, nearly 
+200 counter-protestors arrived, accusing the pro-enforcement group of being racist and 
+anti-mexican and holding up sheets of aluminum foil to reflect the car lights back on them 
+(mcdonnell 1990).
+activists on both sides of that confrontation and the sentiments they aroused continued 
+to roil southern california for years to come. the same kind of showy, loosely organized 
+grassroots  organizations  joined  forces  with  elected  officials  and  more  formal  advocacy 
+groups to launch the campaign that resulted in passage of proposition 187 in 1994 (martinez 
+and  carvajal  1994;  oltman  2011).  meanwhile,  student  groups,  unions  and  religious 
+organizations formed an improvised campaign to oppose the ballot initiative with public 
+protests and campaign advertisements (gutirrez 1999; suro and balz 1994).
+thinking  back  to  dairy  mart  road  produces  a  narrative  that  goes  beyond  a  clash  of 
+sovereigns to include a variety of civil society actors. moreover, it reveals a counterplot 
+of  resistance  to  restrictionism  that  has  accompanied  every  effort  to  boost  enforcement. 
+this  broader  perspective  is  essential  to  understanding  how  immigration  federalism  has 
+developed into a debate not only over who controls immigration policies but their content 
+as well and how that debate has expanded beyond campaign trails and halls of government 
+to encompass the living rooms and church basements that are the purview of community 
+activists.
+the story of how sb 1070 came to be and how it was substantially overturned illustrates 
+this point. the bills chief sponsor, arizona state senator russell pearce, had introduced 
+
+7   arizona v. united states 132 s.ct. 2492 (2012).
+
+9
+
+california dreaming: the new dynamism in immigration federalismsimilar legislation to boost the state role in immigration enforcement four times going back 
+to 2003 before he succeeded in 2010 in getting the bill enacted (nelson 2010). his efforts 
+gained a key ally in 2007 when the former sheriffs deputy contacted a kansas law professor, 
+kris w. kobach, who had begun to develop a national reputation for helping draft state and 
+local measures on immigration enforcement and then defending them in court (rau 2010). 
+kobach recalls becoming interested in immigration by reading about proposition 187 while 
+in law school. he started work as a white house fellow in the office of attorney general 
+john ashcroft just a few days before the 9/11 attacks. he was a junior but influential figure 
+in promoting the idea of using local law enforcement agencies as force multipliers in the 
+anti-terrorism fight by enlisting them to enforce immigration laws. subsequently as a law 
+professor, kobach became affiliated with the immigration reform law institute (irli). 
+founded and financed by the federation for american immigration reform (fair), one 
+of the nations oldest and best established restrictionist groups, irli served, in effect, as 
+the washington law firm for the forces favoring stricter immigration controls and lower 
+immigration flows.  fair and other national restrictionist groups such as numbers usa 
+pursued a political strategy that combined washington lobbying and agitation at the local 
+level. when pearce came calling, they quickly recognized it as a golden opportunity (pear 
+2007; sterling 2010).
+in addition to sb 1070, kobach, with irli backing, helped produce copycat legislation 
+in five other states. working with irli, kobach also co-authored municipal ordinances 
+in hazelton, pennsylvania in 2006 and farmers branch, texas in 2007 that sought to bar 
+unauthorized  immigrants  from  renting  housing.  he  penned  another arizona  law  meant 
+to crack down on the employment of unauthorized immigrants as well as several other 
+state and local immigration measures of similar ilk. elected kansas secretary of state in 
+2010, kobach briefly served as an advisor to governor mitt romneys 2012 presidential 
+campaign, and after the election he served as a favored expert for congressional republicans 
+opposing legalization of the unauthorized on the grounds that the federal government had 
+to toughen enforcement first.8
+arizonas sb 1070 has been characterized primarily as a confrontation between a state that 
+is seeking to expand its authority over immigration enforcement and a federal government 
+intent on maintaining its preeminence in that realm (chin and miller 2011; guttentag 2013; 
+motomura 2014). but, kobach serves as one highly visible manifestation of the intricate 
+interconnections between immigration policy developments at the local, state, and federal 
+levels and the extent to which civil society organizations have played an influential role. 
+he very openly operated across the full spectrum simultaneously.
+sb 1070 can hardly be described as a state-level initiative given kobachs role and that 
+of national advocacy organizations like irli in drafting and promoting the legislation, in 
+duplicating the results in far-flung states and in carrying litigation to the supreme court. 
+moreover, the proponents of state-level initiatives also had policy goals in washington. 
+arizonas governor, jan brewer, was every bit as insistent as californias wilson in 1994 
+that the overriding objective was to get the federal government to change its policies (rough 
+2011). and, when alabama passed its hyped version of sb 1070, irli issued a statement 
+
+8   on kobachs career, ideas and influence, see, (kobach 2004, 2005, 2008; von drehle 2013; greenblatt 
+
+2012).
+
+10
+
+journal on migration and human securitydeclaring it not only the most advanced state immigration law in us history, but also an 
+influential guide for nationwide reform by the congress (irli 2011). 
+advocates for more generous immigration policies also took sb 1070 as a rallying cry. 
+although the supreme court eventually decided a case involving the federal government 
+as arizonas opponent, other legal challenges to sb 1070 and the copycat laws elsewhere 
+were brought by the american civil liberties union with a coalition of civil rights groups. 
+the national council of la raza, a latino civil rights organization, led a travel boycott 
+of arizona that produced significant drops in convention and hotel bookings as well as 
+the cancellation of performances by a variety of musicians and cultural groups in the year 
+after the law was enacted (lacey 2011). just as supporters of sb 1070 sought to leverage 
+action at the state level into changes in federal policy, president obama issued a statement 
+when the law was struck down saying, what this decision makes unmistakably clear is that 
+congress must act on comprehensive immigration reform (whitehouse.gov 2012).  
+as  kobach  and  his  allies  sought  to  duplicate  their  success  in  arizona,  civil  society 
+organizations in other states mobilized to block legislation.  in 2011, the florida immigrant 
+coalition, an umbrella of ethnic, labor, religious and advocacy groups, organized a campaign 
+called we are florida! to oppose an sb 1070 copycat bill that was speeding through 
+the florida legislature. the campaign conducted a series of demonstrations in tallahassee 
+and miami in march and april that drew media attention to the bill and eventually the 
+intercession of the states major business groups concerned about a boycott and the potential 
+loss of immigrant labor. as the legislative session drew to a close in may, the bill died 
+(cotterell 2011; kam 2011; sanders and mazzei 2011). the national immigration law 
+center,  a  legal  advocacy  organization  favoring  pro-immigrant  policies,  supported  local 
+efforts that helped block arizona copycat laws in texas, colorado, nebraska, kentucky 
+and tennessee in 2011 (nilc 2012).
+
+civil society, the new dynamism and dreamers
+immigration has been the province of civil society activities dating back to the days of the 
+know-nothing party in the 1850s and initiatives by the roman catholic church to help 
+settle newcomers in the early twentieth century (higham 1988). as the current wave of 
+immigration gained momentum, the long congressional debate leading up to enactment of 
+the immigration reform and control act of 1986 (irca) created the first opportunity in 
+decades for a wide range of interest groupscivil rights organizations, business groups, 
+unions, faith communities and othersto take sides in a capitol hill slugfest on immigration 
+policy (tichenor 2008). meanwhile, the implementation of irca, particularly the provisions 
+that resulted in the legalization of nearly three million unauthorized immigrants, spurred 
+the  development  of  community-based  organizations  in  major  cities  across  the  country, 
+helping immigrants with the registration process and then providing services and acting as 
+advocates for their socio-economic and political incorporation (baker 1997).  
+the devolution of power over welfare and policing in the 1996 legislation created the first 
+opportunity in more than a century for civil society groups to take part in debates on state 
+and local action that directly influenced federal immigration policy and practice. as noted 
+above, the specific application of those laws varied greatly from one place to another, and 
+
+11
+
+california dreaming: the new dynamism in immigration federalismone important factor influencing that variation was the work of policy entrepreneurs who 
+were locally-based but were often affiliated with national organizations (gulasekaram and 
+ramakrishnan 2013). civil society efforts to shape local policies towards welcome got 
+an important boost following the 1996 legislation when the ford foundation, the open 
+society institute, the carnegie corporation of new york and other major philanthropies 
+created multi-million dollar funds to support efforts on a variety of fronts, including the 
+creation of local immigrant rights coalitions, litigation strategies, naturalization campaigns 
+and continued lobbying in washington (campos 2014). in the spring of 2006, immigrants 
+themselves took to the streets of american cities in protest marches that became one of the 
+largest mass demonstrations in us history and obliged congress to take up immigration 
+reform legislation (voss and bloemraad 2011). after those legislative efforts failed in 2007, 
+the foundations launched another major funding initiative that, according to the new york 
+times, eventually saw more than $300 million dispatched to a dozen regional immigrant 
+rights groups and a brace of national organizations for a strategy that operated both locally 
+and in washington to bring about new federal legislation (preston 2014). 
+a  brief  examination  of  the  development  of  policies  towards  early  childhood  arrivals 
+illustrates  the  interaction  between  two  key  characteristics  of  the  new  dynamism  in 
+immigration federalism: civil society activism and policymaking that slides back and forth 
+between federal and state venues. 
+a relatively small segment of the unauthorized populationabout 1.7 million people or 15 
+percent of the totalis comprised of young adults who came to the united states as children 
+(passel and lopez 2012).  they have received more than their share of attention from 
+policymakers and advocates.  in 1996, iirira and prwora sought to bar unauthorized 
+immigrants from receiving federally-funded financial aid or in-state tuition while attending 
+public colleges or universities (ncsl 2011). then in 2001, a large bi-partisan coalition 
+in congress introduced legislation that would have given childhood arrivals not just in-
+state tuition but a path to legalization if they met certain requirements. versions of that 
+legislation, which came to be known as the dream act, were reintroduced repeatedly 
+until the act finally went down in defeat in december 2010 (suro 2010). 
+while washington remained stalemated, two parallel developments unfolded: several state 
+governments weighed in on the issue and a new breed of activists gained national attention. 
+although  they  could  not  change  the  young  peoples  immigration  status,  states  passed 
+legislation granting them in-state tuition, starting with california and texas in 2001 and 
+followed by another 16 states through june 2014 (ncsl 2014).  advocacy groups pressing 
+for state and federal versions of the legislation organized the potential beneficiaries, who 
+soon  became  known  as  dreamers,  and  who  quickly  launched  their  own  brand  of 
+advocacy. for example, the coalition for humane immigrant rights of los angeles, a 
+service and advocacy group launched amid the activism surrounding irca implementation, 
+created an organization for undocumented high school students, wise up!, which in 2003 
+morphed into the california dream network. the organization claimed it was active on 
+38 college and university campuses as of 2011 (mora 2011). as frustration mounted with 
+lack of progress in washington, similar groups from around the country formed a national 
+umbrella organization in 2009, united we dream, and adopted increasingly aggressive 
+tactics, including public demonstrations, sit-ins at the offices of elected officials and the 
+
+12
+
+journal on migration and human securitydisruption of political campaign events (nicholls 2013).  
+in june 2012 dreamers threatened to disrupt president obamas reelection campaign 
+and showed their resolve by holding a sit-in at the campaigns denver office (ingold 2012). 
+within weeks,  the  president used  executive authority to  create the  deferred action for 
+childhood arrivals (daca) program that offers two years of temporary protection from 
+deportation and a work permit to unauthorized young people who meet certain enrollment 
+requirements  (preston  2012).  daca  has  offered  substantial  economic  and  educational 
+gains  for  the  eventual  587,366  enrollees  (perez  2014).  however,  states  took  widely 
+different approaches to the benefits they granted young people with daca credentials, 
+ranging from an absolute bar on attending any state college or university (e.g., alabama 
+and south carolina) to five states that adopted measures granting them admission with 
+in-state  tuition  (e.g.,  massachusetts  and  colorado)  (luzer  2013).  congress  meanwhile 
+remained stalemated with the democratic-led senate passing a comprehensive reform bill 
+in june 2013 and the republican-led house refusing to act. in november 2014 president 
+obama issued a new set of executive orders broadening eligibility for the daca program 
+and creating a new program, deferred action for parental accountability (dapa), for the 
+parents of us citizens or legal permanent residents (shear 2014). with the proverbial stroke 
+of a pen obama demonstrated the national governments sweeping power to determine 
+immigration status. meanwhile, state and local governments immediately began to consider 
+how they could exercise their own powers to shape implementation of the program and its 
+impact (pew 2014).
+with the policy action moving from washington to the states, back to washington and then 
+back out into the states, and with immigrants themselves taking an activist role, the saga of 
+the dreamers demonstrates how the politics and process of immigration policymaking 
+has evolved. 
+
+immigration federalism beyond arizona
+in the closing lines of his majority decision in arizona v. united states, justice anthony 
+kennedy wrote, the sound exercise of national power over immigration depends on the 
+nations meeting its responsibility to base its laws on a political will informed by searching, 
+thoughtful, rational civic discourse.9 one can question the modifiers but the new dynamism 
+in immigration federalism undoubtedly involves vigorous discourse among officials and 
+activists  at  all  levels  of  government.  in  the  wake  of  the  decision  in  arizona  there  has 
+been a wealth of thinking by immigration scholars about how to depict that discourse, 
+looking beyond the drier, and now mostly settled, legal arguments over the balance of 
+power in the realm of enforcement. a brief review of some of that literature helps frame an 
+understanding of how immigration federalism is evolving.
+rejecting  the  notion  that  local  and  national  policymaking  are  sequential,  pratheepan 
+gulasekaram  and  karthick  ramakrishnan  examine  the  recent  history  of  immigration 
+federalism and conclude that the two processes might work concurrently and at odds with 
+one another. so, for example, restrictionist issue entrepreneurs like kobach worked to stall 
+federal policymaking while pursuing their agenda in state and local venues that were seen 
+9   arizona v. united states 132 s.ct. 2492 (2012) (kennedy j. for the court).
+
+13
+
+california dreaming: the new dynamism in immigration federalismas more favorable politically (2013).
+despite the apparent conflict that has characterized state-federal relations over immigration, 
+an emphasis on the potential for collaboration emerges out of much of the recent commentary. 
+cristina s. rodrguez, for example, is a longtime proponent of a cooperative approach to 
+immigration federalism in which all levels of government work together in an integrated 
+system of policymaking rather than trying to claim exclusive prerogatives (2008). more 
+recently, rodrguez has expanded the scope of her analysis to locate immigration within 
+a framework of social issues such as marriage equality, drug control and health care, and 
+describes  a  system  in  which  all  levels  of  government  exercise  influence  on  each  other 
+and some degree of decision-making powers. rather than a fixed system of relationships, 
+rodrguez argues for a vision of dynamism in which the parameters of federalism are 
+subject to ongoing negotiation by the players in the system (rodrguez 2014).
+a similar emphasis on the discursive possibilities comes from rick su who portrays states 
+as uniquely capable intermediaries between national policies and immigrations highly local 
+impacts. regardless of federal court decisions coming down heavily in favor of federal 
+preeminence, su argues in favor of affirmative steps to incorporate [states] directly into 
+the discourse and promote them as a forum for conversation about immigration (2014). 
+moving  towards  operationalizing  this  concept,  ming  h.  chen  argues  for  a  distinction 
+between  immigration  regulation  at  the  border,  where  federal  law  reigns  supreme  on 
+matters of entry, and immigration policies between the borders, where state and local 
+governments should be given considerable latitude (2014). 
+in one of the most extensive post-arizona analyses, hiroshi motomura argues in his 2014 
+book, immigration outside the law, for distinguishing direct involvement in immigration 
+law which refers to government decisions whether to admit or exclude aliens, an undisputed 
+federal  domain  like  chens  at  the  border  policies.  by  contrast,  motomura  describes 
+a realm of indirect involvement where state and local governments can play a role in 
+several  different  ways. they  can  become  involved  in  enforcement  through  cooperative 
+agreements with federal authorizes or undertake their own efforts to make life difficult for 
+unauthorized immigrants. other forms of indirect involvement in motomuras view are 
+state and local policies that neutralize federal enforcement policies, effectively shielding 
+the unauthorized from federal regulation and thus permitting them to integrate into local 
+communities regardless of immigration status (2014).
+this paper now turns its attention to the latter kind of state and local policies and their 
+potential to change life for the unauthorized and to eventually help change federal policy. 
+after  examining  four  different  kinds  of  sub-federal  activities,  the  paper  concludes  that 
+state and local governments are doing more than neutralizing federal enforcement policies. 
+rather, they are mitigating federal laws and regulations that determine immigration status 
+in the sense that they are reducing the penalty to be paid for violating those policies. 
+moreover,  the  cumulative  effect  of  the  policies  described  below  can  be  to  create  the 
+potential for inclusion of immigrants regardless of status. a useful definition of the term in 
+this context comes from maria lorena cook: 
+
+by  inclusion  i  mean  an  individual  or  groups  engagement  with  processes  or 
+
+14
+
+journal on migration and human securityorganizations that recognize the individual or group either by conferring membership 
+or by providing resources such as entitlements or protections.  inclusion provides a 
+sense of security, stability, and predictability, understood primarily as an ability to plan 
+for the future. (2013)
+
+mitigating the federal: inclusion at the local level
+as noted above, sub-federal jurisdictions have varied greatly in their willingness to cooperate 
+with federal immigration enforcement ever since some policing powers were devolved in 
+1996. the secure communities program was launched in 2008 and identified unauthorized 
+immigrants for removal by checking the fingerprints of persons arrested or booked into 
+custody by local authorities. president obama ended it as one of the executive actions 
+announced in november 2014, saying federal agents should focus on deporting felons, 
+not families (linthicum 2014). during its short life span, secure communities provoked a 
+variety of state and local governments to take actions that neutralize federal immigration 
+regulations to borrow motomuras expression. for example, in october 2014 the catholic 
+legal immigration network, inc. had counted three states, 26 cities, 233 counties and the 
+district  of  columbia  as  having  restricted  cooperation  (clinic  2014).  however,  some 
+state and local governments are doing more than that. not satisfied with simply negating 
+enforcement, they are taking proactive steps to welcome immigrants regardless of their 
+status under federal law. these mitigate the condition of illegality. 
+on november 19, 2005, illinois governor rod r. blagojevich signed the new americans 
+executive order, which launched a package of efforts to coordinate policies and programs 
+that promote integration or otherwise provide services to immigrants and to help the state 
+assert its voice on federal immigration policies. the illinois initiative was the result of 
+a public-private partnership that involved foundation funding, think-tank advice and an 
+explicitly influential advisory role for local and national advocacy groups and civil society 
+organizations from immigrant communities (illinois.gov 2005). since then, the model of 
+a coordinating office for immigrant services has been adopted in michigan, new york, 
+massachusetts  as  well  as  a  number  of  cities  including  los angeles,  philadelphia  and 
+baltimore.  in  many  of  these  cases  the  explicit  intent  has  been  to  entice  the  settlement 
+of immigrants as part of an economic development strategy (turner 2012). a number of 
+rustbelt cities like columbus, cleveland and lansing that were facing population losses 
+have recruited immigrants with packages of incentives and services, and in some of the most 
+successful cases, like dayton, which has attracted more than 3,000 turkish newcomers, 
+local citizens and business groups have joined municipal officials in developing detailed 
+action plans for immigrant settlement (altman 2014; preston 2013).  
+while  these  welcoming  programs  were  spurred  by  local  concerns  and  local  policy 
+entrepreneurs,  other  inclusionary  policies  have  echoed  federal  initiatives.  for  example, 
+president clinton issued an executive order in 2000 that requires any state or local agency 
+receiving federal funds to bridge language barriers with beneficiaries who have limited 
+proficiency in english. however, the federal government has not attempted to dictate how 
+this requirement is to be met nor has it undertaken a significant accountability effort. as a 
+result, a remarkable variety of approaches have emerged from state and local agencies of 
+
+15
+
+california dreaming: the new dynamism in immigration federalismall sorts, from schools to courtrooms to city halls, utilizing everything from the deliberate 
+employment  of  bilingual  staff,  to  the  translation  of  printed  materials,  and  the  use  of 
+interpretation technologies (mpi 2014). 
+the  two  examples  of  sub-federal  action  described  above  attempt  to  exploit  federal 
+immigration  policies  for  maximum  local  benefit.  these  efforts  certainly  are  not 
+contravening federal intentions, but they are creating conditions not necessarily envisioned 
+by the framers of federal policy. dayton, for example, has made unique uses of federal 
+policies in order to welcome a stateless ethnic turkish population, the aishka, first finding 
+spaces through refugee admissions and then through both family and business visas, and 
+specifically facilitating real estate investments that have rejuvenated declining parts of the 
+city (navera 2014).  compliance with the federal language access requirement has varied 
+enormously as some jurisdictions and agencies have embraced it energetically while others 
+have ignored it to the point that the justice department in a 2011 memorandum complained 
+about the uneven response even within the federal government.10 
+all of these local initiatives have two other characteristics in common. to varying degrees 
+they  all  create  points  of  interaction  between  immigrants  and  government  offices,  local 
+business, civil society organizations and ordinary citizens. the welcoming initiatives in 
+particular  have  also  often  stimulated  the  creation  of  civil  society  organizations  within 
+immigrant  communities  to  mediate  interactions  with  the  host  community.  the  second 
+common characteristic is that these sub-federal initiatives erase, or at least blur, the many 
+levels of immigration that are at the heart of federal policies. virtually all of these local 
+initiatives  have  deliberately  adopted  a  dont  ask,  dont  tell  approach  to  immigration 
+status. in some cases this has been a matter of publicly announced policies not to inquire 
+about an individuals status unless it is explicitly required by a state or federal law. in other 
+cases government agencies contract out all services and do not require the contractors to 
+conduct status verification (montalvo et al. 2014). so, for example, an individual might 
+receive advice on opening a small business, get directed to training classes, and complete 
+forms in her native language, but she will be advised that obtaining a federal small business 
+loan will require proof of status while a loan from a local bank might not.
+for an unauthorized immigrant, the sub-federal policies described above begin to mitigate 
+the status of illegality. this word is used here to mean an action that lessens the severity 
+of  a  negative  condition,  or  reduces  the  penalty  for  an  offense.  these  policies  actively 
+encourage interactions between unauthorized immigrants, public officials, and community 
+institutions that might not happen otherwise. as a matter of public policy, they create safe 
+spaces where some of the harshest negative consequences of federal illegality are alleviated 
+if not erased. self-ostracism from public agencies even when interactions are permissible 
+and social isolation from the civic institutions of a host community are not explicit aspects 
+of federal policy, but they are undoubtedly one of the effects and often have devastating 
+results  on  households  (yoshikawa  2011).  the  policies  described  above  create  specific 
+venues where the effects of federal immigration status are mitigated. sub-federal policies 
+
+10   memorandum from attorney general eric holder to heads of federal agencies, general counsels, and 
+
+civil rights heads, federal governments renewed commitment to language access obligations under 
+executive order 13166, 17 february 2011. http://www.lep.gov/13166/ag_021711_eo_13166_memo_to_
+agencies_with_supplement.pdf. 
+
+16
+
+journal on migration and human securitythat give documents to the undocumented go a step further. 
+the issuance of a drivers license has traditionally been the purview of state government. 
+the federal government entered the field with enactment of the real id act of 2005 
+which  sets  standards  for  drivers  licenses  and  other  identity  documents  that  federal 
+agencies  recognize  for  purposes  such  as  boarding  a  commercial  airplane  or  entering  a 
+federal facility.11 under those standards no unauthorized immigrant can obtain a drivers 
+license. due to various controversies, the full implementation of the real id act has 
+been repeatedly postponed, but many states nonetheless have adjusted their drivers license 
+laws and regulations to produce federally compliant documents. by 2013, however, 10 
+states and the district of columbia had passed legislation to create parallel licenses that 
+would not be valid for federal use, but that also would not require the documentation of 
+immigration status delineated in the real id act (trpi 2014). 
+holding a drivers license can have important practical consequences for an unauthorized 
+immigrant. it can improve employment possibilities and lower exposure to the penalties of 
+driving without a license, a crime in all but a handful of states. along with municipal identity 
+cards of the sort to be issued by new york city, a license can facilitate check cashing, the 
+use of a credit card, enrollment in school and myriad other day-to-day activities. in all of 
+these ways an identity document issued by a sub-federal government further mitigates the 
+federal status of being an unauthorized immigrant. moreover, it has an important intangible 
+effect  by  conferring  the  most  basic  form  of  recognition  on  an  individual. through  the 
+issuance of a drivers license or identity card, an unauthorized immigrant regains the use of 
+their own name which otherwise might have to be dissembled in the false documents which 
+are essential to life out of status.
+the process of obtaining this identification can itself create further points of engagement 
+that reduce the social isolation of an unauthorized immigrant. in the final months of 2014, 
+as california prepared for implementation of its new drivers license law at the start of the 
+new year, thousands of unauthorized immigrants attended training sessions at churches, 
+community organizations, schools, and public libraries. meanwhile, the state department 
+of motor vehicles engaged in a massive outreach effort and added 900 employees and 
+four new processing centers to speed the effort (gonzalez and espinoza 2014). with each 
+training session unauthorized immigrants are encountering volunteers or state employees 
+who are making a positive effort to include them in a formal governmental process. and in 
+many instances, immigrants themselves are organizing to prepare their compatriots for the 
+application process. 
+when all of the policies described in this section are applied together as is the case in some 
+major concentrations of the immigrant population such as new york, chicago and large 
+parts of california, the cumulative effect can be the creation of a new kind of civic status 
+that permits an unauthorized immigrant to engage openly with schools, hospitals, police 
+departments and other government agencies. this can open up encounters as significant 
+as reporting a crime to the seemingly trivial such as a call to an animal control agency 
+about  a  stray  dog  which  might  otherwise  be  fraught.  moreover,  the  implementation  of 
+welcoming policies and the process of registering for benefits such as a drivers license 
+
+11   p.l. 109-13, div. b.
+
+17
+
+california dreaming: the new dynamism in immigration federalismcan involve interactions with civil society organizations of all sorts and the formation of 
+stronger community organizations among immigrants themselves.
+
+conclusion
+at the start of 2015 in california, home to a quarter of all the foreign-born in the united 
+states  including  some  2.5  million  unauthorized  immigrants,  an  individual  regarded  as 
+out-of-status by federal standards can get a drivers license, apply for a number of health 
+and welfare programs, go to a state university and pay in-state tuition, and practice law.  
+meanwhile, across the state line in arizona that same person would be subject to the show-
+me-your-papers provision of sb 1070 which the supreme court let stand. they would 
+also be subject to state regulations that could turn any contact with a state agency into an 
+encounter with a federal agent, and any prospective employer would be obliged to check 
+the individuals identity against a federal database. 
+the united states now has dozens of immigration policies that are determined by a mix 
+of local, state and federal directives rather than just one federal policy set in washington. 
+this  patchwork  is  the  result  of  two  decades  of  continuous  exchanges  across  all  levels 
+of  government  over  immigration  policies,  particularly  those  related  to  unauthorized 
+immigrants,  and  the  actions  of  newly-empowered  advocates  in  civil  society.  at  the 
+sub-federal level this has produced such a variety of policies that the meaning of being 
+unauthorized can vary greatly from one place to another. at the federal level, political 
+stalemate has blocked congress from passing reform legislation, but president obama in 
+2012 and 2014 deployed executive actions to create new protected classes of individuals. 
+the net effect has been to move the issue away from the black and white delineations of 
+statutory provisions and towards a proliferation of grey areas that invite still further action 
+by sub-federal governments to define the practical consequences of status. meanwhile, the 
+judiciary has set limits on how far state and local governments can go to restrict the activities 
+of the unauthorized or how aggressively they can funnel them into the federal enforcement 
+system. but, within those limits many sub-federal jurisdictions remain explicitly hostile to 
+unauthorized immigrants while others offer various forms of welcome and even shelter. 
+in principle, a system of federalism that is so dynamic and that leads to such divergent 
+results might seem unlikely to survive its own  instability and ineffectiveness. yet over 
+the past 20 years the combination of practices described in this paper have become so 
+ingrained that it seems unlikely that strict uniformity could be imposed even if washington 
+enacted the most sweeping immigration reform. in this regard immigration has become 
+more  like  several  other  major  issues  that  are  defined  by  wide  policy  variations  among 
+states, like abortion, or variations between states and the federal government, like the sale 
+and possession of marijuana. this is more than a matter of process, which is rodrguezs 
+emphasis. it has become a matter of facts on-the-ground that have acquired a hardened 
+permanence. leaving aside the constitutional questions, it is hard to imagine how a national 
+government, even under the united rule of one party, would impose on new york the same 
+abortion regulations that apply in texas or require mississippi to adopt colorados laws 
+on marijuana. similarly, it is hard to imagine how any combination of federal laws could 
+impel california and arizona to adopt the same policies towards unauthorized immigrants.  
+
+18
+
+journal on migration and human securitylack of uniformity is the price for the kind of federalism that has developed on immigration, 
+and after two decades it may be time to start considering policy diversity the norm rather than 
+an aberration. state and local governments have been given important roles on immigration 
+by federal actions, and they have taken on roles by their own initiative. immigration policy 
+operates as a dynamic interaction among governments at all levels, and it is subject to the 
+influence of a wide spectrum of policy actors ranging from the two established political 
+parties to political mobilization by communities of newcomers with no civic status. these 
+are accomplished facts. they reflect several processes that have hardened over the past two 
+decades: the growth of a large and well-established immigrant population; the establishment 
+of a federalist arrangement that involves extensive interaction between state and federal 
+government  over  major  domestic  policies  such  as  health,  education,  law  enforcement, 
+and  immigration;  and  steadily  intensifying  partisan  and  ideological  polarization. these 
+circumstances do not seem likely to change any time soon.
+it was not the intent of this paper to draw judgments about the worthiness or the workability 
+of these developments. after all, one of the prime characteristics of the new dynamism in 
+immigration federalism described here is a diversity of policies, processes and outcomes. 
+by its very nature such diversity is difficult to judge. anyone with strong views on the 
+subject is likely to find some developments to favor and others to oppose. and given the 
+fact that this is a highly dynamic situation, any such judgments may only be valid until an 
+election changes control of a state house or a governors mansion, congress or the white 
+house.  the united states has a long but not felicitous history of regionalism characterized 
+by the differential treatment of groups by race, national origin and economic class.  over the 
+course of that history the federal government has a mixed record of guaranteeing national 
+norms of social or economic justice or even simply assuring that minimum human rights 
+standards are met. arguably, we are at a low ebb in washingtons abilities to homogenize 
+regional  differences  on  social  issues  and  immigration  potently  provokes  heterogeneous 
+responses across the country. 
+now, and for the foreseeable future, the experience of being an immigrant in the united 
+states will vary significantly from place to place, and that variation will include the quality of 
+an immigrants interaction with public agencies of all sorts. some places will be welcoming 
+and inclusive and other places will be inhospitable and exclusionary. these differences 
+will be most notable for unauthorized migrants but will apply to legal immigrants and 
+even naturalized citizens to some extent. but, immigrants will not be passive objects of 
+the climates they inhabit. the devolution of decision making over immigration policy to 
+states and localities has greatly increased the potential influence of civil society over those 
+decisions, including civil society generated by immigrant communities themselves.  
+president  obama  is  fond  of  saying  that  we  are  both  a  nation  of  laws  and  a  nation  of 
+immigrants. he may be remembered for having overseen the enshrinement of a dynamic 
+immigration federalism marked by a great diversity of laws and a great many different 
+ways of being an immigrant in the united states. 
+
+19
+
+california dreaming: the new dynamism in immigration federalism

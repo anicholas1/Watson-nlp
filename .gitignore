@@ -1,4 +1,5 @@
 test*
 .ipynb_checkpoints*
 .idea*
+conda.txt
 

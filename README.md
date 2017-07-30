@@ -1,6 +1,11 @@
 # Watson-nlp
 Watson project
 
+
+This project uses python 2.7
+
+I've attached a python notebook and .py files for each, but I would use the notebooks
+
 # Text-Processing
 Text-processing.py processes pdfs to convert them to text and saves them as a csv file to be loaded later
 

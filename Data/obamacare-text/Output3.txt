@@ -1,0 +1,790 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+did consumers respond to changes in gross premiums or to changes in premiums net of tax 
+
+credits when making health plan choices in the 2016 aca marketplaces? 
+
+ 
+
+january 18, 2017 
+
+ 
+the affordable care act established the health insurance marketplaces (marketplaces) to provide 
+consumers with choices of affordable health plans offered in a competitive insurance market. 
+healthcare.gov and state-run marketplaces offer detailed information about each health insurance plan 
+sold in an area, including the premiums, deductibles, other out-of-pocket costs, provider network, and 
+more. consumers can obtain information regarding their expected premium after tax credits by inputting 
+their age, income, family size, geographic location, and smoking status when shopping.   
+ 
+previous modeling by aspe assumed that consumers make their plan choices based on their expected 
+premiums net of tax credits.i however, as there is much public reporting each year  especially in the 
+media  regarding premium growth that does not take into account the countervailing effect of premium 
+tax credits, it is conceivable that increases in gross premiums could have an effect on consumers plan 
+choices.  
+ 
+to explore whether consumers responded to changes in net or gross premiums when making health plan 
+choices in the 2016 aca marketplaces, we conducted two sets of analyses, one based on comparing 
+counties and one based on comparing individuals.   
+
+ 
+
+in the county-level analysis, we conduct a statistical analysis comparing plan switching rates across 
+counties by changes in average enrollment-weighted gross premiums between 2015 and 2016 and by 
+changes in benchmark premiums between 2015 and 2016. the logic behind the county-level analysis is 
+that, in counties in which average gross premiums increased yet benchmark premiums kept pace, most 
+consumers likely saw little change in their premiums net of tax credits.  thus, if consumers are 
+responding only to net premiums when making plan choices, it should not matter, in these counties, 
+whether gross premiums increased by a large or small degree.  however, if consumers are responding to 
+increases in gross premiums when making plan decisions, we likely would see more consumers 
+switching plans in counties when gross premiums increase regardless of whether benchmark premiums 
+kept pace.   
+ 
+
+                                                 
+i for example, see deleire and marks, consumer decisions regarding health plan choices, in the 2014 and 2015 
+marketplaces aspe research brief, october 28, 2015. 
+
+1 
+
+ 
+
+in our individual-level analysis, we conduct a statistical analysis examining whether consumers were 
+more likely to switch plans in 2016 when their gross premium increased, or when their net premium 
+increased.   
+ 
+
+  comparing counties, we find:  
+
+key findings 
+
+o  a substantially greater fraction of marketplace enrollees switched plans in 
+2016 when average premiums increased but benchmark premiums did not 
+keep pace than if premiums did not change. 
+
+  for example, we estimate that a $50 increase in average premiums 
+
+with no change in benchmark premiums would lead to a 9.8 
+percentage point increase in the switching rate (a 37% increase). 
+
+o  when average premiums increased but benchmark premiums increased by the 
+
+same amount, the fraction of marketplace enrollees that switched plans in 
+2016 increased by a small amount, consistent with the fact that only a small 
+percentage of enrollees are not eligible for premium tax credits.   
+
+  for example, we estimate that a $50 increase in both average 
+
+premiums and benchmark premiums led to a 3 percentage point 
+increase (11%) in the switching rate. 
+
+o  these results suggest that consumers primarily respond to net premiums, 
+
+rather than to gross premiums, when making plan selections in 2016.  
+
+  examining consumer decisions at the individual-level, we find: 
+
+o  consumers were much more likely to switch plans when the net premium of 
+their 2015 plan increased (e.g., when that plans premium increases by more 
+than the benchmark premium), but were not more likely to switch plans when 
+the gross premium of their 2015 increased but the net premium did not.  
+
+  for example, we estimate that, if both net premiums and gross 
+
+premiums increased by $50, the fraction of enrollees switching plans 
+in 2016 increased 7.4 percentage points (34%).  however, if gross 
+premiums increased by $50 but net premiums did not change, there 
+was no increase in the fraction of enrollees switching plans. 
+
+o  these results also suggest that consumers only responded to net premiums, 
+
+and did not respond to gross premiums, when making plan selections in 2016.  
+
+ 
+
+ 
+
+i.  consumer responsiveness to changes in average and benchmark 
+
+premiums at the county level 
+
+ 
+a. motivation 
+ 
+counties experienced large variation in their rates of premium growth  both growth in average 
+premiums and benchmark premiums  between 2015 and 2016.  because of the way in which tax credits 
+are calculated, consumers who are eligible for premium tax credits (roughly 85% of marketplace 
+enrollees in 2015), experience no increase in premiums net of tax credits if benchmark premiums 
+increase by the same amount as their plans premium. (for the purposes of this analysis, we hold 
+consumers age, family composition, and income constant.)  thus, we would expect to see little 
+difference in consumer behavior across counties in which average premiums and benchmark premiums 
+
+ 
+
+2 
+
+increased by the same amount, if consumers responded to premiums net of tax credits when making plan 
+decisions. however, if consumers respond to average premiums without taking into account tax credits, 
+we would see greater responsiveness (in terms of plan switching) among consumers in counties in which 
+average premiums increased substantially regardless of whether benchmark premiums kept pace. 
+ 
+b. approach 
+ 
+to conduct this analysis, we calculate the enrollment-weighted average age 21 marketplace premium in 
+each county in 2015 and 2016 using enrollment and premium data from cms on states using the 
+healthcare.gov platform in both 2015 and 2016.  we also calculate the benchmark premium in each 
+county in each year.  finally, we calculate the county-level switching rate as the fraction of individuals 
+in a county that purchased marketplace coverage in both 2015 and 2016 who selected a different plan in 
+2016 than in 2015.ii  
+ 
+table 1 reports the average and standard deviation of these premiums in each year as well as of the 
+switching rate in 2016.  
+ 
+
+table 1 
+county-level summary statistics 
+
+ 
+
+fraction of 2015 enrollees that 
+switched plans in 2016 
+
+ 
+
+average age 21 2015 premium 
+average age 21 2016 premium 
+difference  
+percent difference 
+
+2015 age 21 benchmark 
+premium 
+2016 age 21 benchmark 
+premium 
+difference  
+percent difference 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mean 
+
+0.215 
+
+$217.85 
+$236.32 
+$18.44 
+8.1% 
+
+standard 
+deviation 
+
+0.132 
+
+$27.47 
+$35.86 
+$19.48 
+7.9% 
+
+ 
+
+ 
+
+ 
+
+$217.83 
+
+$30.59 
+
+$229.59 
+$16.41 
+7.2% 
+
+$39.67 
+$24.04 
+10.4% 
+
+n 
+source:  cms enrollment and premium information from 
+states using the healthcare.gov platform in 2015 and 2016. 
+
+2,597 
+
+ 
+
+ 
+
+ 
+
+notes: statistics are weighted by total marketplace 
+enrollment at the county-level. 
+
+ 
+ 
+
+                                                 
+ii for consumers whose 2015 plan is no longer available in 2016, we do not consider them to have switched plans if they 
+select the cross-walked plan.   
+
+ 
+
+3 
+
+findings 
+
+we conduct a statistical analysis in which we related the county-level switching rate to the 2015 to 2016 
+changes in the county-level average premium and the county-specific benchmark premium using linear 
+regression.  we estimate two specifications, one in which the change in premiums are measured in 
+dollars, and one in which the change in premiums are measured in percentage terms.  the results of this 
+statistical analysis are reported in appendix table 1.  
+ 
+ 
+c. 
+ 
+the county-level switching rate was highly sensitive to changes in average premiums and was 
+sensitive only to a small degree to changes in average premiums net of changes in benchmark 
+premiums in 2016, based on the results of our statistical model. 
+ 
+this result is illustrated in table 2 and in figure 1.  in both, we report the estimated increase in the 
+county-level switching rate in response to a $50 increase in both the average and benchmark premium 
+and the estimated increase in the switching rate in response to a $50 increase in the average premium 
+with no change in the benchmark premium.iii  in the case in which average premiums increase and 
+benchmark premiums keep pace, most consumers would not see much of a change in their premiums net 
+of tax credits.  however, in the case in which average premiums increase but benchmark premiums do 
+not change, all consumers would see their premiums increase as tax credits would not change from their 
+previous-year levels.   
+ 
+in 2016, the average county-level switching rate was 21.5%.  the results show that the switching rate 
+was substantially higher  9.8 percentage points higher  in counties in which average premiums 
+increased by $50 but benchmark premiums did not change.  by contrast, the switching rate was only 
+slightly higher  3.0 percentage points higher  in counties in which both average and benchmark 
+premiums increased by $50.  this finding is consistent with the fact that only a small percentage of 
+marketplace consumers were not eligible for tax credits in 2015 and 2016. 
+ 
+
+table 2 
+estimated responsiveness of the county-level switching rate to changes in the average 
+and benchmark premiums 
+percentage point increase in switching rate if both average and benchmark 
+premiums increase by $50 
+percentage point increase in switching rate if only average premium 
+increases by $50 
+
+ 
+
+3.0% 
+
+9.8% 
+
+average county-level switching rate 
+source:  cms enrollment and premium information from states using the healthcare.gov 
+platform in 2015 and 2016. 
+notes: based on a linear regression weighted by county-level marketplace enrollment.  
+model results reported in appendix table1.   
+
+21.5% 
+
+ 
+
+ 
+
+ 
+
+                                                 
+iii these estimates are based on the specification, reported in appendix table 1, in which we measure changes in premiums in 
+levels.  we prefer this specification because premiums net of tax credits are designed to remain constant only if benchmark 
+premiums increase by the same amount, in dollar terms, as the increase in premiums. 
+
+ 
+
+4 
+
+figure 1 
+
+responsiveness of county-level switching rate 
+to changes in average and benchmark premiums 
+
+12.0%
+
+10.0%
+
+8.0%
+
+6.0%
+
+4.0%
+
+2.0%
+
+0.0%
+
+percentage point increase in switching
+
+percentage point increase in switching
+
+rate if both average and benchmark
+
+rate if only average premium increases by
+
+premiums increase by $50
+
+$50
+
+ 
+
+ 
+the findings presented in table 2 and in figure 1 are consistent with consumers being sensitive to the 
+net premium rather than to the gross premium when making health plan choices in 2016.   
+ 
+
+ii.  consumer responsiveness to changes in net and gross premiums at 
+
+the individual level 
+
+ 
+a.   motivation 
+ 
+consumers also experienced large variation in how much the gross premium of their 2015 plan 
+increased in 2016 and in how much the premium, net of tax credits, of their 2015 selected plan increased 
+in 2016.  in this section, we explore whether consumers are sensitive to changes in their net premium or 
+to changes in their gross premium when making marketplace plan choice decisions.  
+ 
+consumers who were enrolled in marketplace plans in 2015 could have seen these premiums change to 
+varying degrees in 2016.  moreover, they also could have seen changes in their net premiums 
+depending, in addition, upon how their benchmark premium changed between 2015 and 2016.  2016 
+premium tax credits also could change if the consumers family income or family size changed.  
+ 
+because of the same underlying variation across areas in premiums and benchmark premiums discussed 
+in the previous section, there was a great deal of variation across consumers in terms of how gross and 
+net premiums changed between 2015 and 2016.  we use this variation to determine whether consumers 
+respond to changes in their gross premium or to changes in their net premium when making 2016 plan 
+choices. 
+ 
+b. approach 
+ 
+to conduct the individual-level analysis, we restrict the population to 2016 marketplace enrollees who 
+were also enrolled in 2015.  for each of these consumers, we determine both the gross premium and the 
+premium net of any advanced premium tax credits of the plan selected in 2015.  we also determine the 
+2016 gross premium of the plan the consumer selected in 2015.  the difference in gross premiums, for a 
+consumer, between 2015 and 2016 is calculated as the difference between the 2015 and 2016 premium 
+
+ 
+
+5 
+
+of the plan selected in 2015.  we calculate the 2016 net premium of the plan the consumer selected in 
+2015 as the 2016 gross premium of that plan less the amount of aptc the consumer was eligible for in 
+2016.  the difference in net premium between 2015 and 2016 is calculated as the difference between the 
+2015 and 2016 net premiums of the plan selected in 2015.  finally, we determine that a consumer 
+switched plans between 2015 and 2016 if the plan selected in 2016 is different from the plan selected in 
+2015.iv     
+ 
+table 3 reports the average and standard deviation of premiums in each year and of the individual level 
+switching rate in 2016.   
+ 
+
+table 3 
+individual-level summary statistics 
+
+ 
+
+ 
+
+fraction of 2015 enrollees that 
+switched plans in 2016 
+
+ 
+
+2015 gross premium 
+2016 gross premium of 2015 
+selected plan 
+difference  
+percent difference 
+
+2015 net premium 
+2016 net premium 
+difference  
+percent difference 
+
+n 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+individuals 
+
+mean 
+
+standard 
+deviation 
+
+0.215 
+
+0.169 
+
+$351.91 
+
+ 
+
+$181.70 
+
+ 
+
+$409.67 
+$57.77 
+15.3% 
+
+ 
+
+$139.51 
+$179.26 
+$39.74 
+33.2% 
+
+$211.55 
+$60.89 
+14.4% 
+
+ 
+
+$141.96 
+$161.79 
+
+85.5 
+70.2% 
+
+ 
+
+9,862,592 
+
+ 
+
+source:  cms enrollment and premium information from states 
+using the healthcare.gov platform in 2015 and 2016. 
+
+ 
+one could determine whether consumers respond to changes in gross or net premiums by estimating 
+linear regressions of the probability of switching plans in 2016 where the change in the net premium of 
+the 2015 selected plan and the change in the gross premium of the 2015 selected plan are the 
+independent variables. however, this approach is complicated by the fact that the change in the net 
+premium between 2015 and 2016 likely is endogenous.  this endogeneity could arises because changes 
+in income or changes in family size should have a direct effect on whether a consumer changes plans 
+above and beyond any indirect effects through how these changes affect premium tax credits.  as a 
+result, we use a method that deals with this issue. 
+ 
+to estimate the effect of changes in the consumers net premium on plan choice decisions, we use an 
+instrumental variables approach.  we first construct a simulated 2016 net premium of the consumers 
+
+                                                 
+iv for consumers whose 2015 plan is no longer available in 2016, we do not consider them to have switched plans if they 
+select the cross-walked plan. 
+
+ 
+
+6 
+
+2015 selected plan as the 2016 gross premium less the consumers 2015 aptc, which is unaffected by 
+changes in the consumers income or family size between 2015 and 2016.  at the same time, there is 
+substantial stability across plan years in terms of aptcs.  we then use the change between the 2015 net 
+premium and the 2016 simulated net premium as an instrument for the change in the net premium 
+between 2015 and 2016 in our analysis.v  the results of this statistical analysis are reported in appendix 
+table 2.  as in the county-level analysis, we report the results of two specifications: one in which the 
+difference in premiums is measured in levels and one in which this difference is measured in percentage 
+terms.  
+ 
+c.   findings 
+ 
+the likelihood that consumers switched plans in 2016 was highly sensitive to changes in net 
+premiums and was not sensitive to changes in gross premiums, based on the results of our 
+statistical model. 
+ 
+this result is illustrated in table 4 and in figure 2.  in both, we first report the estimated percent 
+increase in the individual-level switching rate in response to a $50 increase in the gross premium with 
+the net premium not increasing at all (which could occur, for example, if the benchmark premium 
+increased by the same amount as the consumers 2015 premium).  second, we report the estimated 
+change in the individual-level switching rate in response to a $50 increase in both the gross and net 
+premium (which could occur, for example, if the consumers 2015 premium increased but the 
+benchmark premium did not change).vi  
+ 
+in 2016, the average individual-level switching rate was 21.5%.  the results show that the switching rate 
+was substantially higher  7.4 percentage points higher  among individuals whose net premiums 
+increased by $50.  by contrast, the results show that the switching rate was not higher among individuals 
+whose gross premiums increased but whose net premiums did not change.   
+
+table 4 
+
+estimated responsiveness of the county-level switching rate to changes in the average and 
+benchmark premiums 
+
+ 
+
+percentage point increase in switching rate if gross premium increases by $50 
+but net premium does not change 
+
+percentage point increase in switching rate if gross and net premiums both 
+increase by $50 
+
+average individual-level switching rate 
+
+-3.2% 
+
+7.4% 
+
+21.5% 
+
+ 
+
+ 
+
+source:  cms enrollment and premium information from states using the healthcare.gov platform 
+in 2015 and 2016. 
+
+notes: estimated by instrumental variables.  robust standard errors clustered at the rating area 
+level are reported in parentheses.   
+
+                                                 
+v the coefficient from the first-stage regression of simulated change in net premiums on the change in net premiums is 
+1.002 with a standard error of 0.001.  the coefficient from the first-stage regression of the percent change in simulated net 
+premiums on the percent change in net premiums is 0.138 with a standard error of 0.005. 
+vi these estimates are based on the specification, reported in appendix table 2, in which we measure changes in premiums in 
+levels.  we once again prefer this specification because premiums net of tax credits are designed to remain constant only if 
+benchmark premiums increase by the same amount, in dollar terms, as the increase in premiums. 
+
+ 
+
+7 
+
+responsiveness of individual-level switching 
+rate to changes in gross and net premiums 
+
+figure 2 
+
+8.0%
+
+6.0%
+
+4.0%
+
+2.0%
+
+0.0%
+
+-2.0%
+
+-4.0%
+
+percentage point increase in switching
+
+percentage point increase in switching
+
+rate if gross premium increases by $50 but
+
+rate if gross and net premiums both
+
+net premium does not change
+
+increase by $50
+
+ 
+
+ 
+the findings presented in table 4 and in figure 2, once again, are consistent with consumers being 
+sensitive to the net premium rather than to the gross premium when making health plan choices in 2016.   
+ 
+iii.  conclusions 
+ 
+in this brief, we examine whether there is evidence that consumers responded to gross premiums, rather 
+than to net premiums, when making plan choice decisions in 2016.  we find little evidence to support 
+the idea that consumers responded to changes in gross premiums during the 2016 open enrollment 
+period.   
+ 
+in 2017, the increases in average premiums were substantial in many parts of the country and tended to 
+be much larger than in 2016.vii  however, because benchmark premiums increased substantially as well, 
+we expect that most consumers will see little change in their premiums net of tax credits.  the findings 
+presented in this brief suggest that consumers will respond to the change in their net premium, not to 
+changes in the premium without taking into account tax credits.   
+ 
+ 
+ 
+
+ 
+
+                                                 
+vii health plan choice and premiums in the 2017 health insurance marketplace aspe research brief, october 24, 2016. 
+
+ 
+
+8 
+
+appendix tables 
+ 
+ 
+
+appendix table 1 
+
+effect of changes in average and benchmark premiums on 
+county-level switching rates 
+
+ 
+
+ 
+
+ 
+difference in average 
+premium, 2015 to 2016 
+
+difference in benchmark 
+premium, 2015 to 2016 
+
+constant 
+
+n 
+
+level 
+
+percent 
+
+differences 
+
+differences 
+
+0.0020 
+(0.0005) 
+
+-0.0014 
+(0.0004) 
+
+0.2648 
+(0.0063) 
+2,597 
+
+0.4418 
+(0.1097) 
+
+-0.2654 
+(0.0898) 
+
+0.2621 
+(0.0067) 
+2,597 
+
+ 
+
+ 
+
+ 
+
+source:  cms enrollment and premium information from states 
+using the healthcare.gov platform in 2015 and 2016. 
+
+notes: estimated by linear regression weighted by county-level 
+marketplace enrollment.  robust standard errors are reported in 
+parentheses.   
+
+ 
+
+9 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+appendix table 2 
+
+effect of changes in gross and net premiums on individual-level 
+switching rates 
+
+ 
+
+ 
+
+ 
+
+difference in gross premium, 
+2015 to 2016 
+
+difference in net premium, 
+2015 to 2016 
+
+constant 
+
+n 
+
+level 
+
+differences 
+
+percent differences 
+
+-0.0006 
+(0.0005) 
+
+0.0021 
+
+0.1276 
+(0.0285) 
+
+0.0554 
+
+(0.0007) 
+
+(0.0092) 
+
+0.2102 
+(0.0059) 
+9,862,592 
+
+0.2191 
+(0.0062) 
+9,862,592 
+
+ 
+
+ 
+
+ 
+
+source:  cms enrollment and premium information from states using the 
+healthcare.gov platform in 2015 and 2016. 
+notes: estimated by linear regression weighted by county-level 
+marketplace enrollment.  robust standard errors are reported in 
+parentheses.   
+
+10 
+
+

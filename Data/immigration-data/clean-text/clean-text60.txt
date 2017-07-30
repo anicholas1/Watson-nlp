@@ -1,0 +1,1202 @@
+creating a more responsive and 
+seamless refugee protection 
+system: the scope, promise and 
+limitations of us temporary 
+protection programs
+
+donald kerwin
+center for migration studies
+
+executive summary
+temporary protection programs can provide haven to endangered persons 
+while states and nongovernmental organizations (ngos) work to create 
+durable  solutions  in  sending,  host  and  third  countries.1  they  have  the 
+potential to further the interests of forced migrants in protection, states 
+in effective and coordinated migration management, and the international 
+community in solidarity. 
+us temporary protection programs rest primarily on executive discretion 
+and  have  not  been  substantially  revisited  for  nearly  25  years.  parole 
+represents the primary vehicle for temporarily admitting noncitizens for 
+emergency and humanitarian reasons.2  prior to 1980, the united states 
+used parole to admit large refugee and refugee-like populations to whom (in 
+most cases) it later extended lawful permanent resident (lpr) status. the 
+1980 refugee act made the us refugee resettlement program the primary 
+vehicle for refugee admissions, limited the use of parole to individuals (not 
+groups), and created a presumption against granting parole to refugees. 
+the  united  states  provides  immigrant  (permanent)  visas  to  abused, 
+neglected  and  abandoned  children,  as  well  as  to  certain  iraqis  and 
+afghanis who worked for the us military or for military contractors.  it 
+can also award up to 5,000 nonimmigrant (temporary) t visas each year 
+to victims of human trafficking and up to 10,000 nonimmigrant u visas 
+to survivors of crime who assist law enforcement officials in investigating 
+and prosecuting crimes. however, since 1980, the united states has lacked 
+a dedicated legal vehicle for admitting other refugee-like populations. 
+
+1  temporary protection refers to the universe of programs that provide safe haven to persons who would be 
+at risk in their home or host countries. temporary protected status (tps) is the us program that offers group 
+protection to noncitizens from designated states. 
+2inalegalfiction,paroledoesnotconstituteanadmission.nordoesitconnotecriminalconductunder
+us immigration law. it is an exercise of executive discretion that allows physical entry and residence for a 
+temporary period.
+
+ 2014 by the center for migration studies of new york. all rights reserved.jmhs volume 2 number 1 (2014): 44-72temporary  protected  status  (tps)  applies  to  noncitizens  from  states 
+experiencing  armed conflict, the aftermath of natural disaster, or other 
+extraordinary, temporary conditions that make it unsafe to return. the tps 
+statute allows the secretary of the us department of homeland security 
+(dhs) to designate states or regions within states for tps, although the 
+united states has never limited tps to substate groups. tps does not cover 
+persons from designated states who arrive following the effective date of 
+the  designation,  even  those  who  fled  great  peril.  tps  recipients  cannot 
+petition for the admission of close family members. in addition, tps cannot 
+be granted to persons in substantial need of protection from undesignated 
+states.  
+like  refugees  and  asylees,  tps  recipients  receive  work  authorization. 
+unlike refugees or asylees, they are not eligible for resettlement benefits 
+or deemed qualified for most federal public benefit programs. they can 
+apply for political asylum and immigration benefits. however, tps does 
+not, in itself, lead to permanent status or other durable solutions.  
+beyond tps, the executive branch can exercise its discretion not to remove 
+persons who fall outside its law enforcement priorities, including persons 
+who might otherwise suffer violence, extraordinary hardship, or death at 
+home.  
+this paper outlines international standards for the design and operation 
+of  temporary  protection  programs,  describes  the  us  refugee  protection 
+program writ large, and identifies gaps in protection. it recommends that 
+congress create a nonimmigrant protection visa for noncitizens who are 
+at substantial risk of persecution, danger, or harm in their home or host 
+countries, and that dhs expand its use of parole for de facto refugees and 
+individuals in refugee-like situations. it also argues that the united states 
+should prioritize the reconstruction and development of tps-designated 
+states  and  work  to  establish  regional  migration  and  development 
+agreements covering north america, central america and the caribbean. 
+congress should also pass legislation to extend lpr status to long-term 
+recipients of temporary protection.  in particular, it should advance the 
+registry  date  to  january  1,  1999  (which  would  provide  lpr  status  to 
+most noncitizens in the country since that date) and it should automatically 
+move up the registry cut-off date each year thereafter by one year. it should 
+also  pass  broad  immigration  reform  legislation,  including  a  legalization 
+program that would credit years in receipt of temporary protection toward 
+the time required to  earn legalization. and it should allow temporary 
+protection recipients to apply affirmatively for cancellation of removal 
+(which brings lpr status) after 10 years. 
+dhs should also create a more inclusive tps determination process by 
+hosting  quarterly  public  hearings  on  conditions  in  tps-designated  and 
+
+45
+
+creating a more responsive and seamless refugee protection systemtps-eligible nations. it should also re-designate more states for tps in 
+order  to  allow  persons  from  designated  states  who  have  fled  dangerous 
+conditions and entered the united states between the initial designation 
+and re-designation periods to qualify for tps.     
+
+international perspectives on temporary protection
+the united nations high commissioner for refugees (unhcr), the council of the
+europeanunion(eucouncil),theeuropeancouncilonrefugeesandexiles(ecre)
+and refugee advocates generally align on the optimal scope, use and characteristics of
+temporary protection programs.   
+accordingtothisroughconsensus,temporaryprotectionprogramsshouldnotbeusedas
+asubstitutetorefugeestatus,todelayagrantofrefugeestatus,ortodeteranddenyentry
+tothoseseekingprotection.rather,theyshouldbeusedtosafeguardpersonswhoarein
+substantial peril and who do not meet the refugee standard or who cannot avail themselves 
+oftherefugeedeterminationprocess(fitzpatrick2000,280).theeucouncildirectiveon
+minimumstandardsforgivingtemporaryprotectionconceivesoftemporaryprotection
+asaproceduretouseinsituationsofmassinfluxorimminentmassinflux,particularly
+iftheasylumsystemcannotprocesstheinfluxwithoutadverseeffectsforitsefficient
+operation(europeanunion2001,art2(a)).
+a properly structured temporary protection program can encourage states to allow access 
+to their territory by ensuring that they will not be permanently and solely responsible for 
+the  imperiled  persons  that  they  admit.  frontline  states  can  condition  the  admission  of 
+refugeesandrefugee-likepopulationsonthefinancialandresettlementcommitmentsof
+moredistantstates(fitzpatrick2000,283,286).theycanalsoenlistneighboringstatesin
+a coordinated response to the conditions that compel migration. 
+thescopeofatemporaryprotectionprograminvariablydependsonastatesdefinition
+ofarefugee.underthe1951unitednations(un)conventionrelatingtothestatus
+of refugees and the 1967 un protocol relating to the status of refugees, contracting
+statescannotexpelorreturnarefugeetoterritorieswherehislifeorfreedomwouldbe
+threatenedonaccountofhisrace,religion,nationality,membershipofaparticularsocial
+grouporpoliticalopinion.3therefugeeconventionrepresentsapointofconvergenceby
+the international community on a humanitarian priority. it has also spurred the creation of 
+avastlegalandoperationalinfrastructuretoprotectthoseatrisk,includingtheusrefugee
+resettlement and political asylum programs.  
+international bodies and refugee advocates fear that temporary protection might be used 
+to  dilute  refugee  protections  and  reduce  the  likelihood  that  states  will  honor  the  legal 
+guaranteessetforthintherefugeeconvention.accordingtotheeuropeanunion(eu),
+temporaryprotectionshouldnotbeusedtoprejudgerefugeedeterminations(european
+union2001,art3(1)).ecresupportstemporaryprotectiononlyinemergencieswhen
+
+3conventionrelatingtothestatusofrefugees,189unts150,28jul.1951(entryintoforce:22apr.
+1954);protocolrelatingtothestatusofrefugees,606unts267,31jan.1967(entryintoforce:4oct.
+1967).refugeeconventionof1951,art.33(1).
+
+46
+
+journal on migration and human securityindividualrefugeedeterminationsarenotimmediatelypracticableandwhentemporary
+protectionwillenhancethelikelihoodofadmissionandterritorialprotection(ecre1997,
+par.1).unhcrviewstemporaryprotectionasasteppingstonethatcansafeguardthosein
+immediateneeduntilamoredurablesolutioncanbesecured(unhcr1981).
+commentatorsarguethattemporaryprotection,ifusedasasubstituteprotection,will
+impede integration (mansouri, leach and nethery 2009, 135).an analysis of the use
+oftemporaryprotectionforrefugeesinaustralia,germanyanddenmarkfrom1999to
+2005supportsthisconcern.itfoundthatthosegrantedtemporaryprotectionexperienced
+socialandfinancialdifficulties;separationfromfamilymembers;andaheightenedsense
+of uncertainty and political exclusion (ibid., 140-144). in addition, nongovernmental
+organizations(ngos)reporteddifficultiesinmeetingtheneedsoftemporaryprotection
+recipients for support services. 
+internationalbodiesaverthattemporaryprotectionshouldhaveafirmlegalfoundation.
+unhcr starts from the fundamental principle of non-refoulement, including non-
+rejection at frontier (unhcr 1981, sec. ii, a(2)). however, temporary protection
+programstypicallyrestonexecutivediscretion(notlegalobligations)and,asaresult,they
+tend to be ad hoc(yakoob1999,622).
+beyonditslegalbasisandtheappropriateuseoftemporaryprotection,unhcr,theeu
+councilandecrealsobroadlyagreeonthestructureandcharacteristicsofsuchprograms.
+theseinclude:
+
+ limitedduration(ecre1997,par.5);4  
+ timelyaccesstorefugeeorasylumdeterminations(europeanunion2001,art.
+
+17(1);ecre1997,par.6);
+
+ rightsproportionatetodurationofstatus(ecre1997,par.7),includingcivilrights
+
+andnon-discrimination(unhcr1981,sec.ii,b2(b),(d)and(e));
+
+ accesstojustice,includingtocourtsandadministrativeauthorities(unhcr1981,
+
+sec.ii,b2(f));
+
+ nounfavorabletreatmentduetounlawfulpresence(unhcr1981,sec.ii,b2(a));
+ familyunity(unhcr1981,sec.ii,b2(h)and(i);ecre1997,par.8;european
+
+union2001,art.15,2and3);
+
+ education(ecre1997,par.8),includingequalaccesstoeducationforchildren
+
+(europeanunion2001,art.14,1)andeducationalopportunitiesforadults,
+vocationaltrainingandpracticalworkplaceexperience(europeanunion2001,art.
+12);
+
+ basicnecessitieslikefood,shelterandhealthcare(unhcr1981,sec.ii,b2(c);
+
+ecre1997,par.8;europeanunion2001,art.13);
+
+ employmenttopromoteself-sufficiency(ecre1997,par.8;europeanunion2001,
+
+art.12);5      
+
+4settingamaximumlengthfortemporaryprotectionencouragesstatestograntprotectionandtotransition
+recipientstowardadurablesolution(unhcr2012b,par.21).
+5statesmayoptagainstextendingtemporaryprotectionifitdoesnotentailworkauthorizationandsocial
+support.theunitedstates,forexample,admittedkosovarsfrommacedoniain1999asrefugeesdue,in
+part,tothelackofbenefitsandsupportservicesaffordedunderotheravailableformsofprotection(hansen,
+randall,martin,schoenholtzandweil2000,811).
+
+47
+
+creating a more responsive and seamless refugee protection system identitydocuments(ecre1997,par.8)andresidencepermits(europeanunion
+
+2001,art.8,1);
+
+ theabilitytoobtainvisas(europeanunion2001,art.8,3)andonlynarrow
+
+restrictionsonmovement(unhcr1981,sec.ii,b2(a));
+
+ protectionofminorsandunaccompaniedchildren(unhcr1981,sec.ii,b2(j));
+ permissiontosendandreceivemail(unhcr1981,sec.ii,b2(k));
+ registrationofbirths,deathsandmarriages(unhcr1981,sec.ii,b2(m));
+ burdensharingbystates,includinginestablishingdurablesolutions(unhcr1981,
+
+sec.ii,b2andiv3;ecre1997,par.5);and
+
+ removalofthecausesoflarge-scaleinfluxesandestablishmentofconditions
+
+favorabletovoluntaryrepatriation.(unhcr1981,sec.iv(6)).
+
+many  of  the  preferred  features  of  temporary  protection  programs  could  as  easily 
+apply to refugees.this is fitting since the conditions that trigger temporary protection
+are not inherently more fleeting than and often mirror those that necessitate refugee
+protection(fitzpatrick2000,281).temporary,infact,mightbetterbecharacterizedas
+impermanent.forthisreason,theeurequiresthatbeneficiariesofsubsidiaryprotection
+receiveroughlyequaltreatmenttorefugees(bergeron2014;europeanunion2011,art.
+20to35).
+likerefugeestatus,temporaryprotectioncanbewithdrawnwhentheconditionsgivingrise
+to it no longer obtain.6however,accordingtoa2012unhcrroundtable,thedecisionto
+terminateorwithdrawtemporaryprotectionshouldoccuronlywhenreturncanbecarried
+out in safety and dignity, the recipient has transitioned to another status, protection
+responsibilitieshavetransferredtoanotherstate,ortheindividualfindsadurablesolution
+(unhcr2012(a),par.20).inaddition,repatriationmustbestructuredsothatitdoesnot
+contributetofurtherinstabilityinthecommunityoforigin.ecreholdsthatreturnshould
+take  place  only  on  the  basis  of  an  independent  and  impartial  human  rights  assessment 
+(ecre1997,par.9).voluntaryrepatriationmaybemoresuccessfulwhentherightsto
+work,housing,health,familyreunificationandeducationhavebeenhonoredinthehost
+nation(yakoob1999,623).
+
+us refugee protection and asylum systems
+in2012,theunitedstatesadmittedmorethan58,000refugees,providedpoliticalasylum
+tonearly30,000asylum-seekers,andgrantedwithholdingofremovalinmorethan1,910
+cases(martinandyankay2013;doj2013,k4).italsograntedrelieffromremovalto
+morethan500personswhowouldlikelyhavebeentorturedifreturned(doj2013,m1).
+underthe1951unconventionrelatingtothestatusofrefugeesandthe1967unprotocol
+relatingtothestatusofrefugees,statescannotexpelorreturnarefugeetoaterritory
+wherehislifeorfreedomwouldbethreatenedonaccountofhisrace,religion,nationality,
+membershipinaparticularsocialgrouporpoliticalopinion.7  yet individualized refugee 
+
+6therefugeeconventionscessationclausecanbetriggeredbyafundamentalchangeinthecircumstances
+thatgaverisetorefugeestatus.refugeeconvention,art.1c(5).
+7conventionrelatingtothestatusofrefugees,189unts150,28jul.1951(entryintoforce:22apr.
+1954);protocolrelatingtothestatusofrefugees,606unts267,31jan.1967(entryintoforce:4oct.
+
+48
+
+journal on migration and human securitydeterminations(forpersonsoutsidetheunitedstates)andpoliticalasylumadjudications
+(for  those  within  the  country)  exclude  vast  categories  of  persons  in  genuine  peril.  in 
+2011,lessthanone-fourthoftheworlds72millionforcedmigrantsthosedisplacedby
+violence,conflict,developmentprojects,naturaldisastersandhazardsmettherefugee
+definition(ifrc2012,14-17).
+nothingpreventscontractingstatesfromextendingrightsandbenefitsbeyondthoseset
+forthintheconvention.8theorganizationofafricanunity(oau),forexample,adopteda
+broaddefinitionofrefugeethatcoverspersonscompelledtoleavetheirnationsbyexternal
+aggression,occupation,foreigndominationoreventsseriouslydisturbingpublicorder.9 
+the cartagena declaration, adopted by 10 latin american nations and subsequently
+approvedbytheorganizationofamericanstates(oas)generalassembly,enlargesthe
+refugeedefinitiontocoverpersonswhoselives,safety,orfreedomhavebeenthreatened
+bygeneralizedviolence,foreignaggression,internalconflicts,massiveviolationofhuman
+rights,orothercircumstancesthathaveseriouslydisturbedpublicorder.10 the european 
+unionhascreatedasubsidiarylegalstatusfornon-refugeesatriskofseriousharmin
+theircountriesoforigin(europeanunion2011,art.15;bergeron2014).
+subjectivehumanrightsareconceivedaspowersorfacultiesthatinhereinindividuals.still
+itisincongruousthattherefugeeconvention,adoptedinresponsetothemassdisplacement
+causedbyworldwarii,requirescase-by-caserefugeedeterminationsandcannotbeused
+toprotectgroupsatimmediaterisk(fitzpatrick2000,282).infact,certainrightsapplyto
+groups (as in the collective right to self-determination) and group membership can serve 
+asaneffectiveproxyforindividualrightsviolations.intheunitedstates,thelautenberg
+amendmentrepresentsaformofgroupprotection,establishingapresumptionofrefugee
+eligibility for persons in historically persecuted groups (particularly religious minorities) 
+fromtheformersovietunion,southeastasia,andiran.11 the amendment eases the burden 
+ofproofforrefugeeapplicantsfromthesegroups,andallowsbeneficiariestoapplyfor
+adjustmenttolawfulpermanentresident(lpr)statusafteroneyear.
+the us refugeeact of 1980 enshrined the obligations and standards set forth in the
+refugeeconventionintodomesticlaw.12undercurrentlaw,theunitedstatescannotadmit
+refugeesasagroup(theremustbeindividualscreening),anditcannotadmitasrefugees
+noncitizensdisplacedbygeneralizedviolence,civilwar,humanrightsviolations,man-
+madeornaturaldisasters,orthoseatriskofpersecutionbutnotonanenumeratedground.
+the experience of mexican and central american asylum-seekers exemplifies the
+difficultiesfacedbyendangeredpersonsthatseekprotectionintheunitedstates.overthe
+
+1967).refugeeconventionof1951,art.33(1).
+8refugeeconvention,art.5.
+9organizationofafricanunityconventiongoverningthespecificaspectsofrefugeeproblemsinafrica,
+art.1(2),sep.10,1969,14691u.n.t.s.
+10similarlyecremaintainsthattemporaryprotectiondoesnotreduceneedofsupplementaryrefugee
+definitionineurope(ecre1997,par.1).
+11foreignoperations,exportfinancing,andrelatedprogramsappropriationsactof1990,pub.l.no.
+101-167,103stat.1195,599dand599e(november11,1989);consolidatedappropriationsact,2004,
+pub.l.no.108-199,118stat.3,213(january23,2004).
+12therefugeeactof1980,pub.l.no.96-212,94stat.102(march17,1980),usstatutesatlarge94
+(1980):103.
+
+49
+
+creating a more responsive and seamless refugee protection systemlastthreeyears,usborderpatrolarrestsofunaccompaniedminorswhoareprimarily
+from mexico, honduras, guatemala and el salvadorhave increased dramatically
+(unhcr2014).manyminorsreporthavingfledtransnationalcriminalgangs.theirfear
+ofviolenceappearstobewell-founded.in2011,theintentionalhomicideratesinhonduras
+(91.6 per 100,000), el salvador (70.2 per 100,000) and guatemala (38.5 per 100,000)
+substantiallyexceededtherateinmexico(23.7per100,000)(unodc2013).toplacethis
+levelofviolenceincontext,thelower-endestimateofdrug-relatedkillingsinmexicosince
+the governments crackdown on drug cartels in december 2006 is 60,000 (bbc news
+2013;molloy2013).
+substantialpercentagesofthosefleeingviolenceinmexicowouldappeartobestrong
+candidates for political asylum, including journalists, police officers who fought cartel
+infiltration, and members of targeted families in violence-ravaged communities.13 
+unaccompaniedminorsfleeinggangviolenceincertaincentralamericanstatespresent
+equallystrongclaims.yetasylumapprovalratesformexicansandcentralamericanshave
+beenextremelylow(changandlinthicum2013;kerwin2012;hennessey-fisk2012).
+
+temporary  protection  for  noncitizens  in  the  united 
+states
+us temporary protection programs rest primarily on executive discretion and have not been 
+overhauledfornearly25years.paroleistheprimaryvehicleforofferingphysicalentryto
+noncitizensforemergencyandhumanitarianreasons.priorto1980,theunitedstatesused
+paroletoadmitlargerefugeepopulations.congresslaterextendedlprstatustomostof
+thesegroups.therefugeeactof1980formalizedandmadetheusrefugeeresettlement
+program the primary vehicle for refugee admissions. the act limited the use of parole to 
+individuals(notgroups),createdapresumptionagainstparoleforrefugees,andsetnarrow
+eligibilitycriteria(urgenthumanitarianreasonsorsignificantpublicbenefit).parole
+doesnot,initself,leadtolprstatus.moreover,legislationtoadjustparoleestolprstatus
+requiresasupermajorityvoteinthesenate,andtheusdepartmentofhomelandsecurity
+(dhs)doesnotconsidertpsrecipientstohavebeenadmittedorparoled,asisrequiredto
+adjusttolprstatusintheunitedstates(bergeron2014).
+temporary protected status (tps) applies to noncitizens from designated foreign states 
+or regions within states.14 tps does not cover nationals of designated states who enter 
+theunitedstatesfollowingtheeffectivedateofthedesignation,eventhosewhohave
+fledgreatperil.nordoesitpermitrecipientstopetitionfortheadmissionofclosefamily
+members.inaddition,itappliesonlytopersonsfromdesignatedstates,nottothosefrom
+non-designated states who are in substantial need of protection. in the event of an extension 
+orre-designationoftps,beneficiariesmustre-register.somedonotand,thus,losestatus.
+liketheusrefugeeprogram,tpsstatusaffordsemploymentauthorization.however,
+
+13however,thosewhofeargeneralizedviolence,criminalityorpersecution(butnotonaccountofan
+enumerated ground) would not be eligible for political asylum. 
+14thedhssecretarycandesignateforeignstatesfortpsbasedonarmedconflict,environmentaldisaster,
+orotherextraordinaryandtemporaryconditionsthatpreventthesafereturnoftheirnationals.immigration
+andnationalityact(ina)244(b)(1).
+
+50
+
+journal on migration and human securityunlikerefugeesorasylees,tpsrecipientsdonotreceiverefugeeresettlementbenefitsand
+arenotdeemedqualifiedformostfederalpublicbenefits.theycanapplyforpolitical
+asylumandpursueotheravenuestolegalstatus.however,thetpsstatutedoesnotidentify
+durable  solutions  for  recipients  following  the  termination  of  a  tps  designation  or  the 
+withdrawaloftpsinindividualcases.nordoesuscitizenshipandimmigrationservices
+(uscis)trackhowmanytpsrecipientsfalloutofstatus,secureanotherstatus,orreturn
+home,eithervoluntarilyorthroughdeportation.
+tps populations are not among the protracted refugee populations that the united
+stateshasprioritizedfordurablesolutions.norhastheunitedstatesexplicitlyprioritized
+tps-designated states for foreign aid and developmentassistance, which could lay the
+groundworkforthevoluntaryreturnofbeneficiaries.
+
+temporary protection for noncitizens outside the united 
+states
+theunitedstateshaslimitedoptionsfortemporarilyadmittingimperilednoncitizens.dhs
+cangrantparoleforurgenthumanitarianreasonsorsignificantpublicbenefitonacase-
+by-casebasis.parolecanonlybeusedsparingly.immigrantvisasarealsoavailablefor
+certainiraqinationalswhoworkedfortheunitedstatesorforuscontractors,andtoiraqi
+and afghani translators who worked for the us military. 
+
+pre-1980 parole of refugee groups
+
+until1980,theusattorneygeneral(ag)frequentlyexercisedhisdiscretionaryparole
+authoritytoadmitgroupsofrefugees.inalegalfiction,paroledoesnotconstitutealegal
+admission;itsimplyallowsphysicalentry.15between1956and1979,theunitedstates
+admitted far more parolees, an average of more than 44,000 per year,16  than  it  did 
+conditionalentrantsunderthelegislativequotaforrefugees.17 paroled groups included 
+640,000cubanswhofledthecommunistrevolution,360,000indochineseafterthefallof
+saigon,32,000hungarianrefugeesfollowingthefailedrevolutioninoctober1956,30,000
+sovietjewsandotherreligiousminorities,nearly20,000fromdisplacedpersonscamps
+followingworldwarii,andseveralhundredchileansfollowingthe1973overthrowofthe
+allendegovernment(vialet1979,18,47;uscir1997,215).
+duringtheseyears,congresspassedseverallawstoallowde facto refugees and parolees 
+toadjusttolprstatusoutsidethequotasystem(vialet1979,24).in1958,forexample,it
+authorizedtheadjustmentofhungarianparoleesaftertwoyearsofresidence.18in1975,it
+allowedcertainvietnamese,laotianandcambodianparoleestoadjust.19intotal,between
+
+15intheimmigrationcontext,paroledoesnotimplycriminalconduct.
+16s.rep.no.96-256,at6(1979).
+17priorto1980,conditionalentrantscouldapplytoadjusttolprstatusaftertwoyears.
+18actofjuly25,1958,pub.l.no.85-559,72stat.419(1958).
+19thelawappliedtovietnamese,cambodiansandlaotiansthathadbeenparoledintotheunitedstates
+subsequenttomarch31,1975orhadbeeninspectedandadmittedorparoledonorbeforemarch31,1975
+andwerepresentintheunitedstatesonmarch31,1975.indochinamigrationandrefugeeassistanceact
+of1975,asamendedin1977,pub.l.no.95-145,91stat.1223(oct.28,1977).
+
+51
+
+creating a more responsive and seamless refugee protection systemworldwariiandpassageoftherefugeeactof1980,morethan2millionpersonsadjusted
+statusonthebasisoflegislationofthiskind(kerwin2012,31).
+the cubanadjustmentactof1966(caa)hasbeenthelargestandlongestusadjustment
+program for a national group.20itallowscubanstoadjusttolprstatusoneyearafterthey
+have been admitted or paroled to the united states.21 the illegalimmigrationreformand
+immigrantresponsibilityactof1996stipulatesthatthecaacanonlyberepealedupon
+a presidential determination that cuba has a democratically elected government.22 the 
+unitedstatesgrantedlprstatustoroughly1.1millioncubannationalsbetween1960and
+2011(dhs2012,table2).
+
+the refugee act of 1980 
+
+theusrefugeeactof1980createdtheusrefugeeresettlementprogramandsought
+tochannelrefugees(normalflowandemergencyadmissions)intoit.23indoingso,it
+respondedtoconcernsregardingthelegalityoftheagsdiscretionaryadmissionofrefugee
+populations.24theactsemergencyadmissionprovisionswereintendedtoreplacetheags
+authoritytoparolelargegroupsofrefugees,tosetcriteriaforemergencyadmissions,and
+toformalizetheconsultativeprocessthathadarisenwithcongresstoguidetheexerciseof
+parole.25theactdidnotseektolimittheagsauthoritytoparolenon-refugees.26 
+
+humanitarian parole
+
+althoughevisceratedasarefugeeprotectiontool,paroleremainstheprimarymeansfor
+admitting  noncitizens  on  humanitarian  grounds  who  do  not  meet  the  refugee  standard.  
+itcanbegrantedbydhsonacase-by-casebasisforurgenthumanitarianreasonsor
+significantpublicbenefit.27however,anindividualrefugeecannotbeparoledunlessthere
+arecompellingreasonsinthepublicinteresttoadmithimorherasaparolee,ratherthan
+as a refugee.28inaddition,would-beparoleesmustfirstexhaustotherlegalimmigration
+alternatives(gao2008,15)
+allthreeofdhssimmigrationagenciescangrantparoletopersonsfromabroad.a2008
+memorandumofagreement(moa)29 between the agencies seeks to coordinate and establish 
+
+20pub.l.no.89-732,79stat.919(1966):1161.
+21thecaaalsocoversaccompanyingspousesandchildren.
+22pub.l.no.104-208,110stat.3009(1996),606(a).
+23pub.l.no.96-212,94stat.102(1980);s.rep.no.96-256,5.
+24s.rep.no.96-256,at43,70(1979).
+25the refugee act of 1979: hearing on s. 643, before the u.s. senate committee on the judiciary,96th
+cong.10-12,22(1979).
+26h.r.rep.no.96-781,at20(1980)(conf.rep).
+27ina212(d)(5)(a).
+28ina212(d)(5)(b).
+29memorandumofagreementbetweenunitedstatescitizenshipandimmigrationservices(uscis),united
+statesimmigrationandcustomsenforcement(ice),andunitedstatescustomsandborderprotection,
+coordinatingtheconcurrentexercisebyuscis,ice,andcbp,ofthesecretarysparoleauthorityunder
+ina212(d)(5)(a)withrespecttocertainalienslocatedoutsideoftheunitedstates(september10,
+2008),http://www.ice.gov/doclib/foia/reports/parole-authority-moa-9-08.pdf.
+
+52
+
+journal on migration and human securitya framework for the exercise of parole for those at us ports-of-entry.30 the agreement does 
+notconstraintheinherentauthorityofuscustomsandborderprotection(cbp)togrant
+paroleorstipulatethecategoriesofparolerequestswithinitsjurisdiction.itprovidesthat
+usciswillhandlerequeststhatentailurgentmedical,family,andrelatedneedsand
+forpersonsthatseektoparticipateincivilproceedingswithprivate(nongovernment)
+litigants. us immigration and customs enforcement (ice), in turn, is responsible for
+adjudicatingrequeststhatinvolvepersonsingovernmentproceedingsorinvestigations;in
+removalproceedingsorwithafinalorderofremoval;thatwishtoattendeventshostedby
+internationalorganizations;andwhoareadmittedforintelligencepurposes.
+parolerequestsandapprovalscanvarysubstantiallyfromyeartoyear.however,in2012,
+cbpgrantedparolein3,054casesanduscisapproved353paroleapplications(hennessy-
+fisk2013;uscis,n.d.).nopublicfiguresexistforiceparoleadjudications,andneither
+cbpnoriceproducedparolestatisticsattheauthorsrequest.31  
+theprincipalgroundsforhumanitarianparolerequestsarefamilyreunification,medical
+emergencies,andemergentreasonssuchasvisitingasickordyingfamilymemberor
+attendingafuneral(gao2008,41-42).betweenfy2002andfy2008,uscisapproved
+roughly25percentofthenearly10,000humanitarianparolerequestsitreceived(gao
+2008,4-12;uscis2009).
+since1980,theunitedstateshasregularlygrantedparoletoat-riskandvulnerablepersons.
+intheearly1990s,forexample,theagusedherparoleauthoritytoallownearly11,000
+haitiansthosescreenedatguantnamonavalbaseandfoundtohaveacrediblefearof
+persecutioninhaititoentertheunitedstatestoseekasylum.32 in the year following the 
+january12,2010earthquakeinhaiti,thedhssecretaryparolednearly900haitians,most
+ofthemorphanswhohadbeenapprovedforadoptionbyusfamilies(hennessey-fiske
+2013;dhs2010).since1980,however,parolehasnotservedasareliableordesignated
+vehicle for admitting persons in refugee-like situations. 
+dhs can also expedite adjudication of cases, relax deadlines and documentation
+requirements, and exercise its discretion on behalf of persons from nations that have
+experiencedanaturalorhumandisaster.followingthedevastationoftyphoonhaiyanin
+november2013,forexample,uscisannouncedlimitedimmigrationreliefmeasures
+forfilipinosintheunitedstates,includingextensionofgrantsofparole,advanceparole
+(whichallowsnoncitizenstoleavethecountryknowingtheywillbeallowedtoreturn),and
+expeditedprocessingofadvancedparolerequests(uscis2013a).33  
+
+legislation to adjust parolees and de facto refugees
+
+inthe1990s,congresspassedlegislationthatallowedseveralrefugee-likegroupstoadjust
+30thememorandumdoesnotapplytotheparoleofpersonsintheunitedstates.
+31iceultimatelyadvisedtheauthortosubmitafreedomofinformationact(foia)requestforparole
+statisticsandcbpfailedoverseveralmonthsinresponsetonumerousrequeststoprovidestatistics.
+32priortotheestablishmentofdhs,theparoleauthorityresidedwiththeattorneygeneral.
+33uscisalsoofferedtoconsiderchangesorextensionsofnonimmigrantstatusdespitelatefilings;expedited
+adjudicationofrequestsforworkauthorizationforforeignstudents;expeditedprocessingoffamily-based
+immigrationpetitions;expeditedadjudicationofworkauthorizationapplications;andrequestsforassistance
+bylprsoverseaswhohadlostimmigrationortraveldocuments.
+
+53
+
+creating a more responsive and seamless refugee protection systemtolprstatus,including:
+
+ nationalsfromtheformersovietunion,vietnam,laos,andcambodiawhohad
+been inspected and paroled into the united states after being denied refugee status 
+betweenaugust15,1988andseptember30,1990;34  
+
+ nationalsfromthepeoplesrepublicofchinawhohadreceiveddeferredenforced
+departure(ded),anexerciseofexecutivediscretionnottoremove,followingthe
+repressionattiananmensquare;35  
+
+ elsalvadoran,guatemalan,andsovietblocasylum-seekers,andcertainnicaraguan
+
+andcubannationals;36 and 
+
+ haitianasylum-seekerswhohadbeenparoledintotheunitedstatestoseekpolitical
+
+asylumin1991and1992,andunaccompaniedminors.37 
+
+in2008,congressestablishedspecialimmigrant(permanent)visasforiraqinationalswho
+workedfortheunitedstatesorforuscontractorsiniraqforatleastoneyearaftermarch
+20, 2003, to iraqi andafghani translators who worked for the us military, and to the
+spouses and minor children of both groups.38 these groups receive refugee resettlement 
+assistanceandbenefits.
+
+temporary protection for noncitizens within the united states
+
+uslawofferstwoprimaryvehiclesforresidentswhodonotqualifyforpoliticalasylumor
+arelatedformofprotection,butwhocouldfaceviolenceorhardshipifreturnedhome:(1)
+tpsforpersonsfromstatesorfromregionswithinstatesthatthedhssecretarydesignates
+forprotection;and(2)anexecutivedecisionnottopursueremoval,eitherinthenormal
+course of enforcement of the law or in the form of special programs for individuals in 
+particular groups.  
+us  law  also  reserves  immigrant  (permanent)  and  nonimmigrant  (temporary)  visas  for 
+selectcategoriesofendangeredpersons.specialimmigrantvisasareavailableforabused,
+abandonedorneglectedchildrenwhohavebeendeclareddependentsofajuvenilecourtor
+placedinthecustodyofanagencyordepartmentofastate,oracourt-appointedindividual
+orentity.nonimmigrant(temporary)visas,whichcanleadtolprstatus,areavailable
+tosurvivorsofhumantraffickingandtovictimsofcrimewhoassistlawenforcementto
+detect,investigate,orprosecutecrime.
+
+34foreignoperations,exportfinancing,andrelatedprogramsappropriationsact,1990,pub.l.no.101-
+167,599d,usstatutesatlarge103(1989):1219,1261-63;8cfr245.7(b)(2).
+35chinesestudentprotectionactof1992,pub.l.no.102-404,usstatutesatlarge106(1992):1969.
+morethan53,000personssecuredlprstatusthroughthislaw(kerwin2010).
+36nicaraguanandcentralamericanreliefactof1997(nacara)pub.l.no.105-100,usstatutesat
+large111(1997):2193.between1999and2011,morethan67,000personsobtainedlprstatusthrough
+nacara(dhs2012,table6;dhs2008,table6).
+37haitianrefugeeimmigrationfairnessactof1998(hrifa),pub.l.no.105-277,usstatutesatlarge
+112(1998):2681.between1999and2011,morethan31,000personsadjustedtolprstatusthroughhrifa
+(dhs2012,table6;dhs2008,table6).
+38theconsolidatedappropriationsact,2008,publicl.no.110-161,usstatutesatlarge121(2007):
+1844;thedefenseauthorizationactforfy2008,pub.l.no.110-181,usstatutesatlarge122(2008):3.
+
+54
+
+journal on migration and human securitytemporary protection pre-1990: extended voluntary departure
+
+priorto1990,theagcouldgrantextendedvoluntarydeparture(evd)topersonsfrom
+nations experiencing civil strife, rampant human rights abuses, and other dangerous
+conditions (seltzer 1992, 783-4). evd removed the threat of deportation and allowed
+recipientstowork.between1960andpassageoftheimmigrationactof1990,theag
+extendedevdtoresidentsfrom13nations(ibid.,785).evdtooktheformofblanket
+protection for nationals from designated states who were in the united states at the time of 
+thedesignation(frelickandkohnen1995,341).unliketps,itdidnothaveastatutory
+basis. 
+althoughwidelyused,evdprovedtobeanimperfectprotectiontoolforseveralreasons.
+first,theconditionspromptingevdoftenpersistedforlengthyperiods,underminingthe
+expectationthatitwouldleadtovoluntarydepartureinashortperiodoftime.czechoslovakia,
+forexample,receivedevdfromaugust1968todecember1977andugandafromjune
+1978toseptember1986.39second,foreignpolicyandpoliticalconsiderationsinfluenced
+evddesignations,leadingtothedenialofevdtopersonstargetedbyregimesthatthe
+unitedstatessupported.third,theimmigrationandnaturalizationservice(ins)didnot
+trackthelocationofevdrecipients.thegovernmentdidnotknowwhoevdcovered
+until individuals in the designated populations faced deportation.  fourth, theag did
+notexercisediscretiontogrant,extendorterminateevdthroughapublicallyaccessible
+process.
+congressultimatelyallowedpersonsgrantedevdoverthefive-yearperiodendingon
+november 1, 1987, including poles,afghanis, ugandans and ethiopians, to apply for
+temporaryresidenceand,thereafter,toadjusttolprstatus.40 
+theexecutivebranchalsoexerciseditsdiscretiontoallowfailednicaraguanasylumseekers
+toremainintheunitedstates.injuly1987,agedwinmeesecreatedthenicaraguan
+reviewprogram,whichallowednicaraguansdeniedpoliticalasylumtoregister,obtain
+workauthorization,andreapplyforpoliticalasylum(wasem1997,7-8).thesupreme
+courts 1987 decision in immigration  and  naturalization  service  v.  cardoza-fonseca 
+prompted the creation of the review program.41 in cardoza-fonseca,thecourtheldthat
+the stringent clear probability of persecution standard for withholding of deportation
+(non-refoulement)didnotapplytopoliticalasylumcases.theagorderednicaraguan
+asylumcasesreviewedunderthemoregenerouswell-foundedfearasylumstandard.
+
+temporary protected status
+
+in1990,congressattemptedtoformalizeandcodifyitstemporaryprotectionprogramsby
+creating temporary protected status.42indoingso,itdidnotseektoeliminateexecutive
+discretion, but to create a more structured process to guide its exercise (seltzer 1992,
+788).tpsrepresentsthedhssecretarysexclusiveremedytoallowparoleesandthose
+
+39bycontrast,iraniannationalsreceivedevdforashortperiodfromapriltodecember1979following
+the overthrow of the shah.
+40pub.l.no.100-204,101stat1331,902(dec.22,1987).
+41480u.s.421,449(1987).
+42immigrationactof1990,publ.no.101-649,104stat.4978(nov.29,1990),302.
+
+55
+
+creating a more responsive and seamless refugee protection systempotentiallysubjecttoremovaltoremaintemporarilybasedontheirnationality.43  
+afterconsultingwiththeappropriateagenciesofthegovernment,44thedhssecretary
+candesignatefortpsanyforeignstateorpartofaforeignstate:
+
+ experiencingarmedconflictthatwouldposeaseriousthreattothepersonalsafety
+
+ofreturningnationals;
+
+ thatexperiencedanenvironmentaldisasterresultinginasubstantial,but
+
+temporary,disruptionoflivingconditions,whichisunable,temporarily,tohandle
+adequatelythereturnofitsnationalsandthatrequeststps;or
+
+ undergoingextraordinaryandtemporaryconditionsthatpreventnationalsfrom
+
+returninginsafety,unlesscontrarytousnationalinterests.45
+
+thetpsdeterminationprocesscanbeopaque.underthelaw,thedhssecretaryisrequired
+toprovidenoticeinthefederalregisterofdesignations,therelevanttimeperiods,the
+number of noncitizens likely to be affected, their immigration status(es) and the basis
+for designations.46foreignstatesoftenadvocateforthedesignation,re-designationand
+extensionoftpsstatus.oftentheyargueforre-designationorextensionbasedonthe
+difficultyofre-integratingreturnednationals,arationalethatarguablygoesbeyondthe
+statutorycriteriaforatpsdesignationincertaincases.ngoslikewiseadvocatefortps
+designationsthroughregularliaisonmeetingswithuscis,sign-onlettersandothermeans.
+the current process permits the dhs secretary to make determinations that invariably
+implicatesensitivediplomatic,political,humanitarianandresourceconsiderations,without
+publically  offending  the  state  under  review  (or  other  states)  or  establishing  untenable 
+precedents. it also allows for more expeditious decision-making in response to emergency 
+situations than might otherwise be possible with a more involved process.  
+ontheotherhand,thesystemslackoftransparencyleadsstakeholderstomistrustthe
+statedrationalefortpsdecisions.itcanbedifficulttounderstandwhycertainnations
+receivetpsdesignationsandothersdonot.armedconflictshaveledtodesignationsfor
+somenations,butnotforothers(frelickandkohnen1995,45-6).naturaldisastershave
+promptedtpsdesignationsforhaiti,nicaragua,andhonduras,butnotforstatesinsimilar
+circumstances(wasemandester2011,6).asofthiswriting,thedhssecretaryhadnot
+designatedthephilippinesfortps,despitethemassivedestructioncausedbytyphoon
+haiyan,includingmorethan10,000deaths,andfourmilliondisplaced.thismaybedue,
+inpart,tothelargefilipinopopulationintheunitedstatesandthesignificantresource
+challengethatatpsdesignationforthephilippineswouldpresenttouscis.
+itcanalsobedifficulttounderstandthetimingoftpsdecisions.evenbeforethejanuary
+12,2010earthquake,forexample,haitiwasthepoorestnationinthewesternhemisphere.
+in2008,hurricanesgustavandikeandtropicalstormsfayandhannaledtowidespread
+devastation and suffering, including 800 deaths, the destruction of more than 100,000
+
+43ina244(g).atthecreationofdhs,theauthoritytodesignatenationsfortpsandtoadministerthe
+tpsprogramtransferredfromtheagtothedhssecretary(wasemandester2011,2,note5).
+44theusdepartmentofstateenjoyedamoredirectroleininitiatingandadvisinginsonevdrequests
+(seltzer1992,774,784).
+45ina244(b)(1).
+46ina244(b)(1)(c);ina244(b)(3)(a).
+
+56
+
+journal on migration and human securityhomes,andfoodandwatershortages.despitetheseconditions,theunitedstatesdidnot
+designatehaitifortpsuntilafterthecataclysmicearthquakeinjanuary2010.
+tps  limits  participation  to  members  of  designated  groups.  it  cannot  be  granted  to 
+individuals from non-designated states that would face extreme danger and insecurity if 
+returnedhome,ortopersonswhoarriveafterthetps-designationdate.tpsrecipients
+cannotpetitionforfamilymemberstojointhemonthebasisoftpsstatus.inaddition,
+tpsrequiresindividualregistrationandre-registration,whichleadsmanytofalloutof
+status.47  
+theinitialperiodofdesignationmustbebetweensixand18months.48 if the conditions 
+giving rise to the designation persist, the dhs secretary can extend the period of
+designation.49designationcut-offdatesandregistrationdeadlinesseektodeterinfluxesof
+migrantsfromdesignatednations(frelickandkohnen1995,344).50 tps determinations 
+arenotsubjecttojudicialreview.51recipientscanpursuepoliticalasylumorapplyforany
+otherimmigrationrelieforbenefit.thestatutedoesnotdetailtheoptionsavailabletothose
+whose tps status is terminated or withdrawn.52   
+the dhs secretary can also re-designate nations fortps, which extends eligibility to
+nationals of designated states who arrive between the designation and re-designation dates. 
+thus,followingthejanuary2010earthquakeinhaiti,theunitedstatesgrantedtpsto
+haitiansresidingintheunitedstatesasofjanuary12,2010.itsubsequentlyextended
+tpstohaitiansforanadditional18monthsandre-designatedhaitifortps,which
+effectivelymovedthearrivaldateforwardtojanuary12,2011(dhs2011).inthisway,the
+dhssecretarycanrelaxthenormalpracticeoflimitingtpstothoseinthecountryonthe
+initialtpsdesignationdate.tpshassincebeenextendedforhaititojanuary22,2016.53  
+like evd, tps beneficiaries can work, avoid removal, travel abroad with prior
+authorization,andsecuredocumentation.54however,tpsdoesnot,initself,leadtolpr
+status.55congresscannotextendlprstatustotpsgroupswithoutasupermajorityvoteof
+thesenate,whichhasneveroccurred.56 
+tpsrecipientsarenotqualifiedforfederalpublicbenefits,makingthemineligiblefor
+mostmeans-testedbenefitprograms.57however,theyareeligibleforemergencymedicaid,
+publichealthprograms(likeimmunizations),disasterrelief,schoolbreakfastandlunch
+programs,andpubliceducationthroughhighschool.tpscannotbegrantedtopersons
+who are inadmissible on criminal and national security grounds.58
+
+47ina244(c)(1)(a);ina244(b)(3))c).
+48ina244(b)(2)(b).
+49ina244(b)(3).
+50theconcernoveramagneteffectwouldnotjustifyshortre-registrationperiods.
+51ina244(b)(5).
+52ina244(b)(3);ina244(c)(3).
+5394fed.reg.11808(mar.3,2014).
+54ina244(a)(1);ina244(d);ina244(f)(3).
+55ina244(d).
+56ina244(h).
+57ina244(f).
+58ina244(c)(2).
+
+57
+
+creating a more responsive and seamless refugee protection systeminthecongressionaldebateontps,severalmembersexpressedconcernthattpswould
+leadtopermanentorindefiniteusresidence.itssupporters,inturn,arguedthatthemeasure
+would  lead  only  to  short-term  admissions.59 tpss statutory frameworkthe limited
+periodsofdesignationandextension,andtheinabilityofbeneficiariestosponsorfamily
+members,toreceivemostpublicbenefits,andtoadjuststatusevidencescongressintent
+thattpsnotbecomealong-termstatus.yet,aspriortemporaryprogramshadproven,
+extraordinaryconditionsoftenleadtolong-termdisplacementandinstability.forthis
+reason,tpsdesignationshaveoftenextendedforprotractedperiods.forexample,somalia
+wasdesignatedfortpsinseptember1991forextraordinaryandtemporaryconditions
+thatmadeitunsafetoreturn,60 but tps has most recently been extended for somalia through 
+september17,2015.tpshasalsofrequentlybeenextendedaftertheconditionswhichled
+to the initial designation have subsided.61inaddition,tpscoversstatelesspersonswholast
+resided in the designated state.62intheseandothercases,theremaybenooptionforreturn.
+frequent tps extensions ensure that its beneficiaries are not returned to dangerous or
+otherwise untenable situations and that designated states are not destabilized by large-scale 
+repatriation.atthesametime,tpsdoesnotrepresentornecessarilyleadtoadurable
+solution. 
+
+executive discretion and visas for persons at risk of violence
+
+theusconstitutionvestsresponsibilityforthefaithfulexecutionofthelawsintheexecutive
+branch.63 the us supreme court has held that the executive branch enjoys absolute
+discretionnottoprosecuteorenforce,whetherthroughcivilorcriminalprocessbased
+onacomplicatedbalancingoffactorswhicharepeculiarlywithinitsexpertise.64 these 
+factorsincludewhetheraviolationhasoccurredwhetheragencyresourcesarebest
+spentonthisviolationoranother,whethertheagencyislikelytosucceedifitacts,whether
+the particular enforcement action requested best fits the agencys overall policies, and,
+indeed,whethertheagencyhasenoughresourcestoundertaketheactionatall.65  
+federal  immigration  agencies  exercise  prosecutorial  discretion  consistent  with  their 
+prioritiesandjudgmentsonhowbesttoenforcethelaw(kerwin,meissnerandmchugh
+2010).theyhaverepeatedlyaffirmedthattheydonotprioritizetheremovalofpersonsat
+risk of violence or persecution in their home countries. 
+
+59ofcourse,temporarydoesnottechnicallymeanshort-termorprecludelong-termadmission:instead,it
+meansfixed,limitedandnotpermanent.
+6054fed.reg.46,805(sept.16,1991).
+61ofcurrenttpsrecipients,themostrecentdesignationoftpsforelsalvadorwasmarch9,2001;for
+hondurasandnicaraguajanuary5,1999;forsomaliaseptember18,2012;forsudanandsouthsudanmay
+3,2013;forhaitijuly23,2011;andforsyriaoctober1,2013(uscis2013c).however,severalofthese
+nationswereinitiallydesignatedfortpswellbeforetheirmostrecentdesignations,includingelsalvador
+march 2, 2001; honduras and nicaragua december 30, 1998; somalia september 16, 1991; and sudan
+november4,1997(wasemandester2011,4).thenewrepublicofsouthsudanwasfirstdesignatedon
+november3,2011andhaitiwasfirstdesignatedonjanuary21,2010andre-designatedonjuly23,2011.
+62ina244(a)(1)).
+63u.s.const.,art.ii,3.
+64heckler v. chaney,470u.s.821,831(1985).
+65ibid.
+
+58
+
+journal on migration and human securitywhiletheinshadlongexerciseddiscretionnottopursuedeportationinnon-priority
+cases,itbegantooperateundermoreformaloperatinginstructionsin1975(wadhia2010).
+aninsmemorandumin2000directedofficerstoexercisediscretioninajudiciousmanner
+atallstagesoftheenforcementprocess.66thememorandumidentifiesseveralfactorsto
+guidetheexerciseofdiscretionthatarerelevanttopersonsinneedoftemporaryprotection,
+amongthemconditionsinthecountryoforigin,likelihoodofremoval,futureeligibilityfor
+immigrationstatus,andbetteralternativeusesofthelawenforcementresources.
+in 2007, the us government accountability office (gao) urged ice to develop
+comprehensive guidance covering arrest and removal decisions, including guidance
+dealing with humanitarian issues and aliens who are not investigation targets (gao
+2007,34).in2007,iceinstructeditsagentsthattheywereexpectedtoexercisediscretion
+atallstagesoftheenforcementprocess.67in2010,iceprioritizedenforcementactivities
+that furthered its national security and public safety mission. 
+deferredenforceddeparture,aformalexpressionofexecutivediscretion,hasbeenused
+to extend safe haven and work authorization to those who fear return based on conditions 
+intheircountryoforigin.in1990,presidentgeorgeh.w.bushawardeddedtochinese
+studentsfollowingtherepressionattiananmensquare.68presidentclintongrantedded
+tohaitiansfoundtohaveacrediblefearofpersecutionandwhoweresoontobecome
+eligibleforlprstatusunderthehaitianrefugeeandimmigrationfairnessactof1998.69  
+dedhasalsobeenusedintandemwithtpstoprotectlong-termtemporarypopulations.
+liberiareceivedatpsdesignationinmarch1991.aftertpsexpiredinseptember1999,
+roughly 10,000 liberians were granted ded, which was ultimately extended through
+september2002(wasemandester2011,6).onoctober1,2002,theunitedstatesre-
+designatedliberiafortps.thedesignationwasextendedtooctober1,2007.atthat
+point,thebushadministrationgranteddedtoliberianswhohadreceivedtps.dedhas
+beencontinuouslyextendedforliberianssincethattime.mostrecently,presidentobama
+extendeddedthroughseptember30,2014duetocompellingforeignpolicyreasons,70 
+whichincludethepotentiallydeleteriouseffectsofreturningliberiansonsocialcohesion
+and post-war reconstruction efforts.   
+deferred actionanother stylized exercise of executive discretionlikewise provides
+work authorization and temporary protection from removal. it can be granted to noncitizens 
+who are too young, too old or have serious disabilities; have close family connections
+intheunitedstates;committedminorinfractionsthatpreventthemfromreceivinglpr
+
+66memorandumfromdorismeissner,commissioner,immigrationandnaturalizationservice(ins),to
+regionaldirectors,districtdirectors,chiefpatrolagents,regionalanddistrictcounsel,hqopp50/4,
+november17,2000.
+67memorandumfromjuliel.myers,assistantsecretaryofusimmigrationandcustomsenforcement,
+toallfieldofficedirectorsandallspecialagentsincharge,prosecutorialandcustodydiscretion,
+november 7, 2007. http://www.scribd.com/doc/22092973/ice-guidance-memo-prosecutorial-discretion-
+julie-myers-11-7-07.
+68executiveorder12711(april11,1990).
+69pub.l.no.105-277,usstatutesatlarge112(1998):2681.
+70presidentialmemorandum,deferredenforceddepartureforliberians,march13,2013.http://www.
+whitehouse.gov/the-press-office/2013/03/15/presidential-memorandum-deferred-enforced-departure-
+liberians.  
+
+59
+
+creating a more responsive and seamless refugee protection systemstatus;cannotberemoved;orcanassistininvestigatingorprosecutingcriminalconduct.71  
+the deferred action for childhood arrivals (daca) program represents the most
+recentandambitioususeofexecutivediscretion.dacaappliestodreamers;i.e.,
+unauthorizedpersonswhoenteredtheunitedstatesaschildren,mostofwhomhavefew
+connections to their country of birth.72toqualifyfordaca,applicantsmust:
+
+ havebeenundertheageof31asofjune15,2012;
+ haveenteredtheunitedstatespriortoage16;
+ haveresidedcontinuouslysincejune15,2007;
+ applywithintheunitedstates;
+ nothavecommittedafelony,significantmisdemeanororthreeormore
+
+misdemeanors;and
+
+ beinschool,ahighschoolgraduate,ageneraleducationdevelopment(ged)
+
+recipient or an honorably discharged veteran.  
+
+dacaprovidestemporaryprotectionfromremovalandworkauthorizationforatwo-year
+period,withthepossibilityofrenewal.administrationofficialshaverepeatedlyargued
+thattheremovalofdreamersdoesnotrepresentanappropriateuseofdhsslimited
+enforcement resources.   
+thesecretaryofdhscanalsograntparoletononcitizensresidingintheunitedstates
+whohavenotbeenadmittedorparoled,butwhosecasesraisesubstantialhumanitarian
+considerations. parole-in-place is subject to the same standards and limitations as
+humanitarianparole.however,uscishasrecentlydemonstratedawillingnesstoallow
+groupmembershiptoweighheavilyinparoledeterminations.whilerecognizingthat
+paroleshouldbeusedsparinglyandgrantedonacase-by-casebasis,arecentuscis
+policymemorandumconcludedthatitwouldbeanappropriateexerciseofdiscretionto
+grantparole-in-placetothespouse,childorparentofanactivedutymemberoftheus
+armedforces,anindividualintheselectedreserveofthereadyreserveoranindividual
+who previously served in the usarmed forces or the selected reserve of the ready
+reserve(uscis2013d).
+
+visas for persons at risk of violence
+
+uslawprovidesspecialimmigrantvisastochildrenwhohavebeenabused,neglectedor
+abandoned.73toqualify,achildmustbedeclaredadependentofajuvenilecourtorbe
+placedbysuchacourtinthecustodyofastateagencyordepartment,oracourt-appointed
+
+71memorandumfromprakashkhatri,cisombudsman,todr.emiliot.gonzalez,directorofuscis,
+recommendationfromthecisombudsmantothedirector,uscis,april6,2007.http://www.dhs.gov/
+xlibrary/assets/cisombudsman_rr_32_o_deferred_action_04-06-07.pdf.
+72dreamersreferstopersonsbroughttotheunitedstatesaschildrenwhowouldbeeligibleforlegal
+statusunderthedevelopment,relief,andeducationforalienminorsact(thedreamact).
+73theviolenceagainstwomenact(vawa)allowsthequalifyingfamilymembersofabusiveuscitizens
+orlprstopetitionforafamily-basedvisawithouttheknowledgeorcooperationoftheabuser.italsoallows
+forcancellationofremovalandadjustmenttolprstatusofinadmissibleordeportablepersonswhohave
+beenbatteredorsubjectedtoextremecrueltybyauscitizenorlprspouseorparent,orwhohaveachild
+who has suffered abuse by the spouse or parent. 
+
+60
+
+journal on migration and human securityindividual or entity.74inaddition,thechildmustnothaveaviableoptionforreunification
+withoneorbothparentsduetoabuse,neglectorabandonment.75thecourtmustalsofind
+that it is not in the childs best interests to be returned to his or her country of birth.76 in 
+addition,dhsmustconsenttograntingthespecialimmigrantvisaandtothejuvenile
+courts decision on child custody and placement.77  
+the united states also offers two nonimmigrant (temporary) visas to persons who,
+althoughnotrefugees,nonethelesshaveexperiencedorareatriskofviolence.thet
+nonimmigrantvisaisavailabletosurvivorsofsevereformsofhumantrafficking,who
+weretraffickedtoausportofentryorintotheunitedstates,compliedwithreasonable
+requeststoassistintraffickinginvestigationsandprosecutions,andwouldsufferextreme
+hardship and unusual and severe harm if returned.78thelawsetsaceilingof5,000visas
+per year for principal beneficiaries, which does not count visas granted derivatively to
+spouses,sons,daughters,orparents.79atvisaholdercanadjusttolprstatusafterthree
+years of continuous presence or after a continuous period of presence during a completed 
+investigationorprosecutionfortrafficking.80heorshemustalsohavebeenapersonof
+goodmoralcharacterduringthisperiod,haveassistedintheinvestigationorprosecution
+of trafficking, would suffer extreme hardship involving unusual and severe harm if
+removed,orhavebeenyoungerthanage18whentrafficked.81   
+the u nonimmigrant visa is available to survivors of crime who have experienced
+substantialphysicalormentalabuse,possessinformationoncriminalactivity,andhave
+been, are being or will likely be helpful in the detection, investigation or prosecution
+of  an  enumerated  crime.82 to qualify, applicants must obtain certification from a us
+law enforcement agency regarding their assistance in an investigation or prosecution. u 
+nonimmigrantvisascanextendforupfouryears,withthepossibilityofrenewal.recipients
+canadjusttolprstatusafterthreeyearsofcontinuousphysicalpresence.thelawsetsa
+ceilingof10,000uvisasperyear,notcountingderivativefamilymembers,althoughthere
+is no limit on the number of visas that can be approved.   
+in2012,theunitedstatesapproved17,543uvisasand536tvisas(uscis2013f).uscis
+hasapprovedthemaximumnumberofuvisas(10,000forprimarybeneficiaries)overeach
+ofthelastfiveyears(uscis2013e).
+
+74ina101(a)(27)(j)(i).
+75ibid.
+76ina101(a)(27)(j)(ii).
+77ina101(a)(27)(j)(iii).
+78 ina  101(a)(15)(t)(i). congress established t and u visas through the victims of trafficking and
+violenceprotectionactof2000,pub.l.no.106-386,usstatutesatlarge114(2000):1464.
+79ina245(l)(4).theusdepartmentofstate(dos)reportsthatinfy2012,itissued1,595uvisasand
+517tvisas.see:dos.2013.classesonnonimmigrantsissuesvisas(includingcrewlistvisasandborder
+crossingcard),fiscalyears2008-2012.report of the visa office.washington,d.c.:dos.http://www.
+travel.state.gov/pdf/fy12annualreport-tablexvia.pdf .  dos-issued visas are likely for the derivative
+familybeneficiariesofuandtvisarecipients.
+80ina245(l).
+81ina245(l)(1).
+82ina101(1)(15)(u).
+
+61
+
+creating a more responsive and seamless refugee protection systemrecommendations
+the  united  states  should  expand  its  capacity  to  admit  limited  numbers  of  de  facto 
+refugees and others who are at substantial risk of persecution, danger or harm in their 
+home or host countries.
+oneofthemostglaringdeficienciesintheusrefugeeprotectionsystemisitspaucityof
+tools and its limited ability to admit de facto refugees and imperiled non-refugees whose 
+admissionwouldservethenationsinterest(fitzpatrick2000,280).humanitarianparole
+isgrantedprimarilyformedicalemergencies,tovisitsickfamilymembers,ortoattend
+funerals.inatypicalyear,onlyaverysmall(albeitunknown)numberofpersonsgranted
+parolearefleeingrefugee-likeconditions.
+congressshouldpasslegislationthatestablishesanewnonimmigrantprotectionvisa
+thatwouldbeavailabletopersonsatsubstantialriskofpersecution,dangerorharmintheir
+homeorhostcountries.likealltemporaryprotectionvehicles,thenewvisawouldserveas
+acomplementaryformofprotection,ratherthanasubstituteforrobustrefugeeandasylum
+policies. it would be available to members of particularly vulnerable and at-risk groups 
+like:
+
+ humanrightsactivists;
+ crusadingjournalists;
+ orphans;
+ childrenatriskofretaliationforresistinggangrecruitment;
+ theelderlyinrefugee-likesituations;
+ religiousminorities;
+ victimsofgender-basedviolence;
+ personswhocooperatedwithusmilitary,lawenforcementorintelligenceagencies;
+
+and 
+
+ personswhoseprotectionwouldserveusinterestsinpromotingrights,therule-of-
+
+law,androbustdemocraticinstitutions.
+
+likethetandunonimmigrantvisas,theprotectionvisawouldbegrantedonlyinextreme
+circumstances,wouldbenumericallylimited(15,000peryearforprimarybeneficiaries),
+andwouldallowforadjustmentofstatusafterthreeyearsofcontinuousphysicalpresence.
+thevisawouldalsobeavailabletoparoleeswithintheunitedstatesinneedofmore
+formal and potentially longer-term protection; us residents who meet the substantive
+criteriafortpsbutarenotfromatps-designatednation;personsfromtps-designated
+stateswhoarrivefollowingthedesignationdateandwouldbeatextremeriskifreturned;
+andtheimmediatefamilymembersoftpsbeneficiarieswhoareabroad.
+it would also cover internally displaced persons who would otherwise meet the refugee 
+criteriaiftheywereoutsidetheirnationofbirth.usembassiesandconsularofficescan
+already refer persons for refugee screening and, on occasion, they work to shepherd
+at-risk persons to safety in the united states. while it must be carried out with great
+discretion,aprotectionvisa(asoneofmultipleprotectionoptions)wouldnotinvariably
+expose applicants to an unacceptable or a heightened level of risk. some at-risk persons 
+are sporadically pursued by government actors or by groups that the government cannot 
+control.othersmaybeatriskonlyincertaingeographicregions.inaddition,persecutors
+
+62
+
+journal on migration and human securitywhetherstateagentsortheirproxiesdonotinvariablyoperateinanefficient,systematic
+way.theyoftenpossessimperfectknowledge,limitedresources,andmultiplepriorities.
+targetedpersonscan,inturn,move,hide,disguisetheiridentities,andtakeothersteps
+toevadedetection.inaddition,interviewsforprotectionvisasandprocessingcouldtake
+placeatunofficiallocations.
+thedhssecretaryshouldalsousehisorherparoleauthoritymoreconsistentlytoadmit
+personsonacase-by-casebasiswhoareatriskofpersecutionandharm.congressshould
+also expand the criteria for parole to include de facto refugees who cannot avail themselves 
+oftherefugeedeterminationprocess.anexampleofanappropriate,butcurrentlyunlikely
+candidate  for  parole  would  be  a  woman  in  a  refugee  camp  who  does  not  fall  within  a 
+designated,refugeeprioritypopulation,butwhohasbeenrapedandremains(withher
+children) at substantial risk. a more generous parole standard would permit and encourage 
+uscistograntparoletopersonsinsuchcircumstances.
+the  united  states  should  prioritize  tps-designated  states  for  reconstruction  and 
+development assistance. 
+theusdepartmentofstate(dos)reportsthat10.3millionpersonsortwo-thirdsofthe
+globalrefugeepopulationliveinprotractedrefugeesituations,definedasthoseinwhich
+atleast25,000personsfromthesamenationhavesoughtprotectionoutsidetheircountry
+oforiginforatleastfiveyears(dos2013b).83 the united states has recently made it a 
+prioritytodevelopdurablesolutionsforsixprotractedrefugeepopulations:the1.7million
+registeredafghanisinpakistan,manyofwhomhavelivedinpakistansincethesoviet
+occupation;340,000somalirefugeesinthedadaabandkakumacampsinkenya;150,000
+burmeserefugeesinthailand;morethan100,000ethnicbhutaneserefugeesinnepal;
+73,000displacedcroatianandbosniancitizensinserbia;andliberianrefugeesinwest
+africannations(dos2013c).
+the united states should likewise concentrate its relief, development, and diplomatic
+resourcesontps-designatedstatesandrelevantcommunitieswithinthosestates,withthe
+goal of allowing residents to stay and making voluntary repatriation a viable option for tps 
+beneficiaries.84in2012,southsudanwastheonlytps-designatedstateamongthetopten
+recipientsofusforeignassistance(epstein,lawsonandtiersky2013,10).
+thetps-designatedcentralamericanandcaribbeanstates,aswellasguatemala,amajor
+sourceofunaccompaniedmigrantchildren,shouldbeaparticularpriority.infy2012,
+doscontributed$148millionineconomicsupporttohaiti,andtargetteddevelopment
+assistanceof$46.3milliontoguatemala,$46.3milliontohonduras,$23.9milliontoel
+salvador,and$9.4milliontonicaragua(dos2013a,159,161).inaddition,dosprovided
+$141 million for global health initiatives to haiti and the usagency for international
+development(usaid)added$25million(ibid.,155,157).theunitedstatesprovided
+farlessforhealthinitiativestoguatemala($17.6million),honduras($9million),and
+nicaragua($2.9million)(ibid.).
+
+83ofcourse,itisbesttoaddresspotentialdestabilizingconditionsbeforetheyleadtowide-scaledisplacement.
+84theunitedstatesshouldalsoconditiondevelopmentassistanceonadherencetohumanrightsbenchmarks
+(yakoob1999,628).
+
+63
+
+creating a more responsive and seamless refugee protection systemthe united states also supports the creation of accountable, democratic rule of law
+institutionsthroughthecentralamericaregionalsecurityinitiativeandthecaribbean
+basinsecurityinitiative(ibid.,94).promotionoftheruleoflawintps-designatedstates
+shouldbeatop-tierprioritysinceruleoflawdeficienciesdrivesubstantialnumbersof
+residentsofthesenations,includingunaccompaniedchildren,intointernationalmigration
+streams(unhcr2014,98,106).85   
+the  united  states  should  work  to  establish  regional  migration  and  development 
+agreements  that  include,  as  necessary,  temporary  protection  and  voluntary  return 
+programs.
+mexico, guatemala, honduras and el salvador continue to experience high levels of
+emigration due to violence, human rights violations, family separation and privation.
+similarly,uscoastguardinterdictionsofnationalsfromcaribbeanstatesremainathigh
+levels(uscg2014),andfouryearsafteritsdevastatingearthquake,haitiremainsthe
+poorestcountryinthehemisphereandranksamongtheworldslowestscoringnationson
+theunhumandevelopmentindex(undp2013,146).
+the united states should make it a diplomatic priority to pursue regional migration and 
+development agreements for north and centralamerica, and for the caribbean. such
+agreements would identify the conditions leading to involuntary migration, develop
+coordinated responses to them, identify individuals and groups that are particularly in
+needofprotection(likeunaccompaniedminors),andworktowardtemporaryanddurable
+solutions for displaced populations.86theregionalconferenceonmigration,amultilateral
+processwith11memberstatesfromnorthandcentralamerica,constitutesanobvious
+forumfordialogueandincreasedcooperationinaddressingthesechallenges.however,
+thereisnosimilarregionalconsultativeprocessforcaribbeanstates.
+undersuchagreements,theunitedstateswouldworkcloselywithmigrantsendingstates,
+localcommunitiesoforigin,anddiasporagroupsondevelopment,institutionbuildingand
+voluntaryreturninitiatives.theconcertedplanofactionoftheinternationalconferenceon
+centralamericanrefugees(cirefca)providesamodelforcoordinatedregionalaction.
+acenterpieceoftheplan,whichledtotherepatriationofelsalvadorans,nicaraguans
+andguatemalansfromcampsintheregion,wastobuildhealthcare,transportation,water
+systems,educational,housingandotherinfrastructureincommunitiesoforigin(martin,
+schoenholtz and meyers 1998, 565). in other contexts, states have provided financial
+support to temporary protection recipients who returned home.87 
+theunitedstatesshouldalsoremainincontactwithtemporaryprotectionbeneficiariesin
+
+85between2011and2013,thenumberofapprehensionsofunaccompaniedchildrenseekingtoenterthe
+unitedstatesmorethandoubledto41,890(unhcr2014,16).
+86 temporary protection agreements can be difficult to negotiate due to the lack of consensus on the
+conditionsthattriggerprotection,therightstowhichbeneficiariesareentitled,anddifferentstatedefinitions
+ofrefugee.regionaltemporaryprotectionsystemsmaybemoreviablegiventhesenseofsharedriskand
+community(yakoob1999,631-632).
+87switzerland,forexample,providesfinancialassistancetotprecipientsbutonlyupontheirreturnto
+theircommunitiesoforigin(yakoob1999,627).theunitedkingdom,thenetherlandsandothereuropean
+nationssponsoredexploratoryreturnsforbosnianrefugeetoallowfamiliestoassesstheviabilityand
+safetyofreturn(hansen,randall,martin,schoenholtzandweil2000,809).
+
+64
+
+journal on migration and human securityordertofacilitatetheirvoluntaryreturn(fitzpatrick2000,299).88communitysupervision
+programs have proven effective in ensuring that persons in removal proceedings do not 
+abscond(meissnerandkerwin2009,54).suchprogramscouldbeusedeffectivelywith
+forced,temporarymigrantpopulationsthatwishtoreturntotheircountriesoforigin.
+the united states should allow long-term recipients of temporary protection to adjust to 
+lpr status. 
+theeffectsofcivilwar,armedconflict,environmentaldisasterandgeneralizedviolence
+often persist for years. in addition, relief, development and reconstruction initiatives
+typically  extend  beyond  the  time-frames  for  temporary  protection  recommended  by 
+international entities and set forth under us law. recipients of long-term, temporary
+protectionoftendevelopfamily,work,religiousandotherpermanentbondstotheunited
+states.afteraperiod,manydonotwanttoreturntotheircountriesoforiginandtheunited
+states does little to encourage or prepare them to do so.  
+likerefugeestatus,temporaryprotectionisnotadurablesolution(fitzpatrick2000,299).
+instead,extensionsoftpsandotherformsoftemporaryprotectioncankeeprecipientsin
+alegallimbo,withoutbenefits,theabilitytointegrate,orapathtopermanentlegalstatus
+(bergeron2014).inaddition,thelongerpersonsresideintheunitedstates,themorethey
+contributetofederalbenefitprogramslikesocialsecurityandmedicare,andthemore
+inequitableitbecomestodenythemcorebenefits(segerblom2007,671).
+forthesereasons,congressshouldpasslegislationtoallowcertainlong-termrecipientsof
+temporaryprotectiontoadjusttolprstatus.89itcandosoinatleastthreeways.first,since
+1929,theunitedstateshasallowedlong-termresidentstolegalizetheirstatusthrough
+registry(kerwin2010).congresshasregularlyadvancedthedatebywhichnoncitizens
+musthaveenteredtoqualify.theimmigrationreformandcontrolactof1986moved
+forwardtheregistrydatetojanuary1,1972,whichallowedmorethan72,000residentsto
+legalize(ibid.,2).tobeeligibleforregistry,long-termresidentsmusthaveexhibitedgood
+moralcharacter,notbeineligibleforcitizenship,andnotbeinadmissibleordeportablefor
+terrorist activities.
+congressshouldpasslegislationthatwouldadvancetheregistrydatetojanuary1,1999
+and move this date forward automatically by one year each year thereafter. this would 
+allowpersonswhohaveresidedcontinuouslyintheunitedstatesforatleast15yearsand
+whomeettheotherstatutoryrequirementsforregistrytoadjusttolprstatus.
+second, congress should pass broad immigration reform legislation that expedites the
+path to legal status for long-term recipients of temporary protection by crediting time in 
+protectedstatustowardqualifyingyearsforthepurposesofearnedlegalization.itshould
+also allow recipients of temporary protection (in whatever form(s)) and their immediate 
+familymemberstoadjusttolprstatusafter10years.
+third, us law also provides for cancellation of removal, a form of equitable relief
+
+88somecommentatorshaveproposedthattpsbeneficiariesberequiredtoreportregularlytoimmigration
+officials(martin,schoenholtzandmeyers1998,571).
+89temporaryprotectionrecipientscansecurepermanentstatusinscandinaviannationsandswitzerland
+whenitbecomesapparentthattheirstayisnolongertemporary(segerblom2007,677,681).
+
+65
+
+creating a more responsive and seamless refugee protection systemfromremoval(deportation),forlong-term,unauthorizedresidentswithstrongtiestothe
+united states and strong claims to remain. immigration judges have the discretion to
+grantcancellation(whichbringslprstatus)tounauthorizedpersonswhohaveresided
+continuouslyintheunitedstatesfor10years,havedemonstratedgoodmoralcharacter,have
+notbeenconvictedofcertainoffensesthatwouldmaketheminadmissibleordeportable,
+andwhoseremovalwouldresultinexceptionalandextremelyunusualhardshiptotheir
+uscitizenorlprspouse,parentorchild.90asithasdoneforotherpopulations,congress
+should allow temporary protection recipients to apply affirmatively for cancellation of
+removaltouscis(e.g.,withoutwaitingtobeplacedinremovalproceedings)iftheyhave
+residedintheunitedstatesfor10years,haveexhibitedgoodmoralcharacter,andhave
+strongequitableclaimstoremain.
+some argue that temporary protection programs will lose political and public support if 
+they lead to permanent status. this assumption deserves to the challenged. the us refugee 
+resettlementprogram,whichhasadmittedthreemillionpersonssince1975,hasenjoyed
+broad,bi-partisansupportovertheyears.likerefugees,long-termrecipientsoftemporary
+protectionareatriskofdangerandharm,needadurablesolution,andenjoystrongequitable
+ties to the united states.     
+the united states should allow for more public input into the tps determination process. 
+tpshasnumerousadvantagesandstrengths.ithasproventobeaflexible,timelyand
+generous tool for offering protection to groups that the united states and (often) the country 
+of origin agree should not return home. in 2011, more than 330,000tps beneficiaries
+residedintheunitedstates(wasemandester2011,4).thestreamlinedtpsapplication
+processaffirmstheapplicantsnationality,dateofentryandcontinuouspresence,while
+avoiding the complexity and length of time required to adjudicate asylum applications
+(fitzpatrick2000,285).inaddition,tpshasnotgeneratedthepoliticalacrimonyofother
+us immigration programs.    
+tpsdeterminationsshouldremaindiscretionary,flexible,andapplicabletonationaland
+sub-national groups. however, it would not infringe on executive discretion or delay
+time-sensitive decisions to establish a more transparent and inclusive tps determination 
+process.inparticular,dhs/uscisshouldhostquarterly,publichearingsthatwouldallow
+academics,diasporagroups,expatriates,ngos,governmentofficials,andotherstosubmit
+materials and testify to country conditions in tps-designated and tpseligible nations. 
+thesehearingswouldinformthedhssecretarysexerciseofdiscretion,providedhswith
+anopportunitytoexplainthetpsprocessandstandardstostakeholders,andincreasethe
+publicsconfidenceintpsdecisions.itwouldnot,assomecommentatorsargue,insulate
+theprocessfromdiplomaticorpoliticalpressure.however,itwouldrespondtoconcerns
+that tps decisions often seem arbitrary and ad hoc(fitzpatrick2000,286).
+the dhs secretary should allow certain persons from tps-designated countries that 
+enter after the initial designation period to secure protection.
+tps  is  not  available  to  imperiled  nationals  of  designated  states  who  arrive  after  the 
+designation date, including the immediate family members of tps recipients. some
+
+90ina240a(b).
+
+66
+
+journal on migration and human securitycommentators  have  proposed  extending  protection  to  those  who  arrive  after  the  initial 
+designationdateincertaincircumstances.othersproposegrantingtpsentirelyonacase-
+by-casebasis(notbasedonnationality)inordertocoverpersonsindesperateneed,while
+avoidingthemagneteffectofmovingforwardthetpscut-offdate(martin,schoenholtz
+andmeyers1998,569).
+the dhs secretary should make more liberal use of his or her authority, as secretary
+napolitanodidwithhaitiinmay2011,tore-designatenationsfortps.91re-designation
+should occur when the conditions giving rise to the initial designation persist and when 
+desperate persons have arrived in the interim.92however,thesecretarywillneedtousethis
+authority prudently in order not to encourage irregular migration.  
+
+conclusion
+the legislative expansion of us temporary protection programs and the effective use of 
+currentprogramsandlegalauthoritiesdependheavilyonpoliticalwill.asdiscussed,the
+executivebranchenjoysbroaddiscretiontooffertemporaryprotectionindifferentforms.
+theresponsetohaitianrefugeesintheearly1990sillustratesthispoint,andhighlights
+thetools,challengesandcompetinggoalsinplayinextendingtemporaryprotectiontoat-
+riskpersons.onseptember30,1991,thehaitianmilitaryoverthrewthedemocratically
+electedgovernmentofjean-bertrandaristideandinitiatedareignofkillings,persecution
+andsuppressionofactualandsuspectedaristidesupporters.inresponse,tensofthousands
+fledhaitibyboat.theunitedstatessoughtbothtoprotectthosefleeingfortheirlivesand
+todeterlarge-scale,irregularmigrationfromhaiti.itshydra-headedresponseincluded:
+
+ therescuebytheuscoastguardoftensofthousandsofhaitiansatsea;
+ crediblefearscreeningofhaitiansbyuscisasylumofficersatguantnamo
+
+navalbase;
+
+order;
+
+ paroleofroughly11,000personsfoundtohaveacrediblefearintotheunitedstates
+
+inordertopursuepoliticalasylumclaims;
+
+ interdictionandsummaryreturnofhaitianspursuanttoamay24,1992executive
+
+ regularextensionsofparoleandworkauthorizationforparoledasylum-seekers;
+ large-scalepoliticalasylumprogramsbyngos;
+ arefugeeprocessingprogramwithinhaitifrom1992and1995;
+ passageofthehaitianrefugeeimmigrationfairnessactof1998(hrifa)which
+
+allowedparoledhaitianswhohadnotyetreceivedpoliticalasylumtoadjusttolpr
+status. 
+
+ dedtothoseeligibleforhrifatoensuretheywouldnotbedeportedpriortothe
+
+acts implementation. 
+
+theinterdictionandsummaryreturnofhaitianswithoutrefugeescreeningorinterviews
+violated the right to non-refoulementguaranteedinarticle33oftherefugeeconvention.
+inaddition,theunitedstatesshouldhaveprovidedrefugeeinterviewsandscreeningat
+
+91ofcourse,thecreationofanonimmigrantvisaforpersonsinrefugee-likesituationswouldallowadditional
+persons in desperate need to arrive through legal channels.  
+92re-designationwouldalsobenefitthoseinthecountrywhofailedtoregisterontime.
+
+67
+
+creating a more responsive and seamless refugee protection systemguantnamo,obviatingtheneedforpoliticalasylumadjudicationsandlatercongressional
+action.atthesametime,however,theunitedstatesmadeasubstantialcommitment
+involvingmultiplefederalagencies,allthreebranchesofgovernment,severalusstates,
+ngos, and the creative use of its immigration authoritiesto extend temporary and
+(ultimately)permanentprotectiontohaitianswhowerefoundtomeetthecrediblefear
+standard in the months between aristides overthrow and the initiation of the summary 
+return policy.  if the convoluted and contradictory nature of the us response to this crisis 
+reflectscompetinggoalsandpressures,italsounderscorestheindispensableingredientin
+anytemporaryprotectionprogram:agenuinecommitmenttoprotect.
+

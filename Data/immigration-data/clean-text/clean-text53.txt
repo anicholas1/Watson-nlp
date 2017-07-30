@@ -1,0 +1,655 @@
+paths to lawful immigration 
+status: results and implications 
+from the person survey1
+
+tom k. wong
+uc san diego
+
+donald kerwin 
+center for migration studies 
+
+jeanne m. atkinson
+catholic legal immigration network, inc. 
+
+mary meg mccarthy
+national immigrant justice center 
+
+         executive summary 
+
+anecdotal evidence suggests that a significant percentage of unauthorized 
+immigrants are potentially eligible for some sort of immigration relief, but 
+they either do not know it or are not able to pursue lawful immigration 
+status for other reasons. however, no published study that we are aware 
+of  has  systematically  analyzed  this  question.  the  purpose  of  this  study 
+is thus to evaluate and quantify the number of unauthorized immigrants 
+who, during the course of seeking out legal services, have been determined 
+to be potentially eligible for some sort of immigration benefit or relief that 
+provides  lawful  immigration  status.  using  the  recent  implementation 
+of  the  deferred  action  for  childhood  arrivals  (daca)  program  as  a 
+laboratory  for  this  work,  this  study  attempts  to  answer  the  question  of 
+the  number  of  unauthorized  immigrants  who,  without  knowing  it,  may 
+already be potentially eligible for lawful immigration status. in surveying 
+67  immigrant-serving  organizations  that  provide  legal  services,  we  find 
+that 14.3 percent of those found to be eligible for daca were also found 
+to  be  eligible  for  some  other  form  of  immigration  reliefput  otherwise, 
+14.3  percent  of  individuals  that  were  found  to  be  eligible  for  daca, 
+which provides temporary relief from deportation, may now be on a path 
+towards lawful permanent residency. we find that the most common legal 
+remedies  available  to  these  individuals  are  family-based  petitions  (25.5 
+percent), u-visas (23.9 percent), and special immigrant juvenile status 
+(12.6  percent).  these  findings  make  clear  thatwith  comprehensive 
+
+1  this study was made possible through the support of the john d. and catherine t. macarthur 
+foundation.
+
+ 2014 by the center for migration studies of new york. all rights reserved.jmhs volume 2 number 4 (2014): 287-304immigration  reform  legislation  or  eligibility  for  administrative  relief  
+legal screening can have significant and long-lasting implications on the 
+lives of unauthorized immigrants and their families.
+
+introduction
+over the past several decades, a comprehensive legislative response to the us unauthorized 
+population has eluded congress, successive administrations, and states and localities. in the 
+113th congress (2013-2014), lawmakers again failed to pass comprehensive immigration 
+reform (cir) legislation that included an earned legalization program for unauthorized 
+immigrants.2 congress has also repeatedly failed to pass more narrow legislation that would 
+legalize discrete groups of unauthorized immigrants, such as those who were brought to the 
+us as children and agricultural laborers.3 within this context, the obama administration 
+has used its prosecutorial discretion to provide temporary relief from deportation, along 
+with work authorization, to an estimated 1.8 million unauthorized immigrant youth via 
+the 2012 deferred action for childhood arrivals (daca) program.4 at the end of 2014 
+the administration expanded its policy of deferred action to the unauthorized parents of 
+us citizens and lawful permanent residents (lprs) via the deferred action for parental 
+accountability (dapa) program.  
+the recent implementation of daca provides a laboratory to analyze one of the largest 
+immigrant legalization programs since the immigration reform and control act (irca) of 
+1986. the lessons learned from daca are sure to inform dapa implementation, as well 
+as future legalization programs. research on daca has thus far analyzed the demographic 
+profile  of  daca  applicants  with  an  eye  towards  the  under-representation  of  particular 
+immigrant  groups  (wong  et  al.  2013),  the  societal  incorporation  experiences  of  those 
+with daca (gonzales, terriquez, and ruszczyk 2014; wong and valdivia 2014), and the 
+civic engagement and political incorporation of dacamented millennials (wong and 
+valdivia 2014). despite the important contributions of these studies, the perspectives and 
+experiences of immigrant-serving organizations that provide legal servicesorganizations 
+that are not only on the front lines of daca implementation, but will also likely be on 
+the front lines of any broader legalization programhave been absent from this emergent 
+literature.
+anecdotal  evidence  based  on  the  experiences  of  immigrant-serving  organizations  that 
+provide legal services suggests that a significant percentage of unauthorized immigrants 
+
+2  whereas s. 744 was passed in the senate by a vote of 68 to 32, the bill was not voted on in the house of 
+representatives.
+3  the impasse at the federal level has created opportunities for states and other localities to pass their own 
+legislation directed at unauthorized immigrants, including so-called self-deportation enforcement measures. 
+at the same time, other states and localities have passed measures that attempt to regularize and normalize 
+day-to-day life for unauthorized immigrants, for example, by allowing unauthorized immigrants to access 
+identification cards, drivers licenses, and in-state tuition. combined, these laws, policies, and practices can 
+improve the lives of unauthorized immigrants, but they do not offer permanent status or long-term solutions 
+to the challenge of 11 million us unauthorized residents.
+4  the administration has also used its prosecutorial discretion to ease enforcement pressures on unauthorized 
+immigrants in the nations interior who do not fit certain enforcement priorities.
+
+288
+
+journal on migration and human securityare potentially eligible for some sort of immigration benefit or relief, but either they do not 
+know it or are not able to pursue lawful immigration status for other reasons. however, 
+no  published  study  of  which  we  are  aware  has  systematically  analyzed  this  question. 
+the purpose of this study is thus to evaluate and quantify the number of unauthorized 
+immigrants who, during the course of seeking out legal services, have been determined to 
+be potentially eligible for some sort of immigration relief that provides lawful immigration 
+status. using the implementation of daca as the backdrop for this work, this study is 
+a  first  attempt  to  answer  the  question  of  the  number  of  unauthorized  immigrants  who, 
+without knowing it, may already be potentially eligible for lawful immigration status. this 
+study has important implications for those who seek out legal services for deferred action, 
+as permanent immigration remedies may be available to many unauthorized immigrants in 
+addition to temporary relief from deportation. 
+in  a  national  survey  of  67  immigrant-serving  organizations  that  provide  legal  services, 
+we find that 14.3 percent of those found to be eligible for daca were also found to be 
+eligible for some other form of immigration benefit or reliefput otherwise, 14.3 percent 
+of individuals that were found to be eligible for daca, which provides temporary relief 
+from deportation, may now be on the path towards lawful permanent residency. we find that 
+the most common legal remedies available to these individuals are family-based petitions 
+(25.5  percent),  u-visas  (23.9  percent),  and  special  immigrant  juvenile  status  (12.6 
+percent).  these  findings  make  clear  thatwith  or  without  comprehensive  immigration 
+reform legislation or administrative relieflegal screening can have significant and long-
+lasting implications on the lives of unauthorized immigrants and their families.
+
+unmet  needs:  connecting  unauthorized  immigrants  to 
+legal service providers 
+a growing body of literature has demonstrated the overwhelming need for legal services 
+and assistance in immigrant communities (for example, see bach, 1996; shannon 2009; 
+katzmann 2008, 2009; kerwin 2005). to illustrate, one of the last major national legal 
+needs surveys conducted in immigrant communities was fielded in the early 1990s (bach 
+1996).  this study was based on a survey of 2,500 low-income households in los angeles, 
+new york, houston, miami, and chicago, all communities with relatively robust immigrant 
+service networks. the survey found that while more than half of the households surveyed 
+had been involved in a legal status change, among these households, less than half had 
+received legal assistance in the process (bach 1996, 37). this literature has also drawn 
+attention to the shortage of competent counsel for low-income immigrants (shannon 2009; 
+markowitz et al. 2011) and the important role that community-based organizations play 
+in ensuring high levels of participation in programs to change legal status (baker 1997; 
+campos 2014; gonzalez-barrera et al. 2013; hagan and baker 1993).  
+given  the  immense  unmet  legal  needs  of  low-income  immigrants,  national,  state,  and 
+local charitable legal service and community networks have made it a priority to build 
+immigrant  service  and  legal  capacity.  capacity  building  has  been  a  recurrent  theme  in 
+planning  discussions  related  to  the  implementation  of  broad  legalization  programs  like 
+daca, dapa and earned legalization (carson 2014; kerwin and laglagaron 2010), as 
+
+289
+
+paths to lawful immigration statushas improving the quality of legal representation for immigrants more generally (katzmann 
+2008, 2009).  
+the  mobilization  and  coordination  of  immigrant-serving  organizations  has  also  proven 
+successful in increasing participation in legal status programs.5 for example, a large-scale 
+naturalization campaign after the nationwide immigrant rights marches in 2006 led to a spike 
+in naturalization applications filed between 2006 and 2007 (from 730,642 to 1,382,993), 
+as well as a large increase in persons naturalized from 2007 to 2008 (from 660,477 to 
+1,046,539) (gonzalez-barrera et al. 2013, 30; see also wang and winn 2011). yet, the 
+need for sustained work by immigrant-serving organizations that provide legal services 
+remains acute. for example, 9.7 million immigrants who were eligible for naturalization 
+in 2011 had not yet naturalized, with particularly low naturalization rates among eligible 
+mexican  nationals  (gonzalez-barrera  et  al.  2013,  11).  moreover,  while  nearly  600,000 
+young people are now dacamented, this represents just under half of those who are 
+currently eligible for daca.6 
+research in this area has also illustrated the striking differences that legal representation 
+makes in case outcomes (katzmann 2008; ramji-nogales, schoenholtz, and schrag 2009; 
+trac  2014).  these  studies  have  largely  concentrated  on  political  asylum-seekers  in 
+us  immigration  courts,  although  they  have  also  covered  cases  in  removal  proceedings 
+involving  immigration  relief  of  different  kinds  and  cases  before  us  citizenship  and 
+immigration services (uscis). one study concluded that legal representation is the single 
+most important factor affecting political asylum outcomes (ramji-nogales, schoenholtz, 
+and schrag 2009, 45). not surprisingly, studies have also concluded that the quality of 
+legal representation matters. thus, high-quality, time-intensive representation leads to high 
+approval rates (ramji-nogales, schoenholtz, and schrag 2009), while poor representation 
+negatively influences case outcomes (markowitz et al. 2011, 23-27). additional findings 
+include:
+
+  47 percent of represented unaccompanied minors from fy 2005 to fy 2014 were 
+allowed  to  stay  in  the  united  states,  compared  to  10  percent  of  unrepresented 
+unaccompanied minors during the same period (trac 2014);
+
+  25 percent of represented asylum-seekers from fy 2000 and fy 2004 who were 
+arrested at or near the us-mexico border and initially subject to expedited removal 
+were granted asylum, compared to 2 percent for unrepresented asylum-seekers in 
+this situation (kuck 2004, 239);
+
+  39 percent of non-detained, represented asylum-seekers in fy 2003 prevailed in 
+their claims in immigration court, versus 14 percent of non-detained, unrepresented 
+asylum-seekers (kerwin 2004, 6, 11-12);  
+
+  18  percent  of  detained,  represented  asylum-seekers  in  fy  2003  were  granted 
+asylum, compared to 3 percent for detained, unrepresented asylum-seekers (ibid.);
+  87 percent of non-detained, represented persons seeking adjustment to lpr status in 
+fy 2003 were successful, compared to 70 percent for non-detained, unrepresented 
+
+5  see baker 1997 and hagan and baker 1993 for examples related to irca. see campos 2014 for more 
+recent examples.
+6  as of july 2014, 587,366 initial daca applications had been approved. this represents 41 percent of the 
+potentially eligible population of 1.7 million (see batalova et al. 2014).
+
+290
+
+journal on migration and human securitypersons (ibid.);
+
+  41 percent of detained, represented persons seeking adjustment to lpr status in fy 
+2003 were successful, compared to 21 percent for detained, unrepresented persons 
+(ibid.);
+
+  46 percent of represented asylum-seekers in immigration court from january 2000 
+to august 2004 received asylum, compared to 16 percent for unrepresented asylum-
+seekers (ramji-nogales, schoenholtz, and schrag 2009, 45);
+
+  41 percent of uscis asylum applicants with legal counsel from fy 2000 to fy 
+2003 were granted asylum, compared to 24 percent of uscis asylum applicants 
+without legal counsel during the same period (ibid., 260);
+
+  74  percent  of  represented,  non-detained  cases  from  october  2005  to  july  2010 
+in new york immigration courts had successful case outcomes, compared to 13 
+percent for unrepresented, non-detained cases during the same period (markowitz 
+et al. 2011, 19-20);
+
+  18  percent of  represented detainees achieved successful outcomes in  new york 
+immigration  courts  from  october  2005  to  july  2010,  compared  to  3  percent  of 
+unrepresented detainees during the same period (ibid.). 
+
+as these findings make clear, legal representation is an important determinant of positive 
+immigration case outcomes. our analysis below further demonstrates that, in the context 
+of  daca,  access  to  legal  services  and  assistance  is  also  an  important  determinant  of 
+identifying the many paths to lawful immigration status that may exist for some unauthorized 
+immigrants.
+
+the person survey
+in order to empirically evaluate the extent to which daca-eligible youth are also potentially 
+eligible for other immigration benefits or forms of relief, we conducted a nationwide survey 
+of immigrant-serving organizations that provide legal services during the late summer and 
+early fall months of 2014the potential eligibility for relief survey of non-profits, or 
+person survey. sponsored by the center for migration studies of new york (cms), the 
+catholic legal immigration network, inc. (clinic), and the national immigrant justice 
+center (nijc), our online survey used a snowball sampling method that relied on the dense 
+networks of immigration legal service providers supported by or otherwise known to the 
+sponsoring organizations. 
+sixty-seven organizations representing 24 states plus the district of columbia completed 
+the  survey.  the  bulk  of  organizations  that  responded  to  the  survey  are  from  illinois 
+(12  organizations),  california  (9),  and  new york  (8).  when  comparing  states  that  are 
+represented in the survey with states that are not, we see that our sample is comprised of 
+states with statistically significantly larger estimated unauthorized populations (p = .036) 
+and statistically significantly larger numbers of estimated daca-eligible youth (p = .056). 
+regarding the characteristics of the organizations themselves, there is significant variation 
+in their experience, as measured by number of years in operation, and their capacity, as 
+measured by number of paid staff. experience ranges from one year in operation to 103 
+years in operation with a median of 28 years. capacity ranges from one paid staff to 104 
+paid staff with a median of seven. this variation provides leverage to evaluate how the 
+
+291
+
+paths to lawful immigration statusefficacy of legal screening varies by the experience and capacity of the organizations we 
+surveyed. 
+
+results
+since  daca  was  first  announced  on  june  15,  2012,  the  organizations  we  surveyed 
+combined  to  screen  a  total  of  126,154  individuals  without  lawful  status.  of  this  total, 
+30,733 or 24.4 percent were daca-related cases. in other words, among the organizations 
+surveyed over 30,000 persons walked in the door for daca. of course, not all of these 
+individuals were found to be eligible for deferred action. of the 30,733, 19,095 or 62.1 
+percent of these daca-related cases were, in fact, found to be eligible for daca. the 
+legal remedies available to this particular subset of individuals constitute the primary focus 
+of the analysis below. we also note that 56.0 percent of non-daca cases on which the 
+surveyed  organizations  worked  were  found  to  be  potentially  eligible  for  some  form  of 
+immigration relief (more on this in the recommendation section).5 
+having identified the total number of daca-eligible youth that each of the organizations 
+we surveyed screened, we then asked, among the individuals who were judged to be 
+potentially eligible for daca, approximately how many of these individuals were also 
+judged  to  be  potentially  eligible  for  other  immigration  benefits  or  forms  of  relief?  in 
+response, the organizations in our sample reported identifying a combined 2,727 individuals 
+who were eligible for daca and some other immigration benefit or form of relief. in other 
+words, 14.3 percent of those who walked in the door for daca were not only found to be 
+potentially eligible for deferred action, but were also judged to be potentially eligible for 
+some other immigration benefit or form of immigration relief. figure 1 graphically depicts 
+this result.
+what specific immigration remedies have these organizations identified for these 2,727 
+individuals? to answer this question, we asked the organizations to indicate the percentage 
+breakdown of eligibility for non-daca immigration remedies based on a menu of different 
+forms of immigration relief.6 as figure 2 shows, the most common immigration remedies 
+identified  for  these  individuals  are  family-based  petitions  (25.5  percent),  followed  by 
+u-visas (23.9 percent) and then special immigrant juvenile status (12.6 percent). as noted 
+above, these alternatives provide potential paths to permanent residency (e.g., a green card) 
+and citizenship.
+5   the five most common legal remedies available in non-daca cases were special immigrant juvenile 
+status  (18.3  percent),  asylum  or  related  protection  (14.8  percent),  family-based  petitions  (14.6  percent), 
+adjustment  (10.5  percent),  and  cancellation  of  removal  (9.4  percent).  the  high  percentage  of  special 
+immigrant juvenile status and asylum or related protection cases are due mostly to an outlier organization. 
+removing the outlier leads to family-based petitions (20.2 percent), cancellation of removal (14.9 percent), 
+adjustment  (14.1  percent),  daca  (13.6  percent),  and  consular  processing  (11.8  percent)  as  the  leading 
+categories. whereas 23.9 percent of those eligible for daca and some other form of immigration relief were 
+found to be potentially eligible for a u-visa, 8.0 percent of non-daca cases were found to be potentially 
+eligible for a u-visa (9.6 percent if the outlier is excluded). it is also interesting to note that 3.2 percent (4.4 
+percent excluding the outlier) of individuals were found to be potentially eligible for derivative citizenship.
+6   this menu included, in alphabetical order, adjustment, asylum or related protection, cancellation of 
+removal (only applicable if individual is in immigration court), consular processing, derivative citizenship/
+naturalization, employment-based visa, family-based petition, non-immigrant visa, special immigrant 
+juvenile status, t-visa, u-visa, vawa, and other.
+
+292
+
+journal on migration and human securityfigure 1
+
+figure 2
+
+293
+
+paths to lawful immigration statusthat 14.3 percent of those found to be eligible for daca were also found to be potentially 
+eligible for some other immigration benefit or form of relief is an especially significant 
+finding  given  the  large  number  of  estimated  daca-eligible  youth  across  the  country.9  
+however,  we  caution  that  a  wholesale  generalization  of  this  14.3  percent  figure  to  the 
+entire daca-eligible population, or even to the broader unauthorized population, would 
+be unwise. because a probability-based survey of all attorneys who work on immigration 
+cases,  immigration  legal  service  providers,  and  organizations  that  serve  unauthorized 
+immigrants is currently not possible (this entire universe is not known and the number of 
+unauthorized immigrants who find a path to lawful status and proceed pro se would also 
+need to be taken into account), nationally generalizable survey results are currently not 
+obtainable. methodological limitations notwithstanding, the import of our main finding 
+remains intact. 
+moreover, while no publicly available data of which we are aware can definitively tell us 
+whether our main finding represents an upper or lower bound, we can confidently state 
+that among the organizations we surveyed, 14.3 percent of those found to be eligible for 
+daca were also found to be potentially eligible for some other immigration benefit or 
+form of immigration relief. our main finding can thus be used as a heuristic for future 
+daca-related outreach, as well as for outreach related to dapa and any other legalization 
+program.
+
+experience and capacity
+are  organizations  with  more  experience  or  greater  capacity  more  likely  to  identify 
+alternative immigration remedies for daca-eligible youth? to answer this question, we 
+analyze the relationship between the characteristics of the organizations we surveyed and 
+the percentage of individuals that each organization identified who were eligible for daca 
+and some other immigration benefit or form of immigration relief. to recall, among the 
+organizations surveyed, experience ranges from one year in operation to 103 years and 
+capacity ranges from one paid staff to 104. 
+the analysis proceeds as follows. first, we examine the bivariate relationship between the 
+experience of an organization and the count of the total number of individuals identified 
+as being eligible for daca and some other immigration benefit or form of relief (y1a). we 
+then examine the bivariate relationship between the experience of an organization and the 
+number of individuals identified as being eligible for daca and some other immigration 
+benefit or form of relief as a percentage of all individuals identified as being eligible for 
+daca (y1b). given the non-normal distribution of experience across all of the organizations 
+surveyed, we analyze both the total number of years in operation (x1a) and the natural log 
+of the total number of years in operation (x1b). 
+second, we examine the bivariate relationship between the capacity of an organization, as 
+measured by total number of paid staff, and y1a and y1b. because capacity is also not normally 
+distributed across the organizations that we surveyed, we analyze both the total number of 
+paid staff (x2a) and the natural log of the total number of paid staff (x2b). lastly, we test the 
+9  according to the immigration policy center (2012), roughly 1.8 million people are either immediately 
+eligible for daca or will become eligible in the future.
+
+294
+
+journal on migration and human securityeffect of experience and capacity in a multivariate model that accounts for contextual factors 
+related to social capital that are likely to impact the ability of unauthorized immigrants to 
+access legal services or assistance in the context of a legalization program (baker 1997; 
+hagan and baker 1993; meissner and papademetriou 1988; ong hing 1992). these are 
+the natural log of the total non-citizen population in the cities that the organizations we 
+surveyed are located, the percentage of the non-citizen population that entered before 2010, 
+the percentage of the non-citizen population that does not speak english very well, and 
+the percentage of the non-citizen population that lives below the poverty line. these data 
+come from the american community survey (acs) 2012 five-year estimates. we note that 
+because more nuanced and granular data on the unauthorized immigrant population are 
+currently not widely available (or reliable) at low levels of geography (e.g., cities) and for 
+places with small populations, we use data from the acs on the non-citizen population as 
+proxies for the characteristics of the unauthorized.
+
+figure 3
+
+as figure 3 shows, there is no statistically significant relationship between experience and 
+the efficacy of legal screening. as the figure shows, the relationship between the number of 
+years in operation and the count of individuals identified as being eligible for daca and 
+
+295
+
+paths to lawful immigration statussome other immigration benefit or form of relief (y1a) is statistically insignificant. this is 
+true for both the total number of years in operation (p = .467) and the natural log of the total 
+number of years in operation (p = .782). moreover, while there is a positive relationship 
+between experience and the number of individuals identified as being eligible for daca 
+and some other immigration benefit or form of relief as a percentage of all individuals 
+identified as being eligible for daca (y1b), this relationship is not statistically significant. 
+this is true for both the total number of years in operation (p = .100) and the natural log of 
+the total number of years in operation (p = .237). 
+in  contrast,  as  figure  4  shows,  there  is  a  statistically  significant  relationship  between 
+capacity and the efficacy of legal screening. as the left column of the figure shows, the 
+relationship between the number of paid staff and the count of individuals identified as 
+being  eligible  for  daca  and  some  other  immigration benefit  or  form  of  relief  (y1a)  is 
+statistically significant. this is especially true for the natural log of the total number of paid 
+staff (p = .011). moreover, there is also a positive and statistically significant relationship 
+between capacity and the number of individuals identified as being eligible for daca 
+and some other immigration benefit or form of relief as a percentage of all individuals 
+identified as being eligible for daca (y1b), as illustrated in the right column of the figure. 
+this is also especially true for the natural log of the total number of paid staff (p = .027). 
+
+figure 4
+
+296
+
+journal on migration and human securitydoes the effect of capacity hold when taking into account other factors? to answer this 
+question,  we  now  turn  to  the  multivariate  analysis.  table  1  reports  the  results  of  the 
+analysis of the count of individuals identified as being eligible for daca and some other 
+immigration benefit or form of relief (y1a).  as the table shows, the effect of capacity, 
+when measured by the natural log of the total number of paid staff, remains significant in 
+the  multivariate  models.  put  otherwise,  greater  capacity  means  that  organizations  are 
+able  to  identify  a  greater  number  of  individuals  who  are  both  eligible  for  daca  and 
+some other immigration benefit or form of relief. this result holds when accounting for 
+contextual factors related to the social capital of unauthorized immigrants that are likely 
+to impact the ability of unauthorized immigrants to access legal services or assistance.
+
+table 1. modeling the count of persons found eligible 
+for daca and other immigration benefits
+
+years in operation (ln)
+
+paid staff (ln)
+
+total noncitizen population (ln)
+
+% noncitizen population entered before 2010
+
+% noncitizen population does not speak english well
+
+% noncitizen population below poverty line
+
+model 1
+-.207
+(.166)
+.530***
+(.183)
+
+model 2
+-.220
+(.167)
+.478***
+(.187)
+.014
+(.088)
+.006
+(.085)
+.007
+(.022)
+-.009
+(.025)
+
+negative binomial regressions. standard errors in parentheses. ** significant at the .05 
+level. *** significant at the .01 level.
+
+table  2  reports  the  analysis  of  the  number  of  individuals  identified  as  being  eligible 
+for daca and some other immigration benefit or form of relief as a percentage of all 
+individuals identified as being eligible for daca (y1b). as the table shows, the effect of 
+capacity remains generally significant in the multivariate models. whereas the effect is 
+highly statistically significant in model 3, the impact of capacity just misses conventional 
+levels of statistical significance in model 4. 
+
+297
+
+paths to lawful immigration statustable 2. modeling percentage of persons found eligible for other 
+immigration  benefits  (i.e.,  eligible  for  daca  and  other  benefit  
+divided by eligible for daca)
+
+years in operation (ln)
+
+paid staff (ln)
+
+total noncitizen population (ln)
+
+% noncitizen population entered before 2010
+
+% noncitizen population does not speak english well
+
+% noncitizen population below poverty line
+
+model 1
+1.352
+(2.351)
+4.628**
+(2.327)
+
+model 2
+
+.756
+(2.628)
+4.052
+(2.568)
+.813
+(1.399)
+.301
+(1.047)
+-.039
+(.279)
+.104
+(.399)
+
+ols regressions. standard errors in parentheses. ** significant at the .05 level. *** 
+significant at the .01 level.
+
+recommendations
+our findings make clear that, just as there are many paths into illegality, there are also 
+many paths to lawful status. although obstacles such as cost and accessibility, among others, 
+limit the ability of unauthorized immigrants to seek out and obtain legal services, doing so 
+can potentially mean the difference between living in the shadows and lawful permanent 
+residency. this will certainly not be the case for all.10 however, as the data showand as 
+the experiences of immigration legal service providers attest the line demarcating lawful 
+and unauthorized status is often a fluid one, particularly when immigration law intersects 
+the lived experiences of unauthorized immigrants (for example, see jasso et al. 2008). we 
+end this article by making several recommendations.
+to the extent possible, unauthorized immigrants should seek out competent legal services. 
+because we recognize that we risk stating the obvious, we add additional layers of depth 
+to this recommendation. daca has provided a laboratory for our empirical research, as 
+the program has given unauthorized youth and their families a reason to seek out legal 
+services and thus an opportunity to potentially access other immigration benefits and forms 
+10  as  many  unauthorized  immigrants  may  have  previously  pursued  legal  services  and  assistance  (it  is 
+not  uncommon  to  hear  about  individuals  or  families  spending  thousands  of  dollars  on  several  different 
+immigration attorneys over the course of many years), it is important to note that while one may not have 
+been eligible for some form of immigration relief in the past, one could, as with a u-visa, become eligible 
+at a later point in time.
+
+298
+
+journal on migration and human securityof immigration relief. however, our recommendation extends beyond the daca-eligible 
+population. indeed, many paths to lawful immigration status exist not only for unauthorized 
+youth, but also for the broader unauthorized population. 
+to recall, our survey shows that since daca was first announced, 56.0 percent of the 
+combined total number of non-daca cases on which the organizations we surveyed worked 
+were found to be potentially eligible for some immigration benefit or form of immigration 
+relief. to be clear, this should not be interpreted to mean that over half of the unauthorized 
+population  in  the  united  states  has  a  path  to  lawful  permanent  residency.  rather,  the 
+experiences of immigration legal service providers suggest that a selection effect exists, 
+wherein unauthorized immigrants who already believe that they are potentially eligible 
+for some form of immigration relief are more likely to seek out legal support. this means 
+that the broader unauthorized population is less likely to walk in the door of immigration 
+legal service providersthese may be the individuals for whom legal screening is most 
+important. 
+of course, this begs the question of how to increase access to legal services and assistance. 
+here,  federal,  state,  local,  and  private  philanthropic  initiatives  that  increase  the  legal 
+capacity of immigrant-serving organizations, as well as initiatives that support low-income 
+immigrants,  should  be  substantially  expanded.  whereas  the  experience  of  daca  has 
+proven the success of such initiatives, the recent announcement of the larger-scale dapa 
+program now magnifies their importance. moreover, it is likely that, if congress were to 
+pass legalization legislation, persons with deferred action would be treated favorably.  
+it is important to be mindful that unauthorized immigrants are often easy prey for bogus 
+or incompetent attorneys, notarios, scam artists, and other bad actors who take advantage 
+of immigrants limited knowledge of us law, lack of english fluency, and lack of cultural 
+knowledge to charge exorbitant fees for wild promises of green cards and citizenship that 
+the bad actors cannotor in some cases never intended todeliver (shannon 2009, 557; 
+see also katzmann 2008; langford 2004; shannon 2011). 
+we thus propose two potential firewalls to the exploitation of unauthorized immigrants 
+as they seek out legal services. the first is ethnic media. ethnic media, particularly spanish 
+language media, has played an important role in daca implementation (wong et al., 2013). 
+just as ethnic media have highlighted stories of dacamented youth, we encourage ethnic 
+media to highlight stories of unauthorized youth who walked in the door for daca but 
+left with a path to permanent residency as a result of legal screening. and, just as ethnic 
+media have warned individuals about fraudulent notarios in reporting about the process of 
+applying for daca, so too can it do so when encouraging unauthorized immigrants to seek 
+out legal services.
+community-based organizations (cbos) are a second firewall. scholars of immigrant 
+incorporation  have  shown  that  cbos  can  facilitate  the  social,  economic,  and  civic 
+incorporation of immigrant groups (for example see campos 2014; desipio 2001; marrow 
+2005; ramakrishnan and bloemraad 2008; wong 2006). given the important roles that 
+they play in immigrant communities, we encourage cbos to use their platforms as trusted 
+messengers to not only convey information about potential paths to lawful immigration 
+status beyond dacaand that such paths may exist even in the absence of comprehensive 
+
+299
+
+paths to lawful immigration statusimmigration reform legislation or eligibility for administrative reliefbut also to direct 
+unauthorized immigrants to competent immigration legal service providers. 
+we also urge cbos to expand their legal expertise and capacity by becoming us department 
+of justice (doj) board of immigration appeals (bia) recognized organizations and by 
+training  their  non-attorney  staff  to  become  bia  accredited  representatives.  federally-
+accredited representatives can represent immigrants who are seeking immigration benefits 
+before us citizenship and immigration services and, if particularly qualified, can provide 
+legal representation before the executive office for immigration review (eoir) (e.g., in 
+immigration court).
+our second set of recommendations is directed towards immigrant-serving organizations 
+that  provide  legal  screening  services.  a  subset  of  these  organizations  provides  legal 
+screening  during  the  course  of  daca  clinics  or  workshops.  many,  if  not  most,  have 
+created intake forms for basic legal screening, but this screening is often limited to daca 
+eligibility requirements. thus, to the extent possible, and in partnership with experienced 
+immigration attorneys or accredited representatives, we encourage cbos to expand the 
+depth of their legal screening (based on our empirical findings) regarding eligibility for 
+other immigration benefits or forms of relief. to be clear, this is not to suggest that cbos 
+that lack the legal expertise and capacity should begin taking on complex cases. cbos 
+should continue to refer complex cases to immigration attorneys. rather, it is to encourage 
+cbos  that  provide  legal  screening  for  daca  and  plan  to  provide  legal  screening  for 
+dapa to use these opportunities to identify other immigration benefits and relief that may 
+be available to the immigrants that they serve. 
+current  circumstances  lend  added  importance  to  this  need. as  unauthorized  youth  and 
+their families have sought out legal service providers solely because of daca, a concern 
+exists that should persons be deemed ineligible for deferred action based on limited legal 
+screening, these individuals may not seek out immigration legal services againat least 
+not until a new executive action is announced or new immigration legislation is passed. 
+because not all immigration legal service providers offer the same depth of legal screening, 
+many of these recommendations also apply to established legal service providers during 
+their normal office intake or case screening. 
+moreover, as the results make clear, the capacity of immigrant-serving organizations is a 
+critical variable. it is important for at least two main reasons. capacity can mean having the 
+legal experience and expertise necessary to translate comprehensive legal screening into 
+concrete steps towards applying for an immigration benefit or form of relief. it can also 
+mean having the necessary staff hours to engage with those who seek legal screening and 
+services. this is critically important, as some of the immigration remedies discussed here 
+require detailed conversations that delve into difficult and emotional issues. for example, 
+a u-visa requires, in part, that a person be a victim of certain crimes and have suffered 
+substantial physical or emotional abuse as a result. moreover, special immigrant juvenile 
+status is intended for young persons who have suffered abuse, abandonment, or neglect. in 
+both examples, a brief and sometimes hurried conversation with an unauthorized immigrant 
+who  does  not  know  that  these  immigration  remedies  exist  is  unlikely  to  result  in  such 
+sensitive information being shared. we recognize that it is not possible for immigrant-service 
+organizations that provide legal services to add capacity without resources. however, by 
+
+300
+
+journal on migration and human securitycombining the insights gained from our empirical findings with their own on the ground 
+experiences, it is our hope that organizations can leverage their existing capacity in a way 
+that provides them with the greatest opportunities to connect unauthorized immigrants with 
+the immigration benefits and relief that may be available to them.
+our final recommendations are made with an eye towards dapa implementation and any 
+potential future grand bargain immigration legislation that includes the legalization of 
+unauthorized immigrants. as mentioned at the outset, daca represents one of the largest 
+immigrant legalization programs in the united states since irca in 1986. but while the 
+580,859 people that had received daca as of june 2014 is certainly an impressive number, 
+it  represents  only  a  small  percentage  of  the  total  estimated  unauthorized  population. 
+while daca has provided a laboratory for us to examine empirically the extent to which 
+unauthorized immigrants are eligible for some form of immigration relief, preparations for 
+a larger legalization program should not be limited to simply scaling up based on lessons 
+learned from daca implementation. 
+a broader legalization program that is more inclusive than daca, such as dapa, will 
+bring  a  larger  cross-section  of  the  unauthorized  populationas  well  as  their  diverse 
+experiences  and  complex  immigration  historiesto  the  doors  of  immigrant-serving 
+organizations that provide legal services. it is important to emphasize that many paths to 
+lawful status will continue to exist for many unauthorized immigrants in addition to the 
+specific eligibility criteria of dapa and any future legalization program. thus, immigrant-
+serving organizations should partner with immigration attorneys or legal service providers 
+to  identify  the  range  of  immigration  remedies  that  may  potentially  be  available  to  the 
+particular  cross-section  of  the  unauthorized  population  that  the  program  serves,  design 
+intake and screening processes accordingly, and, to the extent possible, address issues of 
+capacity with an eye towards the provision of comprehensive legal screening. 
+
+conclusion
+using the recent implementation of daca as a laboratory for our work, this study is the 
+first to attempt to answer the question of the number of unauthorized immigrants who, 
+without knowing it, may already be potentially eligible for lawful immigration status. in a 
+nationwide survey of 67 immigrant-serving organizations that provide legal services, we 
+find that 14.3 percent of those found to be eligible for daca were also found to be eligible 
+for some other form of immigration reliefput otherwise, 14.3 percent of individuals that 
+were found to be eligible for daca, which provides temporary relief from deportation, 
+may now be on the path towards lawful  permanent residency. 
+we have every reason to believe that this phenomenon will persist with dapa. our analysis 
+suggests that comprehensive legal screening can potentially mean the difference between 
+discovering a path to lawful permanent residency and citizenship, and continued life in 
+the shadows or only a temporary reprieve from removal. thus, while it is often framed 
+in political terms, our research suggests that the legalization of unauthorized immigrants 
+can also be framed as an access to justice issue, particularly for those who may be eligible 
+for lawful permanent residency, but do not know it or are unable to access legal services 
+or assistance. for these unauthorized immigrants, legalization need not wait for executive 
+
+301
+
+paths to lawful immigration statusactions such as daca or dapa, or even comprehensive immigration reform legislation. 
+daca and dapa will continue to lead many to walk in the door of immigrant-serving 
+organizations that provide legal servicesorganizations should thus view each of these 
+interactions  as  opportunities  to  identify  paths  to  legal  permanent  residency  for  the 
+immigrants they serve.  
+

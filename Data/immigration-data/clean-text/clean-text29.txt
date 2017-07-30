@@ -1,0 +1,568 @@
+new models of international 
+agreement for refugee protection
+
+susan f. martin1
+georgetown university
+
+executive summary
+in  june  2016,  the  united  nations  high  commissioner  for  refugees 
+(unhcr) announced that more than 65 million persons have fled conflict 
+and persecution. while certainly large in its own right, the number actually 
+underestimates  displacement  in  todays  world.  many  millions  more  are 
+displaced each year and cumulatively from a much broader range of life-
+threatening humanitarian crises than are captured by unhcrs figures. 
+an average of 26.4 million were displaced annually by acute natural hazards 
+since  2008  and  an  unknown but  sizable  number  displaced  by  gang  and 
+cartel violence, electoral and communal violence, nuclear and industrial 
+accidents, and a range of other human-made disasters. this article argues 
+for new frameworks to more effectively address the situation of the totality 
+of displaced persons, citing two recent efforts  the nansen initiative and 
+migrants in countries in crisis initiative  as examples of practical ways 
+to move forward in this regard.
+
+i. introduction
+displacement from humanitarian crises is complex and diverse. for the purposes of this 
+article, humanitarian crises are any situations in which there is a widespread threat to life, 
+physical safety, health, or basic subsistence that is beyond the coping capacity of individuals 
+and the communities in which they reside (martin et al. 2014). humanitarian crises may be 
+triggered by acute events or slow-onset processes, and can unfold naturally, in combination 
+with anthropogenic factors and/or through human accident or ill will. hurricanes, cyclones, 
+tsunamis, earthquakes, epidemics and pandemics, nuclear and industrial accidents, acts of 
+terrorism,  armed  conflict,  environmental  degradation,  drought,  famine,  climate  change, 
+situations  of  generalized  violence  and  political  instability,  and  serious  and  pervasive 
+human rights violations, including persecution and torture, are all potential triggers. in 
+most cases, underlying structural factors exacerbate the situation. poor governance at the 
+national and local levels, high levels of poverty and inequality, and insufficient access to 
+basic services undermine coping capacities and make a crisis out of what might otherwise 
+be a manageable event. 
+
+1  the author thanks the john d. and catherine t. macarthur foundation for their support of her work on 
+crisis migration.
+
+ 2016 by the center for migration studies of new york. all rights reserved.jmhs volume 4 number 3 (2016): 60-75the 65 million refugees and displaced persons reported by unhcr in june 2016 represent 
+only  one  group  of  those  affected  by  humanitarian  crises    those  fleeing  persecution 
+and conflict (unhcr 2016). many persons are displaced by other crises that, in some 
+cases, present equally life-threatening situations. according to the internal displacement 
+monitoring center (idmc), more than 19 million people were newly displaced by disasters 
+brought on by natural hazards in 2015 (idmc 2016). the 2015 levels were lower than 
+average;  annual  displacement  from  these  hazards  since  2008  averaged  more  than  21.5 
+million per year (ibid.). the majority of new displacements from natural hazards are in 
+asia, primarily from weather events but also from earthquakes, volcanoes, and other geo-
+physical  disruptions.  india,  china,  and  nepal  registered  the  highest  numbers  of  newly 
+displaced in 2015, with 3.7 million, 3.6 million and 2.6 million, respectively (ibid.). as a 
+proportion of population, new displacements most heavily affected small island states; for 
+example, a storm surge in tuvalu uprooted 55 percent of its population of around 10,000 
+(ibid.). while the majority are displaced globally for a short period and then return home, 
+an increasing number of those fleeing natural hazards are in protracted situations (idmc 
+2015a), unable to return or to find permanent solutions in other locations. 
+the only statistics available on movements in the context of acute natural hazards pertain to 
+internally displaced persons (idps); there are no global and few national statistics on cross-
+border movements. although not citing specific numbers, the nansen initiative identified 
+50 countries that in recent decades have received or refrained from returning people in 
+the aftermath of disasters, in particular those caused by tropical storms, flooding, drought, 
+tsunamis, and earthquakes (nansen initiative 2015). the largest numbers appear to have 
+been displaced cross-border from somalia to kenya and ethiopia during a drought in 2011 
+and from haiti to the dominican republic after an earthquake in 2010. 
+human-made  events  also  cause  large-scale  displacement  both  internally  and  across 
+borders. hundreds of thousands have been displaced by gang and cartel violence (e.g., 
+the estimated 566,700 idps in el salvador, guatemala, and honduras [idmc 2015b]). 
+similarly, election and communal violence that does not rise to the level of armed conflict 
+causes displacement (e.g., the more than 600,000 estimated to have been displaced after 
+the 2007 kenyan elections [adeagbo and iyi 2011]). although triggered by natural events 
+(earthquake and tsunami), the 2011 fukushima-daiichi nuclear accident in japan displaced 
+more than 150,000 people, many of whom remain displaced (iom 2015). the earlier nuclear 
+accident in chernobyl also displaced thousands of people (meybatyan 2014). at the time, 
+the displacement was internal to the soviet union; had it occurred after the dissolution 
+of the soviet union, it would have involved considerable cross-border movements from 
+chernobyl, which was close to the borders between ukraine, russia, and belarus.
+at  the  nexus  of  natural  and  human-made  causes  are  the  slow-onset  environmental 
+disruptions  related  to  climate  change.  according  to  the  fifth  assessment  report  of  the 
+intergovernmental panel on climate change, [c]limate change over the 21st century is 
+projected to increase displacement of people (ipcc 2014, 20). the detailed review of 
+the evidence indicated that [e]xtreme weather events provide the most direct pathway 
+from climate change to migration (adger et al. 2014, 767), but also noted that in the 
+longer-term sea level rise, coastal erosion, and loss of agricultural productivity  will 
+have a significant impact on migration flows (adger et al. 2014, 768-69). while some 
+
+61
+
+new models of international agreementof these movements precipitated by worsening environmental conditions are likely to be 
+voluntarily  planned  by  individuals  and  households,  others  will  be  clearly  involuntary, 
+including relocations planned by governments. perhaps most at risk will be those who are 
+unable to move on their own because of age, infirmity, or lack of financial, social or human 
+resources, and who become trapped in increasingly more dangerous situations.
+
+ii. challenges 
+in general, the legal, policy, and institutional frameworks for protecting those who are 
+displaced by humanitarian crises are woefully inadequate. remedying the inadequacies 
+of these frameworks presents great challenges to the international community. protections 
+afforded to those who are displaced by humanitarian crises should include physical and 
+legal  safeguards  as  well  as  access  to  humanitarian  assistance  and  durable  solutions. 
+generally, however, the extent to which those who move in the context of humanitarian 
+crises have access to protection under existing frameworks is affected and often limited by 
+the specific causal factors that precipitate movement and whether affected populations cross 
+international borders or remain within their own countries. not surprisingly, in light of the 
+holocaust and emerging cold war, in creating the office of the unhcr and promulgating 
+the 1951 convention relating to the status of refugees (hereinafter referred to as the 1951 
+convention),  the  international  community  gave  special  consideration  to  those  fleeing 
+persecution (martin 2014). soon thereafter, however, unhcr was repeatedly asked to 
+use its good offices to provide protection to those fleeing armed conflict. while the 1951 
+convention remained focused on persecution, in 1969, recognizing the inadequacy of the 
+1951 convention in addressing displacement in africa, the organization of african unity 
+(now the african union) adopted a regional convention that defined refugees to include 
+persons compelled to leave because of external aggression, occupation, foreign domination, 
+or events seriously disturbing public order. in 1984, the latin american countries adopted 
+a similar definition in the cartagena declaration. victims of other types of humanitarian 
+crises, however, still fall outside these commendable regional expansions of the refugee 
+definition. 
+geopolitical developments affect and have affected responses as well. throughout the cold 
+war, the principal focus of the international community was the protection of those who 
+were displaced across international borders. many of those who were treated as refugees had 
+fled communist countries or were displaced by superpower proxy conflicts. the end of the 
+cold war and subsequent interventions increased the visibility of persons forcibly uprooted 
+within country borders because of armed conflict, internal strife, and systematic violations 
+of human rights. in 1998, guiding principles on internal displacement were promulgated by 
+the special representative of the secretary-general. although not binding international law, 
+the world summit in new york in september 2005 recognized the guiding principles as 
+an important international framework for the protection of internally displaced persons.2 
+unlike the 1951 refugee convention, the guiding principles apply to persons displaced 
+by a wide range of events, including armed conflict, situations of generalized violence, 
+violations  of  human  rights  or  natural  or  human-made  disasters  (ocha  2004,  12)  in 
+
+2   un general assembly, resolution 60/1, 2005 world summit outcome, october 24, 2005, http://www.
+un.org/womenwatch/ods/a-res-60-1-e.pdf.
+
+62
+
+journal on migration and human security2005, unhcr agreed to lead the un cluster responsible for protection of idps in conflict 
+situations; no single un agency has responsibility for protection in other crises.
+this  patchwork  of  conventions  and  institutional  mandates  has  proven  to  be  highly 
+ineffective in providing protection to those displaced by todays humanitarian crises. even 
+the long-standing refugee regime is facing major challenges in light of the multiple crises 
+in the middle east, africa, and mostly recently europe that have led to the highest levels 
+of displacement recorded by unhcr. a linchpin of the refugee system  burden sharing 
+ appears to be withering just when most needed. some members of the european union 
+refused to accept asylum seekers; financial support for refugees had reached dangerously 
+low levels in the middle east, necessitating large cuts in food rations for syrian refugees 
+in fall 2015 (before the eu stepped up its funding in the hopes of curtailing outmigration); 
+and few countries pledged significant levels of refugee resettlement  even traditional 
+resettlement  countries  like  the  united  states,  in  which  resettlement  became  a  heated 
+political issue. 
+a further challenge to todays handling of displacement relates to the length of average 
+crises and the displacement they produce. much of the existing system for protecting and 
+assisting refugees and displaced persons was designed to meet short-term emergency needs, 
+not  long-term  ones.  yet,  crises  that  produce  refugees  and  displaced  persons  generally 
+persist for years, often decades (ferris 2011; loescher and milner 2004). increasingly, 
+even natural hazards are creating conditions that make it difficult if not impossible for 
+people to return home quickly or ever. this trend is likely to accelerate as climate change 
+renders larger areas uninhabitable or undermines traditional livelihoods. as these situations 
+become more and more protracted, new sets of challenges emerge  not least, finding 
+durable solutions to avoid the type of intergenerational displacement that has become too 
+familiar in too many locations. treating 30 year crises as ongoing emergencies renders 
+the refugees and displaced persons dependent on continuing humanitarian aid and deprives 
+them of the opportunity to establish new livelihoods and resume normal lives.
+the  multiplicity  of  legal  statuses  of  those  affected  by  humanitarian  crises  presents 
+challenges as well. globally, the majority of the affected populations are citizens of the 
+countries in which the crisis occurs. if they are displaced within their own borders, they are 
+internally displaced, but if they cross international borders, they may be granted refugee 
+status, temporary protected status, or be treated as irregular migrants. within the countries 
+in crisis, there also may be non-nationals and stateless persons who are endangered. the 
+non-nationals also include persons with multiple statuses  tourists, business travelers, 
+foreign  students,  temporary  workers,  irregular  migrants,  permanent  residents,  asylum 
+seekers  and  refugees,  to  name  a  few.  depending  on  the  status  of  the  affected  persons, 
+they may be eligible for a range of different services and benefit from different levels of 
+protection during the crisis. 
+
+iii. the way forward
+it is time for a fundamental rethinking of the ways in which countries respond to large-
+scale  displacement  from  all  life-threatening  events,  regardless  of  location.  the  world 
+humanitarian summit (whs), which took place in istanbul in may 2016, provided an 
+
+63
+
+new models of international agreementopportunity  to  reconsider  the  entire  international  response  to  these  situations  of  mass 
+displacement. an initiative of un secretary-general ban ki-moon, the summit brought 
+together governments, humanitarian organizations, people affected by humanitarian crises, 
+and the private sector to propose solutions to our most pressing challenges and set an 
+agenda to keep humanitarian action fit for the future (ocha 2016).  the summit had four 
+principal themes: humanitarian effectiveness, reducing vulnerability and managing risk, 
+transformation through innovation, and serving the needs of people in conflict. all four 
+apply to refugees and displaced persons, although the fourth is most pertinent as conflict is 
+the backdrop for most displacement. the chairs report summarized the conclusions of the 
+conference pertaining to displacement:
+
+participants resolved to pursue a new approach to address the needs of internally 
+displaced persons and refugees that would meet immediate humanitarian needs 
+and longer-term development outcomes to enhance the self-reliance of refugees, 
+internally displaced persons (idps) and host communities displacement in the 
+context of disasters and climate change was also recognized as a growing threat. a 
+number of participants called for the development of an international mechanism 
+and legal framework for the protection of people displaced by the adverse impacts 
+of climate change. a platform on disaster displacement [successor to the nansen 
+initiative] was also launched. 
+
+(emphasis in original; un secretary-general 2016c, 5)
+the  secretary-generals  report  to  the  whs  offered  concrete  objectives  regarding 
+displacement, including a shift from delivering increasing annual amounts of short-term 
+assistance to displaced people towards an approach that seeks to reduce displacement and 
+strengthen the self-reliance of internally displaced persons over three to five years through 
+returns,  integrations  or  resettlement  (un  secretary-general  2016b).  the  high-level 
+panel on humanitarian financing recommended that the whs establish an international 
+solidarity levy mechanism to support the health welfare of displaced people (high-level 
+panel 2015).
+less than one month from now, on september 19, 2016, another un high-level meeting 
+will focus more specifically on large movements of migrants and refugees, spurred largely 
+by the multiple crises that have led to mass movements throughout the world. it appears 
+that this meeting will not address the situation of internally displaced persons in any detail, 
+aiming instead to bring attention to cross border movements. the secretary-generals report 
+describes the challenge: 
+
+large  movements  of  people  will  continue  or  possibly  increase  as  a  result  of 
+violent conflict, poverty, inequality, climate change, disasters, and environmental 
+degradation. despite valiant efforts, our responses have too often been inadequate. 
+we  have  provided  life-saving  assistance,  but  have  been  unable  to  plan  for  the 
+eventuality of longer-term displacement or to sufficiently support host communities. 
+(un secretary-general 2016a, 2)
+
+64
+
+journal on migration and human securitythe report went on to discuss four principal goals of the meeting:
+
+we must find ways to govern our national borders effectively, while protecting 
+the human rights of all refugees and migrants. we need to address the causes of 
+displacement and irregular migration. we must develop mechanisms to respond 
+to future large movements of people more effectively and predictably. we must 
+acknowledge and strengthen the contributions that refugees and migrants make to 
+host communities. 
+
+(ibid., 3)
+among the problems to be addressed, the report raised the gaps in protection referenced 
+herein:
+
+despite the gradual expansion of refugee protection there are many people who are 
+compelled to leave their homes for reasons that do not fall within the conventions 
+refugee definition, including disasters or the erosion of livelihoods due to adverse 
+impacts of climate change and food insecurity. many use migration channels to 
+seek safety and many countries allow people who have left their countries for these 
+and other reasons to remain under temporary measures. 
+
+(ibid., 6)
+the secretary-general recommended adoption at the upcoming summit of two measures to 
+foster greater solidarity: a global compact on responsibility-sharing for refugees and a 
+global compact for safe, regular, and orderly migration. the draft outcome document 
+released in august 2016 defers the adoption of these compacts until 2018. in the meantime, 
+the referenced gaps in current protection would be addressed through other mechanisms, 
+largely state-led, ad hoc, informal initiatives aimed at addressing the situation of specific 
+populations at risk: the nansen initiative, the migrants in countries in crisis (micic) 
+initiative  each of which is discussed at length in section iv  and a yet-to-be-established 
+initiative to improve protection and assistance for migrants in vulnerable situations.
+
+iv. state-owned processes to improve protection
+bottom-up, state-led consultative processes with multi-stakeholder involvement  such as 
+the nansen initiative and micic  have become the norm in addressing protection gaps 
+in displacement. substantively, these state-led efforts resemble the soft-law approach of 
+the guiding principles on internal displacement, as they seek to incorporate well-ratified 
+international  norms  into  a  set  of  non-binding  but  persuasive  guidance.  procedurally, 
+however, they differ from the guiding principles on internal displacement, which were 
+launched by the special representative of the secretary-general and presented to the un 
+commission on human rights. whereas the guiding principles were later endorsed by 
+governments (at the 2005 world summit), states often pointed out that they had not been 
+engaged in their formulation. the concept for the nansen initiative and micic is modeled, 
+in  part,  on  the  success  of  the  global  forum  on  migration  and  development  (gfmd), 
+which emerged from the 2006 high-level dialogue on migration and development in 
+the un general assembly. the gfmd is a state-led consultative process that has annual 
+meetings as well as workshops and roundtables throughout the year on the themes set by 
+
+65
+
+new models of international agreementthe chair. although not a decision-making body, the gfmd has proven to be a useful way 
+for governments, in collaboration with civil society and the private sector, to explore new 
+issues and approaches to common problems. 
+
+a. the nansen initiative
+
+the nansen initiative was launched in 2011 at a ministerial conference commemorating 
+the 60th anniversary of unhcrs founding and adoption of the 1951 refugee convention. 
+the aim was to develop an agenda for improving protection of people displaced across 
+borders by natural disasters and the slow onset effects of climate change. the impact of 
+climate change on displacement had long been a concern to antonio guterres, then the 
+high commissioner. as early as 2007, he gave voice to his concerns:
+
+when we consider the different models for the impact of climate change, the picture 
+is very worrying. the need for people to move will keep on growing. one need only 
+look at east africa and the sahel region. all predictions are that desertification will 
+expand  steadily.  for  the  population,  this  means  decreasing  livelihood  prospects 
+and increased migration. all of this is happening in the absence of international 
+capacity and political will to respond. 
+
+(guterres 2007)
+the following year, assistant high commissioner for protection erika feller summarized 
+the dilemma before the unhcr executive committee: new terminology is entering the 
+displacement lexicon with some speed. the talk is now of ecological refugees,climate 
+change refugees, the natural disaster displaced. this is all a serious context for unhcrs 
+efforts to fulfill its mandate for its core beneficiaries  the mix of global challenges is 
+explosive,  and  one  with  which  we  and  our  partners,  government  and  non-government, 
+must together strike the right balance (feller 2008). in an address before the un security 
+council in november 2011  with famine and displacement in somalia heavily on his 
+mind  high commissioner guterres returned to the theme: we should be addressing the 
+more complex issue of the way in which global warming, rising sea levels, changing weather 
+patterns and other manifestations of climate change are interacting with and reinforcing 
+other global imbalances, so as to produce some very powerful drivers of instability, conflict 
+and displacement (guterres 2011, 3).
+in the lead-up to the ministerial conference, the organization commissioned new research 
+on climate change and displacement. preparatory meetings were held in bellagio (unhcr 
+2011) and oslo (nansen conference 2011) to discuss gaps in the international response to 
+the evolving phenomena. the june 2011 oslo conference resulted in the nansen principles, 
+which outlined core approaches for addressing both internal and international displacement. 
+recognizing that the guiding principles on internal displacement already covered those 
+displaced by natural disasters and other environmental disruptions, the nansen principles 
+urged action on cross-border movements: a more coherent and consistent approach at the 
+international level is needed to meet the protection needs of people displaced externally 
+owing to sudden-onset disasters. states, working in conjunction with unhcr and other 
+relevant stakeholders, could develop a guiding framework or instrument in this regard 
+(nansen conference 2011, 5).
+
+66
+
+journal on migration and human securitythe initial hope was that governments would back reforms in the institutional arrangements, 
+particularly for responding to natural disasters, in the ministerial conference. this would 
+have helped clarify under which situations unhcr should take leadership in assisting 
+and protecting victims. there was no inclination, however, on the part of the governments 
+for unhcr to become more systematically involved with migrants who cross borders 
+because of natural disasters or climate change. the ministerial conference instead gave 
+very indirect acknowledgement of the problem:
+
+we note that todays challenges in providing protection and achieving solutions 
+continue to be serious, interconnected and complex we will reinforce cooperation 
+with  each  other  and  work  with  unhcr  and  other  relevant  stakeholders,  as 
+appropriate,  to  deepen  our  understanding  of  evolving  patterns  of  displacement 
+and to agree upon ways to respond to the challenges we face in a changing global 
+context. 
+
+(unhcr 2011)
+
+the swiss and norwegian governments did take up the call in the nansen principles for 
+more attention to protection needs, pledging to fund an intergovernmental process that 
+would  examine  the  issue  and  make  recommendations  for  enhancing  protection  in  both 
+acute emergencies and slow onset processes. 
+switzerland and norway asked walter kalin, formerly the special representative of the 
+secretary-general and one of the principal architects of the guiding principles on internal 
+displacement, to take on the leadership of the initiative, serving as the chairs envoy. the 
+nansen  initiative  was  clear  in  stating,  however,  that  it  does  not  seek  to  develop  new 
+legal standards, but rather to build consensus among states on the elements of a protection 
+agenda,  which  may  include  standards  of  treatment  (nansen  initiative,  about  us). 
+there was no expectation that the process would lead to a set of guiding principles on 
+cross-border displacement that would be equivalent to the ones developed for internally 
+displaced persons.
+the initiative was governed by a steering committee, chaired by switzerland and norway, 
+and  including  australia,  bangladesh,  costa  rica,  germany,  kenya,  mexico,  and  the 
+philippines. a consultative committee3 was formed to bring the expertise of representatives 
+from international organizations dealing with displacement and migration issues, climate 
+change and development, researchers, think tanks, and non-governmental organizations to 
+bear. a friends of the initiative allowed other governments to provide advice and remain 
+informed of the deliberations. finally, a secretariat supported the work of the initiative. 
+the main fact-finding activities were a series of regional consultations to pull together 
+evidence about the impacts of natural disasters and climate change on displacement and to 
+solicit the views of governments and civil society. the secretariat also distilled the lessons 
+of research for the initiatives consideration and commissioned background papers on a 
+number of topics.
+the end product was the agenda for the protection of cross-border displaced persons 
+in the context of disasters and climate change (nansen initiative 2015). it recommends 
+action  in  three  principal  areas.  the  first  is  to  improve  the  collection  of  data  and  to 
+
+3   the author was a member of the consultative committee.
+
+67
+
+new models of international agreementenhance knowledge on cross-border disaster-displacement. more specifically, the agenda 
+recommends  improvements  in  the  collection,  consolidation,  and  analysis  of  gender- 
+and age-disaggregated data regarding the overall number of people displaced in disaster 
+contexts,  both  internally  and  across  international  borders,  based  on  clear  criteria  and 
+effective methods (nansen initiative 2015, 45). it also calls for new methodologies to 
+identify those at risk of being displaced in disaster contexts, including across international 
+borders  and  new  research  to  determine  to  what  extent  men  and  women  already  rely 
+on migration as a strategy to cope with the effects of natural hazards and the effects of 
+climate change, and what lessons can be learned for improving the benefits of migration 
+and addressing related protection risks (nansen initiative 2015, 45). finally, the agenda 
+in the first area of action emphasizes the need for additional data and analysis of planned 
+relocation processes in the context of disasters and effects of climate change. 
+the second area of the agenda focuses on humanitarian protection measures for cross-
+border, disaster-displaced persons, including mechanisms for lasting solutions (nansen 
+initiative  2015,  44).  these  measures  include  ones  related  to  the  admission  of  disaster 
+displaced persons from abroad as well as those preventing the return of displaced persons 
+to countries experiencing natural disasters and the effects of climate change. the agenda 
+points to the need for new legal instruments and policies that would, for example, grant 
+temporary entry and stay for cross-border disaster-displaced persons, such as through the 
+issuance of humanitarian visas or other exceptional migration measures (nansen initiative 
+2015, 26). it also emphasizes that governments could use existing legal frameworks, such 
+as existing temporary labor migration programs, more creatively to permit admission and 
+stay of those needing protection.
+the third set of recommendations is aimed at strengthening the management of disaster 
+displacement risk in the country of origin so that those affected by natural disasters and 
+the effects of climate change would not need to cross international borders. these include 
+[i]ntegrating human mobility within disaster risk reduction and climate change adaptation 
+strategies, and other relevant development processes;  [i]mproving the use of planned 
+relocation as preventative or responsive measure to disaster risk and displacement; [and]  
+[e]nsuring that the needs of idps displaced in disaster situations are specifically addressed 
+by  relevant  laws  and  policies  on  disaster  risk  management  or  internal  displacement 
+(nansen initiative 2015, 19, 53). finally, the agenda notes that legal migration can prevent 
+displacement since they allow people to move in a safe and orderly manner.
+the agenda was endorsed by 109 governmental delegations during a global multi-sectoral 
+consultation in october 2015. more than 360 participants from governments, international 
+organizations, academic institutions, and civil society attended. that so large a number of 
+governments endorsed the agenda was impressive. those that spoke at the consultation noted 
+the utility of the agenda and the flexibility of governments to adopt its recommendations in 
+accord with national law. 
+
+b. migrants in countries in crisis initiative (micic)
+
+the origins of the micic initiative are similar to nansen, whose success influenced its 
+development.  sir  peter  sutherland,  the  special  representative  of  the  secretary-general, 
+
+68
+
+journal on migration and human securityplayed the role that high commissioner guterres did in urging governments to fill the 
+protection gap for non-nationals caught in acute emergencies resulting from conflict and 
+natural  disaster.  the  mass  displacement  of  migrant  workers  in  libya  during  the  2011 
+conflict, followed by similar crises in cote divoire,syria, thailand, and the united states4 
+that affected millions of non-nationals, generated substantial interest among governments, 
+civil society, and the private sector. in support of sir peter and with funding from the 
+macarthur foundation, georgetown universitys institute for the study of international 
+migration (isim) commissioned a paper outlining the protection gaps (koser 2014) and 
+produced desk studies of the major crises involving displacement of non-nationals.
+the call for action was met with a positive response by the united states and the philippines. 
+in her plenary statement at the 2013 high-level dialogue on migration and development, 
+assistant secretary anne richard, thanking sir peter and noting the seriousness of the 
+problem, pledged on behalf of the united states to chair what became the micic initiative. 
+she used language similar to nansens in describing the initiative: i envision a state-led 
+process aimed at examining the responsibilities of different actors in these crisis situations 
+(richard  2013).  a  working  group  was  subsequently  named;  in  addition  to  the  united 
+states and the philippines, australia, bangladesh, costa rica, ethiopia, and the european 
+commission also served on it, as did the international organization for migration (iom), 
+unhcr, the international centre for migration policy development (icmpd), and isim. 
+micic also worked in similar ways to nansen. a grant from the united states established 
+a secretariat based in iom; the european commission funded regional consultations; and 
+the united states and australia supported consultations with civil society and the private 
+sector,  as  well  as  with  members  and  friends  of  the  intergovernmental  consultation  on 
+migration, refugees, and asylum seekers. the european commission also supported a 
+research program that examined the longer-term impacts of the crises on migrants and the 
+united states supported capacity building for countries experiencing the impacts of these 
+crises. 
+the results of the consultations and research contributed to a set of principles, guidelines, and 
+effective practices that were presented on june 15, 2016 at the united nations. the principles 
+focused on core rights and responsibilities. the duty to save lives in conflict and disasters 
+is the first responsibility; as such, the humanitarian principles of neutrality, impartiality, 
+and independence should govern responses to migrants in these crisis situations. to ensure 
+effective  protection,  the  principle  of  non-discrimination,  particularly  by  immigration 
+status, when lives are at risk permeates the recommendations. the principles and resulting 
+guidelines emphasize that states have primary responsibility but that other stakeholders, 
+including non-nationals themselves, play an important role in ensuring protection. in that 
+respect,  principle  6  states  clearly  that  migrants  are  rights  holders  and  capable  actors, 
+resilient and creative in the face of adversities, not merely victims or passive recipients of 
+assistance (micic 2016,16). 
+the guidelines are described as targeted suggestions, organized by theme, that identify 
+in  broad  terms  the  actions  needed  to  better  protect  migrants  in  countries  experiencing 
+
+4   for more information on the displacement of migrants during these crises, see weerasinghe and taylor 
+(2015).
+
+69
+
+new models of international agreementcrises. states, private sector actors, international organizations, and civil society can use 
+the  guidelines  to  inform  and  shape  crisis  preparedness,  emergency  response,  and  post-
+crisis action (micic 2016, 19). they are organized around the phases of crises: pre-, 
+during-  and  post-crisis.  each  is  elaborated  with  concrete  practices  that  would  aid  their 
+implementation. the most detail is provided on pre-crisis emergency preparedness since 
+this is the phase in which much can be done to lay the groundwork for effective action 
+during crises. the guidelines recognize, however, that crises often take on lives of their 
+own and needs and contexts depart from even the best laid plans. as such, they recommend 
+continual assessment of the situation and flexibility to adapt and innovate as needed during 
+the  emergency  response  period.  they  also  take  into  account  that  the  post-crisis  stage 
+requires  special  attention  to  the  long-term  needs  of  migrants  displaced  by  conflict  and 
+disasters as well as to the needs of communities to which they may need to relocate.
+
+v. conclusion
+the nansen and micic initiatives represent new ways in which governments and other 
+stakeholders are attempting to address persistent protection gaps for those displaced by 
+crises. unlike earlier efforts that focused primarily on adoption of binding international 
+conventions, these initiatives are less formal, more ad hoc, and less binding. the reluctance 
+of many states to ratify the un convention on the rights of all migrant workers and 
+members of their families or to open up the 1951 convention relating to the status of 
+refugees to renegotiation has heralded the need for such initiatives. in the first case, the 
+reluctance appears to be concerns about over-reach, particularly with regard to migrants in 
+irregular status. in the second case, amid backlashes against refugees and asylum seekers, 
+the concern is about losing the protections currently available to those populations. 
+in the face of such impasses, informal, non-binding, state-led processes for reform are seen 
+as a more pragmatic approach. there are a number of reasons to be optimistic about this 
+trend. first, promulgation of the guiding principles on internal displacement has proven 
+to be a highly effective way to gain visibility and improved protection for a population 
+that had not previously received sufficient attention. they have been recognized widely 
+as applicable to a broad range of persons forced to leave their homes because of events 
+beyond their own control. the guiding principles have broad support, as witnessed by 
+the 2005 world summits entreaty to states and international organizations to implement 
+them. many individual countries have incorporated them into national law and the african 
+union has promulgated a binding convention based on them. 
+a second reason to recommend this approach is that, because states are leading these efforts, 
+there is a built-in constituency for ensuring their implementation. the nansen initiative has 
+been succeeded by the platform on disaster displacement, which was announced at the 
+world humanitarian summit in may 2016. the platform will follow up on nansen and 
+implement the recommendations of the agenda for protection by building partnerships 
+between  policymakers,  practitioners  and  researchers  and  constitute  a  multi-stakeholder 
+forum for dialogue, information sharing as well as policy and normative development 
+(platform  on  disaster  displacement,  about  us).  the  chairs  of  the  micic  initiative 
+have pledged a similar follow-up process, with continuation of the secretariats capacity-
+building and other activities.
+
+70
+
+journal on migration and human securitythird, these processes have been highly inclusive in terms of regional scope and participation. 
+members of the steering/working groups have come from all regions. regional variations 
+have been solicited in consultations that brought together governments, civil society, the 
+private  sector,  international  organizations,  and  the  research  community.  the  resulting 
+recommendations have been vetted with multiple stakeholders, although responsibility for 
+issuing them ultimately rests with the states that lead them.
+finally, the ad hoc nature of these processes allows them to address emerging issues and 
+concerns  more  effectively  than  more  formal  mechanisms  that  are  often  tied  to  specific 
+mandates. micic was criticized by some civil society organizations and a few governments 
+at its inception because its focus was restricted to migrants affected by conflict and natural 
+disasters. the critics urged the working group to address the problems of those in crises 
+stemming from other causes  for example, irregular migrants stranded by smugglers en 
+route to their destination. fearing that it would be more difficult to build consensus around 
+solid recommendations on other populations, the working group held fast. however, micic 
+made a clear statement that notwithstanding the limited scope of the micic initiative, 
+it is hoped and expected that its outcomes will be useful for states and other stakeholders 
+in addressing a broader range of migration scenarios (micic, about micic). in fact, 
+many of the recommendations in the micic guidelines do apply more broadly and civil 
+society groups could readily use them to advocate on behalf of all vulnerable migrants. 
+most notably, principle 2 states: as human beings, all migrants are entitled to human 
+rights, regardless of their immigration status. at all times, the human rights of migrants 
+should  be  respected,  protected,  and  fulfilled  in  a  non-discriminatory  manner  and  in 
+accordance with applicable international law (micic 2016,15). members of the working 
+group have also been supportive of the recommendation in the secretary-generals report 
+for the high-level meeting on large-scale migration and refugee movements to form a 
+working group similar to micic on vulnerable migrants more generally.
+this is not to say that the ad hoc, non-binding nature of the processes is without problems. 
+as  has  been  seen  regarding  protection  of  internally  displaced  persons,  progress  is  still 
+highly  dependent  on  the  willingness  of  states  to  implement  the  guiding  principles  and 
+the  international  community  to  intercede  when  states  are  unwilling  or  unable  to  fulfill 
+their responsibilities. the attention span of key stakeholders to issues surrounding internal 
+displacement has varied considerably. as the european migrant and refugee crisis took 
+center stage in the media and among governments, a group of experts found it necessary 
+to issue a statement in october 2015 stating: there is urgent need to raise the visibility 
+of idps in two principal regards: gaining access to idps in acute crises, such as syria, in 
+order to provide effective protection; and finding solutions for idps in the many protracted  
+situations  of  displacement  that  have  already  lasted  for  decades.  the  group  called  for 
+institutional reforms to enhance the protection of idps both in situations of armed conflict 
+and disasters, recommending the re-establishment of the post of special representative of 
+the secretary-general for internally displaced persons.
+enhancing  protection  of  those  displaced  by  conflict,  natural  disasters,  and  other  crises 
+will require sustained attention. mechanisms such as the nansen and micic initiatives, 
+and their follow-up, are promising ways to foster greater attention to the protection gaps 
+and practical solutions to improve the lives of millions of people affected by crises. in 
+
+71
+
+new models of international agreementthe  long  term,  however,  they  will  only  be  as  effective  as  the  willingness  of  states  and 
+other  stakeholders  to  implement  the  recommendations  and  offer  protection  on  a  non-
+discriminatory basis to all who flee life-threatening situations.
+

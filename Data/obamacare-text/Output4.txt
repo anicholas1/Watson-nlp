@@ -1,0 +1,1532 @@
+aspe 
+issue brief 
+
+ 
+
+ 
+
+ 
+ 
+
+medicaid expansion impacts on insurance coverage and access to care 
+
+ 
+
+updated january 18, 2017  
+
+ 
+ 
+under current law, medicaid provides enhanced federal matching funds to states to cover the cost of 
+expanding coverage to nonelderly adults (ages 19 to 64) with income less than 138 percent of the federal 
+poverty level (fpl). a 100 percent federal match rate applies only to newly eligible individuals in the 
+expansion population for 2014-2016 and is being phased down incrementally to 90 percent by 2020. the 
+target population for this expansion includes parents and childless adults who were previously ineligible 
+for medicaid coverage.  to date, a total of 31 states and the district of columbia have expanded 
+medicaid.  
+ 
+this issue brief, which provides a literature review of the effects of medicaid expansion, was first 
+released in june 2016 and has been updated to include additional information and data from 2016. 
+specifically, the brief focuses on the effects of expansion on health coverage and access, affordability, 
+financial security, and quality of care. the first section of this issue brief examines the evidence to date 
+on the impact of medicaid expansion on health coverage. the second section explores the beneficiary 
+impacts of medicaid expansion by examining access to care and utilization.  the third section examines 
+research to date on affordability, financial security, and quality including enrollee financial well-being, 
+satisfaction and experience.  this literature review adds to prior aspe research on the economic impacts 
+of medicaid expansion including the impact on the cost of uncompensated care.1 
+ 
+
+ 
+
+department of health and human services 
+
+office of the assistant secretary for planning and evaluation 
+
+http://aspe.hhs.gov 
+
+aspe issue brief 
+ 
+ 
+
+ 
+
+page 2 
+
+key highlights 
+
+  medicaid expansion has had an effect on insurance coverage, including a reduction of 
+
+uninsured adults in the united states.  
+
+o  expansion states realized a 9.2 percentage point reduction in the number of 
+uninsured adults (a 49.5 percent decline in the uninsured rate) since 2014.  
+
+o  non-expansion states realized a 7.9 percentage point reduction in the 
+
+uninsured rate among uninsured adults (a 33.8 percent decline in the uninsured 
+rate) since 2014. 
+
+o  recent research demonstrates that the raw difference in trends between 
+expansion and non-expansion states actually understates the benefits of 
+expansion because non-expansion states started with higher uninsured rates.  
+
+ 
+
+  medicaid expansion has increased access to primary care, expanded use of 
+
+prescription medications, and increased rates of diagnosis of chronic conditions for 
+new enrollees. 
+ 
+
+  low-income individuals living in expansion states generally had a greater increase in 
+the use of preventive services recommended by the united states preventive services 
+task force (uspstf) than low-income individuals living in non-expansion states. 
+ 
+
+  medicaid expansion has improved the financial security and affordability of care for 
+
+expansion enrollees.  
+
+o  medicaid expansion reduced the likelihood of being at risk for personal 
+
+bankruptcy and reduced third-party collections by $600 to $1000 per 
+individual.  
+
+according to the health reform monitoring survey: 
+
+o  the percentage of low-income adults reporting problems paying medical bills 
+declined by 10.5 percentage points (34.7 percent pre-expansion to 24.2 percent 
+post-expansion). 
+
+o  unmet health care among low-income adults declined 10.5 percentage points 
+
+(55.3 percent pre-expansion to 44.8 percent post-expansion). 
+ 
+
+  medicaid expansion has provided quality care to new enrollees.  according to the 
+
+commonwealth funds affordable care act tracking survey: 
+
+o  nearly two-thirds (61 percent) of adults with medicaid expansion coverage 
+consider themselves to be better off now than they were before enrolling in 
+medicaid. 
+
+o  88 percent of adults are very or somewhat satisfied with their medicaid health 
+
+plans. 
+
+o  92 percent are very or somewhat satisfied with their plan doctors. 
+
+ 
+
+ 
+aspe office of health policy 
+
+ 
+
+january 18, 2017 
+
+ 
+
+page 3 
+
+aspe issue brief 
+ 
+ 
+section i. impact of medicaid expansion on health insurance coverage 
+ 
+medicaid enrollment  
+ 
+as of october 2016, the centers for medicare & medicaid services (cms) reported that over 74 million 
+individuals were enrolled in medicaid/chip. since the beginning of the first open enrollment period 
+for marketplaces in october 2013, medicaid/chip enrollment has grown by 17 million individuals, or 
+30 percent.2 enrollment growth in medicaid expansion states has been significantly larger than in non-
+expansion states. on average, medicaid expansion states have experienced a 37.1 percent growth in 
+enrollment, compared to a 16.5 percent growth in non-expansion states.3 this difference in medicaid 
+enrollment growth is consistent with the difference in coverage gains between expansion and non-
+expansion states described below. 
+ 
+the reduction in uninsured 
+ 
+
+associated with the expansion of medicaid has been a reduction of the uninsured. an analysis of the 
+gallup-healthways well-being index data through early 2016 (february 22, 2016), shows that the 
+reduction in the uninsured rate for non-elderly adults was greater among medicaid expansion states than 
+among non-expansion states (see figure 1).i these estimates imply that medicaid expansion contributed 
+significantly to reducing the number of uninsured people in the nation.   
+
+ 
+
+  among medicaid expansion states, the uninsured rate for non-elderly adults declined 9.2 
+
+percentage points (a 49.5 percent decline), from a baseline uninsured of 18.5 percent to 9.3 
+percent.  
+
+  among non-expansion states, the uninsured rate for non-elderly adults declined 7.9 percentage 
+
+points (a 33.8 percent decline), from a baseline uninsured of 23.3 percent to 15.4 percent. 
+
+ 
+in fact, the raw difference in the reduction in the uninsured rate between expansion and non-expansion 
+states likely substantially understates the effect of medicaid expansion.  figure 1 shows that the 
+uninsured rate was substantially lower in expansion states than in non-expansion states before coverage 
+expansions took effect at the beginning of 2014. recent research has found that, due to the uninsured 
+populations in expansion states, the other coverage expansions have generated smaller reductions in the 
+uninsured rate in those states, partially masking the beneficial effect of medicaid expansion 
+(courtemanche et al., 2016; furman, 2015).4,5  
+ 
+the impact of medicaid expansion on reducing uninsurance extends beyond the expansion population.  
+alker and chester (2016) found the uninsurance rate for children age 18 and under fell by 2.3 
+percentage points from 7.1 percent in 2013 to 4.8 percent in 2015 and the number of uninsured children 
+fell from 5.2 million to 3.5 million.6 alker and chester (2015) also found that expansion states saw 
+
+                                                 
+i the gallup estimates presented here are from january 2012 through february 2016 and encompass the total population, not 
+just individuals with income 138 percent fpl. accordingly, the estimates in this issue brief differ from the estimates 
+presented in the sommers, et al., changes in self-reported insurance coverage, access to care, and health under the 
+affordable care act, jama 2015.  
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+aspe issue brief 
+ 
+ 
+nearly double the rate of decline in uninsured children as compared to states that didnt expand 
+medicaid.7   
+ 
+ 
+figure 1. quarterly uninsured rate estimates for nonelderly adults (ages 19 to 64) by medicaid 
+expansion status using the gallup-healthways well-being index, 2012 to 2016 
+ 
+
+page 4 
+
+19.4%  19.2% 
+
+18.3% 
+
+12.4%  12.2%  11.8% 
+
+16.5%  16.5%  16.3%  17.0% 
+
+15.4% 
+
+10.7% 
+
+9.4% 
+
+10.4%  10.3% 
+
+9.3% 
+
+25%
+
+23.3%  23.4% 
+
+20%
+
+18.5%  18.2% 
+
+21.5% 
+
+15.7% 
+
+15%
+
+10%
+
+5%
+
+0%
+
+non-expansion
+
+expansion
+
+ 
+
+source: the office of the assistant secretary for planning and evaluations (aspe) analysis of the gallup-healthways 
+well-being index survey data through february 22, 2016. 
+
+ 
+ 
+section ii. impact of medicaid expansion on access 
+ 
+usual source of care 
+ 
+usual source of care (e.g., a particular medical professional, office, clinic, or community health center) 
+is a key metric for measuring access to care because it reflects a stable connection with the health care 
+delivery system. beneficiaries with a usual source of care often receive more preventive services and 
+better manage chronic conditions; and in turn receive more effective and efficient health care. overall, 
+the literature indicates that medicaid expansion is associated with an increase in individuals reporting a 
+usual source of care. an aspe analysis of the national health interview survey (nhis) found that 
+between 2013 and 2015, medicaid expansion states saw a 7.2 percentage point increase in the number of 
+low-income adults (non-elderly, 138 percent fpl)  reporting a usual source of care, while states that 
+did not expand medicaid saw a 1.3 percentage point increase among this group.ii furthermore, focus 
+                                                 
+ii aspe analysis of national health interview survey (nhis) data from 2010-2015. states are defined as medicaid expansion 
+states if they expanded medicaid at any point between march 23, 2010 and december 31, 2015. the analyses here use final 
+nhis public use files merged with restricted identifiers, which include various edits not in the preliminary microdata used for 
+nhis early release reports produced by the national center for health statistics (nchs). estimates in this brief may vary 
+slightly from those in nchss published reports for this reason. 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+aspe issue brief 
+ 
+ 
+group findings show that low-income adults reported that obtaining coverage enabled them to access 
+needed care such as primary and preventive care, as well as to address their specific health problems. 
+highlighted below are key findings to date in the literature related to sources of care and appointment 
+availability (table 1). 
+ 
+table 1. summary of findings related to medicaid expansion and sources of care and appointment 
+availability 
+ 
+
+page 5 
+
+measure  
+
+findings 
+
+access to personal 
+physician 
+
+community health 
+center visits 
+
+appointment 
+availability 
+
+  medicaid expansion was associated with a 4.5 percentage point increase in visits to a health 
+
+professional compared to a 1.0 percentage point increase in non-expansion states. 
+
+  medicaid expansion was associated with a significant reduction in low-income adults who lack a 
+
+personal physician (-1.8 percentage points) compared to non-expansion states. 
+
+  medicaid expansion increased the probability of childless adults having a personal doctor by 4.1 
+
+ 
+
+percentage points. 
+individuals with chronic conditions who obtained regular care increased by 11.6 percentage 
+points after the first year of arkansas private option expansion and kentuckys traditional 
+medicaid expansion compared to texas a non-expansion state. 
+
+  community health center visit rates increased by 46 percent in expansion states compared to 12 
+
+percent in non-expansion states. 
+
+  a study that focused on michigan found that primary care appointment availability increased by 6 
+
+percentage points (from 49 percent pre-medicaid expansion to 55 percent) for all new medicaid 
+patients after expansion. 
+
+  a study of 10 states found that availability of primary care appointments for medicaid patients 
+
+increased by 7.7 percentage points (from 58.7 percent in late 2012 to early 2013 to 66.4 percent in 
+mid-2014). 
+
+ 
+personal physician. the aspe analysis of the nhis data further found that in expansion states, low-
+income non-elderly adults experienced a 4.5 percentage point increase in visits to a health professional 
+from 2013 to 2015, while in nonexpansion states this population had a 1.0 percentage point increase on 
+this measure. similarly, wherry and miller (2016) found that low-income nonelderly adult citizens in 
+medicaid expansion states were 6.6 percentage points more likely to have seen or talked to a general 
+physician in the previous 12 months than counterparts in non-expansion states. iii 
+according  to sommers, gunja, finegold, and musco (2015), medicaid expansion has significantly 
+increased the proportion of low-income adults who report having a personal physician.8 using the 
+gallup healthways well-being index survey data, sommers et al. (2015) finds that medicaid expansion 
+was associated with a significant reduction in low-income adults who lack a personal physician (-1.8 
+percentage points) compared to non-expansion states. simon, soni and cawley (2016) examined the 
+impact of medicaid expansion on preventive care and found that childless adults, the targeted population 
+for expansion, were 4.1 percentage points more likely to have a personal doctor after expansion as 
+compared to the pre-expansion timeframe.9   
+ 
+
+                                                 
+iii the wherry and miller analysis was based on data from the second half of 2014, the look back period includes months 
+prior to the january 1, 2014 expansion and does not capture gains in subsequent months, so it may understate the increase in 
+physician visits in states that expanded medicaid. 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 6 
+
+aspe issue brief 
+ 
+ 
+when examining usual source of care on a state basis, sommers, blendon and orav (2016) found the 
+share of low-income adults with chronic conditions who obtained regular care increased by 11.6 
+percentage points after the first year of expansion in arkansas and kentucky compared to the non-
+expansion state texas.10   
+ 
+community health centers. hoopes et al. (2016) examined changes in community health center visits 
+between medicaid expansion states and non-expansion states.11 the authors found that one-year after 
+medicaid expansion, community health center visit rates increased by 46 percent in expansion states 
+compared to 12 percent in non-expansion states.  
+ 
+appointment availability. another study measured primary care wait times for appointments and 
+appointment availability pre- and post- medicaid expansion for new medicaid patients in michigan and 
+concluded that access to services improved post-expansion.12 specifically, tipirneni et al. (2015) found 
+that wait times for primary care appointments remained stable (1-2 weeks) and appointment availability 
+increased by 6 percentage points (from 49 percent pre-medicaid expansion to 55 percent for new 
+medicaid patients after expansion). similarly, polsky et al. (2015) measured the availability of and 
+waiting times for appointments in 10 states in late 2012 to early 2013 and again in mid-2014.13 the 
+authors in this study found that the availability of primary care appointments for medicaid beneficiaries 
+increased by 7.7 percentage points (from 58.7 percent to 66.4 percent). this increase in appointment 
+availability was attributed to a temporary increase in medicaid reimbursement to primary care providers. 
+the states with the largest increases in appointment availability also were most likely to have the largest 
+increases in reimbursements.   
+ 
+health care services 
+ 
+a review of the literature examining the impacts of medicaid expansion on specific services has 
+generally found that the newly enrolled medicaid population is better able to access preventive services, 
+needed prescription medications, be screened and diagnosed for chronic conditions, and access dental 
+care. furthermore, the payer mix for hospital admissions appears to have changed in expansion states 
+with a decline in uninsured admissions (table 2). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+aspe issue brief 
+ 
+ 
+ 
+table 2. summary of findings related to medicaid expansion and access to care  
+ 
+
+ 
+
+measure  
+
+findings 
+
+page 7 
+
+preventive services 
+
+ 
+
+ 
+
+ 
+
+41 percent increase in preventive visits in medicaid expansion states compared to no change 
+in non-expansion states in community health centers. 
+26 percent of uninsured individuals who obtained medicaid coverage in 2014 had an annual 
+check-up as compared to 14 percent of uninsured individuals. 
+22 percent of uninsured individuals who obtained medicaid coverage in 2014 had a blood 
+pressure screening compared to 13 percent of uninsured individuals. 
+
+  low-income individuals who lived in expansion states generally had a greater increase in the 
+
+use of preventive services recommended by the united states preventive services task 
+force (uspstf) than low-income individuals living in non-expansion states between 2013 
+and 2015.  
+o  colorectal cancer screenings: among adults ages 50-64, colorectal cancer screening 
+
+increased by 4.3 percentage points in expansion states, compared to no increase in non-
+expansion states. 
+
+o  high cholesterol screenings: among men ages 35-64, high cholesterol screenings 
+
+increased by 3.4 percentage points in expansion states and decreased by 3.7 percentage 
+points in non-expansion states. among women ages 45-64, high cholesterol screenings 
+increased by 3.7 percentage points, compared to 1.2 percentage points in non-expansion 
+states. 
+
+o  high blood pressure screenings: among adults ages 18-64, high blood pressure 
+screenings increased by 4.0 percentage points in expansions states, compared to 
+decreasing by 1.8 percentage points in non-expansion states. 
+
+o  hiv screening: among adults ages 18-64, hiv screenings increased by 3.4 percentage 
+
+points in expansions states, compared to decreasing by 0.1 percentage points in non-
+expansion states. 
+
+  the use of recommended preventive services is higher in expansion states than non-
+
+expansion states for nearly all preventive services analyzed 
+
+prescription drugs 
+
+ 
+
+in 2014, the number of medicaid prescriptions increased 25.4 percent in states that expanded 
+coverage, compared to only 2.8 percent in states that didnt expand coverage. 
+
+  uninsured individuals who gained medicaid coverage had increases in prescription drug fill 
+
+rates (79 percent increase) and reductions in out-of-pocket spending per prescription (58 
+percent reduction). 
+
+  a 10 percentage point reduction in low-income adults skipping prescribed medications due 
+
+to cost after the first year of expansion in arkansas and kentucky compared to non-
+expansion state texas. 
+
+early diagnosis and 
+treatment of chronic 
+medical conditions 
+
+  an increased number of medicaid patients with diabetes are being diagnosed in medicaid 
+
+expansion states (23 percent increase in medicaid expansion states versus a .4 percent 
+increase in non-expansion states). 
+
+dental care 
+
+hospitalizations 
+
+  the probability of having a dental visit increased by 4.1 percentage points for childless 
+
+adults gaining medicaid coverage. 
+
+  cost related barriers to dental care fell from 30 percent in 2013 prior to medicaid expansion 
+
+to 25 percent in 2014 post medicaid expansion. 
+
+  among medicaid expansion states, hospital admissions for uninsured patients decreased by 
+
+6 percentage points (50 percent decrease in uninsured hospital discharges). 
+
+  among medicaid expansion states, percentage of admissions paid for by medicaid increased 
+
+by 7 percentage points (20 percent increase in medicaid discharges). 
+
+  a greater decline in the uninsured share of hospitalizations for people with hiv in four 
+
+medicaid expansion states (60 percent decline) compared to non-expansion states (8 percent 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+aspe issue brief 
+ 
+ 
+
+measure  
+
+ 
+
+page 8 
+
+increase). 
+
+findings 
+
+health behavior 
+
+  no impact of medicaid expansion on risky health behaviors including increases in heavy 
+
+drinking, binge drinking, bmi, obesity, or reduced levels of exercise.  
+
+ 
+preventive services. hoopes et al. (2016) found that in addition to increases in community health center 
+visits after medicaid expansion, the centers provided a greater number of preventive services visits. 
+community health centers experienced a 41 percent increase in preventive visits in medicaid expansion 
+states compared to no change in non-expansion states. in a study using longitudinal survey data, kirby 
+and vistnes (2016) found that gaining medicaid coverage in 2014 resulted in a higher likelihood of 
+having a usual source of care and receiving preventive services. when compared to uninsured 
+individuals, individuals who gained medicaid coverage in 2014 were more likely to have obtained an 
+annual check-up (26 percent in medicaid compared to 14 percent uninsured) and more likely to have 
+obtained a blood pressure screening (22 percent in medicaid compared to 13 percent uninsured).14 
+ 
+aspe analysis of national health interview survey (nhis) data from 2013 to 2015 found that overall the 
+use of preventive services recommended by the united states preventive services task force (uspstf) was 
+higher in expansion states than non-expansion states for nearly all preventive services analyzed (see 
+appendix a for additional details).  in addition, the aspe analysis found that low-income individuals who 
+lived in expansion states generally had a greater increase in the use of preventive services recommended 
+by the uspstf than low-income individuals living in non-expansion states.  some of the largest 
+differences in preventive service use between expansion and non-expansion states include: 
+ 
+
+o  colorectal cancer screenings: among adults ages 50-64, colorectal cancer screening 
+
+increased by 4.3 percentage points in expansion states, compared to no increase in non-
+expansion states. 
+
+o  cholesterol screening: among men ages 35-64, screening for high cholesterol increased by 
+
+3.4 percentage points in expansion states and decreased by 3.7 percentage points in non-
+expansion states. among women ages 45-64, screening for high cholesterol increased by 3.7 
+percentage points, compared to 1.2 percentage points in non-expansion states. 
+
+o  blood pressure screening: among adults ages 18-64, screening for high blood pressure 
+increased by 4.0 percentage points in expansions states, compared to decreasing by 1.8 
+percentage points in non-expansion states. 
+
+o  hiv screening: among adults ages 18-64, hiv screenings increased by 3.4 percentage points 
+
+in expansions states, compared to decreasing by 0.1 percentage points in non-expansion 
+states. 
+
+dental care: improved access to coverage also extends to dental care visits. in 80 percent of expansion 
+states, medicaid provides at least some coverage for outpatient dental services.15 simon, soni, and 
+cawley (2016) examined rates of dental care visits and found that the probability of a dental visit 
+increased among childless adults by 4.1 percentage points after expansion. along with improved access, 
+medicaid expansion may be reducing cost-related barriers to needed dental care. nasseh, wall, and 
+vujicic (2015) found that for adults with income below 100 percent fpl, cost related barriers to dental 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 9 
+
+aspe issue brief 
+ 
+ 
+care fell from 30 percent in 2013 prior to medicaid expansion to 25 percent in 2014 post medicaid 
+expansion.16  
+ 
+early diagnosis and treatment of chronic medical conditions: improved access to coverage can also 
+result in earlier diagnosis and treatment of chronic medical conditions. recent analysis of laboratory 
+data from kaufman, chen, fonseca, and mcphaul (2015) found that an increased number of medicaid 
+patients with diabetes are being diagnosed in medicaid expansion states (23 percent increase in 
+medicaid expansion states versus a .4 percent increase in non-expansion states).17 wherry and miller 
+(2016), using survey data, found increases in diagnosis of diabetes and high cholesterol for low-income 
+adult citizens in medicaid expansion states compared with those in non-expansion states. an evaluation 
+of the medicaid expansion conducted by the medicaid department in ohio concluded that the medicaid 
+expansion improved access to care and treatment of chronic health conditions. the evaluators found that 
+after obtaining coverage, over one-quarter (27 percent) of new medicaid expansion enrollees in ohio 
+were diagnosed with at least one chronic health condition and according to the medical records studied 
+as part of the evaluation, the individuals subsequently had lower levels of high blood pressure or high 
+cholesterol since enrolling in medicaid. 
+ 
+prescription medications: access to prescription medications has also expanded for low-income adults 
+in medicaid expansion states compared to non-expansion states. in 2014, the number of medicaid 
+prescriptions increased 25.4 percent in states that expanded coverage, compared to only 2.8 percent in 
+states that did not expand coverage.18 mulcahy, eibner and finegold (2016) used prescription drug 
+transaction data to examine changes in coverage, prescription fills, and out-of-pocket spending on 
+prescription drugs as a result of coverage expansions. the researchers found that uninsured individuals 
+who gained medicaid coverage had increases in prescription drug fill rates (79 percent increase) and 
+reductions in out-of-pocket spending per prescription (58 percent reduction).19 the large increases in 
+prescription drug fill rates suggests that expanded access to coverage has helped many medicaid 
+beneficiaries obtain affordable treatment for their health conditions with the long-term goal of 
+improving their health.20 this is consistent with the aspe analysis of the nhis, which found that there 
+was a 7 percentage point decrease (a 37 percent reduction) in the number of non-elderly adults with 
+incomes 138 percent fpl forgoing prescription drugs because of cost between 2010 and 2015. 
+similarly, sommers, blendon and orav found a 10 percentage point decline in the number of low-
+income adults claiming they skipped prescribed medication because of cost in their survey of low-
+income adults after the first year of expansion in kentucky and arkansas compared to non-expansion 
+state texas. 
+ 
+hospitalizations: improving access to coverage due to medicaid expansion may also be measured by a 
+changing payer mix for providers. studies have found that medicaid expansion is ensuring more 
+consistent reimbursement to hospitals for care provided and is also producing benefits for patients who 
+require hospitalization. estimates from the nikpay, buchmueller, and levy (2016) study show that since 
+expansion, among medicaid expansion states, hospital admissions for uninsured patients decreased by 6 
+percentage points (50 percent decrease in uninsured hospital discharges) while the percentage of 
+admissions paid for by medicaid increased by 7 percentage points (20 percent increase in medicaid 
+discharges) in the first half of 2014.21  a study conducted by hellinger (2015) found a greater decline in 
+the uninsured share of hospitalizations for people with hiv in four medicaid expansion states (60 
+percent decline) compared to non-expansion states (8 percent increase). 22 further, the study concluded 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 10 
+
+aspe issue brief 
+ 
+ 
+that uninsured hiv patients who were in the hospital were 40 percent more likely to die during their stay 
+as compared to patients with insurance.  
+ 
+health behaviors: the research conducted by simon, soni and cawley (2016) found no evidence of 
+moral hazard. new insurance coverage for additional individuals may lead to moral hazard, where 
+individuals would engage in risky health behaviors now that they are no longer facing the full 
+financial cost of obtaining health care services. simon et al found there was no impact of medicaid 
+expansion affecting risky behaviors such as increased heavy drinking, binge drinking, obesity, increased 
+bmi or reduced levels of exercise among childless adults with medicaid coverage.23 
+ 
+ 
+section iii. impact of medicaid expansion on affordability, financial 
+security, and quality 
+ 
+in addition to increased coverage and access to care, studies and survey results show medicaid 
+beneficiaries report increased financial security and satisfaction with the affordability and quality of 
+medicaid, their health coverage, and the doctors included in their plans (table 3). 
+ 
+table 3. summary of findings related to medicaid expansion and affordability, financial security, and 
+quality 
+ 
+
+measure  
+
+findings 
+
+affordability  
+
+ 
+
+78 percent of medicaid expansion enrollees who have used their plan indicated that they 
+would not have been able to access and/or afford their care prior to medicaid expansion 
+and enrollment. 
+
+  the probability of reporting cost as a barrier to care decreased by 3.9 percentage points for 
+
+childless adults gaining medicaid coverage. 
+
+  medicaid expansion is associated with a 20 percent reduction among adults in foregoing 
+
+mental health care or counseling due to cost from 2013 to 2015. 
+
+  the percentage of low-income adults reporting problems paying medical bills also declined 
+
+by 10.5 percentage points (34.7 percent pre-expansion to 24.2 percent post-expansion).  
+
+  enrollees in expansion states reported a 7 percentage point decline in problems paying their 
+
+medical bills compared to a 2 percentage point decline in non-expansion states. 
+
+  families reporting an inability to pay medical bills due to cost declined 5 percentage points 
+
+in expansion states compared to 1 percentage point in non-expansion states. 
+
+  both traditional medicaid expansion and private option expansion led to a decline in the 
+
+percentage of low-income adults reporting trouble paying medical bills (12.9 percent 
+decrease and 4.8 percent decrease respectively).  
+
+  post-medicaid expansion in california, the likelihood of any family out-of-pocket medical 
+
+spending among low-income adults declined by 10 percentage points. 
+
+  unmet health care needs decreased among low-income adults, declining 10.5 percentage 
+
+points (55.3 percent pre-expansion to 44.8 percent post-expansion). 
+
+  medicaid expansion reduced third-party collections of medical debt by $600 to $1,000 per 
+
+individual. 
+
+financial security 
+
+  medicaid expansion helped to reduce the likelihood of having trouble or being unable to 
+
+pay medical debt with 53 percent of uninsured adults reporting issues compared to 18 
+percent of adults in the expansion population. 
+
+quality  enrollee 
+satisfaction and 
+
+ 
+
+61 percent of adults who are eligible under their states medicaid expansion consider 
+themselves to be better off now than they were before enrolling in medicaid. 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+aspe issue brief 
+ 
+ 
+
+measure  
+
+experience  
+
+ 
+
+page 11 
+
+ 
+
+ 
+
+93 percent of these adults were very or somewhat satisfied with their medicaid health 
+plans. 
+
+92 percent were very or somewhat satisfied with their plan doctors. 
+
+findings 
+
+ 
+affordability  
+ 
+affordability. according to results from the commonwealth fund affordable care act tracking 
+survey of nonelderly adults (ages 19 to 64), among medicaid enrollees who have had medicaid for less 
+than two years and have used their coverage, 78 percent indicated that they would not have been able to 
+access and/or afford their care prior to medicaid expansion and enrollment. 24 further, kosali, soni and 
+cawley (2016) found that childless adults who obtained medicaid coverage were less likely to report 
+cost as a barrier to obtaining care (probability reduced by 3.9 percentage points). in addition, an aspe 
+analysis of national health interview survey (nhis) data found a 20 percent reduction in the number of 
+non-elderly adults with incomes 138 percent fpl that have forgone mental health care or counseling 
+due to cost between 2013 and 2015 and a 33 percent reduction among this population from 2010 to 
+2015.25   
+ 
+as shown in table 4, an aspe analysis of nhis data comparing medicaid expansion to non-expansion 
+states during the pre and post expansion period (2013 and 2015) found that medicaid expansion resulted 
+in lower health care costs for low-income families and receipt of more affordable care. to measure 
+lowered health care costs, aspe analyzed nhis data on the amount that low-income families (those 
+with family incomes below 138% fpl) spent on medical/dental care during the prior 12 month period. 
+the analysis shows that the percent of families that spent $0 on health care increased substantially in 
+expansion states (5.2 percentage points), yet declined in non-expansion states (-1.5 percentage points) 
+over the study period. 
+ 
+table 4. cost of medical/dental care in the past 12 months for low-income families by medicaid 
+expansion status and year, 2013-2015 
+
+cost of medical / dental 
+
+care in the past 12 
+
+expansion states 
+
+months 
+
+non-expansion 
+
+2013-2015 percentage point 
+
+states 
+
+change 
+
+  
+
+$0  
+
+>$0 - $499 
+
+$500 - $1,999 
+
+2013 
+
+2015 
+
+2013 
+
+2015 
+
+29.7% 
+
+44.1% 
+
+17.6% 
+
+34.9% 
+
+44.3% 
+
+14.6% 
+
+26.0% 
+
+45.2% 
+
+19.3% 
+
+24.6% 
+
+47.5% 
+
+18.9% 
+
+expansion 
+
+states 
+
+5.2% 
+
+0.3% 
+
+-3.0% 
+
+non-
+
+expansion 
+
+states 
+-1.5% 
+
+2.4% 
+
+-0.4% 
+
+8.6% 
+
+6.2% 
+
+9.1% 
+
+-0.5% 
+$2,000 or more 
+note: the analyses were conducted using 2013 as the pre-expansion period and 2015 as the post-expansion period. states 
+that implemented medicaid expansion between january 1, 2014, the year in which the majority of states enacted the policy, 
+and january 1, 2015 are defined as expansion states for the purposes of this analysis. individuals residing in states that 
+implemented expansion prior to 2014 and after january 1, 2015 are excluded from the analysis. all other states are 
+
+-2.4% 
+
+9.5% 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 12 
+
+aspe issue brief 
+ 
+ 
+considered to be non-expansion states for the purposes of this analysis (including states that implemented expansion in 2016).    
+family was the unit of analyses based on the definition used in the nhis data set. 
+ 
+similarly, estimates from a study using data from the health reform monitoring survey, found that 
+affordability of care improved post-expansion.26 the percentage of low-income adults reporting 
+problems paying medical bills declined by 10.5 percentage points (34.7 percent pre-expansion to 24.2 
+percent post-expansion). aspe analysis of nhis data show the reduction in problems paying medical 
+bills also hold true by medicaid expansion status. enrollees in expansion states reported a 3.3 percentage 
+point decline in problems paying their medical bills compared to a 1.5 percentage point decline in non-
+expansion states (appendix b). further, families reporting an inability to pay medical bills due to cost 
+declined 2.3 percentage points in expansion states compared to 1.2 percentage points in non-expansion 
+states (appendix b). each of these measures helps to show that increasing medicaid coverage to low-
+income families has assisted in improving their household financial well-being. for additional measures 
+on improved affordability from the aspe analysis of nhis data from 2013 and 2015, see appendix b. 
+ 
+studies that examined the impact of medicaid expansion on affordability at the state level also found 
+results similar to those found using survey data. for example, golberstein, gonzales, and sommers 
+(2015) examined the affordability of care after the early medicaid expansion in california and found 
+that expansion significantly reduced the likelihood of any family out-of-pocket medical spending among 
+low-income adults by 10 percentage points.27 furthermore, sommers, blendon and orav found 
+compared to a non-expansion state (texas) both traditional medicaid expansion (kentucky) and private 
+option (using medicaid funds to purchase private coverage) expansion (arkansas) lead to a decline in 
+the number of individuals reporting trouble paying medical bills (12.9 percent decrease and 4.8 percent 
+decrease, respectively). 
+ 
+lastly, the estimates from the health reform monitoring survey also showed that self-reported unmet 
+health care needs decreased among low-income adults, declining 10.5 percentage points (55.3 percent 
+pre-expansion to 44.8 percent post-expansion). the authors concluded that the decline was likely an 
+effect of the strong cost-sharing protections associated with medicaid plans. 
+ 
+financial security. the medicaid expansion has also had important financial impacts on enrollees. hu, 
+kaestner, mazumder, miller, and wong (2016) analyzed a large random sample of credit reports to 
+compare people living in the zip codes most likely to be affected by medicaid expansion with a 
+synthetic control group from non-expansion states.28 this method controls for potential selection effects 
+due to differences in covariates such as income, race, and ethnicity between expansion and non-
+expansion states. the authors estimated that medicaid expansion reduced the likelihood of being at risk 
+for personal bankruptcy and reduced third-party collections by $600 to $1,000 per individual. in a 
+separate survey on the burden of medical debt conducted by the kaiser family foundation/new york 
+times, the survey team found that medicaid expansion helped to reduce the likelihood of medical debt. 
+they found that 53 percent of uninsured adults reported having trouble or being unable to pay medical 
+debt compared to 18 percent of adults in the expansion population.29 with fewer unpaid bills to reduce 
+their credit ratings, and a lowered possibility of entering bankruptcy, these individuals may experience 
+better financial well-being in future years.  
+ 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 13 
+
+aspe issue brief 
+ 
+ 
+a state level analysis conducted in new york, an expansion state, found similar results. based on 
+observing data from federal reserve bank of new yorks consumer credit panel (ccp) over the first 
+quarter of 2009 through the fourth quarter of 2015, and aggregating it to the county level,iv the ny fed 
+saw that in counties with high uninsurance rates prior to 2014, collections declined by more than $100 
+per capita on average in the fourth quarter of 2015 (ny fed). this is a significant amount, given that the 
+average balances in collection over the sample period was $280 per person. similar to the national level 
+analysis, the ny fed also found that reductions in the relative amount of debt sent to third party 
+collections following medicaid expansion were most significant in expansion state counties with the 
+highest levels of uninsured individuals pre-2010. further, counties that had a high uninsurance burden 
+before 2010 but subsequently expanded medicaid had a decrease in average debt sent to collections 
+agencies in relation to counties in non-medicaid expansion states. 
+ 
+ 
+quality 
+ 
+enrollee satisfaction. the commonwealth fund survey found satisfaction with the new coverage 
+overall was also high. of the medicaid adults enrolled in medicaid for less than three years, almost nine 
+in ten (88 percent) were very or somewhat satisfied with their medicaid health plans. the survey also 
+indicated that among adults enrolled in medicaid plans for less than two years who used their plan, 92 
+percent were very or somewhat satisfied with their plan doctors.  
+ 
+enrollee experience. in addition to the decrease in reported unmet need care found by the health 
+reform monitoring survey, nearly two-thirds (61 percent) of adults with coverage due to their states 
+medicaid expansion in the commonwealth fund survey consider themselves to be better off now than 
+they were prior to medicaid expansion. 
+  
+ 
+section iv: conclusion 
+ 
+medicaid expansion has resulted in improved rates of coverage for low-income adults and improved 
+access to care and affordability for enrollees. states that have expanded medicaid have experienced 
+increased enrollment in their state programs and greater reductions in their uninsured population. 
+ 
+evidence shows that once covered, the newly enrolled population can obtain primary care services, be 
+screened and diagnosed for chronic conditions, and access needed prescription medications and dental 
+care. enrollees report satisfaction with their health coverage, the doctors included in their plan and the 
+affordability of medicaid. 
+ 
+going forward, additional research will be critical to documenting the longer-term impacts of the 
+medicaid expansion in terms of long-term rates of coverage, health care access, and the impact of 
+expansion on health outcomes and overall population health. sommers, baicker and epstein found pre- 
+2014 medicaid expansions to cover low-income adults were significantly associated with reduced 
+
+                                                 
+iv the dataset used in the observation done at the new york federal reserve board was the same dataset used in the separate 
+study authored by hu et. al. and published by the national bureau of economic research. 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+aspe issue brief 
+ 
+ 
+mortality as well as improved coverage, access to care, and self-reported health. 30 the long term effect 
+of medicaid expansion on health outcomes therefore merits close examination in future research. 
+ 
+
+page 14 
+
+ 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+aspe issue brief 
+ 
+ 
+appendix a:  uspstf recommended preventive services utilization among low-income non-
+elderly adults by medicaid expansion status and year, 2013-2015 
+
+page 15 
+
+ 
+
+preventive 
+
+service 
+
+expansion  states 
+
+non-expansion 
+
+2013-2015 percentage point 
+
+states 
+
+change 
+
+2013 
+
+2015 
+
+2013 
+
+2015 
+
+expansion 
+
+non-expansion 
+
+states 
+
+states 
+
+-3.7% 
+
+1.2% 
+
+-1.8% 
+
+1.0% 
+
+-0.1% 
+
+58.5% 
+
+3.9% 
+
+9.7% 
+
+4.3% 
+
+0.0% 
+
+70.3% 
+
+72.6% 
+
+30.2% 
+
+40.4% 
+
+-2.4% 
+
+-2.1% 
+
+52.2% 
+
+3.4% 
+
+67.1% 
+
+3.7% 
+
+67.1% 
+
+4.0% 
+
+30.3% 
+
+1.7% 
+
+46.4% 
+
+50.3% 
+
+34.5% 
+
+44.2% 
+
+17.5% 
+
+50.9% 
+
+48.5% 
+
+45.0% 
+
+21.8% 
+
+20.5% 
+
+61.9% 
+
+55.9% 
+
+74.0% 
+
+65.9% 
+
+43.8% 
+
+42.3% 
+
+31.9% 
+
+29.3% 
+
+76.6% 
+
+68.9% 
+
+42.9% 
+
+20.5% 
+
+breast cancer 
+screening 
+cervical cancer 
+screening 
+colorectal 
+cancer 
+screening  
+cholesterol 
+screening men  
+cholesterol 
+screening 
+women 
+blood pressure 
+screening  
+diabetes 
+screening  
+hiv screening 
+(ever) 
+hepatitis c 
+screening 
+(ever) 
+note: the analyses were conducted using 2013 as the pre-expansion period and 2015 as the post-expansion period. states 
+that implemented medicaid expansion between january 1, 2014, the year in which the majority of states enacted the policy, 
+and january 1, 2015 are defined as expansion states for the purposes of this analysis. individuals residing in states that 
+implemented expansion prior to 2014 and after january 1, 2015 are excluded from the analysis. all other states are 
+considered to be non-expansion states for the purposes of this analysis (including states that implemented expansion in 2016). 
+ 
+preventive services are recommended for individuals with certain demographic characteristics; thus, the population included 
+in this analysis differs for each preventive service. these populations include:1) breast cancer screening: 50-64 year old 
+females; 2) cervical cancer screening: 21-64 year old females; 3) colorectal cancer screening: 50-64 year olds; 4) high 
+cholesterol screening men: 35-64 year olds; 5) high cholesterol screening women: 45-64 year olds; 6) high blood 
+pressure screening, diabetes screening, and hiv screening: all 18-64 year olds; 7) hepatitis c screening: 50-64 year olds. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+14.2% 
+
+12.4% 
+
+42.2% 
+
+3.4% 
+
+15.5% 
+
+2.7% 
+
+11.5% 
+
+3.1% 
+
+aspe issue brief 
+ 
+ 
+appendix b: additional family measures of improved affordability and delayed care 
+
+ 
+
+page 16 
+
+measure 
+
+expansion 
+
+states 
+
+non-
+
+expansion 
+
+states 
+
+  
+
+2013 
+
+2015 
+
+2013 
+
+2015 
+
+2013-2015 percentage point 
+
+change 
+
+expansion 
+
+non-expansion 
+
+states 
+
+states 
+
+-2.9% 
+
+-1.2% 
+
+-1.5% 
+
+-1.1% 
+
+-2.6% 
+
+-2.3% 
+
+-5.2% 
+
+22.8%  19.6%  27.0%  25.6% 
+
+-3.3% 
+
+21.1%  18.5%  24.8%  23.8% 
+
+14.5%  12.3%  18.5%  17.3% 
+
+21.2%  16.0%  24.5%  21.7% 
+
+family member delayed medical 
+care in the past 12 months 
+unable to pay medical bills due to 
+cost 
+problems paying medical bills 
+due to cost 
+medical bills being paid off over 
+time 
+note: the analyses were conducted using 2013 as the pre-expansion period and 2015 as the post-expansion period. states 
+that implemented medicaid expansion between january 1, 2014, the year in which the majority of states enacted the policy, 
+and january 1, 2015 are defined as expansion states for the purposes of this analysis. individuals residing in states that 
+implemented expansion prior to 2014 and after january 1, 2015 are excluded from the analysis. all other states are 
+considered to be non-expansion states for the purposes of this analysis (including states that implemented expansion in 2016).    
+family was the unit of analyses based on the definition used in the nhis data set. 
+ 
+ 
+appendix c: data methodology 
+ 
+the estimates of changes in the uninsured rate for nonelderly adults in expansion and non-expansion 
+states presented in this brief (figure 1) are based on aspe analysis of data from the gallup-healthways 
+well-being index, which surveys about 500 adults per day. the gallup-healthways well-being index 
+estimates presented here are based on data from january 1, 2012 through february 22, 2016.v 
+ 
+aspes estimates of changes in access to care for nonelderly adults are based on analysis of national 
+health interview survey (nhis) data from 2010-2015. states are defined as medicaid expansion states 
+if they expanded medicaid at any point between march 23, 2010 and december 31, 2015. the analyses 
+here use final nhis public use files merged with restricted identifiers, which include various edits not in 
+the preliminary microdata used for nhis early release reports produced by the national center for 
+health statistics (nchs). estimates in this brief may vary slightly from those in nchss published 
+reports for this reason. 
+ 
+aspes analysis of cost of care and ability to pay medical bills used the nhis definition of a family 
+as the unit of analysis. the analyses were conducted using 2013 as the pre-expansion period and 2015 as 
+the post-expansion period. states that implemented medicaid expansion between january 1, 2014, the 
+year in which the majority of states enacted the policy, and january 1, 2015 are defined as expansion 
+states for the purposes of this analysis. individuals residing in states that implemented expansion prior to 
+
+                                                 
+v for additional analysis using these data, see namrata uberoi, kenneth finegold, and emily gee, health insurance 
+coverage and the affordable care act, 20102016, aspe issue brief, march 3, 2016, available at: 
+https://aspe.hhs.gov/sites/default/files/pdf/187551/aca2010-2016.pdf. 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 17 
+
+aspe issue brief 
+ 
+ 
+2014 and after january 1, 2015 are excluded from the analysis. all other states are considered to be non-
+expansion states for the purposes of this analysis (including states that implemented expansion in 2016). 
+ 
+aspes analysis of preventive services was conducted using 2013 as the pre-expansion period and 2015 
+as the post-expansion period. states that implemented medicaid expansion between january 1, 2014, the 
+year in which the majority of states enacted the policy, and january 1, 2015 are defined as expansion 
+states for the purposes of this analysis. individuals residing in states that implemented expansion prior to 
+2014 and after january 1, 2015 are excluded from the analysis. all other states are considered to be non-
+expansion states for the purposes of this analysis (including states that implemented expansion in 2016). 
+preventive services are recommended for individuals with certain demographic characteristics; thus, the 
+population included in this analysis differs for each preventive service. these populations include:1) 
+breast cancer screening: 50-64 year old females; 2) cervical cancer screening: 21-64 year old females; 
+3) colorectal cancer screening: 50-64 year olds; 4) cholesterol screening men: 35-64 year olds; 5) 
+cholesterol screening women: 45-64 year olds; 6) blood pressure screening, diabetes screening, and 
+hiv screening: all 18-64 year olds; 7) hepatitis c screening: 50-64 year olds. 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 18 
+
+aspe issue brief 
+ 
+ 
+ 
+references 
+ 
+1 the economic impacts of medicaid expansion, uncompensated care costs and the affordable care 
+act,  march 1, 2015. https://aspe.hhs.gov/economic-impacts-medicaid-expansion-uncompensated-care-
+costs-and-affordable-care-act-aspe-issue-brief-march-2015 
+2 october 2016 medicaid and chip enrollment data highlights, december 30, 2016, 
+https://www.medicaid.gov/medicaid/program-information/medicaid-and-chip-enrollment-data/report-
+highlights/total-enrollment/index.html 
+3 ibid. 
+4 charles courtemanche, james marton, benjamin ukert, aaron yelowitz, and daniela zapata.  
+impacts of the affordable care act on health insurance coverage in medicaid expansion and non-
+expansion states national bureau of economic research working paper no. 22182. april 2016.  
+http://nber.org/papers/w22182. 
+5 furman, jason. next steps for health care reform. october 2015. 
+https://www.whitehouse.gov/sites/default/files/page/files/20151007_next_steps_health_care_reform.pdf. 
+6  joan alker, alissa chester, childrens health coverage rate now at historic high of 95 percent, 
+center for children and families, health policy institute, georgetown university, october 2016. 
+http://ccf.georgetown.edu/wp-content/uploads/2016/11/kids-acs-update-11-02-1.pdf 
+7 joan alker, alissa chester, childrens health insurance rates in 2014: aca results in significant 
+improvements, center for children and families, health policy institute, georgetown university, 
+october 2015. http://ccf.georgetown.edu/ccf-resources/childrens-uninsured-rate-2014-affordable-care-
+act/. 
+8 benjamin sommers munira gunja, kenneth finegold and thomas musco, changes in self-reported 
+insurance coverage, access to care, and health under the affordable care act, jama 
+2015;314(4):366-374. doi:10.1001/jama.2015.8421 
+9 kosali simon, aparna soni, and john cawley, the impact of health insurance on preventive care 
+and health behaviors: evidence from the 2014 aca medicaid expansions, nber, working paper 
+22265, may 2016. http://papers.nber.org/tmp/1578-w22265.pdf . 
+10 benjamin d. sommers, robert j. blendon, and e. john orav, both the private option and 
+traditional medicaid expansions improved access to care for low-income adults health affairs, 
+35, no.1 (2016): 96-105. 
+11 megan j hoopes, heather angier, rachel gold, steffani r bailey, nathalie huguet, miguel marino, 
+and jennifer e devoe, utilization of community health centers in medicaid expansion and 
+nonexpansion states, 2013-2014, journal of ambulatory care management, january 2016. 
+12 renuka tipirneni, karin v. rhodes, rodney a. hayward, richard l. lichtenstein, elyse n. reamer 
+and matthew m. davis, primary care appointment availability for new medicaid patients increased 
+after medicaid expansion in michigan, health affairs, august 2015. 
+13 daniel polsky, michael richards, simon basseyn, douglas wissoker, genevieve m. kenney, stephen 
+zuckerman, and karin v. rhodes. appointment availability after increases in medicaid payments for 
+primary care, the new england journal of medicine, january 2015. 
+14 james kirby and jessica vistnes, access to care improved for people who gained medicaid or 
+marketplace coverage in 2014, health affairs, 35, no. 10 (2016): 1830-1834. 
+ 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 19 
+
+aspe issue brief 
+ 
+ 
+                                                                                                                                                                         
+15 medicaid adult dental coverage, nashp, april 2015, http://www.nashp.org/map-of-current-adult-
+dental-coverage/. 
+16 kamyar nasseh, tom wall, and marko vujicic, cost barriers to dental care continue to decline, 
+particularly among young adults and the poor, health policy institute, october 2015.  
+17 harvey w. kaufman, zhen chen, vivian a. fonseca, and michael j. mcphaul, surge in newly 
+identified diabetes among medicaid patients in 2014 within medicaid expansion states under the 
+affordable care act, diabetes care, march 2015, 
+http://care.diabetesjournals.org/content/early/2015/03/19/dc14-2334.full.pdf+html. 
+18 medicines use and spending shifts: a review of the use of medicines in the us in 2014, ims 
+institute for healthcare informatics, april 2015, 
+http://www.imshealth.com/portal/site/imshealth/menuitem.762a961826aad98f53c753c71ad8c22a/?vgne
+xtoid=3f140a4331e8c410vgnvcm1000000e2e2ca2rcrd&vgnextchannel=736de5fda6370410vgnvc
+m10000076192ca2rcrd&vgnextfmt=default.  
+19 andrew w. mulcahy, christine eibner and kenneth finegold, gaining coverage through medicaid 
+or private insurance increased prescription use and lowered out-of-pocket spending, health affairs, 
+35, no. 9 (2016): 1724-1733. 
+20 medicines use and spending shifts: a review of the use of medicines in the us in 2014, ims 
+institute for healthcare informatics, april 2015, 
+http://www.imshealth.com/portal/site/imshealth/menuitem.762a961826aad98f53c753c71ad8c22a/?vgne
+xtoid=3f140a4331e8c410vgnvcm1000000e2e2ca2rcrd&vgnextchannel=736de5fda6370410vgnvc
+m10000076192ca2rcrd&vgnextfmt=default. 
+21 sayeh nikpay, thomas buchmueller, and helen levy, affordable care act medicaid expansion 
+reduced uninsured hospital stays in 2014, health affairs, january 2016, 
+http://content.healthaffairs.org/content/35/1/106.abstract?sid=a6bdd2ee-5ff5-4d58-82b5-8682b3c3d040.  
+22 fred hellinger, in four aca expansion states, the percentage of uninsured hospitalizations for 
+people with hiv declined, 2012-14, health affairs, december 2015, 
+http://content.healthaffairs.org/content/34/12/2061.abstract.  
+
+23 kosali simon, aparna soni, and john cawley, the impact of health insurance on preventive care 
+and health behaviors: evidence from the 2014 aca medicaid expansions, nber, working paper 
+22265, may 2016. http://papers.nber.org/tmp/1578-w22265.pdf . 
+24 sara collins, et al., americans experiences with marketplace and medicaid coverage, findings 
+from the commonwealth fund affordable care act tracking survey, march-may 2015,the 
+commonwealth fund, june 2015, http://www.commonwealthfund.org/~/media/files/publications/issue-
+brief/2015/jun/1822_collins_americans_experience_marketplace_medicaid_tb.pdf  
+25 continuing progress on the opioid epidemic: the role of the affordable care act, aspe, january 
+2017, https://aspe.hhs.gov/sites/default/files/pdf/255456/acaopioid.pdf.  
+26 adele shartzer, sharon k. long, and nathaniel anderson, access to care and affordability have 
+improved following affordable care act implementation; problems remain, health affairs, 
+december 2015, http://content.healthaffairs.org/content/35/1/161.abstract?sid=0256c321-9bcf-4d2e-
+b15f-85e9bdbd01c9.  
+
+ 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+ 
+
+page 20 
+
+aspe issue brief 
+ 
+ 
+                                                                                                                                                                         
+27 ezra golberstein, gilbert gonzales, and benjamin sommers, californias early aca expansion 
+increased coverage and reduced out-of-pocket spending for the states low-income population, 
+health affairs, october 2015, 
+http://content.healthaffairs.org/content/34/10/1688.abstract?sid=bee8a797-4f26-4ec8-b4be-
+95f7764fabb4.  
+28 luojia hu, robert kaestner, bhashkar mazumder, sarah miller, and ashley wong, the effect of the 
+patient protection and affordable care act medicaid expansions on financial well-being, national 
+bureau of economic research working paper 22170 (http://www.nber.org/papers/w22170). 
+
+29 liz hamel, mira norton, karen pollitz, larry levitt, gary claxton, and mollyann brodie, the 
+burden of medical debt: results from the kaiser family foundation/new york times medical bills 
+survey, kaiser family foundation, jan 2016, http://kff.org/health-costs/report/the-burden-of-medical-
+debt-results-from-the-kaiser-family-foundationnew-york-times-medical-bills-survey/.  
+30 benjamin d. sommers, katherine baicker, arnold m. epstein, mortality and access to care among 
+adults after state medicaid expansions, n engl j med 2012; 367:1025-1034 september 13, 2012 
+(http://www.nejm.org/doi/full/10.1056/nejmsa1202099). 
+ 
+
+ 
+aspe office of health policy 
+
+january 18, 2017 
+
+

@@ -1,0 +1,660 @@
+making america 1920 again? 
+nativism and us immigration, 
+past and present
+
+julia g. young 
+the catholic university of america
+
+executive summary
+this  paper  surveys  the  history  of  nativism  in  the  united  states  from 
+the late nineteenth century to the present. it compares a recent surge in 
+nativism with earlier periods, particularly the decades leading up to the 
+1920s, when nativism directed against southern and eastern european, 
+asian, and mexican migrants led to comprehensive legislative restrictions 
+on immigration. it is based primarily on a review of historical literature, 
+as well as contemporary immigration scholarship. major findings include 
+the following:
+  there  are  many  similarities  between  the  nativism  of  the  1870-1930 
+period and today, particularly the focus on the purported inability of 
+specific immigrant groups to assimilate, the misconception that they 
+may  therefore  be  dangerous  to  the  native-born  population,  and  fear 
+that immigration threatens american workers.
+
+  mexican migrants in particular have been consistent targets of nativism, 
+
+immigration restrictions, and deportations.
+
+  there are also key differences between these two eras, most apparently 
+in the targets of nativism, which today are undocumented and muslim 
+immigrants, and in president trumps consistent, highly public, and 
+widely disseminated appeals to nativist sentiment.
+
+  historical studies of nativism suggest that nativism does not disappear 
+completely, but rather subsides. furthermore, immigrants themselves 
+can and do adopt nativist attitudes, as well as their descendants.
+
+  politicians, government officials, civic leaders, scholars and journalists 
+must do more to reach sectors of society that feel most threatened by 
+immigration.
+
+  while eradicating nativism may be impossible, a focus on avoiding or 
+overturning nativist immigration legislation may prove more successful. 
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 1 (2017): 217-235introduction
+scholars will spend decades debating the reasons for donald trumps stunning electoral 
+victory in 2016, yet at least some of the credit must go to his campaigns famous slogan 
+make america great again. certainly, the phrase was one of the factors that inspired 
+millions of people to elect trump as 45th president of the united states. the first three 
+words, after all, comprise a forward-looking call to action and a patriotic promise about the 
+future, rolled into one. 
+historians who wish to understand and analyze trumps success, however, should perhaps 
+focus on the last word of the slogan: again. this single word transforms the phrase into 
+a commitment to revisit (if not recreate) a specific historical era  one when america 
+was great. neither the candidate nor the campaign ever explicitly defined their concept 
+of  greatness  (for  whom  was america  great?  when?  and  why?).  nevertheless,  this  was 
+probably an effective technique: voters were free to make their own assumptions, without 
+too much information about a detailed policy agenda.
+throughout the campaign, however, trump and his surrogates argued that one key problem 
+has been preventing the america of today from being sufficiently great. that problem is 
+immigration. 
+trump  famously  launched  his  campaign  by  calling  mexican  immigrants  rapists  and 
+criminals,  and  repeatedly  promised  a  big,  beautiful  wall  along  the  southern  border. 
+he also continuously linked immigration to terrorism, called for a total and complete 
+shutdown of muslims entering the united states, and, after his inauguration, promising 
+to give immigration preference to persecuted christian refugees (trump 2015; brody 
+2017). since the very first week of the new administration, when the president released 
+three executive orders, two to crack down on undocumented immigration and one to restrict 
+travel from muslim-majority nations and to cut the us refugee admissions program, the 
+trump administration has made it very clear that its vision for american greatness is a 
+nativist one. 
+in this nativist vision, the time period to which we return is one in which immigration is 
+sharply restricted by national, ethnic, and religious criteria. perhaps we have an answer, 
+then, to the unanswered question within make america great again: trumps america 
+is looking more and more like the america of 1920. 
+in 1920, immigrants made up 13.2 percent of the population  making the demographic 
+landscape analogous to today, when the foreign-born make up 13.5 percent of all americans. 
+then, as now, both the masses and educated elites held deep suspicions, hostility, and fear of 
+these immigrants. many viewed them as being too different to assimilate into the majority 
+culture. as a result, politicians and the press frequently portrayed immigration as a threat 
+to the nation. by the early 1920s, these long-held nativist fears generated new restrictive 
+legislation that would cause the number and percent of foreign-born in the united states to 
+decline sharply for decades afterwards. 
+once again, the united states finds itself in an era of nativism and exclusion, as our politicians 
+contemplate immigration restrictions and deportation policies that are reminiscent of those 
+enacted nearly a century ago. a detailed review of nativism and immigration policy in the 
+
+218
+
+journal on migration and human securityperiod of 1870-1940, then, can tell us much about where we are today, and may also help 
+us answer questions about where we are going.
+
+nativism  and  immigration  policy  in  the  united  states, 
+1870-1940
+there  were  several  reasons  for  the  massive  wave  of  immigration  that  so  changed  the 
+united states during the late nineteenth century. historian jose moya pinpoints five major 
+revolutions that pushed people away from europe and towards the united states. these 
+were: 1) rising growth rates and declining mortality rates in europe; 2) the dominance of 
+liberalism  in  european  political  thought,  which  allowed  for  the  unrestricted  movement 
+of peoples; 3) the transition from subsistence to commercial agriculture, which created a 
+surplus rural population and released peasants ties to the land; 4) the industrial revolution, 
+which further mobilized the labor force by creating a demand for labor in industrial centers; 
+and 5) developments in transportation that made ocean and land travel easier and cheaper, 
+effectively shortening the distances between the old and new world (moya 1999, 13-44). 
+such large-scale changes help explain why so many europeans immigrated to the united 
+states  after  the  1840s,  and  why    as  industrialization  spread  across  the  continent   
+european migrants came mostly from southern and eastern europe by the last quarter 
+of the nineteenth century. to a certain extent, these factors were also applicable in japan, 
+which had modernized quickly in the nineteenth century; as well as china, korea, and the 
+philippines (hsu 2000; choy 2003; azuma 2005). thus, after the 1870s, the united states 
+(as well as other countries in the western hemisphere, particularly argentina, brazil, and 
+cuba) saw sharply increasing migrant populations from southern and eastern europe and 
+asia. after 1900, this population included increasing numbers of mexicans, as well.
+nativist movements had targeted immigrants well before this period, and indeed throughout 
+us history. one of the more well-known of these was the know-nothing party, which was 
+formed by anti-catholic and anti-irish members of the working class during the 1840s 
+and 1850s (boisonneault 2017). yet even the know-nothings were never able to create 
+and pass national legislation on nativist grounds. rather, before the 1880s, immigration to 
+the united states was marked not by legislation, but rather by the lack of it. beginning in 
+the last two decades of the nineteenth century, however, heightened feelings of nativism 
+among  the  public  and  policymakers  alike  prompted  policymakers  to  move  away  from 
+liberal immigration policies and towards a raft of new restrictions. 
+at the root of these nativist impulses were several intertwined phenomena. in the popular 
+imagination, the new immigrants of the post-1870 period were unassimilable because 
+of their race, ethnicity, and culture. commonly held beliefs of the time, many of which 
+originated  in  the  so-called  science  of  eugenics,  defined  specific  national  and  ethnic 
+groups as inherently better or worse than others.1 yet economics also played a role: nativist 
+restrictions were often accepted and promoted by working-class whites, who believed that 
+
+ 
+1   for a seminal work on nativism in the united states, see higham (1995). more recent works include 
+schrag (2010). for a fascinating treatment of eugenics as it was expressed and reiterated in latin america, 
+see stepan (1991).
+
+219
+
+making america 1920 again? nativism and us immigration, past and presentthey were losing job opportunities to immigrants. this was certainly true in california, 
+where chinese and other immigrants from asia became the first targets of this new wave 
+of nativism.
+
+asian immigration to the american west
+as  with  many  other  national  groups,  native  resentment  against  chinese  and  asian 
+immigrants increased proportionately in relation to contact and competition between these 
+immigrants  and  the  native-born.  chinese  immigration  began  between  1850  and  1860, 
+when almost 50,000 chinese came across the pacific for jobs in the mining industry and on 
+the railroads (howland 1929, 494). by the 1880s, the chinese immigrant population had 
+become much more widely dispersed through the coast and mountain states of the west. 
+native resentment of the chinese arose from the perception that they were an unassimilable, 
+even subversive group, [whose] vicious customs and habits were a social menace (jones 
+1960, 248). their perceived inability to assimilate was blamed on their appearance  not 
+only their physical characteristics, but also their traditional dress and the hairstyle of male 
+migrants  as well as their tendency to preserve the cultural practices and language of 
+their home country. their culture was cast not only as primitive and backward, but also 
+as an existential threat to us democratic institutions: a yellow peril, in the parlance of 
+the times. economic factors also played a role: the chinese competed with whites for 
+jobs in gold mining and the railroad industry, and they were often willing to work for 
+lower pay. in addition, an economic downturn during the 1870s caused increased labor 
+competition between chinese immigrants and the native-born, especially as more native 
+workers migrated from the east to take jobs in california (kraut 1982, 156; fuchs and 
+forbes 2003, 152).
+together, nativist resentment and economic competition fueled reprisals against the chinese 
+population in the west. politicians used legislation to target and humiliate the chinese, as 
+when california legislators passed a queue ordinance that required people convicted of 
+criminal offenses to have their hair cut to a one-inch length (howland 1929, 494). whites 
+also committed acts of violence: rioters killed 21 chinese immigrants in san francisco in 
+1871, and set 25 chinese laundries on fire in 1877, to name just two examples (kraut 1982, 
+156-57). 
+after the 1870s, nativists organized political movements against the chinese as well. most 
+notable of these was the workingmens party, lead by an irish-born sailor in san francisco 
+named  dennis  kearney.  the  party  demanded  that  the  us  government  cut  off  chinese 
+immigration  and  limit  the  rights  of  the  chinese  in  the  united  states.  despite  protests 
+by  chinese  diplomats,  the  chinese-american  community,  and  a  few  more  enlightened 
+politicians, the workingmens party formed a voting bloc just large enough to hold the 
+balance of power in california, and so was an important impetus to legislation against 
+chinese immigrants in the 1880s (ibid., 160).
+during this decade, legislators passed a series of successively more restrictive laws that 
+limited the rights of chinese in the united states and barred new chinese immigrants from 
+entry into the country. most significantly, the chinese exclusion act of 1882 suspended 
+
+220
+
+journal on migration and human securityimmigration of chinese laborers for 10 years, and was renewed periodically until 1943. 
+the exclusion act also stipulated that all chinese had to obtain certificates proving their 
+eligibility to live and work in the united states. in 1887, the scott act prohibited the return 
+of any chinese who left the country, even those who were legal residents or citizens. the 
+1892 geary act denied bail to chinese in habeas corpus cases and required all chinese to 
+obtain a certificate of eligibility to remain in the united states. if a chinese immigrant was 
+arrested without the certificate, the burden of proof fell upon him to prove his eligibility to 
+live and remain in the united states. these and other legislative restrictions (especially the 
+immigration acts of 1917 and 1924) ensured that chinese immigration to the united states 
+was effectively prohibited for nearly three-quarters of a century.
+the success of the anti-chinese movement helped to fuel very similar mobilizations against 
+the japanese, koreans, and filipinos in the west, who had arrived for similar reasons, albeit 
+later and in smaller numbers than the chinese. like the chinese, these immigrants were 
+characterized by nativists as inherently different  immoral, subversive, and servile  
+and therefore impossible to assimilate (jones 1960, 264). after the japanese and korean 
+populations increased after the 1900s, white californians led labor campaigns and other 
+mobilizations against them in the state. in 1905, nativists formed the japanese and korean 
+exclusion  league,  and  the  following  year  the  san  francisco  school  board  ordered  all 
+oriental students into segregated schools. the nativist movement against the japanese 
+eventually resulted in the gentlemens agreement of 1907, in which the us government 
+persuaded the japanese government to deny passports to emigrants (howland 1929, 502-
+03). restrictions and discrimination against the japanese population continued until the 
+japanese were barred almost completely from immigration in 1924. filipinos also faced 
+resistance and hostility for all of the same reasons: they were cast by nativists as immoral, 
+criminal, and unassimilable, and in 1934, the philippine independence act installed a quota 
+of only 50 filipino immigrants per year (jones 1960, 288). by the end of the 1930s, asians 
+were almost completely excluded from immigration to the united states, and they would 
+remain so for decades.
+
+the rise of the quota system
+the nativist organizing that led to the eventual exclusion of asian immigrants preceded and 
+overlapped with similar movements against european immigrants in the late nineteenth and 
+early twentieth centuries. while chinese, japanese, korean, and filipino immigration had 
+occurred primarily on the west coast, the immigration of southern and eastern europeans 
+was a great concern to the native population in the east and midwest. before 1860, most 
+immigrants  had  come  from  the  british  isles,  germany,  scandinavia,  switzerland,  and 
+holland. by 1900, close to 70 percent of all immigrants originated in regions and countries 
+including austria-hungary, italy, russia, greece, romania, and turkey (ibid., 179). this 
+immigration mushroomed after the 1880s: whereas only 2.5 million europeans entered the 
+country in each decade between 1860 and 1880, during a single decade in the 1880s, over 
+five million europeans arrived, and 16 million entered in the subsequent quarter century 
+(fuchs and forbes 2003, 152). 
+resentment by natives against the new waves of european immigrants stemmed from long-
+held racial and cultural prejudices among americans of northern and western european 
+
+221
+
+making america 1920 again? nativism and us immigration, past and presentheritage  about  non-western  europeans,  and  particularly  against  jews. these  prejudices 
+fueled the perception that the southern and eastern europeans, like asian immigrants, were 
+simply too different from the native-born to assimilate. as with the chinese and asian 
+immigrants, southern and eastern european immigrants differences in language, religion, 
+economic background, and traditions made them seem undesirable to the native population. 
+many  of  the  new  immigrants  from  eastern  europe  and  russia  were  jews,  who  were 
+regarded with particular hostility both by the working classes and by elites. stereotypically 
+portrayed as greedy and materialistic, resented as competitors for work and housing in the 
+urban slums, or vilified for their religious beliefs, the rise in jewish immigration prompted 
+anti-semitic protests by the knights of labor and the other populist groups in the 1890s 
+and afterwards (garis 1927, 213; curran 1975, 112-13). 
+slavic  immigrants,  too,  were  ill-regarded  by  many  of  the  native-born.  poles,  czechs, 
+russians,  and  other eastern  europeans were  portrayed  as  socialists and  anarchists, and 
+often blamed for crime and labor conflict (howland 1929, 445). frequent complaints were 
+made about the perceived unruliness of eastern europeans. one contemporary commentator 
+noted that in any polish church congregation  a free fight, or a riot with bludgeons and 
+firearms, may be expected at any moment (curran 1975, 114). 
+southern europeans, like the slavs, were often reviled because of the perception that they 
+were criminally inclined. nativists accused the italians and greeks of a distinct tendency 
+to abduction and kidnapping, while the russians were charged with larceny and receiving 
+stolen goods (kraut 1982, 158). according to one contemporary observer, italians drank to 
+excess, they lived in filth, and at the slightest provocation, they went for the stiletto (curran 
+1975, 115). and one author, although writing a fairly tolerant sociological assessment of 
+greek immigrants, asserted nevertheless that [greeks] are probably a greater tax on the 
+police courts of the country, in proportion to their total number, than any other class of our 
+population (fairchild 1911, 239). all of these groups faced discrimination and hostility 
+from the native-born population.
+the american  working  classes  resented  these  new  waves  of  european  immigrants  not 
+only for their perceived criminality and cultural differences, but also because of the labor 
+competition  that  they  represented.  natives,  confronting  economic  downturns  after  the 
+1870s, saw the new immigrants as a threat to their personal welfare, and expressed this in 
+a fear-ridden and sometimes hysterical hatred of foreigners (jones 1960, 253).
+upper-class  intellectuals,  the  press,  and  business  elites  were  also  opposed  to  the  new 
+immigration  on  the  basis  of  racial  and  economic  grounds,  and  their  opinions    often 
+published in the media  helped to fuel working class resentment and xenophobia. in the 
+early twentieth century as the nativist furor reached its peak, books such as the passing 
+of the great race, by eugenicist madison grant, and editorialists such as kenneth roberts 
+of the saturday evening post, brought stereotypes about the supposed inferiority of new 
+immigrants  to  a  broad  audience  (curran  1975,  136)  throughout  the  period,  political 
+cartoonists such as thomas nast produced endless racialized images that cast immigrants 
+as  unsavory-looking  figures  whose  inherent  attributes  threatened  the  united  states 
+(schrag 2010, 61-62). and, as historian alan kraut (1995) describes, americans across the 
+social and political spectrum frequently blamed immigrants for bringing disease into the 
+
+222
+
+journal on migration and human securityunited states, creating a kind of medicalized nativism that led to humiliating immigration 
+inspections, and helped drive the impetus for legal restrictions on immigration.
+prior to world war i, legislation did not explicitly restrict the selection or composition of 
+immigrants based on race or nationality, with the exception of asian immigrants. in general, 
+it attempted to exclude people based on income level, education, and moral, biological, and 
+physical qualities. the immigration act of 1875, for example, barred prostitutes and alien 
+convicts, while the immigration act of 1882 prohibited the entry of the insane, the mentally 
+disabled,  convicts,  and  those  liable  to  become  a  public  charge.  in  1891,  immigration 
+legislation excluded people suffering from loathsome or contagious diseases and aliens 
+convicted of crimes involving moral turpitude (fuchs and forbes 2003, 154).2 
+after the turn of the century, the provisions in the immigration act grew increasingly strict. 
+the rationale for this crackdown was a 40-volume report published by the dillingham 
+commission, which was formed in 1909 by congress in order to assess the effects of asian 
+and southern and eastern european immigration. the commission began its work convinced 
+that the pseudoscientific racist theories of superior and inferior peoples were correct and 
+that the more recent immigrants from southern and eastern europe were not capable of 
+becoming successful americans (ibid., 55). despite the fact that the data they collected 
+did not support their preconceived notions about these immigrant groups, members of the 
+commission made policy recommendations based on their nativist assumptions. published 
+in 1911, their report endorsed the exclusion of undesirable classes, races, and ethnicities, 
+but advocated a literacy test and a tax for all immigrants as an effective tool for achieving 
+this exclusion. with the support of the dillingham commission findings and a refreshed 
+xenophobia after the onset of the first world war, the 1917 immigration act established a 
+literacy requirement and a head tax on all migrants entering the united states. 
+even though the literacy tests were created in order to filter out the majority of the new 
+immigrants, it became apparent in the late 1910s that these measures were not achieving 
+their goals. between 1918 and 1921, only about 1,500 people per year were kept out of 
+the country based on illiteracy (howland 1929, 444). in response, legislators began to take 
+definitive steps towards the installation of a quota system that would limit immigration 
+based on the national origins of immigrants. 
+taking  inspiration  from  the  results  of  the  dillingham  study,  the  emergency  quota act 
+took effect on june 3, 1921. the act restricted all immigration from europe and european 
+colonies, excluding most countries in the western hemisphere. from each of the restricted 
+european countries, immigration was limited to three percent of the number of foreign-
+born persons from that country resident in the united states at the time of the 1910 census. 
+even  this  unprecedented  legislation  did  not  satisfy  the  nativist  agenda,  as  immigration 
+rates did not fall quickly enough. to strengthen the restrictions, the johnson-reed act of 
+1924 set even more explicit prohibitions against immigrants based on their nationality, 
+establishing an annual limit of 150,000 on immigration from europe, prohibiting japanese 
+immigration entirely, and installing even more specified quotas that restricted immigration 
+from any specific country to two percent of the number of foreign-born persons from that 
+country at the time of the 1890 census. 
+
+2   also see description in howland (1929, 431).
+
+223
+
+making america 1920 again? nativism and us immigration, past and presentonce the law took effect in 1929, it effectively ended the great wave of new european 
+immigration that had begun in the last quarter of the nineteenth century. while immigration 
+from  great  britain,  ireland,  germany,  and  the  scandinavian  countries  was  relatively 
+unrestricted, southern and eastern european immigration was dramatically reduced, causing 
+the overall numbers of immigrants to decline steeply. from a high of over 800,000 in 1921, 
+european immigration dropped to 700,000 in 1924, to 300,000 per year from 1925 until 
+1928, and to less than 150,000 by the end of the decade (jones 1960, 279). throughout 
+the 1920s, though, another immigrant group was coming to the united states in increasing 
+numbers.
+
+nativism and mexican immigration
+the restrictive legislation that was crafted in response to asian and european immigration 
+in the united states was also notable for a significant omission. although mexico had 
+become one of the most important new sources of immigration to the united states after 
+1890, mexican immigration went almost unrestricted until the late 1920s. this was not 
+because american nativists were more tolerant of mexicans than of other immigrants. on 
+the contrary, mexicans were often portrayed as even less desirable, from a racial standpoint, 
+than europeans. despite this, economic factors prevented immigration legislation from 
+affecting mexicans for almost four decades. 
+between 1890 and 1917, the expanding railroad system and the emergence of new industries 
+in the southwest and midwest led to an increase in the demand for labor (rosales 1978; 
+cardoso 1980, 18-20). as noted above, however, asian immigration had begun to decline 
+following the chinese exclusion act of 1892. further restriction of european and asian 
+immigration, both before and after world war i, created new openings for mexican labor. 
+as a result, patterns in mexican employment changed greatly during this period. whereas 
+mexicans had worked in agriculture, railroads, and mining prior to the war, afterwards they 
+could be found in automobile factories, steel and meatpacking plants, stockyards, and the 
+service and transportation industries. settlement patterns at this time also became more 
+urbanized and geographically dispersed. migrants no longer remained in the agricultural 
+southwest, where competition had lowered wages, but instead began to settle in urban 
+areas in california, texas, and the midwest as well. by the end of 1917, policymakers in 
+the united states had become aware that almost every sector of the economy . . . depended 
+heavily on the bracero (cardoso 1980, 51). this pattern only intensified after the new 
+immigration quotas were applied in 1921 and 1924.
+the  increased  presence  of  mexican  migrants  in  the  united  states  drew  out  the  same 
+xenophobia and nativism that had been directed towards asians and europeans. nativist 
+groups and labor organizations were vocal in their advocacy for legislative restrictions 
+of  mexican  immigration.  opponents  to  mexican  migration  argued  that  the  mexicans 
+indian blood would pollute the nations genetic purity, and his biologically determined 
+degenerate character traits would sap the countrys moral fiber and corrupt its institutions 
+(reisler 1976, 38).  as with other immigrant groups, nativists argued that the differences 
+between  mexicans  and  the  native  population  would  prevent  mexican  immigrants  from 
+ever assimilating in mainstream society. 
+
+224
+
+journal on migration and human securitydespite  the  forcefulness  of  the  nativists  pleas  to  restrict  mexican  immigration,  the 
+agricultural and industrial lobbies put significant pressure on lawmakers to waive mexican 
+nationals from the requirements of the immigration laws of the 1910s and 1920s. for example, 
+although literacy tests required by the immigration act of 1917 could have severely limited 
+mexican immigration, they were not applied to immigrants from the western hemisphere. 
+the immigration acts of 1921 and 1924, as well, did not apply to this group of immigrants 
+and thus did not limit the entrance of mexican workers. mexican migration, therefore, 
+continued in the patterns established during world war i and increased in volume and 
+geographic distribution. by 1929, mexican migration had spread even further throughout 
+the country (cardoso 1980, 82-92). 
+by  the  end  of  the  1920s,  however,  the  nativist  drumbeat  grew  impossible  to  ignore. 
+between 1926 and 1930, there were numerous discussions in government and the media 
+about whether to apply the immigration quotas of the 1921 and 1924 laws to mexicans 
+ one proposed measure, the box bill of 1926  would have included mexicans in the 
+quota system. pressure from agricultural and economic interests kept such legislation from 
+becoming enacted, but only as long as the economy remained strong. 
+in the end, while national origins quotas were never rewritten to include immigrants from 
+the western hemisphere, immigration from mexico declined steeply anyway. in 1929, as 
+the stock markets crashed and unemployment began to rise, native-born us citizens targeted 
+mexican immigrants. across the country, local and federal officials launched repatriation 
+drives  raids and campaigns to deport mexican immigrants back to mexico. 
+in cities and towns across the united states, mexican workers and their families were 
+pressured (and in many cases, forced) to return to mexico. many of them had entered the 
+united states legally, and many  especially their children  were american citizens. 
+the repatriation campaigns expelled hundreds of thousands of mexicans (some estimate 
+as many as 1.8 million), and continued throughout the 1930s, in what historian francisco 
+balderrama has labeled a decade of betrayal (balderrama and rodriguez 2006).3 
+
+immigration and nativism in the united states, 1930 to 
+present
+the  steep  decline  in  asian,  european,  and  mexican  migration  after  1929    and  the 
+immigration  legislation  that  precipitated  it    marked  a  watershed  moment  in  us 
+immigration  history.  for  the  next  four  decades,  throughout  the  great  depression,  the 
+second world war, and the cold war, the number of immigrants would decline steadily, 
+and by 1970, the proportion of immigrants as a percentage of the us population reached 
+4.7 percent, the lowest point since at least 1850.4
+once again, mexican immigration proved an exception to this trend. as mentioned above, 
+immigrants from the western hemisphere were excluded from the quotas, and labor was 
+greatly needed in the immediate post-war period. to address this issue, the us and mexican 
+
+3   for the statistic on 1.8 million, see wagner (2017). 
+4   for us census data on migration, see campbell and lennon (1999). see also migration policy institute 
+(n.d.). 
+
+225
+
+making america 1920 again? nativism and us immigration, past and presentgovernments created the bracero program (1944-64), which brought mexican migrants 
+to the united states as legal temporary guest workers. at its peak, nearly 50,000 farms 
+employed more than 400,000 mexicans per year (rosenblum et al. 2012). the program had 
+many administrative problems, however, and undocumented migration from mexico also 
+increased concurrently. millions of mexican migrants without papers were then targeted for 
+frequent deportation drives, such as during operation wetback in 1954. mexican laborers 
+have been the primary target for periodic deportation drives ever since.5
+the end of the bracero program coincided with the immigration and nationality act of 
+1965, which marked a momentous change not only for mexican migrants, but of the entire 
+migration landscape in the united states. the new law put an end to the quota system, 
+and replaced it with a preference based on family relationships and professional skills. 
+throughout  the  1980s,  1990s,  and  2000s,  the  number  and  percentage  of  immigrants 
+rose continuously and steeply, and the ethnic makeup of the newest wave of immigrants 
+changed significantly, with immigration from asia and the americas eclipsing immigration 
+from europe (chishti, hipsman, and ball 2015). additionally, the united states had begun 
+welcoming  refugees  after  the  displaced  persons act  of  1948  (although  congress  only 
+standardized the placement of refugees after 1980, with the refugee act of 1980).
+for  mexicans  and  other  migrants  from  the  western  hemisphere,  the  1965  act  also 
+contributed to a steep rise in undocumented immigration, since it established a numeric 
+cap on immigration from the western hemisphere. other factors also played a role in the 
+growth of the undocumented population, such as the termination of the bracero program in 
+1964 and population growth in mexico and many other latin american states, combined 
+with limited employment opportunities and stagnant wages. at the same time, the united 
+states  experienced  growth  in  the  agricultural  and  service  sector.  these  factors  pushed 
+undocumented migration from mexico and other countries in the americas to new heights 
+in the 1980s and 1990s (with mexicans forming the largest single group of undocumented 
+immigrants). since the 1990s, the united states also saw an increase in the undocumented 
+immigrant population from other regions of the globe (passel and cohn 2016). 
+us lawmakers passed a series of laws over these two decades in order to attempt to address 
+the issue. the first of these was the immigration reform and control act of 1986 (irca), 
+which created sanctions for employers of undocumented immigrants, while also providing 
+paths to legalization for some immigrants. subsequent legislation, such as the immigration 
+act of 1990 and the illegal immigration reform and immigrant responsibility act of 1996, 
+authorized increased resources for border enforcement and expanded the criminal grounds 
+of removal, among other measures (rosenblum et al. 2012).
+despite  these  reforms,  mexican  undocumented  migration  increased  steadily  until  the 
+mid-2000s, as did migrant deaths along the border. beginning in late 1993, an intensified 
+border patrol presence at traditionally heavy crossing routes prompted mexicans and other 
+migrants to cross in more remote and perilous areas (clinic 2001, 5-15). while mexican 
+migration has slowed in the past decade (due to largely changing demographic trends in 
+mexico), violence and poverty in central america, as well as economic and political factors 
+
+5   for an anthropological study of the effects of drives on mexican immigrants and their families, see boehm 
+(2016).
+
+226
+
+journal on migration and human securityelsewhere, have continued to fuel undocumented immigration (ibid). thus, undocumented 
+immigration to the united states remains a persistent political, social, and human rights 
+challenge. 
+by  2015,  immigrants  made  up  13.5  percent  of  the  us  population    a  proportion  not 
+seen since 1920. today, the united states finds itself at a historical moment that bears 
+some resemblance to the 1920s: it is experiencing a second great wave of immigration 
+(greico 2014). unfortunately, it is also experiencing another great wave of nativism. once 
+again, the newest generation of immigrants  many of them from latin america, asia, the 
+middle east, and africa  are subject to nativist suspicions that they are too different from 
+previous waves of immigrants to assimilate, and that they therefore represent a threat to the 
+native-born population (schrag 2010, 163-93). since september 11, 2001, politicians and 
+the media have increasingly framed undocumented immigration and refugee resettlement 
+as a national security threat, as well.6
+it is up for debate whether todays nativism is a new phenomenon, or whether it is simply 
+a  persistent  current  that  has  been  present  throughout  the  last  century.  certainly,  the 
+earlier nativism persisted well after the restrictionist laws of the 1920s were enacted and 
+implemented. one only has to review the racial history of the 1930s, when the united 
+states provided a fertile field for individual economic and social crackpots and rabble-
+rousers, left and right . . . who worked xenophobia, racism, nativism, and anti-semitism 
+with renewed vigor (ibid., 145). among the most vocal opponents of immigrants were 
+gerald l. k. smith, founder of the america first party, and irish catholic priest charles 
+coughlin,  whose  xenophobic  weekly  radio  show  railed  against  jewish  immigrants  in 
+particular. and certainly, nativism played a role in the refusal of the us public to accept 
+jewish refugees from the second world war; in public acceptance of japanese internment 
+camps during the same period; in the continued deportations of mexican migrants; and 
+in resistance to the resettlement of vietnamese refugees in the 1970s, to name just a few 
+examples (kraut 2016).
+yet, there are also differences between the two eras. todays nativism, for example, is 
+less likely to be directed at europeans, asians, and catholics, but rather at undocumented 
+immigrants, the majority of whom are mexican and central american, and at muslims.  
+the current rhetoric against undocumented immigrants centers on the charges that they 
+are an economic drain on society (because of the perception that they take the jobs of 
+the native-born and disproportionately use government resources, without paying taxes) 
+and that they are dangerous (because of the perception that they commit crimes at higher 
+rates than the native-born). these charges certainly hearken back to the rhetoric against 
+poor  southern  and  eastern  europeans  during  the  early  twentieth century. they  are  also 
+demonstrably false.7
+the nativist case against muslim immigrants also bears some resemblance to nativism 
+a century ago. in general, those opposed to muslim immigration claim that this group is 
+
+6    in  the  wake  of  9/11,  the  us  customs  service  and  the  immigration  and  naturalization  service  were 
+subsumed by the department of homeland security (created in 2003) and reorganized as us immigration 
+and customs enforcement. 
+7   on jobs, see national academies of sciences, engineering, and medicine (2016), on taxes, see gee et al. 
+(2017), and on crime, see hickman and suttorp (2008). 
+
+227
+
+making america 1920 again? nativism and us immigration, past and presentunassimilable: that muslims come from a culture that is too different to that of the native-
+born; and that they cling to their culture, religious traditions, and language without adapting 
+to american culture. by this rationale, the presence of muslim immigrants poses a threat to 
+the christian identity of the united states. this echoes the similar claims about immigrants 
+from china, japan, korea, and other asian countries during the 1870-1940 period, as well 
+as to the anti-semitism of the same period, and even to nativist fears about catholics during 
+the nineteenth century.8 additionally, muslim immigrants are perceived by nativists to be 
+inherently  dangerous  because  of  their  purported  links  to  religious  extremists    a  fear 
+that echoes historical fears about the potentially dangerous political affiliations of specific 
+immigrant groups during the early twentieth century. as historian peter schrag (2010, 196) 
+puts it, the anarchist rats and the mafiosi swimming off the ships in new york harbor a 
+century ago have become arab terrorists wading across the rio grande.
+certainly, anti-muslim nativism has spiked in the years since september 11, when muslims 
+have become inextricably linked to the threat of terrorism in the american public sphere. 
+with  this  focus  on  difference  and  danger,  nativists  group  all  muslims  together,  failing 
+to account for the wide degree of cultural difference among muslims worldwide, or to 
+distinguish between the tiny minority that participate in terrorist acts and the vast majority 
+that do not, despite the fact that surveys of muslim american attitudes show extremely low 
+levels of acceptance for religious extremism (pew research center 2007).9 
+just  as  they  were  during  the  early  twentieth  century,  todays  nativists  are  vocal  and 
+organized. anti-immigrant organizations such the federation for american immigration 
+reform (fair) and numbersusa have been instrumental in disseminating skewed statistics 
+and misinformation about immigrants and lobbying for stricter immigration legislation. 
+many of todays most vociferously anti-immigrant groups are also explicitly promoting a 
+racialized vision of a european america in which nonwhites are excluded from entry. 
+the founder of fair, john tanton, has written and spoken admiringly of eugenics and 
+eugenic policies.10 academics such as samuel huntington have lent credence to these calls 
+for a whitened society (much as madison grant and the dillingham commission did at the 
+turn of the twentieth century) and controversial public figures such as lou dobbs and ann 
+coulter broadcast these ideas far and wide in the media, just as father coughlin did in the 
+1930s. 
+todays nativists, however, have an outlet that earlier generations did not: a president who 
+not only seems to agree with many of their arguments, but who also stokes the flames of 
+this nativism so explicitly and aggressively. trumps nativist statements are too numerous 
+to count, but they tend to target undocumented immigrants and muslims. most recently, he 
+announced the foundation of victims of immigrant crime engagement office (voice), 
+a  subgroup  within  the  department  of  homeland  security  that  will  work  with  victims 
+of  crimes  committed  by  undocumented  immigrants    thereby  emphasizing  nativist 
+claims that criminalize undocumented immigrants and view them as an inherent threat to 
+the majority population (kopan 2017). he has also tweeted directly about the purported 
+
+8   for a useful overview of nativism as it relates to christianity in the united states, see payne (2017). 
+9   for the perspective of a secular muslim woman who feels unable to define herself as such, see el amine 
+(2017). 
+10   see campos (2014, 142-44) and people for the american way (2015). 
+
+228
+
+journal on migration and human securitydangers of muslim immigrants, and spoken publically about the possibility of establishing 
+a database for muslims in the united states, thus helping to reinforce nativist perceptions 
+about this group, as well.11 
+
+counteracting nativism: some final reflections
+what can proponents of a robust immigration system do to counteract this rising tide of 
+nativism? one way to do so would be to analyze and discuss the costs associated with 
+nativism. the nativism of the 1870-1940 period came at a social, cultural, financial, and 
+moral cost to society. the case of jewish refugees who were turned away during the second 
+world war is particularly compelling when one contemplates the historical and contemporary 
+contributions of americas jewish immigrants to american culture, scholarship, economy, 
+and society. the same can be said for the innumerable other ethnic and national groups 
+that were denied entry after 1924, or whose integration and prospects were stymied by 
+other discriminatory policies. repeated deportations of mexican immigrants over the past 
+century, for example, have not only traumatized deportees and their families, but have also 
+produced no positive effects on wages for the native-born (clemens, lewis, and postel 
+2017).
+studies  of  more  contemporary  immigration  restrictions  likewise  indicate  that  nativist 
+immigration policies, such as mass deportation, come at a steep cost to american society.12 
+the trump administrations recent executive orders have already begun to create measurable 
+costs for us colleges and universities (in the loss of tuition from immigrant students) and 
+for the tourism sector, as foreign visitors are discouraged from visiting (nasiripour and 
+lambert 2017; muther 2017).
+importantly, however, information about the costs of nativism must be disseminated to 
+a broader audience, which is a difficult challenge in americas ideologically segmented 
+media landscape. indeed, there is no shortage of scholarship on the benefits of immigration, 
+but the message is not resonating with large segments of american society.13 more work 
+should be done to publicize the economic, social, and cultural contributions of muslim 
+immigrants, undocumented workers, and other groups targeted by todays nativist policies. 
+for example, a recent new york times article on the essential role of refugees in regenerating 
+the economy of small towns in upstate new york illustrates how immigration could be 
+reframed as something that has direct and tangible benefits for society (mckinley 2017). 
+in addition, politicians, government officials, civic leaders, scholars, and journalists must 
+do more to educate the public on the costs of nativism and to address the fears that underlie 
+nativist beliefs. a growing effort to understand the concerns of the so-called white working 
+class that were instrumental to the election of donald trump will hopefully produce more 
+information on how to address and respond to nativism within that group (molyneux 2016).
+
+11   for two relevant twitter posts by trump, see trump (2017a): interesting that certain middle-eastern 
+countries agree with the ban. they know if certain people are allowed in its death & destruction!; and trump 
+(2017b):  because the ban was lifted by a judge, many very bad and dangerous people may be pouring into 
+our country. a terrible decision. for more on his statements about a muslim registry, see abramson (2016).
+12   see, for example, warren and kerwin (2017).
+13   on the benefits of immigration, see west (2011).
+
+229
+
+making america 1920 again? nativism and us immigration, past and presentnativism might also subside when a broader cross section of the us electorate experiences 
+the  costs  of  the  new  restrictionist  measures  and  ceases  experiencing  the  benefits  of 
+immigration. if immigration restrictions continue, such losses  whether in the form of 
+higher cost goods and services, labor costs, cultural production, and innumerable other 
+tangible and intangible benefits  will be felt more widely in the months and years to come. 
+on the other hand, however, studies have shown that nativism increases during times of 
+economic hardship, and so it is possible that the economic costs of immigration restrictions 
+might actually fuel nativism, rather than mitigate it (goldstein and peters 2014).
+demographic developments may possibly help to divert or subdue the current nativist turn, 
+particularly as they impact the electorate. perhaps when those costs and benefits become 
+more apparent, both immigrants and the native-born will begin to mobilize for political 
+change, as was the case in california during the 1990s when the passage of proposition 
+187 inspired the mexican and latino immigrants it targeted to become politically active 
+and form coalitions with other immigrant groups, as well as white progressives (hemmer 
+2017). latinos were widely expected to form a definitive voting bloc in 2016, and although 
+the number of latino voters increased, it was ultimately not enough to elect the democratic 
+presidential candidate. still, it seems safe to assume that as the number of latino voters 
+increases, so too will the possibilities for political mobilization against nativist legislation 
+(krogstad and lopez 2016). 
+nevertheless, it is also important not to assume that progress is inevitable, and that nativism 
+will decline if only the right arguments are made to the right people. unfortunately, nativism 
+seems to spring anew with each new generation of americans. indeed, the very immigrants 
+who were the targets of nativism in the early twentieth century held their own prejudices 
+and biases about other groups. as peter schrag (2010, 140) points out, these immigrants 
+often  invoked  these  [ethnic  and  racial]  stereotypes  proudly,  sometimes  affectionately, 
+because it showed they were now also 100 percent american.
+indeed, adopting racist and exclusionary attitudes may be one way of assimilating in a 
+society that is still economically and culturally divided along racial lines. historians of 
+ethnicity and immigration have demonstrated that the concept of whiteness is flexible, 
+and that as some immigrant groups during the late nineteenth and early twentieth centuries 
+came to be considered (and to consider themselves) part of the white majority, they also 
+adopted the attitudes of that majority towards groups still considered to be nonwhite.14 it 
+stands to reason, then, that todays immigrants  as well as their children and grandchildren 
+ cannot be expected to automatically develop solidarity with other immigrant groups. 
+latinos, for example, are divided along political and national lines  and even immigrants 
+from the same country are sometimes divided by political developments in their homeland, 
+a factor i have discussed elsewhere.15
+for all of the historical and contemporary reasons discussed in this article, the task of 
+overcoming american nativism is a daunting one. nativism has a long and pervasive history 
+in the united states: in the words of alan kraut (2016), it is an american perennial. 
+it appears that the united states is once again entering an era in which nativism drives 
+
+14   see, for example, jacobson (1999).
+15   see young (2015).
+
+230
+
+journal on migration and human securitynational policy and legislation. thus, it may be too much to hope for an end to nativism. 
+it is perhaps more realistic to work towards preventing nativist immigration restrictions. 
+at  the  same  time,  opponents  of  nativism  must  continue  to  promote  the  principles  of 
+immigration  reform    reform  that  would  meet  the  needs  of americas  labor  market, 
+provide a path to legal entry for immigrants with talent and promise, respond adequately 
+to humanitarian needs and refugee flows, and work to legalize undocumented immigrants, 
+while  discouraging  and  preventing  future  undocumented  immigration.  reforms  such 
+as these would do much to combat nativism in the long run. achieving them, however, 
+will require a complex and multipronged approach, and must involve long-term political 
+mobilization and a more positive public discourse on immigrants and immigration. in this 
+way, the united states might achieve a better future, instead of returning to its nativist past.
+

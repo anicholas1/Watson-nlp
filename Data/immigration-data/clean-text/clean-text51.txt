@@ -1,0 +1,2495 @@
+structural violence and migrant 
+deaths in southern arizona: data 
+from the pima county office of the 
+medical examiner, 1990-20131
+
+daniel e. martnez
+the george washington university
+
+robin c. reineke
+university of arizona
+
+raquel rubio-goldsmith
+university of arizona
+
+bruce o. parks
+university of arizona
+
+executive summary 
+this article analyzes numeric trends and demographic characteristics of 
+undocumented  border  crossers  (ubcs)  who  have  perished  in  southern 
+arizona between 1990 and 2013 in the area covered by the pima county 
+office  of  the  medical  examiner  (pcome)  in  tucson,  arizona.  of  2,413 
+ubc decedents investigated during this period, 95 percent died after 1999 
+and 65 percent after 2005. the rate of ubc deaths in the tucson border 
+patrol sector has been consistently high, with an average of nearly 163 
+
+1  this article builds on a 2013 report released by the binational migration institute at the university of 
+arizona  which  provided  data  on  migrant  deaths  investigated  by  the  pima  county  office  of  the  medical 
+examiner from 1990-2012  (see martinez et al. 2013). it provides updated data on migrant deaths through 
+the fiscal year 2013 as well as updated demographic characteristics for migrants who have been positively 
+identified since the publication of the 2013 report. this research could not have been possible without the 
+dedicated and meticulous work of forensic professionals at the pima county office of the medical examiner, 
+now and in the past. the colibr center for human rights has provided invaluable data-management and 
+insight.  the  tucson-based  immigrant  rights  organization,  coalicin  de  derechos  humanos,  has  tracked 
+migrant deaths in arizona since 2003, providing the groundwork for this research.  studies completed by the 
+binational migration institute in the department of mexican american studies at the university of arizona 
+in 2006 and 2013 were generously supported by the pima county board of supervisors. the pima county 
+board of supervisors has also been very supportive of the pima county office of the medical examiner in 
+its efforts to investigate suspected unauthorized border crosser deaths.  we thank m. melissa mccormick 
+for her work on the 2006 report. thanks to inez m. duarte and kat rodriguez for their assistance in the data 
+collection and data entry process, to jessica hamar martnez and ricardo d. martnez-schuldt for looking 
+over early drafts of the article. we also thank the little chapel of all nations for their continued support. 
+we gratefully acknowledge the contributions of all those who have worked on the issue of migrant deaths 
+for years.
+
+ 2014 by the center for migration studies of new york. all rights reserved.jmhs volume 2 number 4 (2014): 257-286deaths  investigated  per  year  between  1999  and  2013.  the  increase  in 
+border enforcement during the mid-to-late 1990s, which led to a shifting 
+of unauthorized migration flows into more desolate areas, coincided with 
+an  increase  in  migrant  remains  investigated  by  the  pcome.  despite  a 
+decrease in the number of unauthorized crossers traversing the area as 
+measured by the number of border patrol apprehensions in the tucson 
+sector, the number of remains examined for every 100,000 apprehensions 
+nearly  doubled  between  2009  and  2011.  these  findings  suggest  that 
+migrants are being forced to travel for longer periods of time through remote 
+areas in an attempt to avoid detection by us authorities, thus increasing 
+the probability of death. 
+the typical ubc decedent can be described as a male near the age of 30 
+from central or southern mexico who perished in a remote area of southern 
+arizona after attempting to cross into the united states.  nevertheless, 
+the share of non-mexican ubcs in the region has increased notably over 
+time.  the  findings  show  other  important  differences  in  ubc  decedent 
+characteristics across time periods, which speak to the dynamic nature of 
+unauthorized migration as a social process. the authors contend that these 
+deaths and demographic changes are the result of structural and political 
+transformations over the past two decades. they argue that the tragic, yet 
+mostly preventable, migrant deaths in southern arizona constitute a form 
+of structural violence.  
+
+introduction
+the deaths2 of hundreds of unauthorized migrants each year along the us-mexico border
+particularly in southern arizonaremain high despite recent evidence that migration from 
+mexico has decreased dramatically since 2007 (passel, cohn, and gonzalez-barrera 2012; 
+massey 2012). conservative estimates3 from the us border patrol suggest that at least 
+6,029 migrants perished while attempting to cross the border across all sectors between 
+october 1, 1997 and september 30, 2013, however the true number of migrant deaths along 
+the border is not known. 
+this article provides estimates and a demographic profile of migrants who have perished 
+in southern arizona between 1990 and 2013 in the area covered by the pima county office 
+2  throughout this article we refer to unauthorized border crosser deaths investigated by the pima county 
+office of the medical examiner. the term deaths should be taken to mean recovered remains.  this 
+distinction must be noted as the true number of migrant deaths in southern arizona each year is not known.  
+further, it is possible that remains recovered in a given year may be of an individual who passed away in prior 
+years. nevertheless, for the sake of clarity, consistency, and compassion, we use the term deaths rather than 
+recovered remains.
+3  border patrol counts are considered by many to be incomplete. the clandestine nature of unauthorized 
+migration in tandem with local and regional inconsistencies in methodologies used challenge the availability 
+of complete counts. although it is almost certain that not every migrant who has died along the border will be 
+found, there are vast improvements which can be made at the local, regional, and national levels to increase 
+the reliability of such estimates. all data presented in this article pertain to migrant deaths investigated on the 
+us side of the us-mexico border and therefore underestimate the true number of migrant death occurring in 
+the border region.
+
+258
+
+journal on migration and human securityof  the  medical  examiner  (pcome)  in  tucson, arizona.  this  office  provides  medico-
+legal death investigation for the western two-thirds of the tucson border patrol sectors 
+southern border with mexico (anderson 2008).4 the pcome has been responsible for the 
+examination of over 95 percent of all migrant remains discovered in arizona since 2003 
+(coalicin de derechos humanos 2013). it continues to be the agency that investigates 
+the highest number of migrant deaths in the country, and as a consequence, handles more 
+unidentified  remains  per  capita than  any  other  medical examiners  office  in  the  united 
+states.5  data from the pcome is the most complete and comprehensive source on migrant 
+deaths available nationally.6  while the findings cannot be generalized beyond southern 
+arizona to other regions of the us-mexico border, they offer greater insight into a social 
+problem that has largely remained under-examined. 
+multiple interrelated structural and political factors have been identified in the literature as 
+contributing to the ongoing humanitarian crisis of migrant deaths in southern arizona: (1) 
+border enforcement and securitization practices initiated in the mid-1990s that effectively 
+pushed migration flows into the most remote and dangerous regions of the us-mexico 
+border (eschbach et al. 1999; cornelius 2001, 2005; rubio-goldsmith et al. 2006); (2) 
+neoliberal  economic  reform  during  1990s  that  displaced  hundreds-of-thousands  of 
+campesinos throughout mexico (polaski 2004; wise 2009; garcia zamora 2009; public 
+citizen 2014); (3) inadequate us immigration policies ill-equipped to deal with realities 
+of an increasingly globalized world; (4) the long history and socially-embedded culture 
+of migration in many regions of mexico (portes and sensenbrenner 1993); and (5) the 
+structurally-embedded demand for immigrant labor in the united states (cornelius 1998). 
+while there is insufficient data to test the net effect of the above-mentioned structural 
+and political transformations on migrant deaths over time, this paper discusses the ways 
+in which border enforcement and neoliberal reform contributed to these deathsboth of 
+which it argues constitute forms of structural violence. this paper situates estimates of 
+migrant deaths in southern arizona within a broader structural analysis in order to advance 
+the understanding of this problems causes, consequences, and solutions by policymakers.  
+
+border  enforcement  and  neoliberal  reform:  migrant 
+deaths as a form of structural violence
+this  section  examines  the  relationship  of  unauthorized  migration  flows  and  migrant 
+deaths to increased border enforcement efforts and neoliberal economic reform initiated 
+in the 1990s. patterns in unauthorized migration flows can help scholars to understand 
+fluctuations in migrant deaths along the border over time.  although not a precise measure 
+of unauthorized crossings, previous research has demonstrated that apprehension statistics 
+
+4  the pcome also conducts some medico-legal investigation of unauthorized migrants who have perished 
+in the yuma sector, although this is rare.
+5  arizona now ranks third in the nation, following california and new york, for the number of unidentified 
+remains  entered  into  the  national  missing  and  unidentified  persons  system  (namus),  but  ranks  first  in 
+probable migrant remains and known missing migrants.
+6  border patrol estimates, the one data source that does exist on migrant deaths based on systematic data 
+collection,  do  not  publically  provide  information  on  demographic  characteristics  of  the  deceased  or  a 
+breakdown of causes of death.  
+
+259
+
+migrant deaths in southern arizona are highly correlated and fluctuate with unauthorized migration flows (epenshade 1995).  
+figure 1 illustrates us border patrol apprehension statistics along the us-mexico border 
+from fy 1960-2013.  these data depict the volatile nature of unauthorized migration and 
+how these flows are susceptible to political and economic changes.  
+figure 1 shows that the number of apprehensions began to fall beginning in fy 1986, the 
+same year that the immigration reform and control act (irca) was passed. following 
+irca, scholars estimate that over 2.3 million unauthorized immigrants had gained lawful 
+permanent  residency  or  us  citizenship  by  1992  (massey,  durand,  and  malone  2002).  
+nevertheless, unauthorized crossing began to increase once again in fy 1990 and only 
+declined  for  a  period  of  one  year  in  fy  1994.  this  brief  decline  was  possibly  due  to 
+optimism surrounding discussions of the impending north american free trade agreement 
+(nafta), but also likely the result of a short-term deterrent effect of operation hold the 
+line, an enforcement program implemented by the border patrol in el paso, texas in 
+fy 1993. this program was followed by the implementation of operation gatekeeper 
+in san diego, california in fy 1994, operation safeguard in southern arizona in fy 
+1995, and operation rio grande in south texas in fy 1997.7 although some scholars 
+and policymakers contend that the recent decrease in apprehensions is a direct result of 
+heightened border security, the present analysis emphasizes the 2000-2001 recession and 
+the 2008 great recession as key factors contributing to this decrease. 
+as  seen  in  figure  1,  the  sharp  increase  in  apprehensions  between  fy  1994  and  1996 
+coincided not only with heightened border enforcement, but also with the implementation 
+of nafta in fy 1994. the aim of nafta was to reduce trade barriers between the united 
+states, canada and mexico, most notably in the agricultural sector of the economy. after 
+the elimination of agricultural tariffs and quotas between the united states and mexico, 
+us- based producers continued to receive government subsidies (wise 2010).  this allowed 
+us  producers  to  flood  the  mexican  market  with  heavily  subsidized,  cheap  agricultural 
+goods  ultimately  displacing  hundreds-of-thousands  of  mexican  laborers.  despite  the 
+optimism surrounding nafta, neoliberal economic reform had devastating consequences 
+for mexican campesinos as well as others tied to the agricultural sector of the economy.  
+as noted by timothy wise, 
+
+below-cost exports cost mexican producers of corn, soybeans, wheat, cotton and 
+rice an estimated $9.7 billion from 1997-2005, just over $1 billion per year.  corn 
+showed the highest losses.  average dumping margins of 19 percent contributed to a 
+413 percent increase in us exports and a 66 percent decline in real producer prices in 
+mexico from the early 1990s to 2005. (2010, 3)
+
+nafta ultimately forced campesinosmany the direct descendants of the first people on 
+the planet to domesticate cornto abandon farming altogether (public citizen 2014). a 
+7  operations hold the line, gatekeeper, safeguard, and rio grande are enforcement programs 
+first initiated and deployed by the us immigration and naturalization service in the early 1990s based on a 
+prevention through deterrence strategy to immigration enforcement (cornelius 2001; andreas 2009; ewing 
+2014). the aim of the operations was to deter would-be migrants by heavily enforcing historical crossing 
+corridors near the cities of el paso, texas, san diego, california, nogales, arizona, and in southeastern 
+texas. rather than be deterred, border crossers simply shifted their routes into more remote areas of the 
+border to avoid detection by immigration enforcement officials (cornelius 2001; andreas 2009).   
+
+260
+
+journal on migration and human security 
+r
+e
+d
+r
+o
+b
+ 
+t
+s
+e
+w
+h
+t
+u
+o
+s
+
+ 
+"
+n
+o
+i
+s
+s
+e
+c
+e
+r
+ 
+t
+a
+e
+r
+g
+"
+
+ 
+ 
+
+1
+0
+0
+2
+-
+0
+0
+0
+2
+
+ 
+ 
+
+n
+o
+i
+s
+s
+e
+c
+e
+r
+
+ 
+
+a
+t
+f
+a
+n
+
+ 
+"
+r
+e
+p
+e
+e
+k
+e
+t
+a
+g
+"
+ 
+&
+
+ 
+
+a
+c
+r
+
+i
+ 
+6
+8
+9
+1
+
+3
+1
+0
+2
+-
+0
+6
+9
+1
+ 
+y
+f
+
+ 
+,
+s
+n
+o
+i
+s
+n
+e
+h
+e
+r
+p
+p
+a
+
+ 
+l
+o
+r
+t
+a
+p
+ 
+r
+e
+d
+r
+o
+b
+s
+u
+
+ 
+
+ 
+ 
+.
+
+1
+
+ 
+
+e
+r
+u
+g
+i
+f
+
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+1989
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+1980
+1979
+1978
+1977
+1976
+1975
+1974
+1973
+1972
+1971
+1970
+1969
+1968
+1967
+1966
+1965
+1964
+1963
+1962
+1961
+1960
+
+0
+0
+0
+0
+0
+8
+1
+
+0
+0
+0
+0
+0
+6
+1
+
+0
+0
+0
+0
+0
+4
+1
+
+0
+0
+0
+0
+0
+2
+1
+
+0
+0
+0
+0
+0
+0
+1
+
+0
+0
+0
+0
+0
+8
+
+0
+0
+0
+0
+0
+6
+
+0
+0
+0
+0
+0
+4
+
+0
+0
+0
+0
+0
+2
+
+0
+
+261
+
+migrant deaths in southern arizona 2014 report by the nongovernmental organization public citizen, citing a 2008 news story 
+by the new republic, states that between 1993 and 2005 1.1 million small farmersand 
+1.4 million other mexicans dependent upon the farm sectorwere driven out of work 
+as a direct result of neoliberal reform. moreover, [w]ages dropped so precipitously that 
+today the income of a farm laborer is one-third that of what it was before nafta (public 
+citizen  2014,  21,  citing    judis  2008). a  report  published  by  the  carnegie  endowment 
+found that nafta contributed significantly to the loss of an estimated 1.3 million jobs 
+in  the  mexican  agricultural  sector  between  1993  and  2002  (polaski  2004,  17-20). the 
+link between neoliberalism and increased out-migration has been well-established in the 
+academic literature (see nevins and aizeki 2008; delgado-wise and mrquez covarrubias 
+2008).  this  structural  transformation  forced  many  people  to  leave  rural  communities 
+throughout mexico in search of work in urban areas within the mexican republic, including 
+in maquiladoras near the border, and across the border in the united states. 
+in addition, the direct link between increased border security and migrant fatalities has 
+been  extensively  outlined  in  the  scholarship  on  migrant  deaths  (eschbach  et  al.  1999; 
+eschbach, hagan, and rodriguez 2003; cornelius 2001, 2005, 2006; rubio-goldsmith et 
+al. 2006; jimenez 2009; martnez et al. 2013). the 1990s and 2000s witnessed dramatic 
+increases in the fortification of the us-mexico border as part of the prevention through 
+deterrence strategy (dunn 1996, 2009; andreas 1998, 2009; cornelius 2005; ewing 2014) 
+and  simultaneous  increases  in  reported  migrant  deaths  in  certain  regions  of  the  border 
+(cornelius  2001,  2005;  eschbach  et  al.  1999;  eschbach,  hagan,  and  rodriguez  2003; 
+rubio-goldsmith  et  al.  2006).8  previous  research  has  illustrated  that  segmented  border 
+militarization has resulted in the funnel effect, or the redistribution of migratory flows 
+away from traditional urban crossing points into remote and dangerous areas such as the 
+deserts of southern arizona (cornelius 2001, 2005; 2006; rubio-goldsmith et al. 2006; 
+jimenez 2009; martnez et al. 2013). the sonoran desert, which spans much of southern 
+arizona and northern sonora, mexico, is an ecologically diverse region characterized by 
+rugged terrain, pronounced elevation changes, and relatively little rainfall. temperatures 
+can reach 120 degrees fahrenheit during the summer months and drop below freezing in 
+the winter and, at higher elevations, in the spring and fall as well.  
+unauthorized migrants have not always died in high numbers while crossing the border 
+into southern arizona. between fiscal years9 (fy) 1990-1997 less than 12 percent of all 
+border  patrol  apprehensions  occurred  in  the  tucson  sector  (us  border  patrol  2014).  
+during this same time period the pcome only recorded the deaths of 84 undocumented 
+border crossers10 (ubcs)averaging around 11 per year. however, one consequence of 
+
+8  eschbach, hagan, and rodriguez (2003) illustrate that migrant deaths across the border did not necessarily 
+increase dramatically with heightened border enforcement efforts between 1985 and 2002. rather, there were 
+notable changes in specific causes of death as well as where people were dying along the border.
+9  in this article all data and figures are reported according to the federal fiscal year which begins on october 
+1st and ends on september 30th. this allows for the making of reasonable comparisons between migrant 
+deaths and the enforcement efforts of the department of homeland securitys customs and border protection.
+10  in this article, the terms undocumented border crosser (ubc) or unauthorized migrant will be used to 
+refer to foreign-born, non-us citizens actively involved in crossing the border without proper authorization 
+from  the  united  states  government.  because  this  study  does  not  analyze  the  deaths  of  immigrants  who 
+are  established  in  the  united  states  and  not  actively  involved  in  crossing  the  border,  the  standard  term 
+unauthorized immigrant is not used.
+
+262
+
+journal on migration and human securitythe funnel effect was that the tucson sector became the single most traversed crossing 
+corridor for unauthorized migrants along the us-mexico border between fy 1998-2012, 
+with 37 percent of all apprehensions occurring in the sector during this time period (us 
+border patrol 2014). according to data compiled by border patrol, 38 percent of all known 
+migrant  deaths  along  the  entire  border  between  fy  1998-2012  occurred  in  the tucson 
+sector.
+by the end of fy 2013, the rio grande valley sector in texas (formerly known as the 
+mcallen sector) had become the most traversed crossing corridor, with apprehensions in 
+that region increasing by 161 percent between fy 2011 and 2013. much of this increase 
+has been driven by a surge in central americans crossing through south texas during this 
+time period (isacson and meyer 2013).  yet people continue to cross through southern 
+arizona in high numbers. in fy 2013 the tucson sector was the second most traveled 
+region by ubcs along the entire border, with 120,939 apprehensions or 29 percent of all 
+southwestern apprehensions. however, border patrol data suggest that 43 percent of all 
+known deaths across the us-mexico border occurred in the tucson sector in fy 2013. 
+it is precisely the redistribution of migration flows into southern arizona stemming from 
+heightened border enforcement over the past 20 years that has led to an increase in migrant 
+remains investigated by the pcome. 
+figure  2  illustrates  apprehensions  in  the  san  diego,  el  paso, tucson,  and  rio  grande 
+valley  sectors  between  fy  1960-2013.  increased  unauthorized  migration  flowsand 
+deathsin  southern arizona  have  been  an  outcome  of  a  series  of  border  enforcement 
+efforts that redistributed unauthorized migration flows away from urban crossing points 
+into remote desert areas. the implementation of operation hold the line in 1993 in el 
+paso and operation gatekeeper in san diego in 1994 coincided with the implementation of 
+nafta. this had devastating consequences for displaced agricultural workers in mexico 
+seeking work in the united states who were essentially forced to traverse hot, remote, 
+dangerous terrain in southern arizona to support themselves and their families.
+this paper argues that because migrant deaths result from particular structural and political 
+conditions, they constitute a form of structural violence, as first theorized by peace studies 
+scholar johan galtung (1969) and later further articulated by medical anthropologist paul 
+farmer  (2003),  sociologist  eric  klinenberg  (2002),  geographer  joseph  nevins  (2003, 
+2005, 2007), and sociologist david spener (2009). these deaths are representative of what 
+paul farmer calls biological reflections of social fault lines, describing the way in which 
+violence is manifested on the human body in the form of disease and illness caused by 
+social problems (2003,5). they have, like the deaths from the 1995 chicago heat wave 
+analyzed by eric klinenberg, a social etiology, which no meteorological study, medical 
+autopsy, or epidemiological report can uncover (2002,11).  
+galtung argues that because structural violence does not necessarily involve a perpetrator 
+and a victim, it is less visible than direct violence.  for this reason, it often goes unnoticed, 
+or is seen as about as natural as the air around us (galtung 1969, 173). just like massive 
+numbers of deaths from curable diseases, death on the border runs the intellectual risk of 
+being medicalizedbroken down into component parts rather than analyzed as a structural 
+and structured phenomenon.  
+
+263
+
+migrant deaths in southern arizona  
+r
+o
+t
+c
+e
+s
+
+ 
+
+y
+b
+
+ 
+,
+r
+e
+d
+r
+o
+b
+ 
+t
+s
+e
+w
+h
+t
+u
+o
+s
+
+ 
+,
+s
+n
+o
+i
+s
+n
+e
+h
+e
+r
+p
+p
+a
+
+3
+1
+0
+2
+-
+0
+6
+9
+1
+ 
+y
+f
+
+ 
+l
+o
+r
+t
+a
+p
+ 
+r
+e
+d
+r
+o
+b
+
+ 
+ 
+.
+
+2
+
+ 
+
+e
+r
+u
+g
+i
+f
+
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+1989
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+1980
+1979
+1978
+1977
+1976
+1975
+1974
+1973
+1972
+1971
+1970
+1969
+1968
+1967
+1966
+1965
+1964
+1963
+1962
+1961
+1960
+
+y
+e
+
+l
+l
+
+ 
+
+a
+v
+e
+d
+n
+a
+r
+g
+o
+r
+
+i
+
+ 
+
+n
+o
+s
+c
+u
+t
+
+i
+
+o
+g
+e
+d
+n
+a
+s
+
+ 
+
+o
+s
+a
+p
+
+ 
+l
+
+e
+
+0
+0
+0
+0
+0
+7
+
+0
+0
+0
+0
+0
+6
+
+0
+0
+0
+0
+0
+5
+
+0
+0
+0
+0
+0
+4
+
+0
+0
+0
+0
+0
+3
+
+0
+0
+0
+0
+0
+2
+
+0
+0
+0
+0
+0
+1
+
+0
+
+264
+
+journal on migration and human securitygaltung  theorizes  another  form  of  violence,  cultural  violence,  which  he  describes  as 
+any aspect of a culture that can be used to legitimize violence in its direct or structural 
+form (1990, 291). the dominant discourse surrounding unauthorized migrationnamely 
+that migrants willingly cross into the united state without papers and are thus ultimately 
+responsible for their own deathsserves as a form of cultural violence that normalizes 
+the deaths and blames the victim (galtung 1990; spener 2009). this normalization has 
+contributed to a lack of analysis of the causes of these deaths and, in turn, has impeded 
+efforts to quantify and track migrant deaths along the border in a transparent manner.   
+
+migrant  deaths  in  southern  arizona:  cause  of  death, 
+identification rates, and demographic characteristics
+this article provides information from pcome records between 1990 and 2013 on the 
+following factors relevant to ubc deaths in southern arizona: confirmed cause of death; 
+identification rates; and demographic characteristics including sex, age, and place of origin. 
+
+cause of death
+
+the analysis groups each migrants cause of death into five possible categories: exposure 
+to the elements; homicide; motor vehicle accident; other; and undetermined. the use of 
+the term cause of death is a deviation from the conventional use by medical examiners 
+to  describe  the  disease  or  trauma  that  directly  caused  an  individuals  biological  death. 
+examples  of  cause  of  death  as  used  by  medical  professionals  include  exposure  to  the 
+elements,  gunshot  wound  of  the  head  and  blunt  force  impact  of  the  torso.  manner  of 
+death,  however,  describes  how  the  death  came  about,  and  includes  the  categories  of 
+natural,  accident,  suicide,  homicide,  or  undetermined.  strictly  speaking,  the  manner  of 
+death for a migrant who was lost or left behind in the desert while crossing and succumbed 
+to the elements would be accidental, while the cause of death would be hyperthermia.  for 
+the sake of clarity and parsimony, this article uses elements from the definitions of both 
+terms to construct the cause of death categories that are most relevant for the population 
+under study.  although the analysis includes cases which list other or undetermined as the 
+cause of death, the discussion is limited to the differences between exposure, undetermined, 
+motor vehicle accident, and homicide as these are the most prevalent causes of death for 
+unauthorized migrants attempting to cross the border without proper authorization.  
+
+identification rates
+
+thirty-four percent of all the cases (people) categorized as ubcs by the pcome between 
+1990 and 2013 remained unidentified at the publication of this article.  unidentified remains 
+pose  a  methodological  challenge  for  researchersthe  issue  of  missing  information.  
+successful  identification  is  essential  for  ascertaining  information  for  some  variables  of 
+interest in this study. for instance, it is possible to determine the  sex of an unidentified 
+individual,  but  impossible  to  establish  their  precise  age  at  the  time  of  death  or  their 
+hometown.  because more complete information exists for some variables than for others, 
+sample sizes for different factors vary. 
+
+265
+
+migrant deaths in southern arizona demographic characteristics
+
+records from the pcome contain information on important demographic characteristics of 
+ubcs who have perished in southern arizona. this article provides estimates of migrants  
+sex, age, and place of origin.  as noted above, while  sex is likely to be determined during a 
+medical investigation, ascertaining a persons exact age and place of origin are contingent 
+upon the success of identification.
+the extant literature on unauthorized migration finds that a migrants place of origin plays 
+an important role in shaping the reasons people migrate, how and where along the border 
+they  may  attempt  a  crossing,  as  well  as  their  desired  destination  (massey,  durand  and 
+malone 2002; durand and massey 2003). on place of origin, the present analysis provides 
+information on two levels: country-level and region-level.  thirteen different latin american 
+countries are represented among the ubc deaths investigated by the pcome; however 93 
+percent of decedents originate in mexico, guatemala, el salvador, and honduras, with 82 
+percent from mexico.  
+the analysis also distinguishes between regions of origin among mexican ubcs. durand 
+and  massey  (2003)  identify  four  important  migrant  sending  regions  in  mexico:  north; 
+west-central (also known as the traditional or historical region); central; and south-
+southeastern. these regional designations are actively used by mexicos consejo nacional 
+de poblacin (conapo) when discussing mexico-us migration. this analysis follows 
+suit by examining these same sending regions.  in sum, it provides information on mexican 
+decedents region of origin while also differentiating between mexican and non-mexican 
+ubcs.
+
+data and methods
+data  examined  in  this  study  were  collected  from  computerized  decedent  records  of 
+unauthorized migrants at the pcome. a team of researchers from the binational migration 
+institute (bmi) began compiling data on ubc deaths using pcome records in october 
+of 2005 and continue to do so to this day. data analyzed include all known migrant death 
+cases investigated by the pcome between fy 1990 and fy 2013 (n = 2,413).  
+beginning in 2001, the pcome adopted a new record keeping system that allowed medical 
+examiners and investigators to record significantly more detailed information within each 
+decedent report.  also at this time, the pcome began to classify individuals believed to be 
+unauthorized migrants as undocumented border crossers or ubcs, which, as defined by 
+the pcome forensic anthropologist and former chief medical examiner, are individuals of 
+foreign nationality who died while crossing the border clandestinely (anderson and parks 
+2008). this coding is predictive, meaning it simultaneously weighs several factors before 
+classifying a decedent as a ubc, especially when it comes to skeletonized remains. this 
+coding scheme allows unidentified decedents matching certain characteristics consistent 
+with those of unauthorized migrants in transit to be included in ubc estimates. for the data 
+presented in this article, researchers carefully reviewed and scrutinized each individual 
+medical investigator report before 2001 and concluded whether or not the individual was 
+an  ubc. the  methods  used  to  make  this  determination  follow  the  pcome  criteria  to 
+assess whether or not an individual was an unauthorized migrant, as do other studies that 
+
+266
+
+journal on migration and human securityused pcome records (keim et al. 2006; sapkota et al. 2006).
+factors  considered  to  determine  ubc  classification  following  the  pcome  criteria 
+include, but are not limited to, the individuals place of origin, ethnicity/ancestry, surname, 
+possession  of  a  permanent  us  address  or  social  security  number,  clothing  or  personal 
+effects (including foreign currency and identification cards), association with a group of 
+unauthorized  migrants,  and  geographic  location  of  discovery.  each  case  was  reviewed 
+several  times  and  the  decedent  was  only  classified  as  a  ubc  if  significant  supporting 
+evidence was present. unidentified skeletal remains recovered from remote high migrant-
+traffic areas were considered unauthorized migrants.  
+as noted, the coding used by the pcome to classify someone as a ubc is predictive. 
+the researchers acknowledge that this may slightly over-represent the number of migrant 
+deaths,  however,  to  exclude  data  on  unidentified  ubcs  would  be  to  drastically  under-
+report the true number of deaths. it should also be noted that it is impossible to say in 
+some instances whether an individual was traveling into mexico rather than out of mexico.  
+although likely a rare occurrence, there has been at least one confirmed instance where 
+this was the case.
+
+results and discussion
+
+estimated number of deaths
+
+between  fy  1990  and  2013,  the  pcome  examined  the  remains  of  2,413  migrants. 
+approximately one-third of these decedents, or 820 cases, remained unidentified at the 
+publication of this article, and thus their status as unauthorized migrants is predicted rather 
+than  certain. as  discussed  previously,  an  increase  in  border  enforcement efforts  during 
+the mid-to-late 1990s redistributed unauthorized migration flows into more desolate areas 
+along the us-mexico border, including southern arizona (cornelius 2001, 2005; 2006; 
+rubio-goldsmith et al. 2006; martnez et al. 2013). the data from the pcome indicate 
+that the number of deaths in the tucson sector remains high.  figure 3 illustrates that the 
+funnel effect continues unabated, with an average of nearly 163 deaths occurring each year 
+since 1999, while an average of only 12 occurred annually between 1990 and 1999.
+while it is possible that skeletonized or highly decomposed remains recovered in one year 
+may relate to deaths which occurred in prior years, post mortem intervals (pmi)which 
+customarily are reported as the probable range of time lapsing from the time of death to 
+the  time  of  recoverysuggest  that  this  is  typically  not  the  norm.  for  instance,  among 
+ubc cases in which a pmi was assigned (n = 769), the median low-end estimated pmi 
+is six months, while the median high-end estimated pmi is 11 months. in other words, 
+while there is certainly some fluctuation in annual ubc death counts in terms of the year 
+in which the death occurred, the pcome on average is not investigating deaths of ubcs 
+from decades ago (although the mean pmi has increased slightly over the past few years).  
+while much media attention is given to marginal changes in migrant death counts from one 
+year to the next in southern arizona, the present analysis contends that marginal changes 
+should be interpreted with caution. rather, the focus should be on larger overall trends, for 
+instance, the fact that ubc deaths have generally remained well above 150 per year since 
+2004.
+
+267
+
+migrant deaths in southern arizona 1
+8
+1
+
+1
+7
+1
+
+0
+8
+1
+
+4
+2
+2
+
+9
+8
+1
+
+9
+0
+2
+
+0
+0
+2
+
+7
+6
+1
+
+0
+7
+1
+
+9
+6
+1
+
+6
+4
+1
+
+2
+4
+1
+
+4
+7
+
+1
+7
+
+r
+a
+e
+y
+
+ 
+l
+a
+c
+s
+i
+f
+
+9
+1
+
+7
+1
+
+1
+2
+
+3
+1
+
+8
+
+1
+1
+
+1
+1
+
+5
+
+7
+
+8
+
+0
+5
+2
+
+0
+0
+2
+
+0
+5
+1
+
+0
+0
+1
+
+0
+5
+
+0
+
+ubc autopsies conducted by pcome
+
+)
+3
+1
+4
+
+,
+
+2
+
+ 
+
+ 
+
+=
+n
+
+(
+ 
+
+3
+1
+0
+2
+-
+0
+9
+9
+1
+ 
+y
+f
+
+ 
+,
+s
+c
+b
+u
+ 
+s
+a
+
+ 
+
+d
+e
+d
+o
+c
+ 
+s
+h
+t
+a
+e
+d
+e
+m
+o
+c
+p
+
+ 
+
+ 
+ 
+.
+
+3
+
+ 
+
+e
+r
+u
+g
+i
+f
+
+268
+
+journal on migration and human security7
+.
+9
+4
+1
+
+5
+.
+2
+4
+1
+
+6
+4
+1
+
+6
+.
+5
+0
+1
+
+2
+.
+8
+7
+
+6
+.
+2
+5
+
+2
+.
+5
+5
+
+4
+.
+3
+4
+
+5
+
+.
+
+5
+4
+
+2
+4
+
+6
+
+.
+
+2
+4
+
+4
+
+.
+
+4
+3
+
+)
+3
+1
+4
+
+,
+
+2
+
+ 
+
+ 
+
+=
+n
+
+ 
+
+ 
+
+ 
+s
+h
+t
+a
+e
+d
+e
+m
+o
+c
+p
+g
+n
+i
+s
+u
+ 
+r
+o
+t
+c
+e
+s
+n
+o
+s
+c
+u
+t
+e
+h
+t
+ 
+n
+i
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e
+t
+a
+r
+h
+t
+a
+e
+d
+e
+t
+a
+m
+i
+x
+o
+r
+p
+p
+a
+
+(
+ 
+3
+1
+0
+2
+-
+0
+9
+9
+1
+ 
+y
+f
+
+ 
+,
+s
+c
+b
+u
+ 
+s
+a
+
+ 
+
+d
+e
+d
+o
+c
+
+ 
+ 
+.
+
+4
+
+ 
+
+e
+r
+u
+g
+i
+f
+
+0
+6
+1
+
+0
+4
+1
+
+0
+2
+1
+
+0
+0
+1
+
+0
+8
+
+0
+6
+
+0
+4
+
+5
+
+.
+
+6
+1
+
+5
+
+.
+
+1
+1
+
+4
+
+4
+4
+
+.
+
+7
+7
+
+.
+
+3
+4
+
+.
+
+5
+3
+
+.
+
+9
+7
+
+.
+
+.
+
+9
+1
+1
+
+7
+
+.
+
+7
+1
+1
+
+.
+
+9
+4
+1
+
+0
+2
+
+recovered remains per 100,000 usbp apprehensions
+
+r
+a
+e
+y
+
+ 
+l
+a
+c
+s
+i
+f
+
+0
+
+269
+
+migrant deaths in southern arizona approximate death rate
+
+one could argue that the increase of migrant deaths in southern arizona is simply due to 
+an increase in the number of ubcs traversing the area. estimating an approximate death 
+rate,  which  simultaneously  considers  deaths  and  migration  flows  in  southern arizona, 
+addresses this concern.  the total annual number of known illegal entries into southern 
+arizona, which includes apprehensions as well as what border patrol calls got aways 
+and turn backs (rosenblum 2013, 23), would be a far better denominator to utilize in 
+the calculation of a migrant death rate, but these figures have not been made available 
+by the border patrol for the complete time period covered by this study. nevertheless, 
+border patrol apprehension statistics can be used in place of the total annual number of 
+known unauthorized entries to calculate an approximate death rate. as noted previously, 
+scholars have often relied on apprehensions as a proxy for unauthorized migration flows 
+(espenshade 1995). 
+when  border  patrol  apprehension  statistics  are  taken  into  account,  the  death  rate  has 
+actually increased exponentially since 1999. figure 4 shows the number of migrant deaths 
+per year standardized to 100,000 border patrol apprehensions each year. these findings 
+are  consistent  with  those  of  the  non-governmental  organization  coalicin  de  derechos 
+humanos, which reports that the ubc death rate has increased in southern arizona, and 
+in fact doubled, between 2009 and 2011 (coalicion de derechos humanos 2012). in fy 
+2009, the number of deaths determined to be ubcs by the pcome was 189, while the 
+number of apprehensions reported by border patrol in the tucson sector was 241,655.  in 
+other words, there were about 78 deaths coded as ubcs by the pcome for every 100,000 
+border patrol apprehensions during fy 2009.  although the number of ubcs investigated 
+by the pcome decreased from 189 in 2009 to 180 in 2011, the number of apprehensions 
+in the tucson sector decreased at a much faster rate during the same period, from 241,655 
+to 123,285. this suggests that the number of unauthorized crossers traversing the area also 
+decreased substantially between these years.  ultimately, the remains of 146 migrants were 
+examined by the pcome for every 100,000 border patrol apprehensions in fy 2011a 
+rate nearly twice that of fy 2009.  
+overall, these results suggest that migrants are being forced to travel for longer periods of 
+time through even more remote areas of southern arizona in an attempt to avoid detection. 
+a survey of mexican deportees conducted by the migrant border crossing study of the 
+university  of arizona  and  the  george  washington  university  found  that  the  average 
+number of days spent crossing in the tucson sector increased from 2.3 days in 2008 to 3.3 
+days in 2011. recent accounts documented by the pcome of people traveling with ubcs 
+when they were last seen alive also suggest that it is not uncommon for people to spend 
+four or five days crossing in southern arizona. in the early 2000s a popular crossing route 
+near the city of nogales following the santa cruz river towards tucson would typically 
+take less than two nights. however, increased enforcement and a permanent checkpoint 
+on interstate-19 have pushed people west on a longer route towards the tohono oodham 
+indian reservation through more remote and rough terrain.
+
+270
+
+journal on migration and human securitycross-sectional  descriptive  results:  cause  of  death  and 
+
+demographic characteristics
+table 1 illustrates the descriptive statistics for cause of death and demographic characteristics 
+of ubc deaths investigated between fy 1990 and 2013. sample sizes noted in table 1 vary 
+due to different degrees of complete information available for each factor examined.
+
+table  1.    specific  causes  of  death  and  demographic 
+characteristics of pcome deaths coded as ubcs, 
+fy 1990-2013
+
+percent/mean
+
+n
+
+causes of death
+     exposure
+     undetermined
+     motor vehicle accident
+     other miscellaneous causesa
+     homicide
+
+demographic characteristics
+     identified
+     unidentified
+     male
+     female
+     unknown sex
+     ageb
+
+45%
+38%
+8%
+5%
+4%
+
+66%
+34%
+80%
+17%
+3%
+31 years
+
+region of origin among identified decedents
+     north
+     west-central (traditional)
+     central 
+     south/southeast
+     non-mexican
+     unknown region
+
+13%
+15%
+22%
+19%
+14%
+16%
+
+2,413
+2,413
+2,413
+2,413
+2,413
+
+2,413
+2,413
+2,413
+2,413
+2,413
+1,499
+
+1,583
+1,583
+1,583
+1,583
+1,583
+1,583
+
+a. other causes of death include drowning, suicide, natural causes, cases pending investigation,
+electrocution, envenomation, overdose and other miscellaneous causes.
+b. among identified decedents.
+note: percentages may not sum to 100 due to rounding.
+
+271
+
+migrant deaths in southern arizona over 45 percent of confirmed ubc deaths were due to exposure or probable exposure, 
+followed by undetermined cause of death (38 percent), motor vehicle accident (8 
+percent), other miscellaneous causes (5 percent), and homicide (4 percent). for 
+undetermined deaths, the medical examiner was unable to assign a definitive cause of 
+death due to the degree of decomposition or lack of compelling evidence of any one 
+cause of death. nevertheless, given the remote desert location where these bodies were 
+recovered, it is likely that the cause of death for a large percentage of these undetermined 
+cases was exposure, but this cannot be confirmed.
+
+the overwhelming majority (80 percent) of decedents were male, with  sex unknown 
+in about 3 percent of cases due to the fragmented condition of some skeletal remains 
+recovered.  sex also remained undetermined for a handful of cases that were awaiting 
+an anthropological examination at the time of publication.  as noted, 820 (34 percent) 
+of ubcs examined between 1990 and 2013 remain unidentified.  among people who 
+were identified, the mean age was 31 years (median of 30 years). figure 5 represents a 
+population pyramid examining the age categories among males and females. about 38 
+percent of female ubcs fall in the 20-29 age category, which is comparable to 40 percent 
+among males. similarly, 33 percent of female ubcs were between 30 and 39 years of 
+age at the time of death compared to 32 percent of male ubcs who fall in the same age 
+range.  overall, the typical identified ubc decedent was in the peak of their productive 
+years when they died.
+
+as noted in table 1, among those positively identified, migrants from central mexico (22 
+percent) are the most prevalent, followed by those from southern mexico (19 percent), 
+west-central mexico (15 percent), and northern mexico (13 percent). non-mexicans 
+accounted for about 14 percent of the identified decedents. region of origin was 
+unknown in 16 percent of cases among ubcs who had been successfully identified.  
+
+table 2 illustrates the breakdown between countries of origin among identified ubcs. as 
+noted, the majority of identified ubcs (82 percent) are of mexican origin, followed by 
+guatemalans (8 percent), salvadorans (2 percent), and hondurans (2 percent). country 
+of origin was unknown in 5 percent of cases of identified ubcs. this is likely due to the 
+country of origin category not being updated in pcome records after the successful 
+identification of a previously unidentified decedent.  
+
+generally speaking, a typical ubc decedent between fy 1990 and 2013 could be 
+described as a male near the age of 30 from central or southern mexico who died of 
+exposure while attempting to avoid detection by us authorities. however, as we discuss 
+in the next section, there appear to be important differences in causes of death and 
+demographic characteristics over time.
+
+272
+
+journal on migration and human security 
+e
+g
+a
+d
+n
+a
+
+ 
+
+ 
+s
+t
+n
+e
+d
+e
+c
+e
+d
+ 
+e
+l
+a
+m
+e
+f
+d
+e
+i
+f
+i
+t
+n
+e
+d
+i
+ 
+l
+l
+
+ 
+
+ 
+
+a
+g
+n
+o
+m
+a
+
+ 
+
+y
+r
+o
+g
+e
+t
+a
+c
+e
+g
+a
+
+ 
+
+ 
+,
+s
+c
+b
+u
+ 
+s
+a
+
+ 
+
+d
+e
+d
+o
+c
+ 
+s
+h
+t
+a
+e
+d
+e
+m
+o
+c
+p
+
+ 
+
+ 
+ 
+.
+
+5
+ 
+e
+r
+u
+g
+i
+f
+
+ 
+
+,
+s
+t
+n
+e
+d
+e
+c
+e
+d
+e
+l
+a
+m
+d
+e
+i
+f
+i
+t
+n
+e
+d
+i
+ 
+l
+l
+
+ 
+
+ 
+
+a
+g
+n
+o
+m
+a
+
+ 
+
+y
+r
+o
+g
+e
+t
+a
+c
+
+)
+7
+9
+4
+
+,
+
+1
+
+ 
+
+ 
+
+=
+n
+
+(
+ 
+ 
+,
+
+3
+1
+0
+2
+-
+0
+9
+9
+1
+y
+f
+
+ 
+
+ 
+
+s
+r
+a
+e
+y
+9
+6
+-
+0
+6
+
+ 
+
+s
+r
+a
+e
+y
+9
+5
+-
+0
+5
+
+ 
+
+s
+r
+a
+e
+y
+9
+4
+-
+0
+4
+
+ 
+
+s
+r
+a
+e
+y
+9
+3
+-
+0
+3
+
+ 
+
+s
+r
+a
+e
+y
+9
+2
+-
+0
+2
+
+ 
+
+s
+r
+a
+e
+y
+9
+1
+-
+0
+1
+
+s
+r
+a
+e
+y
+
+ 
+
+9
+-
+0
+
+ 
+
+s
+e
+l
+a
+m
+e
+f
+g
+n
+o
+m
+a
+ 
+t
+n
+e
+c
+r
+e
+p
+
+s
+e
+l
+a
+
+ 
+
+m
+g
+n
+o
+m
+a
+ 
+t
+n
+e
+c
+r
+e
+p
+
+0
+5
+
+0
+4
+
+0
+3
+
+0
+2
+
+0
+1
+
+0
+
+0
+1
+
+0
+2
+
+0
+3
+
+0
+4
+
+0
+5
+
+273
+
+ 
+
+r
+e
+d
+l
+o
+d
+n
+a
+ 
+s
+r
+a
+e
+y
+
+ 
+
+0
+7
+
+migrant deaths in southern arizona table 2.  pcome deaths coded as ubcs by country of 
+origin among identified decedents, fy 1990-2013
+
+ 
+naitonality
+     mexico
+     guatemala
+     el salvador
+     honduras
+     ecuador
+     peru
+     brazil
+     costa rica
+     colombia
+     dominican republic
+     chile
+     nicaragua
+     venezuela
+     unknown country
+
+percent
+ 
+81.6
+7.5
+2.4
+1.5
+0.6
+0.5
+0.3
+0.3
+0.2
+0.1
+0.0
+0.0
+0.0
+4.9
+
+number
+ 
+1,291
+119
+38
+24
+10
+8
+4
+4
+3
+2
+1
+1
+1
+77
+
+n = 1,583
+note: percentages may not sum to 100 due to rounding.
+ 
+
+changes across time periods: cause of death and demographic 
+
+characteristics
+in order to better understand changes over time, the researchers grouped characteristics of 
+yearly ubc deaths into three different time periods: the pre-funnel effect era (1990-
+1999),  the  early  funnel  effect  era  (2000-2005),  and  the  late  funnel  effect  era 
+(2006-2013).  using the same pcome records, rubio-goldsmith and colleagues (2006) 
+examined  changes  between  the  pre-funnel  effect  (1990-1999)  period  and  what  they 
+termed the funnel effect (2000-2005) period.  the present analysis follows this by re-
+examining changes between these time periods while also including an additional period 
+(2006-2013).  some of the sample sizes and figures reported in this study may differ from 
+those  reported by  rubio-goldsmith et al. (2006)  and  martinez et al. (2013)  due to  the 
+positive identification of decedents, confirmed cause of death, the (rare) recoding of deaths 
+as non-ubcs, or the (also rare) merging of two cases into one following dna analysis.
+although  migration  flows  began  to  increase  in  arizona  between  1993  and  1995  as  a 
+consequence of operation gatekeeper and hold the line, there was not a notable increase 
+in migrant deaths in southern arizona until after 1999.  this is consistent with prior studies 
+which note that although operation safeguard was initiated in the tucson sector in 1994, 
+the sector did not receive sufficient funding or resources until 1999 (orrenius 2004, 296; 
+cornelius 2001, 664).  in other words, there were essentially two funnels of migration flows 
+
+274
+
+journal on migration and human securitytaking place in southern arizona: first, from san diego, california and el paso, texas to 
+the outskirts of nogales, arizona, and then from the outskirts of nogales into the western 
+and eastern deserts of southern arizona, with the latter leading to an exponential increase 
+in deaths..  while deaths in the region did increase from 8 in 1995 to 21 in 1997a 163 
+percent increasethe researchers were cautious to begin the funnel effect era prior to 
+2000 due the volatility of small sample sizes. it is possible that certain isolated incidents, 
+for instance a motor vehicle accident involving the deaths of multiple people or a larger 
+group of migrants getting lost and dying, could influence counts substantially in these early 
+years. thus, the researchers opted to mark the beginning of the funnel effect era in 2000 
+when the marginal percent increase in deaths from 1999 (19 deaths) to 2000 (71 deaths) 
+was 273 percent.  this was the same approach utilized by rubio-goldsmith et al. 2006 and 
+martinez et al. 2013.
+table 3 illustrates the changes in cause of death, demographic characteristics, and region 
+of origin across the three time periods. the number of ubc deaths during each period 
+is also reported. asterisks denote that the changes from one time period to the next were 
+statistically significant.  data for fy 2013 were omitted from the region of origin analysis 
+due to the lag associated with the investigation process which leads to positive identification 
+of decedents, and ultimately, more complete information for this variable.
+changes in cause of death
+most notably for cause of death, the pcome determination of exposure, the leading cause 
+of death in the pre- and early funnel effect years, became the second most common cause 
+of death after undetermined in the late funnel effect years. individuals who died from 
+exposure perished due to hyperthermia or hypothermia, often coupled with dehydration.  
+for undetermined deaths, the medical examiner was unable to assign a definitive cause 
+of death due to the degree of decomposition or lack of compelling evidence of any one 
+cause of death. the state of decomposition may also affect the ability to determine a valid 
+postmortem interval which might place the time of death during a specific season. due to 
+intensified border enforcement efforts, migrants are increasingly crossing through more 
+remote areas in order to avoid detection. for those who die in remote areas, there is a 
+longer period of time between death and recovery, which results in more decomposition.  
+as previously mentioned, given the desert location where these bodies were recovered, 
+it is likely that the cause of death for a large percentage of these undetermined cases was 
+exposure, but this cannot be confirmed. however, if exposure and undetermined cause of 
+death cases are merged to create one group, these cases make up 82 percent of cases in the 
+early funnel effect era and 85 percent of cases during the late funnel effect years. this 
+is a much less significant change. 
+a significant change between time periods is related to the percent of deaths by motor 
+vehicle  accident.  in  the  pre-funnel  effect  years,  1990-1999,  motor  vehicle  accidents 
+accounted for 20 percent of ubc fatalities. during this time period, fewer unauthorized 
+migrants spent an extended amount of time in remote areas attempting to cross. in the early 
+funnel effect years from 2000-2005, the percentage of ubcs who died by motor vehicle 
+accident dropped by almost half, to 11 percent, and dropped once again in the late funnel 
+effect years to 6 percent. these changes suggest that people have altered their crossing 
+strategies as a consequence of increased enforcement, relying less on the use of motor 
+
+275
+
+migrant deaths in southern arizona table  3.    specific  causes  of  death  and  demographic 
+characteristics pcome deaths coded as ubcs, by time 
+period
+
+ 
+
+pre-funnel 
+
+early funnel 
+
+late funnel 
+
+effect 
+
+effect 
+
+effect 
+
+(fy 1990-1999)
+
+(fy 2000-2005)
+
+(fy 2006-2013)
+
+causes of death
+     exposure
+39%
+     undetermined
+28%
+     motor vehicle accident
+20%
+     other miscellaneous causes1 8%
+     homicide
+6%
+          n
+120
+
+demographic characteristics
+     unidentified
+          n
+     female
+          n
+     age2
+          n
+
+33%
+120
+13%
+120
+29 years
+74
+
+62%***
+20%*
+11%***
+4%
+4%
+802
+
+23%*
+802
+22%*
+801
+30 years
+603
+
+region of origin among identified decedents (through fy 2012) 
+     north
+     traditional
+     central 
+     south/southeast
+     non-mexican
+     unknown region
+          n
+
+11%***
+19%
+25%***
+23%**
+9%
+14%*
+618
+
+39%
+17%
+5%
+9%
+7%
+23%
+80
+
+37%***
+48%***
+6%***
+5%
+4%
+1,490
+
+41%***
+1,491
+15%***
+1,430
+32 years*
+822
+
+14%*
+14%**
+24%
+19%
+18%***
+11%***
+812
+
+1. other causes of death include drowning, suicide, natural causes, cases pending investigation, 
+electrocution, envenomation, overdose and other miscellaneous causes.
+2. among identified decedents. 
+note: * p < 0.05, ** p < 0.01, *** p < 0.001 indicate the change from the previous time period is 
+statistically significant.  percentages may not sum to 100 due to rounding.
+
+276
+
+journal on migration and human securityvehicles to facilitate a crossing and more on traversing through remote areas on foot. it 
+is  also  possible  that  the  number  of  people  crossing  in  motor  vehicles  has  not  changed 
+drastically over the years, but rather the number of those crossing on foot has increased 
+substantially between these time periods.  
+recently,  notable  media  attention  has  been  paid  to  the  increase  in  cartel  violence 
+throughout mexico since former mexican president felipe calderon declared a war on 
+drug trafficking organizations (dtos) in december of 2006.  estimates suggest that nearly 
+130,000 people have been killed , and more than 27,000 have disappeared in mexico since 
+2007 (molloy 2013). a notable portion of the drug cartel-related violence has clustered 
+along border crossing corridors and other disputed territories in the northern part of the 
+country.  although mexico has a much lower homicide rate (18 per 100,000 residents) than 
+other latin american countries such as guatemala, el salvador, honduras, venezuela, and 
+colombia (molzahn et al. 2012), some municipalities in the northern mexican states of 
+sonora, chihuahua, and tamaulipas have some of the highest homicides rates in the world 
+(kronick 2010). this has led to concern over a possible spillover effect of dto-related 
+violence into the united states. yet with the exception of a few well-publicized and isolated 
+incidents, there is little evidence supporting the notion of a spillover effect. in 2010 ciudad 
+jurez, chihuahua, had one of the highest homicide rates in the world, yet its us sister 
+city of el paso is one of the safest cities in the country (cq press 2013). pcome records 
+suggest the percent of ubcs that have been victims of homicide has remained unchanged 
+at 4 percent in both the early funnel effect era and the late funnel effect eraa time 
+period that coincides with calderons declaration of the war on dtos in mexico. 
+this finding should not be taken as suggesting that unauthorized migrants are not at risk 
+of falling victim to dto-related violence during crossing attempts. however, it is likely 
+that much of the violence migrants experience tends to be in mexican territory. a recent 
+survey of deportees notes that unauthorized migrants are at risk of kidnapping, robbery, 
+and assault after deportation by us authorities to mexican border towns (slack et al. 2013).
+finally,  it  is  important  to  note  that  the  medico-legal  classification  of  homicide  used 
+in this analysis is distinct from homicide in the legal sense of the term. that is, it does 
+not disaggregate between criminal homicide, justifiable homicide, or manslaughter.  the 
+classification includes migrants who were possibly killed by coyotes (human smugglers), 
+bajadores (border bandits), or other migrants, but also consists of migrants who were killed 
+during an encounter with us officials. one source notes that 28 people have been killed by 
+us customs and border protection agents across the border since 2010 alone (martnez 
+2014).  this  is  an  important  distinction  to  make  considering  the  qualitatively  different 
+roles these various actors play in the unauthorized migration process. though the present 
+analysis does not disaggregate between these types of homicides, a closer examination of 
+this distinction warrants future consideration.
+changes in demographic characteristics
+overall, females account for 17 percent of all ubcs examined at the pcome since 1990 
+(see table  1).  however,  there  have  been  significant  changes  in  the  ratio  of  females  to 
+males  across  the  three  time  periods. as  noted  in table  3,  approximately  13  percent  of 
+ubcs during the pre-funnel effect years were female. this figure jumped to 22 percent 
+
+277
+
+migrant deaths in southern arizona during the funnel effect era, and decreased to 15 percent in the late funnel effect period.  
+one of the many consequences of increased border enforcement has been the decreased 
+probability  of  migrants  returning  to  their  countries  of  origin,  ultimately  transforming 
+would-be seasonal migrants into longer-term settlers (massey, durand, and malone 2002).  
+historically, migration from mexico to the united states has been a gendered process, with 
+men making up the majority of migrants (donato, wagner, and patterson 2008; wilson 
+2010). however, the fact that men are staying in the united states longer has led to an 
+increase in the migration of women for the purposes of family reunification, which helps 
+explain the increase in female ubcs between the early and funnel effect eras (donato, 
+wagner, and patterson 2008). 
+the number and proportion of women migrating today appears to have decreased in recent 
+years. it is possible that the family reunification process has slowed as more women have 
+successfully been reunited with their male family members in the united states over the 
+last decade.  us border patrol apprehension data seem to support this notion.  for example, 
+in fy 2004 females made up approximately 18 percent of all apprehensions, however, 
+this figure fell to 13 percent in fy 2011. nevertheless, apprehensions of females are once 
+again on the rise, representing 17 percent of all apprehensions during fy 2013 (us border 
+patrol 2014). this increase is likely due to non-mexicans making up a larger share of all 
+apprehensions when compared to previous years, an issue which is addressed below.11 
+table 3 illustrates that the average age of ubcs has increased from 30 years in the early 
+funnel effect period to 32 years in the late funnel effect period (p < 0.05). it is possible 
+that interior immigration enforcement programs in effect during this time period, such as 
+the federal governments secure communities or state level initiatives such as arizonas sb 
+1070, alabamas hb 56, or indianas sb 590 have disproportionately affected older, more 
+established migrants residing in the united states rather than younger seasonal workers.  
+however, the population of mexico as a whole is aging and birth rates have decreased, so 
+it is also possible that this difference, in part, reflects demographic changes occurring in the 
+country (the economist 2012; passel, cohn, and gonzalez-barrera 2012). nevertheless, 
+further attention should be given to the impact that interior removal programs have had on 
+the changing profile of unauthorized border crossers.    
+
+changes in region of origin
+there have been notable changes in the regions of origin represented among ubcs. as 
+noted,  following  massey  and  colleagues  and  conapo,  the  present  analysis  identifies 
+four main mexican sending regions: north; west-central (traditional); central; and south-
+southeastern. it also groups non-mexicans together, although the majority of non-mexican 
+identified ubcs are from the countries of guatemala, el salvador, and honduras.  
+generally speaking, the most significant changes among mexican ubcs in terms of region 
+of origin occurred between the pre-funnel effect and early funnel effect time periods.  
+in the pre-funnel effect era, around 39 percent of identified ubcs were from northern 
+mexico,  however,  this  share  decreased  to  11  percent  in  the  early  funnel  effect  era.  
+11  publically available us border patrol apprehensions statistics do not disaggregate other than mexicans 
+by sex. 
+
+278
+
+journal on migration and human securitysimilarly, the share of those from the central and south-southeastern region in the earliest 
+time period only made up 5 percent and 9 percent of all identified ubcs, respectively. by 
+the early funnel effect era, these percentages increased to 25 percent among those from 
+the central region and 23 percent among those from the south. this change can likely be 
+attributed to increased migration from these regions stemming from the implementation of 
+nafta which displaced thousands of rural mexicans (polaski 2004; wise 2009; garcia 
+zamora 2009).
+changes in the region of origin were less pronounced between the early funnel effect and 
+the late funnel effect periods. one exception was the share of ubcs from the northern 
+regions, which increased from 11 percent in the early funnel effect era to 14 percent in the 
+most recent time period. similarly, the percentage of non-mexicans increased from 9 percent 
+to 18 percent between these two periods. a 2005 congressional research service report by 
+nuez-neto, siskin, and via notes  that the proportion of non-mexican border crossers has 
+been on the rise since the late 1990s. more recent data from us border patrol apprehension 
+statistics support this assertion. in fy 2005, roughly 14 percent of all apprehensions were 
+of  non-mexicans,  or  what  the  border  patrol  calls  otms  (other  than  mexicans).  by 
+fy 2013 this share increased two-and-a-half times to 36 percent across all sectors. the 
+proportion of non-mexicans crossing through southern arizona, however, is substantially 
+lower than in other areas along the border. a significant number of unauthorized central 
+americans travel through mexico atop of freight trains to the tamaulipas-texas border 
+and attempt to cross through south texas after crossing the rio grande. nevertheless, the 
+proportion  of  non-mexicans  crossing  through  the  sonoran  desert  appears  to  be  on  the 
+rise in recent years. for instance, only 3 percent of us border patrol apprehensions in the 
+tucson sector in fy 2005 were of non-mexicans, compared to 16 percent in fy 2013 (us 
+border patrol 2014).  
+overall, non-mexicans appear to be at greater risk for death while crossing the border in 
+southern arizona relative to their share of apprehensions in the area. as noted in table 3, 18 
+percent of identified decedents between fy 2006-2012 consisted of non-mexican ubcs.  
+however, during this same time period, an average of 5.7 percent of apprehensions in the 
+tucson sector were of non-mexicans, with a low of 2.4 percent in fy 2006 and a high of 
+nearly 15 percent in fy 2012 (us border patrol 2014). the greater distance, effort and 
+time required to reach the us-mexico border by non-mexicanswho often must traverse 
+multiple international boundariesplaces them in a vulnerable state, leading to increased risk 
+of death in the southern arizona desert. abject poverty may also help explain this disparity. 
+central american  migrants  often  come  from  impoverished,  marginalized  communities, 
+something which greatly limits their ability to secure safe travel northward (hagan 2008).  
+finally, the researchers suspect that a relatively larger share of the unidentified and cases 
+with unknown region among identified ubcs investigated by the pcome may be non-
+mexicans. institutional limitations, scarce economic and social resources among central 
+american consulates and families, and strategies utilized by human smugglers transporting 
+central americans through mexico to avoid detection all present challenges to successful 
+identification and the determination of non-mexican ubcs region of origin.  
+all indications suggest that out-migration from central america will persist as the region 
+continues to struggle with political instability, abject poverty, gangs, and drug trafficking-
+
+279
+
+migrant deaths in southern arizona related violence. the researchers anticipate that the share of non-mexicans among ubcs 
+in  southern  arizona  will  remain  high  in  the  absence  of  comprehensive  immigration 
+reform, sustainable development programs in central america, and expanded channels for 
+temporary protection and refugee admissions.      
+
+conclusion
+the number of unauthorized border crosser remains examined by the pima county office 
+of  the  medical  examiner  has  increased  substantially  since  fy  2000  and  has  remained 
+above  150  decedents  per  year  since  2004. this  increase  has  coincided  with  intensified 
+enforcement efforts across the border, supporting previous studies which have found that 
+border militarization has redistributed migration flows into remote areas, thereby increasing 
+the risk of death.  
+the  increased  number  of  migrant  remains  examined  by  the  pcome  is  not  simply  a 
+consequence  of  more  migrants  crossing  through  southern  arizona.  us  border  patrol 
+apprehensions, often used as a proxy for unauthorized migration flows by scholars, have 
+decreased over the past several years in the tucson sector.  however, the death rate based 
+on border patrol apprehension statistics has increased exponentially since 1999. despite 
+a  decrease  in  the  number  of  unauthorized  crossers  traversing  the  area  as  measured  by 
+the number of border patrol apprehensions in the tucson sector, the number of remains 
+examined for every 100,000 apprehensions nearly doubled between fy 2009 and fy 2011.
+this suggests that migrants are crossing for longer periods of time through more remote 
+areas to avoid detection by us authorities, thus increasing the probability of death.
+remote areas along the california-baja california border experienced notable increases in 
+migrant deaths when border enforcement efforts first began in the early 1990s (cornelius 
+2001). migrant deaths then appeared to shift east into southern arizona in the early-to-mid-
+2000s. this shift is reflected in the near two-fold increase in the number of migrant deaths 
+investigated by the pcome between fy 2001 and fy 2002. although migrant deaths and 
+the death rate remain near all-time highs in southern arizona, counties close to the south 
+texas-tamaulipas border have begun reporting strikingly high numbers of migrant deaths, 
+especially considering the size of these counties. for instance, brooks county, which is 
+nearly ten times smaller than pima county in terms of geographical area, reported 129 
+deaths in calendar year 2012 compared to just 20 in 2010 (maccormack 2013; miroff 
+2013). this increase in migrant deaths in south texas is confirmed by data reported by 
+the us border patrol, with deaths in the rio grande valley sector increasing from 66 in 
+fy 2011 to 156 in fy 2013 (us border patrol 2014). scholars and policymakers alike 
+should be concerned with this drastic increase, which appears to be tied to high rates of 
+deportations to areas just south of texas as well as an increased number central americans 
+crossing clandestinely through south texas (isacson and meyer 2013). 
+counties along the texas-mexico border tend to be smaller in terms of area and population, 
+and have limited financial and institutional resources with which to investigate migrant 
+deaths. further, given the sheer number of counties along the texas-mexico border, it is 
+not entirely clear which agency or entity has the responsibility of investigating migrant 
+deaths. given these considerations, counties in south and west texas may not be equipped 
+
+280
+
+journal on migration and human securityto properly investigate migrant deaths and disappearances in the area. institutional and 
+structural  limitations  will  likely  adversely  affect  the  identification  rate  of  migrants, 
+ultimately contributing to an ever-growing list of john and jane does whose remains 
+may never be reunited with their family members.    
+understanding  the  causes  and  solutions  of  unauthorized  migration  and  migrant  deaths 
+requires an understanding of the extent of these phenomena. at present, the true number of 
+migrant deaths occurring across the border on an annual basis is unknown. nevertheless, 
+the pcome continues to collect reliable and valid data on estimated border crosser deaths 
+in southern arizona and, most importantly, is committed to identifying the deceased.  both 
+tasks are of paramount importance. the former should help inform policymakers about 
+the consequences of immigration and border enforcement policies, particularly in light of 
+recent immigration reform proposals calling for even greater border enforcement measures. 
+the latter helps provide closure to the families that have lost loved ones who died while 
+traversing the sonora-arizona border in search of a better life.  
+the public acceptance of significant numbers of migrant deaths on the us-mexico border 
+every year for nearly 30 years is symptomatic of cultural violence.  just as in the case of the 
+1995 chicago heat wave, we have collectively created the conditions that have allowed so 
+many migrants to die, as well as the conditions that make these deaths so easy to overlook 
+and forget (klinenberg 2002, 11). summer in arizona does not have to be a season of 
+death, and policies that aim to provide security should not result in loss of life.
+

@@ -1,0 +1,750 @@
+citizen or subordinate: 
+permutations of belonging in the 
+united states and the dominican 
+republic
+
+shaina aber
+jesuit conference of the united states
+
+mary small
+jesuit refugee service/usa 
+
+executive summary
+the dominican republic and the united states have both experienced tensions arising 
+from migratory flows from poorer, less stable neighbors. until recently, both countries 
+had constitutions which conferred citizenship by birth with very limited exceptions. 
+despite  these  similarities,  their  respective  discourses  around  jus  soli  citizenship, 
+particularly for  the children of  unauthorized migrants from  the poorer  neighboring 
+countries, have manifested in different ways. the identity of the united states as a 
+nation of immigrants has limited the success of campaigns to revoke jus soli citizenship 
+for the children of unauthorized immigrants, but the persistent articulation of this idea 
+as a response to illegal migration has shifted the parameters of the immigration debate. 
+in the dominican republic, the historical construction of national identity and anti-
+haitian discourse has led to an evolution in dominican law which codifies already 
+established  practices  that  deny  citizenship  to  children  of  haitian  migrants.  in  both 
+cases, movements that support more inclusive understandings of societal belonging, 
+like  the  dreamers  in  the  united  states  and  youth  movements  in  the  dominican 
+republic, may offer the most effective way of protecting universal jus soli citizenship 
+regimes.
+
+introduction
+both the united states and the dominican republic have recently grappled with the idea of 
+redefining their citizenship standards in response to tensions arising from large migratory 
+flows from poorer, less stable neighboring countries. comparisons between these countries 
+often focus on their respective legal frameworks for conferring citizenship, but a close 
+examination of the ensuing debates reveals a broader discourse around membership and 
+gradations of belonging. this article argues that national identity is the principal mode 
+through which citizenship frameworks are interpreted and enacted. moreover, it posits that 
+
+ 2013 by the center for migration studies of new york. all rights reserved.jmhs volume 1 number 3 (2013): 76-96evolving national narratives that define membership in society interact with and at times 
+push the boundaries of legal citizenship regimes.
+
+globally, there are multiple systems that govern the conferral of citizenship at birth. the 
+two primary systems of birthright citizenship are jus sanguinis, or citizenship by blood, and 
+jus soli, or citizenship by soil (place of birth). virtually every country has some version 
+of jus sanguinis in which parents can pass on their nationality to their children. in the 
+americas, 30 of 35 sovereign nations have jus soli systems which confer citizenship on 
+nearly  every  child  born  within  their  territory  (culliton-gonzalez  2012).  the  ability  to 
+attain citizenship is a high stakes question. within the current global system of sovereign 
+nation states, citizenship is what obliges a state to protect an individual. said differently, 
+nationality is the right to have rights (arendt 1968, 299) as it opens the door to numerous 
+opportunities and privileges (mancini and finlay 2008; middleton and wigginton 2012; 
+shachar 2007; van waas 2007). 
+in many ways, the challenges faced by both the united states and the dominican republic 
+with  regard  to  citizenship  are  infused  with  global  themes  and  show  how  citizenship 
+operates as both a formal legal status and as a social identity (keyes 2013; plascencia 
+2012). around  the  world,  the  increasingly  permanentpresence  of  large  numbers  of 
+unauthorized immigrants is putting pressure on immigration and citizenship policies as 
+a balance is sought between inclusion and exclusion (van waas 2007). debates about 
+conferral of jus soli citizenship mask a broader debate about membership and belonging, 
+particularly regarding unauthorized migrants from poor sending countries. for this reason, 
+constitutional scholars note that revocations of jus solitake place within the context 
+of inegalitarian campaigns to discourage permanence, to diminish rights, and to institute 
+caste division (mancini and finlay 2008, 594). the emergence of these debates now 
+is surprising, given that the morality of caste and second-class status systems was widely 
+repudiated by the end of the last century. nevertheless, the impacts of proposed changes 
+in citizenship regimes call into question whether or not migrants and their children are 
+considered part of society and are afforded their fundamental civil and human rights.
+this article seeks to complement the theoretical literature on citizenship by exploring the 
+current and historical debates around jus soli citizenship in both the dominican republic 
+and the united states. given the uncommon prevalence of jus soli citizenship regimes 
+in the western hemisphere, the barriers to inclusionenacted or proposed make the 
+comparative study of these two countries compelling. we begin by discussing the historical 
+context for migration from mexico to the united states and from haiti to the dominican 
+republic with particular attention to the factors that have led to large unauthorized migrant 
+populations. in the us context, we then explore the persistent attacks on jus soli citizenship, 
+which often occur in the context of restrictionist immigration proposals. in the dominican 
+republic, we detail the current practice of denying and revoking citizenship for dominicans 
+of haitian descent, and the evolving legal justifications for these practices. with these two 
+cases in mind, we analyze the ultimate impact of struggles over jus soli citizenship. 
+
+within  the  united  states,  debate  over  the  legal  status  of  the  children  of  unauthorized 
+immigrants  has  had  the  effect  of  shifting  the  parameters  of  political  discourse  about 
+
+77
+
+citizen or subordinateimmigration  policy.  this  has  led  to  proposals  that  range  from  locking  undocumented 
+immigrants into a permanent second-tier status to arduous, exclusionary, and lengthy paths to 
+citizenship for the millions of undocumented immigrants. within the dominican republic, 
+the denial and revocation of citizenship of dominicans of haitian descent has been broadly 
+accepted, and has demonstrated an entrenchment and constriction of dominican national 
+identity. for both nations, we suggest that the model offered by youth movements, which 
+engage understandings of national identity and articulate a more inclusive conception of 
+belonging, may offer the best path forward. 
+
+migration context between the us and mexico
+current debates surrounding jus soli citizenship in the united states must be contextualized 
+in light of its immigration and citizenship history. drawn by the countrys vast economic 
+resources, and cultural and political hegemony, people migrate to the united states from all 
+over the world, but a plurality of the foreign-born population claim mexico as their country 
+of  origin.  particular  attention  to  the  complex  bilateral  migratory  relationship  between 
+the united states and mexico helps to trace the source of recent debates about the legal 
+obligations and societal impacts of a jus soli system.
+the united states and mexico share a 2,000-mile border that spans four us and six mexican 
+states. historically, mexican migration was largely temporary, circular and employment-
+based, and few restrictions were placed on the movement of people or goods across the us-
+mexico border1 until 1924 when the us border patrol was established (southern poverty 
+law center 2013, 3). contemporary mexican migration to the united states began through 
+direct-recruitment  initiatives  by  us  companies  in  the  period  after  the  civil  war.  the 
+bracero program, which operated between 1942 and 1964 through a bilateral agreement 
+between  the  united  states  and  mexico,  attracted  more  than  400,000  workers  a  year  at 
+its peak (ibid). following the conclusion of the bracero program, a numerical limit was 
+placed on mexican migration to the united states in 1965 (crs 2012a, 8). it was only then 
+that the century-old migration flow from mexico, mostly into the low-wage labor sector, 
+became largely characterized as illegal.
+
+1  it is worth noting that the near absence of immigration enforcement infrastructure coincided with a legal 
+regime that rarely deported immigrants who had settled in the united states, even those who entered without 
+inspection. deportation was not a penalty under the law for most irregular migration, though the immigration 
+act of 1891 did establish deportation as a penalty for immigrants who became public charges within one year 
+of initial entry, restricted admission for people with certain illnesses, and generally represented the beginning 
+of  a  series  of  steps  to  create  more  restrictive  and  discriminatory  immigration  policies. a  year  later,  the 
+chinese exclusion act passed in 1892, prohibiting the immigration of all chinese laborers. later, the 1917 
+immigration act instituted a literacy test for admission with the aim of minimizing southern and eastern 
+european immigration, extended the period in which a person could be subject to deportation to five years 
+and included national security language aimed at deporting anarchists or communists (ngai 2003, 69-71). 
+the immigration act of 1924 enacted national origin quotas, excluded certain undesirables like paupers, 
+criminals, anarchists and the diseased and extended chinese exclusion to other asian groups. however, 
+the immigration act of 1924 did not make mexico or any of the other western hemisphere countries subject 
+to the new numerical quotas. mass deportations occasionally occurred in extra-legal contexts, such as the 
+palmer raids of the winter of 1919-1920. during the 1930s, depression-era mexican immigrants and us-
+born mexican-americans alike were rounded up and expelled from the country without any process of law 
+(ngai 2004, 3, 17-19). 
+
+78
+
+journal on migration and human securitydespite the newly-minted restrictions on mexican immigrants seeking permanent residence 
+in the united states or traveling across the border, migration picked up speed, set into 
+motion by a combination of economic and political factors. illegal immigration became a 
+topic of public concern as apprehensions of unauthorized immigrants, 80 percent of whom 
+were mexican nationals, tripled between 1965 and 1970 (crs 2012a, 2,6). around this 
+time, the united states began to experience swifter growth in its share of foreign-born 
+persons of mexican origin, though it was not until 1980 that the share of the foreign-born 
+from mexico exceeded that of italy, germany or canada (grieco, et al. 2012, 7).
+the  shift  in  migration  patterns  from  mexico  coincided  with  a  dramatic  shift  in  us 
+immigration policy toward an increasingly restrictionist model (carnegie endowment for 
+international peace and instituto tecnolgico autnomo de mxico 2001, 1, 6-7). despite 
+this, mexican migration continued to grow rapidly throughout the eighties, nineties, and 
+early  2000s.  mexican  immigrants  have  accounted  for  the  largest  share  of  foreign-born 
+residents over the last 30 years (gibson and jung 2006). they represent the largest group 
+of aliens subject to us immigration control and border security policies, the largest group 
+of lawful immigrants within permanent and temporary visa categories, and the majority of 
+unauthorized migrants within the united states (crs 2012a, 2). as of 2011, mexicans 
+constituted 58 percent of us unauthorized immigrants. likewise, the majority of children 
+born to undocumented immigrants in the united states are of mexican origin (passel and 
+cohn 2011, 2). 
+in the last two decades, the united states and mexico have also experienced intentional 
+and unprecedented economic integration, arising in large part from the trade infrastructure 
+put in place by the north american free trade agreement (nafta) in 1994 (carnegie 
+endowment  for  international  peace  and  instituto  tecnolgico  autnomo  de  mxico 
+2001, 1). the united states is mexicos principal trading partner, and mexico is currently 
+the third largest trading partner for the united states, a trade relationship that was only 
+deepened  by  nafta  (crs  2012b,  1). yet,  even  as  the  countries  interdependence  has 
+increased, a vastly disparate economic relationship persists. in the united states the per 
+capita gross domestic product (gdp) is $49,800 while in mexico it is only $15,300 (us 
+central intelligence agency 2013). this disparity has acted as a continued pull factor for 
+mexican migrants looking to improve their lives. 
+while scholarly discussions centered on changing the laws or policies governing jus soli 
+citizenship usually frame arguments in nationality and racially neutral terms, the debate 
+among political and media actors, perhaps predictably, has drawn heavily upon the popular 
+imagery of mexican migrants. 
+
+migration context between the dominican republic and 
+haiti
+the  dominican  republic  and  haiti  have  a  similarly  long  and  complicated  history  that 
+deeply impacts understandings of identity and belonging in the dominican republic. like 
+the united states and mexico, the relationship between the dominican republic and haiti
+
+79
+
+citizen or subordinate is characterized by a significant flow of unauthorized migrants, economic interdependence, 
+and reliance on cheap migrant labor.
+after an ultimately unsuccessful effort to unify the island and abolish slavery in what is 
+now the dominican republic by haitian revolutionaries in 1801, the newly independent 
+haiti struggled with perceived and real threats of recolonization launched by the french 
+from the other side of the island. in an attempt to solidify haitian sovereignty, unite the 
+island of hispaniola, and abolish slavery from the dominican side of the island, haiti led 
+a successful military invasion of the dominican republic in 1821. the invasion resulted 
+in the abolition of slavery, but the subsequent 22-year period of haitian occupation of the 
+dominican side of the island is viewed in the dominican popular imagination as a time 
+of oppression, brutality and suffering, when the spanish language was banned, land was 
+expropriated from white plantation owners, and spanish colonial customs were outlawed. 
+this historical narrative anchors present day feelings toward haitian migrants.
+while there is a long history of migration between the dominican republic and haiti, the 
+beginnings of the current situation can be traced back to the dominican sugar industry 
+(vergne  2005,  84).  beginning  in  the  early  1900s,  the  dominican  republic  facilitated 
+the  recruitment  of  haitians  to  work  the  sugar  harvest.  it  is  estimated  that  about  5,000 
+haitian laborers were contracted each year until 1986 (wooding and moseley-williams 
+2004, 24). similar to the bracero program in the united states, sugar cane workers came 
+through regulated channels established by both governments, as well as through a parallel, 
+informal one. in each case, the receiving country expected to fully control their imported 
+labor source. patterns of settlement and networks among diaspora groups were established 
+through the circular migration of seasonal labor, which led to more migration. as migrants 
+began to lay down permanent roots, receiving countries were confronted with the migration 
+of thousands of people over decades. 
+rather  than  come  to  terms  with  the  effects  of  migration,  the  dominican  government 
+tried  to  brutally  undo  them  by  force.  in  1937,general  rafael trujillo,  in  an  attempt  to 
+dominicanize the border, exploited a latent sense of fear about the scarcity of resources, 
+made haitians a convenient scapegoat, and ordered the massacre of thousands of haitians 
+and people of haitian descent in the border provinces. workers on dominican sugar estates, 
+most of which were owned by us companies, were protected, highlighting the tension 
+between the economic need for a low-wage labor force and the exclusion of haitians and 
+their descendants from membership in the dominican community. the trujillo dictatorship 
+also fostered a national identity and institutional racism that favored whites over blacks 
+(middleton and wigginton 2012; duany 1998; howard 2001).
+while this history laid the foundation for todays situation, changes following the decline of 
+the sugar industry in the 1980s are also important. with long-term political and economic 
+turmoil  in  haiti  and  a  more  diversified  dominican  economy,  many  of  the  haitians 
+who migrated in the last three decades work in non-sugar agricultural sectors, tourism, 
+construction, and domestic service (wooding and moseley-williams 2004, 14). on one 
+hand,  these  changes  have  proven  incompatible  with  the  dominican  desire  for  a  purely 
+seasonal, temporary haitian presence. on the other, the dominican economy was built on 
+a supply of inexpensive and compliant labor, and still depends on it for continued growth.
+
+80
+
+journal on migration and human securityhowever, the supply of haitian labor is based on more than just dominican demand; it is 
+also driven by haitis poverty and political instability. in 2011, haiti had a per capita gdp 
+of $700 and a poverty rate of 77 percent (world bank 2011b). the dominican republic, 
+on the other hand, had a per capita gdp of $5,240, or 7.5 times that of haiti, and 40.4 
+percent of the population lived at or below the poverty line (world bank 2011a). a similar 
+disparity exists regarding health. child and maternal mortality rates are more than twice 
+as high in haiti as they are in the dominican republic, and the life expectancy at birth in 
+the dominican republic is 15 years higher than in haiti (us central intelligence agency 
+2013). 
+lack of recognition of the diversity among the haitian and haitian-descendant population 
+in the dominican republic has also presented difficulties. ferguson describes this dynamic 
+well, writing that this population is characterized by voluntary and involuntary migration, 
+long and short-term residence in the dominican republic, legal and illegal entry, smuggling, 
+expulsions and a long history of human rights abuses (ferguson 2003, 9). when policies 
+motivated by anti-haitianism are implemented, the negative impacts are felt by all people 
+who  are  somehow  marked  as  haitian,  regardless  of  whether  they  are  recent  migrants, 
+third generation dominicans or even black dominicans with no haitian ancestry. anti-
+hatianism destabilizes the citizenship system, as well as broader senses of membership 
+and belonging. 
+the question of how many haitians live in the dominican republic is highly politicized and 
+further complicated by the lack of recognition of differences between recent migrants, long 
+term residents, and dominican-born descendants (baluarte 2006; wooding and moseley-
+williams 2004). official records of the dominican government show fewer than 5,000 
+lawful haitian residents of the dominican republic. the first ever national-level survey 
+of immigrants in the dominican republic found 458,233 people who were haitian-born 
+(oficina nacional de estadstica 2013), while dominican nationalist groups contend that 
+there are closer to one million haitians (baluarte 2006, 25).  
+
+threats to jus soli citizenship in the us
+in both the dominican republic and the united states, the historical migration context 
+between neighbors has shaped the discourse around jus soli citizenship as well as broader 
+narratives about belonging. the national identity of the united states is built on american 
+exceptionalism and a shared historical narrative about a nation of immigrants in which 
+opportunity is open to all.  still, worries about the swift demographic changes that became 
+evident in the 1980 census, driven in large-part by irregular immigration of mexicans and 
+other latin americans, led to discussions in political and academic circles about the best 
+ways to discourage irregular migration, stem the tide of demographic change, and integrate 
+millions of unauthorized immigrants into american society. concern over how to deal with 
+the countrys large and growing unauthorized population led to a range of proposals that 
+were debated for nearly a decade before the immigration reform and control act (irca) 
+finally passed in 1986. while irca is remembered today for creating the infrastructure 
+to grant legal status and eventual citizenship to millions of unauthorized immigrants, the 
+debate that brought irca about and the language of the bill itself also set in motion a 
+number of measures aimed at discouraging and combating irregular migration (cooper and 
+
+81
+
+citizen or subordinateoneill 2005) including employer sanctions, interior enforcement, and a rapid increase in 
+border enforcement.
+a  relative  latecomer  to  the  mainstream  policy  debate  which  preceded  the  passage  of 
+irca, the examination of jus soli citizenship in the united states as a contested area of 
+constitutional law is attributed (bloemraad 2013) to a controversial book published in 1985, 
+citizenship without consent: illegal aliens in the american polity. the book, penned by 
+two professors at yale university, peter schuck and rogers smith, questioned whether the 
+children of unauthorized immigrants merited citizenship under the fourteenth amendment 
+to the us constitution (smith 2009, 1331). this argument was swiftly taken up by both 
+politicians and advocacy organizations with restrictionist agendas like the federation for 
+american immigration reform (fair), which disseminated the publication as a solution 
+to the latin onslaught problem (culliton-gonzalez 2012, 157).
+the fourteenth amendment to the us constitution was enacted in 1868, three years after 
+the end of the civil war. its citizenship clause reads, all persons born or naturalized in 
+the united states, and subject to the jurisdiction thereof, are citizens of the united states 
+and of the state wherein they reside.2 schuck and smiths argument is that the subject to 
+the jurisdiction thereof clause is not a nod to jus soli, but rather should be read within the 
+context of consent as the foundational principle for political membership in the american 
+republic (schuck and smith 1996, 20). the two argued that the fourteenth amendment 
+did  not  require  automatic  citizenship  for  the  children  of  unauthorized  persons.  rather, 
+this was a matter left for the legislature to determine. the book contended that united 
+states v. wong kim ark,3 the foundational case that applied the fourteenth amendment to 
+confer citizenship to the children of immigrants born within us territory with very narrow 
+exceptions, applied only to citizenship of the children of legally admitted immigrants, not 
+those of unauthorized immigrants (smith 2009, 1331).
+the arguments put forth in citizenship without consent have been repudiated by a veritable 
+surfeit  of  legal  scholars  and  practitioners  (carens  1987;  eisgruber  1997;  martin  1985; 
+neuman 1987; pear 1996; rodrguez 2009; schwartz 1986) who questioned the validity 
+of legal and historical arguments posited by schuck and smith and identified the perverse 
+policy implications of reinterpreting the constitution in a manner which would solidify a 
+two-tiered caste system in a country that defines itself as a land of exceptional opportunity 
+where the socio-economic status of ones parents need not dictate ones future possibilities 
+(ho 2006; dellinger 1996; stock 2007). the critics of universal jus soli have had little 
+political success in enacting a change in the us citizenship regime, despite the persistence 
+of champions in congress over the past thirty years.
+schuck and smiths argument ultimately was published a bit too late to play a prominent 
+role in the pre-irca immigration debate of the mid-eighties, but when the controversies 
+surrounding immigration arose again, this time characterized by an exclusively restrictionist 
+flavor, the validity of jus soli citizenship for the us-born children of unauthorized immigrants 
+emerged prominently. in 1996, the republican party adopted the repeal of universal jus soli 
+citizenship as part of its party platform writing, we support a constitutional amendment 
+
+2 u.s. const. amend. xiv,  1.
+3 united states v. wong kim ark, 169 u.s. 649 (1898).
+
+82
+
+journal on migration and human securityor constitutionally-valid legislation declaring that children born in the united states of 
+parents who are not legally present in the united states or who are not long-term residents 
+are not automatically citizens (the american presidency project 1996).
+in the 1990s, irregular migration from mexico, which had declined in the years immediately 
+following the passage of irca, again began to rise (zavodny 2012). at the same time, 
+the war on crime, discontent with the welfare system, public anxiety about drugs, gang 
+violence and other public safety concerns reached their zenith as an economic downturn hit 
+the united states. mexican immigrants and mexican-americans were explicitly associated 
+with societal ills in both political discourse and popular culture, and anti-immigrant lobbies 
+grew  in  strength  (durand,  massey  and  parrado  1999,  519,  530).  seizing  the  political 
+moment, and armed with schuck and smiths conclusions on the congressional authority 
+to  limit  jus  soli  citizenship  and  a  report  from  the  restrictionist  center  for  immigration 
+studies (cis), representative elton gallegly (r-ca) took to the floor of the us house of 
+representatives on october 22, 1991, and proposed that congress act to deny citizenship 
+to the us-born children of undocumented persons.
+
+some  constitutional  scholars,  including  peter  schuck  and  roger  smith  of  yale 
+university, have suggested that birthright citizenship is an anomaly in a nation that is 
+based on the will of the people and government by consent and propose a reinterpretation 
+of the 14th amendments citizenship clauseclearly, the present guarantee under our 
+laws of automatic birthright citizenship to the children of illegal aliens is one more 
+causal factor contributing to the crisis of illegal immigration. when this enticement is 
+combined with the attraction of expanded entitlements conferred upon citizen children 
+and their families by the welfare state, the total effect of birthright citizenship laws is 
+significant and clearly harmful. it is time for congress to act to remove such powerful 
+incentives.4
+
+galleglys proposal gained attention in the press and support from members of his party 
+(fox news 2013; the american presidency project 1996; malkin 2003). in response, he 
+introduced a house joint resolution at the beginning of the 103rd congressional session 
+to amend the constitution to eliminate jus soli citizenship for all children of unauthorized 
+immigrants born after the bills enactment. the bill earned 42 co-sponsors that session but 
+never made it out of committee. subsequently, gallegly introduced or co-sponsored similar 
+bills in every congressional session thereafter until his retirement in 2012.
+the threat of these ideas is often inaccurately assessed. at its peak, proposed legislation to 
+repeal jus soli citizenship for the children of the unauthorized had 104 cosponsors. despite 
+this show of support, these threats have been largely marginal to the immigration debate, 
+as none of these bills ever made it out of committee, even with galleglys seniority and 
+leadership position on the house judiciary committees subcommittee on immigration 
+policy and enforcement in the 112th congress (smith 2009, 1333). so while the threat of 
+repeal has been a disproportionately influential anchor to the immigration debate, it has 
+never come anywhere close to winning congressional approval or broader popular support 
+(ibid). however, the fact that the citizenship of children of undocumented immigrants is 
+coming under political scrutiny makes the idea of naturalizing the unauthorized appear 
+
+4 137 cong. rec. h8180 (daily ed. october 22, 1991).
+
+83
+
+citizen or subordinateless attainable, ultimately compressing the breadth of policy proposals put forth in favor of 
+recognizing their rights and contributions. 
+
+threats to jus soli citizenship in the dominican republic
+the evolving legislation of the dominican republic, however, does constitute a serious 
+threat to jus soli citizenship. current implementation practices go beyond the letter of the 
+law to create an additional de facto threat to jus soli citizenship. throughout the countrys 
+history,  exclusionary  practices  have  predated  the  actual  legislative  or  administrative 
+changes needed to justify them. 
+through  the  1990s,  the  dominican  state  formally  recognized  a  significant  number  of 
+dominicans of haitian descent as citizens. many haitian parents were successful in using 
+haitian  identity  documents  to  register  their  childrens  births,  and  were  able  to  access 
+official  birth  certificates,  which  ultimately led  to  adult  national  identity  cards  for  these 
+children. the civil registry also habitually accepted workplace identity cards issued by 
+dominican companies that hired haitian laborers as parental identification for the purposes 
+of registering a birth (open society foundations 2010).
+however, there also developed a multi-generational class of undocumented dominicans 
+of  haitian  descent  due  to  ad  hoc  and  sometimes  regional  decisions  of  civil  registry 
+designees. without any legal basis, some civil registry offices determined that the children 
+of undocumented haitian parents did not have a right to dominican nationality. since the 
+early 2000s, the law has changed to make these ad hoc practices official and universal. 
+prior to 2010, the dominican constitution provided for a relatively straightforward jus soli 
+citizenship regime, with the exception of children born to foreign diplomats and people in 
+transit. denial of citizenship to dominican-born children of haitian descent began in an 
+ad hoc  and arbitrary way but was first justified by exploiting the in transit exception in 
+the constitution. despite this, the matter was relatively settled in dominican law. until 
+2004, the governing legislation around migration was enunciated in the rules of procedure 
+of migration no. 279 of 1939. this code clearly stated that the purpose of the person in 
+transit is merely to pass through the territory and, to this end, it establishe[d] a temporal 
+limit of  no  more than ten days.5  in  addition, the immigration act no.  95  of  1939,  as 
+well as statements by the dominican republic before the un human rights committee, 
+affirmed that in transit ordinarily applied to persons who were in the country for ten or 
+fewer days (cited in open society foundations 2010, 3).  
+in 2004, the practice of some civil registry offices of denying nationality to the dominican-
+born children of unauthorized haitian migrants became law under migration law 285-04. 
+a year later, it was upheld by the dominican supreme court. among other provisions, 
+this law applied the in transit provision within the constitution to all non-residents 
+including  temporary  foreign  workers,  migrants  with  expired  visas  and  undocumented 
+migrants, constituting a significant change in the citizenship structure of the dominican 
+republic.  in  order  to  prevent  this  new  law  from  becoming  retroactive  in  its  impact, 
+
+5 dilcia yean and violeta bosico v. dominican republic, judgment of september 8, 2005, inter-am ct. h.r. 
+(ser. c), no. 130 (2005), para. 156.
+
+84
+
+journal on migration and human securityarticles 151 and 152 within the migration law also direct the government to conduct a 
+regularization process for long-term unauthorized migrants who meet specific eligibility 
+requirements  (wooding  2009;  open  society  justice  initiative  and  center  for  justice  in 
+international law2013). however, such a regularization plan has never been implemented 
+and retroactive application became the norm.
+specifically, migration law 285-04 directs hospitals to give non-resident mothers different 
+certificates of live birth than those given to resident mothers. the regular certificates of 
+live birth given to dominican citizens and legal residents can be presented at the office of 
+the civil registry to receive an official birth certificate. this official birth certificate, in turn, 
+allows children to take school examinations. a certified copy of the official birth certificate 
+is also used to get an adult identification card upon the childs 18th birthday. 
+the  certificates  of  live  birth  given  to  non-resident  mothers  cannot  be  used  to  get  an 
+official birth certificate. these special certificates grant no rights to the child and place 
+no obligations upon the dominican state. instead, they are sent to the ministry of foreign 
+relations,  the  directorate  for  migration,  and  the  central  electoral  board  (jce,  by  its 
+spanish acronym), which is the government agency responsible for administering the civil 
+registry. eventually, information from the certificates is entered into the foreign register. 
+under  the  law,  non-resident  parents  should  register  their  children  with  the  embassy  or 
+consulate of their country of origin in order to access an official birth certificate.
+without the regular certificate of live birth, non-resident parents cannot access an official 
+birth certificate for their children, preventing them from obtaining identification cards upon 
+reaching adulthood. this break in the chain of official documentation was anticipated by 
+scholars who pointed to birth registration as an important point of vulnerability, claiming 
+that without proof of these ties, the child [of unauthorized immigrants] will have difficulty 
+claiming  the  nationality  to  which  he  [or  she]  is  entitled  (van  waas  2007).  similarly, 
+unicef describes an official birth certificate as a membership card for society that
+open[s] the door to the enjoyment of a whole range of other rights including education and 
+health care, participation, and protection (unicef 2002, 1).
+the  identification  card  and  a  notarized  single-use  copy  of  the  birth  certificate  are  the 
+documents required to access most rights and opportunities in the dominican republic, 
+including secondary education, jobs in the formal sector, state-recognized marriage, a bank 
+account,  and  the  right  to  vote.  in  fact,  dominican  law  requires  that  all  adults  carry  an 
+identification card, and being caught without one can result in fines, imprisonment or, in rare 
+cases, deportation (open society foundations 2010, 4). although the right to nationality is 
+regulated by law, it is manifested in the issuance of these documents.
+since  2004,  these  documents  and  the  enjoyment  of  rights  linked  to  their  possession 
+have become even more difficult to access for dominicans of haitian descent. in 2007, 
+contemporaneously with the implementation of the migration law, the jce issued circular 
+017, directing civil registry officers not to give anyone with suspect documents a certified 
+copy of their birth certificate. however, the determination that documents are suspect is 
+entirely up to the discretion of each civil servant. civil registry officials have admitted to 
+using darker skin color, facial features associated with haitians, a persons accent, and
+
+85
+
+citizen or subordinatehaitian-sounding names to make determinations (open society foundations 2010; open 
+society justice initiative and center for justice in international law 2013).
+the following year, resolution 12-2008 was released. this internal administrative memo 
+authorized civil registry officials to suspend state identification documents if the documents 
+were deemed irregular. the effects of suspension have been severe. while their documents 
+are  under  investigation,  a  process  that  can  sometimes  take  years,  affected  individuals 
+cannot  do  anything  that  requires  proof  of  citizenship  or  lawful  residence.  ostensibly 
+intended to clean up the civil registry from years of fraud, corruption, and incompetence, 
+the implementation of the resolution has inconsistently and disproportionately affected 
+dominicans of haitian descent. 
+in 2011, the supreme court upheld circular 017 and the actions of the jce in refusing to 
+give emildo bueno, a dominican of haitian descent, a certified copy of his birth certificate. 
+the court held that the jce has the authority to implement any administrative measure 
+needed  to  manage  the  civil  registry  and  implement  the  relevant  laws,  including  the 
+2004 general law on migration (open society justice initiative and center for justice in 
+international law 2013, 10-11).
+the  implementation  of  circular  017  and  resolution  12  has  thus  clearly  extended 
+beyond the letter of the actual legislation. in addition to instances in which civil registry 
+officials used problematic evidence such a skin color and haitian-sounding names to 
+label documents as suspect and suspend them, there have also been instances in which 
+officially-issued  documents  were  retroactively  invalidated  through  administrative  de-
+nationalization declarations which are made verbally by officials of the jce rather than in 
+judicial proceedings as mandated by dominican law (open society justice initiative and 
+center for justice in international law 2013).
+the  impacts  of  these  legislative  and  administrative  changes  have  also  been  noted  by 
+international  bodies.    in  2005,  the  inter-american  court  of  human  rights  issued  its 
+decision in the dilcia yean and violeta bosico v. dominican republic case. the court 
+found that the dominican republic had applied its nationality and birth registration laws 
+in  a  discriminatory  manner  which  had  the  effect  of  rendering  dominican  children  of 
+haitian descent effectively stateless and barred them from accessing basic human rights 
+in violation of the inter-american convention on human rights (baluarte 2006, 27). as 
+a result, the court ordered the government to comply with its own constitution and, more 
+specifically, to create an effective process for granting birth certificates to all children born 
+in the country, regardless of their parents migratory status.6
+the  ruling  was  the  first  judgment  against  the  dominican  republic  since  it  ratified  the 
+jurisdiction of the inter-american court in 1999, and the backlash against it was severe. 
+in addition to extremely negative coverage in the media and several outbreaks of violence 
+against haitians and dominicans of haitian descent, the vice president spoke out against 
+the validity of the courts decision and the dominican senate issued a resolution officially 
+rejecting the courts ruling (baluarte 2006).
+
+6 dilcia yean and violeta bosico v. dominican republic, judgment of september 8, 2005, inter-am ct. h.r. 
+(ser. c), no. 130 (2005).
+
+86
+
+journal on migration and human securityin 2010, the dominican government revised its constitution. in the newest version of the 
+constitution, the children of unauthorized immigrants were explicitly added to the list of 
+those excluded from jus soli citizenship. however, the drafters of the 2010 constitution 
+were careful to include language explicitly forbidding the retroactive application of new 
+citizenship provisions.  article 110 states, the law only mandates and applies to the future. 
+it  does  not  have  a  retroactive  effectin  no  case  will  political  leaders  or  the  law  have 
+the ability to affect or change the juridical security derived from situations established in 
+adherence to prior legislation.7
+nevertheless, cases of retroactive application of the new constitutional provisions have been 
+well-documented (open society justice initiative and center for justice in international 
+law 2013). several dominicans of haitian descent have challenged the denial of their 
+identity documents in court, and many have won in the first instance. however, to date, 
+the jce has not complied with these rulings and has appealed all decisions (ibid, 10-11). 
+the open society foundations, like most other human rights organizations, paints a grim 
+picture of the current reality for dominicans of haitian descent.
+
+in the dominican republic, enjoyment of the right to nationality has become all but 
+impossible for persons of haitian descent. following decades of ad hoc discrimination 
+in access to the identity documents that recognized them as lawful citizens, dominicans 
+of haitian descent have since 2004 faced an avalanche of hostile legislative changes 
+and  administrative  policies  that  have  restricted  their  ability  to  enjoy  [dominican] 
+nationality . . .singled out because of their national origin and their skin color, thousands 
+of dominicans of haitian descent have been left effectively stateless and permanently 
+excluded from the political, economic, social and cultural life of their country of birth 
+and residence. (open society foundations 2010, 2)
+
+the effect of the struggle around jus soli citizenship in 
+the united states
+while critics of jus soli citizenship in the united states have not been as effective as their 
+counterparts  in  the  dominican  republic,  their  campaign  has  still  affected  immigration 
+policy in significant ways. in the post-civil rights era, apartheid-like legal regimes have 
+been thoroughly rejected. nevertheless, the legislative reinterpretation of the fourteenth 
+amendments  jus  soli  citizenship  clause  would  create  a  permanent  second-tier  of  us 
+residents. while the frontal attack on jus soli citizenship in the us has been unsuccessful, 
+the threat of revoking jus soli citizenship has been used to carve out the far-right flank of 
+the immigration debate in the united states. in early 2013, as all signals pointed towards a 
+concerted effort to move immigration legislation through congress, it was no accident that 
+one of the first pieces of immigration-related legislation introduced in the 113th congress 
+was representative steve kings birthright citizenship act of 20138 which would bar jus 
+soli citizenship for children of undocumented migrants in the future. 
+the effect of pulling out the right flank can be seen concretely within the current immigration 
+debate. representative bob goodlate, the chairman of the house judiciary committee 
+7 dominican republic const. art. cx,  4.
+8 h.r. 140, 113th cong (2013). 
+
+87
+
+citizen or subordinatefor the 113th congress, has suggested a pathway to legalization, but not citizenship, for 
+those unauthorized people who meet certain eligibility criteria. this proposed creation of 
+a permanent second-class of residents has the effect of making the alternative proposal in 
+the senate, an approximately thirteen-year provisional status that could eventually lead to 
+citizenship for some percentage of the unauthorized, seem exceedingly generous.
+alternately, the fact that unauthorized youth known as dreamers have garnered broad 
+and  bipartisan  support  has  pulled  out  the  left  flank  as  well.  in  2001,  the  dream act 
+(development, relief and education for alien minors act) was introduced for the first 
+time. although it has appeared in numerous permutations since 2001, all versions have 
+been premised on the idea that persons who were brought to the us as children should not 
+be punished with permanent unauthorized status because of the choices of their parents. 
+this idea has its foundation in some of the same anti-caste principles and equal protection 
+jurisprudence that support jus soli citizenship acquisition in the united states (rodrguez 
+2009, 1337).9 10 since the initial introduction of the act, dreamers have been caught 
+in an intermediary limbo status. while increasingly embraced as recognized members of 
+us society, they remain in a tenuous legal position created by an administrative waiver 
+(napolitano 2012; saavedra 2012). 
+the  nearly-universal  recognition  of  dreamers  membership  rights  was  forecasted  20 
+years earlier by supreme court justice brennan when he found that laws that im[pose] 
+a lifetime of hardship on a discrete class of children not accountable for their disabling 
+status to be incompatible with fundamental conceptions of justice.11 dreamers still do 
+not have permanent legal status, but due to the prosecutorial discretion of the department 
+of homeland security, they have a measure of protection against detention and deportation. 
+this intermediary status has been expanded even further under the obama administrations 
+deferred  action  for  childhood  arrivals  (daca)  program.  under  daca,  dream-
+eligible young people can apply for a two-year reprieve from the risk of deportation as 
+well as work authorization if they can demonstrate economic necessity.
+the political effect of mobilized dreamers and their allies, and the ability of this group 
+to  capture  the  imagination  of  the american  public  and  redefine  what  it  means  to  be 
+american has been particularly visible during the 2013 immigration debate.  even staunch 
+restrictionist agencies like the center for immigration studies which vociferously opposed 
+the dream act when it came to vote in 2010, have repeatedly conceded the need to find 
+a solution for young immigrants who entered the united states as children. in testimony 
+before the senate judiciary committee, ciss jessica vaughan stated, lawmakers should 
+start with areas of reform around which there is already significant consensus and popular 
+support. these includeamnesty for illegal aliens brought by their parents at a young age 
+and who grew up here (vaughan february 13, 2013).
+during the decade since senator durbin first introduced the dream act, these immigrant 
+youth have managed to frame themselves as the modern-day versions of the tenacious and 
+enterprising immigrants of decades past who will inject american society with a renewed 
+youthful passion and vigor. in the stories of the dreamers, many native-born citizens 
+9 united states v. wong kim ark, 169 u.s. 649 (1898).
+10 plyler v. doe, 457 u.s. 202 (1982).
+11 ibid
+
+88
+
+journal on migration and human securityhave recognized echoes of their own immigrant ancestors stories (keyes 2013, 5,10). the 
+dreamer narrative reinforces and builds upon the dual american meta-narratives of a 
+nation of immigrants and a land of opportunity.  at the same time, the dreamers have 
+consciously and consistently established themselves and their movement as the heirs to 
+the struggle for equality of civil rights era activists, staging provocative sit-ins and non-
+violent protests, marches and acts of civil disobedience. channeling langston hughes 
+let america  be america again,  pulitzer  prize  winning  dreamer  and  activist  jose 
+antonio vargas came out as an unauthorized immigrant in the new york times in 2011, 
+saying, even though i think of myself as an american and consider america my country, 
+my country doesnt think of me as one of its own (vargas 2011). the dreamers appeal 
+for inclusion is also grounded in ideas of american exceptionalism as a national mythology 
+that  typifies  achievement  against  all  odds  as  only  possible  in america  (keyes  2013, 
+10). this sense of american exceptionalism, pervasive across the us political spectrum, 
+supports jus soli citizenship for the children of unauthorized immigrants because many 
+european nations do not grant citizenship rights to similarly situated children (ho 2006).
+the initial wins of the dreamers have gone a long way toward undermining the argument 
+against jus soli citizenship for the children of unauthorized immigrants. some have expressed 
+concern (keyes 2013) that the way in which dreamers appeal to their worthiness may 
+undermine the citizenship claims of other less worthy individualsshifting the collective 
+conception of belonging in ways that create winners and losers. however, it seems that the 
+efforts of the dreamers have broadened the american understanding of who is really 
+american based on what ayelet shachar calls jus nexi, or citizenship based in rootedness. 
+in  shachars  assessment,  such  an  understanding  of  citizenship  would  align  ones  legal 
+status with the social fact of [ones] attachment (shachar 2007, 116). this same concept 
+was echoed by president obama who said of the dreamers, they are americans in 
+their heart, in their minds, in every single way but one: on paper (obama 2012). while 
+dreamers are still not americans on paper, the presidents recognition of their identity 
+gives critics of jus soli citizenship an increasingly heavy persuasive burden.
+
+the effect of the struggle around jus soli citizenship in 
+the dominican republic
+while  the  dreamers  successes  show  the  dynamic  nature  of  public  willingness  to 
+redefine societal membership, the case of dominicans of haitian descent is instead a tale 
+of entrenchment. recent legislative and administrative changes show a trend away from 
+inclusive  rights  recognition  and  toward  denial  of  citizenship  to  dominicans  of  haitian 
+descent. pressure from the international community and an organized movement within the 
+dominican republic have tended to focus on the gap between existing legal protections and 
+their implementation. even though jus soli citizenship was enshrined in the constitution, 
+civil  registry  offices  denied  nationality  to  dominicans  of  haitian  descent  before  this 
+practice became legal in 2004. the 2010 constitutional revision excluding the children of 
+unauthorized immigrants from jus soli citizenship prohibits the retroactive application of 
+new citizenship laws, yet cases of retroactive application for persons suspected of haitian 
+ancestry persist. 
+
+89
+
+citizen or subordinatewhen confronting implementation anomalies such as this, scholars have often argued that 
+the growing divide between citizens and non-citizens is primarily a problem of lapsed 
+enforcement of existing norms (goldston 2006). yet, implementation does not invariably 
+shift  over  time  into  increasingly  faithful  compliance  with  that  law.  the  trend  in  the 
+dominican republic has been one of shifting over time to come closer and closer to a 
+discriminatory practice that was already well established, spreading and further cementing 
+it throughout the country.
+the concept of denying jus soli citizenship to children of haitian descent ripened in a 
+political and cultural climate in which dominicanness was defined as the direct opposite 
+of haitianness. historical tensions and fears have fueled both ad hoc and codified denial 
+and revocation of dominican citizenship. exploited by mainstream political figures seeking 
+to capture populist and nationalistic zeal, the morality and consequences of citizenship 
+denials and revocation have received little scrutiny by the two dominant political parties.  
+within  this  political  climate,  the  dominican  government  has  responded  to  critiques  of 
+the gap between existing law and current practice by amending the law to reflect these 
+discriminatory practices.  
+because many nations respond to criticism of failed enforcement by moving in the opposite 
+directionby improving implementation of the law, not changing lawsthe tendency of 
+civil society within and outside of the dominican republic, as well as international bodies 
+like the organizations of american states, has been to frame their critique of the dominican 
+republics current citizenship regime in terms of a broader need for rule of law. within this 
+perspective, they have urged the dominican government to better align the actual practices 
+of civil servants with the protections in the constitution. the increasingly exclusionary 
+shifts within the dominican republic over the last decade show that it is an expanded 
+understanding of dominican identity, not an increased respect for rule of law, which will 
+be the primary driver of rights recognition and provision of citizenship over time.
+the  movement  of  young  dominicans  of  haitian  descent,  many  of  whom  had  official 
+documentation before 2007, pursues this strategy by carrying out public actions and protests 
+(reconoci.do 2011b) in pursuit of a more inclusive conception of national membership.  
+just  like  the  dreamers,  the  youth  movement  in  the  dominican  republic  has  used 
+individual testimonies (reconoci.do 2011a) of particularly exceptional young people to 
+show the worthiness and essential dominicanness of the group. the dreamers have 
+appealed to the unfairness of being punished for an act in which they had no part. many 
+dominican youth of haitian descent also draw on values of fairness when they denounce 
+the  retroactive  application  of  laws  and  practices  that  suspended  or  revoked  documents 
+administered by and previously recognized by the dominican state. 
+while the dominican republic remains alarmingly hostile to these young people, a recent 
+split within the civil registry shows willingness by some officials to find a legal remedy to 
+the permanent limbo in which dominicans of haitian descent live (tejeda 2013). similarly, 
+the young people recently began demanding that the president break his silence on the 
+issue of their denationalization, indicating a belief that if forced to speak, president danilo 
+medina would speak in their favor (batista 2013; reynoso 2013).
+
+90
+
+journal on migration and human securityconclusion
+jus  soli  citizenship  regimes  are  an  important  defining  characteristic  of  the  americas. 
+until recently, both the dominican republic and the united states had language in their 
+constitutions  which  conferred  jus  soli  citizenship  with  very  limited  exceptions.  both 
+struggle to respond to migratory flows of large numbers of unauthorized migrants. despite 
+these similarities, the discourses around jus soli citizenship, particularly for the children 
+of unauthorized migrants from poorer neighboring countries, have manifested in radically 
+different ways.
+in the united states, in response to rapid demographic change and an increase in unauthorized 
+immigration, restrictionist organizations and politicians have revived a largely settled legal 
+question  by  contesting  the  century-old  interpretation  of  the  fourteenth amendment  as 
+embodying an anti-caste or anti-subordination principle (rodrguez 2009, 1365). critics 
+of universal jus soli citizenship have failed in their attempt to reinterpret the constitution, 
+and the citizenship of children of undocumented immigrants has never really been under 
+imminent  threat  in  the  united  states.  however,  the  presence  of  this  question  on  the 
+political agenda may make a multi-tiered system of intermediary statuses for unauthorized 
+immigrants more palatable. in the dominican republic, on the other hand, ethnocentric 
+discriminatory practices for conferring citizenship at birth have been increasingly codified 
+into  law.  the  debate  over  jus  soli  citizenship  for  dominicans  of  haitian  descent,  also 
+centering on a previously settled legal question, has conversely served as a justification for 
+this evolution. 
+in both cases, the debates have at times been framed in nationality and racially neutral 
+language.  however,  the  everyday  consequences  have  disproportionately  been  felt  by 
+mexicans in the united states (van hook and fix 2010, 5) and haitians in the dominican 
+republic (wooding and moseley-williams 2004). this is the result of geography, history 
+and  identity  politics.  the  resilience  of  these  dynamics  means  that  the  constitutional 
+constructs of citizenship in the united states [and the] dominican republicwill continue 
+to  function  under  the  tremendous  weight  of  each  societys  racial,  ethnic,  and  socio-
+economic biases(middleton and wigginton 2012, 541). within this reality, the challenge 
+for  governments  is  to  operationalize  citizenship  regimes  independent  of  nationalistic, 
+ethnocentric, and racial biases (middleton and wigginton 2012, 541).
+in the united states, jus soli citizenship debates often distract from the serious conversation 
+about reforming the ways in which immigrants are integrated into our society. understood 
+in the context of the civil rights movement and reasoning behind the promulgation of the 
+fourteenth amendment, the jus soli debate is marginal and should remain so. this proposal 
+would only increase the already high number of 11 million unauthorized us residents.
+in the dominican republic, the implementation of the new citizenship regime, particularly 
+its retroactive application, exacerbates income inequality, illiteracy, family instability, and 
+public health threats, in addition to violating internationally recognized rights. to prevent 
+these negative outcomes, the dominican republic should amend the 2010 constitutional 
+provisions regarding nationality to include children of unauthorized migrants, ensure that 
+the constitution and the general law on migration of 2004 are not applied retroactively, 
+repeal circular 017 and resolution 12, stop disseminating administrative guidelines that 
+
+91
+
+citizen or subordinatecontradict existing law, develop effective implementation guidance to ensure that all persons 
+born in the dominican republic receive non-discriminatory access to identity documents, 
+and respect the jurisdiction of international bodies to which it belongs.
+however,  recognizing  that  these  changes  are  unlikely  in  the  short  term,  civil  society 
+strategies should focus on confronting notions of national identity. looking to the success 
+of  dreamers  and  their  allies  in  the  united  states  over  the  last  decade  in  redefining 
+concepts  of  belonging  and  membership  to  include  unauthorized  minors,  it  is  clear  that 
+identity politics can and do shift, at times rapidly. organized movements of youth in the 
+dominican  republic  already  exist  and  may  present  the  best  chance  for  confronting  a 
+culture of segregation and exclusion. despite significant differences between the contexts 
+of the two countries, the progress of the dream movement in the united states may offer 
+some of the best lessons for advocates and affected persons within the dominican republic 
+seeking to challenge the status quo.    
+

@@ -1,0 +1,769 @@
+separated families: barriers 
+to family reunification after 
+deportation
+
+deborah a. boehm 
+university of nevada, reno
+
+executive summary
+this  paper  outlines  the  complexities    and  unlikelihood    of  keeping 
+families together when facing, or in the aftermath of deportation. after 
+discussing  the  context  that  limits  or  prevents  reunification  among 
+immigrant  families  more  generally,  i  outline  several  of  the  particular 
+ways that families are divided when a member is deported. drawing on 
+case studies from longitudinal ethnographic research in mexico and the 
+united  states,  i  describe:  1)  the  difficulties  in  successfully  canceling 
+deportation orders, 2) the particular limitations to family reunification for 
+us citizen children when a parent is deported, and 3) the legal barriers 
+to authorized return to the united states after deportation. i argue that 
+without comprehensive immigration reform and concrete possibilities for 
+relief, mixed-status and transnational families will continue to be divided. 
+existing laws do not adequately address family life and the diverse needs 
+of individuals as members of families, creating a humanitarian crisis both 
+within and beyond the borders of the united states. the paper concludes 
+with recommendations for immigration policy reform and suggestions for 
+restructuring administrative processes that directly impact those who have 
+been deported and their family members.
+
+introduction
+in recent years, the united states has deported an unprecedented number of noncitizens, 
+with  more  than  three  million  in  the  last  decade  alone,  including  a  record  high  year  in 
+2012 of 409,849 deportations (ice 2016, 2). and, apprehensions, the detention of foreign 
+nationals,  and  the  increased  threat  of  deportations  have  come  to  define  the  weeks  and 
+months following the inauguration of president trump. transnational and mixed-status 
+families face new risks of deportation as executive orders are announced and implemented, 
+even  when  family  life  is  not  explicitly  addressed.1  over  the  past  decade,  deportations 
+have  resulted  in  families  divided  like  never  before,  and  based  on  the  current  chaos, 
+ 
+1   see border security and immigration enforcement improvements, exec. order no. 13767, 82 fed. reg. 
+8793 (jan. 25, 2017), and protecting the nation from foreign terrorist entry into the united states, exec. 
+order no. 13769, 82 fed. reg. 8977 (jan. 27, 2017), as well as memos from secretary john kelly (2017a; 
+2017b) outlining their implementation.
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 2 (2017): 401-416unpredictability, and even delirium caused by state-enacted removals (kanstroom and 
+lykes 2015), this trend is likely to intensify.
+as i argue, high rates of deportations and increased deportability (de genova 2002), or 
+the threat of deportation, are causing a humanitarian crisis that is displacing individuals 
+and separating families in unprecedented ways. immigration and deportation have long 
+impacted families, but an overall increase in deportations coupled with a growing number 
+of mixed-status families  there were an estimated 3.3 million mixed-status households in 
+the united states in 2014 (warren and kerwin 2017, 1)  mean that today families face 
+divisions like never before. millions of people have been and will continue to be impacted, 
+including noncitizens who are deported and their undocumented migrant family members, 
+but also a high number of us citizens with family ties to deportees. 
+in large part, the current crisis stems from decades without policies that adequately outline 
+possibilities for maintaining or allowing for family reunification. instead, us immigration 
+policy has been made up of a patchwork of particular laws, de facto practices, administrative 
+procedures,  executive  orders,  and,  significantly,  decades  without  new  legislation  that 
+considers family separation. not since the immigration reform and control act of 1986 
+(irca) has the united states passed legislation that included a broad path to citizenship 
+for undocumented immigrants. thus, without immigration law reform, immigrant families 
+will continue to suffer  through migration, but increasingly as a result of deportation. 
+indeed, it is those on the ground  immigrants and their loved ones, including children, 
+parents, siblings, and partners  who are paying the price (capps et al. 2007) for an 
+absence of laws that consider the humanity of immigrants and those connected to them.
+the  haphazard  and  unpredictable  character  of  immigration  policy  and  its  absence  in 
+recent decades  and in recent months  has resulted in a situation that imperils families 
+throughout the united states. the current policy context makes deportation a legal and 
+practical dead-end for most immigrants and their families: once families experience the 
+deportation of a loved one, there are few, if any, options for family reunification in the united 
+states through legal channels. building on policy analysis and longitudinal ethnographic 
+research in mexico and the united states, i outline the complexities and unlikelihood of 
+achieving family reunification in the current climate. after providing background about 
+the policies that shape family reunification and perpetuate family separation, i discuss three 
+case studies as a way to illustrate the specific challenges that families face when a loved 
+one is deported. i conclude with recommendations for policy reform as well as suggestions 
+for temporary actions that might address family ties and better support family unity. 
+
+background: existing policy (and its absence)
+the policies that direct family reunification are legally and logistically complicated. the 
+principle of family reunification has been established through the passage of several laws 
+over time, including the emergency quota act of 1921, the mccarran-walter act of 1952, 
+and the immigration and nationality act (ina), or hart-celler act of 1965 (maddali 2016, 
+111).2 although immigrants with family members who are us citizens or lawful permanent 
+2   see maddali (2016) for discussion of the development of family reunification as a guiding principle over 
+time.
+
+402
+
+journal on migration and human securityresidents may be able to change their status based on family relations, family reunification 
+is, as anita ortiz maddali (2016, 111) outlines, a principle that is limited. many families 
+do not include members with a status that makes them eligible for family reunification in 
+the first place and certain family members are prioritized and/or excluded from the process, 
+making family reunification a challenge  if not impossibility  for most immigrant 
+and mixed-status families.
+the laws that changed the nations immigration priorities to emphasize family reunification 
+have brought (some) families together. still, as i have argued elsewhere, such legislation 
+has  also  divided  families,  especially  through  processes  and  procedures  that  engage 
+specifically with individuals (boehm 2012, 61-62; see also thronson 2015). by singling 
+out the border and the individual as the sites for regulatory enforcement (sassen 1996, 
+10), the us government does not systematically identify migrants as members of families, 
+even as its policies explicitly name family reunification as a priority. thus, paradoxically, a 
+focus on individuals creates mixed-status families and obstructs family reunification even 
+as it continues to be ostensibly a guiding principle of us immigration policy.  
+additionally, immigration laws influence families even when they do not explicitly focus 
+on family life. as an example, consider the illegal immigration reform and immigrant 
+responsibility act (iirira) of 1996. iiriras emphasis on enforcement and penalties 
+rather  than  immigrant  inclusion  has  had  a  devastating  and  lasting  impact  on  families, 
+separating  relatives  because  of  the  laws  rigidity  and  the  fact  that  it  provides  so  few 
+opportunities for relief (clinic 2005). the legal ramifications of iirira, the merger 
+of criminal and immigration law (stumpf 2006, 369), and the increased criminalization 
+of immigration more generally over time (e.g., dowling and inda 2013; stumpf 2006) 
+have translated into public discourse that crudely casts migrants as criminals. depictions 
+of  migrants  as  members  of  families        mothers,  fathers,  children,  partners,  siblings, 
+grandparents, aunts and uncles, cousins, and other kin relations  are largely absent from 
+political and policy debates.
+families  are  also  impacted  by  a  variety  of  other  barriers  and  challenges,  including 
+unpredictable  and 
+inconsistent  yet  virulent  enforcement  practices.  immigration 
+enforcement, raids, and increased policing clearly have detrimental effects on communities, 
+and especially on families and children (capps et al. 2007; dreby 2012; thronson 2015). 
+under  the  obama  administration,  the  specifics  of  apprehension  and  deportation  were, 
+despite national priorities, often arbitrary depending on particular circumstances, place of 
+residence, and the actions of individual law enforcement officers, immigration officials, 
+and judges. now, as a result of recent executive action, even ostensible national priorities 
+have been suspended, such that under the trump administration, randomness and chaos are 
+ever more present.
+and finally, administrative processes separate families and prevent family reunification. for 
+example, not all familial relationships fit the preference categories outlined by immigration 
+law  (see thronson  2015),  significant  backlogs  in  processing  can  result  in  wait  periods 
+that extend for a decade or more (clinic 2005, 3-9; kerwin 2014, 336), and events that 
+are commonplace  such as entry without inspection or the use of a borrowed social 
+security number and other forms of identity loan (horton 2016, 73)  can bar migrants 
+from living in the united states for years or indefinitely (see gomberg-muoz 2016). and, 
+
+403
+
+separated families: barriers to family reunification after deportationthe lengthy and extensive bureaucratic processes required for family reunification result 
+in policies that are implemented in contradictory ways. these different factors mean that 
+family reunification, even if codified through law, is never fully realized in practice and 
+instead continues to be unattainable for millions of individuals and their loved ones. 
+so,  while  legislation  has  eliminated  national  origin  quotas  and  established  family 
+unification as a guiding principle for us immigration law (desipio and de la garza 1998, 
+42), us immigration policies repeatedly create circumstances that divide families (abrams 
+and piacenti 2014; thronson 2006; thronson 2007). existing laws provide an incomplete 
+set of guidelines for considering family relations. and, because the principle of family 
+reunification  already limited in the case of immigration  does not apply to families 
+facing the deportation of an individual, the reunification of family members in the united 
+states can be nearly impossible during deportation proceedings or after a family member 
+has been deported. in most cases, families have little or no recourse or opportunities to 
+come together after a deportation separates them across borders.
+thus, the nations contemporary immigration system is defined in large part by its gaps 
+and a lack of sound legislation that might address the more than 11 million immigrants 
+currently living in the united states without authorization and their families. this articles 
+proposals center on how to rethink immigration law and administrative procedures, and 
+potential ways  through both legislation and the administration of policy  to ensure that 
+families divided by immigration status and deportation can stay together. in the following 
+discussion,  i  outline  three  cases  that  underscore  some  of  the  challenges  or  barriers  to 
+reunification that existing policies present. family reunification  already complicated in 
+the context of immigration  is that much more inaccessible when migrants are deported.
+
+exceptional and extremely unusual hardship
+
+case study: federico and gaby
+
+for federico and gaby, deportation meant packing up a home and making arrangements 
+for a sudden departure, but it also required gathering up a life of 25 years and making 
+choices  about  what  would  have  to  be  left  behind.  federico  and  his  family  parted  with 
+nearly everything: we lost the house, we lost many things. we gave things away. we tried 
+to make arrangements so that we could leave, but, well . . . we lost a lot. many of the 
+familys losses were material, but, as federico described, the less tangible losses were far 
+more profound. 
+born in a small, rural community in zacatecas, mexico, federico migrated as a young man, 
+in the 1980s, to los angeles, california. several months later, his wife, gaby, followed, 
+and they made the united states their home, living for more than two decades in southern 
+california. after spending all of his adult life in the united states as an undocumented 
+migrant, federico wanted desperately to fix his papers, to change his status so that he 
+would be authorized to be in the country. federico was not comfortable living hidden, and 
+so he consulted with an attorney and was told that he was eligible to apply for permanent 
+residency. he felt a deep connection  and had given much  to the nation. as he told 
+
+404
+
+journal on migration and human securityme: i value the way of life in the united states. the united states is a good country. 
+he worked for the same company for 16 years, had five us citizen children (ages 10-24), 
+volunteered at prisons through his local parish, and was part of a strong network of family, 
+friends, neighbors, coworkers, and church members.
+he began the paperwork to process a change in immigration status for gaby and himself, 
+but after the applications were submitted, the couple was contacted by us citizenship 
+and immigration services (uscis) and told that they were not actually eligible to receive 
+green cards. instead, federico and gaby were placed in removal proceedings and told that 
+they were likely going to be deported. the couple also learned that the attorney who had 
+required advance payment and submitted the applications was not an attorney at all, but a 
+notary public. the notary had, erroneously and intentionally, told federico and gaby that 
+they were eligible for us lawful permanent residency. they had been the victims of fraud. 
+their effort to obey the law and to do the right thing started a process in motion that had 
+the seemingly inevitable end of deportation.
+federico immediately hired an immigration attorney. however, despite efforts to cancel 
+the removal order, federico and gaby were told that, five years after first filing for an 
+adjustment of status, they had to leave the country or face imprisonment. when the letter 
+arrived informing us that we had to leave, it was very difficult. i thought, how am i going 
+to do this? what am i going to do back in mexico? after so many years here, so many 
+years that my family lived here . . . federicos voice trailed off, his eyes teary. i feel it was 
+caused by the judges bad decisions. im not saying that we were without fault, but judges 
+should consider the family. 
+each time i visited with federico and his family in mexico, he spoke of the hardships 
+they  faced:  federicos  successful  career  had  been  disrupted  and  he  was  forced  to  start 
+anew financially, the family could not live together in the united states with government 
+authorization, and, especially painful, federico and gaby were unable to be present for 
+the birth of their first grandchild. federico repeated how much he hoped that he and gaby 
+would  be  able  to  return  to  the  united  states.  he  told  me  that  they  would  only  do  so, 
+however, if they were able to find a way to go home within the boundaries of the law. 
+for some time, i received emails from federico inquiring about the possibility of a pardon 
+or an appeal. perhaps there is another way to receive permission to enter the country? 
+he  asked  about  potential  ways  to  change  his  status:  could  an  attorney  find  a  way  for 
+them to return? would a pardon be possible? was there any way to fix the situation and 
+ultimately reverse the deportation?3
+
+* * *
+
+the  case  of  federico  and  gaby  points  out  some  of  the  limitations that  divide  families 
+as they face the possibility, or as the direct result, of the deportation of family members. 
+upon  receiving  the  letter  outlining  their  removal,  federico  and  gaby  immediately 
+contracted with a highly recommended attorney and requested cancellation of removal. 
+yet, although their previous attorney was actually a notary public who had committed 
+fraud by providing (incorrect) legal advice, federico and gaby were unable to successfully 
+
+3   for this and other vignettes about federico and gaby, see boehm (2016). this excerpt is from pages 43-44 
+and 134. 
+
+405
+
+separated families: barriers to family reunification after deportationstop the deportation.4 the many hardships the family would face because of deportation 
+were not deemed sufficient to allow the couple to stay in the united states so that all family 
+members could remain together in the country. 
+according  to  the  ina,5  cancellation  of  removal  for  non-lawful  permanent  residents  is 
+possible  only  if  the  individual  has  been  physically  present  in  the  united  states  for  a 
+continuous period of not less than 10 years, has been a person of good moral character 
+during such period, has not been convicted of an [specified] offense, and, establishes 
+that removal would result in exceptional and extremely unusual hardship to the aliens 
+spouse, parent, or child, who is a citizen of the united states or an alien lawfully admitted 
+for permanent residence. in federico and gabys case, the couples new attorney informed 
+them that  despite the many reasons that a cancellation would seem logical and although 
+the deportation did indeed create hardship for their children  their particular case was 
+not likely to be approved. in order to do so, they would need to prove that their us citizen 
+children  faced  exceptional  and  extremely  unusual  hardship,  an  option  that  is  rarely 
+attainable (thronson 2015, 37).
+and indeed, the rates of successful cancellations of removal corroborate what federicos 
+attorney confirmed. the statutory cap is 4,000 per year, and from 2011 through 2015, the 
+number  of  cancellations was  on  average  about  one  percent  of  the  number  of  removals 
+(eoir 2016, n1; ice 2016).6 federico and gaby undeniably faced hardship due to the 
+pending  deportation,  but  in  their  case    like  the  cases  of  so  many  and  therefore  not 
+understood to be extremely unusual  the narrow definition of hardship did not account 
+for  the  multiple  struggles  that  deportation  in  fact  creates. as  outlined  in  the american 
+bar associations report, american justice through immigrants eyes, after the passage 
+of iirira, possibilities for relief through a cancellation of removal became even more 
+unlikely (aba 2004, 41), again underscoring how the period post-irca, from the 1990s 
+to today, has made family unity that much more difficult to achieve.
+once  deported,  the  couple  explored  the  possibility  of  requesting  what  federico  called 
+a  pardon.  he  contacted  several  immigration  attorneys  to  ask  about  the  likelihood  of 
+successfully being granted permission to return, but little came of it. all the lawyers had 
+the same read of federico and gabys situation:  authorized return after deportation would 
+be nearly impossible. they explained that he could apply for such permission  this would 
+require completing and submitting an i-212, application for permission to reapply for 
+admission into the united states after deportation or removal  but that such requests 
+are not often approved. as the attorneys outlined, the statutory bar would run for 10 years, 
+and documented return before that time was very unlikely.
+and finally, as i discuss in the following section, federico and gabys case underscores the 
+challenges to  and often impossibility of  family reunification for us citizens whose 
+parents are deported. all five of federico and gabys children are us citizens, and yet, 
+they did not have recourse once they received the removal order unless the children faced 
+what the court would deem exceptional and extremely unusual hardship. in other words, 
+4   federico did not mention the possibility of a u visa or recount that his attorney considered this.
+5   ina  240a(b)(1), 8 u.s.c.  1229(b)(1). 
+6   for example, in 2012 when the us government carried out 409,849 removals, 3,787 cancellations of 
+removal were granted (eoir 2016, n1; ice 2016).
+
+406
+
+journal on migration and human securitythe fact that five of the seven family members were us citizens was not enough to ensure 
+family reunification. indeed, theirs was yet another family sentenced to separation if the 
+five us citizens continued to live in their home nation.
+
+penalizing us citizens
+
+case study: cora, joaqun, dina, and leo
+
+when emy and manuel made arrangements for their four children, ranging in age from 
+three to 14, to cross the us-mexico border, the childrens safety was their priority. they 
+found a respectable coyote, someone they could trust, and they made a substantial payment 
+to ensure that the children made it safely to their destination. but this crossing was not 
+a  typical  one:  while  most  border  crossings  facilitated  by  guides  involve  movement  of 
+unauthorized migrants from mexico to the united states, these children  were us citizens 
+who migrated in the other direction, from north to south. 
+after emy had been deported, she and manuel decided that it would be best for the children 
+to  join  her  in  mexico,  but  because  both  emy  and  manuel  are  undocumented  migrants 
+they were unable to easily travel with their children. if manuel accompanied the children 
+to mexico, he risked apprehension should he try to cross the border back into the united 
+states. similarly, emy was unable to easily enter the united states to meet the children 
+there; the stakes of an attempted border crossing were even higher for emy because of 
+her recent deportation. so instead the couple hired a coyote, a us citizen, to travel with 
+the children, accompany them across the border, and bring them to emy. within a day of 
+departing from a border town in texas, the children and emy were reunited, but in mexico 
+and without manuel. because the family depended on manuels income, he stayed in the 
+united states to continue working and the family was now divided transnationally.
+prior to detention and deportation, emy had lived primarily in the united states for a period 
+of more than 15 years. when a car accident killed her parents and her brother, emy traveled 
+to mexico for the funeral and to support her family. after several months in mexico, she 
+decided it was time to go back or return to the united states, so she went to the border, 
+intending to cross by land, wading through the rio grande/rio bravo and walking through 
+the desert. but when she arrived, the coyotes told her that there had been a change in the 
+plans: because of increasing apprehensions along the border in recent days, emy would 
+cross with documents supplied by the coyotes, a passport that was valid but belonged to 
+someone else. emy told me she was very hesitant to cross that way, but because emy had 
+already paid for her passage and was at the border without family or resources, she went 
+ahead with the crossing. when attempting to enter the united states, however, her fears 
+were actualized: she was stopped and questioned by immigration officials. they found her 
+to be inadmissible and transferred her to a federal detention center.  
+emys deportation prompted the departure to mexico of her four us citizen children. the 
+eldest siblings, teenagers cora and joaqun, had been to mexico as young children, but 
+had few memories of their parents home community. the two younger children, dina and 
+leo, had never visited mexico, so their transnational border crossing was a first. when i 
+
+407
+
+separated families: barriers to family reunification after deportationspoke with cora several months after her departure from the united states, she still seemed 
+stunned by the sudden move. as she described it, one day she was at the mall with friends, 
+and by the end of the week, she was in a dusty, rural community in mexicos countryside. 
+these children now faced undeniable hardship, though it was not legally defined as such: 
+their mothers deportation meant that the children would have to live far from their nation 
+and from their home. 
+for more than a year, emy and the children lived in mexico while manuel lived in the 
+united states. the children, all us citizens, found themselves living in a country that was 
+not their own, probably until they were old enough to return to the united states without 
+their  parents.  because  of  their  us  citizenship,  the  children  could,  in  principle  at  least, 
+return to their country, but in all practical senses, they were confined to mexico until they 
+were older or until their parents could make alternative arrangements, presenting a form of 
+hardship not addressed by us immigration law.7 
+* * *
+
+as  was  the  case  for  federico  and  gabys  five  children,  cora,  joaqun,  dina,  and  leo 
+found their family separated by the deportation of a parent, despite their us citizenship 
+and despite the fact that they themselves had not been deported  not formally at least. 
+for these children, their status as minors meant that they were not yet eligible to petition 
+for an immigrant visa for their parents. indeed, except for the possibility of cancellation 
+of removal  as discussed, a process that is unlikely and unattainable in most cases of 
+deportation  us citizen children have few legal options for relief that might keep their 
+families together after deportation. until they are 21 years old, children are not able to 
+petition to be reunited with their parents. and, if parents are deported, even this possibility 
+at some point in the future becomes extremely unlikely. 
+here,  again,  family  reunification  is  characterized  by  barriers  and  limited  options  for 
+immigrant families. for this family, hardship took different forms. they were unable to 
+structure family life so that all members lived together in the united states, and family 
+reunification in mexico would mean no income to support the family. all family members 
+faced risks if emy, now deported, and the children tried to return to the united states, and 
+they faced certain economic hardship if manuel were to leave his fulltime employment 
+in the united states to join the family in mexico. paradoxically, the chain of events that 
+resulted in emys deportation was caused by another unconsidered hardship: the death of 
+three family members in a tragic car accident. as this case shows, such family separation 
+does not only impact noncitizens: deportation has enduring effects on us citizens, especially 
+children, even as us citizens would seem to be outside the reach of deportation regimes. 
+for some us citizen children, they are separated from primary caregivers as their parents 
+disappear  into  detention  or  are  deported  (rabin  2011).  for  other  children,  such  as 
+cora, joaqun, dina, and leo, the deportation of a parent results in their own de facto 
+deportation (kanstroom 2012, 135). such informal expulsions of us citizens are, for the 
+most part, unrecorded and undocumented, as young us citizens find themselves compelled 
+to migrate to reunite with family in other countries if they are to continue living with their 
+parents (see boehm 2016). some of the challenges us citizen children face stem from 
+7   this excerpt is from boehm 2016, pages 45-46, 80.
+
+408
+
+journal on migration and human securitythe tremendous potential for deep conflict as immigration law and family law intersect 
+(thronson 2015, 35). other obstacles come from the lack of laws that explicitly outline or 
+grant us citizen children the right to maintain family unity after deportation. although the 
+best interest of the child is a standard used in family law context, the same standard does 
+not guide deportation proceedings, a point that underscores the multiple barriers to family 
+unification after deportation.
+for  us  citizen  childrenindeed  for  children  regardless  of  citizenship  or  immigration 
+statusthe path to family reunification is a difficult or impossible one when a parent is 
+deported. the fact that in 2012 there were 4.5 million us-born children whose parents 
+were unauthorized (passel and cohn 2015) shows how widespread family separation after 
+deportation is or is likely to become. emys children expressed frustration that their options 
+were to live in mexico, far from their country of origin and their home, or live in the united 
+states without their mother there to care for them. the bind these children face underscores 
+what jacqueline bhabha (2014, 19) aptly calls the elusive right to family life. as parents 
+and other family members are deported from the united states, us citizen children and 
+youth increasingly find themselves unable to maintain family in any meaningful way.
+
+no path to authorized return
+
+case study: jaime
+
+just  before  he  was  deported,  while  still  at  a  federal  detention  center,  immigration  and 
+customs enforcement agents brought jaime the clothes he had been wearing the night he 
+was arrested several months earlier. after a childhood and life of more than 15 years in the 
+united states, jaime had only this small ziplock bag with a few possessions. three months 
+in a county jail in rural colorado, followed by several weeks at a federal detention center, 
+had been demoralizing. arrested just after his 18th birthday, jaime admitted that jail was 
+quite frightening at first, but he soon learned the ropes and kept his head down: you let 
+people do their thing, and you just do yours. 
+jaime  whom his aunt described as a good kid who made a mistake  was deported 
+to mexico. he had migrated as a toddler, and although he was an unauthorized migrant in 
+the united states, his day-to-day life as a teenager was much like that of his us citizen 
+peers: he worked part-time, socialized with friends on the weekends, and had a steady 
+girlfriend. but that abruptly changed when he was detained. after jaime and some friends 
+were stopped by police officers and cited for having open containers of alcohol in their 
+vehicle, their paths went in notably different directions. jaimes friends, us citizens, were 
+arrested, quickly released, and ordered by the court to complete community service. in 
+contrast, jaimes life took a jarring turn.
+jaime chose to go before an immigration judge without legal representation. he had met 
+with an attorney prior to the hearing, but the attorney said that there were no legal options 
+available    that  deportation  was  likely    and  so  he  advised  jaime  and  his  family  to 
+save the money they would spend on legal services. during the immigration hearing, the 
+judge  asked  if  he  had  any  family  members  who  were  from  the  united  states.  feeling 
+
+409
+
+separated families: barriers to family reunification after deportationhopeful, jaime mentioned his two siblings who are us citizens. no, the judge clarified, 
+do you have any immediate family members who are us citizens? the judge explained 
+that by immediate family members, he meant parents, children, or a spouse. the judge 
+just reads you your rights and then he asks, are you married to a citizen? no. do you 
+have any citizen kids? no. are your parents citizens? i said, no. well, then, said the 
+judge. i cant do anything for you. you have to leave. and thats it. jaime recounted how 
+people who did have us citizen family members  what he described as the right family 
+members, that is, parents, a spouse, or children  were assigned another court date, and 
+the people who did not, well, thats it. 
+so, after months in prison and federal immigration detention, jaime found himself in rural 
+mexico, a place he could not remember and did not identify as home. upon repatriation 
+to his hometown, jaime had no memories of mexico to draw upon. for jaime, life and 
+lifes recollections began in el norte. although he was reunited with his grandmothers and 
+extended family members in mexico, he was very far from the family members he was 
+close to, including his parents, siblings, girlfriend, and peers  the family and friends who 
+had provided support in his day-to-day life. within a matter of months after being caught 
+up in deportation proceedings, jaimes kin and social networks were upended, presenting a 
+kind of hardship that was unimaginable prior to his return.
+shortly after he arrived in mexico, jaime started to consider the possibility of returning to 
+the united states. the long-distance relationship with his girlfriend was challenging, he 
+wasnt able to have much contact with his friends, and he missed his family tremendously. 
+after just a few months in mexico, and in consultation with his parents and siblings, jaime 
+decided to again migrate north. jaime told me that he was unhappy: he missed his family, 
+could not get used to being in mexico, and did not, he felt, fit in. and so, he went home, 
+back to the united states and back to the only life he had ever really known.8 
+
+* * *
+
+jaimes experience as he moved through various legal systems and after his deportation 
+to mexico show some of the ways that family ties are typically not enough to reverse a 
+deportation or to bolster a request for return after removal. as his conversation with the 
+judge during his hearing demonstrates, for jaime, his immediate family members who 
+were us citizens  namely two of his siblings  were not relatives who could have 
+strengthened his claim for cancellation of removal. when jaime explained that his parents 
+were not us citizens, and that he did not have a spouse or children, the judge issued a 
+deportation order and jaime was removed. 
+after being deported to mexico, jaime was living far from those he identified as close or 
+immediate family, even though the us government did not define them as such for the 
+purposes of canceling a removal order. jaime lamented that he did not have the right 
+family member to cancel the deportation, and indeed, as david b. thronson (2007, 66) 
+writes, [a] close family member with legal immigration or citizenship status does not 
+guarantee that immigrants in mixed status families will achieve legal immigration status 
+themselves.  for  jaime,  hardship  came  directly  out  of  his  separation  from  immediate 
+
+8    jaimes  deportation  is  described  throughout  boehm  (2016). the  vignette  here  is  a  compilation  of  his 
+experiences from pages 38-39, 89, 97-98, 139-40.
+
+410
+
+journal on migration and human securityfamily, as he faced isolation, disorientation, and a future life in mexico that was difficult to 
+imagine or take steps toward fulfilling. here, legal definitions of hardship and family 
+did not overlap with jaimes own understandings of family members and the challenges he 
+experienced.
+for jaime, future options for family reunification through formal channels seemed extremely 
+unlikely. after moving through both the criminal and immigration justice systems, jaime 
+was not hopeful that legal possibilities for return would come to fruition. and, his intuition 
+was probably correct. the unlikelihood of jaime being given a second chance  whether 
+through a petition for admission after deportation, such as the relief that federico and gaby 
+hoped for, or by way of a successful tourist visa application after living a decade in mexico 
+ meant that jaimes options were very limited. in this context, his decision to return to 
+the united states without authorization was likely the only way he would be able to return 
+at all. and, yet, in doing so he triggered a permanent bar,9 thereby eliminating legal options 
+for return in the future.
+jaimes case  and indeed all the cases i have described here  demonstrates the many 
+barriers  to  family  reunification  after  deportation  and  the  multiple  forms  of  individual 
+and family hardship that come in deportations wake. regardless of the impetus for or 
+conditions of the deportation, or the ties that individuals have to us citizens and the nation, 
+the opportunities for family reunification in the united states and future return through 
+legal channels are very limited. even when trying to follow the law, as was the case for 
+federico and gaby, there are few or no options. and, for those who have come into contact 
+with law enforcement, regardless of the conditions or specifics of the case  such as the 
+open container violation that resulted in jaimes deportation but did not result in prison 
+time for the us citizens involved  authorized return can be an impossibility in every 
+practical way. 
+during jaimes immigration hearing, the judge reminded him of his 10-year bar from the 
+united states as the result of his deportation and encouraged him to wait out the time in 
+mexico. but jaime was doubtful that any visa would be approved for him even after a decade 
+had  passed. and  so,  faced  with  few  possibilities  for  returning  with  state  authorization, 
+jaime decided to migrate without documents despite the high stakes in doing so. it was the 
+only way he could ensure that he would be with his family once more.
+
+policy recommendations
+faced with the challenges of keeping or bringing families together, families affected by 
+deportation  find  themselves  divided,  living  across  borders,  with  mixed  statuses  within 
+families, living together but with the fear of imminent separation, and/or with few or no 
+possibilities for a change in immigration status. a primary recommendation, therefore, is to 
+create policies with enough flexibility to facilitate family unity in the united states. strong 
+policies should acknowledge  and support  the wide variety of family experiences 
+and the diverse ways that families are structured and made meaningful. if such options 
+are not possible for immigrants and their families, the rigidity of the current system is 
+ 
+9   ina  212 (a)(9)(a), 8 u.s.c. 1182(a)(9)(a). 
+
+411
+
+separated families: barriers to family reunification after deportationlikely to result in ongoing if not increased unauthorized migration, as families strive to 
+come together across borders after deportation, even if they must do so through informal 
+channels.
+thus, future comprehensive immigration policy reform should be attentive to family ties 
+and the profound hardship that comes from family separation. first, a focus on maintaining 
+family ties  rather than severing them  is policy that will strengthen both human and 
+national security (kerwin 2016). second, a justice system that does not consider family or 
+does not have the flexibility to acknowledge different family relations and their importance 
+only perpetuates injustice, presenting rule of law concerns (kanstroom 2012, 89) and 
+threatening us compliance with human rights law (thronson 2016). and, finally, from a 
+humanitarian perspective, the nation should consider its role in contributing to this large-
+scale crisis. when families are separated by us immigration law, the result is a humanitarian 
+crisis that is, in large part, of our own making. indeed, humanitarian crises and efforts to 
+address them are always embedded within political motivations and debates (e.g., fassin 
+2007; fassin 2013; ticktin 2014). while policymakers and members of the public often 
+frame  unauthorized  immigration  as  the  product  of  individual  choice  and  action,  such 
+logic is not tenable in the current climate. today, millions of families  whose members 
+have a variety of immigration statuses, including us citizenship  are impacted by us 
+immigration laws and an absence of sound policies. 
+
+relief, flexibility, and the possibility for exceptions
+
+a first step  and one that could be implemented through both administrative and legislative 
+channels    is  to  make  the  possibility  for  relief  more  robust.  such  options  could  take 
+different forms, and might include an expansion of the opportunities for exceptions, appeals, 
+or  pardons,  and  a  mechanism  for  a  meaningful  review  of  the  particular  circumstances 
+of a deportation. for example, relief through a u visa might have been a possibility for 
+federico and gaby as victims of a crime. or, for young people, such as jaime, who have 
+lived the majority of their lives in the united states, there should be some option outside 
+of deportation. in the three cases discussed above, migrants faced penalties that would not 
+likely match the crime in any other aspect of the us justice system.10 
+indeed,  the  [e]limination  of  discretionary  relief  means  factors  that  weigh  against 
+an  individuals  deportation  are  now  ignored  (aba  2004,  4).  jason  cade  (2015,  37-
+38)  suggests  that  revisiting  judicial  recommendation  against  deportation  (jrad) 
+might provide one such possibility for relief and could point the way to an important 
+administrative  reform  that  would  decrease  the  likelihood  of  unjustified  removals. the 
+reality is that the experiences of individuals, the circumstances of their removal orders, and 
+their family relations are particular, nuanced, and complicated. reasonable immigration 
+legislation needs to include flexibility, some possibility for alternative outcomes, and a way 
+to account for the many different circumstances that shape unauthorized presence in the 
+united states. shouldnt federico and gaby, upstanding members of the community who 
+lived in the united states for decades, have five us citizen children, and were victims of a 
+crime themselves, be given some possibility for relief? 
+
+10   see discussion in cade (2015, 36-37).
+
+412
+
+journal on migration and human securitythe rights of us citizens
+
+in addition, future immigration policy reform should expand options for family reunification 
+when us citizens are affected. current legislation does not consider  or at least does 
+not adequately recognize  the millions of us citizens with parents who are deported 
+or at risk of being so. for us citizen children, the deportation of a parent can essentially 
+[destroy] their right to live in an intact family (thronson 2007, 80). here, us citizenship is 
+compromised through relations with others, resulting in a form of contingent citizenship 
+for those whose parents, partners, siblings, or other relatives are unauthorized migrants 
+(boehm  2011).  for  example,  future  legislation  could  expand  definitions  of  hardship, 
+remove  limiting  adjectives  like  exceptional  to  consider  factors  such  as  us  citizen 
+childrens right to live with their parents, and utilize the best interest of the child standard 
+in immigration and deportation proceedings. such steps could have potentially provided 
+relief to federico and gaby and their children, as well as emy and manuels family. dont 
+manuel and emys children  all us citizens  have the right to live with their parents 
+in their country of origin?
+
+a path to authorized return
+
+and, just as immigrant advocates have argued that a path to citizenship should be part of 
+immigration reform, so, too, should there be a path to authorized return after deportation. 
+although possible in theory  after living outside the united states for the full duration 
+of time barred from the country or through the possibility of a petition for reentry  the 
+reality is that authorized migration post-removal is unlikely. the full effect of a record 
+number of deportations in recent decades is still unfolding. the range of consequences 
+of policies that shut people out of the united states indefinitely, even when they are in 
+every meaningful way members of the nation, is difficult to predict. one point is certain: 
+current statutes  and the absence of immigration reform  create hardship for families 
+that cannot be overstated. families are, more often than not, altered indefinitely after the 
+deportation of a loved one. shouldnt it be possible for jaime, raised in the united states 
+after arriving as a toddler, to return to his de facto home nation at some point in the future? 
+
+* * *
+
+to address this humanitarian crisis  a crisis that separates families and keeps them apart 
+for years, decades, or indefinitely  an alternative approach is needed. given the many 
+barriers, struggles, and difficulties families face because of deportation, comprehensive 
+immigration  reform  that  acknowledges  individuals  as  embedded  in  families  is  crucial. 
+as thronson  (2015,  33)  argues,  despite  the  ubiquitous  yet  inaccurate  impression  that 
+the promotion of family unity is a key value underlying immigration law . . . distain for 
+family unity . . . is evident in the failure of immigration law. indeed, we must find ways 
+to keep mixed-status us families intact (warren and kerwin 2017, 7), and to provide 
+opportunities for families to reunite when removal results in separation and division across 
+borders.
+deportation can be a kind of life sentence for individuals who have been deported, but also 
+for their family members. given that [f]amily life that spans international borders still 
+abuts against the states exclusionary prerogative (bhabha 2014, 25), the expulsion of 
+
+413
+
+separated families: barriers to family reunification after deportationimmigrants divides them from loved ones in ways that may never be remedied. currently, 
+deportation is more often than not a dead end for familiesa place from which there is no 
+out, no hope, and no possibilities for return to the united states. finding rational and just 
+options that can in fact keep families together has never been more urgent.
+ 
+
+references
+abrams, kerry, and r. kent piacenti. 2014. immigrations family values. virginia law 
+
+review 100(4): 630-709.
+
+aba  (american  bar association).  2004.  american  justice  through  immigrants  eyes. 
+washington,  dc: aba  and  leadership  conference  on  civil  rights  education 
+fund.
+
+bhabha, jacqueline. 2014. child migration and human rights in a global age. princeton, 
+
+nj: princeton university press. https://doi.org/10.1515/9781400850167. 
+
+boehm,  deborah  a.  2011.  here/not  here:  contingent  citizenship  and  transnational 
+mexican  children.  in  everyday  ruptures:  children  and  migration  in  global 
+perspective,  edited  by  cati  coe,  rachel  reynolds,  deborah  a.  boehm,  julia 
+meredith  hess,  and  heather  rae-espinoza,  161-73.  nashville,  tn:  vanderbilt 
+university press.
+
+______. 2012. intimate migrations: gender, family, and illegality among transnational 
+
+mexicans. new york: new york university press. 
+
+.  2016.  returned:  going  and  coming  in  an age  of  deportation.  berkeley,  ca: 
+
+university of california press.
+
+cade, jason a. 2015. return of the jrad. new york university law review 90: 36-61.
+capps, randy, rose maria castaeda, ajay chaudry, and robert santos. 2007. paying the 
+price: the impact of immigration raids on americas children. washington, dc: 
+the urban institute and the national council of la raza.
+
+clinic  (catholic  legal  immigration  network,  inc).  2005.  the  impact  of  our  laws 
+on  american  families.  washington,  dc:  clinic.    https://www.ilw.com/
+articles/2005,1012-clinic.pdf 
+
+de genova, nicholas. 2002. migrant illegality and deportability in everyday life. 
+annual  review  of  anthropology  31:419-47.  https://doi.org/10.1146/annurev.
+anthro.31.040402.085432. 
+
+desipio, louis, and rodolfo o. de la garza. 1998. making americans, remaking america: 
+
+immigration and immigrant policy. boulder, co: westview press.
+
+dowling, julie a., and jonathan xavier inda, eds. 2013. governing immigration through 
+
+crime: a reader. stanford, ca: stanford university press.
+
+414
+
+journal on migration and human securitydreby,  joanna.  2012.  the  burden  of  deportation  on  children  in  mexican  immigrant 
+families. journal of marriage and family 74: 829-45. https://doi.org/10.1111/
+j.1741-3737.2012.00989.x. 
+
+eoir (us executive office for immigration review). 2016. fy 2015 statistics yearbook. 
+washington,  dc:  department  of  justice.  https://www.justice.gov/eoir/page/file/
+fysb15/download. 
+
+fassin, didier. 2007. humanitarianism as a politics of life. public culture 19(3): 499-
+
+520. https://doi.org/10.1215/08992363-2007-007. 
+
+______. 2013. the precarious truth of asylum. public culture 25(1): 39-63.
+gomberg-muoz,  ruth.  2016.  becoming  legal:  immigration  law  and  mixed-status 
+
+families. oxford: oxford university press.
+
+horton, sarah. 2016. they leave their kidneys in the fields: illness, injury, and illegality 
+
+among u.s. farmworkers. berkeley, ca: university of california press.
+
+ice (us immigration and customs enforcement). 2016. fiscal year 2016 ice enforcement 
+and  removal  operations  report.  washington,  dc:  ice.  https://www.ice.gov/
+sites/default/files/documents/report/2016/removal-stats-2016.pdf.
+
+kanstroom,  daniel.  2012.  aftermath:  deportation  law  and  the  new  american 
+diaspora.  oxford:  oxford  university  press.  https://doi.org/10.1093/acprof:o
+so/9780199742721.001.0001. 
+
+kanstroom,  daniel,  and  m.  brinton  lykes.  2015.  the  new  deportations  delirium: 
+
+interdisciplinary responses. new york: new york university press.
+
+kelly, john. 2017a. enforcement of the immigration laws to serve the national interest. 
+memorandum, february 20. washington, dc: department of homeland security 
+(dhs). 
+
+.  2017b.  implementing  the  presidents  border  security  and  immigration 
+enforcement improvements policies. memorandum, february 20. washington, 
+dc: dhs.
+
+kerwin,  donald  m.  2016.  how  robust  refugee  protection  policies  can  strengthen 
+human and national security. journal on migration and human security 4(3): 
+83-140. https://doi.org/10.14240/jmhs.v4i3.64. 
+
+______.    2014.  illegal  people  and  the  rule  of  law.  in  constructing  immigrant 
+illegality  critiques, experiences, and responses, edited by cecilia menjvar 
+and daniel kanstroom, 327-52. cambridge: cambridge university press.
+
+maddali, anita ortiz. 2016. left behind: the dying principle of family reunification 
+under immigration law. university of michigan journal of law reform 50(1): 
+107-73.
+
+passel,  jeffrey  s.,  and  dvera  cohn.  2015.  number  of  babies  born  in  u.s.  to 
+unauthorized  immigrants  declines.  washington,  dc:  pew  research  center. 
+
+415
+
+separated families: barriers to family reunification after deportationhttp://www.pewresearch.org/fact-tank/2015/09/11/number-of-babies-born-in-u-s-
+to-unauthorized-immigrants-declines/.
+
+rabin, nina. 2011. disappearing parents: immigration enforcement and the child welfare 
+system. tucson, az: southwest institute for research on women, college of 
+social and behavioral sciences and bacon immigration law and policy program, 
+and james e. rogers college of law at the university of arizona. https://law2.
+arizona.edu/depts/bacon_program/pdf/disappearing_parents_report_final.pdf.
+
+sassen, saskia. 1996. beyond sovereignty: immigration policy making today. social 
+
+justice 23(3): 9-20.
+
+stumpf,  juliet.  2006.  the  crimmigration  crisis:  immigrants,  crime,  and  sovereign 
+
+power. american university law review 56: 367-419.
+
+thronson,  david  b.    2006.  choiceless  choices:  deportation  and  the  parent-child 
+
+relationship. nevada law journal 6: 1165-1214.
+
+______.  2007. you cant get here from here: toward a more child-centered immigration 
+
+law. virginia journal of social policy & the law 14(1): 58-86.
+
+______.  2015. unhappy families: the failings of immigration law for families that are 
+not all alike. in the new deportations delirium: interdisciplinary responses, 
+edited by daniel kanstroom and m. brinton lykes, 33-56. new york: new york 
+university press.
+
+. 2016. closing the gap: daca, dapa, and u.s. compliance with international 
+human rights law. case western reserve journal of international law 48(2016): 
+127-36.
+
+ticktin, miriam. 2011. casualties of care. immigration and the politics of humanitarianism 
+in france. berkeley, ca: university of california press. https://doi.org/10.1525/
+california/9780520269040.001.0001. 
+
+warren,  robert  and  donald  kerwin.  2017.  mass  deportations  would  impoverish  us 
+families and create immense social costs. journal on migration and human 
+security 5(1): 1-8. https://doi.org/10.14240/jmhs.v5i1.71. 
+
+416
+
+journal on migration and human security

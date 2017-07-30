@@ -1,0 +1,948 @@
+another story: what public 
+opinion data tell us about 
+refugee and humanitarian policy
+
+brad blitz 
+middlesex university and london school of economics
+
+executive summary
+the  global  reaction  to  us  president  donald  trumps  executive  order, 
+protecting  the  nation  from  foreign  terrorist  entry  into  the  united 
+states of january 27, 2017,1 revealed great public sympathy for the fate 
+of refugees and the principle of refugee protection. in the case of europe, 
+such sympathy has, however, been dismissed by politicians who have read 
+concerns  regarding  security  and  integration  as  reason  for  introducing 
+restrictive  policies  on  asylum  and  humanitarian  assistance.  these 
+policies are at odds with public sentiment. drawing upon public opinion 
+surveys conducted by amnesty international, the european social survey 
+(ess), and pew global attitudes survey across the european union and 
+neighboring  states,  this  article  records  a  marked  divide  between  public 
+attitudes  towards  the  treatment  of  refugees  and  asylum  seekers  and 
+official policies regarding asylum and humanitarian assistance, and seeks 
+to understand why this is the case. 
+the  article  suggests  that  post-9/11  there  has  been  a  reconfiguration  of 
+refugee policy and a reconnecting of humanitarian and security interests 
+which  has  enabled  a  discourse  antithetical  to  the  universal  right  to 
+asylum.  it  offers  five  possible  explanations  for  this  trend:  i)  fears  over 
+cultural antagonism in host countries; ii) the conflation of refugees and 
+immigrants, both those deemed economically advantageous as well as those 
+labelled as illegal; iii) dominance of human capital thinking; iv) foreign 
+policy justification; and v) the normalization of border controls. the main 
+conclusion is that in a post-post-cold war era characterized in part by the 
+reconnecting of security and humanitarian policy, european governments 
+have developed restrictive policies despite public sympathy. support for 
+the  admission  of  refugees  is  not,  however,  unqualified,  and  most  states 
+and  european  populations  prefer  skilled  populations  that  can  be  easily 
+assimilated. in order to achieve greater protection and more open policies, 
+this article recommends human rights actors work with the united nations 
+high commissioner for refugees (unhcr) and its partners to challenge 
+the above discourse through media campaigns and grassroots messaging. 
+
+1   protecting the nation from foreign terrorist entry into the united states, exec. order no. 13769, 82 fed. 
+reg. 8977 (jan. 27, 2017).
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 2 (2017): 379-400further recommendations include:
+  challenging efforts to normalize and drawing attention to the extreme 
+and  unprecedented  activities  of  illegal  and  inhumane  practices,  e.g., 
+detention, offshore processing, and the separation of families through 
+the courts as part of a coordinated information campaign to present a 
+counter moral argument. 
+
+  identifying how restrictive asylum policies fail to advance foreign policy 
+
+interests and are contrary to international law. 
+
+  evidencing  persecution  by  sharing  information  with  the  press  and 
+government  agencies  on  the  nature  of  claims  by  those  currently 
+considered ineligible for refugee protection as part of a wider campaign 
+of information and inclusion.
+
+  engaging  with  minority,  and  in  particular  muslim,  communities  to 
+redress public concerns regarding the possibility of cultural integration 
+in the host country. 
+
+  clarifying the rights of refugees and migrants in line with the unhcr 
+and  international  organization  for  migration  (iom)  guidelines  and 
+european  and  national  law  in order  to  hold  governments  to  account 
+and to ensure that all  irrespective of their skills, status, nationality 
+or religion  are given the opportunity to seek asylum.
+
+  identifying and promoting leadership among states and regional bodies 
+
+to advance the rights of refugees.
+
+introduction
+the  global  reaction  to  us  president  donald  trumps  executive  order,  protecting  the 
+nation from foreign terrorist entry into the united states of january 27, 2017,2 revealed 
+great public sympathy to the fate of refugees and the principle of refugee protection more 
+generally. demonstrations in the united states were accompanied by european protests and 
+demands that the uk prime minister theresa may explicitly condemn the muslim ban 
+(house of commons 2017a). these protests were also accompanied by acts of hospitality 
+where both british and other europeans opened up their homes to those affected by the ban 
+who were caught in transit. such expressions of solidarity were not new. throughout the 
+refugee crisis of 2015-2016, large sections of european society showed their support for 
+a more humane and effective response from their governments through charitable acts and 
+public outcry. in addition to solidarity campaigns and direct assistance to migrants arriving 
+onto  european  soil,  public  opinion  was  occasionally  reflected  in  successful  advocacy 
+efforts. for example, following much pressure from calais solidarity groups, the 2016 uk 
+immigration act was amended further to the dubs amendment3 which called upon the 
+uk government to relocate unaccompanied children from european countries. 
+2   id.
+3   immigration act 2016, c. 19,  67 (eng.). 
+
+380
+
+journal on migration and human securityduring this period, in spite of public support, european governments introduced many 
+restrictions to curb arrivals in the name of both border management and the preservation 
+of national sovereignty. most notably, in february 2017, the uk government cancelled 
+the dubs relocation scheme which was to be capped at just 350 unaccompanied children 
+admitted to the uk (house of commons 2017b). 
+this article reviews the development of european asylum and humanitarian policy and 
+the  public  response  to  growing  restrictions  against  the  right  to  asylum.  drawing  upon 
+public opinion surveys conducted across the european union and neighboring states on 
+either side of the peak of the 2015 refugee crisis  the amnesty international refugees 
+welcome index (amnesty 2016), the european social survey (ess 2016), and the pew 
+global attitudes survey (pew 2016)  this article argues that there has been a marked 
+divide between public attitudes towards the treatment of refugees and asylum seekers and 
+official policies regarding asylum and humanitarian assistance. this article seeks to explain 
+the reasons for the above discord.
+the first part of the article provides a brief review of the historical context for the development 
+of  contemporary  national  and  eu  policies  on  asylum  management  and  humanitarian 
+assistance.  noting  how  cold war  security  interests  eventually  became  decoupled  from 
+humanitarian  policy  in  the  1990s,  this  article  describes  how  security  interests  were 
+reinserted in the formulation of humanitarian policy during the past decade. the second 
+part then presents public opinion data from multiple sources to reveal a noticeable discord 
+between sections of the european public and their political leaders. drawing upon data 
+collected on either side of the peak in the refugee crisis, that is, before and after april 
+2015,  this  article  assesses  their  reliability  as  evidence  of  european  sympathy  for  more 
+open refugee and asylum policies before offering some explanations for the divide between 
+recorded public opinion and the direction of national policies on asylum and humanitarian 
+assistance. 
+the central argument of this paper is that, following 9/11, there has been a reconfiguration of 
+refugee policy and a reconnecting of humanitarian and security interests which has enabled 
+a discourse antithetical to the universal right to asylum. it offers five possible explanations 
+for this shift: 1) refugees are often perceived and treated as immigrants, irrespective of 
+their claims of persecution; 2) western states have expressed vocal fears that refugees may 
+not integrate but rather antagonize cultural sensitivities in host countries; 3) the refugee 
+regime is being undermined by a shift towards a human capital logic which favors skilled 
+individuals; 4) the control on asylum is informed by foreign policy justifications; and 5) 
+the use of border controls and prevalence of border management discourse is undermining 
+concerns regarding protection. the main conclusion of this paper is that in a post-post-
+cold war era characterized in part by the reconnecting of security and humanitarian policy, 
+european governments have developed restrictive policies in spite of widespread public 
+sympathy  for  refugees  and  asylum  seekers.  furthermore,  refugee-receiving  states  have 
+expressed clear preferences and favor certain groups over others. the data record that, 
+irrespective of their need for protection, most states and european populations prefer to 
+admit skilled populations that can be easily assimilated. such preferences risk undermining 
+the nondiscrimination principle that is central to refugee protection. 
+
+381
+
+another story: what public opinion data tell ushistorical developments and the current refugee crisis
+the design of humanitarian and asylum policies during the twentieth and early twenty-first 
+century replicated major geopolitical trends. during the cold war especially, humanitarian 
+policy was a visible offshoot of overseas development and foreign policies which reflected 
+wider security concerns. this was clearly expressed in the truman doctrine of 1947. the 
+then president of the largest donor state to the united nations declared that: 
+
+[i]t must be the policy of the united states to support free peoples who are resisting 
+attempted subjugation by armed minorities or by outside pressures . . . to work out 
+their own destinies in their own way. i believe that our help should be through 
+economic and financial aid which is essential to economic stability and orderly 
+political processes. 
+
+(truman 1947) 
+following  the  expansion  of  the  marshall  plan  to  western  and  southeastern  europe,  in 
+addition to the placement of troops and weaponry, superpower rivalry between the united 
+states  and  the  then  soviet  union  was  expressed  through  their  distribution  of  foreign 
+assistance to weak and frontline states, above all, in the middle east and africa. 
+in addition, the cold war brought a utilitarian logic to the idea of refugee protection. in 
+spite of the rights focus heralded by the 1951 convention relating to the status of refugees 
+(the refugee convention) and expanding un system, throughout the cold war, certain 
+nationalities were privileged in the design of both immigration and refugee policy, most 
+notably more than one million cubans who enjoyed preferential treatment by the united 
+states (bon tempo 2008; garcia 1996; zucker and zucker 1995). unlike other nationalities, 
+as a result of domestic political pressure and geopolitical alignments, cubans were granted 
+access to refugee resettlement in the united states and exempted from immigration quotas 
+as a result of the 1966 cuban adjustment act4 and the immigration and nationality act 
+amendments of 1976.5 such treatment stood in marked contrast to the fate of haitians 
+seeking to enter the united states and who were also fleeing political oppression, raising 
+charges of racism at the heart of us refugee policy (loescher and scanlan 1986; zucker 
+and zucker 1995).
+while us immigration and refugee policies saw some revision during the later years of the 
+cold war, in particular with the wet foot, dry foot policy that curtailed cuban settlement 
+in the united states to those who managed to reach the shore, not simply territorial waters 
+as in the past (bon tempo 2008; loescher and scanlan 1986), the logic of the truman 
+doctrine remained intact for more than four decades. during this time, with the exception 
+of some small flows of largely political refugees from hungary, chile, and argentina, and 
+others fleeing communist regimes, refugee flows were regionally contained as a result of 
+the political divisions which reinforced atlantic and soviet claims of competing and distinct 
+spheres of influence. palestinians, the most controversial face of refugees in the cold war, 
+were treated as a special category within the un system, placed under the management of 
+
+4   cuban adjustment act, pub. l. no. 89-732, 80 stat. 1161 (1966). 
+5   immigration and nationality act, pub. l. no. 89-236, 79 stat. 911 (1968), amended by pub. l. no. 94-571, 
+90 stat. 2703 (1976). 
+
+382
+
+journal on migration and human securitythe un relief and works agency for palestine refugees in the near east (unrwa), an 
+agency that operated without a specific charter or statute (bocco 2009). exempt from the 
+refugee convention, palestinian refugees were confined to camps in neighboring states 
+where they were denied the prospect of integration, as well as many civil and political 
+rights afforded to nationals in those host states (takkenberg 2000). 
+with the collapse of the soviet union, and the emergence of an enlarged european union as 
+a global actor, the premise of using overseas development aid shifted, as did longstanding 
+approaches to foreign policy making. further to much advocacy by refugee rights groups, 
+by  the  mid-1990s,  the  above  cold  war  practices  were  revised  (newland  1995).  in 
+particular, following the conflicts in the former yugoslavia, aid was now seen as a means 
+of complementing diplomatic pressure, rather than as direct extension of security policy. 
+this in turn helped to forge a divide between security policy, still characterized by western 
+engagement with an expanding north american treaty organization (nato), and foreign 
+policy which was broadened to include a range of interventions including development and 
+humanitarian assistance that introduced greater emphasis on rights. humanitarian policy 
+subsequently  reflected  changes  in  the  new  geopolitical  order  and  key  principles  of  the 
+truman doctrine, with the longstanding tenets of conditionality and containment that had 
+defined the previous four decades downgraded. 
+though  states  still  sought  to  use  foreign  assistance  selectively  to  pursue  agendas  for 
+interventionism,  policy  making  was  altogether  more  fluid  and  aid  policies  illustrated  a 
+growing preference for multilateralism, with the european union, unhcr, and world 
+bank  playing  a  more  prominent  role  especially  in  post-conflict  assistance  (scott  and 
+bannon 2003). the statist logic of cold war humanitarian assistance and development 
+planning also gave way to a greater emphasis on privatization and local decision-making 
+which reflected new preferences and the effect of globalization on foreign affairs (duffield 
+2001)    a  trend  which  continues  to  attract  criticism  (provost  2016).  joanna  macrae 
+describes the refocusing of humanitarian policy as the move towards a coherence agenda 
+where the concept of sovereignty was enlarged and aid seen as a central tool of conflict 
+resolution, even if domestic and international interests appeared to diverge (macrae and 
+leader 2000; macrae, brusset, and tiberghien 2002). during this period aid was directly 
+contracted to ngos and there was greater donor coordination and an emphasis on targets 
+(duffield 2001), as aid agencies established an increased operational presence in previously 
+neglected, inaccessible, or nonpriority regions in asia, africa, and southeastern europe. 
+the refocusing of humanitarian policy could also be seen in academic and political discourse 
+which called attention to participatory and non-statist approaches to development. western 
+governments also began rethinking the purpose of aid. commenting on this trend in the 
+context of us development policy, joseph nye (1999) argued that the normative tendency 
+reflected a  broader  understanding of  the  national interest   moral  values  were  simply 
+intangible interests, he maintained. following the wars in croatia, bosnia, and genocide 
+and ethnic conflict in rwanda and the great lakes region of africa, the united kingdom 
+set out a plan for an ethical foreign policy and shifted from bilateral loans preferring 
+instead grants and collaboration through the eu and un systems (the guardian 1997). 
+the european unions foreign policies were described in the language of cooperation with 
+third countries. although refugee policy was not immediately affected, following the 1999 
+
+383
+
+another story: what public opinion data tell usamsterdam treaty6 and the conclusions of the 1999 tampere european council, irregular 
+migration  was  refashioned  along  the  lines  of  a  comprehensive  approach  which  later 
+blended with key aspects of refugee protection (european parliament 1999). the aim of this 
+approach was to address both human rights and development issues in third countries, and 
+in that way, provide greater consistency between the internal and external policies of the 
+european union. although there was a strong development focus, central to the european 
+unions ambitions were the management of irregular migration flows and the introduction 
+of sanctions against the traffickers of illegal immigrants. development concerns were 
+channelled  through  different  policy  instruments,  including  regional  agreements  such  as 
+the 2000 africa, the caribbean, and the pacific (acp)-eu partnership agreement7 and 
+economic partnership agreements between the european union and africa, the caribbean, 
+and the pacific, which apply to both individual states (cote divoire, ghana, papua new 
+guinea, fiji), regional groupings (eastern and southern africa, the east african community, 
+the caribbean), and inter-regional organizations (e.g., the economic community of west 
+african states [ecowas] and the southern african development community [sadc]) 
+(european commission 2014).
+after  the  terrorist  attacks  of  september  11,  2001  in  new york,  pennsylvania,  and  the 
+pentagon, the focus on refugee policy shifted both as a result of increased securitization 
+and further expansion of the european unions political dimension. this was accompanied 
+by technological developments, including the sharing of information between eu member 
+states and the united states, and the creation of smart borders. while most evident in 
+the united states where a shift in policy led to the suspension of visas, eu states had 
+previously agreed lists of countries and a well-established system of visa controls which 
+similarly targeted certain nationals. these were complemented by an extensive range of 
+return measures. specifically, the linking of internal and external policies, which reflected 
+the greater focus on security as noted at the 2002 seville european council meeting, was 
+to  be  achieved  by  means  of  readmission  agreements.  in  this  way,  the  european  union 
+expanded both its policy with respect to third countries and also shored up its own internal 
+policies. these agreements require third countries to readmit their own nationals who do 
+not have the right to remain on eu territory (european union 2002).8 
+the  use  of  readmission  to  deter  long  stays  was  laid  down  in  the  global approach  to 
+migration and mobility,9 first proposed for africa and the mediterranean in late 2005 and 
+later extended to southern europe, including the balkans, and the former soviet bloc in 
+2006. the policy was again revamped in 2011 as mobility partnerships, bilateral country 
+agreements  to  share  the  responsibility  and  management  of  circular  migration.10  these 
+
+6   treaty of amsterdam amending the treaty on european union, the treaties establishing the european 
+communities and certain related acts, oct. 2, 1997, 1997 o.j. (c 340) 1.
+7   cotonou agreement, june 23, 2000, 2000 o.j. (l 317) (revised june 25, 2005 and june 22, 2010). 
+8   since 1999, the european union has concluded readmission agreements with: hong kong (2004), macao 
+(2004), sri lanka (2005), albania (2006), russia (2007), ukraine (2008), macedonia (2008), bosnia and 
+herzegovina (2008), montenegro (2008), serbia (2008), moldova (2008), pakistan (2010), georgia (2011), 
+armenia (2014), azerbaijan (2014), turkey (2014), cape verde (2014), and turkey (2016).
+9   communication from the commission to the european parliament, the council, the european economic 
+and social committee and the committee of the regions  the global approach to migration and mobility, 
+com (2011) 743 final (nov. 18, 2011). 
+10   id. 
+
+384
+
+journal on migration and human securitymobility  partnerships  had  no  basis  in  law  but  were  increasingly  seen  as  the  european 
+unions preferred policy tool for handling irregular migration across the european unions 
+areas  of  interest.11  others  have  described  these  partnerships  as  an  expression  of  the 
+european unions extra-territorialisation, since they function as a means of immigration 
+control  beyond  the  national  borders  of  eu  member  states  (carrera  and  sagrera  2009). 
+most important, the global approach to migration and mobility and the european unions 
+preference for mobility partnerships would inform the eventual design of the eu-turkey 
+deal of 2016 that sought not only to control irregular migration but also refugee flows to 
+the european union (council of the european union 2016). 
+in spite of the attempt to coordinate the european unions external relations with third 
+countries, immigration and refugee policy remained matters of national control, and within 
+less  than  10  years,  visible  cracks  appeared  in  both  foreign  policy  cooperation  and  the 
+regional frameworks the european institutions had tried to put in place. divisions among 
+eu  member  states  over  the  war  in  iraq  and  following  the  failed  interventions  in  iraq 
+and afghanistan, were further polarized by the syrian crisis which saw over 11 million 
+people displaced and an estimated 13.5 million people in need of humanitarian assistance 
+(european commission 2017). although the european union and its member states have 
+provided  more  than  9.2  billion  to  support  relief  inside  syria,  as  well  as  445  million 
+in  relief  allocated  in  2016  (european  commission  2017),  the  handling  of  the  refugee 
+crisis has exposed sizeable rifts in the post-cold war compact regarding the purpose of 
+humanitarian assistance and the nature of refugee protection. 
+while european policy was defined by declarations of shared policy areas, for example, 
+the relocation plan for some 160,000 refugees following the eu-turkey deal in 2016 and 
+the use of mobility partnerships, as well as by the growing restrictions on legal pathways to 
+asylum, it also had to contend with asymmetric responses from eu member states. some 
+eu members, such as the united kingdom, balanced the use of aid against the expense 
+of granting asylum to large numbers of syrian refugees and refused to participate in the 
+relocation effort.  other  states,  above  all  the visegrad  countries  of  the  czech  republic, 
+hungary, slovakia, and poland, largely refused to admit refugees altogether in spite of 
+shared policy positions. their refusal to cooperate with eu policy was based on cultural 
+grounds  muslim refugees could not be integrated into their predominantly christian 
+countries  (keating  2015).  rather,  muslim  refugees  represented  the  trojan  horse  of 
+terrorism, claimed hungarian prime minister viktor orban (brunsden 2017). most eu 
+members closed their borders, often using razor wire fences and other repressive approaches 
+to deter refugees seeking protection. following terror incidents in paris, brussels, cologne, 
+and nice, such actions were justified on the grounds that refugees from the middle east in 
+particular might pose a potential terror threat. 
+the prevailing logic of multilateralism set out in the 1990s, in particular working through 
+actors such as the unhcr and eu agencies, has also been challenged by competing narratives 
+about the ways in which national humanitarian policies should be conducted, which is 
+often in antagonism to the above partner institutions. the unhcr has been especially 
+critical of eu policy (spindler and clayton 2016), and ngos, above all mdecins sans 
+
+11   mobility agreements have been signed with cape verde (2008) and later, armenia (2011), azerbaijan 
+(2014), georgia (2008), jordan (2014), moldova (2013), morocco (2013) and tunisia (2014). 
+
+385
+
+another story: what public opinion data tell usfrontires (2016), have been even more outspoken. these organizations have contested the 
+design of the eu-turkey deal which introduces the prospect of returning refused asylum 
+seekers from the european union to turkey, as well as the practice of holding refugees in 
+closed detention centers on the greek islands. the division between implementing partners 
+and the agendas of national governments illustrates a divided trend in the management of 
+humanitarian policy. 
+in addition, we note a diverging pattern where, in addition to criticism by humanitarian 
+actors,  civic  groups  have  been  mobilized  in  opposition  to  harsh  refugee  and  asylum 
+policies and have created safe spaces for refugees and promoted the refugees welcome 
+campaign. lundberg and strange (2016) draw attention to a conflicting dynamic where 
+activists engage in resistance against the states migration policing and collaborate with 
+city-level state agencies to provide sanctuary to asylum seekers and others. in addition 
+to refugees welcome efforts in germany and central europe, we note the proliferation 
+of cities of sanctuary (united kingdom) and places of sanctuary (ireland) described as 
+a movement that seeks to build a culture of hospitality. since sheffield became the first 
+british city of sanctuary in 2005, the united kingdom and ireland have witnessed over 
+90 city of sanctuary initiatives. 
+
+what public opinion data tell us 
+in addition to real-time reporting from the field and much public commentary via social 
+media, one distinguishing aspect of the current refugee crisis is the steady release of 
+public  opinion  datasets.  amnesty  internationals  refugees  welcome  survey,  the  pew 
+research centers global attitudes survey, and the european social survey are three of 
+the most well-cited studies conducted during this period. although they rely on different 
+methodologies and cover a range of countries  mostly but not exclusively overlapping 
+states    these  datasets  provide  a  useful  record  of  public  opinion  before  and  after  the 
+massive refugee influx began, as well as at key points in the crisis.
+the datasets are all based on structured surveys with either closed questions or a ranking 
+system where participants select answers according to a series of responses which range 
+from full agreement to full disagreement. the most widely publicized dataset produced 
+by amnesty international and the polling company globescan took the form of a global 
+survey of more than 27,000 people polled by phone and during face-to face interviews 
+from across 27 countries between january and march 2016, well after the mass flows of 
+refugees started reaching europe. 
+the survey was global, covering argentina, australia, brazil, canada, chile, china, france, 
+germany,  ghana,  greece,  india,  indonesia,  jordan,  kenya,  lebanon,  mexico,  nigeria, 
+pakistan, poland, russia, south africa, south korea, spain, thailand, turkey, the united 
+kingdom, and the united states. since it included several host states in the middle east 
+and major destination states, this survey was of particular relevance to eu policy. 
+one  unique  feature  of  the  survey  was  its  focus  on  participants  personal  commitment 
+to support refugees. unlike other political polling and market research, the survey used 
+rankings to explore the degree to which respondents in the selected states were willing 
+
+386
+
+journal on migration and human securityto  let  refugees  live  in  their  countries,  towns,  neighborhoods,  and  homes,  among  other 
+welcome indicators, and asked the following questions, and required responses ranging 
+from full agreement to full disagreement: 
+i) people should be able to take refuge in other countries to escape from war or persecution; 
+and 
+ii) our government should do more to help refugees fleeing war or persecution.
+according to amnesty international, the results of the refugees welcome survey showed 
+government refugee policies out of touch with public opinion (amnesty international 
+2016). this was most evident in eu member states, where the response to question one 
+above  was  overwhelmingly  in  agreement  and  ranged  from  73  percent  in  poland  to  94 
+percent in germany as indicated in table 1 below.
+
+table 1. should people be able to take refuge in other 
+countries to escape from war or persecution? 
+
+source: amnesty international (2016). table courtesy of amnesty international. 
+yet, in response to question two above, about government responsibility towards refugees 
+fleeing war or persecution, the findings present a more complex picture. in all eu member 
+states,  with  the  exception  of  poland  (43  percent),  the  majority  of  participants  were  in 
+agreement, though less than reported in response to question one above. this result warrants 
+clarification. 
+
+387
+
+another story: what public opinion data tell ustable  2.  should  your  government  do  more  to  help 
+refugees fleeing war or persecution? 
+
+source: amnesty international (2016). table courtesy of amnesty international. 
+amnesty internationals survey carried a number of further limitations, not least of which 
+was its geographical coverage. the surveys coverage of european union member states was 
+limited to a handful of multicultural, refugee-receiving states and countries of immigration, 
+including france, germany, greece, spain, and the united kingdom. while the survey 
+also featured poland, a non-multicultural state and one at the margins of the mediterranean 
+crisis, we should note that poland has received several thousand refugees from ukraine. 
+thus, although amnesty international used a representative sample, the survey may appear 
+biased in favor of contact with refugee and immigrant populations. 
+another global instrument, pew research centers global attitudes survey, used similar 
+representative sampling techniques where respondents participated in telephone and face 
+to face surveys during fixed periods in 2016, again with a sample size of around 1,000 
+participants. the pew research center survey also covered most of the same eu states 
+as the amnesty international survey, with one notable difference  greece having been 
+replaced by sweden. however, unlike the amnesty international survey, the presentation 
+of  findings  indicated different patterns of  dissatisfaction. titled  euroskepticism  beyond 
+brexit, the pew research center study drew out wider political conclusions regarding the 
+integration of migrants, muslims, and refugees in the european union. a central conclusion 
+of the study was that there was significant opposition in key european countries to greater 
+political integration and that such opposition was linked to european policies regarding 
+asylum and refugee management: 
+
+388
+
+journal on migration and human securitymuch  of  the  disaffection  with  the  eu  among  europeans  can  be  attributed  to 
+brussels handling of the refugee issue. in every country surveyed, overwhelming 
+majorities disapprove of how brussels has dealt with the problem. this includes 
+94% of greeks, 88% of swedes and 77% of italians. the strongest approval of eu 
+management of the refugee crisis is in the netherlands, but that backing is a tepid 
+31%. 
+
+(stokes 2016)
+pew  research  centers  conclusion  therefore  targeted  blame  on  the  european  union 
+institutions, above all the brussels-based european commission. 
+this  finding  begs  further  scrutiny.  while  the  pew  research  center  study  investigated 
+attitudes towards the arrival of muslim migrants in europe, some of the questions asked by 
+pew research center required participants to identify where policy was made in order to 
+inform their views of culpability. 
+while  the  survey  raised  questions  about  the  degree  to  which  states  or  the  european 
+union as an institution might be held to account by participants, it also introduced some 
+politically ambiguous questions. for example, we note that overwhelmingly, respondents 
+disapproved of the way in which the european union was handling the refugee crisis. 
+although the largest response was from refugee-hosting states such as greece, which had 
+already received over 800,000 migrants and refugees, and where there was broad support 
+for solidarity and refugee sanctuary groups, we note that respondents in other countries 
+such as poland and the united kingdom, which could not be described as refugee-hosting 
+states, were similarly highly dissatisfied, possibly for different reasons. 
+
+table  3.  overwhelming  majorities  in  europe  unhappy 
+with the european unions handling of refugees
+
+ 
+ 
+source: stokes (2016). table courtesy of pew research center. 
+
+389
+
+another story: what public opinion data tell usfurther, and related to the above, the pew research center dataset asked direct questions 
+regarding participants aspirations for the european union as a global actor. in spite of 
+much criticism reported in response to earlier questions, 55 to 90 percent of participants 
+reported that they wanted to see the european union taking on a greater role in global 
+affairs. this finding, which presupposes greater unity among the european union member 
+states, undermines some of the wider euroskeptic conclusions of the pew research center 
+study. 
+
+table 4. broad support for a more active european union
+
+source: stokes (2016). table courtesy of pew research center. 
+again,  however,  the  challenge  of  defining  the  purported  role  of  the  european  union 
+introduces many possible scenarios. 
+in contrast to the amnesty international and pew research center surveys, the european 
+social  survey  (ess)  is  an  independent  and  academically  driven  exercise  that  seeks  to 
+measure  the  attitudes,  beliefs,  and  behavior  patterns  of  diverse  populations  in  eu  and 
+non-eu states, including russia. the ess is conducted every two years and has been in 
+use since 2001. it thus offers longitudinal and cross-national data. additional themes or 
+modules are introduced in each survey round, including a recent module on immigration in 
+the ess7 round (2014-2015). also, unlike the amnesty international and pew research 
+center surveys, the ess dataset includes a younger range of participants (aged 15 and 
+over), who are residents in private households of the selected countries. 
+most relevant to the european refugee crisis is the dataset from the ess7 round, conducted 
+between august 2014 and december 2015, with most national responses collected in the 
+first half of 2015. the survey included 28,221 respondents and was therefore of a similar 
+size to the amnesty international and pew research center studies; it included more eu/
+
+390
+
+journal on migration and human securityeuropean economic area countries, in addition to israel. in each of the surveyed states 
+(austria, belgium, switzerland, czech republic, germany, denmark, estonia, finland, 
+france,  ireland,  netherlands,  norway,  poland,  sweden,  and  slovenia),  the  sample 
+population was 800 to1,500, hence again a relatively similar size to the above surveys. one 
+question asked participants to evaluate governmental responses towards asylum. 
+
+figure  1.  government  should  be  generous  judging 
+applications for refugee status 
+
+source: ess (2016). 
+other questions in the ess7 round probed attitudes towards the integration of migrants. 
+though distinct from refugees, attitudes towards migrants are a useful proxy to interpret 
+attitudes towards refugee reception. for example, the ess7 included a question on third-
+country  nationals,  asking  if  participants  agreed  on  allowing  immigrants  from  poorer 
+countries into europe. the response, though qualified, illustrates a degree of openness with 
+54.5 percent of respondents recording that the state should allow many (14.3 percent) or 
+some (40.2 percent) migrants to live in the selected states. 
+
+figure  2.  allow  many/few  immigrants  from  poorer 
+countries in europe 
+
+source: ess (2016). 
+
+391
+
+another story: what public opinion data tell usin spite of the above, further data from the ess affirms many of the views captured in the 
+pew  research  center  survey. with  respect  to  migration  in  particular,  attitudes  towards 
+poor, nonwhite, and non-christian migrants are not significantly hostile but european 
+publics overwhelmingly prefer to admit educated populations who speak their language 
+and are committed to their way of life (stokes 2016). 
+in this context, the ess recorded a slight difference in attitudes towards muslim migrants.
+
+figure 3. allow many or few muslims to come and live 
+in country 
+
+source: ess (2016). 
+according to the above chart, with respect to muslims, public attitudes towards migration 
+and refugees do not in fact appear to be that different, suggesting that integration issues 
+may underlie participants responses.
+
+analysis
+the above datasets offer a window into public attitudes towards refugees and migrants 
+on the cusp of the current refugee crisis and during its peak. while each of above datasets 
+illustrate  important  normative  trends,  not  least  because  they  question  the  principle  of 
+asylum, few commentators have sought to explain why a record of public sympathy for 
+refugees and asylum seekers does not appear to bear any relation to the direction of public 
+policy regarding the admission of asylum seekers and the use of humanitarian assistance. 
+here i offer some possible explanations. 
+
+the ambiguities of public opinion surveys
+
+the  way  in  which  survey  questions  are  framed  does  not  necessarily  align  with  rights-
+based arguments for specific policy interventions. in the case of amnesty internationals 
+survey,  for  example,  the  phrasing  of  some  questions  introduces  many  ambiguities  that 
+
+392
+
+journal on migration and human securityare  exacerbated  when  the  instrument  is  used  for  a  cross-national  study.  we  note  that 
+participants interpretation of the nature of help given to refugees is understood quite 
+differently across the european union. this point has been repeatedly made by the uk 
+government, which has publicized its generosity and ambitions to help refugees living in 
+turkey, jordan, and lebanon, while rejecting efforts to receive and resettle large numbers 
+of refugees to the united kingdom. 
+moreover, public datasets assume participants have a high degree of political awareness. 
+for example, the initial question asked by the pew research center team  do you 
+approve/disapprove of the way the european union is dealing with the refugee issue?  
+assumes respondents can identify a distinctly eu-level response. yet, while the european 
+union has both a body of law in the form of the asylum acquis and a series of polices 
+in place that underpin the european agenda on migration,12 within the european union, 
+immigration and asylum policies remain highly nationalized. we note that commitment of 
+member states to the asylum acquis varies, with some states having opted out of the recast 
+directives and others interpreting their obligations less generously. some states, like the 
+united kingdom, have completely opted out of common policies including the relocation 
+scheme, a central plank to the eu-turkey agreement. beyond law and policy, there are 
+also many differences in terms of state practice. some countries like germany and sweden 
+have granted large numbers of refugees status ranging from refugee status to subsidiary 
+protection. by contrast, several central european states have hardly welcomed any people 
+on  the  move. with  the  suspension  of  the  schengen agreement,  the  closure  of  national 
+borders remains an area of national  not eu  control. these political realities may not 
+be understood by those sampled in the pew survey. 
+
+cultural antagonism
+
+while the above data record evidence of discriminatory views on the basis of nationality, 
+ethnicity, and religion, this finding is magnified in political discourse on the ways in which 
+states should respond to the needs of refugees and asylum seekers in europe. at the heart 
+of this argument is a claim that certain refugees  muslims, in particular  are treated 
+with suspicion both on account of the perceived difficulty of their integration in host states 
+and a more generalized fear of islamist terror. while this view is most reflected in the pew 
+research center survey, it has also been sustained and amplified in the media following the 
+terror attacks in paris, brussels, nice, egypt, and istanbul. 
+while we note that even before the death of alan kurdi,13 many of those sampled believed 
+their countries should be more generous towards asylum seekers and that later surveys 
+conducted during the summer of 2015 record a similar pattern, we also find that cultural 
+assumptions undermine the legal definition of refugee as set out in the refugee convention. 
+this is most evident in the data regarding muslim refugees and immigrants where, in spite 
+of the nationality and religion-blind logic of international refugee law, public attitudes are 
+
+12   communication from the commission to the european parliament, the council, the european economic 
+and social committee and the committee of the regions  a european agenda on migration, com (2015) 
+240 final (may 13, 2015). 
+13   alan kurdi was a syrian child who drowned and whose body, found face down on the beach, generated 
+much controversy and in effect restarted the search and rescue effort. 
+
+393
+
+another story: what public opinion data tell usless sympathetic toward people from certain nationalities and religions. similarly, in some 
+countries, particular groups are favored  for example, displaced ukrainians in poland 
+and eritreans in italy. hence, we can point to important cultural and political explanations 
+for both inhospitality and generosity towards refugees that recalls some of the geopolitical 
+traditions of refugee policy during the cold war. 
+
+conflating  refugees  and  illegal  immigrants  to  undermine 
+
+asylum
+while refugees and economic migrants have traditionally been treated separately within 
+western  legal  traditions,  popular  discourse  on  immigration  often  conflates  the  two 
+categories, which increasingly undermines the universal right to asylum. in some cases, 
+this  is  particularly  blatant.  for  example,  during  the  2016  referendum  campaign  on  the 
+united  kingdoms  membership  in  the  european  union,  the  uk  independence  party 
+(ukip) sought to garner support from a poster depicting a mass inflow of refugees in the 
+balkans, charging that migration  and in particular the right to free movement for eu 
+nationals  had created a situation where the united kingdom was at a breaking point, 
+and the european union had failed us all. in so doing, ukip actively sought to confuse 
+asylum, immigration, and eu policy regarding free movement. 
+such  confusion,  however,  also  works  in  reverse  and  beyond  the  tactics  of  right-wing 
+political parties. we note that anti-immigration discourses are influencing refugee policy 
+as more and more people question the place of refugees and asylum seekers in the cultural 
+consensus (will they integrate) and their value or merit (potential economic contribution) 
+to the host state. this is most evident in the differentiated levels of status afforded to new 
+arrivals (refugee protection and more commonly subsidiary protection), often on the 
+basis of nationality.14 further, eu states are using profiling to reduce the numbers of asylum 
+applicants. although european legislation, including the reception conditions directive,15 
+affirms  international  law  regarding  the  protection  of  human  rights  of  all  migrants,16  in 
+practice, the ways in which states have interpreted that requirement differs greatly. such 
+differentiated  treatment  is  noted  in  national  policy  preferences.  for  example,  italys 
+positive reception of eritreans (as opposed to other nationals), stands in marked contrast 
+to other states, including the united kingdom, where eritreans were erroneously denied 
+asylum in large numbers, only to find their claims later overturned by courts (lyons 2016). 
+the united kingdoms tightening of its rules regarding the admissibility of claims from 
+eritreans (uk home office 2016), further distanced uk and italian policies on asylum. 
+writing  in  the  guardian,  diane taylor  noted  that  internal  uk  government  documents 
+revealed that the government downplayed the risk of human rights abuses in one of the 
+
+14   directive 2011/95, of the european parliament and of the council of 13 december 2011 on standards for 
+the qualification of third-country nationals or stateless persons as beneficiaries of international protection, 
+for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the 
+protection granted, 2011 o.j. (l 337).
+15   directive 2013/33, of the european parliament and of the council of 26 june 2013 laying down standards 
+for the reception of applicants for international protection, 2013 o.j. (l 180). 
+16   regulation 604/13 of june 26, 2013, establishing the criteria and mechanisms for determining the member 
+state responsible for examining an application for international protection lodged in one of the member 
+states by a third-country national or a stateless person, 2013 o.j. (l 39) 1. 
+
+394
+
+journal on migration and human securityworlds most repressive regimes in an attempt to reduce asylum seeker numbers despite 
+doubts from its own experts (taylor 2017).
+at the european level, we note that the european unions european agenda on migration, 
+which includes the possibility of relocating refugees from italy and greece to other states, 
+also reflects a bias in favor of certain nationalities.17 the introduction of a threshold for the 
+european unions relocation scheme, which is based on the average percentage of refugees 
+admitted by  nationality across  the  european union  and  which  grants  the possibility of 
+relocation only to nationals from groups with a recognition rate higher than 75 percent, 
+further  undermines  the  approach  to  refugee  protection  on  the  basis  of  persecution  and 
+creates new hierarchies and priorities for integration (european commission 2016). the 
+net effect is that thousands of others are left behind (blitz and kofman 2017). 
+
+dominance of human capital thinking
+
+the above data show that the european public believes better educated migrants are easier 
+to integrate, though arguably these views have been exaggerated in the design of policy. 
+in practice, those arriving from low-skilled countries with limited human capital are less 
+desirable purportedly because they will add little to western knowledge economies. this 
+bias  contrasts  with  the  above  explicitly  racist  argument  but  nonetheless  discriminates 
+against africans, afghans, and other groups whose admission has been stemmed through 
+the use of profiling and restrictions regarding relocation and resettlement schemes.
+
+foreign policy justifications
+
+donor preferences in favor of aid and humanitarian assistance over asylum illustrate the 
+repoliticization  of  aid  and  a  new  preference  for  geopolitical  buffering.  whereas  in  the 
+cold war era, containment complemented preferential refugee policies, now the aim is 
+to keep refugees in the region as a means of containment in direct opposition to asylum 
+and  admission.  similarly,  as  the  policies  of  donor  states  diverge,  we  note  that  such 
+politicization may work in both directions where official development assistance (oda) is 
+used not only to fund humanitarian protection programs in frontier states but also in host 
+countries, thus linking asylum and humanitarian spending.18 the introduction of mobility 
+agreements  in  developing  countries    further  to  the  european agenda  on  migration, 
+where states are granted aid in exchange for receiving refugees (e.g., turkey, ethiopia, 
+morocco)  explicitly reframes humanitarian policy as another facet of security policy 
+and harkens back to a cold war logic. as such, this approach de-emphasizes the rights-
+based logic underlying refugee protection and humanitarian goals, and brings donor states 
+into contention with international law, as for example, regarding the eu-turkey deal and 
+recent italy-libya readmission initiatives. 
+
+17   communication from the commission to the european parliament, the council, the european economic 
+and social committee and the committee of the regions  a european agenda on migration, com (2015) 
+240 final (may 13, 2015).
+18   organisation for economic co-operation and developments development assistance committee data, 
+from 2010 to 2015, records that oda spending for in-donor refugee costs rose from $3.4 billion to $12 
+billion. the share of total net oda spent on refugee assistance rose from 2.7 percent in 2010 to 9.1 percent 
+in 2015 (oecd dac 2016).
+
+395
+
+another story: what public opinion data tell usnormalizing repression through border controls
+
+the  extra-territorialization  of  border  controls,  as  demonstrated  by  the  use  of  offshore 
+processing  by  australia  (e.g.,  nauru,  manus  island,  papua  new  guinea)  and  the 
+deployment of asylum and immigration officers in third countries, has enabled states to 
+extend their claims to jurisdiction and hence also management of asylum. the use of this 
+type of agreement, in addition to the european migration agenda and mobility agreements 
+described above, in turn informs political discourse and undermines alternatives to refugee 
+protection,  for  example,  the  possibility  of  safe  passage  and  creation  of  legal  routes  to 
+asylum. the net effect has been the creation of a new discourse that is antagonistic towards 
+the idea of refugee protection. 
+
+conclusion
+the current refugee crisis presents a distinct vantage point from which one may interpret 
+the  evolution  of  humanitarian  and  asylum  policies. above  i  suggest  that  this  episode 
+calls attention to cracks in the post-cold war approach towards humanitarian policy and 
+attempted harmonization of european policies regarding asylum. rather, as in the cold war 
+era, we are witnessing the fusing of security and humanitarian policies and the introduction 
+of increasingly restrictive practices on asylum, in spite of evidence of significant public 
+support. 
+the above datasets record overwhelming support for the principle of asylum which are 
+underlined by calls for greater generosity towards refugees and more active intervention 
+by the european union. however, support for the admission of refugees is not unqualified 
+and most states and european populations prefer skilled populations that can be easily 
+assimilated. ease of assimilation on the basis of education and skills appears to be one 
+of the most significant markers. though the european public is on record as being less 
+generous  towards  muslims,  neither  religion,  nor  country  of  origin,  appear  particularly 
+significant. this finding from the above data suggests that in spite of public sympathy, 
+european governments appear out of sync by pressing ahead with policies that run counter 
+to public demands. 
+noting potential ambiguities in the above datasets, this paper offers five further explanations 
+for the disjunction between public opinion and current policy on refugees, asylum seekers, 
+and  humanitarian  assistance.  it  claims  that  reported  public  concerns  regarding  cultural 
+antagonism  and  the  integration  of  asylum  seekers  have  been  greatly  magnified  and 
+identifies a cold war-style logic where aid and humanitarian assistance are principally 
+determined on the basis of foreign policy interests, though the containment of refugee and 
+asylum-seeking populations in the region and the use of humanitarian assistance to create 
+buffer zones illustrates notable discontinuities with past policies. in spite of much public 
+sympathy, the above developments in humanitarian and refugee policies have culminated 
+in a discourse that is undermining the universal right to seek asylum. 
+
+recommendations
+public opinion data record considerable evidence of sympathy and generosity which is 
+not reflected in current european policies. in order to press for greater refugee protection, 
+
+396
+
+journal on migration and human securitythe premise of coupling asylum and humanitarian policies with security policies must be 
+challenged. this can be done best by:
+  refining public opinion surveys so that questions are closely defined to avoid ambiguity 
+
+and cross-cultural misunderstanding. 
+
+  challenging  the  discourse  on  exclusion  and  securitization  by  working  with  human 
+rights actors, the unhcr, and its partners on dedicated media campaigns which affirm 
+public  support  and  identify  how  restrictive  asylum  policies  fail  to  advance  foreign 
+interests. 
+
+  challenging efforts to normalize illegal and inhumane practices, e.g., detention, offshore 
+processing, and the separation of families through the courts; these decisions must be 
+widely disseminated as part of a coordinated information campaign to present a counter 
+moral argument. 
+
+  evidencing persecution by sharing information with the press and government agencies 
+on the nature of claims by those currently considered ineligible for refugee protection 
+as part of a wider campaign of information and inclusion.
+
+  engaging  with  minority,  and  in  particular  muslim,  communities  to  redress  public 
+
+concerns regarding the possibility of cultural integration in the host country. 
+
+  clarifying  the  rights  of  refugees  and  migrants  in  line  with  the  unhcr  and  iom 
+guidelines and european and national law in order to hold governments to account and 
+to ensure that all  irrespective of their skills, status, nationality, or religion  are 
+given the opportunity to seek asylum.
+
+references
+amnesty  international.  2016.  refugees  welcome  index  shows  government  refugee 
+policies out of touch with public opinion. https://www.amnesty.org/en/latest/
+news/2016/05/refugees-welcome-index-shows-government-refugee-policies-out-
+of-touch/.
+
+blitz,  brad,  and  eleonore  kofman.  2017.  refugees  count.  the  economist,  march 
+http://www.economist.com/news/letters/21719756-scoxit-domino-theory-
+
+30. 
+quantum-physics-refugees-inequality-apostrophes-letters. 
+
+bocco,  riccardo,  ed.  2009.  unrwa  and  the  palestinian  refugees: a  history  within 
+history. refugee survey quarterly 28(2-3): 229-52. https://doi.org/10.1093/rsq/
+hdq001. 
+
+bon tempo, carl j. 2008. americans at the gate: the united states and refugees during 
+
+the cold war. princeton: princeton university press. 
+
+brunsden, jim. 2017. europe refugee policy is trojan horse of terrorism, says orban. 
+financial  times,  march  30.  https://www.ft.com/content/538b2a0a-154e-11e7-
+80f4-13e067d5072c. 
+
+397
+
+another story: what public opinion data tell uscarrera, sergio, and ral hernndez i sagrera. 2009. the externalisation of the eus 
+labour immigration policy: towards mobility or insecurity partnerships? ceps 
+working document no. 321. brussels: centre for european policy studies. http://
+aei.pitt.edu/14589/1/wd321_carrera_and_sagrera_e-version_final.pdf.
+
+council of the european union. 2002. presidency conclusions  seville, 21 and 22 june 
+2002. brussels: council of the european union. http://www.consilium.europa.eu/
+en/workarea/downloadasset.aspx?id=40802198177.
+
+. 2016. eu-turkey statement, 18 march 2016. brussels: council of the european 
+http://www.consilium.europa.eu/en/press/press-releases/2016/03/18-eu-
+
+union. 
+turkey-statement/.
+
+duffield, mark. 2001. governing the borderlands: decoding the power of aid. disasters 
+
+25(4): 308-20. https://doi.org/10.1111/1467-7717.00180. 
+
+ess  (european  social  survey).  2016.  ess7  edition  2.1.  london:  ess.  http://www.
+
+europeansocialsurvey.org/data/round-index.html. 
+
+european  commission.  2014.  the  cotonou  agreement  and  multiannual  financial 
+framework 2014-20. luxembourg: european commission. http://www.europarl.
+europa.eu/intcoop/acp/03_01/pdf/mn3012634_en.pdf.
+
+.  2016.  eighth  report  on  relocation  and  resettlement.  brussels:  european 
+https://ec.europa.eu/home-affairs/sites/homeaffairs/files/what-
+
+commission. 
+we-do/policies/european-agenda-migration/proposal-implementation-package/
+docs/20161208/eighth_report_on_relocation_and_resettlement_en.pdf. 
+
+. 2017. syria crisis. echo factsheet, march. https://ec.europa.eu/echo/files/aid/
+
+countries/factsheets/syria_en.pdf. 
+
+european  parliament.  1999.  tampere  european  council  15  and  16  october  1999 
+presidency  conclusions.  tampere,  finland:  european  parliament.  http://www.
+europarl.europa.eu/summits/tam_en.htm. 
+
+garcia,  marcia  christina.  1996.  havana  usa:  cuban  exiles  and  cuban  americans  in 
+
+south florida, 1959-1994. berkeley, ca: university of california press.
+
+the guardian. 1997. robin cooks speech on the governments ethical foreign policy. 
+the  guardian,  may  12.  https://www.theguardian.com/world/1997/may/12/
+indonesia.ethicalforeignpolicy.
+
+keating, joshua. 2015. heres why eastern europe is so much more antagonistic to 
+syrias refugees than western europe. slate, september 14. http://www.slate.
+com/blogs/the_slatest/2015/09/14/here_s_why_eastern_europe_is_so_much_
+more_antagonistic_to_syria_s_refugees.html. 
+
+loescher, gil, and john a. scanlan. 1986. calculated kindness: refugees and americas 
+
+half-open door: 1945-present. new york: free press.
+
+398
+
+journal on migration and human securitylundberg, anna, and michael strange. 2016. who provides the conditions for human 
+life? sanctuary movements in sweden as both contesting and working with state 
+agencies. politics. https://doi.org/10.1177/0263395716661343. 
+
+lyons,  kate.  2016.  hundreds  of  eritreans  asylum  applications  still  incorrectly 
+refused. the guardian, july 28. https://www.theguardian.com/uk-news/2016/
+jul/28/hundreds-of-eritrea-asylum-applications-still-incorrectly-refused. 
+
+macrae, joanna, and nicholas leader. 2000. shifting sands: the search for coherence 
+between  political  and  humanitarian  responses  to  complex  emergencies. 
+humanitarian  policy  group  report  8.  london:  odi  (overseas  development 
+institute). 
+https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-
+opinion-files/299.pdf. 
+
+macrae, joanna, emery brusset, and christine tiberghien. 2002. coherence or cooption? 
+europe and the new humanitarianism. london: odi. https://www.odi.org/sites/
+odi.org.uk/files/odi-assets/publications-opinion-files/3411.pdf. 
+
+msf (mdecins sans frontires). 2016. msf to no longer take funds from eu member 
+states  and  institutions.  london:  msf.  https://www.msf.org.uk/article/msf-no-
+longer-take-funds-eu-member-states-and-institutions. 
+
+newland, kathleen. 1995. u.s. refugee policy: dilemmas and directions. washington, 
+
+dc: carnegie endowment for international peace.
+
+nye, joseph s. 1999. redefining the national interest. foreign affairs 78(4). https://doi.
+
+org/10.2307/20049361. 
+
+provost, claire. 2006. the privatisation of uk aid: how adam smith international is profiting 
+from the aid budget. london: global justice now. https://www.globaljustice.org.
+uk/sites/default/files/files/resources/the_privatisation_of_uk_aid.pdf. 
+
+scott, colin, and ian bannon. 2003. mind the gap: the world bank, humanitarian 
+action  and  development    a  personal  account.  social  development 
+department dissemination notes no. 10. washington, dc: world bank. https://
+openknowledge.worldbank.org/handle/10986/11306. 
+
+spindler,  and  jonathan  clayton.  2016.  unhcr  expresses  concern  over  eu-turkey 
+plan. geneva: unhcr. http://www.unhcr.org/uk/news/latest/2016/3/56dee1546/
+unhcr-expresses-concern-eu-turkey-plan.html
+
+stokes, bruce. 2016. euroskepticism beyond brexit: significant opposition in key european 
+countries to an ever closer eu. washington, dc: pew research center. http://
+www.pewglobal.org/files/2016/06/pew-research-center-brexit-report-final-
+june-7-2016.pdf. 
+
+takkenberg, lex, ed. 2009. unrwa and the palestinian refugees after sixty years: some 
+reflections. refugee survey quarterly 28(2-3): 253-59. https://doi.org/10.1093/
+rsq/hdp050. 
+
+399
+
+another story: what public opinion data tell ustaylor,  diane.  2017.  home  office  eritrea  guidance  softened  to  reduce  asylum 
+seeker  numbers.  the  guardian,  january  22.  https://www.theguardian.com/
+uk-news/2017/jan/22/home-office-eritrea-guidance-softened-to-reduce-asylum-
+seeker-numbers. 
+
+truman, harry s. 1947. recommendation for assistance to greece and turkey: address 
+of the president of the united states delivered before a joint session of the senate 
+and  the  house  of  representatives,  recommending  assistance  to  greece  and 
+turkey.  speech,  washington,  dc,  march  12.  https://www.ourdocuments.gov/
+doc.php?doc=81#. 
+
+uk home office. 2016. country policy and information note: eritrea: national service 
+and  illegal  exit.  london:  uk  home  office.  https://www.gov.uk/government/
+uploads/system/uploads/attachment_data/file/565635/cpin-eritrea-ns-and-
+illegal-exit-v4-october-2016.pdf. 
+
+uk house of commons. 2017a. changes in us immigration policy: 30 january 2017. 
+house of commons debate, london, january 30. https://hansard.parliament.uk/
+commons/2017-01-30/debates/448738c3-927f-481b-8340-809810f30595/
+changesinusimmigrationpolicy. 
+
+.  2017b.  unaccompanied  child  refugees:  09  february  2017.  house  of 
+commons  debate,  london,  february  9.  https://hansard.parliament.uk/
+commons/2017-02-09/debates/441db6f3-2f20-4a12-a13c-9cb86838707e/
+unaccompaniedchildrefugees. 
+
+zucker,  naomi  flink,  and  norman  l.  zucker.  1995.  us admission  policies  towards 
+cuban  and  haitian  migrants.  in  the  cambridge  survey  of  world  migration, 
+edited by robin cohen, 447-51. cambridge: cambridge university press.
+
+400
+
+journal on migration and human security

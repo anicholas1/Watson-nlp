@@ -1,0 +1,524 @@
+at the edge of us immigrations 
+halt of folly: data, information, 
+and research needs in the event 
+of legalization
+
+fernando riosmena
+university of colorado boulder
+
+ executive summary
+virtually  all  accounts  of  the  state  of  the  us  immigration  system  point 
+to its patently broken condition, with the presence of almost 12 million 
+people without legal status paramount to this characterization. because 
+of several recent developments including continued and renewed interest 
+in regularizing the status of most unauthorized migrants in executive and 
+legislative branch agendas, the center for migration studies of new york, 
+with support from the john d. and catherine t. macarthur foundation, 
+convened  a  group  of  immigration  specialists,  researchers,  scholars,  and 
+advocates in washington, dc in september 2013 to discuss potential data, 
+information, and research needs in the event of the enactment of large-
+scale legalization programs for the unauthorized population. 
+this paper describes the results of this one-and-a-half day discussion. it 
+begins with a description of the contours of a legalization program if it 
+were  to  follow  a  similar  form  as  s.  744,  the  border  security,  economic 
+opportunity, and immigration modernization act passed by the senate in 
+june 2013. in addition to being the most recent effort in this area, s. 744 
+includes a relatively complex set of conditions for earning legalization. 
+a number of data, information, and research needs would need to be met 
+to ensure the proper implementation of such a program. first, planning 
+for effective local outreach and service delivery efforts requires estimating 
+the eligible population at finer-scale geographies; understanding financial 
+and  time  disincentives  to  apply  and  adhere  to  the  program  and  skill 
+levels required; assessing capacity in service delivery relative to the size 
+and service needs of the local eligible population; tracking the progress of 
+applicants through the legalization process; and understanding effective 
+forms  of  outreach  and  service  delivery.  second,  assessing  the  effects  of 
+legalization on immigrant integration, future immigration, and fiscal and 
+
+ 2013 by the center for migration studies of new york. all rights reserved.jmhs volume 1 number 4 (2013): 148-162economic life in the united states would include anticipating the effects of 
+legalization on eligibility and use of locally- and state-provided services by 
+the legalized and their families.
+within  the  discussion  of  these  issues,  the  paper  describes  recent  and 
+potential  efforts  to  develop  methodologies,  partnerships,  and  evaluation 
+and tracking systems by different stakeholders and organizations to ensure 
+and assess the short- and long-term effectiveness of legalization efforts. in 
+doing this, it alludes to the lessons of past regularization programs addressed 
+during the meeting including the immigration reform and control act of 
+1986 and the deferred action for childhood arrivals program.
+although the volatile political climate may make a full-fledged legalization 
+program unlikely in the near future, waiting to plan for such a possibility 
+until after legislation passes would be ill-advised. because such a discussion 
+may also help shape the parameters of how legalization takes place, fora 
+like that provided by this meeting are valuable vehicles to organize and 
+mobilize knowledge, and should be thus continued and expanded.
+
+introduction 
+every other contemporary scholarly and almost all advocacy accounts related to the us 
+immigration regime begin by declaring the systems patently broken status. the clearest sign 
+of this malaisethe root causes of which are nonetheless posited to be related to somewhat 
+different forces across these accountsis represented by the presence of close to 12 million 
+individuals without legal authorization to reside and work in the country (passel, cohn and 
+gonzalez-barrera 2013; warren and warren 2013). as such, any discussion of legislative 
+reform (or, to a lesser extent, executive action) to amend a relatively ineffective set of rules, 
+regulations, and practices often begins by addressing the status of this population. 
+many argue that it is highly unrealistic to deport (or, in administrative parlance, remove) 
+that many people. even though just over 3 million people were formally removed between 
+fy2001  and  fy2011  (dhs  2012,  table  39)  putting  a  real  dent  in  the  unauthorized 
+population exclusively through enforcement appears unlikely given the large number of 
+people continuing to enter without or falling out of status, resulting in the relative stability 
+of the unauthorized population even in the midst of massive deportation (hoefer, rytina 
+and baker 2012; passel et al. 2013; warren and passel 1987; warren and warren 2013). 
+studies evaluating the effectiveness of immigration enforcement net of other conditions 
+(e.g., economic trends on both sides of the border or in specific immigrant destinations, the 
+evolution of migrant networks) also suggest enforcement-only approaches are not a viable 
+solution (angelucci 2012; massey and riosmena 2010; parrado 2012). with the financial, 
+social, emotional, and political costs of continuing, protracted, massive levels of removals 
+looming  large  (amuedo-dorantes,  puttitanun  and  martinez-donate  2013;  dreby  2010; 
+golash-boza  2012),  regularization  seems  like  a  practical  and,  for  many  experts,  a  fair 
+option (hanson 2007; massey, durand and malone 2002), and one that has been favored 
+by a majority of americans in recent times (muste 2013).
+
+149
+
+legalization data, information and research needs although  the  regularization  of  (most  of)  the  unauthorized  population  has  been  on  the 
+immigration reform agenda for several years (for some past earned legalization efforts, 
+see rosenblum, capps and yi-ying lin 2011), recent progress has reignited the idea of 
+passing so-called comprehensive immigration reform (cir). most notably, on june 27, 
+2013 the senate passed s. 744, the border security, economic opportunity, and immigration 
+modernization act.1 in addition to proposing broad changes to the immigration system 
+aimed at adding flexibility to better accommodate and manage labor-related migration in 
+particular, s. 744 included the establishment of a long, winding road to permanent residency 
+for most people who are currently unauthorized under a registered provisional immigrant 
+status (rpi). in addition to supporting the general ideas behind s. 744 and its legalization 
+efforts in particular, the obama administration had taken prior action through the deferred 
+action for childhood arrivals (daca) program with the purpose of providing temporary 
+reprieve  from  the  risk  of  deportation  to  eligible  undocumented  youth  brought  into  the 
+united states by their parents.
+given  these  considerations  and  developments,  on  september  1920,  2013  the  center 
+for migration studies (cms) convened a group of immigration specialists, researchers, 
+scholars,  and  advocates  in  washington,  dc  to  discuss  potential  data,  information,  and 
+research needs in the event of the enactment of large-scale legalization programs for the 
+unauthorized population. this paper reports on the main results of this one-and-a-half day 
+gathering, which was supported by a grant from the john d. and catherine t. macarthur 
+foundation. as participants were assured their comments would not be for attribution, no 
+credit is hereby given to any one individual in particular. the paper instead collates and 
+describes collective deliberations during the meeting, as agreed to by meeting participants. 
+many may think it unlikely that a version of s. 744, or any other major legalization program, 
+would pass both the house and senate and become law in the near future.2 yet, even for 
+low-odds propositions, planning and readiness are of paramount importance for ensuring 
+and evaluating success in the event it does take place. because the implementation period of 
+past regularization programs has been rather short, assessing the types of information, data, 
+and research different stakeholders may need to ensure and evaluate the smooth running 
+of such a program cannot wait until a possible bill becomes law. further, understanding 
+potential information, data, and research needs related to an eventual legalization program 
+could not only aid in its implementation but shape the conversation. early information 
+about prior immigration reform efforts has also helped correct some problems existing in 
+various past bills.3 
+to  contextualize  the  discussion  of  these  information,  data,  and  research  needs,  i  first 
+present  a  summary  of  the  general  provisions  of  a  legalization  program  along  the  lines 
+of what was proposed under s. 744. i draw some comparisons between s. 744 and the 
+legalization programs of the immigration reform and control act (irca) of 1986, which 
+
+1  border security, economic opportunity, and immigration modernization act of 2013, s. 744, 113th cong., 
+1st sess. (2013). http://www.gpo.gov/fdsys/pkg/bills-113s744es/pdf/bills-113s744es.pdf. 
+2  indeed, as of this writing no bill had become law and it appeared unlikely that the house would pass an 
+omnibus immigration bill in the near future.
+3  for instance, calculations of populations falling out of eligibility for asylum given changes in regulations 
+by the illegal immigration and immigrant responsibility act of 1996 led to the enactment of the nicaraguan 
+adjustment and central american relief act of 1997 (coffino 2006).
+
+150
+
+journal on migration and human securitywere both used as the basis of discussion during the meeting. s. 744 is a model of what a 
+contemporary legalization program may look like, while irca offers still useful lessons 
+on successes and failures in outreach, enrollment, and on the consequences of the program 
+for applicants and others.4 i then follow with a description of the main information, data, 
+or research needs identified by the meeting participants that would allow local and state 
+governments  and  immigration-related,  service  delivery  agencies  to  better  plan  for  an 
+effective  program  of  outreach  and  application  support.  preparation  would  include  the 
+sharing of best practices; research to allow local, state, and federal agencies to anticipate 
+eligibility and service demand from legalized populations; and establishment of a basis to 
+assess the effectiveness of legalization program(s) on immigrant incorporation and future 
+unauthorized and authorized migration dynamics.
+
+the contours of a multi-pronged legalization program
+legalization programs can be general or population-specific. s. 744, like irca, included 
+both types (for a history and breakdown of general and population-specific programs in the 
+united states over the last three decades, see kerwin 2010). s. 744 considered two special 
+populations: childhood arrivals (the so-called dreamers) and agricultural workers (whose 
+legalization provisions under s. 744 were known as the blue card program).
+in  addition  to  population  or  group  membership,  both  general  and  special-population 
+programs may include several types of eligibility requirements, though special-population 
+programs generally have lower bars and requirements than general programs. in the case of 
+s. 744, applicants need to meet at least five criteria to be able to apply for two rpi terms of 
+around six years each before being able to graduate to lawful permanent residence (lpr):5
+arrival cutoff dates. legalization programs, including those in irca as well as others 
+(e.g.,  the  nicaraguan adjustment  and  central american  relief act  (nacara)  of 
+1997) generally include cutoff dates to minimize the possibility of a spike in additional 
+unauthorized migration between signing and implementation. in the case of s. 744, 
+this cutoff date was set to december 31, 2011 for everyone except dependents of an 
+(eligible)  unauthorized  migrant  adult,  who  must  have  arrived  in  the  united  states 
+before december 31, 2012. 
+continuous presence. to be eligible for legalization, unauthorized immigrants also 
+need  to  prove  they  remained  (mostly)  present  in  the  country  since  the  cutoff  date 
+above. continuous presence has not been required under special agricultural worker 
+programs in either irca or s. 744 because many agricultural workers may spend the 
+off-season in the sending country, though they are required to complete minimum time 
+4  a somewhat more detailed summary and analysis of the specifics of legalization pathways opened by s. 
+744 is provided in icirr (2013). for an analysis of other less complex recent (failed) legislative attempts at 
+passing earned legalization, see rosenblum et al. (2011).
+5  in addition to individual requirements for each applicant, s. 744 includes triggers, requirements that the 
+federal government needs to meet before anyone is allowed to become an lpr including: the deployment 
+of a border security strategy that is operational; the completion of a border fence strategy (including 
+700 miles of pedestrian fencing); the deployment of more than 40,000 border patrol agents on the mexico-
+us border; the full implementation of the e-verify (electronic employment verification program); and the 
+implementation of an electronic exit system to better detect and deter visa overstays.
+
+151
+
+legalization data, information and research needs in agricultural work (90 days in the case of irca; 100 days or 575 hours in the case 
+of s. 744). of note in s. 744 is that some individuals who had been removed from the 
+country would be allowed to obtain rpi status. in particular, people with direct family 
+ties to lprs and citizens (e.g., who would otherwise be eligible to apply for lpr under 
+family reunification provisions of the immigration and nationality act (ina)) would 
+be  allowed  to  apply  and  thus  waive  bars  related  to  their  prior  unauthorized  status 
+triggered by their departure or removal. in addition, individuals who were removed 
+from  the  country  after  the  cutoff  date  and  would  have  otherwise  been  eligible  for 
+rpi status through the special program aimed at regularizing childhood arrivalsalso 
+referred to as the dream actwould be eligible for rpi status.
+language and civics requirements. like irca, s. 744 would require that applicants 
+pass english and civics tests prior to becoming lprs. these tests would be similar to 
+those required for naturalization (massey et al. 2002; rosenblum et al. 2011). 
+socioeconomic requirements. s. 744 includes stringent criteria to convert rpi into 
+lpr status. this includes a relatively hefty fine ($1,000 in addition to undetermined 
+application fees) as well as the payment of any pending assessed taxes. further, recent 
+legalization bills including s. 744 also contain other socioeconomic requirements prior 
+to rpi renewal and becoming an lpr. these include proving continuous regular 
+employment, full-time school enrollment, or having a family income of at least 100 
+percent and 125 percent of the federal poverty line (for rpi renewal and progression 
+to lpr, respectively), with exceptions for age, disability, caregivers, dependents, and 
+extreme hardship.
+good moral character. applicants would need to pass background checks throughout 
+the process of becoming rpis as well as when applying for lpr status. commission 
+of a felony, aggravated felony, or three misdemeanor convictions, as well as unlawful 
+voting, would disqualify applicants. however, if a conviction had been expunged or 
+set aside, it would not count against an applicant. other types of offenses that would 
+not  count  against  applicants  include  minor  traffic  offenses,  state  or  local  offenses 
+related to peoples immigration status, or violation of the rules that could otherwise bar 
+someone from getting status (e.g., immigration document fraud).6 the bars involving 
+more serious criminal behavior and national security threats or terrorism could not be 
+waived. 
+
+main data, information, and research needs to plan for 
+and evaluate a legalization program
+to  ensure  appropriate  levels  of  outreach,  service  delivery,  and  knowledge  about  the 
+(eligible and ineligible) unauthorized population prior, during, and after legalization takes 
+placeincluding understanding of the effects of the program on those regularizing and 
+on othersseveral stakeholders said they would greatly benefit from different types of 
+information, data, and research. during the meeting, two major objectives of planning for 
+effective outreach and service delivery, and broadly assessing the effects of a legalization 
+
+6  even if one of those rules applied to a potentially eligible migrant, the applicant could apply for a waiver 
+in most cases.
+
+152
+
+journal on migration and human securityprogram were identified, along with more specific information, data and research needs 
+within each objective. 
+
+1. to plan for effective local outreach and service delivery efforts
+
+1.1  estimating  the  likely  eligible  population  at  finer-scale 
+
+geographies
+
+in order to estimate levels of demand for us citizenship and immigration services (uscis) 
+workload and the outreach and legal assistance that potential applicants may need from 
+nongovernmental organizations (ngos) interested in ensuring the success of the program, 
+it is first necessary to estimate the eligible population. these estimates should be available 
+at relatively fine geographic scales, for example, at the state level and, when possible, local 
+level. there are some estimates of the unauthorized population available for select states 
+(hoefer et al. 2012; passel et al. 2013) and for all states (see online appendices in warren 
+and warren 2013). 
+ideally,  these  estimates  would  need  to  be  further  spatially  downscaled  and  augmented 
+or  overlaid  by  adding  estimates  of  unauthorized  migrants  meeting  each  and  all  of  the 
+requirements  for  rpi  (e.g.,  language  requirements).  for  some  estimates  of  this  sort 
+with  prior,  less  restrictive  regularization  initiatives,  see  passel  and  lopez  (2012)  and 
+rosenblum et al. (2011). these estimates could also benefit from calculations on whether 
+eligible individuals may also be eligible to legalize under provisions already established 
+by the ina (e.g., family reunification) provided that, as in the case of s. 744, the bill also 
+includes  provisions  waiving  any  ban  triggered  by  unauthorized  presence  in  the  united 
+states.  understanding  who  would  be  eligible  through  other  provisions  is  vital  because 
+these individuals may be able to become lprs more rapidly and for a lower fee, and s. 744 
+forces applicants for rpi to forego other vehicles to legal status.
+recent efforts by demographers discussed in the meeting may allow for further downscaling 
+estimates of the unauthorized population (e.g., for some major cities) likely eligible for 
+regularization. in addition to the use of localized surveys with legal status information 
+(e.g., marcelli, forthcoming), demographers have also refined methodologies to impute 
+the legal status of foreign-born populations using legal status information from other (e.g., 
+smaller, one-time) surveys (burtless and singer 2011; capps et al. 2013; van hook et al., 
+forthcoming). participants discussed creating identifiers of legal status and a new variable 
+based on the detailed data collected each year in the census bureaus american community 
+survey (acs).7 this would allow the public at large to do customized searches of acs 
+datasets for the characteristics of legal and unauthorized immigrants. the availability of 
+these data in the future, or the use of similar imputation techniques on local and regional 
+surveys (e.g., the los angeles family and neighborhood survey) that provide substantial 
+detail  on  other  aspects  of  eligibility  such  as  language  and  admissibility,  could  greatly 
+
+7  because many populations and particularly the unauthorized are generally undercounted in censuses and 
+surveys (e.g., van hook et al., forthcoming), demographers generally adjust these estimates up (passel et 
+al. 2013; warren and warren 2013). improved techniques could include a set of weights to perform these 
+adjustments as well.
+
+153
+
+legalization data, information and research needs advance the assessment of local demand for the program and for services associated with 
+it.
+
+1.2 understanding incentives and levels of skill to apply and 
+
+adhere to the program
+
+in addition to assessing eligibility per se, meeting participants also pointed out the need 
+to understand potential barriers to application and adherence to the program among those 
+eligible. this includes knowledge of the share of eligible participants who might find fees 
+prohibitive or face other barriers like proving the time of arrival, continuous presence, 
+continuous employment and lack of english language proficiency. an assessment of these 
+price and time elasticities could illuminate the circumstances under which individuals may 
+be unlikely to apply or to remain in the program and could potentially help in designing 
+ways  in  which  selection  and  attrition  could  be  reduced.  for  instance,  this  information 
+could help congress or the executive branch design or adjust the fee structure for the low-
+income or rules related to continuous employment for the self-employed.8
+assessing  the  language  and  technological  skills  of  the  eligible  population  could  also 
+help plan for the best and most efficient way to provide services for different segments. 
+information on language skill and technological literacy and access could guide outreach 
+and application preparation strategies. likewise, it was of interest to participants whether 
+some  applicants  could,  with  minimal  support,  prepare  and  file  their  own  applications, 
+allowing service-providers to devote more time to other categories of applicants. such a 
+strategy would help to maximize the resources available in each community.
+
+1.3 assessing local capacity in service delivery 
+
+according  to  meeting  participants,  prior  experience  with  massive  legalization  in  the 
+context of ircawhen almost 2.7 million people legalized (kerwin 2010)placed a 
+very large burden on the capacity of many service providers and federal, state and local 
+government agencies. daca brought similar pressures, although the information collected 
+for this program could be used to pre-qualify applicants for legalization under s. 744 
+and satisfy certain requirements of the dream act, if this legislation passed. despite 
+immense  technological  advancement  since  irca,  a  legalization  bill  would  still  create 
+enormous  challenges  to  local  service  capacity,  particularly  for  organizations  providing 
+free or heavily subsidized services. the unauthorized population is more than three times 
+as large as it was in the late 1980s (passel et al. 2013; warren and warren 2013) and 
+at least five times larger than eligible daca participants. furthermore, it is much more 
+spread out geographically relative to pre-irca times (e.g., durand, massey and capoferro 
+2005;  singer  2004;  suro  and  singer  2002),  including  nontrivial  numbers  of  migrants 
+living in nonmetropolitan areas (donato et al. 2007). thus, while many less traditional 
+immigrant gateways have large (unauthorized) migrant populations, they may not yet have 
+
+8  congress may potentially take into consideration how much and when migrants may be able to pay in 
+fees when determining the fee structure of the program, among other factors entering this consideration. 
+for instance, whether paying a $2,000 fine before becoming lpr would increase the percentage of people 
+adhering to the program relative to paying $1,000 during each rpi phase. 
+
+154
+
+journal on migration and human securitydeveloped their organizational capacity to accommodate these new populations, much less 
+to respond to a legalization program.9 it is in the context of these likely underserved areas 
+that assessing local capacity around outreach, application assistance, full legal assistance, 
+as well as english language and civic classes, among other activities, becomes particularly 
+pressing. 
+meeting participants emphasized the need to match different levels of need for general 
+guidance versus more individual legal assistance, with an estimate of the local capacity 
+provided by different kinds of non-profit and government organizations. in particular, it 
+was proposed that information on local capacity should be collected, shared, and mapped 
+according  to  the  types  and  levels  of  service  provided  by  different  organizations.  this 
+information should be compared to information on applicants that: could apply on their 
+own with minimal guidance; could apply with information provided in a classroom setting; 
+and would need one-to-one counseling. 
+organizations  range  in  their  capability  and  capacity  to  provide  community  outreach, 
+application assistance, and complex legal work. organizations with only basic screening 
+capacity could be of assistance by helping channel more complex cases to private attorneys 
+or to federally-recognized charitable organizations with attorneys or with accredited non-
+attorneys who can provide legal assistance. 
+during the meeting, it was also stressed that nontraditional partners may be particularly 
+important to assist specific populations, such as providing outreach and group processing 
+workshops in places, within industries, or to national origin groups with small numbers 
+of  unauthorized  immigrants,  otherwise  hard-to-reach  groups  or  those  that  might  have 
+been underrepresented in prior regularization efforts. for example, some asian-american 
+populations were underrepresented in the case of irca and daca.10 
+it was suggested that organizations not mainly or typically associated with immigration-
+related assistance, but with a broad interest in the success of a legalization program, could 
+also be partners in these efforts. participants suggested that nontraditional partners could 
+help  with  hard-to-reach  populations,  provide  basic  eligibility  screening,  and  operate  as 
+clearinghouses  to  channel  potential  applicants  to  other  organizations  according  to  the 
+complexity of their case, capacity to self-file and economic means. because new gateway 
+communities may have large eligible populations but less local capacity, nontraditional 
+partners may be of particular relevance in these places. 
+the discussion also highlighted that other, private forms of local capacity, including the 
+capacity of so-called notarios, should be catalogued and mapped for two reasons. first, 
+a large notario presence in the context of low levels of other local capacity could imply 
+higher  levels  of  migrant  vulnerability  and  would  underscore  the  need  for  redoubling 
+efforts in specific locales. second, despite the general sense that many notarios can be ill-
+informed and sometimes ill-intentioned, it may nonetheless be possible that some notarios 
+could  become  partners  and  points  of  contact  and  screening,  particularly  in  places  with 
+
+9  for a recent news story related to these issues, see   http://www.npr.org/blogs/codeswitch/2013/12/10/ 
+249766634/in-a-small-missouri-town-immigrants-turn-to-schools-for-help. 
+10  see, for instance, http://www.nytimes.com/2013/12/09/nyregion/advocates-struggle-to-reach-immigrants-
+eligible-for-deferred-action.html?_r=0. 
+
+155
+
+legalization data, information and research needs fewer options and lower capacity. yet participants emphasized that vetting mechanisms 
+for  these  and  other  kinds  of  providers  need  to  be  in  place,  perhaps  aided  by  national 
+legal and immigration aid organizations (e.g., legal training from organizations like the 
+catholic legal immigration network, inc. (clinic) or immigrant legal resource center 
+(ilrc)), which may include formal board of immigration appeals (bia) recognition and 
+accreditation, to ensure a sufficient level of knowledge and service capacity. 
+while  some  partners  would  be  helpful  in  determining  program  eligibility,  others  could 
+provide assistance in meeting particular program requirements, including language and 
+civics requirements. school systems, city and county agencies, utility companies and banks 
+could provide the documentation needed to establish entry dates and continuous residence. 
+because the mix of organizations that may be able to provide these services will likely 
+vary across different locations, it will be important to create databases and maps of these 
+organizations in each community. 
+finally, public-private venturesparticularly with technology companieswere discussed 
+as a potential way to integrate some of these efforts in collecting, organizing, sharing, and 
+using data. some of these companies, most notably facebook, have lobbied and otherwise 
+generally supported the idea of immigration reform and could help to reach and provide 
+assistance  to  tech-savvier  populations  (e.g.,  dreamers).  it  was  reported  that  other 
+technology companies have also provided resources such as tablets to outreach workers 
+as part of their community outreach and social marketing efforts, thus suggesting that they 
+may be willing collaborate in supporting some of these activities.
+
+1.4  tracking  applicants  progress  through  the  legalization 
+
+process 
+in addition to anticipating potential problems of who may apply (or drop out of) the program, 
+it is in the interest of uscis, service providers, immigration analysts and scholars to track the 
+progress of applicants throughout the different stages of regularization. timely information 
+of this sort would allow different organizations to assess whether additional outreach or 
+aid activities may be necessary to ensure robust participation, understand which program 
+requirements may have been particularly onerous, rendering many applicants unable or 
+ineligible to continue such as high fees, failing background checks or english tests, and to 
+identify how life circumstances change in ways that motivate certain applicants to drop out 
+of the program. 
+
+1.5 understanding and sharing effective forms of outreach and 
+
+service delivery
+participants stressed the need to understand the effectiveness of different forms of outreach 
+and service delivery to establish a platform to share best practices in these areas. to evaluate 
+outreach and service delivery, one might compare predicted to actual demand of particular 
+segments of the unauthorized population. however, the specifics of how to go about doing 
+this are not straightforward. logically, understanding past performance in regularization 
+effortssuch as irca, nacara, and dacawas viewed as the first step to identify 
+
+156
+
+journal on migration and human securitypopulations and locations in which program performance was not as high as desirable. 
+participants also discussed the idea of curating and disseminating best practices in areas such 
+as screening and interviewing techniques; the collection of information that would allow 
+organizations to channel and triage cases; ways to assess the need for more information 
+about  applicants;  ways  in  which  localities  can  provide  documents  to  support  program 
+applications; how to reach communities not coming forward or doing so slowly; and ways 
+to involve nontraditional players and to expand the number of local service providers. in 
+addition to using pre-established networks of providers, public-private partnerships could 
+be of use in coming up with innovative information-sharing schemes.
+
+2. to assess the effects of legalization on immigrant integration, 
+future immigration, and the fiscal and economic life in the united states. 
+
+2.1  understanding  the  effects  of  legalization  on  immigrant 
+
+incorporation and assimilation
+
+as with any other policy intervention, legalization is expected to have direct and intended 
+consequences  as  well  as  indirect,  unintended,  or  unforeseen  ones. the  program  should 
+improve the lives of immigrants in the short-run and help facilitate their integration and 
+that of their descendants in the long-run. regularization of status should foster political 
+participation and improve the wellbeing of immigrants and their families in dimensions 
+such as mental health, access to health care, and working conditions and wages.11 
+the collection of information from successful irca applicants from both administrative 
+sources as well as surveysmost notably through a short-panel longitudinal project known 
+as the legalized population survey (lps)12spurred a large amount of research on labor 
+market behavior, social service use, and family immigration dynamics during the first few 
+years after legalization (amuedo-dorantes and bansak 2011; bean, edmonston and passel 
+1990;  borjas  and  tienda  1993;  chiswick  and  miller  1999;  kossoudji  and  cobb-clark 
+2000; powers, seltzer and shi 1998; tienda and singer 1995; woodrow-lafield 1994).13
+participants  suggested  that  these  data  collection  efforts  are  key  to  understanding  the 
+integration  of  the  legalized  and  their  families  into  us  society,  and  suggested  a  few 
+improvements in data collection relative to lps-1 and lps-2, collected in 1989 and 1992, 
+respectively. among these suggestions were the inclusion of more information on other 
+aspects of immigrant life, and an expansion of the follow-up period from five to at least ten 
+years. the experience of the more recent new immigrant survey-pilot and new immigrant 
+survey (jasso et al. 2004) could be used as a model to improve data collection in terms of 
+topics and follow-up procedures.
+11  for research on the burden of irregular immigration status on different dimensions of wellbeing, see 
+derose et al. (2009); hall et al. (2010); and menjvar (2006).
+12  for a brief summary, see powers et al. (2004). for a description of the survey methodology, see http://
+mmp.opr.princeton.edu/lps/lpspage.htm or http://idsc.iza.org/?page=27&id=53.
+13  research aimed to understand the effects of irca (including legalization) on the lives of the legalized 
+also used other sources of survey data, such as the mexican migration project (e.g., donato and massey 
+1993; phillips and massey 1999).
+
+157
+
+legalization data, information and research needs 2.2 understanding the effects of legalization and other changes in 
+
+the immigration system on future legal and unauthorized flows
+beyond the more direct consequences of legalization on successful applicants and their 
+families,  regularization  programs  may  have  effects  on  populations  other  than  those 
+legalizing. most notably, particular attention has been paid to the impact of past legalization 
+programs and, thus, how legalization might affect unauthorized immigrant flows. in addition 
+to the likelihood that the legalized would eventually sponsor a number of relatives for 
+admission (woodrow-lafield 1994), immigration analysts, policymakers, and the public 
+have been particularly interested in the effect of legalization and comprehensive reform 
+more broadly on additional illegal (as well as legal) migration. although it is clear that 
+irca as a whole did not deter unauthorized migration in the long-run, it did not appear to 
+have encouraged illegal immigration in the short-run either (donato, durand and massey 
+1992; orrenius and zavodny 2003). with more administrative data on legal migration and 
+enforcement, as well as survey data on unauthorized flows, it will be possible to estimate 
+the effect of a legalization program and other possible legislative changes on future legal 
+and undocumented flows.
+
+2.3 anticipating the effects of legalization on eligibility and use of 
+locally- and state-provided services by legalized and related populations
+legalization  is  naturally  accompanied  by  increasing  rights  and  privileges  for  program 
+participants. these include some forms of public assistance and services, many of which 
+are  provided  by  local  and  state  governments. as  a  result,  legalization  may  lead  to  an 
+increase in the benefit-eligible population, or may otherwise elicit increased utilization of 
+benefits and government services. furthermore, while service levels and eligibility vary 
+from state to state, many public benefit programs remain federally-mandated at least at a 
+minimum level. because many of these programs work under federal grant mechanisms 
+requiring states and localities to match funds or include so-called maintenance-of-effort 
+(moe) provisions, service expansion of any sort will likely cost states and/or localities 
+additional amounts (cbo 2013). 
+meeting participants stressed the need to understand the government services for which 
+the  legalized  population  would  qualify  (by  state)  and  the  associated  increases  in  use. 
+furthermore, the experience with the implementation of ircas state legalization impact 
+grants  program  (sliag)established  to  help  states  defray  some  of  these  additional 
+obligationssuggests  many  areas  of  improvement,  particularly  on  the  reimbursement 
+model. for a description of some of these challenges, see liu (1991).
+
+conclusion: future directions
+this paper has described some of the most pressing information, data, and research needs 
+that would stem from an eventual legalization program as suggested by the participants 
+of a cms-led meeting in late september, 2013. while they are neither the end nor the 
+beginning of the work needed to ensure the success and measure effects of an eventual 
+program, these efforts aim to identify data, information, and research needs for local, state 
+
+158
+
+journal on migration and human securityand federal officials, policymakers, ngos, researchers and scholars. 
+as such, the work of this group should perhaps be accompanied and followed by working 
+groups dealing with more specific objectives like spatial downscaling of eligibility, how 
+to determine whether user segmentation is feasible, how to measure and share information 
+on local capacity, and how to fund and plan for a survey of the legalized. despite the need 
+for specialization and deeper consideration of these different areas, meeting participants 
+were keen on the notion that many different kinds of information be centralized and shared 
+among a broader network. to this end, an organization like cms (along with others) should 
+consider hosting a platform to communicate these efforts, share data, best practices, and 
+ideas, and foster community exchange. this will help both prepare for and shape several 
+forms of potential regularization that could take place in the future.
+

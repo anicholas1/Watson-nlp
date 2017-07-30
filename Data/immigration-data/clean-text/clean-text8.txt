@@ -1,0 +1,1070 @@
+immigration reform and 
+administrative relief for 2014 
+and beyond: a report on behalf 
+of the committee for immigration 
+reform implementation (ciri), 
+human resources working group1
+
+charles kamasaki
+national council of la raza
+
+susan timmons
+american immigration lawyers association
+
+courtney tudi
+world relief
+
+with amelia collins (national council of la raza), jack holmgren, (catholic legal 
+immigration network), donald kerwin (center for migration studies), and kerry 
+obrien (equal justice works)
+
+executive summary
+successful  implementation  of  any  broad-scale  immigrant  legalization 
+program  requires  an  adequately  funded  infrastructure  of  immigrant-
+serving organizations. in 2014, president obama announced an expanded 
+deferred action for childhood arrivals (daca) program, as well as the 
+deferred action for parents of citizens and lawful permanent residents 
+(dapa)  program,  which  would  make  it  possible  for  approximately  five 
+million people to attain lawful, albeit temporary, status and employment 
+authorization. as the initial daca program instituted in 2012 has already 
+stretched the capacity of immigrant-serving organizations to their limits 
+or even beyond them, the possibility of full implementation of dapa and 
+the expanded daca programs presents a formidable challenge for these 
+organizations.
+in  this  paper,  the  human  resources  working  group  of  the  committee 
+for immigration reform implementation (ciri) draws on the lessons of 
+
+1  this article is the product of the human resources working group of the committee for immigration 
+reform implementation (ciri). the views expressed may not reflect the opinions of the authors respective 
+organizations, which are included for identification purposes only.
+
+ 2015 by the center for migration studies of new york. all rights reserved.jmhs volume 3 number 3 (2015): 283-305the immigrant reform and control act of 1986 (irca), daca, and other 
+initiatives to provide a roadmap for immigrant service delivery agencies and 
+their partners in planning for implementation of the expanded daca and 
+the dapa programs, with an eye (ultimately) to broad legislative reform. 
+in particular, this paper focuses on the funding and human resources that 
+the immigrant service delivery field, writ large, would require to implement 
+these programs. 
+if expanded daca and dapa were implemented, the ciri working group 
+estimates that, of the total of five million that may be eligible, 1.08 million 
+individuals will require extensive application assistance, generating the 
+need for approximately three times more full-time staff than are currently 
+in the field. moreover, without additional funding and staff, agencies will 
+likely not be able to shift a portion of staff time to accommodate any new 
+program, even taking the typical fee-for-service model into account. thus, 
+the paper identifies a pressing need for upfront funding as early in the 
+program  as  possible  for  outreach,  public  education,  combating  notario 
+fraud, advocacy, and assistance to self-filers.  
+in terms of the financial resources needed, the working groups analysis 
+shows that about $83 million, net after collection of fees, is a reasonable 
+estimate for the potential nonprofit sector funding gap required to assure 
+effective application assistance services to the eligible low-income people 
+likely to apply for the expanded daca and dapa programs. wise front-
+loaded  investments  can  help  to  maximize  coordination  and  minimize 
+duplication,  ensure  education  and  outreach,  and  channel  applicants  to 
+the  most  appropriate  sources  of  assistance.  while  investments  required 
+to build the necessary infrastructure are significant, the costs will be far 
+outweighed by the benefits, not just to the daca/dapa population but to 
+the society at large.
+
+introduction
+although  it  may  not  seem  so  to  casual  observers,  the  journey  toward  comprehensive 
+immigration reform is well underway. it began nearly 30 years ago with passage of the 
+immigration  reform  and  control act  of  1986  (irca),  a  signature  achievement  of  the 
+immigrant rights community. while irca led to the legalization of roughly three million 
+persons, it failed to legalize sufficient numbers of unauthorized persons, to expedite family 
+reunification, and to reform the underlying legal immigration system. those shortcomings, 
+combined with largely ineffectual enforcement through the early 1990s, paved the way 
+for the growth of the unauthorized population to nearly 12 million in the mid-2000s. the 
+1990s provided some new milestones, including modest increases in legal immigration, 
+limited legalizations of central american and haitian refugees, and harsh new enforcement 
+measures. the journey continued with the introduction of the first of many comprehensive 
+immigration reform bills a little over a decade ago, two of which passed the senate in 2006 
+and 2013, respectively. 
+
+284
+
+journal on migration and human securityit moved slowly ahead with the release of the morton memo on prosecutorial discretion 
+in june 2011. it made a huge leap forward with the deferred action for childhood arrivals 
+(daca)  program  in  august  2012,  and  continued  with  the  department  of  homeland 
+securitys issuance of a rule in january 2013 that eased the application process abroad 
+for the immediate relatives of us citizens whose visa petitions have been approved. in 
+june 2013, the senate passed comprehensive legislation, which was not considered in the 
+house. the journey advanced with the advent of parole in place for relatives of active 
+and formerly active us military personnel in november 2013, and with the haitian family 
+reunification parole program, which allows for the parole and work authorization of the 
+family members of us citizens and lawful permanent residents (lprs) two years before 
+their immigrant visa priority date becomes current.   
+in  one  of  the  most  momentous  developments  in  the  immigration  field  since  irca,  on 
+november  20,  2014,  president  obama  announced  an  expanded  daca  program,  the 
+deferred action for parents of citizens and lawful permanent residents (dapa) program, 
+which covers the parents of us citizens and lprs, and an expanded provisional waiver 
+program (form i-601a waivers). the dapa program will potentially cover 3.89 million 
+persons and the expanded daca program 1.52 million, with 262,000 eligible for both 
+programs (warren 2014).2 good estimates do not exist for the numbers of potential visa 
+recipients covered by the provisional waiver program; however, this procedurewhich 
+allows  unauthorized  persons  to  apply  for  a  waiver  to  unlawful  presence  prior  to  their 
+departure  from  the  united  statescould  encourage  tens  of  thousands  to  secure  visas 
+abroad that would permit their re-entry via the legal immigration system.  
+although it appears that comprehensive legislative reform is unlikely in the immediate 
+future,  the  development  of  an  implementation  infrastructure  is  essential  to  ensure  the 
+success of interim immigration relief programs. in this paper, we seek to draw on the lessons 
+of irca, daca, and other initiatives to provide a roadmap to guide immigrant service 
+delivery agencies and their partners in planning for implementation of the expanded daca 
+and the dapa programs, with an eye (ultimately) to broad legislative reform. in particular, 
+this paper focuses on the funding and human resources that the immigrant service delivery 
+field, writ large, will require to implement these programs.
+
+history
+
+immigration reform and control act (irca) legalization 
+
+notwithstanding significant challenges and subsequent criticism, by almost every measure 
+ircas legalization programs were highly successful. in sum:
+
+  about 75 percent of those eligible for the regular legalization program (1.76 million 
+applicants of an estimated 2.3 million eligible) submitted complete applications; of 
+these,  just  over  1.6  million  (91  percent)  were  granted  lpr  status.  overall,  just 
+
+2   warrens estimates gibe closely with those produced by the migration policy institute. after subtracting 
+dual eligibles from the dapa numbers, mpi estimated that 3.7 million and 1.5 million would be eligible 
+for dapa and expanded daca, respectively (2014).
+
+285
+
+immigration reform and administrative relief for 2014 and beyondfewer  than  three-quarters  of  those  estimated  to  be  eligible  received  lpr  status 
+(kamasaki 2013). 
+
+  more than 1.3 million people applied for the special agricultural worker (saw) 
+program; of these, nearly 1.1 million (85 percent) were granted lpr status (ibid.).  
+the total of nearly three million legalized made irca by far the most successful legalization 
+program conducted by any country before 1986 or since then.3 by way of contrast, 3.2 
+million persons were regularized in 27 european nations between 1996 and 2007, although 
+such programs have generally fallen into disfavor in europe as a policy tool in recent years 
+(kerwin, brick, and kilberg 2012).
+of the applicants for the regular legalization program, about 20 percent filed applications 
+through qualified designated entities (qdes), mainly nonprofit practitioners and service 
+providers established by irca to serve as a buffer between the undocumented and the 
+government;  the  comparable  number  for  the  saw  program  was  25  percent.  however, 
+accounts from both the government and qde network sources suggest as many as half of 
+those that filed applications directly with the immigration and naturalization service (ins) 
+received some form of assistance from a qde, lawyer, union, or other service provider 
+(meissner and papademetriou 1988; north and portz 1989).4  
+the  us  catholic  conference  (uscc),  which  operated  the  largest  nonprofit  network 
+of  legalization  assistance  providers,  reported  assisting  nearly  450,000  people  who 
+were  potentially  eligible  for  legalization  and  ultimately  filed  about  175,000  completed 
+applications. the type of assistance provided to the larger group of potential eligibles 
+included outreach efforts through workshops and fairs, classroom-type sessions for group 
+preparation of pre-applications, and other activities. this diversity of types of assistance, 
+combined  with  variances  in  record-keeping  systems  within  usccs  decentralized 
+network,  suggest  that  this  data  should  be  interpreted  with  caution.  nevertheless,  taken 
+together, the evidence suggests that 50 percent or more of potential irca legalization and 
+saw applicants sought some type of assistance from a nonprofit provider, and of these, 
+perhaps 35 to 45 percent eventually completed an application with the original provider or 
+another qde (meissner and papademetriou 1988, 61-79).5 virtually all of those who filed 
+
+3    all of the programs implemented abroad were smaller, and most far simpler and more inclusive, than 
+irca.  the  canadian  program,  implemented  more  than  a  decade  prior  to  irca,  was  a  true  amnesty, 
+providing  immediate  adjustment  of  status  for  virtually  the  entire  unauthorized  population.  however,  the 
+program  had  a  short,  two-month  application  window,  compared  to  ircas  12-month  application  period; 
+canadas program legalized perhaps one-fifth to one-quarter of its unauthorized population (gonzalez-baker 
+1990; north and portz 1989; brick 2011).
+4    meissner and papademetriou reference one ins estimate to this effect; north and portz conclude about 
+half of legalization applicants received some type of assistance from a nonprofit provider; they note that 
+five-to-six percent of applications were filed by private attorneys.
+5    reports on the program, as well as anecdotal accounts, suggest substantial forum shopping by irca 
+legalization applicants, many of whom appear to have been seeking the quickest, least expensive process 
+for submitting applications. the uscc created an intensive screening and review process at the programs 
+outset  in  anticipation  of  a  high  burden  of  proof  and  demanding  evidentiary requirements, which  slowed 
+the preparation and filing of its cases.  an internal uscc memorandum issued about one-third of the way 
+through legalization acknowledged that many prospective applicants had lost patience with their program 
+model, characterized by  too much caution, too many delays, too much overcrowding, too many steps, too 
+much bureaucracy and thus went elsewhere.  see meissner and papademetriou 1988, 61-79.
+
+286
+
+journal on migration and human securityapplications through a qde received one-to-one counseling, typically over two or three 
+in-person  appointments. these  figures  suggest  the  importance  of  a  robust  civil  society 
+response  in  ensuring  appropriate  outreach,  service-delivery,  and  program  participation 
+(even for those who ultimately self-file) in any large-scale immigrant benefit program, like 
+daca, dapa, and the provisional waiver program. 
+irca also advanced the registry date from june 28, 1940 to january 1, 1972. registry 
+allows long-term unauthorized residentsi.e., who entered the country prior to the cut-
+off date and who meet other requirementsto become lprs. more than 72,000 persons 
+have legalized under this program since 1987. remarkably, congress has not advanced the 
+registry date since irca, contributing to the creation of an unauthorized population that 
+includes an estimated 1.9 million persons who have been in the united states for 20 years 
+or more, 1.6 million for 15 to 19 years, and 3.1 million for 10 to 14 years.6 moreover, the 
+average length of stay for the us unauthorized population is increasing dramatically each 
+year.
+every  account  of  the  period  described  both  the  government  and  nonprofits  as  being 
+overwhelmed,  stretched,  and  challenged  by  the  legalization  and  saw  programs. 
+other  program  shortcomings  included  an  ineffective  ins  public  education  campaign, 
+controversial  eligibility  lawsuits,  and  disproportionate  application  rates  for  subgroups, 
+with hispanics overrepresented and asians and africans underrepresented.
+nevertheless,  the  irca  programs  legalized  nearly  three  million  people,  constituting 
+almost  75  percent  of  those  eligible  for  regular  legalization.  importantly,  a  number  of 
+expected problems never substantially materialized and, setting aside policy differences 
+with advocates, ins generally performed at a high level during legalization. for example, 
+there  are  virtually  no  credible  reports  of  ins  misusing  the  legalization  process  for 
+enforcement purposes. creation of a parallel legalization infrastructure within ins was 
+especially important for this oft-criticized agency whose previous public face emphasized 
+enforcement.  
+at the beginning of the program, many advocates feared that the $185 fee (capped at $420 
+for a family of four or more)combined with fingerprinting, medical, legal, and other fees 
+that could add up to $200 per applicantwould prevent many from applying. although 
+practitioners noted some hardship cases, cost did not appear to be a major deterrent to 
+applying,  nor  were  many  stories  of  extreme  hardship  reported.  many  predicted  severe 
+problems during the second stage as temporary residents sought english/civics courses 
+from  an  already overburdened adult education infrastructure.7  however,  aided by  state 
+legalization  impact assistance  grants  (block  grants  included  in  irca)  the  education 
+systems and legalization applicants both muddled through without significant numbers 
+of temporary residents being denied access to lpr status.
+
+6   estimates of the unauthorized population for states. center for migration studies. accessed march 9, 
+2015. http://data.cmsny.org/
+7   irca required applicants for permanent residence to either pass an english/civic test or be enrolled in an 
+approved course.
+
+287
+
+immigration reform and administrative relief for 2014 and beyondgermaneness to future legalizations
+
+there are many differences between the irca programs and the environment in which they 
+took place and those announced by president obama in november 2014. technological 
+changes should make the application assistance process less burdensome today than under 
+irca.  for  example,  the  widespread  availability  of  information  via  the  internet  should 
+ease  access  to  documentation  of  continuous  residence  and  workforce  participation, 
+should facilitate increased outreach efforts, and should enable high numbers of self-filers. 
+additionally, the immigrant-serving field is considerably larger, more diverse, and more 
+experienced than under irca, and the extraordinary growth, development, and increasing 
+sophistication of the immigrant rights community should lead to a better coordinated and 
+more extensive public education, service delivery, and advocacy response to the daca, 
+dapa, and provisional waiver programs, and beyond (campos 2014). 
+however, potential hurdles for applicants and the immigrant rights community remain. 
+high application fees, combined with low-bono attorney and nominal charitable legal 
+agency fees, will constitute a substantial burden for the unauthorized, 28 percent of whom 
+fall below the federal poverty line.8 a more recent point of comparison to the expanded 
+daca  and  new  dapa  programs  is  the  implementation  of  the  initial  daca  program, 
+discussed below.
+
+daca experience
+
+in august 2012, the obama administration began implementation of daca, which offers 
+deferral of deportation and work authorization for unauthorized residents who: (1) arrived 
+prior to age 16, are at least 15 years of age at the time of applying, and continuously resided 
+in the united states since june 2007; (2) on june 15, 2012, were physically present in 
+the united states, had no lawful status, and were under 31 years of age; (3) are currently 
+in school, have graduated high school, or obtained a ged; and (4) have not committed 
+disqualifying crimes. the formal planning period for both the department of homeland 
+securitys us citizenship and immigration services (uscis) and the legal and nonprofit 
+sectors  was  very  briefless  than  two  months  elapsed  between  the  programs  initial 
+announcement in june of 2012 and the beginning of the application process. on november 
+20,  2014,  president  obama  expanded  this  program  to  cover  a  three-year  (renewable) 
+period, to remove the age limit on beneficiaries, and to move forward the required entry 
+date to january 1, 2010.
+daca targets a young population that has higher levels of education, english proficiency, 
+and literacy relative to the unauthorized population overall. these factors, which would tend 
+to facilitate daca applications, might be offset by the absence of an application period 
+deadline, the ability to apply for daca as a defense against deportation, and the $465 
+application fee, all of which might be disincentives to apply immediately. thus, while there 
+are important differences between daca and the likely structure of broader programs like 
+those contemplated in proposed reform legislation, daca provides a more contemporary 
+experience than irca. analyses of the early years of dacas implementation have found:
+
+8   estimates of the unauthorized population for states. center for migration studies. accessed march 9, 
+2015. http://data.cmsny.org/
+
+288
+
+journal on migration and human security  through the first quarter of fiscal year 2015, uscis received a cumulative total of 
+770,338 initial applications for processing, approving 638,897 and denying 38,597. 
+there are a remaining 49,670 pending processing, of a total pool of eligibles estimated 
+to be about one million (us citizenship and immigration services 2015).9
+
+  when  accounting  for  children  aged  13  and  14  in  2012  who  have  since  aged  into 
+
+eligibility, the number of immediately eligible youth increases to 1.4 million.
+in addition to the 500,000 or so people eligible for daca who have not yet applied, 
+about 426,000 individuals aged 15 to 30 do not yet meet the education criteria (batalova 
+et al. 2014).  these not-yet-eligibles are predominantly male, and compared to daca 
+eligibles overall are more than twice as likely to be limited-english-proficient, have 
+higher workforce participation rates and higher poverty rates, and are three times more 
+likely to be parents themselves (batalova, hooker, and capps 2013).
+
+ 
+
+  five states had application rates of 60 percent or more for immediately eligible youth: 
+arizona, texas, nevada, colorado, and north carolina; california, illinois, and new 
+york  have  seen  half  of  their immediately eligible population apply  (batalova et  al. 
+2014). lower-than-expected application rates in states including massachusetts, new 
+jersey, virginia,  and  florida  could  be  related  to  the  demographic  make-up  of  their 
+unauthorized populations. higher-than-expected application rates came from mexicans 
+and central americans, who constitute 74 percent of those eligible but 86 percent of 
+those who had applied as of march 2014; under-indexing states tend to have lower 
+proportions of these populations.
+
+  asians  in  particular  have  lower-than-expected  application  rates,  similar  to  what 
+occurred under irca. the korean application rate stands at 24 percent, while the rate 
+for chinese applicants is near zero, even though china ranks ninth among the top ten 
+countries of origin for immediately eligible applicants (batalova et al. 2014). 
+
+  longer-term  residents  (10  years  or  more)  and  those  who  were  10  years  of  age  or 
+younger when they arrived are over-represented among daca applicants (singer and 
+prchal svajlenka 2013). 
+
+findings  from  one  survey  of  daca  recipients  suggest  that  the  program  contributes 
+significantly to increased employment, bank and credit card access, and the availability of 
+drivers licenses (gonzales and terriquez 2013). seventy percent of respondents to another 
+survey noted they had been hired or moved to a new job upon receiving daca (wong 
+and valdivia 2014). the role of immigrant-serving organizations in the implementation 
+of daca seems substantial, as only three-in-ten daca recipients in one survey sample 
+submitted their application wholly on their own. fully one-third attended a free daca 
+workshop and four-in-ten paid for legal assistance (ibid.). these numbers highlight the 
+need for a robust and well-resourced implementation infrastructure. 
+however,  nonprofits,  unions,  and  others  assisting  daca  applicants  surveyed  by 
+grantmakers concerned with immigrants and refugees (gcir) reported severe strains 
+on nonprofit and legal assistance capacity involving insufficient human resources (staff 
+and  volunteers);  inadequate/inconsistent  service  delivery  models  and  case  management 
+
+9   note that initial estimates of daca eligibles in 2012subject to change as components of the population 
+age in, age out, and graduate, drop out of, or enroll in secondary schoolranged from 1.089 million (batalova, 
+hooker and capps 2013) to 936,000 (immigration policy center 2012) and 950,000 (passel and hugo lopez 
+2012).  
+
+289
+
+immigration reform and administrative relief for 2014 and beyondsystems;  excessive  duplication  of  certain  key  functions  (i.e.,  producing  materials  like 
+manuals and tool kits); insufficient resources for outreach (notwithstanding some effective 
+partnerships with spanish media); and other concerns. despite these concerns, daca has 
+both been a wake up call and a base to build on for preparations for a larger legalization 
+effort. 
+the  gcir  survey  also  identified  promising  innovations  emerging  from  daca 
+implementation,  including  improved  online  application  assistance  systems,  promising 
+micro-loan  models,  and  numerous  intra-  and  cross-sector  partnerships  that  have  the 
+potential to increase the capacity to serve unauthorized persons seeking legalization. that 
+said, some of these promising models have not been tested fully. overall, the immigrant 
+rights  community  needs  to  devote  more  resources  and  attention  to  developing  and 
+replicating successful, horizontally integrated programs, which combine public education, 
+community  mobilization,  and  legal  expertise.  as  occurred  in  1986  and  in  subsequent 
+smaller legalization efforts (e.g., the nicaraguan and central american relief act/abc 
+settlement), the traditional immigrant-serving sector, augmented by energetic new players 
+including the united we dream/own the dream networks, has demonstrated substantial 
+adaptability and resilience throughout the daca process (mcgarvey 2013).
+the overall resultcompletion of applications from about 60 percent of those estimated to 
+be immediately eligible for dacashould be considered a highly respectable showing, 
+albeit lower than under ircas legalization program (batalova et al. 2014). this positive 
+assessment is specifically warranted in light of the extremely brief daca planning period, 
+the service delivery and capacity challenges, the absence of any government funding for 
+application assistance, and other factors limiting the governments outreach and processing 
+systems. 
+
+looking ahead
+
+notably absent in the crush of irca implementation was any thought of steps needed to 
+strengthen the immigration legal landscape afterwards (bill ong hing, charles kamasaki, 
+and jack holmgren, pers. comm.). almost alone among the many groups actively engaged 
+in  the  implementation  of  irca,  the  catholic  church  created  a  permanent  entitythe 
+catholic  legal  immigration  network  (clinic)to  strengthen  and  expand  services  in 
+the aftermath of legalization.10 clinic is now by far the largest immigrant legal service 
+network in the country, with some 275 affiliates across the nation. 
+given the growing demand for low-cost, high-quality immigration services, the need for a 
+stronger, established infrastructure to sustain services for this population and to facilitate 
+implementation  of  any  new  policies  or  programs  is  apparent.  should  comprehensive 
+immigration reform legislation pass prior to a substantial build-up of the immigrant-serving 
+sector, the insufficiency of the current infrastructure would become glaringly obvious. 
+
+10   in the midst of the legalization program, clinic was created on august 18, 1988.
+
+290
+
+journal on migration and human securityresources needed for processing
+based on historical data from past mass legalizations, one might assume that the lower 
+bound of those likely to apply for dapa and expanded daca over two years might be 
+about 60 percent of the estimated five million eligible, close to the daca rate over the 2012-
+2014 period, resulting in approximately three million applicants. conversely, a plausible 
+upper  bound  might  be  equivalent  of  ircas  75  percent  application  rate,  or  about  3.75 
+million applicants. at least half of these applicants will likely require some assistance from 
+a lawyer or nonprofit service provider. demographic data suggest that about 32 percent of 
+these applicants need low-cost assistance. the professional judgment of the members of 
+the human resources working group is that between four and eight hours of staff time 
+will be required for each of these applicants. the working groups specific assumptions:
+
+  a total of about 5 million people may be eligible for the expanded daca and the 
+
+new dapa programs.
+
+  between 60 percent (daca rate) and 75 percent (irca rate) of those will come 
+
+forward and apply, the majority of whom will self-file.11
+
+  about 40 percent of applicants will need either full or partial help from a nonprofit 
+
+assistance provider to apply (wong and valdivia 2014, 5).12
+
+  about 80 percent of those needing help will be low-income or need free or low-cost 
+
+  between four and eight hours per case, on average, will be needed to aid those 
+
+  one  full-time  equivalent  (fte)  staff  is  1,650  hours  per  year  (subtracting  other 
+
+assistance.
+
+seeking assistance.13
+
+duties, holidays, and leave)
+
+as noted above, we estimate that between 3 and 3.75 million people will likely apply for 
+either  expanded  daca  or  dapa,  or  for  both.14  of  these  applicants,  between  960,000 
+and 1.2 million people will need assistance of between four and eight hours of staff time 
+and, due to lower incomes, cannot afford a private attorney. taking the midpoints of these 
+projections, the working group believes that an estimated 1.08 million people requiring 
+an average of six hours of time per case will generate a need for 6,480,000 staff hours, or 
+about 3,927 full-time equivalent staff. based on those assumptions, the potential range of 
+fte staff needed is listed in table 1, with the mid-point case highlighted.
+
+11   some self-filers will obtain private counsel. others may avail themselves of certain resources produced or 
+provided by the government and nonprofits, but will not receive extensive application assistance.
+12   about half of irca applicants received some assistance from a nonprofit. one recent survey concluded 
+that only 30% of respondents submitted their daca application on their own. however, wongs definition 
+of self-filers appears to exclude an applicant who attends an informational workshop or clinic and then files 
+without additional assistance. by contrast, unless that applicant went on to seek additional assistance, s/he 
+would be included in the working groups definition of self-filer.
+13    some  expert  commentators  question  the  average  cost  per  case  approach,  noting  that  for  some 
+populations,  such  as  farmworkers,  cases  are  not  distributed  evenly  along  a  continuum  but  tend  to  skew 
+heavily toward more difficult ones (kissam and intili 2014). 
+14   some observers predict fewer applications than we do under the expanded daca and dapa programs. 
+the congressional budget office, for example, recently estimated that 150,000 and 1.5 million would apply 
+for expanded daca and dapa, respectivelyabout a 50 percent application ratethrough the end of fy 
+2017 (2015). 
+
+291
+
+immigration reform and administrative relief for 2014 and beyondtable 1. number of full-time equivalent staff needed
+8 hours/applicant
+applicants assisted
+960,000
+4,655
+5,236
+1,080,000
+1,200,000
+5,818
+
+4 hours/applicant
+2,327
+2,618
+2,909
+
+6 hours/applicant
+3,491
+3,927
+4,364
+
+the kinds of activities these staff will be engaged in are described in further detail in the 
+following sections.
+
+types of work required
+
+public education/fraud prevention
+
+the combination of lack of status and need to provide for their families make undocumented 
+immigrants especially vulnerable to being taken advantage of by those who engage in the 
+unauthorized practice of law (notarios). when the senate introduced the border security, 
+economic  opportunity,  and  immigration  modernization  act  (s.  744),  many  notarios 
+immediately  began  falsely  promising  those  without  status  that  for  a  small  fee,  they 
+would ensure those individuals were put in the front of the line when immigration reform 
+passed, and would receive status right away. when the bill passed in the senate in june 
+2013, many immigrants thought that it had become law, and went straight to their local 
+notarios to apply for status. 
+to  prevent  this  vulnerable  community  from  falling  victim  to  scams  by  notarios  or 
+experiencing  difficulty  in  the  application  process  due  to  misinformation,  it  is  essential 
+that community organizations have the resources to provide education to the immigrant 
+community  on  multiple  levels.  accurate  information  on  individual  eligibility  and  the 
+application process should be legally sound,  easily understood, culturally relevant, and 
+linguistically diverse. 
+members  of  the  committee  for  immigration  reform  implementation  have  prepared 
+materials  for  both  service  providers  and  applicants  (such  as  resource  guides,  charts, 
+check  lists,  notices  and  warnings  against  notario  fraud),  translated  such  materials  into 
+other  languages,  delivered  webinars  and  in-person  community-based  presentations  to 
+disseminate the information, and other activities, many of which can be found at the ciri 
+website (www.adminrelief.org). 
+
+outreach, screening, application, and ancillary services
+
+through town hall and community meetings, ethnic radio and newspapers, individuals can 
+receive quality information from trusted sources on the status of immigration reform. mass 
+education before and after program or policy change is important to ensure that individuals 
+
+292
+
+journal on migration and human securityreceive accurate information regarding when they can apply for status, what documentation 
+they need, and best practices for applying.
+to  properly  assist  the  five  million-plus  individuals  who  qualify  for  daca,  dapa, 
+provisional  waivers  filed  on  form  i-601a,  or  another  form  of  relief,  community 
+organizations must have the ability to screen individuals for eligibility, assist them with 
+application  completion,  provide  case  management,  and  facilitate  the  maintenance  of 
+eligibility. in addition, ancillary services potentially required by the population include 
+tax  preparation  for  initial  application,  renewal  and  adjustment,  assistance  for  securing 
+records from prior contact with law enforcement or the immigration agency, job training 
+and placement to show continuous employment for renewal and eventual adjustment to 
+lawful permanent residency, and english-as-a-second language classes to show english 
+proficiency when eventually applying for citizenship.
+a complex and multi-layered array of legal and non-legal service needs requires large-
+scale, multi-purpose immigration assistance networks within communities. legal service 
+providers and community agencies must be organized and in communication to provide 
+quality  services  to  immigrants  seeking  status.  initial  screenings  may  be  done  in  large 
+settings to determine who is eligible to apply for status. from there, it may be possible for 
+volunteers or paralegals to assist with straightforward cases, but those with complicated 
+cases will likely require referral to low-cost attorneys or bia-accredited representatives. 
+a substantial percentage of the unauthorized potentially qualifies for lpr status, but may 
+be unaware of their eligibility, and a thorough legal screening is necessary in these cases 
+(wong et al. 2014). in the standard legal service model, once the application is submitted, 
+organizations must manage each case to ensure that the clients are given the correct referrals 
+to afford themselves other remedies or to stay eligible for renewal of status. 
+the above-described standard case management model would require staff investments 
+toward the upper range of the working groups estimated four to eight hours per case. for a 
+very large program including expanded daca and dapa, however, it is likely that more 
+truncated but still valid models will be deployed that would result in staff investments 
+closer to the lower end of the range.15 regardless of the specific model(s) employed, the 
+basic processing of mass numbers of individuals for administrative relief typically requires 
+coordinated efforts of legal service providers, volunteers, community-based organizations 
+and  multiple  service  providers,  many  of  whom  have  not  worked  together  previously. 
+all of the players within this immigration assistance network are essential to ensure that 
+individuals receive quality services and obtain the most substantial form of relief available. 
+
+current capacity
+the  immigration advocates  networks  (ians)  national  immigration  service  provider 
+directory  shows  that  across  the  united  states,  there  are  1,020  nonprofit  organizations 
+providing  immigration  legal  services.  those  organizations  employ  2,018  attorneys  and 
+many fully and partially board of immigration appeals accredited representatives. the 
+
+15   so-called assisted pro se filers may receive some help from, but will not be formally represented by, 
+legal service and other organizations.
+
+293
+
+immigration reform and administrative relief for 2014 and beyondbia  roster  of  recognized  organization  lists  852  service  providers,  many  of  which  are 
+included in ians directory (bia 2015). the board lists 1,393 accredited representatives at 
+present (ibid.). additionally, ians directory lists 1,276 paralegals or other legal workers 
+who are not accredited, but who can contribute to this work. therefore, the total number of 
+legal staff from charitable legal service programs that are available to participate at some 
+level in work related to administrative relief is 4,687 (ian 2015).
+assuming that one full-time employee works 1,650 hours per year and assuming that these 
+workers will be able to spend 25 percent of their time on any new immigration initiative, 
+current nonprofit legal services providers will be able to provide at best 1,933,387 hours 
+towards  the  new  administrative  relief  programs,  or  the  equivalent  of  1,172  full-time 
+employees. if 100 percent of this shifted capacity were available, it would be equivalent 
+to over seven million hours, about enough to process a small scale administrative relief 
+program the size of daca, or a potential applicant pool of 1.25 million people. however, 
+these agencies already accommodate very demanding caseloads and will need an infusion 
+of funding and staffing, particularly at the outset of these programs, in order to maximize 
+their work on expanded daca and dapa. there is thus a pressing need for upfront 
+funding  as  early  in  the  program  as  possible  for  outreach,  public  education,  combating 
+notario fraud, advocacy, and assistance to self-filers, which are generally not covered by 
+the cost estimates that follow. without additional funding and staff, agencies will likely not 
+be able to shift 25 percent of staff time to accommodate any new program.
+in sum, the current available capacity of the field is a under 1,200 full-time equivalent staff, 
+while more than three times that number will be required to serve those eligible for the 
+expanded daca and the dapa programs. 
+
+law school immigration clinics
+
+one way to increase legal capacity is to expand the use of law school immigration clinics, 
+as occurred during irca and to a lesser extent under daca. law students supervised 
+by professors can play a significant role in providing legal services to potentially eligible 
+administrative relief applicants through community education, direct representation, and 
+collaboration with nonprofit immigration service providers.
+there are over 200 legal immigration clinics in the united states, far more than during 
+irca (anjum gupta, pers. comm.). the focus of these immigration clinics varies. the 
+majority of clinics provide legal representation to a limited number of clients, often limiting 
+their caseload to specific types of immigration cases, such as asylum, special immigrant 
+juvenile cases, or survivors of domestic violence. other clinics engage in activities that 
+involve client representation through models distinct from direct client casework such as 
+impact litigation with an advocacy or larger policy focus. the capacity of clinics is limited 
+by a variety of factors, including the availability of credits, prescribed institutional goals, 
+and both student and professor time constraints. 
+nonetheless,  law  school  clinics  can  provide  a  variety  of  services  to  deliver  and/or 
+supplement administrative relief efforts. responses from these clinics to a recent survey 
+initiated  by  the  law  school  affinity  group  demonstrate  significant  interest  in  a  variety 
+
+294
+
+journal on migration and human securityof  administrative  relief  activities  including  direct  representation,  participation  in  group 
+processing workshops, development of best legal practices, know your rights and how-
+to guides, community education and outreach, website development and data collection. 
+the working group is confident that as implementation of administrative relief begins, 
+more law school programs will collaborate to provide legal services to eligible applicants.16
+one significant challenge to collaboration with law clinics and integration of law students 
+is the coordination required to match clinics and law students with non-profit organizations 
+that have direct contact with potential clients. an optimal solution might be to procure 
+funding for a staff person at one or more national service providers to serve as a liaison to 
+law schools to maximize legal services for administrative relief. an alternative model is 
+to use regional or state-based leaders from established nonprofits or law school clinics and 
+pro bono programs. in fact, in response to the affinity groups survey, some clinic programs 
+have already volunteered to serve as coordinators.
+
+the private immigration bar and pro bono attorneys
+
+the american immigration lawyers association (aila) is the national bar association 
+of more than 14,000 immigration attorneys throughout the country. aila is represented 
+within ciri and is an important partner when considering the ability of nonprofit legal 
+service providers to leverage their own limited resources. time and again, aila members 
+have played a significant role in the provision of legal services, including low-cost and pro 
+bono services. during the prior legalization and in response to more recent pro bono crises, 
+aila members have answered the call to fill the legal services needs gap. in particular, 
+aila and the national immigration project of the national lawyers guild have played 
+critical roles in addressing specialized issues, such as appeals of denied applications during 
+irca and assisting applicants potentially affected by criminal exclusions under daca. 
+that said, most attorneys will not be able to provide exclusively pro bono and low bono 
+services to administrative relief applicants; according to north and portz (1989), about five 
+percent of irca applicants, for example, hired private counsel.
+another source of assistance that should be considered is the private non-immigration bar. 
+recent opportunities for pro bono collaboration have shown that large law firms that can 
+provide personnel and resources may have a role to play in any upcoming administrative 
+relief effort, although many already are highly invested in addressing the recent increases 
+in unaccompanied minors from central america. despite expressed interest, the level of 
+such  resources  can  be  extremely  difficult  to  quantify  before  specific  commitments  are 
+made and aggregated.
+
+16   one of the exemplary law school clinics known to the working group is the depaul university college 
+of laws asylum and immigration clinic in chicago, illinois, which supports some 26 community-based 
+organizations that provide immigration services. the university of texas school of law sponsored more 
+than  a  dozen  daca  workshop  sessions  around  the  state,  with  a  special  emphasis  on  areas  with  modest 
+nonprofit capacity such as the lower rio grande valley.
+
+295
+
+immigration reform and administrative relief for 2014 and beyondnascent capacity
+
+nascent capacity can be found in agencies that, on the basis of their mission, client caseload, 
+constituency, geographic service area, or any combination thereof, may be predisposed to 
+adding immigration legal services to their cadre of offerings, or assisting in coordinated 
+programs by providing necessary non-legal services. although these organizations may not 
+currently provide legal services to immigrants, they may be able to play a unique role in 
+increasing capacity for administrative relief.
+potential  sources  of  implementation  support  services  include  religious  institutions. 
+churches provide safe and trusted locations for immigrants to receive legal information 
+and  services,  enabling  them  to  perform  supporting  roles  for  the  work  of  immigration 
+attorneys and accredited representatives, provided they receive appropriate training and 
+technical assistance. recently, a coalition of 15 evangelical church-based organizations 
+that  represent  more  than  28,500  churches  in  the  united  states  came  together  with  the 
+goal of rapidly increasing the number of churches that are recognized and accredited to 
+provide immigration legal services; the immigration alliance is committed to dramatically 
+multiplying  the  number  of  sites  across  the  country  providing  low-cost,  high-quality 
+immigrant legal services over the next three years.17 
+the catholic network of programs is illustrative of how dramatically the concept of nascent 
+capacity  can  impact  the  provision  of  services.   thirty  percent  of  the  clinic  network 
+is  other  than  catholic;  many  of  these  organizations  do  not  self-identify  principally  as 
+immigration providers, but as:
+
+libraries; 
+ 
+ 
+job training/workforce development programs;
+  domestic violence shelters/treatment programs; 
+  english language programs; 
+  african- and caribbean-led programs;
+ 
+  parish- and faith unit-based charitable organizations and ethnic ministries;
+ 
+  dreamer and other student groups. 
+
+family resource centers; and
+
+labor unions;
+
+their  participation  in  the  clinic  network  demonstrates  how  these  and  other  kinds  of 
+agencies could be further developed to expand capacity for implementation of dapa and 
+expanded daca.
+one notable example of rapid development of nascent capacity is the network of domestic 
+violence treatment programs providing immigration assistance. in the space of a decade, 
+this sector has grown to more than 50 sites throughout the country, with an emphasis on 
+rural communities lacking traditional immigration legal services capacity. this capacity 
+was grown through a single grant from the federal government of $500,000. the funding 
+primarily  supported  robust  immigration  law  training  and  technical  assistance  for  small 
+programs that sought recognition and accreditation from the board of immigration appeals 
+in order to legally provide immigration services. and, as noted earlier, the largely volunteer-
+
+17   see: www.theimmigrationalliance.org.
+
+296
+
+journal on migration and human securitydriven united we dream/own the dream network was able to build significant applicant 
+assistance capacity for the initial daca implementation in a brief period of time.
+other  networks  offer  similar  opportunities.  many  in  the  pro-immigrant  organizing  and 
+advocacy  community,  including  members  of  the  fair  immigration  reform  movement 
+(firm) and the pico national network, are establishing new programs to serve those 
+within  their  constituencies  that  may  be  eligible  for  administrative  relief.  similarly,  the 
+national partnership for new americans, regional organizations supported by the center 
+for popular democracy, and local affiliates of the national council of la raza and the 
+service employees international union are all planning to expand existing and/or establish 
+new capacity for dapa and expanded daca implementation. these networks are already 
+deeply  embedded  in  immigrant  communities,  are  fully  culturally-competent,  and  many 
+have developed innovative program models in related fields, including enrollment in health 
+care and other benefit programs, applying for drivers licenses, and in the naturalization 
+process.
+nurturing,  expanding,  strengthening,  and  promoting  the  sustainability  of  this  nascent 
+capacity  is  a  crucial  element  of  any  viable  strategy  for  assuring  sufficient  application 
+assistance for expanded dada and dapa implementation.
+
+funding
+
+fee-for-service programs
+
+fee-for-service or earned income programs have been around for a long time and client 
+fees account for roughly one-third of immigration legal services funding within the clinic 
+network.18 fees for service, combined with multiple other sources of support, account for 
+the close to 100 percent sustainability record of the clinic network programs and much 
+of the rest of the non-profit immigration field.19 clinic has advocated for the need to 
+charge fees since the ford foundation funded the creation of immigration management: 
+building blocks for a successful program and the accompanying immigration program 
+management trainings in the mid-1990s.
+what does this mean in terms of gross income for the clinic network? according to the 
+annual survey of clinic network programs done by the center for applied research in 
+the apostolate (cara), it amounted to $12,856,396 for the 142 affiliates that completed 
+that section of the survey in 2013. if the balance of programs that did not report this are 
+assumed to have made even half as much in fee revenue then the total would be $17,881,263.
+in a field without significant government support, the fee-for-service program is the most 
+important source of income and often the only source of unrestricted funding. in a sense, 
+
+18   as  of  the  end  of  september  2014,  the  clinic  network  consisted  of  over  275  affiliates.  more  than 
+30 percent of these charitable legal programs for immigrants are other than catholic, so that this network 
+represents a broad spectrum of the field.
+19   the working group recognizes that coordination between various service providers might lead to tension 
+regarding  funding  sources,  with  pro  bono  attorneys  wary  of  fees  and  one-on-one  organizational  service 
+providers relying on fees for institutional sustainability.
+
+297
+
+immigration reform and administrative relief for 2014 and beyondthe  ability  to  generate  fees  will  determine  the  level  of  participation  by  these  agencies 
+in  daca  and  dapa,  and  the  expansion  of  these  programs  to  accommodate  eventual 
+legislative reform. a well-run program will generate a consistent fee revenue stream for 
+years,  as  well  as  more  responsive  and  empowered  clients.  by  contrast,  programs  that 
+depend exclusively on the scant grant funding available for direct services are generally not 
+sustainable. as the daca experience shows, fee-for-service programs require intentional 
+development. some in the daca service and applicant community were adamant about 
+not charging/paying even nominal fees for those services. as a result, many of the services 
+were transitory and lacked the financial support to be sustainable. the irony is that, but for 
+the fields commitment to fee-for-service programs before daca, there would have been 
+little capacity to accommodate these applicants during daca implementation.
+although an infusion of funding to hire staff is necessary at the outset of these programs, 
+and in most cases some ongoing subsidy is required, fee-for-service programs can both 
+reduce the need for ongoing outside funding and ensure some degree of sustainability over 
+the long term. one simple fee-based model illustrates the point; assuming a single staffer:
+
+ 
+completes 1.33 applications per day (6 hours per application); 
+  has 206.25 productive work days in a year (1,650 hours); and
+ 
+
+charges a $200 agency service fee per application.20
+
+under this scenario, a single staffer could be at least partially self-supporting, producing 
+over $50,000 of fee income per year (calculation: 1.33 x 206 x $200 = $54,863 of fee 
+income generated per year, per staffer). 
+bia-recognized  groups  may  only  charge  nominal  fees,  and  most  effective  programs 
+have other sources of funding. nevertheless, the working group strongly believes that 
+every effort should be made to make fee-for-service programs the norm in order to build 
+capacity that is sustainable over the long term. 
+
+costs and gaps
+the  next  question  involves  determining  the  dollar  costs  required  to  employ  the  staff 
+required for effective implementation of dapa and expanded daca. as it is difficult to 
+anticipate exact staff compensation across an extremely diverse field, and since the total 
+ftes  required  likely  will  consist  of  various  combinations  of  lawyers,  bia-accredited 
+representatives, and other professional staff, paraprofessionals, volunteers, students, pro 
+bono attorneys, and other non- or lower-paid assisters, there is great variation in the amount 
+of funding that might be required to cover staff costs. 
+calculations of cost for each combination of low, mid, and high application levels, various 
+per-applicant staff time estimates, and different salary amounts are listed in tables 2a-2c, 
+below, with the mid-point estimates highlighted in table 2b.
+
+20   informal surveys conducted by clinic gave an average charge per daca application of $200 (mainly 
+for one-on-one service) for the initial application. an informal survey of one workshop at the ready america 
+conference in february 2015 produced an average daca application assistance charge of $190.
+
+298
+
+journal on migration and human securitytable 2a. 960,000 applicants assisted
+cost/fte employee 4 hours/applicant
+$50,000 
+$75,000 
+$100,000 
+
+6 hours/applicant
+$174,545,455
+$261,818,182
+$349,090,909
+
+$116,363,636
+$174,545,455
+$232,727,273
+
+8 hours/applicant
+$232,727,273
+$349,090,909
+$465,454,545
+
+table 2b. 1,080,000 applicants assisted
+cost/fte employee 4 hours/applicant
+6 hours/applicant
+$196,363,636
+$50,000 
+$294,545,455
+$75,000 
+$100,000 
+$392,727,273
+
+$130,909,091
+$196,363,636
+$261,818,182
+
+8 hours/applicant
+$261,818,182
+$392,727,273
+$523,636,364
+
+table 2c. 1,200,000 applicants assisted
+6 hours/applicant
+cost/fte employee 4 hours/applicant
+$218,181,818
+$50,000 
+$75,000 
+$327,272,727
+$436,363,636
+$100,000 
+
+$145,454,545
+$218,181,818
+$290,909,091
+
+8 hours/applicant
+$290,909,091
+$436,363,636
+$581,818,182
+
+however, these overall expense calculations do not account for the offsetting of costs with 
+various fee-for-service models. the potential income generated by fee-for-service programs 
+calculated at different fee levels are presented in table 3, with the working groups best 
+estimate highlighted:
+
+table 3. revenue generated by fee-for-service
+fee
+
+applicants assisted
+
+960,000
+$96,000,000
+$144,000,000
+$192,000,000
+
+$100
+$150 
+$200 
+
+1,080,000
+$108,000,000
+$162,000,000
+$216,000,000
+
+1,200,000
+$120,000,000
+$180,000,000
+$240,000,000
+
+while potential revenues from fee-for-service appear to greatly offset the cost of full-time 
+equivalent employees, as noted previously, many applicants will be unable to pay a fee 
+upwards of $150, especially given a government application fee of $480 and the likelihood 
+that some lower-income households will have multiple applicants. assuming the average 
+fee-for-service is $150, and the median assumption for the number of applicants needing 
+
+299
+
+immigration reform and administrative relief for 2014 and beyondassistance proves accurate, the difference or gap between fee revenue and staff cost, at 
+varying levels of staff cost, are outlined in table 4. the working groups best estimates of 
+this gap are highlighted:
+
+table 4. cost differential for 1,080,000 applicants assisted 
+with a $150 fee
+cost/fte employee
+$50,000
+$75,000 
+$100,000 
+
+8 hours/applicant
+$99,818,182 
+$230,727,273 
+$361,636,364 
+
+6 hours/applicant
+$34,363,636 
+$132,545,455 
+$230,727,273 
+
+4 hours/applicant
+-$31,090,909 23
+$34,363,636 
+$99,818,182 
+
+the working group believes that some amount between the lower and mid-point estimates 
+in table 4 of $34 million and $132 million, or about $83 million, net after collection of fees, 
+is as reasonable an estimate as any for the potential nonprofit sector funding gap required 
+to assure effective application assistance services to the eligible low-income people likely 
+to apply for the expanded daca and dapa programs. on the one hand, this gap could be 
+reduced by any number of factors, including: 21
+
+ 
+
+ 
+
+ 
+
+improved efficiencies, such as the expanded use of technology to reduce application 
+assistance costs and/or to assist self-filers;
+increased  nonfinancial  government  support,  potentially  including  access  to 
+subsidized americorps, vista and retired senior volunteer program resources;
+expanded  private  philanthropy, 
+corporations, and individuals; and
+
+including  contributions  from  foundations, 
+
+  higher fees charged/collected.
+
+moreover, wise front-loaded investments can help to maximize coordination and minimize 
+duplication,  ensure  education  and  outreach  to  empower  self-filers,  assist  applicants  to 
+prepare by collecting documents beforehand, and channel applicants to the most appropriate 
+sources of assistance, thus minimizing confusion, forum shopping, and the vulnerability of 
+the population to fraud. 
+on the other hand, it is also true that some other factors could exacerbate the gap, including:
+  protracted  litigation  or  legislative  battles  that  complicate  the  program  itself  and 
+
+confuse applicants;
+
+  unreasonable or overly restrictive documentation or application requirements, or 
+ 
+
+slow adjudications that could increase per-applicant staff time required and/or raise 
+doubts about the efficacy of the program;
+
+21  the working group does not believe this number is plausible; it essentially assumes that virtually all 
+daca and dapa applicants can/will be assisted through mass-processing models staffed almost exclusively 
+by  para-professionals  and  volunteers,  regardless  of  whether  they  are  eligible  for  other  remedies  or  have 
+difficult cases.
+
+300
+
+journal on migration and human security 
+ 
+
+insufficient support from private philanthropy; and
+insufficient fee revenue.
+
+beyond the actual advocacy or litigation resources required, these and other factors could 
+force service providers to invest more heavily in outreach and education, reducing resources 
+for application assistance itself. finally, it should be noted that all of these estimates are 
+highly sensitive to even modest changes in assumptions and should be treated with caution.
+
+conclusion
+the prospect of facilitating lawful, albeit temporary, status for as many as five million 
+people  presents  formidable  challenges  to  the  nonprofit  legal  assistance  field  and  will 
+require substantial support from the nonprofit sector itself and private philanthropy, as this 
+analysis shows. but these costs are far outweighed by the benefits, not just to the daca/
+dapa population but especially to the society at large.
+on the cost side of the equation, as with all other immigration services, such as applications 
+for visas to enter the country and naturalization, all of the governments expenses required 
+to operate the daca/dapa programs will be covered by user fees paid by the applicants 
+themselves. in addition, this analysis suggests that between two-thirds and three-quarters 
+of the cost of the application assistance infrastructure required will be borne by daca/
+dapa applicants, with the balance provided by the private nonprofit and philanthropic 
+sectors, which is not to say that a majority of the total income of charitable immigration 
+programs engaged in this work will come from fees-for-service.
+that a substantial portion of this relatively low-income population will probably be willing 
+to  absorb  such  costs  attests to  the  obvious  benefits  afforded  by  deferred  actionbeing 
+able to live and work without the constant threat of deportation and family separation. 
+numerous  studies  have  shown  that  those  moving  from  unauthorized  to  lawful  status 
+will also experience greater economic opportunity, since they will be far less vulnerable 
+to exploitation in the labor market. moreover, the gains to participants in a broad-scale 
+legalization program like deferred action are far exceeded by the economic benefits to the 
+country as a whole. recently the center for american progress (mathema 2015) calculated 
+some of the economic gains over the next 10 years from providing deferred action to the 
+daca- and dapa-eligible population, which include:
+
+  wage increases to daca and dapa recipients of $103 billion;
+ 
+ 
+ 
+ 
+
+a cumulative increase in the gross domestic product of $230 billion;
+income increases for all americans of $124 billion;
+creation of more than 288,000 new jobs for all americans; and
+tax revenue increases of an additional $41 billion to the social security system.
+
+the prospect of accruing such enormous societal benefits at literally no cost to the taxpayer 
+represents a rare opportunity for us society. fully realizing these benefits, however, will 
+require a significant and intentional investment in building and sustaining the infrastructure 
+needed to maximize participation in deferred action. 
+
+301
+
+immigration reform and administrative relief for 2014 and beyondas detailed in this report, effective implementation of expanded daca and dapa will 
+indisputably require a substantial expansion of the capacity of the nonprofit legal services 
+and immigrant-serving sectors. significantly, there is no risk that a substantial commitment 
+to building capacity will prove wasteful, for even if one assumes that implementation of 
+expanded daca and dapa may be considerably delayed, currently existing needs more 
+than justify a large expansion of relevant sector capacity. demand for services still far 
+exceeds supply. even assuming that pre-daca supply of and demand for legal services to 
+assist lower-income immigrants was at equilibrium, there is a need for immediate additional 
+capacity to assist at least three discrete groups:
+
+ 
+
+ 
+
+ 
+
+the over 560,000 people initially eligible for daca that have yet to apply (batalova 
+et al. 2014, 1);22
+the over 400,000 individuals who would be eligible for daca but have not met the 
+education requirement (ibid.); and
+the  substantial  percentage  of  the  unauthorized  population  who  may  be  eligible 
+for other forms of relief, which for the purpose of this article we conservatively 
+estimate to be in the range of one million, although this number may in fact be 
+much higher.23
+
+applying the same methodology used above for expanded daca/dapa populations to 
+this potential applicant pool, using the mid-point estimates, produces the following results:
+
+  total potential applicants:
+  total requiring assistance:
+  total ftes needed at 6 hrs/case:        
+  total cost at $75k/fte:
+  less fees at $150/case:
+
+~ 2 million
+640,000
+2,327
+$175 million
+($96 million)
+
+perhaps the first step toward building a nonprofit infrastructure commensurate with future 
+needs is the realization that the existing infrastructure is insufficient to meet current needs. 
+in all events, this insufficiency comes at a cost to american society, a cost that in the future 
+may be multiplied many times over, if we do not begin planning now to build and sustain 
+an infrastructure with an expanded capacity to reap the many benefits of a broad-scale 
+legalization program. 
+
+22   batalova  et al. (2014) estimated that 1.2 million were immediately eligible for daca. an estimated 
+2.1 million individuals are currently or potentially eligible for daca, including those who will age-in over 
+the coming years and those who would be eligible otherwise, but who do not currently meet the education 
+requirement.  subtracting  the  total  number  of  those  who  have  been  approved  for  daca  (638,897)  from 
+the potentially eligible pool indicates there are almost 1.4 million who might need assistance with daca 
+applications, with over 560,000 immediately eligible.
+23    wong  et.  al.  found  that  14.3  percent  of  individuals  eligible  for  daca  were  also  eligible  for  some 
+other immigration benefit or form of relief. they also found potential eligibility rates were far higher for 
+unauthorized persons screened by charitable immigration programs during normal office intake and screening 
+procedures (i.e., not during daca screening). 
+
+302
+
+journal on migration and human security

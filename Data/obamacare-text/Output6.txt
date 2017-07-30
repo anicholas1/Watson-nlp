@@ -1,0 +1,1920 @@
+aspe 
+issue brief 
+
+ 
+
+ 
+
+health insurance coverage for americans with  
+
+pre-existing conditions: 
+
+the impact of the affordable care act 
+
+ 
+
+january 5, 2017 
+
+ 
+the affordable care act (aca) put in place a range of nationwide protections for americans 
+with pre-existing health conditions. under the aca, insurance companies cannot deny coverage 
+or charge higher premiums based on a persons medical history or health status. in addition, 
+policies cannot exclude coverage for treating a pre-existing condition, must include limits on out-
+of-pocket spending, cannot include limits on annual or lifetime coverage, and, in the case of most 
+individual and small group market policies, must cover essential health benefits.   
+ 
+in 2011, prior to the implementation of the acas major health insurance reforms in 2014, 
+aspe examined the impact of the acas pre-existing conditions protections.1 the 2011 analysis 
+found that between 50 and 129 million non-elderly americans had pre-existing health conditions 
+and would gain new protections under the aca reforms.2   
+ 
+this analysis updates that earlier study. it confirms that a large fraction of non-elderly 
+americans have pre-existing health conditions: at least 23 percent of americans (61 million 
+people) using a narrow definition based on eligibility criteria for pre-aca state high-risk pools, 
+or as many as 51 percent (133 million people) using a broader definition closer to the 
+underwriting criteria used by insurers prior to the aca. any of these 133 million americans 
+could have been denied coverage, or offered coverage only at an exorbitant price, had they 
+needed individual market health insurance before 2014.  this analysis also offers a first look at 
+how health insurance coverage for people with pre-existing conditions actually changed when 
+the acas major insurance market reforms took effect in 2014. it finds that, between 2010 and 
+2014, the share of americans with pre-existing conditions who went without health insurance all 
+year fell by 22 percent, a drop of 3.6 million people. the acas individual market reforms 
+appear to have played a key role in these gains.  
+
+                                                 
+1 department of health and human services, office of the assistant secretary for planning and evaluation, at risk: 
+pre-existing conditions could affect 1 in 2 americans. january 2011, available at  
+https://aspe.hhs.gov/sites/default/files/pdf/76376/index.pdf.  
+2 non-elderly are defined as individuals age 0 to 64 who did not have medicare coverage in any month. 
+ 
+
+department of health and human services 
+
+office of the assistant secretary for planning and evaluation 
+
+http://aspe.hhs.gov 
+
+aspe issue brief 
+
+ 
+
+ page 2 
+
+after dropping by about a quarter between 2010 and 2014, the uninsured rate for all non-elderly 
+americans has fallen an additional 22 percent through the first half of 2016.3 while data for 
+americans with pre-existing conditions are available only through 2014, it is likely that this 
+group has also seen continued gains in access to coverage and care over the past two years. 
+ 
+
+key findings: 
+  up to 133 million non-elderly americansjust over half (51 percent) of the non-elderly 
+
+populationmay have a pre-existing condition. this includes 67 million women and girls 
+and 66 million men and boys. 
+
+  the likelihood of having a pre-existing condition increases with age: up to 84 percent of 
+
+those ages 55 to 6431 million individualshave at least one pre-existing condition.  
+
+  among the most common pre-existing conditions are high blood pressure (46 million 
+people), behavioral health disorders (45 million people), high cholesterol (44 million 
+people); asthma/chronic lung disease (34 million people), heart conditions (16 million 
+people), diabetes (13 million people), and cancer (11 million people).  
+
+  between 2010 and 2014, when the acas major health insurance reforms first took 
+
+effect, the share of americans with pre-existing conditions who went uninsured all year 
+fell by 22 percent, meaning 3.6 million fewer people went uninsured.  
+
+  tens of millions of americans with pre-existing conditions experience spells of 
+
+uninsurance.  about 23 percent (31 million) experienced at least one month without 
+insurance coverage in 2014, and nearly one-third (44 million) went uninsured for at least 
+one month during the two-year period beginning in 2013. 
+
+ 
+ 
+how the aca reformed coverage for people with pre-existing conditions  
+ 
+a pre-existing condition is a health condition that predates a person applying for or enrolling in a 
+new health insurance policy. before the aca, insurers generally defined what types of 
+conditions could constitute a pre-existing condition. their definitions frequently encompassed 
+both serious conditions, such as cancer or heart disease, and less severe and more common 
+conditions, such as asthma, depression, or high blood pressure.  
+ 
+before the aca, individual insurers in the vast majority of states could collect information on 
+demographic characteristics and medical history, and then deny coverage, charge higher 
+premiums, and/or limit benefits to individuals based on pre-existing conditions. an industry 
+survey found that 34 percent of individual market applicants were charged higher-than-standard 
+rates based on demographic characteristics or medical history.4 similarly, a 2009 survey found 
+
+ 
+
+                                                 
+3 emily p. zammitti, robin a. cohen, and michael e. martinez, health insurance coverage: early release of 
+estimates from the national health insurance survey, january-june 2016, p. a1. national center for health 
+statistics, november 2016, available at https://www.cdc.gov/nchs/data/nhis/earlyrelease/insur201611.pdf. 
+4 ahip center for policy research (ahip), individual health insurance 2009: a comprehensive survey of 
+premiums, availability, and benefits, october 2009.  
+ 
+aspe office of health policy 
+ 
+
+january 5, 2017 
+
+ 
+
+aspe issue brief 
+
+ 
+
+ page 3 
+
+that, among adults who had individual market coverage or shopped for it in the previous three 
+years, 36 percent were denied coverage, charged more, or had exclusions placed on their policy 
+due to pre-existing conditions.5 a report by the government accountability office estimated 
+that, as of early 2010, the denial rate among individual market applications was 19 percent, and 
+the most common reason for denial was health status.6  
+ 
+while some states attempted to offer some protection to people with pre-existing conditions, 
+these efforts were generally not effective at ensuring access to affordable coverage.7 for 
+example: 
+ 
+
+  some states required that coverage be offered to people with pre-existing conditions, but 
+imposed no restrictions on how much insurers could increase premiums based on health 
+status. 
+ 
+
+  some states required that coverage be offered to people with pre-existing conditions, but 
+
+allowed insurers to exclude treatment for the pre-existing condition. thus, a cancer 
+survivor could have obtained coverage, but that coverage would not have paid for 
+treatment if the cancer re-emerged.  
+ 
+
+  some states required that coverage be offered to people with pre-existing conditions, but 
+only to those who met continuity of coverage requirements. in practice, a high fraction of 
+people with pre-existing conditions go uninsured for at least short spells due to job 
+changes, other life transitions, or periods of financial difficulty. about 23 percent of 
+percent of americans with pre-existing conditions (31 million people) experienced at 
+least one month without insurance coverage in 2014.  in the two-year period beginning in 
+2013, nearly one-third (44 million) of individuals with pre-existing conditions went 
+uninsured for at least one month. about 93 percent of those who were ever uninsured 
+went without coverage for a spell of two months or more, and about 87 percent went 
+without coverage for a spell of three months or more.8 
+ 
+
+ 
+
+                                                 
+5 michelle m. doty, sara r. collins, jennifer l. nicholson, and sheila d. rustgi, failure to protect: why the 
+individual insurance market is not a viable option for most us families, the commonwealth fund, july 2009, 
+available at 
+http://www.commonwealthfund.org/~/media/files/publications/issue%20brief/2009/jul/failure%20to%20protect/1
+300_doty_failure_to_protect_individual_ins_market_ib_v2.pdf. 
+6 u.s. government accountability office, private health insurance: data on applications and coverage denials, 
+report to the secretary of health and human services and the secretary of labor, march 16, 2011, available at 
+http://www.gao.gov/assets/320/316699.pdf. 
+7 for a comparison of states pre-aca rules, see national conference of state legislatures, individual health 
+insurance and states: chronologies of care, updated august 2015, http://www.ncsl.org/research/health/individual-
+health-insurance-in-the-states.aspx.  
+8 hhs analysis of 2013 and 2014 meps. 
+ 
+aspe office of health policy 
+ 
+
+january 5, 2017 
+
+ 
+
+aspe issue brief 
+
+ 
+
+ page 4 
+
+  a few states sought to require that people with pre-existing conditions be offered 
+
+coverage at the same price as other americans. but without accompanying measures to 
+ensure that healthy residents also continued to buy insurance, these states saw escalating 
+premiums that made health insurance unaffordable for sick and healthy residents alike.9  
+
+in contrast, the aca implemented a nationwide set of reforms in the individual health insurance 
+market. the law requires individual market insurers to offer comprehensive coverage to all 
+enrollees, on common terms, regardless of medical history. meanwhile, the aca also includes 
+measures to ensure a balanced risk pool that keeps coverage affordable. to directly improve 
+affordability while encouraging individuals to buy coverage, the aca offers financial assistance 
+for eligible taxpayers with household incomes up to 400 percent of the federal poverty level to 
+reduce their monthly premium payments.10 the law also includes an individual shared 
+responsibility provision that requires people who can afford coverage to make a payment if they 
+instead elect to go without it.11 
+ 
+prevalence of pre-existing conditions 
+ 
+estimating the number of americans with pre-existing conditions  
+ 
+this analysis updates earlier aspe estimates of the number of non-elderly americans potentially 
+benefitting from the acas pre-existing conditions protections. as in the earlier study, we 
+consider two definitions of pre-existing conditions. the narrower measure includes only 
+conditions identified using eligibility guidelines from state-run high-risk pools that pre-dated the 
+aca. these programs were generally intended to cover individuals who would be outright 
+rejected for coverage by private insurers. the broader measure includes additional common 
+health conditions (for example, arthritis, asthma, high cholesterol, hypertension, and obesity) and 
+behavioral health disorders (including alcohol and substance use disorders, depression, and 
+alzheimers) that could have resulted in denial of coverage, exclusion of the condition, or higher 
+premiums for individuals seeking individual market coverage before the aca protections 
+applied.12  
+ 
+
+                                                 
+9 former insurance commissioners in rhode island and washington described the problems created by partial 
+reforms in their states. see, for example, christopher koller, why republican health insurance reform ideas are 
+likely to fail, politico, december 7, 2016, http://www.politico.com/agenda/story/2016/12/republican-health-
+reform-ideas-obamacare-unlikely-work-000252, and harris meyer, what it will take to stop insurers from 
+fleeing after aca repeal, modern health care, december 5, 2016, 
+http://www.modernhealthcare.com/article/20161205/news/161209962. the exception was massachusetts, which 
+enacted its own version of the acas insurance market reforms, subsidies, and individual responsibility provision in 
+2006. 
+10 office of the assistant secretary for planning and evaluation, health plan choice and premiums 
+in the 2017 health insurance marketplace, october 24, 2016, available at 
+https://aspe.hhs.gov/sites/default/files/pdf/212721/2017marketplacelandscapebrief.pdf. 
+11 for an extended discussion of the acas insurance market reforms, see 
+https://www.whitehouse.gov/sites/default/files/page/files/20161213_cea_record_healh_care_reform.pdf.  
+12 these conditions were selected based on underwriting guidelines identified using internet searches in the pre-
+aca period. 
+ 
+aspe office of health policy 
+ 
+
+january 5, 2017 
+
+ 
+
+aspe issue brief 
+
+ 
+
+ page 5 
+
+we focus primarily on the broader measure, because individuals with any of these conditions 
+were at risk of higher premiums and/or coverage carve-outs, if not outright coverage denials if 
+they sought individual market health insurance before the aca protections applied. the 
+narrower measure is similar to that used in a recent kaiser family foundation (kff) analysis, 
+which finds that 52 million non-elderly adults would have been uninsurable in the individual 
+market in most states before the aca. the kff study notes that its analysis does not attempt to 
+include people with other health conditions that wouldnt necessarily cause a denial, but could 
+lead to higher insurance costs based on underwriting.13 
+ 
+both our narrow and broad estimates are based on the 2014 medical expenditure panel survey 
+(meps), the most recent data available that provide both coverage and detailed health status 
+information. the appendix provides a more detailed description of our methodology and 
+supplemental tables.14 
+ 
+the prevalence of pre-existing conditions in 2014 
+ 
+as shown in table 1, we find that the aca is protecting between 23 and 51 percent of non-
+elderly americans--61 to 133 million people--with some type of pre-existing health condition 
+from being denied coverage, charged significantly higher premiums, subjected to an extended 
+waiting period, or having their health insurance benefits curtailed should they need individual 
+market health insurance coverage.  
+ 
+certain groups are more likely than others to have pre-existing conditions. in particular, as 
+people age, their likelihood of havingor ever having hada pre-existing health condition 
+increases steadily. americans between ages 55 and 64 are particularly at risk: 49 to 84 percent of 
+people in this age rangeup to 31 million peoplehave some type of pre-existing condition. by 
+comparison, 6 to 24 percent of americans under the age of 18 have some type of pre-existing 
+condition (see figure 1). approximately 56 percent of non-hispanic whites and individuals with 
+family incomes above 400 percent of the federal poverty level have some type of pre-existing 
+condition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                 
+13 the authors also note that their analysis excludes certain conditions that likely would have led to coverage denials, 
+including such as hepatitis c and hiv/aids. see gary claxton, cynthia cox, anthony damico, larry levitt, and 
+karen pollitz, pre-existing conditions and medical underwriting in the individual market prior to the aca, kaiser 
+family foundation, december 2016 (available at http://files.kff.org/attachment/issue-brief-pre-existing-conditions-
+and-medical-underwriting-in-the-individual-insurance-market-prior-to-the-aca). 
+14 all estimates cover individuals age 0 to 64 who did not have medicare coverage in any month. in addition to 
+describing our methodology, the appendix explains technical changes that account for the substantial revision to our 
+lower-bound estimate from the 2011 brief. 
+ 
+aspe office of health policy 
+ 
+
+january 5, 2017 
+
+ 
+
+aspe issue brief 
+
+ 
+
+ page 6 
+
+ 
+
+ 
+
+table 1: prevalence of pre-existing conditions, 2014 
+number with pre-existing condition 
+
+share with pre-existing condition 
+
+(millions) 
+
+ 
+
+narrow 
+
+definition 
+
+broad 
+
+definition 
+
+narrow 
+
+definition 
+
+broad 
+
+definition 
+
+133 
+
+ 
+
+ 
+
+23% 
+
+51% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+61 
+
+ 
+
+66 
+67 
+
+ 
+
+27 
+
+ 
+
+13 
+
+20% 
+26% 
+
+50% 
+51% 
+
+17 
+11 
+20 
+23 
+31 
+31 
+
+26 
+35 
+
+ 
+4 
+5 
+8 
+10 
+16 
+18 
+
+6% 
+15% 
+19% 
+26% 
+38% 
+49% 
+
+24% 
+37% 
+46% 
+59% 
+75% 
+84% 
+
+all non-elderly 
+ 
+male 
+female 
+ 
+under age 18 
+18-24 
+25-34 
+35-44 
+45-54 
+55-64 
+ 
+<=138% of 
+poverty 
+139-400% of 
+poverty 
+>400% of 
+poverty 
+ 
+hispanic 
+non-hispanic 
+white 
+non-hispanic 
+black 
+non-hispanic 
+asian 
+other race 
+source: hhs analysis of the 2014 meps. 
+note: narrow definition based on criteria for state high risk pools before the aca; broad definition based on pre-
+aca underwriting criteria used by insurers.  
+ 
+
+39% 
+56% 
+
+15% 
+28% 
+
+7 
+
+2 
+
+2 
+
+ 
+8 
+42 
+
+ 
+
+20 
+85 
+
+23 
+
+25 
+
+51 
+
+55 
+
+5 
+
+5 
+
+24% 
+
+21% 
+
+25% 
+
+48% 
+
+47% 
+
+56% 
+
+14% 
+
+21% 
+
+52% 
+
+34% 
+
+47% 
+
+17 
+
+20% 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 5, 2017 
+
+aspe issue brief 
+
+ 
+
+ page 7 
+
+figure 1: americans with pre-existing conditions by age, 2014 
+
+narrow definition of pre-existing conditions
+
+broad definition of pre-existing conditions
+
+100%
+
+75%
+
+50%
+
+25%
+
+0%
+
+84% 
+
+75% 
+
+59% 
+
+38% 
+
+26% 
+
+49% 
+
+51% 
+
+23% 
+
+46% 
+
+37% 
+
+15% 
+
+19% 
+
+24% 
+
+6% 
+
+under age
+
+18-24
+
+25-35
+
+35-44
+
+45-54
+
+55-64
+
+total
+
+18
+
+source: hhs analysis of the 2014 meps. 
+
+ 
+
+ 
+common pre-existing conditions facing americans 
+ 
+as shown in table 2, we also examine the prevalence of specific pre-existing conditions faced 
+by americans (focusing on the broader insurer definition). the table lists the eleven conditions 
+with prevalence of 1 million or more among non-elderly individuals with no medicare 
+enrollment during 2014. these conditions are listed from most to least prevalent, although 
+differences between ranks may not be statistically significant. 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 5, 2017 
+
+aspe issue brief 
+
+ 
+
+ page 8 
+
+table 2: number of americans with specific  
+
+pre-existing conditions, 2014 
+
+ 
+
+number (millions) 
+
+46 
+45 
+44 
+34 
+
+34 
+
+hypertension (high blood pressure) 
+behavioral health disorders 
+hyperlipidemia (high cholesterol) 
+asthma/chronic lung disease 
+osteoarthritis or other non-traumatic 
+joint disorders 
+obesity 
+heart conditions/heart disease 
+diabetes mellitus 
+cancer 
+cerebrovascular disease 
+infectious diseases 
+source: hhs analysis of the 2014 meps. 
+notes: estimates based on broad definition of pre-existing conditions. a 
+single individual can have multiple pre-existing conditions. differences in 
+the estimated number of individuals with specific conditions are not 
+necessarily statistically significant.  
+
+23 
+16 
+13 
+11 
+3 
+1 
+
+ 
+among the most common pre-existing conditions for non-elderly americans are high blood 
+pressure, high cholesterol, behavioral health disorders (including, for example, alcohol and 
+substance use disorders, depression, and alzheimers), asthma, arthritis, and obesity. millions of 
+americans also have diabetes (13 million), heart conditions or heart disease (16 million), or have 
+at some point been diagnosed with cancer (11 million). 
+ 
+the impact of the acas protections in 2014 
+ 
+as described above, the aca put in place a range of new protections designed to give 
+individuals with pre-existing conditions, along with other americans, increased access to 
+affordable health insurance. the 2014 meps data show that this is being borne out in practice, 
+with significant improvements in health insurance coverage for americans with pre-existing 
+conditions.  
+ 
+as shown in table 3, between 2010 and 2014, the share of americans with pre-existing 
+conditions who went uninsured all year fell from 13.8 percent to 10.7 percent, a drop of 22 
+percent. these gains translated into 3.6 million fewer individuals with pre-existing conditions 
+without health insurance.  
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 5, 2017 
+
+aspe issue brief 
+
+ 
+
+ page 9 
+
+table 3: percent and number of non-elderly americans with pre-existing conditions that 
+
+lacked health insurance all year, 2010 and 2014 
+
+ 
+
+total 
+
+ 
+
+ 
+
+male 
+female 
+ 
+hypertension (high 
+blood pressure) 
+hyperlipidemia 
+(high cholesterol) 
+behavioral health 
+disorders 
+
+osteoarthritis 
+
+percent of people without coverage 
+
+2010 
+
+2014 
+
+percent 
+change 
+
+13.8 
+
+ 
+
+14.5 
+13.1 
+
+ 
+
+15.3 
+
+11.6 
+
+11.7 
+
+13.7 
+
+10.7 
+
+ 
+
+11.5 
+10.0 
+
+ 
+
+12.8 
+
+10.1 
+
+8.5 
+
+10.7 
+
+-22 
+
+ 
+
+-23 
+-21 
+
+ 
+
+-17 
+
+-13 
+
+-27 
+
+-22 
+
+number of people without 
+
+coverage (millions) 
+
+2010 
+
+17.9 
+
+ 
+
+9.4 
+8.5 
+
+ 
+
+7.1 
+
+5.2 
+
+4.6 
+
+4.3 
+
+2014 
+
+change 
+
+14.3 
+
+ 
+
+7.5 
+6.7 
+
+ 
+
+5.9 
+
+4.4 
+
+3.8 
+
+3.6 
+
+-3.6 
+
+ 
+
+-1.8 
+-1.8 
+
+ 
+
+-1.1 
+
+-0.8 
+
+-0.7 
+
+-0.8 
+
+4.1 
+
+3.0 
+
+-1.2 
+
+8.7 
+
+-27 
+
+11.9 
+
+asthma/chronic 
+lung disease 
+source: hhs analysis of the 2010 and 2014 meps. 
+notes: estimates based on broad definition of pre-existing conditions. a single individual can have 
+multiple pre-existing conditions. differences in the estimated number of individuals with specific 
+conditions are not necessarily statistically significant. 
+ 
+figure 2 shows the source of these gains. while the share of americans with pre-existing 
+conditions who had coverage through an employer remained roughly constant, the share with 
+coverage through medicaid rose, and the share with individual market coverage increased 
+substantially as pre-aca underwriting practices were phased out and marketplace subsidies 
+became available (see appendix table 5).15  
+ 
+
+                                                 
+15 insurance category is assigned by an ever-on hierarchy based on coverage in any month. individuals with 
+employer-sponsored coverage in any month, for example, were assigned to that category, even if they had months of 
+enrollment in medicaid/chip, individual market coverage, or other public coverage, or were ever uninsured. 
+because people move across sources of coverage in a year, more individuals may have had medicaid/chip, 
+individual market coverage, or other public coverage than shown in figure 2. individual market coverage for 2014 
+includes both marketplace and off-marketplace coverage. individuals categorized as uninsured were without 
+coverage in any survey month. 
+ 
+aspe office of health policy 
+ 
+
+january 5, 2017 
+
+ 
+
+aspe issue brief 
+
+ 
+
+page 10 
+
+figure 2: coverage status of americans with pre-existing conditions, 2010 and 2014 
+ 
+
+14% 
+
+2% 
+
+68% 
+
+13% 
+3% 
+
+2010
+
+11% 
+2% 
+
+67% 
+
+17% 
+
+4% 
+
+2014
+
+uninsured
+
+other public coverage
+
+esi
+
+medicaid/chip
+
+individual market
+
+ 
+
+source: hhs analysis of the 2010 and 2014 meps. 
+ 
+figure 3 provides further confirmation that the aca is eliminating barriers in the individual 
+market for americans with pre-existing conditions. in 2010, 54 percent of people with employer 
+coverage had pre-existing conditions, similar to their share of the overall population. but in the 
+individual market, only 46 percent of people had a pre-existing condition. by 2014, the 
+composition of the individual market had shifted to nearly mirror the employer market, 
+consistent with a market where insurers can no longer deny coverage based on health history. 
+ 
+figure 3: percent of americans with employer and individual market coverage with pre-
+existing conditions, 2010 and 2014 
+
+esi
+
+individual market
+
+54% 
+
+46% 
+
+53% 
+
+55% 
+
+100%
+
+75%
+
+50%
+
+25%
+
+0%
+
+2010
+
+2014
+
+source: hhs analysis of the 2010 and 2014 meps. 
+ 
+ 
+aspe office of health policy 
+ 
+
+ 
+
+ 
+
+january 5, 2017 
+
+aspe issue brief 
+
+ 
+
+page 11 
+
+conclusion 
+ 
+with data available only through 2014, this analysis provides a preliminary picture of how the 
+aca is helping individuals with pre-existing conditions. the uninsured rate for all americans, 
+which fell by 27 percent between 2010 and 2014, fell another 22 percent between 2014 and 
+2016, and people with pre-existing conditions have likely seen similar additional progress. 
+nonetheless, this initial snapshot confirms that the acas insurance market reforms are 
+providing important protections to the up to half of americans whose medical history previously 
+put them at risk of being denied access to affordable health care.  
+ 
+
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 5, 2017 
+
+aspe issue brief 
+
+ 
+
+page 12 
+
+appendix: methodology 
+ 
+we used the 2014 medical expenditure panel survey (meps) to identify individuals who would 
+likely been denied coverage due to a pre-existing condition if they were to apply for coverage in 
+the individual market without the protections provided by the affordable care act. a multi-
+pronged approach was used to identify conditions that would certainly or likely exclude 
+individuals from being offered coverage. a list of pre-existing conditions was generated from 
+two sources: eligibility guidelines from 19 pre-affordable care act high-risk pools and 
+underwriting guidelines from seven major insurance carriers.16 the meps was used to identify 
+whether individuals had a medical visit for any of these conditions, experienced any disability 
+days (for the 2008 and 2010 data, as this information is no longer available in the 2014 data) as a 
+result of any of these conditions, or reported that they were bothered by any of these conditions 
+in the past year. additional questions regarding whether individuals had ever been diagnosed 
+with a smaller set of conditions from these lists were used to further refine our measure.  
+ 
+two estimates of the share of non-elderly individuals with pre-existing conditions are presented. 
+the first includes only conditions that were identified using eligibility guidelines from high-risk 
+pools; the second includes five additional common conditions (arthritis, asthma, high cholesterol, 
+hypertension, and obesity) and a number of common behavioral health conditions that would 
+have resulted in an automatic decline, exclusion of the condition, or higher premiums according 
+to the seven pre-affordable care act insurer guidelines examined. the first estimate includes 
+conditions that would have been very likely to cause an applicant to be denied coverage, and 
+should be considered a lower bound estimate. the second estimate includes conditions that might 
+result in a denial of coverage, but also might have resulted in a rate-up (that is, a higher 
+premium) or a coverage rider (that is, a policy that excludes coverage for a pre-existing 
+condition). 
+ 
+analyses of the prevalence of particular conditions employ the categories used in the clinical 
+classification software (ccs) developed for the healthcare cost and utilization project 
+(hcup). a crosswalk between icd-9 and ccs categories is available at 
+https://meps.ahrq.gov/data_stats/download_data/pufs/h170/h170app3.html. 
+ 
+appendix tables 1-4 present the full set of estimates by age and insurance status for 2010 and 
+2014, using both pre-existing conditions measures. appendix table 5 shows the change between 
+2010 and 2014 in the distribution of insurance coverage among individuals with pre-existing 
+conditions (broad definition only).  
+ 
+
+ 
+
+                                                 
+16 for a list of the included conditions and more detailed explanation of methods, please see the methodology 
+section of: at risk: pre-existing conditions could affect 1 in 2 americans; us department of health & human 
+services, january 2011. available online at: https://aspe.hhs.gov/sites/default/files/pdf/76376/index.pdf. 
+ 
+ 
+ 
+aspe office of health policy 
+ 
+
+january 5, 2017 
+
+ 
+
+aspe issue brief 
+
+ 
+
+page 13 
+
+appendix table 1: pre-existing conditions by age, based on meps 2010 
+  
+
+age category 
+
+total 
+
+population 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+<18 
+
+18-24 
+
+25-34 
+
+35-44 
+
+45-54 
+
+55-64 
+
+74,397,000 
+
+29,713,000 
+
+41,007,000 
+
+4,439,000 
+
+17,113,000 
+
+4,342,000 
+
+10,528,000 
+
+7,333,000 
+
+18,407,000 
+
+38,879,000 
+
+10,579,000 
+
+23,080,000 
+
+42,190,000 
+
+15,652,000 
+
+30,758,000 
+
+34,617,000 
+
+17,633,000 
+
+29,750,000 
+
+total 
+source: hhs analysis of the 2010 meps. 
+note: all estimates rounded to thousands.  
+
+260,803,000 
+
+59,979,000 
+
+129,635,000 
+
+23% 
+
+35% 
+
+45% 
+
+59% 
+
+73% 
+
+86% 
+
+50% 
+
+6% 
+
+15% 
+
+18% 
+
+27% 
+
+37% 
+
+51% 
+
+23% 
+
+ 
+
+appendix table 2: pre-existing conditions by age, based on meps 2014 
+
+age category 
+
+total 
+
+population 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+<18 
+
+18-24 
+
+25-34 
+
+35-44 
+
+45-54 
+
+55-64 
+
+73,522,000 
+
+30,336,000 
+
+42,314,000 
+
+38,910,000 
+
+40,903,000 
+
+36,714,000 
+
+4,148,000 
+
+4,553,000 
+
+8,251,000 
+
+10,289,000 
+
+15,662,000 
+
+18,145,000 
+
+17,499,000 
+
+11,169,000 
+
+19,511,000 
+
+23,146,000 
+
+30,625,000 
+
+30,934,000 
+
+total 
+262,699,000 
+source: hhs analysis of the 2014 meps. 
+note: all estimates rounded to thousands to account for impression of estimates.  
+
+61,048,000 
+
+132,884,000 
+
+ 
+
+24% 
+
+37% 
+
+46% 
+
+59% 
+
+75% 
+
+84% 
+
+51% 
+
+6% 
+
+15% 
+
+19% 
+
+26% 
+
+38% 
+
+49% 
+
+23% 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 5, 2017 
+
+aspe issue brief 
+
+ 
+
+page 14 
+
+appendix table 3: pre-existing conditions by insurance status, based on meps 2010 
+  
+
+insurance 
+category 
+
+total 
+
+population 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+employment-
+based 
+
+165,736,000 
+
+40,535,000 
+
+88,676,000 
+
+medicaid/chip 
+
+42,825,000 
+
+8,358,000 
+
+17,182,000 
+
+individual 
+market 
+
+other public 
+
+uninsured 
+
+7,900,000 
+
+1,547,000 
+
+3,619,000 
+
+4,117,000 
+
+1,308,000 
+
+2,283,000 
+
+40,225,000 
+
+8,230,000 
+
+17,875,000 
+
+24% 
+
+20% 
+
+20% 
+
+32% 
+
+20% 
+
+54% 
+
+40% 
+
+46% 
+
+55% 
+
+44% 
+
+59,979,000 
+
+260,803,000 
+
+total 
+source: hhs analysis of the 2010 meps. 
+notes: all estimates rounded to thousands to account for impression of estimates.  insurance category is assigned by an 
+ever-on hierarchy based on coverage in any month. individuals with employer-sponsored coverage in any month, for 
+example, were assigned to that category, even if they had months of enrollment in medicaid/chip, individual market 
+coverage, or other public coverage, or were ever uninsured. because people move across sources of coverage in a year, 
+more individuals may have had medicaid/chip, individual market coverage, or other public coverage than shown. 
+individuals categorized as uninsured were without coverage in any survey month. 
+
+129,635,000 
+
+23% 
+
+50% 
+
+ 
+
+ 
+
+appendix table 4: pre-existing conditions by insurance status, based on meps 2014  
+ 
+
+insurance 
+category 
+
+total 
+
+population 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+employment-
+based 
+
+165,820,000 
+
+39,912,000 
+
+88,401,000 
+
+medicaid/chip 
+
+51,275,000 
+
+10,894,000 
+
+22,177,000 
+
+individual 
+market 
+
+other public 
+
+uninsured 
+
+10,904,000 
+
+2,936,000 
+
+5,948,000 
+
+3,637,000 
+
+1,003,000 
+
+2,089,000 
+
+31,063,000 
+
+6,304,000 
+
+14,269,000 
+
+24% 
+
+21% 
+
+27% 
+
+28% 
+
+20% 
+
+53% 
+
+43% 
+
+55% 
+
+57% 
+
+46% 
+
+61,048,000 
+
+132,884,000 
+
+262,699,000 
+
+total 
+source: hhs analysis of the 2014 meps. 
+notes: all estimates rounded to thousands to account for impression of estimates.  insurance category is assigned by an 
+ever-on hierarchy based on coverage in any month. individuals with employer-sponsored coverage in any month, for 
+example, were assigned to that category, even if they had months of enrollment in medicaid/chip, individual market 
+coverage, or other public coverage, or were ever uninsured. because people move across sources of coverage in a year, 
+more individuals may have had medicaid/chip, individual market coverage, or other public coverage than shown. 
+individual market coverage for 2014 includes both marketplace and off-marketplace coverage. individuals categorized as 
+uninsured were without coverage in any survey month. 
+
+23% 
+
+51% 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 5, 2017 
+
+aspe issue brief 
+
+ 
+
+page 15 
+
+appendix table 5: change in insurance coverage of individuals with pre-existing 
+conditions (broad definition), 2010-2014 
+
+insurance 
+category 
+
+2010 
+pre-ex 
+
+2014 
+pre-ex 
+
+population 
+
+population  
+
+percentage 
+
+change 
+
+2010 
+
+share of 
+pre-ex 
+
+2014 
+
+share of 
+pre-ex 
+
+population 
+68.4% 
+
+population 
+66.5% 
+
+13.3% 
+
+16.7% 
+
+2.8% 
+
+1.8% 
+
+4.5% 
+
+1.6% 
+
+-0.3% 
+
+29.1% 
+
+64.3% 
+
+-8.5% 
+
+employment-based 
+
+88,676,000 
+
+88,401,000 
+
+medicaid/chip 
+
+17,182,000 
+
+22,177,000 
+
+individual market 
+
+3,619,000 
+
+5,948,000 
+
+2,283,000 
+
+2,089,000 
+
+other public 
+
+uninsured 
+
+17,875,000 
+
+14,269,000 
+
+-20.2% 
+
+13.8% 
+
+10.7% 
+
+2.5% 
+
+100.0% 
+
+100.0% 
+
+129,635,000  132,884,000 
+
+total 
+source: hhs analysis of the 2010 and 2014 meps. 
+notes: all estimates rounded to thousands to account for impression of estimates.  insurance category is assigned by 
+an ever-on hierarchy based on coverage in any month. individuals with employer-sponsored coverage in any month, 
+for example, were assigned to that category, even if they had months of enrollment in medicaid/chip, individual 
+market coverage, or other public coverage, or were ever uninsured. because people move across sources of coverage 
+in a year, more individuals may have had medicaid/chip, individual market coverage, or other public coverage than 
+shown. individual market coverage for 2014 includes both marketplace and off-marketplace coverage. individuals 
+categorized as uninsured were without coverage in any survey month. 
+ 
+methodological refinements to 2011 analysis: 
+ 
+the current analysis includes several methodological improvements relative to our 2011 analysis 
+that improve the precision of our estimates. first, we identified a subset of individuals who had  
+a condition meeting our narrower definition of a pre-existing condition, but who were incorrectly 
+excluded from our estimates due to an error in coding. as a result of this correction, 1,237 
+unweighted sample observations are newly classified as having a pre-existing condition under 
+our narrower definition. when weighted these records correspond to approximately 13.4 million 
+individuals. 
+ 
+second, we adjusted the variable we used to define the age of individuals in the meps data, 
+from age53x to age08x, to better capture the age of panel members during the year in which 
+the data was collected. this change adds an additional 13 unweighted sample observations to the 
+non-elderly population, which is eligible for both our first and second measures. when weighted, 
+these observations represent nearly 200,000 additional eligible individuals.  
+ 
+third, our current analysis uses full 5 digit icd-9 codes to specify conditions included in our 
+two measures, provides additional precision to our estimates. these codes are not included in the 
+publicly available data file, which provides only 3 digit icd-9 codes. this change reduces the 
+number of unweighted sample observations included in the lower-bound measure by 230, 
+representing nearly 2.4 million individuals, and 117 in the upper-bound measure, representing 
+just over 1.1 million individuals.  
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 5, 2017 
+
+aspe issue brief 
+
+ 
+
+page 16 
+
+appendix table 6 provides revised 2008 estimates of individuals with pre-existing conditions by 
+age and appendix table 7 provides revised 2008 estimates by insurance status corresponding to 
+those provided in the 2011 aspe brief on this subject.  
+ 
+appendix table 6: pre-existing conditions by age, based on meps 2008 
+
+age 
+
+total 
+
+category 
+
+population 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition 
+
+of pre-
+existing 
+
+narrow 
+
+definition of 
+pre-existing 
+conditions 
+
+broad 
+
+definition of 
+pre-existing 
+conditions 
+
+73,677,000 
+28,501,000 
+40,334,000 
+40,947,000 
+41,512,000 
+33,383,000 
+258,353,000 
+
+conditions 
+17,123,000 
+4,623,000 
+9,715,000 
+4,263,000 
+18,089,000 
+7,486,000 
+23,948,000 
+10,939,000 
+30,301,000 
+15,862,000 
+28,609,000 
+17,516,000 
+60,689,000  127,785,000 
+
+<18 
+18-24 
+25-35 
+35-44 
+45-54 
+55-64 
+total 
+source: hhs analysis of the 2008 meps. 
+note: all estimates rounded to thousands to account for impression of estimates. 
+ 
+appendix table 7: pre-existing conditions by insurance status, based on meps 2008 
+
+6% 
+15% 
+19% 
+27% 
+38% 
+52% 
+23% 
+
+23% 
+34% 
+45% 
+58% 
+73% 
+86% 
+49% 
+
+insurance 
+category 
+
+total 
+
+population 
+
+narrow 
+
+definition  
+of pre-ex 
+conditions 
+
+broad  
+
+narrow 
+
+broad 
+
+definition  
+of pre-ex 
+conditions 
+
+definition  
+of pre-ex 
+conditions 
+
+definition  
+of pre-ex 
+conditions 
+
+53% 
+
+25% 
+
+21% 
+
+37,059,000 
+
+7,787,000 
+
+15,027,000 
+
+89,536,000 
+
+169,467,000 
+
+42,213,000 
+
+7,010,000 
+4,135,000 
+40,681,000 
+258,353,000 
+
+employment-
+based 
+medicaid/ 
+chip 
+non-group 
+other public 
+uninsured 
+total 
+source: hhs analysis of the 2008 meps. 
+notes: all estimates rounded to thousands to account for impression of estimates.  insurance category is assigned by 
+an ever-on hierarchy based on coverage in any month. individuals with employer-sponsored coverage in any month, 
+for example, were assigned to that category, even if they had months of enrollment in medicaid/chip, individual 
+market coverage, or other public coverage, or were ever uninsured. because people move across sources of coverage 
+in a year, more individuals may have had medicaid/chip, individual market coverage, or other public coverage than 
+shown. individuals categorized as uninsured were without coverage in any survey month. 
+  
+ 
+
+3,060,000 
+2,123,000 
+18,038,000 
+127,785,000 
+
+1,327,000 
+1,149,000 
+8,213,000 
+60,689,000 
+
+19% 
+28% 
+20% 
+23% 
+
+41% 
+
+44% 
+51% 
+44% 
+49% 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 5, 2017 
+
+

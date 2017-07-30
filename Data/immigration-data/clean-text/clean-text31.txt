@@ -1,0 +1,2025 @@
+how robust refugee protection 
+policies can strengthen human 
+and national security
+
+donald kerwin
+center for migration studies
+
+executive summary
+this paper makes the case that refugee protection and national security 
+should be viewed as complementary, not conflicting state goals. it argues 
+that refugee protection can further the security of refugees, affected states, 
+and  the  international  community.  refugees  and  international  migrants 
+can also advance national security by contributing to a states economic 
+vitality,  military  strength,  diplomatic  standing,  and  civic  values.  the 
+paper  identifies  several  strategies  that  would,  if  implemented,  promote 
+both security and refugee protection. it also outlines additional steps that 
+the us congress should take to enhance us refugee protection policies and 
+security. finally, it argues for the efficacy of political engagement in support 
+of pro-protection, pro-security policies, and against the assumption that 
+political populism will invariably impede support for refugee protection.
+
+i. introduction
+from its genesis in the debates of medieval canon lawyers, the concept of subjective human 
+rights, including the right to self-preservation, has been premised on the idea of the moral 
+equality of persons buttressed by a zone of human autonomy that permits the free exercise 
+of rights (siedentrop 2014, 245-46; tierney 1997, 83-89). these intuitions ultimately gave 
+rise, following the great upheaval of world war ii, to a series of seminal human rights 
+instruments that vested in states, individually and collectively, the core responsibility to 
+defend human dignity, rights, and security. 
+refugees and other forcibly displaced persons have fled violence, persecution and other 
+untenable situations.1 the overwhelming majority seeks a level of protection and security 
+
+1   a refugee is a person who owing to a well-founded fear of being persecuted for reasons of race, religion, 
+nationality, membership of a particular social group or political opinion, is outside the country of his or her 
+nationality, and is unable to, or owing to such fear, is unwilling to avail himself of the protection of that 
+country. convention relating to the status of refugees (geneva, 28 july 1951) 189 u.n.t.s. 137, entered 
+into force 22 april 1954 [the refugee convention]; protocol relating to the status of refugees (new york, 
+31 jan. 1967) 606 u.n.t.s. 267, entered into force 4 oct. 1967  [the refugee protocol]. the term forcibly 
+displaced refers to refugees, asylum seekers (seeking refugee status in host states), and internally displaced 
+persons (idps) (unhcr 2015a). as used in this paper, the term refugee protection denotes more than the 
+rights afforded refugees under the refugee convention and protocol: it refers to the range of policies and 
+programs to prevent and respond to forcible displacement. 
+
+ 2016 by the center for migration studies of new york. all rights reserved.jmhs volume 4 number 3 (2016): 83-140to which they are legally entitled. at the same time, large-scale refugee and migrant streams 
+include persons with a mix of motives (some dangerous) and aspirations (some illiberal). 
+states have a responsibility to prevent terrorist incursions and attacks: they exist, in part, 
+to protect the lives and rights of their residents. however, they also have a responsibility 
+to protect members of other states who are fleeing persecution and violence. in public 
+and political discourse, refugees are often treated as a threat to national security and, in 
+particular, as a source and conduit for terrorism. however, robust refugee protection policies 
+do not cause and need not exacerbate the threat of terrorism. in fact, they can diminish it.
+this paper addresses the intersection of refugee protection and national security, which 
+should  be  conceived  of  as  complementary,  not  competing,  imperatives.  it  makes  the 
+case that: (1) refugee protection can advance both human and state security; (2) refugees 
+and forcibly displaced persons can contribute to a states vitality, economic well-being, 
+diversity, core values, and military strength; and (3) refugee protection and national security 
+strategies largely align. 
+refugee protection and national security respond to the aspiration for human security, albeit 
+from different perspectives and with different emphases. national security underscores the 
+responsibility of states to protect the lives and safeguard the rights of their residents, while 
+refugee protection speaks to the responsibility of states  individually and collectively  
+to defend the rights of persons who are at risk of persecution, either by their own states or 
+by groups that their states cannot or will not control. national security also encompasses 
+the protection of a states economic vitality and fundamental values, including those values 
+reflected in its commitments under domestic and international law.  
+a substantial body of literature has examined the nexus between international migration 
+and terrorism (adamson 2006; leiken and brooks 2006; kerwin and stock 2007; martin 
+2009; ginsburg 2006; and 2010), but there has been less scholarship on the relationships 
+between refugee protection and national security (koser and cunningham 2015; schmid 
+2016). that said, these two bodies of literature overlap, as do the lines between refugees 
+and international migrants,2 and between national security and counterterrorism.3 
+this  paper  builds  on  the  paradigm  described  by  susan  ginsburg  as  securing  human 
+mobility (ginsburg 2010), which speaks to the need for refugee- and migration-related 
+security  measures  that  go  beyond  default  border  control  and  immigration  enforcement 
+strategies. this framework recognizes the need to replace large-scale irregular flight with 
+orderly,  legal  migration;  to  secure  migration  channels  and  infrastructure;  to  safeguard 
+migrants in transit; to maximize the benefits of migration to all stakeholders in this process; 
+and to foil terrorists, traffickers, and members of organized criminal groups.
+after  this  introduction,  the  paper  begins  by  describing,  in  section  ii,  the  causes  and 
+
+2  international migration refers to the movement of persons across national borders. the united nations 
+(un) defines an international migrant as a person living outside his or her country of birth (un desa 
+2016, 4). in 2015, there were roughly 244 million international migrants (ibid.).
+3   the us national security agenda identifies a range of priorities under the categories of security, prosperity, 
+values and international order (white house 2015b). combating the threat of terrorism constitutes one of 
+eight priorities under the security rubric. 
+
+84
+
+journal on migration and human securitycatastrophic dimensions of the global refugee crisis.4 its third section outlines two of the 
+papers main themes; i.e., that refugee protection can further the security of refugees, affected 
+states, and the international community, and that refugees and international migrants can 
+advance national security by contributing to a states economic vitality, military strength, 
+diplomatic standing, and civic values. 
+section iv examines the scope of the global terrorist threat, and the potential nexus between 
+refugees, migrants, and terrorists. it concludes that terrorist violence leads to refugee flows 
+and that robust screening can substantially diminish the risk of entry by terrorists posing 
+as refugees. 
+section v evaluates us migration-related security strategies following the september 11, 
+2011 attacks. this section describes the need for effective intelligence collection, information 
+sharing, identity assurance, and strategies that promote national unity. it compares the us 
+response to muslim americans and immigrants following the 9/11 attacks, with proposals 
+to suspend the admission of muslims and kill the families of terrorists. it also describes 
+failed and misguided us security strategies and its overemphasis on us-mexico border 
+security.
+section vi describes the rigorous vetting and screening built into the us refugee resettlement 
+system, and contrasts the us system with europes patchwork of migration-related security 
+measures, which has exacerbated the vulnerability of european states to terrorist attacks. 
+section  vii  offers  three  sets  of  policy  recommendations.  the  first  set  starts  from  the 
+premise that security and refugee protection reflect a common aspiration for human safety 
+and well-being and that the primary refugee protection strategies promote national security, 
+including strategies:
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+to  address  refugee  producing  conditions  through  conflict  prevention,  mediation, 
+and resolution; 
+to strengthen the rule of law in refugee sending communities;
+to provide development and humanitarian assistance to the communities that host 
+the vast majority of the worlds refugees and forcibly displaced persons; 
+to create conditions that permit the safe and voluntary return of refugees; and 
+to screen refugees and migrants seeking entry to potential host countries. 
+
+the second set of recommendations outlines steps that the us congress should take to 
+enhance national security and refugee protection. these speak to improved congressional 
+oversight  and  governance  of  the  us  department  of  homeland  security  (dhs),  the 
+establishment  of  a  us  coordinator  for  refugee  affairs,  measures  to  prevent  bona  fide 
+terrorists from purchasing firearms and explosives, and the need to depoliticize the us 
+refugee resettlement program. the third argues for the efficacy of political engagement in 
+support of pro-protection, pro-security policies. 
+
+4   the paper uses the term refugee crisis to describe the international communitys failure to anticipate 
+and respond effectively to refugee-producing conditions, the failure of responsibility sharing in meeting the 
+needs and fostering the talents of refugees, and the massive human crisis that has resulted from these twin 
+failures. 
+
+85
+
+refugee protection policies and national securityii. the global refugee crisis: causes, consequences, and 
+response 
+at  65.3  million,  the  worlds  forcibly  displaced  population  roughly  equals  in  size  the 
+number of persons uprooted by world war ii and its aftermath (unhcr 2016; proudfoot 
+1956).  moreover,  the  tenacity  of  the  worlds  refugee-producing  situations,  the  lack  of 
+progress in developing viable and permanent solutions for protracted refugees,5 and the 
+regular emergence of new refugee-producing situations mean that this crisis will continue 
+to intensify, absent a coordinated and generous global response (nordland 2015).
+
+as these situations reveal, if states do not successfully address 
+
+the causes of refugee flows, they will invariably face the 
+herculean task of responding to their human consequences
+
+the  worlds  spiraling  refugee-producing  crises  reflect  the  failure  of  states  to  forego, 
+prevent, and stem armed conflict, civil war, terrorism, and breakdowns in the rule of law 
+(unhcr  2015a,  5).  refugee-producing  conflicts  have  regularly  erupted  or  reignited 
+and long-term crises drag on with no solutions in sight.6 in october 2015, former united 
+nations high commissioner for refugees antnio guterres spoke of the worlds shrinking 
+humanitarian space, resulting from the interlinked mega-crises in syria and iraq and the 
+displacement within the preceding year of 1.1 million yemenis, 500,000 south sudanese, 
+190,000 burundians, and tens of thousands of bangladeshis, stateless ethnic rohingya, 
+central america children, and refugees from the central african republic (car), nigeria, 
+ukraine,  and  the  democratic  republic  of  congo  (drc)  (unhcr  2015d).    in august 
+2016,  the  office  of  the  united  nations  high  commissioner  for  refugees  (unhcr) 
+reported that 1.6 million south sudanese were internally displaced and 930,000 had fled to 
+the surrounding nations of uganda, sudan, drc, car, ethiopia, and kenya, with more 
+arriving daily (un news centre 2016). un officials lament a vast arc of crisis which 
+extends from southwest asia through the middle east to the horn of africa and the lake 
+chad basin.7 as these situations reveal, if states do not successfully address the causes 
+of refugee flows, they will invariably face the herculean task of responding to their human 
+consequences. 
+the global refugee crisis can also be attributed, in part, to the finely honed strategies of 
+developed states to deny access to protection through border externalization,8 immigration 
+5   unhcr defines protracted refugees as those who have been displaced for five years or more and have no 
+immediate prospects for durable solutions.
+6   the causes and consequences of violent extremism and the role of foreign assistance: hearing before 
+the  senate  appropriations  subcommittee  on  state,  foreign  operations,  and  related  programs,  114th 
+cong. (2015) (written testimony of kelly t. clements, deputy high commissioner, united nations high 
+commissioner 
+for  refugees),  http://www.appropriations.senate.gov/imo/media/doc/041216%20-%20
+clements%20-%20unhcr%20-%20testimony.pdf.
+7   the causes and consequences of violent extremism and the role of foreign assistance: hearing before 
+the  senate  appropriations  subcommittee  on  state,  foreign  operations,  and  related  programs,  114th 
+cong. (2015) (written testimony of kelly t. clements, deputy high commissioner, united nations high 
+commissioner 
+for  refugees),  http://www.appropriations.senate.gov/imo/media/doc/041216%20-%20
+clements%20-%20unhcr%20-%20testimony.pdf.
+8   border externalization refers to a range of developed state policies and practices that prevent refugees 
+
+86
+
+journal on migration and human securityenforcement,  onerous  procedures,  and  pinched  interpretations  that  violate  the  spirit, 
+intent and, often, the letter of international law (schoenholtz 2015, 86-90; hathaway and 
+gammeltoft-hansen 2014).9 border externalization strategies place the onus of refugee 
+protection on less developed states in proximity to crises (unga 2016  112). they also 
+force refugees to take perilous journeys, contribute to a public conception of refugees as a 
+threat and burden, and bolster human trafficking syndicates (unhcr 2015c). 
+one-half  of  the  worlds  refugees  are  children  (unhcr  2016,  8),  and  their  treatment 
+can  be  particularly  callous.  since  2014,  for  example,  mexicos  immigration  agency, 
+instituto nacional de migracin, has intercepted tens of thousands of central american 
+unaccompanied children and families with young children who are fleeing some of the 
+worlds most violent communities.10 however, it has failed to inform most of those children 
+of  their  right  to  seek  recognition  as  refugees,  to  screen  or  question  them  for  potential 
+refugee claims, or to offer them legal assistance (hrw 39-56, 71-73). it has also detained, 
+deterred and effectively prevented many children from pursuing refugee claims in violation 
+of mexican and international law (ibid., 57-64). 
+the united states has underwritten mexicos interception and detention program, while 
+doing little to ensure screening and protection for those fleeing from violence and persecution 
+in central america and elsewhere. the united states has also built and populated its own 
+vast family detention centers (usccb/mrs and cms 2015, 164). 
+the global refugee crisis can also be blamed on public indifference and insufficient state 
+responsibility  sharing  in  the  form  of  traditional  durable  solutions  and  legal  migration 
+opportunities for refugees (unhcr 2015d).11 like other human rights conventions, the 
+refugee convention does not set forth a precise balance of responsibility between states 
+or offer a blueprint for every contingency, but it recognizes refugee protection as a shared 
+responsibility that should be addressed in a spirit of generosity and cooperation (goodwin-
+gill 2003, 25).  
+the preamble to the 1951 refugee convention acknowledges that because asylum may 
+place unduly heavy burdens on certain countries, a satisfactory solution to refugees 
+cannot be achieved without international co-operation.12 former united nations high 
+commissioner for refugees antonio guterres argued that nations that host large numbers 
+of  refugees    thus  producing  a  global  public  good    deserve  particular  focus  for 
+humanitarian, equitable, and security reasons:  
+
+many of these states are crucial pillars of peace and stability in their regions, and 
+with conflicts and terrorism threatening to spill across borders, they de facto form 
+the first line of defense for our collective security. 
+
+(unhcr 2015d)
+
+and other forcibly displaced persons from reaching territory where they might secure protection.
+9   the 1951 refugee convention and 1967 protocol.
+10   between fy 2013 and fy 2015, mexico detained 67,600 children, including 35,000 in fy 2015 (hrw 
+2016, 86).
+11   the refugee act of 1980, pub. l. no. 96-212, 94 stat. 102 (1980), established usrap as part of a 
+broader response that would include humanitarian assistance  in asylum areas and opportunities for 
+resettlement or voluntary repatriation.
+12   the 1951 refugee convention. 
+
+87
+
+refugee protection policies and national securityyet the worlds response to the communities that host large-scale refugee populations and 
+that bear the burden for multiple humanitarian crises has been dismal. only 35 percent 
+of the needs of un programs in africa, for example, have been met,13 and unhcr has 
+received only 20 percent of the funding needed for the south sudanese refugee crisis (un 
+news centre 2016).
+the  refugee  act  of  1980,  which  established  the  us  refugee  admissions  program 
+(usrap),  locates  resettlement  within  a  broader  protection  response  that  includes 
+humanitarian assistance and voluntary repatriation.14 in fact, most refugees want to 
+return home and there is a growing consensus among states that repatriation constitutes the 
+only feasible solution for the vast majority of refugees (long 2013  21, 197). however, 
+the  international  community  has  failed  to  devote  the  level  of  resources  or  systematic 
+engagement  necessary  to  prevent  refugee-producing  conflicts,  to  mediate  disputes,  to 
+engage difficult peace processes, or to create the conditions that would permit the safe 
+return of refugees and other forcibly displaced persons. as a result, only 126,800 refugees 
+were voluntarily repatriated in 2014, the smallest number in 30 years (unhcr 2015a, 8)15 
+and 201,400 in 2015 (unhcr 2016), the third lowest number in 20 years (ibid., 25).16 
+these figures call into question safe, voluntary repatriation as a continued pillar of the 
+global refugee protection system. 
+moreover, repatriation and other durable solutions are less likely for the growing numbers 
+of persons that have been displaced for extended periods (unga 2016  17; wef 2016, 
+15). by the end of 2015, 6.7 million refugees lived in protracted situations; that is, they 
+had been displaced for at least five years and had no immediate prospects of repatriation, 
+incorporation into host communities, or third-country resettlement (unhcr 2016, 8).17 
+the  average  protracted  refugee  situation  has  lasted  26  years  (ibid.,  20).  some  refugee 
+camps and urban settings are now home to a third generation of displaced persons (unga 
+2016  2), including the 1.6 million afghani refugees in pakistan.18 
+although  less  than  1  percent  of  refugees  are  ultimately  resettled  in  third-countries 
+(dos 2015a), this option complements other durable solutions like safe repatriation and 
+integration into host communities. unhcr conservatively projected that 960,000 refugees 
+would need to be resettled in 2015 (unhcr 2014a, 9), but it referred only 134,000 cases 
+for resettlement and only 107,100 refugees departed to a third-country, with 90 percent 
+resettled in the united states, canada, and australia (unhcr 2016, 26). 
+for  some  refugees,  third-country  resettlement  constitutes  their  only  viable  option.  us 
+
+13    the  causes  and  consequences  of  violent  extremism  and  the  role  of  foreign  assistance:  hearing 
+before  the  senate  appropriations  subcommittee  on  state,  foreign  operations,  and  related  programs, 
+114th cong. (2015) (written testimony of kelly t. clements, deputy high commissioner, united nations 
+high commissioner for refugees), http://www.appropriations.senate.gov/imo/media/doc/041216%20-%20
+clements%20-%20unhcr%20-%20testimony.pdf.
+14   refugee act of 1980, pub. l. no. 96-212, 94 stat. 102 (1980),  101 (a).
+15   the drc and mali received most of the repatriated refugees in 2014.
+16   in 2015, 83 percent of voluntarily repatriated refugees returned to afghanistan, sudan, somali, car, and 
+cte divoire (unhcr 2016, 8).
+17   eighty percent of idps have been displaced for more than five years (unhcr 2015c).
+18   according to un officials, an additional 380,000 afghanis were newly displaced in 2015 (pitterman 
+2016). 
+
+88
+
+journal on migration and human securityrefugee  resettlement  priority  cases  fit  within  this  category.  former  dhs  secretaries 
+janet napolitano and michael chertoff describe the refugees eligible for resettlement in 
+the united states as the most vulnerable  particularly survivors of violence and torture, 
+those with severe medical conditions, and women and children.19 this population also 
+includes persons at risk because they worked with americans and us institutions in iraq 
+and afghanistan.20 
+the failure of states to protect can be seen starkly in the syrian civil war and the humanitarian 
+disaster that has emanated from it. now in its sixth year, the war has claimed an estimated 
+400,000 lives, and includes a dizzying array of participants, including global and regional 
+powers, the assad regime, the islamic state of iraq and the levant (isil), the al-nusra 
+front (which primarily seeks an islamic state in syria), and a large number of brigades and 
+gangs that vie for control over small areas.
+an estimated 13.5 million persons in syria need humanitarian aid, 6.5 million are internally 
+displaced, and 4.5 million live in besieged or hard-to-reach regions (european commission 
+2016). the syrian crisis has convulsed the middle east, exhausted the resources of syrias 
+neighbors, shaken the foundations of the european union (eu), led to thousands of migrant 
+deaths, 21 and become a global catastrophe. by august 2016, 4.81 million syrians had been 
+registered as refugees or were awaiting registration in turkey (2.72 million), lebanon (1.03 
+million), jordan (656,198), iraq (249,395), and egypt (114,911), with smaller numbers in 
+north africa (3rp 2016).22 these five nations have a combined gdp of $1.4 trillion, or 
+$1.1 trillion (if egypt is excluded).23 their combined population is roughly 220 million or 
+128.5 million, excluding egypt (un desa 2015, 14-17).24 in comparison, the us gdp is 
+$17.4 trillion (world bank 2015), and its population is 321.8 million (un desa 2015, 17).
+the international community has a strong interest in an effective, coordinated response 
+to the syrian refugee crisis, but state contributions to international institutions and direct 
+support have been decidedly unequal to the need. by the end of january 2016, the united 
+nations had received only 61 percent of its $4.3 billion humanitarian appeal for syrian 
+19   letter from janet napolitano and michael chertoff, former dhs secretaries, to president barack obama 
+(nov.  19,  2015),  https://www.whitehouse.gov/blog/2015/11/19/two-former-homeland-security-secretaries-
+wrote-president-obama-safely-welcoming. 
+20   admitting syrian refugees: the intelligence void and the escalating homeland security threat: before 
+the house committee on homeland security, subcommittee on counterterrorism and intelligences, 114th 
+cong. (2014) (testimony of daveed gartenstein-ross, senior fellow, foundation for defense of democracies 
+chief  executive  officer,  valens  global),  http://www.defenddemocracy.org/content/uploads/documents/
+gartenstein_ross_admitting_syrian_refugees.pdf. 
+21    the  international  organization  for  migration  (iom)  reports  that  5,600  migrants  perished  in  2015, 
+including 3,765 in the mediterranean (iom 2016). iom records only deaths reported by the united nations, 
+state, media and non-government organizations (ngos). these figures significantly understate actual migrant 
+deaths. during the first eight months of 2016, the pace of migrant deaths increased compared to the same 
+period in 2015, with a higher concentration of deaths in the mediterranean. 
+22   since the beginning of the october 2015 military offensive by the syrian arab army, 137,802 have been 
+displaced from aleppo, idleb, hama, and homs (echo 2016).  
+23   the gdps of the states hosting the overwhelming majority of syrian refugees are, respectively, turkey 
+($800 billion), egypt ($287 billion), iraq ($221 billion), lebanon ($46 billion), and jordan ($36 billion) 
+(world bank 2015). 
+24   the populations of the states hosting the most syrian refugees are turkey (78.7 million), lebanon (5.8 
+million), jordan (7.6 million), iraq (36.4 million) and egypt (91.5 million) (un desa 2015, 14-17).
+
+89
+
+refugee protection policies and national securityrefugees  for  2015.25  funding  shortfalls,  in  turn,  have  contributed  to  crises  in  refugee 
+housing, health care, food, water, sanitation, education, and reception. the high rate of 
+syrian refugee girls forced into marriages starkly reflects the level of desperation among 
+refugees (save the children 2014, 3-5; unicef 2014, 27). the girls parents often view 
+marriage as the only way available to support their families, protect their daughters, or 
+otherwise escape their predicament (ibid.). 
+condemned to marginal, insecure, and provisional lives in host states, hundreds of thousands 
+of syrians and other refugees have embarked on perilous journeys to europe (mahecic 
+2016; grant 2015), overwhelming the screening capacity of greece and italy. the resulting 
+crisis has undermined support for the schengen agreements passport-free movement of 
+residents within participating eu states, and eroded confidence in the ability of eu states 
+to work in solidarity to address common challenges. drastic cuts in food aid to refugees 
+by the underfunded un world food programme, the prospect of asylum in europe, and 
+diminishing  hopes  that  the assad  regime  will  be  replaced  have  also  contributed  to  the 
+onward migration of syrians from neighboring states (schmid 2016, 47).
+as a result of these and other developments, the number of first-time asylum applicants 
+in the eu-28 reached 1.26 million in 2015, with 29 percent from syria (eurostat 2016).26 
+germany  alone  registered  1.1  million  first-time  asylum-seekers  in  2015  (pandy  2016), 
+more than one-third from syria. overall, between april 2011 and march 2016, more than 
+one million syrian asylum applications were filed in european nations (3rp 2016). 
+in a slightly shorter time period between 2012 and 2015, the united states granted asylum 
+to 242 syrians in immigration court and to an unreported (but modest) number of syrians 
+who  made  affirmative  asylum  claims  to  us  citizenship  and  immigration  services 
+(uscis)  (doj  2016).  the  united  states  has  also  extended  temporary  protected  status 
+(tps) to roughly 5,800 syrians and an additional 2,500 may be able to apply under the 
+most recent tps redesignation (dinan 2016). tps confers a reprieve from removal and 
+work authorization for designated nationals who arrived before a designated date (bergeron 
+2014, 25), in this case march 29, 2012.27 subsequently, dhs has redesignated syria for 
+tps three times, most recently on august 1, 2016 (uscis 2016). unlike an extension 
+of tps, a redesignation covers nationals of designated states who arrive after the earlier 
+designation and redesignation dates (kerwin 2014, 57). 
+
+25   between fy 2012 and fy 2015, the united states contributed $4.53 billion in humanitarian funding for 
+syrians, including $2.1 billion from the us department of states (doss) bureau of population, refugees 
+and migration (prm), $1.6 billion from us agency for international development (usaid), office of food 
+for peace, and $866 million through the usaid office of foreign disaster assistance (usaid 2015). it 
+committed to contribute an additional $600 million in aid at the february 4, 2016 london donors conference 
+(echo 2016). the eu and its member states have contributed 5 billion for relief and humanitarian aid in 
+syria, lebanon, jordan, iraq, turkey and egypt, and pledged an additional 3 billion at the donors conference 
+in london (ibid.).
+26   in stark contrast, the gulf cooperation council states  qatar, united arab emirates, saudi arabia, 
+kuwait, bahrain, and oman  failed to resettle any syrian refugees between the wars onset and late 2015 
+(amnesty 2015). 
+27   because it does not lead to lawful permanent resident status and typically extends well beyond the initial 
+designation period, tps has been criticized for locking beneficiaries into a legal limbo that does not lead 
+to permanent protection or integration (bergeron 2014, 29).
+
+90
+
+journal on migration and human securitywhile  the  united  states  has  accepted  roughly  70  percent  of  all  unhcr-submitted 
+refugees for resettlement in recent years (unhcr 2014a, 61; unhcr 2015b, 53), from 
+the beginning of fy 2012 through september 6, 2016, the united states admitted 12,910 
+syrians for resettlement,28 which is roughly one-fourth of 1 percent of syrian refugees. its 
+admission of 11,056 syrian refugees in slightly more than eleven months of fy 2016,29 
+exceeds its fy 2016 goal of 10,000 syrian admissions (dos, dhs, and hhs 2015, iv).  
+
+iii. refugee protection: a potential source of security 
+security-related  fears  do  not  constitute  the  only  barrier  to  generous  refugee  policies. 
+concerns over social cohesion, social order, native employment and economic prospects 
+also underlie anti-refugee sentiment. large-scale refugee admissions have never enjoyed 
+high levels of public support in the united states (desilver 2015). yet in recent years 
+refugee-related terrorism concerns have been particularly tenacious in the united states, 
+europe, kenya, and elsewhere, contributing to the backlash against refugees and the uneven 
+and parsimonious response to the global refugee crisis. 
+
+refugee protection and legal migration policies can also 
+further the rule-of-law by minimizing irregular migration, 
+curbing the use of human smugglers, limiting the risk of 
+trafficking, and making life more difficult for terrorists who
+
+depend upon and often profit from smuggling networks
+
+refugee protection and national security are inextricably linked needs. both reflect a desire 
+for safety and security. however, they approach this aspiration from different perspectives 
+and have different emphases. refugee protection arises from an ethic of solidarity rooted 
+in a belief in human dignity and equality. it reflects the enlightened self-interest of states in 
+a stable and moral world, one in which peace and respect for human rights are pervasive 
+and firmly rooted (helton 2002, 120). 
+in its thick sense, national security refers to more than national defense and homeland 
+security.  it  speaks  to  the  protection  of  a  people,  territory  and  way  of  life  (jordan  et 
+al.  2009,  3-4).  it  is  not  an  end  in  itself,  but  a  means  to  preserve  a  nations  values, 
+principles, and way of life (dhs 2010, v). it underscores a states responsibility to defend 
+its members from foreign domination and to safeguard their rights at home and abroad, 
+and also to uphold the rights of imperiled noncitizens at its borders, in transit through its 
+territory, and (in extreme circumstances like genocide) in their states of origin.
+states often use the language of security, crisis, and risk to justify harsh policy responses to 
+refugees and other forcibly displaced persons. yet this language also points to the potential 
+complementarity between security and refugee protection. conflict and terrorism create 
+insecurity for their victims, for targeted and neighboring states, and for the international 
+community. as a result, they require both security and protection responses. 
+28   us department of state bureau of population, refugees, and migration (dos/prm), office of admissions 
+ refugee processing center, summary of refugee admissions from 1-oct-2011 to 6-september-2016 (on 
+file with author).
+29   ibid. 
+
+91
+
+refugee protection policies and national securitya  survey  of  750  experts  and  decision-makers  from  the  world  economic  forums 
+(wefs) multistakeholder communities identified large-scale involuntary migration 
+as  the  most  likely  global  risk  and  one  strongly  interconnected  with  other  risks  that 
+are considered highly worrisome in the longer term, including state collapse, interstate 
+conflict, climate change, and water crises (wef 2016, 6, 15).30 the survey identified the 
+international refugee crisis as one of three risks that could give rise to cascading risks 
+(ibid., 7). to address this crisis, the wefs report argued for a comprehensive response 
+to interstate conflict and terrorist violence, as well as to the human insecurity caused by 
+protracted refugee situations, ineffective integration, and inadequate global humanitarian 
+architecture. (ibid., 15-16). in other words, its diagnosis (crisis and risk) led it to identify 
+security and protection as complementary needs. 
+michael chertoff holds a similar position on the need for integrated refugee protection and 
+security strategies. in a june 2016 interview, he said:
+
+[t]he sheer number of people moving not only puts those people themselves at 
+risk in terms of their own security, but can cause a real dislocation in society  
+you also dont want to have a situation where people are just stagnating in camps 
+year in and year out because youre creating essentially a hospitable environment 
+for people to recruit extremists and criminals. so i think youve got to look at the 
+system end-to-end. part of that means dealing with countries that are failed states 
+ where you do have war and you do have flight, you need to have a robust system 
+for housing people, continuing to educate them, and processing them in a secure 
+but reasonable timeframe. and frankly its enough of a global issue that it warrants 
+the whole global community kicking in money to make sure that could be operated 
+in an efficient way. and finally when people do qualify for asylum and are moved 
+into host countries, there has to be a process in place to integrate them, get them 
+educated, make sure they can find work so they become productive members of 
+society and not simply embittered clusters of people who are marginalized.31 
+
+rather than a threat, robust refugee protection and migration policies can positively influence 
+three core areas of state power: economic, military and diplomatic (adamson 2006, 185). 
+they can advance a states economic interests because in a globalized, interconnected world 
+no nation can prosper, or even achieve modest economic success, without ready contact 
+with the rest of the world (martin 2009, 4). in addition, they can help to meet labor needs 
+(chamie 2013), improve the productivity and prospects of millions (clemens, montenegro, 
+and pritchett 2008), and contribute to the development of source and destination nations  
+(unga 2013). refugee protection and legal migration policies can also further the rule-of-
+law by minimizing irregular migration, curbing the use of human smugglers, limiting the 
+risk of trafficking, and making life more difficult for terrorists who depend upon and often 
+profit from smuggling networks (ginsburg 2010, 58-65; schmid 2016, 27-29). 
+refugees have historically made important economic, scientific, diplomatic, cultural, and 
+ethical  contributions  to  their  new  states.  prominent  us  refugees  have  included albert 
+30   it defined global risk as an uncertain event or condition that, if it occurs, can cause significant negative 
+impact for several countries or industries within the next 10 years (wef 2016, 6). 
+31    cms  interview  with  michael  chertoff,  former  dhs  secretary  and assistant attorney  general,  doj 
+criminal division (june 9, 2016), http://cmsny.org/podcast-secretary-michael-chertoff/. 
+
+92
+
+journal on migration and human securityeinstein, enrico fermi, elie weisel, madeleine albright, andrew grove, and sergey brin. 
+the council on foreign relations independent task force on us immigration policy 
+cautioned that to keep out talented immigrants or significantly disrupt legitimate cross-
+border  traffic  or  commerce  would  weaken  the  long-term  foundations  of  americas 
+economy and military strength, and consequently its security (cfr 2009, 21). noncitizens 
+also serve in substantial and growing numbers in the us armed forces to which they bring 
+lower attrition rates than citizens, a track record of superior performance and linguistic 
+and cultural diversity that supports us counterterror objectives (hattiangadi et al. 2005, 
+24, 55-67, 83, 87). 
+the  un  2030  sustainable  development  goals  (sdg),  adopted  in  september  2015, 
+recognized the importance of migration as a potential instrument of human and economic 
+development by setting development targets related to the protection of labor rights, orderly 
+and safe migration, and reduced remittance fees (unga 2015). the sdg migration-related 
+targets speak to the need to channel what often begin as poorly managed, irregular refugee 
+and migrant flows into legal migration and refugee protection systems that maximize the 
+development potential of refugees, migrants, and source and destination communities.
+from a foreign policy perspective, refugee protection can help states prevail in the battle 
+of ideas, in a contest for the support and even the affection of the worlds population 
+(martin 2009, 4). it can allow states to distinguish themselves from geopolitical rivals and 
+to appeal to global public opinion.32 the us refugee program, for example, seeks to further 
+the historic policy of the united states to respond to the urgent needs of persons subject to 
+persecution in their homelands.33 it has also supported specific foreign policy objectives 
+like protection of soviet jews and other religious minorities, while responding to domestic 
+constituencies. resettlement can also promote the stability of allied states that host large 
+refugee populations and, as illustrated by the 1989 comprehensive plan of action (cpa) 
+concerning indochinese refugees, can preserve the availability of protection in nations of 
+first asylum.34 
+in the united states, refugees serve as a continuous, living reminder of the nations core 
+values, including its commitment to religious liberty. and, as the obama administration has 
+recognized, us success in promoting its security and values abroad turns on its adherence 
+to its values at home (white house 2015b, 19). 
+national  security  has  traditionally  been  defined  by  state  interests  or  collective  identity 
+which,  in  the  post-westphalian  era,  has  been  based  on  nationalism  (adamson  2006, 
+
+32   for an extended discussion of why national security concerns demand an appeal to global public opinion, 
+see pistone and hoeffner (2011, 637-58, 674-76).
+33   refugee act of 1980, pub. l. no. 96-212, 94 stat. 102 (1980),  101 (a).
+34   after  the  vietnam  war,  the  united  states  became  the  principal  architect  of  the  entire  resettlement 
+system (suhrke 1998, 406, 413). its response offers a framework for a comprehensive, integrated response 
+to large-scale refugee crises. together, the 1979 geneva conference which established the orderly departure 
+program (odp) and the second geneva conference of june 1989 which adopted the comprehensive plan 
+of action (cpa) provided for direct, legal departures from vietnam, temporary protection in nations of first 
+asylum, and large-scale, third-country refugee resettlement. the cpa also provided for the repatriation of 
+those not deemed to be refugees. not counting direct departures from vietnam under the odp, the united 
+states took in 822,977 of the 1.3 million indochinese refugees resettled worldwide between 1979 and 1995 
+(unhcr 2010, 99).
+
+93
+
+refugee protection policies and national security181). in a globalized world, international migration calls into question traditional models 
+of national security, which assume a unitary national identity from which a set of national 
+interests can be derived (ibid., 175).
+refugees  and  migrants  can  also  make  crucial  contributions  to  the  struggle  against 
+terrorism. indeed, following the 9/11 terrorist attacks, law enforcement and intelligence 
+experts recognized the need to engage communities in which terrorists might attempt to 
+hide, to draw on immigrants as a source of intelligence and support, and to enlist them 
+in counterterror efforts (kerwin and stock 2007, 418-19). they insisted (correctly) that 
+immigrant communities have a strong interest and incentive to cooperate in responding 
+to a shared threat. not only do the members of these communities overwhelmingly reject 
+extremist ideologies and terrorism, but they bear the brunt of hate crimes and vilification 
+by anti-immigrant extremists following attacks. in fact, tips from community or family 
+members helped to expose one-quarter of the 330 cases of persons charged with jihadist 
+terrorist offenses in the united states since 9/11 (bergen 2016, 101-02). 
+
+persons fleeing persecution and violence seek a degree 
+of security denied them in their countries of origin, an 
+
+aspiration that mirrors the desire for public safety 
+
+by citizens in receiving communities
+
+finally, it should be emphasized that the refugee convention does not apply to persons 
+who have committed a crime against peace, a war crime, or a crime against humanity, 
+a serious non-political crime outside the country of refuge pre-admission, or have been 
+guilty of acts contrary to the purposes and principles of the united nations.35 nor does 
+the right to non-refoulement extend to a refugee who can reasonably be regarded as a 
+danger to the security of the country in which he is, or who, having been convicted by a 
+final judgment of a particularly serious crime, constitutes a danger to the community of 
+that country.36 
+a december 1, 2015 letter to the us congress from a group of former us diplomatic, 
+intelligence, military, and homeland security officials  including madeleine albright, 
+henry kissinger, david petraeus, and george schultz  made this point plainly, stating 
+that refugees are victims, not perpetrators, of terrorism.37 one-half of the worlds refugees 
+are  children,  large  numbers  have  survived  violence  and  torture,  and  many  have  severe 
+or chronic medical conditions. persons fleeing persecution and violence seek a degree of 
+security denied them in their countries of origin, an aspiration that mirrors the desire for 
+public safety by citizens in receiving communities.
+
+35   the 1951 refugee convention, art. 1(f). 
+36   the 1951 refugee convention, art. 33(2).  
+37   letter from 21 former us military, intelligence, and diplomatic officials to congress (dec.1, 2015), http://
+www.humanrightsfirst.org/sites/default/files/formernatsecofficialsletterrefugees.pdf.
+
+94
+
+journal on migration and human securityiv. national security and the terrorist threat 
+the term terrorism arose in response to the french revolutions reign of terror and was 
+later used to describe state actors like the national socialist party and stalinist russia (aly 
+2015, 85-86). in recent years, this phenomenon has become associated with violence against 
+civilians or non-combatants by non-state actors. the global terrorism index produced by 
+the institute for economics and peace defines terrorism as the threatened or actual use of 
+illegal force and violence by a non-state actor to attain a political, economic, religious, or 
+social goal through fear, coercion, or intimidation (iep 2015, 6). commentators regularly 
+characterize terrorism as a tactic, not an enemy or an ideology, an observation that doubled 
+as a criticism of the open-ended nature of the us war on terrorism. this tactic is often 
+adopted by non-state actors in asymmetric conflicts with states. 
+the line between state and non-state terrorism can be blurred (wef 2016, 31). on the one 
+hand, terrorist groups like isil, the revolutionary armed forces of colombia (farc), 
+and al-shabaab, have assumed some of the responsibilities of states (glazzard 2015, 81). 
+on the other hand, many states use terror as an instrument of repression, domination, and 
+social control (schmid 2016, 14). for instance, the assad regime has terrorized syrians 
+in rebel-held areas and other perceived opponents through the widespread use of torture, 
+extrajudicial killing, barrel bombs, and chemical weapons. 
+
+a. scope and dimensions of the non-state terrorist threat
+
+in  recent  years,  terrorism-related  killings  have  been  overwhelmingly  concentrated  in  a 
+handful of nations. in 2014 terrorists carried out 13,463 attacks which resulted in 32,727 
+deaths, including of 6,200 perpetrators (start 2015, 3-6). sixty percent of the attacks 
+took place in iraq, pakistan, afghanistan, india, and nigeria, and 78 percent of fatalities 
+occurred in iraq, nigeria, afghanistan, pakistan, and syria (ibid.). isil or daesh (an 
+arabic language acronym for isil) committed 17 percent of the attacks, followed by the 
+taliban in afghanistan, al-shabaab in somalia, boko haram in nigeria, and maoists in 
+india (ibid., 11).
+nine of the 20 deadliest attacks occurred in nigeria (ibid., 9). indeed, in 2014, the number 
+of  boko  haram  killings  exceeded  even  those  by  isil  (iep  2015,  22,  41),  to  whom  it 
+declared allegiance in march 2015 (almukhtar 2015). boko haram began 2015 with the 
+january 37 massacre of an estimated 2,000 residents of the town of baga in nigerias 
+borno state and ended the year with an offensive in maiduguri, home to an estimated one 
+million refugees and the capital of borno state, and in the town of madagali, southwest of 
+maiduguri (sawab 2015).
+between 2000 and 2014, the 3,659 terrorist killings in western states accounted for 2.6 
+percent of the worlds total, with 91 percent of that number attributable to the september 
+11, 2001 attacks, the madrid train bombings on march 11, 2004, the july 22, 2011 murders 
+of 77 in norway, and the three london bombings on july 7, 2005 which killed 56 (iep 
+2015, 50-51).38 
+
+38   between 2006 and 2014, lone wolf attacks represented 70 percent of all terrorism-related killings in 
+western states (iep 2015, 54-58).
+
+95
+
+refugee protection policies and national securityjihadist killings in the united states since 9/11 have invariably been committed by lone 
+wolfs acting without guidance, direction, or assistance from terrorist groups (ibid., 69), a 
+phenomenon known as leaderless jihad (bergen 2016, 52-53).39  forty-five persons were 
+killed in the nine jihadist terrorist attacks in the united states between 2002 and 2015 (new 
+america foundation 2015).40 fifty more persons were killed in the june 12, 2016 terrorist 
+attack at a gay nightclub in orlando, florida.41 
+the absence of large-scale coordinated attacks since 9/11 speaks, in part, to the degree 
+of public support for the counterterror struggle (brooks 2011, 27).42 an analysis of us 
+terrorist  plots  in  the  decade  after  9/11  concluded  that  those  most  likely  to  succeed 
+involved accessible weapons (e.g., firearms) and small numbers of individuals that require 
+minimal  skill  and  pre-operational  steps  (ibid.,  39).  intelligence  and  law  enforcement 
+officials believe that attacks against soft targets, modeled on the november 2629, 2008 
+attacks in mumbai by lashkar-e-taiba terrorists which killed 172 persons, have a greater 
+probability of success than complex and ambitious 9/11-style attacks (riedel 2015). former 
+new york city police department (nypd) commissioner raymond kelly characterized 
+the november 13, 2015 paris attacks as shockingly simple to plan and implement (daly 
+2015).  
+the  statistics  on  jihadist  killings  in  the  united  states  help  to  contextualize  the  risk  of 
+a catastrophic attack by a person admitted as a refugee, a very small category of well-
+screened  and  vetted  residents. according  to  the  us  department  of  state  (dos),  only 
+about a dozen of the nearly 785,000 refugees admitted since 9/11 have been arrested or 
+removed from the u.s. due to terrorism concerns which preceded their admission (ye he 
+lee 2015). there have been no domestic terrorist attacks by refugees during this period. 
+however, these figures hardly offer cause for complacency. terrorists will continue to try to 
+exploit all admission channels to targeted states (adamson 2006, 195; leiken and brooke 
+2006,  510),  including  refugee  programs  (hattem  2016).    in  addition,  isil,  al-qaeda, 
+and other groups are committed to inflicting catastrophic damage on their near and far 
+enemies. military and intelligence officials have repeatedly warned of the risk of terrorist 
+attacks against western states using improvised devices containing chemical, biological, 
+radiological, or nuclear (cbrn) materials (rudischhauser 2015). in 2004, the national 
+commission on terrorist attacks upon the united states (the 9/11 commission) warned 
+that al-qaeda had been trying to secure weapons of mass destruction for at least a decade 
+and viewed the united states as a prime target (9/11 commission, 381), which it remains 
+today. 
+
+b. the refugee/migrant and terrorism nexus 
+
+the need for refugee-related security measures assumes a connection between refugees 
+and a security threat. to develop effective security strategies and robust refugee protection 
+
+39   these terrorists could also aptly be described as mass murderers.
+40   these numbers reflect the success of us intelligence and law enforcement agencies in disrupting terrorist 
+plots and preventing large-scale attacks since 9/11.
+41   in that case, omar mateen, a us citizen of afghani descent, claimed allegiance to isil, but had no 
+connection to the group and seemed to act from mixed motives (apuzzo and lichtblau 2016). 
+42   the same conditions do not obtain in some european communities.
+
+96
+
+journal on migration and human securitysystems requires clarity on the relationship between the two. the nexus between terrorism 
+and refugees can take a number of forms.  
+first, state (political) terror, internal conflict, and international conflict are correlated with 
+high  rates  of  terrorism  (iep  2015,  67-69;  schmid  2016,  17).43 an  analysis  of  terrorist 
+attacks by non-state or sub-state actors resulting in at least one fatality between 1989 and 
+2014 found that 92 percent occurred where levels of political terror were very high, 55 
+percent in nations undergoing internal armed conflict, and 33 percent in nations embroiled 
+in an internationalized conflict (iep 2015, 70-72). conversely, terrorist attacks occurred 
+at very low rates (less than 1 percent) in states with no political terror or ongoing conflict 
+(ibid., 72).44 
+second, terrorist violence results in refugee flows and displacement. the 11 nations that 
+experienced more than 500 terrorism-related deaths in 2014 produced the highest average 
+numbers  of  refugees  and  idps  (iep  2015,  59-60).  similarly,  high  fatality  rates  from 
+terrorism in syria, iraq, pakistan, and afghanistan strongly correspond to numbers of first-
+time asylum seekers in europe (schmid 2016, 27). given their flight from nations with 
+high levels of terrorist violence, it stands to reason that refugees would not typically opt 
+to migrate to those same states. in fact, of the 10 largest refugee-hosting nations, only 
+pakistan ranks among the top 10 countries affected by terrorist violence (iep 2015, 59-60). 
+forced displacement has been a goal of lords resistance army, boko haram, and other 
+terrorist groups (koser and cunningham 2015, 83).45 isil has killed, subjugated and driven 
+religious minorities and others from its territory, while appealing to muslim refugees to 
+return home, warning that they will be forced to convert in infidel lands (zelin 2015). 
+in a modern version of draining the sea (civilians) to catch the fish (insurgents), the assad 
+regime has targeted civilian populations and infrastructure, leading to massive displacement, 
+in order to isolate and weaken rebel factions (schmid 2016, 20). 
+while both state terror and non-state terrorism lead to refugee flows, it does not follow 
+that refugees negatively impact security in host states. a recent analysis compared un 
+data on the location of refugees, idps, asylum seekers and returnees, with subnational data 
+on conflict onset from 1989 to 2008. the study concluded that refugee host communities 
+tend to experience more stability over time, possibly due to the influx of humanitarian 
+and security actors that often accompany refugees. it found no evidence that refugee 
+communities increase the likelihood of conflict or facilitate regional conflict diffusion 
+(shaver and zhou 2015, 2, 24). 
+most resettled refugees do not fit terrorist profiles. former dhs secretaries napolitano 
+and chertoff described syrian refugees as the most vulnerable  particularly survivors 
+of violence and torture, those with severe medical conditions, and women and children.46 
+
+43   the global terrorist index defines political terror as state sanctioned or state perpetrated violence against 
+its citizens (iep 2015, 70).
+44   in organisation for economic co-operation and development (oecd) nations, terrorism is associated 
+with social disenfranchisement, as reflected in youth unemployment, low confidence in democracy and the 
+press, and other factors (iep 2015, 69).  
+45   forced migration from has also been a strategic goal of the assad regime and of many past regimes, like 
+the slobodan milosevics regime in serbia.
+46   letter from janet napolitano and michael chertoff, former dhs secretaries, to president barack obama 
+
+97
+
+refugee protection policies and national securitythe united states has also prioritized the resettlement of iraqis and afghanis who worked 
+at great peril with the us military and other us institutions.
+third, although refugee settlement does not increase the overall probability of conflict in a 
+region (shaver and zhou 2015, 2, 24), international migration can provide conduits for the 
+diffusion of network-based forms of political violence and instability, which particularly 
+threaten less stable and weaker states (adamson 2006, 191, 198).  
+in el salvador, guatemala and honduras, for example, transnational criminal syndicates, 
+fueled  in  part  by  us  deportation  policies  and  trafficked  firearms,  have  subverted  state 
+institutions  (cidehum  and  unhcr  2012,  11,  13).  gangs  (maras)  subjugate  many 
+communities in these states, extorting monies from businesses and individuals, conscripting 
+youth, and effectively controlling access to public institutions like schools. gang violence 
+and recruitment has, in turn, led to the migration of tens of thousands of unaccompanied 
+children from mexico and central america, often to join parents who previously migrated 
+to the united states (donato and sisk 2015, 73). as a measure of their desperation, us-
+resident parents have chosen to hire smugglers, rather than expose their children to the 
+risk  of  gang  violence  during  the  lengthy  application  processing  period  for  refugee  or 
+humanitarian admission to the united states (hennessy-fiske 2016).
+likewise, failed states and the effective absence of states in particular regions have paved 
+the  way  for  terrorist  groups  to  establish  strongholds  in  somalia  (al-shabaab),  uganda 
+(lords resistance army), and elsewhere. these groups, in turn, have displaced millions 
+(schmid 2016, 22-23). 
+fourth, counterterror and counter-insurgency initiatives, particularly in terrorist strongholds, 
+can  also  cause  large-scale  displacement  (ibid.,  46-47).  following  9/11,  counterterror 
+experts voiced concern over the ability of al-qaeda and the taliban to operate and plan 
+attacks from ungoverned safe havens like the waziristan tribal region on the afghanistan 
+and pakistan borders (rotberg 2002). a pakistani military offensive in this region in 2014 
+led to the displacement of an estimated one million civilians (schmid 2016, 46).47 
+fifth, nationals of western states have increasingly travelled abroad to receive training and 
+to fight with terrorist groups. as of december 2015, an estimated 27,000 to 31,000 persons 
+from 86 nations had traveled to syria and iraq to join isil and other extremist groups, 
+including  more  than  5,000  from  europe  (primarily  from  france,  the  united  kingdom, 
+germany, and belgium) and roughly 250 each from the united states and australia (soufan 
+group, 4, 7-9, 12). some terrorists, particularly those who can no longer return home, 
+move from one jihadist conflict to the next (schmid 2016, 43). 
+jihadists have also returned to european and other western states in high numbers, posing 
+a substantial threat of violence and accounting for a large percentage of terrorist plots in 
+western states (ibid., 39, 42-43).48 an examination of 330 persons charged with a jihadist 
+
+(nov.  19,  2015),  https://www.whitehouse.gov/blog/2015/11/19/two-former-homeland-security-secretaries-
+wrote-president-obama-safely-welcoming. 
+47   the iraq war displaced an estimated 2.7 million persons.
+48   counterterror expert bruce hoffman argues that while the threat of homegrown violent extremism  is 
+now accepted as fact, there is still surprisingly little consensus on the potentially far greater danger posed by 
+radicalized foreign fighters trained by isis, returning to their native or adopted homelands in the west  
+(hoffman 2015).
+
+98
+
+journal on migration and human securityterrorist-related  offence  in  the  united  states  since  9/11  found  that  nearly  one-half  had 
+traveled overseas to join a jihadist group or had attempted to do so (bergen 2016, 168-69).49  
+sixth, the migration-related security threat most commonly articulated in media and policy 
+circles involves the potential entry of foreign terrorist operatives into states, whether for 
+reconnaissance, as sleepers for future mobilization, or as muscle for imminent attacks. 
+some threats originate in western states. us citizen david headley, for example, made 
+seven reconnaissance trips in preparation for lashkar-e-taibas november 2629, 2008 
+attacks in mumbai (bergen 2016, 193). 
+international migrants hardly constitute the only source of the terrorist threat. a study of 
+373 charged, convicted, and/or killed jihadi terrorists from transnational sunni islamist 
+terrorist  groups  operating  in  western  europe  and  north america  from  1993  through 
+december 14, 2004 concluded that 41 percent were nationals of eu or north american 
+states (leiken and brooke 2016, 507-08). however it also found some degree of overlap 
+between immigration and terrorist networks, particularly of north african immigrants in 
+the european union and canada (ibid., 509, 513). 
+terrorists will continue to probe the security of migration channels and try to enter targeted 
+states in whatever ways might be available to them, as evidenced by the entry of tashfeen 
+malik, one of the two san bernardino killers, on an f-1 (fiance) visa. perhaps the most 
+troubling breaches of the us refugee program have involved iraqi nationals arrested prior to 
+planned attacks.50 the first case involved waad alwan and mohanad hammadi, who were 
+admitted as refugees in 2009 (doj 2013), despite having participated in the insurgency 
+against us troops in iraq and afghanistan. after settling in bowling green, kentucky, 
+they became the subject of an fbi sting operation (based on a tip) and sought to purchase 
+weapons for al qaeda in iraq (aqi), a predecessor to isil. 
+the federal bureau of investigation (fbi) subsequently found alwans finger and palm 
+prints on the base of a cordless phone which had been connected to unexploded ieds in 
+iraq.51 as a result of this case, the federal government halted iraqi refugee admissions for 
+several months, intensified screening of iraqis (meek and ross 2015; madhani 2012), and 
+eliminated delays in processing weapons for biometric and other evidence. 
+
+49  beyond  isil,  the  al  qaeda  affiliated  group  jabhat  al-nusrah  or  the  al-nusra  front  (in  northwestern 
+syria), the core al qaeda group (the khorasan group) in syria, and al qaeda in the arabian peninsula, 
+present a high threat of terrorism in europe, the united states and against us and western interests and 
+institutions.  the  syrian  refugee  crisis  and  us  national  security:  hearing  before  the  house  judiciary 
+ommittee, subcommittee on immigration and border security, 114th cong. (2015) (testimony of seth g. 
+jones, rand office of external affairs), http://judiciary.house.gov/_cache/files/7d555810-97fb-4632-bb44-
+a44579ff2f32/11.19.15-seth-jones-testimony.pdf.
+50   for this reason, some view these arrests as a counterterror and law enforcement success, an example of 
+the system working.  
+51   the phone was stored in an fbi repository for ordnance from conflict zones in iraq, afghanistan, and 
+elsewhere. alwan pled guilty to conspiring to kill and to the use of a weapon of mass destruction (explosives) 
+against  us  nationals  abroad;  distributing  information  on  the  manufacture  and  use  of  ieds;  attempting 
+to provide material support to terrorists and aqi; and conspiring to transfer, possess and export stinger 
+missiles. hammadi pled guilty to attempting to provide material support to terrorists and aqi; conspiring 
+to transfer, possess and export stinger missiles; and making a false statement in an immigration application 
+(doj 2013). 
+
+99
+
+refugee protection policies and national securityin january 2016, the us department of justice (doj) announced the arrests of two more 
+iraqi nationals, aws mohammed younis al-jayab and omar faraj saeed al hardan, who 
+entered as refugees. al-jayab allegedly left the united states to fight in syria with terrorist 
+groups between november 2013 and january 2014. unlike al-jayab, al hardan apparently 
+became radicalized after his arrival. he allegedly conspired with al jayab to fight for isil 
+and to commit terrorist acts in the united states (lozano 2016).
+seventh, terrorist groups have sought to recruit and radicalize vulnerable, often long-term 
+refugees (koser and cunnigham 2015, 83-84; schmid 2016, 32-37). some scholars have 
+argued  that  refugee  camps  serve  as  breeding  grounds  for  terrorism  and  a  source  of 
+insecurity for host states and entire regions (loesher and milner 2014, 7). syrian refugees 
+reportedly face isil recruitment in lebanese, jordanian, and turkish camps (schmid 2016, 
+33-35; speckhard 2015). beyond the threat of terrorist violence (naylor 2016), refugees 
+have suffered xenophobic attacks in host communities (schmid 2016, 40).
+eighth, politicians and the media treat radicalization, which can be highly sophisticated 
+and incessant,52 as a migration-related phenomenon. however, terrorist recruitment often 
+occurs after the migration process takes place and does not involve immigrants. of the 71 
+persons charged by the united states with isil-related activities between march 2014 and 
+december 2015, 58 percent were us citizens and six were us lawful permanent residents 
+(lprs) (vidino and hughes 2015, ix, 7). 
+yet  isil,  al-shabaab,  jabhat  al-nustra  and  other  terrorist  groups  have  also  had  some 
+success in targeting persons from select refugee communities for recruitment (jordan and 
+kesling 2015). a group of nine somali-americans from the minneapolis/st. paul area, 
+for example, have been convicted of terrorism-related offenses related to a plot to join 
+isil in syria and a 10th member of the group is thought to have fled to syria (mcdowell 
+2016). according to the fbi, since 2007, 22 men have left minnesota to join al-shabab and 
+roughly 12 minnesotans (men and women) have joined militant groups in syria (ibid.). 
+another person of somali descent, a naturalized us citizen living in columbus, ohio, 
+allegedly received terrorist training in syria and, upon his return, intended to carry out 
+attacks in the united states (doj 2015a).
+persons of other nationalities have also supported terrorist groups. for example, abdullah 
+ramo pazara, a bosnian native from st. louis, left the united states to join isil in may 
+2013. six other bosnians, including refugee mediha salkicevic, allegedly sent equipment 
+and funds to pazara who was killed in fall of 2014, to isil and to other terrorist groups 
+(patrick 2015). in addition, fazliddin kurbanov, an uzbek refugee living in boise, idaho, 
+was convicted in august 2015 of conspiracy and attempting to provide material support to 
+the islamic movement of uzbekistan, and possession of an unregistered destructive device 
+(doj 2015b).
+
+52   isil, for example, seeks to create an echo chamber and virtual community in order to indoctrinate recruits 
+and convince them to join isil fighters abroad or to commit attacks in the united states (vidino and hughes 
+2015, ix, 5, 21-26). many thousand americans access isils online propaganda each day. 
+
+100
+
+journal on migration and human securityv.  migration-related  security  imperatives  and  pitfalls: 
+the us experience in the post-9/11 era
+september 11, 2016 represents the 15th anniversary of the 9/11 attacks when 19 al-qaeda 
+terrorists hijacked four airplanes, killing 2,977 persons and injuring many thousand more 
+at the world trade center (2,753 killed, including 11 pregnant women), pentagon (184 
+killed), and united flight 93 (40 killed). among the victims were persons from 93 nations, 
+71 new york city and port authority police officers, and 343 firefighters. 
+the attacks led to a period of national soul searching over how to safeguard the nation 
+from extremist violence while preserving its diverse, rights-respecting and open character. 
+the  us  immigration  system  has  invariably  been  implicated  in  this  debate  because  of 
+immigrations defining significance in us history and because the 9/11 terrorists exploited 
+legal immigration channels to enter and remain. several counterterror strategies have been 
+pursued  during  this  era.  some  have  proven  successful  and  others  misguided  and  even 
+counter-productive.
+
+a. risk management
+
+risk management has emerged as an integrating, organizational principle in the post-9/11 
+era (dhs 2014, 32; dhs 2011a). this concept speaks to the need to allocate (necessarily) 
+limited resources in proportion to the likelihood of a threat coming to pass and its potential 
+severity.53 it weighs the benefit of a security measure against its financial and other costs 
+(kerwin and stock 2007, 394). under this principle, a state accepts certain risks, reduces 
+others,  and  concentrates  on  the  most  consequential  (dhs  2010,  55).  in  its  strategic 
+national  risk assessment,  dhs  identifies  natural  disasters,  technological  hazards,  and 
+terrorist attacks as among the greatest threats to the us homeland, but does not include 
+immigration and border violations which it characterizes as chronic society concerns 
+(dhs 2011b). 
+the  united  states  issued  nearly  10  million  non-immigrant  (temporary)  visas  in  2014 
+(dos 2015b). although these numbers dwarf refugee admissions, non-immigrant tourists, 
+business people, and students have not been subject to nearly the same level of scrutiny and 
+suspicion as refugees have, which raises the question: why not? 
+like  the  refugee  program,  many  non-immigrant  programs  have  an  underlying  non-
+economic  rationale.54  however,  they  also  bring  immediate  economic  benefits,  which  a 
+lengthy and burdensome screening process would threaten. visitors to the united states, 
+for example, spent $220.8 billion and created an estimated 7.9 million jobs in 2014 (ita 
+2014). the nearly one million international students in us colleges and universities in 
+2014/15 contributed $30.8 billion to the us economy (iie 2015). the us immigration 
+system delivers an inordinate share of the worlds best talent, providing a windfall in a 
+global economy where heavy advantages accrue to the most innovative companies and the 
+countries where they are based (cfr 2009, 14). 
+
+53   as the 9/11 commission put it, america can be attacked in many ways and has many vulnerabilities. 
+no defenses are perfect. but risks must be calculated; hard choices must be made about allocating resources 
+(9/11 commission 2004, 364).
+54   for example, foreign students are exposed to the united states culturally diverse, democratic society, 
+often winning their life-long support and admiration (cfr 2009, 8). 
+
+101
+
+refugee protection policies and national securitydhs has been criticized for its inability to bring risk-analysis capabilities and cost-benefit 
+analysis to its decision making and program evaluation (steward, ellingwood, and mueller 
+2011,  369,  383).  yet  the  concept  itself  is  widely  embraced  by  us  law  enforcement, 
+intelligence, and homeland security agencies,55 albeit not by politicians who do not want to 
+concede the possibility of terrorist attacks or the need for security trade-offs. 
+terrorists will seek to enter targeted states through whatever migration routes might be 
+open to them. even the most exhaustive screening processes must be continuously adjusted 
+based on evolving intelligence, field experience, and newly discovered vulnerabilities.56 
+because  risk  cannot  be  eliminated,  to  demand  absolute  security  for  refugee  protection 
+programs represents a transparent way to oppose and politicize protection.
+the  question  of  whether  radicalized  european  nationals  might  enter  the  united  states 
+through the visa waiver program (vwp) has been intensely debated since the november 
+2015 paris attacks.57 terrorists exploited the vwp program both before and after the 9/11 
+attacks, and counterterror experts and commentators (including the author) identified the 
+program as a source of vulnerability (kerwin and stock 2007, 402-04; ginsburg 2010, 283-
+86). since that time, the security of the vwp program has been significantly strengthened. 
+the vwp allows nationals from 38 states to enter the united states for business or pleasure 
+for up to 90 days without a visa. commentators point out that the program is more secure 
+than us non-immigrant (temporary) and immigrant visa programs because participating 
+states  must  agree  to  share  terrorism-related  intelligence  and  use  machine-readable  e 
+passports  which  contain  biographic  data  and  biometric  identifiers  in  an  electronic  chip 
+(alden 2015). at this writing, the united states has entered preventing and combating 
+serious crime (pcsc) agreements with 35 vwp nations and with other nations that seek 
+admission  to  the  program  (dhs  2015a). these  agreements  provide  for  access  to  other 
+countries biographic and biometric data about potential terrorists and serious criminals. 
+the eu, however, does not share biometric data (fingerprints) with the united states from 
+its eurodac system, which is used to detect multiple asylum applications from the same 
+person and to screen for unauthorized entry. 
+the united states requires visitors from vwp states to register, prior to travel, through its 
+electronic system for travel authorization (esta) program, which collects biographic, 
+criminal and other information. it screens esta information against multiple databases 
+and watch lists. participating states must also share information on lost or stolen passports 
+and agree to airport security requirements.
+in 2015 and 2016, dhs and congress sought to strengthen the vwps security and promote 
+
+55   the alternative to risk-management is to devote insufficient resources to substantial risks or excessive 
+resources to less severe and likely threats. 
+56   in march 2016, dhs secretary jeh johnson expressed concern over the potential for terrorists to enter 
+through the us refugee program (hattem 2016).
+57    the  march  18,  2016  agreement  between  turkey  and  the  european  union  has  intensified  concerns 
+related to the infiltration of criminals and terrorists into the european union from turkey, serbia, and other 
+candidates for visa liberalization (coates 2016). under this agreement, turkey has agreed to readmit from 
+greece new irregular migrants in return for visa-free travel of turkish nationals to the european union, 
+increased resettlement in europe of syrian refugees residing in turkey, and greater eu financial support to 
+turkey.
+
+102
+
+journal on migration and human securityfull compliance with its requirements. on august 6, 2015, dhs announced that all vwp 
+travelers would need e-passports, participating states would be required to use interpol 
+lost and stolen passport database to screen travelers crossing their borders, and the use 
+of us federal air marshals on international flights from vwp nations would be expanded 
+(dhs  2015b).  on  november  30,  2015,  dhs  announced  that  the  esta  process  would 
+collect information on travel to nations that constitute a terrorist safe haven (white house 
+2015a).
+the  omnibus  appropriations  bill  for  2016  incorporated  h.r.  158,  the  visa  waiver 
+improvement and terrorist travel prevention action of 2015.58 this legislation:
+
+ 
+
+  bars persons from iraq, syria, iran, sudan and any other country or area of concern 
+
+on or after march 1, 2011 from participating in the program; 
+sets deadlines for vwp nations to issue and use machine-readable, fraud-resistant 
+passports  with  biometric  information;  to  screen  and  validate  such  passports  at 
+ports-of-entry (poes); and to screen non-citizens against interpol databases on 
+arrival and departure for unlawful activity; and 
+
+  provides for the termination of nations in the vwp for failure to share information 
+
+or to screen properly.  
+
+dhs subsequently announced that it would add libya, somalia, and yemen as countries 
+of concern (dhs 2016b).
+
+b.  intelligence  collection,  information  sharing,  and  identity 
+
+assurance
+the 9/11 attacks constituted a failure of intelligence gathering and information sharing. 
+fifteen of the 19 hijackers were vulnerable to interception (9/11 commission 2004, 752-
+53). three had been identified by the intelligence community as potential terrorists and 
+the central intelligence agency (cia) knew that two of the three had entered the united 
+states. however, the cia failed to provide this information to the fbi in a timely way and 
+the terrorists names were only belatedly added to the doss list of known or suspected 
+terrorists (ibid., 181-82). in addition, neither the cia or fbi shared information on terrorist 
+travel  and  passport  practices  with  immigration,  consular,  or  customs  officials  (kerwin 
+2005, 752), or systematically captured and analyzed the substantial knowledge of these 
+agencies on terrorist travel methods (ginsburg 2010, 130-31).59 
+in addition, states and localities had long resented the paucity of information sharing by 
+federal  law  enforcement  agencies. the  nypd  repeatedly  voiced  these  concerns  in  the 
+aftermath of the first world trade center bombing on february 26, 1993, which killed 
+six and injured more than 1,000 persons, including 88 firefighters, 35 police officers, and 
+an emergency medical services worker (kelly 2015, 90-91, 95-96). following the 9/11 
+attacks, the nypd built its own immense intelligence and counterterrorism apparatus to 
+complement the work of federal agencies (ibid., 165-78).
+
+58   consolidated appropriations act, 2016, pub. l. no. 114-113,  203 and 204 (2015).
+59   refugees can also be a source of information on the conditions in terrorist-producing countries and (on 
+occasion) regarding potential terrorists in their communities (kerwin and stock 2007, 400-01).  
+
+103
+
+refugee protection policies and national securityafter  9/11,  the  united  states  prioritized  intelligence  collection,  combined  pre-9-11 
+terrorist watch-lists into a single, federal terrorist screening data base (tsdb), made 
+this information available to federal, state and local officials, and established a feed-back 
+loop to the fbi on all encounters with known or suspected terrorists.60 it also prioritized 
+the need for secure identification documents and, in particular, biometrically-enhanced, 
+machine-readable passports for those seeking admission to the united states (ginsburg 
+2010, 194-97).  
+
+aggravating the threat, isil has secured hundreds of thousands 
+
+of false, stolen and blank syrian and  iraqi passports, and 
+
+german officials have been able to obtain fingerprints on only 
+
+a small percentage of arriving refugees and migrants
+
+by contrast, information sharing in europe on suspected terrorists and criminals remains 
+far from systematic (de la baume and paravicini 2015; mazzetti 2016). european states 
+lack a comprehensive list of suspected extremists and do not consistently check arriving 
+migrants against interpol databases of stolen passports and terrorist alerts (fidler and 
+pop 2015). before the november 13, 2015 paris attacks, only 20 percent of the migrants 
+entering greece from turkey received full security screening and processing (faiola and 
+mekhennet 2016). moreover, a low percentage of arriving refugees in germany (25 to 30 
+percent) possessed passports or travel documents. aggravating the threat, isil has secured 
+hundreds of thousands of false, stolen and blank syrian and iraqi passports, and german 
+officials  have  been  able  to  obtain  fingerprints  on  only  a  small  percentage  of  arriving 
+refugees and migrants (schmid 2016, 8-9). the november 13, 2015 paris attacks have been 
+attributed to [p]oor information-sharing among intelligence agencies, a threadbare system 
+for tracking suspects across open borders, and an unmanageably long list of homegrown 
+extremists (witte and morris 2015). 
+most  migrants  to  europe  have  fled  violence  and  war,  extreme  poverty,  and  untenable 
+conditions. however, this massive population has included persons with bad motives. an 
+estimated three dozen terrorists who entered europe posing as migrants have been arrested 
+while  planning  attacks  or  have  died  during  attacks  (faiola  and  mekhennet  2016). the 
+inability of eu and state officials to establish the identity and effectively screen refugees 
+and migrants presents an immense source of vulnerability. germany has endured several 
+attacks by asylum seekers, as it works through its processing backlogs and slowly gains 
+intelligence on recently arrived asylum seekers and migrants (faiola and kirchner 2016). 
+two of the terrorists responsible for the coordinated attacks in paris on november 13, 2015 
+entered as migrants through greece, claiming to be asylum seekers, and they subsequently 
+registered at a refugee camp in serbia (faiola and mekhennet 2016). others who entered 
+in refugee and migrant streams have also been implicated in terrorist plots (troianovski 
+and turner 2016).  
+
+60    statement  before  the  house  of  representatives  committee  on  homeland  security,  subcommittee  on 
+transportation  security  and  infrastructure  protection,  110th  cong.  (2008)  (testimony  of  rick  kopel, 
+principal  deputy  director,  terrorist  screening  center,  fbi),  https://www.fbi.gov/news/testimony/the-
+terrorist-screening-database-and-watchlisting-process.
+
+104
+
+journal on migration and human securityalthough  federal  law  enforcement  agencies  characterized  irregular  immigrants  as  a 
+threat to national security in the immediate aftermath of 9/11, a consensus subsequently 
+developed  among  intelligence  and  law  enforcement  professionals  that  terrorist  groups 
+preferred  recruits  without  criminal  records  or  immigration  problems,  so-called  clean 
+skins who were not likely to draw the attention of the police or security services (kerwin 
+and stock 2007, 406-07).61 however, many jihadists and terrorist sympathizers operate 
+relatively  openly  in  european  and  other  nations.  the  perpetrators  of  the  january  and 
+november 2015 paris attacks and the march 2016 brussels attacks included extremists 
+whose jihadist sympathies, ties, and even past conspiracies were well-known to european 
+law enforcement and security services. the size of the threat posed by their own nationals 
+has overwhelmed the surveillance and law enforcement capacity of several european states: 
+an estimated 38,000 foreign fighters have travelled to syria and iraq since 2012, including 
+5,000 europeans and 1,700 from france (ignatius 2016; erlanger and yardley 2015).
+the 9/11 attacks also underscored the importance of establishing the identity of persons 
+seeking admission, leading to a renewed focus on the integrity of the breeder documents 
+(particularly  birth  certificates)  used  to  obtain  other  identity  documents,  the  need  for 
+biometrically-enhanced  passports  and  other  travel  documents,  and  the  importance  of 
+information  sharing  on  lost  and  stolen  passports  (ginsburg  2010,  191-216).  returning 
+jihadists and foreign terrorists have used falsified passports and identity documents to enter 
+western states (schmid 2016, 43-44).  
+
+c.  national  unity  and  enlisting  community  and  international 
+
+support
+law  enforcement  and  intelligence  experts  post-9/11  stressed  the  need  for  resilience  in 
+response to the terrorist threat; that is, to combat terrorism in ways that do not compromise 
+national  unity  or  civic  values  (flynn  2004,  163-64).  rights-respecting  enforcement  is 
+also a strong theme of dhss planning process and communications (dhs 2014, 32). by 
+contrast, demagoguery and divisive counterterror strategies can compromise national unity 
+and alienate groups that may have information on potential threats and have the most to lose 
+from an attack by a perceived member of their national, ethnic, or religious community.  
+the vilification of muslims represents one of the greatest threats to national unity and a 
+boon to terrorists, who seek to polarize populations (schmid 2016, 46). david petraeus, the 
+former cia director and commander of coalition forces in iraq and afghanistan, warns that 
+anti-muslim rhetoric is playing directly into the hands of al qaeda and isil, which hope 
+to provoke a clash of civilizations (petraeus 2016). to that end, al-shabaab has featured 
+the proposal to suspend muslim immigration to the united states in one of its recruitment 
+videos (stack 2016).
+following the 9/11 attacks, president george w. bush, new york city mayor rudolph 
+giuliani, immigration and naturalization service (ins) commissioner james ziglar, dhs 
+secretary  tom  ridge  and  other  leaders  took  pains  to  distinguish  between  law-abiding 
+immigrants and refugees. in the immediate aftermath of the attacks, president bush visited 
+61   as of yet, there is no documented case of a terrorist arriving in the united states through illegal migration 
+channels, although many have entered fraudulently through legal immigration system.
+
+105
+
+refugee protection policies and national securitythe islamic center in washington, dc, where he made a powerful appeal to national unity 
+and tolerance:
+
+the  face  of  terror  is  not  the  true  faith  of  islam.  thats  not  what  islam  is  all 
+about. islam is peace. these terrorists dont represent peace. they represent evil 
+and war.
+when we think of islam we think of a faith that brings comfort to a billion people 
+around the world. billions of people find comfort and solace and peace. and thats 
+made brothers and sisters out of every race  out of every race.
+america  counts  millions  of  muslims  amongst  our  citizens,  and  muslims  make 
+an incredibly valuable contribution to our country. muslims are doctors, lawyers, 
+law professors, members of the military, entrepreneurs, shopkeepers, moms and 
+dads. and they need to be treated with respect. in our anger and emotion, our fellow 
+americans must treat each other with respect. 
+
+(white house 2001). 
+
+the 9/11 commission report also made this point starkly: 
+
+islam is not the enemy. it is not synonymous with terror. nor does islam teach 
+terror. america and its friends oppose a perversion of islam, not the great world 
+faith itself. 
+
+(9/11 commission 2004, 363)
+in  stark  contrast,  donald  trump,  the  republican  presidential  nominee,  has  flaunted 
+international and domestic law by proposing that the united states suspend the admission 
+of non-us citizen muslims, deny entry to syrian refugees, kill the families of terrorists, 
+renew waterboarding of terrorist suspects, and track refugees in the united states (bradner 
+2015). this anti-muslim invective follows a 15-year period in which not a single attack 
+was committed in the united states by a terrorist posing as a refugee, and every jihadist 
+attack has been roundly condemned by muslim leaders and groups. 
+some  politicians  have  proposed  patrolling  muslim  neighborhoods  and  admitting  only 
+or mostly christian refugees (davidson 2015). christians and other religious minorities 
+endure forced conversion, extortion, religious cleansing (what some have characterized 
+as genocide), and extraordinary levels of persecution in large swaths of the middle-east,62 
+where they have lived for centuries. yet scores of muslims, the great majority of the regions 
+refugees, likewise have no viable option to resettlement. although difficult to estimate, 
+muslims certainly constitute a large percentage of the victims of terrorist violence if only 
+because terrorism-related fatalities in recent years have mostly occurred in nations with 
+high muslim populations (schmid 2016, 12; alexander and moore 2015).
+the december 1, 2015 letter from former, high-level us diplomatic, intelligence, military, 
+and homeland security officials opposed a de facto moratorium on admissions of refugees 
+
+62   throughout its history, the united states has offered protection to victims of religious intolerance and 
+persecution. in addition, it has regularly renewed legislation that creates a presumption of refugee status for 
+religious minorities and other historically persecuted groups (nezer 2014, 128). in addition, resettlement 
+priority cases of special humanitarian concern include members of persecuted religious groups. 
+
+106
+
+journal on migration and human securityfrom syria and iraq on the grounds that it would be contrary to our nations traditions 
+of  openness  and  inclusivity,  and  would  undermine  our  core  objective  of  combatting 
+terrorism.63 they argued that refugee resettlement helps to advance us national security 
+interests by supporting the stability of our allies and partners that are struggling to host 
+large number of refugees.64 
+they also averred that [c]ategorically refusing to admit muslims feeds the narrative of 
+isil that there is a war between islam and the west, that muslims are not welcome in the 
+united states and europe, and that the isil caliphate is their true home.65 this latter point 
+merits particular attention. isil views the flight of refugees from territories that it controls 
+as a challenge to the legitimacy of its caliphate.66 as a result, it has appealed to syrian 
+refugees to return, arguing that they will be forced to convert in the lands of infidels and 
+will be welcomed home in its territory (zelin 2015).
+michael hayden, the former director of the cia and the national security agency (nsa), 
+argues  that  anti-muslim  rhetoric  and  discriminatory  proposals  play  into  the  extremist 
+narrative that muslims are born into a world of unrelenting hostility towards islam from 
+the  judeo-christian  west  (cfr  2015).  hayden  called  it  doubly  stupid  when  we  say 
+things that reinforce that incredibly false narrative (ibid.).
+former dhs secretary chertoff argues that a religious litmus test would be odious to the 
+values of america and utterly impractical to enforce in the real world.67 dhs secretary 
+jeh johnson said that this approach would burn bridges to american muslims when were 
+trying to go in the exact opposite direction (kim 2015).
+james ziglar argues that a moratorium on muslim immigration would not achieve any 
+national security objective, and would likely create an even more hostile and dangerous 
+environment for the united states in its relations with the muslim world.68 david petraeus 
+points  out  that  the  proposal  would  undermine  us  armed  forces,  which  have  depended 
+heavily on muslim forces to fight al-qaeda in iraq, the taliban in afghanistan, and the isil 
+in iraq and syria, and which need muslim partners to root out terrorist networks and hold 
+territory formerly occupied by terrorists. 
+to  deny  entry  to  desperate  refugees,  to  treat  refugees  with  hostility,  or  to  create 
+discriminatory immigration policies based on fear of radicalization could become a self-
+fulfilling  prophecy.  anti-muslim  rhetoric  and  proposals  also  foment  hostility  against 
+63   letter from 21 former us military, intelligence and diplomatic officials, to congress (dec.1, 2015), http://
+www.humanrightsfirst.org/sites/default/files/formernatsecofficialsletterrefugees.pdf.
+64   ibid.
+65   ibid.
+66   admitting syrian refugees: the intelligence void and the escalating homeland security threat: before 
+the house committee on homeland security, subcommittee on counterterrorism and intelligences, 114th 
+cong. (2014) (testimony of daveed gartenstein-ross, senior fellow, foundation for defense of democracies 
+chief  executive  officer,  valens  global),  http://www.defenddemocracy.org/content/uploads/documents/
+gartenstein_ross_admitting_syrian_refugees.pdf.
+67   chertoff argues that its not clear  how you would know what somebodys religion was and how 
+you would prove what their religion was. cms interview with michael chertoff, former dhs secretary 
+and assistant attorney general, doj criminal division (june 9, 2016), http://cmsny.org/podcast-secretary-
+michael-chertoff/.
+68   interview by author with james ziglar, former ins commissioner (dec. 29, 2015).
+
+107
+
+refugee protection policies and national securitymuslims, lead to increases in hate crimes, undermine the security and integration of muslim 
+immigrants, and embolden us extremist groups. jihadist terrorists seek to drive a wedge 
+between refugees and their host states. as one commentator put it, equating refugees with 
+terrorists is simple: its exactly what the islamic state wants (taylor 2015).
+
+d. failed and misguided strategies 
+
+if  intelligence  collection,  information  sharing,  identity  assurance,  and  national  unity 
+emerged from the post-9/11 era as hallmarks of an effective and coordinated counterterror 
+strategy, this era also produced several excesses and anomalies. many post-9/11 refugee- 
+and migration-related security strategies have since been discredited as counterterror tools. 
+in the weeks following 9/11, us law enforcement and immigration agencies desperately 
+sought to disrupt and prevent what they believed to be imminent, additional attacks. the 
+national  security  entry-exit  registration  system  (nseers)  registered  (temporary) 
+non-immigrants from certain countries upon their entry and required that they re-register 
+after 30 days and annually thereafter. it also included a call-in, domestic registration 
+program for those in the united states at the programs inception. the latter program led 
+to the registration of 83,519 non-immigrants from 25 nations and the arrest of roughly 
+13,000 persons of middle eastern and south asian descent for immigration violations, but 
+it yielded little useful intelligence (martin 2009, 25-26; kerwin 2005, 760-61). an analysis 
+of this program concluded that the order in which national groups were required to register 
+did not align with the stated criteria (an al-qaeda presence) for inclusion of states in the 
+program (leiken and brooke 2006, 515). nor was it rational from a security perspective to 
+limit the program to non-immigrants (ibid.). 
+in  the  immediate  aftermath  of  the  9/11  attacks,  the  united  states  also  arrested  and 
+detained in often abusive conditions hundreds of non-citizen men who purportedly had 
+some connection (however attenuated) to the 9/11 terrorists (kerwin 2002, 23-26). many 
+detainees were held incommunicado and could not be located by family members or counsel 
+for protracted periods.  federal officials held the detainees for immigration violations or 
+as  material  witnesses  for  criminal  proceedings,  while  pressuring  them  for  information 
+on terrorist plots which they mostly did not possess. a significant number were subject 
+to closed court hearings. however, the initiative led to only one arrest of an al-qaeda-
+affiliated terrorist (bergen 2016, 32).69 
+in 2008, adopting a similar broad net strategy, the fbis controlled application review 
+and resolution program (carrp) began to pressure mostly muslim, known or suspected 
+or  non-known  or  suspected  terrorists  to  become  government  informants  by  delaying 
+consideration  of  their  applications  for  immigration  status,  naturalization,  or  protection 
+(ansari and datoo 2016). critics contend that this program withholds immigration benefits 
+from persons who present no threat and produces little, if any, actionable intelligence (ibid.). 
+the  fbi  has  also  been  criticized  for  using  its  large  network  of  informants  to  propose 
+terrorist operations to often impressionable and hapless persons, and to help execute plots 
+
+69   in addition, these practices can potentially alienate populations in which terrorists might try to hide and 
+could diminish cooperation with intelligence and law enforcement agencies (kerwin et al. 2003).
+
+108
+
+journal on migration and human securitythat would not otherwise be pursued (bergen 2016, 97-98). the strategy has been defended 
+on the grounds that it increases suspicion among terrorists and makes it difficult to organize, 
+large-scale attacks (ibid., 100). however, it can also lead to long-term prison sentences for 
+persons who would never have conceived of or carried out plots on their own. 
+a common denominator of these tactics has been their reliance on broad profiling and 
+preventive or pre-textual use of immigration enforcement tools. as many counterterror 
+experts cautioned after 9/11, strategies that target persons based on race, religion, ethnicity, 
+or national origin cast far too wide and indiscriminate a net to be useful law enforcement 
+tools  (kerwin  2005,  755).  in  addition,  discriminatory  policies  cannot  attract  the  kind 
+of broad, sustained support necessary to address what will likely be a long-term threat 
+(heymann 2003, 88-92, 162). 
+on the other hand, profiling based on terrorist behavior, tactics, and real-time intelligence 
+constitutes  a  crucial  counterterror  and  law  enforcement  tool. an  analysis  of  475  isil 
+recruits  from western  states  found  that  one  in  seven  were  women  (bergen  2016,  267-
+68), a substantial increase that demonstrates how terrorists adapt to established profiles. in 
+recent years, the fbi has sought to identify serious threats through universal indicators 
+of  violence.  the  typical  progression  to  a  terrorist  attack,  for  example,  moves  from  a 
+grievance, to a sense of the necessity of violence, to concrete planning, and to leakage 
+of information about an imminent attack (ibid., 233-38). law enforcement intervention 
+would be indicated at the latter stages of this process.
+the  post-9/11  era  also  witnessed  several  dubious  and  exaggerated  security  claims  for 
+measures as diverse as the interdiction and detention of haitian boat people, the indefinite 
+detention of immigrants who had been ordered removed, and the us-canada safe-third 
+country asylum agreement which requires that asylum claims, with some exceptions, be 
+lodged in the first of the two states that an asylum-seeker enters.
+
+e. border security
+
+in the post-9/11 era, borders have become a potent political symbol of migration-related 
+security concerns. borders also represent a potential point of vulnerability and exposure 
+for terrorists. the ease with which the perpetrators of the november 13, 2015 paris and the 
+march 22, 2016 brussels attacks moved within eu states and returned to the eu following 
+jihadist activity abroad underscores the potential security function of borders and ports-
+of-entry (mazzetti 2016).70 porous borders have also been blamed for al-shabab attacks in 
+kenya, boko harams infiltration of niger, chad and cameroon, and isil attacks in libya, 
+tunisia, and egypt (sieff 2016).
+the massive growth in border infrastructure since 9/11 in the united states may deter 
+some terrorists from seeking to enter. however, the greater security need is to identify 
+and foil committed terrorists, preferably before they reach national boundaries, to promote 
+orderly,  regulated  migration  flows  so  that  states  can  concentrate  their  resources  on  the 
+small number of border crossers that may present a public safety or security risk, and to 
+combat the radicalization of residents. 
+70   belgian national abdelhamid abaaoud, the mastermind of the november 13, 2015 attacks, repeatedly left 
+and returned to the european union without being detected.
+
+109
+
+refugee protection policies and national securitymoreover, the us investment in hardening the southern border does not correspond to 
+the  size  of  the  security  threat  posed  by  the  border. an  analysis  of  373  jihadi  terrorists 
+between 1993 and 2004 found that not a single terrorist crossed the us-mexico border 
+where 87 percent of border patrol agents are stationed (us border patrol 2015), but it 
+identified 26 confirmed terrorists in canada, three of whom had entered or tried to enter the 
+united states (leiken and brooke 2006, 513). dhss main metrics for border security  
+apprehensions, repeat crossings (recidivism) and effectiveness in arresting or turning 
+back  unauthorized  migrants  (crs  2016,  22-23)    speak  almost  entirely  to  irregular 
+migration, not to terrorism. in addition, most newly unauthorized us residents enter the 
+nation legally and violate the terms of their temporary visas, rather than cross in irregular 
+migration streams (warren and kerwin 2015, 93-94). thus, even if unauthorized persons 
+posed a heightened security risk (which they do not), greater investment in border control 
+would not significantly mitigate that risk.
+border enforcement growth has also led to diminished refugee protection. over the last 20 
+years, security and enforcement agencies have been vested with broad refugee protection 
+responsibilities. under us law, migrants without sufficient travel documents or who are 
+stopped at a port-of-entry or apprehended at or near a border face expedited removal unless 
+they request political asylum or express a fear of return to a border official. if they do, 
+they must be referred for a credible fear interview by a member of usciss specially 
+trained asylum corps. if determined to possess a credible fear of persecution, they can seek 
+political asylum. 
+us customs and border protection (cbp) and, in particular, the us border patrol, draw 
+heavily from us military veterans and enjoy a strong paramilitary and law enforcement 
+culture. yet these officials also bear responsibility for deciding whether to refer migrants 
+for credible fear determinations (which can lead to political asylum hearings) or to remove 
+them without judicial recourse. border officials often seek to dissuade asylum seekers from 
+pursuing their claims by threatening them with detention and separation from their families 
+(cabot 2014, 366-67). the us commission on international religious freedom has twice 
+investigated the us expedited removal process and found that border officials often fail to 
+ask migrants if they fear returning home and fail to note when migrants express fear, which 
+can lead to their detention and summary removal (uscirf 2005, 20-23; uscirf 2016, 
+21-23). cbps screening of unaccompanied children to determine if they fear return or 
+have been trafficked has been similarly problematic (gaob 2015). in addition, dozens of 
+complaints have been filed regarding the poor and abusive treatment of children in border 
+patrol holding cells (burnett 2014).
+in  2015,  dhss  office  of  inspector  general  (oig)  reported  that  certain  border  patrol 
+sectors refer asylum seekers for criminal prosecution (oig 2015, 16) in violation of the 
+refugee convention. criminal prosecution makes it far more difficult to sustain an asylum 
+claim, punishes bona fide asylum seekers for reaching protection in the only way available 
+to many of them, and causes asylees to begin life in their new communities with a criminal 
+record  (kerwin  2015,  218-19).  in  response  to  this  practice,  oig  accepted  the  border 
+patrols claim that criminal prosecutions for illegal entry and the asylum process should 
+proceed on parallel tracks (oig 2015, 17-18)  which manifestly they should not  while 
+recommending only that the border patrol develop guidance on this issue. 
+
+110
+
+journal on migration and human securityvi. the us refugee resettlement program: a case study 
+in securing refugee flows
+the current era of record displacement demands us leadership. yet not since usraps 
+creation  in  1980  has  there  been  greater  opposition  in  the  united  states  to  refugee 
+resettlement. this  section  examines  security-related  concerns  regarding  the  program  in 
+light of its strong vetting and screening process. 
+
+a. recent opposition to us refugee resettlement
+
+in  late  2015,  the  us  house  of  representatives  passed  the american  security against 
+foreign enemies act of 2015 (the safe act), which would have precluded the admission 
+of refugees from iraq or syria, or refugees who last lived in or recently visited these two 
+nations, until the director of the fbi, the secretary of dhs, and the director of national 
+intelligence (dni) certified to 12 congressional committees that the refugee did not represent 
+a threat. in addition, the act would have required the dhs inspector general to review and 
+report annually to the same committees on each certification. requiring high-level sign-off 
+on individual admissions from these nations would have brought resettlement to a standstill 
+for some of the worlds most desperate refugees and would have risked diverting limited 
+homeland security and law enforcement resources from more pressing needs.71 president 
+obama vowed to veto this legislation (eop 2015), and in january 2016 the bill failed to 
+win sufficient support to proceed to passage in the senate.
+in recent years, many states and localities have voiced concerns that refugees pose a terrorist 
+threat, strain local resources, and cannot be absorbed into their communities (brown and 
+scribner 2014, 109-10). in 2015, 31 us governors vowed to prevent syrian refugees from 
+resettling in their states (fantz and brumfield 2015), despite the well-established authority 
+of  the  federal  government  to  set  immigration  and  refugee  policies.  the  state  of  texas 
+brought an ultimately unsuccessful lawsuit to enjoin the resettlement of syrian refugees, 
+based on the claim that the federal government and federally funded resettlement agencies 
+had failed in their statutory responsibility to consult with the state prior to placement of 
+refugees (walters and ura 2016).
+state hostility toward resettlement of syrian and iraqi refugees may be less a legal than a 
+practical threat to the refugee program, which depends heavily on partnerships between 
+participating  federal  agencies,  non-governmental  resettlement  agencies,  and  states  and 
+localities. the refugee act of 1980 provides for advance consultation with states and local 
+governments and consideration of their placement concerns, suitability, and capacity. as a 
+result, resettlement agencies meet on a regular basis with state and local officials regarding 
+the services available to refugees in their communities and their ability to accommodate 
+new arrivals. state resettlement offices receive federal funding to provide cash assistance, 
+medical  assistance,  language  programs,  and  social  services.  in  the  past,  dos  has 
+occasionally urged the modification of refugee placement plans based on feedback from 
+states. in addition, under federal law, if states do not want to distribute benefits to refugees, 
+
+71   interview by author with james ziglar, former immigration and naturalization service (ins) commissioner 
+(dec. 29, 2015).
+
+111
+
+refugee protection policies and national securitythe office of refugee resettlement can enter into arrangements with ngos to provide 
+benefits in those states.72
+opposition to the admission of syrians and iraqis would be more understandable if the 
+united states had agreed to resettle far larger numbers of refugees. yet its commitment to 
+resettle 10,000 syrians in fy 2016 pales in comparison to the nearly five million refugees 
+hosted  by  syrias  neighboring  states  and  to  the  generosity  of  germany  and  sweden  in 
+entertaining hundreds of thousands of syrian political asylum claims. it also represents a 
+substantial retreat from the nations historic leadership in responding to large-scale refugee 
+crises. 
+terrorist groups seek to terrorize their targets  whether through ruthlessness, technical 
+sophistication, or an aura of invincibility  in order to achieve their political, ideological, 
+and strategic objectives (brooks 2011, 39-40). communities may be at demonstrably greater 
+risk from workplace homicides (ibid., 39), or alcohol-related car crashes,73 but terrorism 
+succeeds when it provokes overreaction. while the resilience of targeted communities can 
+help  to  diminish  terrorisms  efficacy,  exaggeration  of  a  programs  risks  can  undermine 
+security. in fact, as discussed below, the us resettlement program is the most secure us 
+admissions program.
+
+b. the us refugee resettlement program 
+
+dhs  has  championed  a  multi-layered,  risk-based  approach  to  security  in  which  each 
+layer must be effective in its own right, but there is a high degree of coordination and 
+redundancy since no single security measure is foolproof. (9/11 commission 2004, 392). 
+former dhs secretaries napolitano and chertoff have characterized the refugee screening 
+process  as  thorough  and  robust,  but  not  without  risk.74  vincent  cannistraro,  former 
+chief of operations and analysis for the cias counterterrorism center, describes refugee 
+resettlement a program in the nations interest and a relatively secure program: 
+
+the united states makes it far more difficult than other countries for a person with 
+bad intentions to enter. in addition, the refugee screening and admissions process 
+is a more lengthy, difficult and secure process than we have for any other group 
+seeking to enter. this program is certainly less of a risk than the normal immigration 
+systems for tourists, business people and others.75 
+
+in 2002 and 2003, following the 9/11 attacks, refugee admissions fell sharply as the united 
+states undertook a comprehensive review and analysis of the program based on concerns 
+that it could be used by terrorists to gain entry into the united states (kerwin and stock 
+2007, 389). current refugee screening and admissions policies reflect the hardening and 
+
+72   most refugees receive cash and medical assistance for a period of eight months (brown and scribner 
+2014, 108).
+73   drunk driving killed 13,365 in 2010 (chambers, liu, and moore 2011).
+74   letter from janet napolitano and michael chertoff, former dhs secretaries, to president barack obama 
+(nov.  19,  2015),  https://www.whitehouse.gov/blog/2015/11/19/two-former-homeland-security-secretaries-
+wrote-president-obama-safely-welcoming. 
+75   interview by author with vincent cannistraro, former chief of operations and analysis in the cias 
+counterterrorism center (nov. 20, 2015).
+
+112
+
+journal on migration and human securitysecuritizing of this program. after the review, refugee admissions rebounded. at the time, 
+national security and law enforcement experts believed that program vulnerabilities could 
+be sufficiently mitigated (ibid., 405, n.122). more recently, napolitano and chertoff have 
+argued that homeland security and refugee protection are not mutually exclusive goals, 
+provided that vetting and screening processes remain robust and undiluted.76 
+obama administration officials have characterized the refugee program as the most secure 
+process for non-citizens seeking admission to the united states.77 indeed, until recent years, 
+refugee screening was often criticized for a level of redundancy that put refugees and their 
+families at risk for extended periods (hrf 2010, 21-26; kerwin 2012, 6-8).
+the  multiplicity  of  institutional  stakeholders  in  the  refugee  screening  and  admissions 
+process operate as a check against fraud and terrorist infiltration. moreover, the eligibility 
+standard for refugee status is narrow, and refugees can be found inadmissible on security, 
+criminal, and other grounds. the us processing priorities and commitment to resettle the 
+most vulnerable further limit the refugees considered for admission.78 the cases referred 
+by unhcr for us resettlement are highly vulnerable, low-risk persons, including single 
+women with children, torture survivors, and persons with special medical needs (sengupta 
+2015). roughly 2 percent are single men without us families to receive them.
+the us refugee resettlement program enjoys the comparative advantage of being able to 
+vet and screen refugees prior to their admission.79 this process is deliberate and thorough 
+(brown and scribner, 115-16). because the schedules and periods of validity of security 
+and  health  screenings  do  not  perfectly  overlap,  some  screenings  must  be  completed  a 
+second time (nezer 2014, 129). applicants also undergo continuous review and recurrent 
+vetting, meaning that they can be denied admission based on new information at any point 
+in the process. 
+unhcr assesses refugee claims and refers persons for resettlement. it interviews potential 
+refugees and collects biographic information and biometric data on them: it has collected 
+
+76   letter from janet napolitano and michael chertoff, former dhs secretaries, to president barack obama 
+(nov.  19,  2015),  https://www.whitehouse.gov/blog/2015/11/19/two-former-homeland-security-secretaries-
+wrote-president-obama-safely-welcoming.
+77    oversight  of  the  administrations  fy  2016  refugee  resettlement  program:  fiscal  and  security 
+implications: hearing before the senate committee on the judiciary, subcommittee on immigration and 
+the  national  interest,  114th  cong.  (2015)  (written  testimony  of  barbara  strack,  uscis  refugee affairs 
+division chief, and matt emrich, uscis fraud detention & national security associate director), http://
+www.uscis.gov/tools/resources/hearing-refugee-admissions-fiscal-year-2016-senate-committee-judiciary-
+october-1-2015-chief-refugee-affairs-division-barbara-l-strack-and-acting-associate-director-matthew-
+d-emrich;  the  impact  of  isis  on  the  homeland  and  refugee  resettlement:  hearing  before  the  senate 
+committee on homeland security and government affairs, 114th cong. (2015) (written testimony of leon 
+rodriguez,  uscis  director),  https://www.dhs.gov/news/2015/11/19/written-testimony-uscis-director-
+senate-committee-homeland-security-and-governmental.
+78   us processing and admission priorities include: (1) priority 1 (p-1) cases referred by unhcr, a us 
+embassy, or a designated ngo; (2) p-2 cases which include groups of special humanitarian concern identified 
+by the us refugee program (this category has traditionally included religious minorities); and (3) p-3 family 
+reunification cases (uscis 2015a). 
+79    pushing  the  border  out  became  a  centerpiece  of  post-9/11  immigration  enforcement  and  security 
+strategies,  and  rigorous  screening  outside  us  borders  became  one  layer  in  the  defense  against  terrorist 
+infiltration. 
+
+113
+
+refugee protection policies and national security1.5 million iris scans of registered refugees (otoole 2015). it also seeks to determine if 
+refugees fall within 45 categories of concern, whether based on their family ties, service 
+in particular government ministries or military units, or even being in specific locations 
+at specific times (ibid.). according to unhcr officials, almost any flag will scuttle the 
+refugees case indefinitely and unhcr screens out at least half of the cases it reviews 
+(ibid.). fraud prevention represents one its top priorities (unhcr 2014b  19-20).
+the interview process itself  the probing and recording of a refugees story  permits 
+credibility assessments. the process also connects a name to biometric data, which helps to 
+establish an identity and to promote security moving ahead. screening allows unhcr 
+and states to identify the humanitarian and integration needs of refugees for placement 
+purposes.
+the  state  departments  bureau  of  population,  refugees  and  migration  (dos/prm) 
+contracts with resettlement support centers (rsc) to pre-screen persons for admission 
+and to prepare cases for review by uscis. rscs collect information for case adjudication 
+and security screening, including biographic information that includes name, aliases, date 
+of birth, family tree, education, the basis of the persecution claim, and the date and place 
+from which the refugee departed. rscs also initiate biographic checks of names (using 
+linguistic logarithms), aliases, places of birth, nationalities, and other data against doss 
+consular lookout and support system (class). class includes multi-agency records 
+with information on intelligence, criminal histories, immigration violations, and potential 
+terrorists.80
+prior to the uscis interview, the refugee affairs division reviews and refers cases that 
+meet certain criteria to usciss fraud detection and national security directorate (fdns), 
+which liaises with us intelligence agencies. fdns conducts open-source and classified 
+research on referred cases, and produces an assessment for the uscis interviewing officer. 
+if the interview raises any red flags, the case is referred again to fdns.  
+it may seem counterintuitive, but social media, in particular, can be a very rich source 
+of information on terrorists. an estimated 40 percent of persons charged with a jihadist 
+terrorist-related offence since 9/11 either posted jihadist content online or used the internet 
+in an operational manner (bergen 2016, 135-36). terrorists use social media to organize, 
+recruit, and even declare their terrorist affiliations.81 as a result, dhs has been working 
+aggressively to enhance its review of the social media footprint of refugees, asylum seekers, 
+and visa applicants (nixon 2016).
+rscs also initiate security advisory opinions (saos) by law enforcement and intelligence 
+agencies. these reviews consist of running the applicants name and other data through 
+multiple intelligence and law enforcement databases. thus, they build a level of redundancy 
+into the vetting process. the profile of recipients of sao reviews remained the same for 
+
+80    class  contains  information  from  dos,  the  national  counterterrorism  center  (nctc),  the  fbis 
+terrorist  screening  center,  cbps tecs  system,  the  drug  enforcement administration,  and  health  and 
+human services (uscis 2015b).
+81  san  bernardino  terrorist  tashfeen  malik,  for  example,  posted  comments  expressing  her  desire  to 
+participate in violent jihad prior to her arrival to the united states on an f-1 (fiance) visa (apuzzo, schmidt, 
+and preston 2015). 
+
+114
+
+journal on migration and human securityseveral years after 9/11 (kerwin 2012, 6), but has been an expanded in recent years. the 
+reviews are based on criteria that include nationality (roughly 30 nations), gender, and age. 
+persons in unclassified categories selected by dos based on us foreign policy interests 
+and security concerns also receive sao screening. most reviews are completed within 
+45 to 60 days, not an inconsequential period for refugees in desperate, often dangerous 
+circumstances. however, in some cases, it can take months for the participating agencies 
+to respond. significant delays can result when the name of an intending refugee resembles 
+or matches a name in a government database. 
+us family ties help to establish a refugees identity and connections. rscs also secure 
+sponsorship assurance from domestic resettlement agencies. the more information that 
+intelligence and law enforcement agencies gather on an applicant, the more confident they 
+can be regarding his or her background and intentions. family and sponsoring agencies 
+also facilitate integration by helping refugees find a place to live, secure work, and register 
+for school.
+uscis reviews refugee applications for eligibility and admissibility. on the day of the 
+refugee interview, uscis conducts biometric checks (fingerprints and photographs) against: 
+(1) the fbis next generation identification system (ngi), the worlds largest repository of 
+criminal records; (2) dhss automated biometric identification system (ident) which 
+contains immigration and travel history and records; and (3) the department of defenses 
+(dods) automated biometric identification system (abis), which includes biometric 
+records from iraq, afghanistan, and other areas of conflict (uscis 2015b).
+in 2011, dhs initiated an additional screening process, inter-agency checks (iacs), which 
+refugees receive prior to the refugee interview and pre-departure to the united states. the 
+national counterterrorism center (nctc) helps to coordinate the review.82 nctc was 
+established  in  response  to  a  9/11  commission  recommendation  for  a  center  for  joint 
+operational planning and joint intelligence (9/11 commission 2004, 403).
+the uscis refugee corps plays an underappreciated role in the vetting process. officers 
+receive extensive, specialized training on refugee law, grounds of inadmissibility, fraud 
+detection and prevention, security protocols, interviewing techniques, credibility analysis 
+and country conditions research.83 prior to deployment, they undergo additional training 
+
+82   nctc connects multiple departments and agencies within the us intelligence community. it falls within 
+the office of the director of national intelligence (odni). its mission is to lead us efforts to combat terrorism 
+at home and abroad by analyzing the threat, sharing that information with our partners, and integrating all 
+instruments of national power to ensure unity of effort (odni 2015). the director of national intelligence 
+(dni) heads the us intelligence community, which comprises16 agencies and includes air force intelligence, 
+army intelligence, the cia, coast guard intelligence, the defense intelligence agency, the department of 
+energy, dhs, dos, the department of the treasury, the drug enforcement administration, the fbi, marine 
+corps intelligence, the national geospatial-intelligence agency, the national reconnaissance office, the 
+nsa, and navy intelligence. 
+83    oversight  of  the  administrations  fy  2016  refugee  resettlement  program:  fiscal  and  security 
+implications: hearing before the senate committee on the judiciary, subcommittee on immigration and the 
+national interest, 114th cong. (2015) (written testimony of barbara strack, uscis refugee affairs division 
+chief, and matt emrich, uscis fraud detention and national security associate director), http://www.
+uscis.gov/tools/resources/hearing-refugee-admissions-fiscal-year-2016-senate-committee-judiciary-october-
+1-2015-chief-refugee-affairs-division-barbara-l-strack-and-acting-associate-director-matthew-d-emrich.
+
+115
+
+refugee protection policies and national securityon the types of refugee claims they are likely to encounter, detailed country of origin 
+information,  and  updates  on  any  fraud  trends  and  security  issues.84 they  also  receive 
+expert training on country-specific intelligence issues. 
+refugee officers conduct in-depth interviews in which they assess the merits of claims, 
+probe and test credibility, and explore potential fraud and security concerns. since 9/11, 
+security has been a pervasive dhs priority, including for its uscis refugee corps. 
+prior to their departure to the united states, refugees pass through a second inter-agency 
+review which seeks to identify new derogatory information. prior to admission, cbp screens 
+refugees against its national targeting center-passenger and the transportation security 
+administration (tsa) secure flight program. cbp also screens newly arrived refugees for 
+admission at ports-of-entry, reviewing their documents and conducting additional security 
+checks.
+terrorist  information  obtained  during  refugee  screening  is  entered  into  the  terrorist 
+identities datamart environment (tides), which includes biographic data, fingerprints, 
+and other classified holdings. thus, the refugee program not only benefits from intelligence, 
+but contributes to it as well. 
+high-ranking fbi, dhs, and nctc officials have lamented deficiencies in intelligence 
+collection related to syrian refugees, arguing that effective screening requires datasets that 
+contain accurate and thorough information on potential terrorists and criminals (hhsc 
+2015, 4). republican presidential candidates and members of congress have interpreted 
+these concerns as evidence that the united states cannot vet or run background checks 
+against syrian refugees and, thus, should not admit any of them (saddiqui 2015). this is 
+not the case.
+the united states can collect intelligence more easily from iraq or afghanistan, where it has 
+had a large military presence, than from syria. at the same time, its military engagements 
+have engendered terrorist blowback. the large numbers of watch-listed iraqis should not 
+be viewed as a counterterror triumph. in addition, the lack of us access to information 
+from syrian state intelligence and police agencies,85 is not an insurmountable barrier to 
+identifying syrian terrorists. 
+since 9/11, the united states has created a vast intelligence, counterterror and homeland 
+security infrastructure that by 2010 reportedly encompassed 1,271 government organizations 
+and  1,931  private  corporations,  and  854,000  persons  with  top-secret  clearances  in  the 
+washington,  dc  area  alone  (priest  and arkin  2010).  one  study  found  that  annual  us 
+expenditure on homeland security increased by $75 billion between 2001 and 2009 (in 2010 
+dollars), including by $50 billion for federal agencies (other than intelligence agencies), 
+$15  billion  for  federal  intelligence  agencies,  and  $10  billion  for  states  and  localities 
+(stewart, ellingwood and mueller 2011, 373). moreover, this very conservative estimate 
+did not account for private sector expenses (ibid., 373). in fy 2015, us intelligence agency 
+84   id.
+85   the syrian refugee crisis and us national security: hearing before the house judiciary committee, 
+subcommittee  on  immigration  and  border  security,  114th  cong.  (2015)  (testimony  of  seth  g.  jones, 
+rand  office  of  external  affairs),  http://judiciary.house.gov/_cache/files/7d555810-97fb-4632-bb44-
+a44579ff2f32/11.19.15-seth-jones-testimony.pdf. 
+
+116
+
+journal on migration and human securitybudgets totaled nearly $67 billion, $50.3 billion for the national intelligence program, and 
+$16.5 billion for the military intelligence program (fas 2016).
+the  combined,  enacted  budgets  of  the  two  principal  federal  homeland  security  and 
+immigration  enforcement  agencies,  cbp  and  immigration  and  customs  enforcement 
+(ice), exceeded $19 billion in 2015 (dhs 2016a, 10). given these immense investments 
+and the widely recognized need for better intelligence exposed by the 9/11 attacks, it is no 
+surprise that us intelligence agencies have, in fact, generated derogatory information on 
+individual syrians seeking admission to the united states.
+the known unknown presents a real but manageable challenge for the us screening 
+system. previously unknown terrorists can be identified through their associations, travel 
+methods, tradecraft, evasiveness, inconsistencies, use of social media, and other means. in 
+other words, they can be detected through a rigorous vetting, screening, and admissions 
+process. as robert bonner, former cbp commissioner, has said: we are capable of vetting 
+. theres certainly the opportunity to make sure that the refugees that we do admit do not 
+pose a security threat to our country.86
+finally, syrian refugees in europe come from upper middle-class backgrounds at higher 
+rates than refugee populations from other nations (mchugh 2015). they include doctors, 
+bankers, business people, and other professionals whose identity can be documented 
+and well-established (ibid.). they come from a society that prior to civil war served as a 
+haven for large numbers of middle eastern refugees, including two million iraqis (polk 
+2013), and that ranked among the medium human development states in the 2010 human 
+development index (undp 2010, 145). as unhcr and dhs have found, the identity of 
+many syrian refugees can be determined with a high degree of confidence. 
+in a november 19, 2015 letter to president obama, former dhs secretaries napolitano 
+and  chertoff  wrote  that  the  highest  priority  of  our  government  is  to  keep americans 
+safe and we can achieve this mission in a manner that is consistent with american values 
+of  openness  and  inclusiveness.87  in  particular,  the  united  states  can  admit  the  most 
+vulnerable of these refugees  as long as we do not compromise the already established 
+protections.88 
+
+vii. policy recommendations 
+this paper makes the case that refugee protection and national security should be viewed 
+as complementary, not conflicting, state goals. to that end, this section identifies several 
+strategies that promote both security and refugee protection. it also outlines steps that the 
+us congress should take to enhance us refugee protection policies and security. finally, 
+it argues for the efficacy of political engagement in support of pro-protection, pro-security 
+policies, and against the assumption that political populism will invariably impede support 
+for refugee protection. 
+
+86   id.
+87   letter from janet napolitano and michael chertoff, former dhs secretaries, to president barack obama 
+(nov.  19,  2015),  https://www.whitehouse.gov/blog/2015/11/19/two-former-homeland-security-secretaries-
+wrote-president-obama-safely-welcoming. 
+88   ibid.
+
+117
+
+refugee protection policies and national securitya. strategies to further national security and refugee protection
+as a conceptual matter, national security and refugee protection express the aspiration for 
+human safety and well-being, but from different perspectives and with different emphases. 
+from  a  practical  perspective,  strategies  to  advance  these  dual  priorities    conflict 
+prevention,  peacebuilding,  reconstruction,  reconciliation,  safe  return,  humanitarian  and 
+development assistance, and integration  largely align and can re-enforce each other. 
+conflict prevention represents a national security priority (white house 2015b, 10), and 
+a refugee protection imperative.89 the early and durable resolution of armed conflicts 
+(unga  2016    100[e]),  and  reductions  in  conflict,  political  terror,  and  human  rights 
+violations can reduce forced migration (shaver and zhou 2015), and avoid the escalating 
+series of negative, and often perverse, consequences and growing costs for host countries, 
+the international community, and refugees themselves (papademetriou 2015, 8). 
+states should commit far greater political and diplomatic capital to resolve the worlds 
+multiple refugee-producing crises, which include the syrian and iraqi mega-crisis, the 
+ravages of africas first world war centered in the drc, the quarter century of chaos and 
+turmoil in somalia, the civil war in south sudan, the sectarian violence in the car, the 
+flight of eritreans from poverty and conscription, the breakdown of the rule-of-law in el 
+salvador, honduras, and guatemala, the protracted and newly displaced afghani refugees, 
+and  the  stateless  rohingya,  among  others. a  national  security  framework  cannot  be 
+sustained  without  addressing  the  other  conditions  that  create  human  insecurity  and 
+displacement (vietti and scribner 2014, 27).  nor can safe, voluntary return, the preferred 
+option for most refugees, be brought to scale as a durable solution without systematically 
+addressing refugee-producing conditions.
+in  the  un  summit  report  addressing  the  large  movements  of  refugees  and  migrants, 
+the  un  secretary-general  urged  states  to  take  concrete  steps  to  uphold  the  safety  and 
+dignity of refugees and migrants; to adopt a global compact that would entail greater, 
+more integrated and differentiated commitments to refugee protection; and to develop a 
+global  compact  for  safe,  regular  and  orderly  migration  (un  secretary-general  2016 
+ 24-29). the united states has expressed its commitment to expanded and diversified 
+state commitments to address this immense human crisis.90 while the language in the un 
+report  has  been  watered  down  in  the  summit  outcome  document,  many  of  the  reports 
+key ideas have survived. in particular, the idea of a global compact on refugee protection, 
+buttressed by concrete state commitments, deserves support from both a refugee protection 
+and national security perspective.
+developed states should offer orderly and expanded access to their own territories. they 
+should  also  increase  opportunities  for  protection  through  greater  use  of  humanitarian, 
+medical, family, student, labor, and private resettlement channels (un secretary-general 
+
+89   moreover, many conflicts and other refugee-producing conditions can be anticipated (rupp 2016, 81). 
+90   the united states has announced that it will seek to identify an additional 10 states to contribute regularly 
+to un humanitarian appeals and agencies, to secure a 30 percent increase in state commitments for this work 
+(from $10 billion in 2015 to $13 billion in 2016), to double the number of refugee resettlement or other legal 
+avenues of admission worldwide, and to expand refugee education and employment opportunities by one 
+million persons in each of 10 refugee host states (campbell 2016). 
+
+118
+
+journal on migration and human security2016    83).91  legal  migration  contributes  to  security  by  denying  traffickers  access  to 
+vulnerable  persons,  preventing  crossing  deaths,  and  allowing  states  to  identify  persons 
+seeking admission and to concentrate their resources on bad actors. by contrast, terrorists 
+often  profit  from  and  occasionally  control  criminal  smuggling  rings  (adamson  2006, 
+178;  schmid  2016,  27-28).  smugglers  and  traffickers  flourish  when  the  demand  for 
+opportunities to immigrate outstrips the supply provided by official channels (adamson 
+2006, 193). in order to minimize criminally organized flows, states should align their legal 
+migration policies with their own socio-economic interests. they should also regularly 
+legalize unauthorized populations. 
+the threat of terrorist recruitment, conscription and violence speaks to the need to safeguard 
+refugees in camps and urban settings, the need to expand and expedite durable solutions, and 
+the need to extend legal migration channels to refugees. in addition, greater educational and 
+employment opportunities can immunize refugees from terrorist propaganda and diminish 
+onward migration, while affording them portable skills (un secretary-general 2016  82).
+developed  states  should  provide  far  greater  support  to  refugee  hosting  states  for  both 
+humanitarian  and  security  reasons.  the  latter  states  can  serve  as  a  bulwark  against 
+extremism and dangerous, unregulated migration. with appropriate support, they can offer 
+development opportunities to all of their residents (including refugees) and, thus, increase 
+the prospects for refugee integration. 
+terrorists seek to radicalize socially disenfranchised youth and young adults in western 
+states (iep 2015, 69). in response, states and civil society should prioritize youth education, 
+employment, socially inclusive policies, and holistic policing strategies (iep 2015, 74). 
+the literature on immigrant integration illustrates that the policies, values, and prejudices 
+of receiving communities strongly influence integration outcomes (portes and zhou 1993, 
+83).92 thus, host states should adopt strong and inclusive policies for their refugee and 
+forcibly displaced populations.
+integration  also  demands  a  commitment  by  refugees  and  asylees  to  the  core,  rights-
+respecting values and laws of receiving states. extremist groups, by contrast, seek to create 
+homogeneous societies: they reject pluralism and minority rights, and view the rule-of-
+law as an impediment to their goals (schmid 2016, 8-9).93  
+an  integrated  response  to  refugee  integration  is  also  a  hallmark  of  effective  policies: 
+integration between state agencies; between localities, states, supranational, and international 
+
+91    the  causes  and  consequences  of  violent  extremism  and  the  role  of  foreign  assistance:  hearing 
+before  the  senate  appropriations  subcommittee  on  state,  foreign  operations,  and  related  programs, 
+114th cong. (2015) (written testimony of kelly t. clements, deputy high commissioner, united nations 
+high commissioner for refugees), http://www.appropriations.senate.gov/imo/media/doc/041216%20-%20
+clements%20-%20unhcr%20-%20testimony.pdf.
+92   the reception of refugees, asylees and their children may well have a greater influence on the receptivity 
+of these populations to violent extremism than their nations of origin or ancestry (bolifrass, shaver, and zhou 
+2015). 
+93   alex schmid has usefully characterized europes core values as democratic majority rule with respect 
+for rights of minorities, rule of law, human rights, separation of state and religion, gender equality, freedom 
+of thought and religion, social solidarity, pluralist acceptance of diversity and mutual tolerance (schmid 
+2016, 51).
+
+119
+
+refugee protection policies and national securitybodies; and between government, the private sector, and ngos (un secretary-general 
+2016  114[a]). similarly, counterterrorism requires the integrated use of all elements 
+of national power, including diplomacy, intelligence, covert action, law enforcement, 
+economic policy, foreign aid, public diplomacy, and homeland defense (9/11 commission 
+2004, 205). 
+states whose members are targeted for terrorist recruitment should also prioritize countering 
+violent extremism (cve).94 as part of its national security strategy, for example, the 
+united  states  has  committed  to  addressing  the  underlying  conditions  that  can  help 
+foster violent extremism and to support alternatives to extremist messaging and greater 
+economic opportunities for women and disaffected youth (white house 2015b, 9). these 
+important goals need to be operationalized.95
+the  success  of  cve  programs  depends,  in  part,  on  their  responsiveness  to  the  diverse 
+contexts  and  motivations  of  terrorist  recruits,96  and  on  engagement  of  these  programs 
+with family, school, law enforcement, and other community institutions.97 an analysis of 
+counter-radicalization programs in the united kingdom, the netherlands, denmark and 
+norway found that programs that targeted at risk persons or those already on a path to 
+radicalization were more effective than broad, preventive initiatives (vidino and brandon 
+2012,  70).  cve  initiatives  can  be  difficult  to  assess  given  the  difficulties  in  proving 
+prevention or abandonment of an ideology or affiliation (schmid 2016, 45-54). however, 
+they should nonetheless be targeted, context-specific, and rigorously evaluated.
+liberal  democracies  have  historically  treated  migration  from  totalitarian  states  as  an 
+expression of the aspiration for freedom by persons who would otherwise be consigned 
+to lives of repression and poverty. these concerns are not implicated in cases of persons 
+seeking to join a terrorist organization or to evade arrest for domestic or overseas terrorist 
+activity. returning jihadists, in particular, should receive exhaustive screening, with an 
+eye toward determining which of a continuum of responses to impose, from release and 
+surveillance  to  criminal  prosecution  and,  in  extreme  circumstances,  to  revocation  of 
+citizenship through judicial proceedings.98 
+robust refugee and migrant vetting procedures can advance national security and pave the 
+way for generous refugee protection policies. in the post-9/11 era, the united states has 
+sought to secure mobility through: 
+94    the  related  term  counter-radicalization  has  been  described  as  a  catch  all  that  encompasses  de-
+radicalization  (to  abandon  ones  radical  views),  disengagement  (to  abandon  a  terrorist  affiliation  and 
+activities, if not its ideology), and radicalization prevention (which targets a particular segment of society 
+whose members may be vulnerable to radicalization) (vidino and brandon 2012, 9). 
+95   to  that  end,  in  2015,  the  united  states  hosted  national  and  regional  summits  on  countering  violent 
+extremism (cve). in may 2016, it released a strategy document describing its priorities in this area. cve 
+initiatives seek to eliminate or minimize the factors that cause members of targeted communities to join or 
+support terrorist organizations (schmid 2016, 53-54). 
+96   a study of 2,032 persons who fought for al qaeda broke down their motivations into four categories, 
+identity seeking (40 percent), revenge seeking (30 percent), status seeking (25 percent), and thrill seeking (5 
+percent) (iep 2015, 73).
+97    under  the  us  strategy,  cve  encompasses  not  just  prevention,  but  rehabilitation  and  reintegration 
+programs (dos and usaid 2016, 7). 
+98   denaturalization might be fitting, for example, in cases of hardened terrorists, war criminals, and others 
+who were granted citizenship based on willful misrepresentation.
+
+120
+
+journal on migration and human security 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+intelligence collection;
+expanded and accurate terrorist and criminal databases;
+information sharing within and between states;
+secure, biometrically enhanced identity documents;99
+layered  screening,  including  interviews  to  assess  eligibility  for  admission  and 
+credibility;
+enhanced background checks on migrants who meet evidence-based profiles;
+strategies that enlist public support and advance national unity; and
+continuous assessment of terrorist threats, tactics, and methods. 
+
+many  states  cannot  afford  such  an  extensive  vetting  and  screening  regime.  however, 
+the  severe,  sometimes  existential  threat  posed  by  transnational  terrorists  and  criminal 
+organizations  to  fragile  states  argues  for  increased  levels  of  interstate  cooperation  in 
+the  form  of  intelligence  collection,  information  sharing,  law  enforcement  support,  and 
+regulated migration (adamson 2006, 198). 
+while potentially an important point of exposure and vulnerability for terrorists, borders 
+should not be the sole or main locus for identifying terrorists or preventing their entry. in 
+addition, the level of investment in border and immigration enforcement policies should 
+be subjected to risk management principles. enforcement agencies should not be charged 
+with screening refugees and migrants for protection. however, if they are vested with these 
+responsibilities, an independent, specially trained unit should be created for this purpose. 
+
+b. proposals to strengthen and secure the us refugee protection 
+
+system 
+the us congress should take six steps to strengthen the us refugee protection system 
+and national security. first, congress should create a single, principal point of oversight 
+and review for homeland security (9/11 commission 2004, 421). on the 10th anniversary 
+of  the  attacks,  the  national  security  preparedness  group  (nspg)  composed  of  9/11 
+commission  members  reported  that  dysfunctional  congressional  oversight  had  created 
+gross inefficiencies and security vulnerabilities. the nspg found that dhs answered to 
+more than 100 committees and subcommittees and, in 2009 and 2010, provided more 
+than 3,900 briefings and testified more than 285 times (nspg 2011, 16). as a result, 
+dhs operates under unclear security policies, duplicates efforts, receives conflicting 
+guidance, and has not successfully integrated its constituent parts (ibid.) 
+according to james ziglar, the failure of congress to have a focused oversight strategy 
+for dhs actually endangers our national security interests by forcing dhs to respond to 
+the policy and political interests of hundreds of members of congress (and committees), 
+as well as the increased risk of disclosure of confidential and classified information in the 
+hands of so many members.100 ziglar argues that dhss responsibilities are as important 
+as those of us intelligence agencies, yet the congress refuses to manage the oversight 
+of dhs with the same seriousness as it does with the intelligence agencies.101 congress 
+
+99   identity assurance can also increase the efficiency of humanitarian and resettlement assistance.
+100   interview by author with james ziglar, former ins commissioner (dec. 29, 2015).
+101   ibid.
+
+121
+
+refugee protection policies and national securityshould move with alacrity to streamline its oversight of the nations homeland security 
+agency.
+second, congress should ensure that dhs creates a unified command structure to respond 
+to terrorist attacks and other catastrophic events that implicate multiple jurisdictions and 
+agencies (nspg 2011, 12-13). just as integration between diverse government agencies 
+is central to preventing terrorism, so too can an integrated response to terrorist attacks 
+minimize their impact and transform them into an occasion for national unity. 
+third, as stipulated in the refugee act of 1980, congress should also create a presidentially 
+appointed  us  coordinator  for  refugee  affairs  to  develop  refugee  policy,  coordinate 
+admission  and  resettlement  programs,  and  serve  as  a  liaison  to  foreign  governments, 
+congress, relevant federal agencies, state and local governments, and ngos.102 given the 
+high degree of interest in and misinformation related to the refugee program, the time is 
+ripe to create such a position. 
+
+as it stands, the united states cannot credibly deny 
+
+admission to desperate, well-vetted refugees on 
+
+security-related grounds, but allow potential terrorists 
+
+to purchase firearms and explosives
+
+fourth, congress should pass legislation to prevent suspected terrorists from purchasing 
+firearms and explosives, while permitting those who wish to purchase firearms and are 
+incorrectly on the fbis terrorist watch list to clear their names in an expedited way. isis 
+has identified us firearm policies as a source of vulnerability to the united states (taylor 
+2016). the fbi operates the national instant criminal background check system (nics), 
+which allows federal, state, and local law enforcement to conduct checks on persons seeking 
+to purchase firearms or to secure a permit to obtain, sell, or transfer explosives. nics 
+searches the fbis national crime information center (ncic) database, which contains 
+information on persons wanted by federal, state, and local law enforcement, and the 
+fbis consolidated terrorist screening database. as the law stands, felons, fugitives, and 
+persons without immigration status cannot purchase firearms or explosives in the united 
+states, but suspected terrorists can.
+in  march  2015,  the  us  government  accountability  office  (gao)  reported  that  from 
+february 2004 through 2014, persons on the terrorist watch list were involved in firearm 
+or explosives background checks 2,233 times and that 2,043 (about 91 percent) of the 
+transactions were allowed to proceed ... (gaoa 2015). the fbi can use information on an 
+attempted purchase in its counterterror investigations. however, it does not always know 
+if suspected terrorists have actually obtained firearms or a license or permit for explosives 
+because gun and explosives dealers must keep this information, but need not report it (gao 
+2010, 4). 
+despite  strong  public  support,  bills  to  allow  potential  gun  purchasers  to  challenge  an 
+incorrect terrorist watch list designation and to prevent terrorists from purchasing firearms 
+and explosives have been reliably defeated (ingraham 2015; ingraham 2016), including 
+102   refugee act of 1980, pub. l. no. 96-212, 94 stat. 102  301 (1980).
+
+122
+
+journal on migration and human securityby the us senate on december 3, 2015 (after the san bernardino attack) and on june 20, 
+2016 (after the orlando attack by a us citizen formerly on a terrorist watch list). congress 
+should pass bipartisan legislation to address these dual imperatives. as it stands, the united 
+states  cannot  credibly  deny  admission  to  desperate,  well-vetted  refugees  on  security-
+related grounds, but allow potential terrorists to purchase firearms and explosives. nor 
+should it deny the right to purchase firearms to persons mistakenly or incorrectly placed on 
+the terrorist watch list.
+fifth,  congress  should  depoliticize  its  oversight  of  the  us  refugee  program. the  need 
+for  generous  refugee  protection  policies  and  for  a  rational  assessment  of  their  security 
+vulnerabilities has never been so great. it represents an exercise in cynicism to conflate 
+persons who have fled for their lives, with the terrorist groups who, in many cases, prompted 
+their flights, or to portray the interests of those seeking protection as at odds with citizens 
+who  expect  to  be  safe  and  secure  in  their  own  nations.  like  national  security,  refugee 
+protection should be a valence issue, supported across the political spectrum and debated 
+on the level of strategy and tactics. 
+
+effective responses to large-scale refugee crises have 
+
+invariably resulted from political leadership, strong domestic 
+constituencies, and a high level of public understanding and 
+
+acceptance of those seeking protection
+
+sixth,  while  100  percent  security  cannot  be  guaranteed,  the  us  refugee  resettlement 
+program is highly securitized.103 the response to a security breach in this program should 
+not be a bar on the admission of desperate people. instead, it should be an exhaustive 
+review of whether officials rigorously followed all the steps in the vetting and screening 
+process. if they did not, quality control and oversight need to be improved. if they did, 
+previously unrecognized vulnerabilities need to be immediately remedied. as a matter of 
+course, refugee and international migration policies should be continuously assessed and, 
+if necessary, strengthened based on evolving intelligence on terrorist intentions, methods 
+and tactics.
+
+c. making refugee protection a popular cause
+
+it is a central paradox in the debate over refugee protection and security that effective 
+protection  policies  can  further  security,  but  security-driven  fears  often  impede  their 
+adoption. many policymakers, commentators, and advocates attribute hostility to refugees 
+and other forcibly displaced persons to political populism, stoked by demagogues. extremist 
+political movements have been on the ascent in europe and the united states (troianovski 
+2016). these movements criticize what they perceive to be collusion between the press 
+and the political elite. they maintain that islam is incompatible with liberal democracy, 
+challenge the legitimacy of state institutions, oppose the putative loss of sovereignty to 
+supranational and international institutions, and support generous social welfare policies 
+
+103   interview by author with vincent cannistraro, former chief of operations and analysis in the cias 
+counter-terrorism center (nov. 20, 2015).
+
+123
+
+refugee protection policies and national securityfor natives. they seek an exclusive kind of order and security that diminishes the prospects 
+for security for refugees and other forcibly displaced persons.  
+national defense and public safety represent core responsibilities of sovereign states. yet 
+as reflected in a succession of seminal human rights instruments since world war ii, states 
+also  exist  to  safeguard  the  rights  of  their  citizens  at  home  and  abroad,  non-citizens  in 
+transit, persons fleeing persecution at their borders, refugees and immigrants who settle in 
+their territories and (in limited circumstances) imperiled person beyond their borders (un 
+secretary-general 2016  13, 54). 
+the  debate  over  how  to  reconcile  these  broad  responsibilities  will  remain  messy  and 
+fraught, but it must be engaged politically and cannot remain a debate between refugee 
+protection and national security. refugee resettlement and admission policies arise from 
+political  commitments,  not  from  international  legal  commitments.  effective  responses 
+to  large-scale  refugee  crises  have  invariably  resulted  from  political  leadership,  strong 
+domestic constituencies, and a high level of public understanding and acceptance of those 
+seeking protection. it seems trite to make the case that public opinion matters for refugee 
+protection, but in fact it does. moreover, public opinion surveys,104 and the great generosity 
+of many host communities offer abundant evidence of public support for refugees. the need 
+is not to extinguish populist politics, but to educate the public on the interconnectedness of 
+refugee protection and security, and to make protection a popular cause.  
+
+104   eighty percent of respondents in a global survey of 27,000 persons in 27 nations said they would accept 
+persons fleeing war or persecution into their countries, 10 percent said they would accept such persons into 
+their homes,73 percent believed that such persons should be able to take refuge in other countries, and 66 
+percent said that states should do more to help persons fleeing war or persecution (amnesty 2016). 
+
+124
+
+journal on migration and human security

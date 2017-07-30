@@ -1,0 +1,1079 @@
+on the margins: noncitizens 
+caught in countries experiencing 
+violence, conflict and disaster1 
+
+sanjula weerasinghe 
+georgetown university
+
+abbie taylor
+georgetown university
+
+with sarah drury, pitchaya indravudh, aaron gregg and john flanagan2 
+georgetown university
+
+ 
+executive summary 
+today, perhaps more than ever, humanitarian crises permeate the lives 
+of millions, triggering increased human movement and repeatedly testing 
+the  international  communitys  capacity  to  respond.  stakeholders  within 
+the  international  community  have  recognized  that  existing  legal  and 
+institutional frameworks for protecting forced migrants are inadequate to 
+address the diversity of movements and needs. this article examines the 
+situation of noncitizens who are caught in violence, conflict, and disaster, 
+and asserts that they are an at-risk population requiring tailored responses. 
+recent  history  has  witnessed  numerous  humanitarian  crises  in  which 
+noncitizens  have  been  among  those  most  seriously  affected.  with  more 
+people than at any other point in history residing outside of their country 
+of  origin,  the  presence  of  new  and  sustained  eruptions  of  violence  and 
+conflict, and the frequency and intensity of disasters predicted to increase, 
+noncitizens  will  continue  to  be  caught  in  countries  experiencing  crises. 
+destination countries, as well as origin countries whose citizens are caught 
+in crisis situations abroad, must understand the challenges that noncitizens 
+may encounter in accessing assistance and protection, and must formulate 
+responses to ensure that their needs are adequately accommodated.
+while both citizens and noncitizens may encounter difficulties in any given 
+humanitarian crisis, research on five recent crisesthe libyan uprising, 
+1   the  authors  are  grateful  to  professor  susan  f.  martin  for  providing  the  opportunity  to  undertake  this 
+research and for general comments and suggestions on the issue.
+2   sarah drury primarily provided research assistance on the libya and syria crises; pitchaya indravudh 
+on the thailand crisis; aaron gregg on the japan crisis; and john flanagan on the unites states crisis. the 
+authors would also like to thank all the research assistants who provided editorial and research support for 
+this paper. 
+
+ 2015 by the center for migration studies of new york. all rights reserved.jmhs volume 3 number 1 (2015): 26-57the tohoku earthquake, the tsunami and fukushima nuclear accident in 
+japan, flooding in thailand, hurricane sandy in the united states, and 
+the on-going conflict in syriademonstrates that a range of factors create 
+particular  challenges  for  noncitizens.  factors  related  to  the  underlying 
+environment  in  the  country  undergoing  a  crisis  and  the  responses  of 
+different actors may exacerbate the vulnerability of noncitizens. moreover, 
+different groups of noncitizens manifest distinct protection needs due to 
+specific attributes. in a given context, the interaction of these factors leads 
+to varying levels of vulnerability for different groups, and the experiences 
+of noncitizens in crisis situations implicate a range of fundamental human 
+rights. 
+promising practices which may reduce the vulnerabilities of noncitizens 
+and  their  exposure  to  harm  during  crises  include:  limiting  immigration 
+enforcement  activities  in  favor  of  dispensing  life-saving  assistance; 
+communication of emergency and relief messages in multiple languages 
+and modes; facilitating entry and re-entry; and providing targeted relief 
+services. these practices are not limited to countries experiencing crises; 
+origin countries have also displayed judicious actions, undertaking bi-lateral 
+negotiations to address specific needs and seeking external assistance in 
+order to protect their citizens who are caught in crisis situations.  
+this article seeks to inform ways to mitigate the vulnerabilities and address 
+unmet assistance and protection needs of noncitizens caught in countries 
+experiencing  crises.  it  focuses  primarily  on  vulnerabilities  experienced 
+during crises, acknowledging the importance of preventative action that 
+targets  the  potential  vulnerabilities  and  needs  of  noncitizens.  it  also 
+acknowledges that assistance and protection needs often persist beyond the 
+abatement of crises and warrant ongoing intervention. the observations 
+presented in this paper are drawn from desk research on a limited number 
+of situations, and therefore, the article is an introductory attempt to call 
+attention to the issues at play when a crisis occurs, rather than an in-depth 
+study of the subject. nonetheless, it offers recommendations for alleviating 
+the exposure of noncitizens, which include actions aimed at:
+  addressing the underlying legal and policy landscape related to crises 
+and relevant areas like immigration so as to account for the presence 
+and needs of noncitizens;
+
+that address their particular needs and vulnerabilities. 
+
+  ensuring that all categories of noncitizens are able to access, understand 
+and  navigate  information  regarding  emergency  and  relief  assistance 
+and are able to utilize them; and
+
+  limiting the exposure of noncitizens to harm through targeted measures 
+
+27
+
+on the marginspart  1:  crisis  migration  and  noncitizens  as  an  at-risk 
+population
+today, perhaps more than ever, humanitarian crises permeate the lives of millions, triggering 
+increased human movements and repeatedly testing the international communitys capacity 
+to respond. in november 2013, the devastation reaped by typhoon haiyan in the philippines 
+affected 14.1 million people and displaced 4.1 million (yonetani et al. 2014). weeks later, 
+an  escalation  of  violence  among  political  factions  in  south  sudan  created  widespread 
+instability and forced thousands to flee within and across borders, many of whom had only 
+recently returned to settle in the country. amid prolonged drought, there is also growing 
+concern over severe food insecurity, and the possibility of famine in south sudan (irin 
+2014). meanwhile, in syria, almost half of the population is in urgent need of humanitarian 
+assistance  due  to  the  armed  conflict,  including  millions  of  internally  displaced  persons 
+and those living as refugees in neighboring countries and beyond (idmc 2014b; unhcr 
+2014a). and by late-2014, ebola had killed thousands of people and crippled much of 
+west africa, prompting guinea, liberia, mali, sierra leone and other countries to adopt 
+measures to curtail movement and prevent the spread of the epidemic (who 2014). across 
+the atlantic, tens of thousands of children from el salvador, guatemala, honduras and 
+mexico have been displaced within their countries and across international borders with 
+more than 68,000 apprehended at the us-mexico border in 2014 after undertaking perilous 
+journeys. most were escaping pervasive gang and drug cartel violence (unhcr 2014c). 
+as  is  evident  from  these  examples,  humanitarian  crisesdescribed  as  any  situation  in 
+which there is a widespread threat to life, physical safety, health or basic subsistence that 
+is beyond the coping capacity of individuals and the communities in which they reside 
+(martin, weerasinghe and taylor 2014)may be triggered by a diverse range of events 
+and  processes.  triggers  include  hurricanes,  tsunamis,  earthquakes,  drought,  famine, 
+environmental  degradation,  other  impacts  of  climate  change,  epidemics  or  pandemics, 
+nuclear and industrial accidents, acts of terrorism, armed conflict, generalized violence, 
+and political instability. while these triggers may often constitute the immediate cause 
+of a humanitarian crisis, underlying stressors related to the political and socio-economic 
+context in a given country or locale, and individual- and community-level agency, resources 
+and capacities, generally determine its scale and intensity. 
+human  movement  stemming  from  diverse  crises  is  at  unprecedented  levels  and  may 
+increase in years to come. the latest statistical compilation from the office of the united 
+nations  high  commissioner  for  refugees  (unhcr)  reveals  that  persecution,  conflict, 
+generalized  violence,  and  human  rights  violations  alone  had  forcibly  displaced  51.2 
+million  individuals  by  the  end  of  2013  (unhcr  2014e;  trk  2014),  representing  the 
+highest figures since unhcr first began compiling such statistics (trk 2014). moreover, 
+during the five-year period between 2008 and 2012, an estimated 143.9 million people 
+in 125 countries were displaced by disasters stemming from rapid-onset weather-related 
+and geophysical hazards such as floods, storms, earthquakes and wildfires (yonetani 2012, 
+11). these figures do not necessarily capture displacement emanating from technological 
+hazards (such as nuclear and industrial accidents), biological hazards (such as epidemics 
+and pandemics) and slower-onset processes such as droughts and sea-level rise (idmc 
+2014a). in addition, climate change is projected to increase the displacement of people in 
+the twenty-first century (ipcc 2014). meanwhile, processes of political change do not only 
+
+28
+
+journal on migration and human securitygenerate instability, but also provoke new movements and protracted needs. 
+existing legal and institutional frameworks for protecting forced migrants are inadequate to 
+address the diversity of movements and needs. frameworks that were conceived to protect 
+those who flee persecution, human rights violations and ongoing conflict, may evolve and 
+possess sufficient elasticity to accommodate so-called new phenomena, such as cross-
+border displacement deriving from gang and drug cartel violence. even so, they cannot 
+accommodate all those who are compelled to flee as a consequence of other triggers, such as 
+weather-related, geophysical, technological, and biophysical hazards. this understanding is 
+perhaps best captured by the words of the united nations high commissioner for refugees 
+in a ministerial-level address to mark the 60th anniversary of the 1951 convention relating 
+to the status of refugees: while the nature of forced displacement is rapidly evolving, the 
+responses available to the international community have not kept pace.3 
+a range of initiatives aims to better understand movements and protection needs in the 
+context  of  crises.4 among  these  is  georgetown  universitys  institute  for  the  study  of 
+international migrations (isim) project on crisis migration,5 which seeks to discern the 
+commonalities in movements and protection needs stemming from diverse humanitarian 
+crises as a first step towards enhancing protection and assistance.6 the projects preliminary 
+findings relate to a range of thematic areas, including the vulnerabilities and protection 
+needs of certain categories of at-risk populations who are not typically singled out as being 
+vulnerable.7  this  paper  presents  findings  relating  specifically  to  noncitizens8  caught  in 
+countries experiencing crises. 
+
+3    mr. antnio  guterres,  statement  by  mr. antnio  guterres,  united  nations  high  commissioner  for 
+refugees, intergovernmental meeting at ministerial level to mark the 60th anniversary of the 1951 convention 
+relating to the status of refugees and the 50th anniversary of the 1961 convention on the reduction of 
+statelessness (speech, geneva, december 7, 2011), unhcr. http://www.unhcr.org/4ecd0cde9.html.
+4    see,  for  example,  the  nansen  initiative,  unhcrs  guidelines  on  temporary  protection  or  stay 
+arrangements, and the international organization for migrations migration crisis operation framework. 
+5   for more information on georgetown universitys project on crisis migration, supported by the john d. 
+and catherine t. macarthur foundation, visit: http://isim.georgetown.edu/crisis. 
+6   the project posits three principal ways in which movement occurs in the context of crises: (1) displacement 
+as a direct result of a crisis; (2) anticipatory movement in the context of impending crises; and (3) planned 
+relocation, particularly for those who might be otherwise trapped in life-threatening situations. displacement 
+encompasses those who are directly affected or threatened by a humanitarian crisis and who are compelled 
+to move. anticipatory movement encompasses those who move because they anticipate future threats to their 
+lives, physical safety, health or subsistence. relocation, particularly for populations that may otherwise be 
+trapped in life-threatening situations, encompasses those who are in harms way, but are trapped in place and 
+havent moved due to physical, financial, security, logistical, or other reasons that impede movement. these 
+movements may be temporary, protracted or permanent, internal or across international borders, and legal or 
+(particularly with regard to the first two categories) clandestine. these categories are not intended to operate 
+as legal definitions, but rather reflect an attempt to understand movement in the context of humanitarian crises. 
+the categories are not mutually exclusive as individuals may move from one to another, or simultaneously 
+fall into more than one.
+7   other at-risk populations that the research has examined include those who travel by sea, those who are 
+trapped in place and require assistance to move out of harms way, and those who are displaced to urban 
+areas.
+8   the term noncitizen is used in this article to describe persons who are present (regardless of duration or 
+legal status) in a country in which they are not citizens. the term includes migrant workers, refugees, asylum 
+seekers, stateless persons, students, and others.
+
+29
+
+on the marginsover the last 25 years, the world has witnessed numerous humanitarian crises in which 
+noncitizens were among those most seriously affected. the issue first came to prominence 
+during  the  gulf  war  in  1990-1991,  which  affected  more  than  one  million  noncitizens 
+who  were  residing  in  kuwait,  along  with  hundreds  of  thousands  in  iraq.  fifteen  years 
+later in 2006, renewed conflict in lebanon posed considerable challenges for hundreds of 
+thousands of refugees and asylum seekers, stateless persons and domestic workers from 
+lower-income  countries  (jureidini  2011).  outside  the  middle  east,  post-election  unrest 
+in  cte  divoire  displaced  thousands  from  neighboring  countries  in  2010.  many  were 
+left to find their own means of exit from the country, as evacuations and humanitarian 
+assistance were thwarted by violence (koser 2014). in 2011, when hundreds of thousands 
+of migrant workers were caught up in political instability and civil war in libya, the need 
+to make provisions to better assist and protect noncitizens in times of crisis surfaced as 
+a priority for policymakers. in the months that followed, the devastating consequences 
+of  the  earthquake,  tsunami  and  nuclear  disaster  in  japan  along  with  severe  flooding  in 
+thailand and the worsening conflict in syria, reified the need among states and the broader 
+international community to formulate a coordinated response for noncitizens residing in 
+countries in the throes of acute humanitarian crisis.
+humanitarian crises triggered by the sudden onset of violence, conflict or disaster have 
+called attention to the risks to which noncitizens are exposed in these situations, as well as 
+their protection needs. there is a tendency for the protection of noncitizens to fall through 
+the cracks because of failure to understand and/or take account of the unique challenges 
+they  face,  and  because  extant  frameworks  and  mechanisms  insufficiently  articulate  the 
+responsibilities of different actors. in this context, in late 2013, amid mounting academic, 
+institutional and policy debates at the un high-level dialogue on international migration 
+and  development,  the  united  states  and  the  philippines  launched  a  state-led  initiative 
+on migrants in countries in crisis (micic) to improve the capacity of states and other 
+stakeholders to prepare for, respond to, alleviate suffering, and protect the dignity and 
+rights of migrants caught in countries in situations of acute crises (iom, n.d.).
+with this political momentum as a backdrop, this paper seeks to shed light on protection 
+implications for noncitizens caught in countries experiencing violence, conflict and disaster 
+by examining five prominent crises across three continents between 2011 and 2012: the 
+libyan uprising; the tohoku earthquake, tsunami and the fukushima nuclear accident in 
+japan; flooding in thailand; hurricane sandy in the united states; and the ongoing conflict 
+in syria.9
+this paper illustrates that in the context of violence, conflict and disaster:
+
+  noncitizens may be distinctly vulnerable due to a range of factors pertaining to the 
+underlying environment in the country experiencing the crisis and the responses of 
+different actors. these include: transmission of crisis-related information in modes 
+that do not cater to noncitizens; insufficiently-attuned laws and policies; exclusion 
+
+9   these crises were chosen because media reports indicated that significant populations of noncitizens were 
+affected in each of these situations. evidence presented in this paper was collected through desk research using 
+publicly available sources from international organizations, think-tanks, international nonprofit organizations, 
+governments, and media outlets. there are limits on the extent to which it is possible to generalize from these 
+examples, and this paper does not use a case study method with the intent of generalizing across all crises.
+
+30
+
+journal on migration and human securityfrom or difficulties accessing or benefiting from relief services; lack of consideration 
+of  noncitizens  in  national  frameworks;  actions  of  rogue  authorities  and  private 
+actors; targeting due to ethnicity; border restrictions of contiguous countries; and 
+lack of origin country mechanisms and capacity for protecting citizens abroad. 
+
+  among  noncitizens,  different  groups  manifest  distinct  protection  needs  due  to 
+specific  attributes.  those  with  heightened  vulnerabilities  may  include:  persons 
+without immigration status; domestic workers; refugees; asylum seekers; stateless 
+persons; and detainees.
+
+  noncitizens may be susceptible to violations of fundamental human rights. 
+
+the paper also describes a handful of promising practices in the context of humanitarian 
+crises triggered by violence, conflict and disaster. 
+while the analysis emphasizes protection needs and responses during crises, it suggests 
+that  greater  awareness  of,  and  attention  to,  the  vulnerabilities  and  protection  needs  of 
+noncitizens throughout all phases of a crisis could mitigate harm to these populations (iom 
+2014a).10 specific and targeted measures are needed to address vulnerabilities that affect 
+noncitizens before a crisis, protection and assistance during a crisis and challenges that 
+prevail  following  the  abatement  of  a  crisis.  responses  may  also  need  to  be  tailored  to 
+address the diversity of movements and non-movement that occur in the context of crises 
+as people may move within a country, into neighboring countries or farther afield, or face 
+impediments to moving out of harms way and require assistance to relocate. 
+the paper provides an overview of the five crises, describes factors that influenced the 
+vulnerability of noncitizens, and concludes with recommendations. 
+
+part 2:  recent crises 
+
+i. libyan uprising 
+
+in mid-february 2011, anti-government protests spread across libya, meeting a violent 
+crackdown  from  colonel  muammar  gaddafis  regime  (bbc  news  2011a).  unlike  the 
+uprisings  in  egypt  and  tunisia,  libyas  civil  unrest  descended  into  an  armed  conflict 
+between government forces and north atlantic treaty organization-backed rebels, which 
+continued  until  gaddafis  overthrow  in  october  2011. the  main  period  of  crisis  ended 
+with the fall of the gaddafi regime, but weak rule of law and widespread insecurity has 
+continued with suicide attacks, frequent abductions, and clashes between rival militias in 
+and around towns and cities throughout the country. 
+
+10   while this paper focuses primarily on the needs of noncitizens during crises, pre-crisis practices, as well 
+as  the  experiences  and  protection  needs  of  noncitizens  in  post-crisis  situations  warrants  further  research 
+and analysis. it should also be noted that this desk study focuses primarily on the actions of states, which 
+have principal responsibility for assisting and protecting noncitizens. other relevant stakeholders to consider 
+include:  regional  institutions  and  cooperation  mechanisms;  international  organizations  and  coordination 
+mechanisms, such as the inter-agency standing committee; employers, recruitment agencies and other private 
+sector actors; civil society, including the red cross and red crescent movement; workers organizations; and 
+noncitizens and members of the diaspora.
+
+31
+
+on the marginslibya was a popular country of destination and transit for noncitizens due to its oil wealth 
+and proximity to europe.  some estimates before 2011 indicate the presence of up to 2.5 
+million noncitizens, including 1.2 million without immigration status (aghazarm, quesada 
+and tishler 2012). thousands of foreigners occupied high-skilled jobs in the oil industry, 
+health, and education sectors. however, the majority of noncitizens residing in libya at the 
+time of the crisis were men from egypt, chad, tunisia, niger, mali and sudan working in 
+lesser-skilled occupations in the construction, agriculture, oil and service industries (human 
+rights watch 2011a).11 libya was also a transit and destination country for refugees and 
+asylum  seekers,  and  a  recipient  country  of  boats  of  mixed  populations  prevented  from 
+entering europe (frelick 2009). according to unhcr, at the beginning of 2011, there 
+were around 8,000 registered refugees and approximately 3,000 asylum seekers residing in 
+libya12 from countries such as cte divoire, eritrea, ethiopia, iraq, palestine, somalia, 
+sudan and western sahara (amnesty international 2011).
+prior  to  the  crisis,  the  protection  landscape  for  noncitizens  inside  libya  was  far  from 
+favorable, colored by human rights violations, racial discrimination, and an uneven regional 
+balance  of  power  (human  rights  watch  2011b).  existing  protection  challenges  were 
+aggravated by the outbreak of political unrest and armed conflict. the violence generated 
+widespread suffering and mass displacement within and across the libyan border, affecting 
+a significant population of noncitizens.13 overall, between late february 2011 and january 
+2012, 790,000 noncitizens fled to neighboring tunisia, egypt, chad and niger, as well as 
+italy and malta, to escape the escalating violence, although many of these countries were 
+themselves experiencing some degree of political and economic instability (aghazarm, 
+quesada and tishler 2012, 11).14 forty-five percent of those who fled (316,321) sought 
+refuge in a country that is not their country of origin (iom 2011a). due to lack of financial 
+resources and travel documents, the vast majority of noncitizens had no personal means of 
+exiting (ibid., 10). a total of 550,000 people were displaced within libya in 2011 (unhcr 
+2014b), a portion of whom were believed to be migrant workers, asylum seekers, refugees 
+and  stateless  persons  (fiddyan-qasimyeh  2011).  others,  particularly  noncitizens  from 
+sub-saharan africa, were trapped or detained inside the country with little or no recourse, 
+a  phenomenon  which  only  increased  amid  growing  xenophobia,  fear  and  mistrust  of 
+foreigners after the conflict began (nebehay 2011). human rights groups expressed concern 
+that these persons faced arbitrary detention and abuse (amnesty international 2013c).
+
+11   migrant workers in libya also included tens of thousands from asian countries (aghazarm, quesada and 
+tishler 2012).
+12   unhcr suspects that the true number is higher, given that many do not register. in 2007, although 12,000 
+refugees, asylum seekers, internally displaced and stateless persons in lybia were registered with unhcr, 
+it estimated that there were close to 30,000 persons in need of protection residing in the country. see http://
+www.nationalityforall.org/libya.
+13   in libya, distinctions between different types of noncitizens (migrant workers, refugees, asylum seekers, 
+stateless persons, diplomats, business travelers, tourists and students) are often blurred.
+14   while 247,167 libyan nationals crossed into egypt during the crisis and 626, 010 went to tunisia, the 
+international organization for migration (iom) notes that most of these movements were circular, with the 
+vast majority of libyans returning home by the end of august 2011. notably, very few libyans sought shelter 
+at temporary camps on the border. almost no libyans were found among those arriving by boat on the shores 
+of italy and malta, a mode of movement that comprised 3.9 percent of the overall number of people fleeing 
+libya (aghazarm, quesada and tishler 2012, 11).
+
+32
+
+journal on migration and human securityii. triple disaster in japan
+
+on march 11, 2011, a 9.0 magnitude earthquake struck the japanese coastline, triggered 
+a 30-foot tsunami and decimated communities primarily in the northeastern prefectures 
+of iwate, miyagi, and fukushima (bartel 2011). these natural occurrences prompted one 
+of the worst nuclear disasters since chernobyl at the fukushima daiichi nuclear power 
+station.  the  earthquake  and  tsunami  killed  more  than  15,800  and  injured  over  6,000 
+(izumi 2012b). the bulk of the death toll was associated with the tsunami (ferris and sols 
+2013). no deaths have been attributed to the nuclear explosion or the resultant radiation 
+release, although stress and anxiety related to the incident have been credited with creating 
+many health problems for those affected (conca 2014). approximately 465,000 people 
+were evacuated (ferris and sols 2013). the economic cost of the crisis is estimated at 
+$360 billion (ibid.), with 250,000 buildings damaged or destroyed, 4.4 million households 
+without  electricity  and  2.3  million  without  access  to  water  in  the  immediate  aftermath 
+(koike 2011).
+at the time of the triple disaster, japan was home to roughly 2,078,480 noncitizens (izumi 
+2012b).  chinese  citizens  constituted  the  largest  enclave  in  japan  with  south  koreans, 
+brazilians,  and  filipinos  comprising  other  sizeable  populations  (ibid).  the  noncitizen 
+population included roughly 141,774 foreign students, the majority hailing from surrounding 
+asian countries, most significantly china and south korea, and to a lesser extent taiwan, 
+vietnam and malaysia (jasso 2010). the population of refugees and asylum seekers in 
+japan is much smaller than other classes of noncitizens: at the end of 2010, japan was 
+home to just 2,586 refugees and persons in refugee-like situations, 3,078 asylum seekers, 
+and 1,397 stateless persons (unhcr 2011).15 
+an estimated 700,000 noncitizens were residing in areas that were in some way affected 
+by  the  triple  crisis  (iom  2011b)  with  approximately  33,000  in  the  three  main  affected 
+prefectures, 200,000 in the surrounding prefectures and 423,000 visiting the area (izumi 
+2012b). the earthquake and tsunami killed 2316 and injured 173 noncitizens (ibid.), while 
+an  estimated  470,000  foreigners  are  reported  to  have  left  japan  during  the  time  of  the 
+disaster (duncan 2013). many refugees and asylum seekers also chose to leave (koike 
+2011). there is little additional aggregate-level information on noncitizens affected by the 
+crisis. government efforts to track the missing indicate that japan worked with foreign 
+embassies to compile a list of at least 600 missing noncitizens and that this information was 
+furnished to the local police and rescue administration (iom 2011b). 
+
+iii. flooding in thailand
+
+from august  to  december  2011,  thailand  experienced  its  worst  flooding  in  50  years, 
+creating devastating effects for residents and the economy and prompting the government 
+to  execute  countrywide  disaster  management  and  relief  measures.  the  floods  were  a 
+byproduct of four major storms, which resulted in the countrys highest level of rainfall 
+
+15   the asylum seeker figure is based on the number of pending applications.
+16   this figure does not include those missing and presumed dead. for more information on this see damage 
+measures  and  police  countermeasures  report,  accessible  at:  http://www.npa.go.jp/archive/keibi/biki/
+higaijokyo_e.pdf. 
+
+33
+
+on the marginsin  more  than  60  years,  and  also  heavily  affected  the  neighboring  countries  of  laos, 
+cambodia and vietnam, all of which had citizens residing in thailand.  as a result of the 
+floods, thailand incurred $45.7 billion in costs as of december 2011 (world bank 2011; 
+the economist 2012). sixty-six out of thailands 77 provinces were critically impacted 
+(bhoocha-oom and dixon 2012). the central region, which generates a large portion of 
+the countrys economic output, experienced the longest period of flooding (pongsudhirak 
+2011; chariyaphan 2012). 
+thailand  has  historically  hosted  large  populations  of  noncitizens,  especially  from 
+neighboring countries, who seek refuge from conflict and violence or greater opportunity 
+within its growing economy (jones and im-em 2011).  at the end of 2009, an estimated 
+3.5 million noncitizens resided in thailand, comprised of refugees and asylum seekers, 
+ethnic  minorities  without  thai  citizenship  (unesco  2014),  permanent  residents, 
+students and migrant workers (iom 2011c). low-skilled migrant workers from myanmar, 
+cambodia, and laos represent the largest population of noncitizens in thailand. these 
+workers are primarily employed in sectors such as agriculture, construction and fishing 
+(ibid.). at the end of 2010, there were an estimated 2.4 million noncitizens originating from 
+these countries, with 1.4 million (almost 60 percent) designated as unregistered migrant 
+workers17 or family members. according to the international organization for migration 
+(iom), 141,076 refugees and asylum seekers were living in thailand in 2010, and of this 
+population,  95,330  refugees  resided  in  camps  along  the  thai-myanmar  border  (ibid.). 
+thailand is not a signatory to the 1951 united nations convention relating to the status 
+of refugees. thailand considers individuals whose visas have expired to be unauthorized 
+immigrants and they are therefore subject to arrest, detention, and deportation (den otter 
+2007, 14; frelick and saltsman 2012).
+overall, the floods affected 13 million people (bhoocha-oom and dixon 2012), with 1.5 
+million displaced (yonetani 2012) and over 800 killed (agence-france presse 2011). a 
+demographic  breakdown  of  these  statistics,  particularly  the  total  number  of  foreigners 
+impacted  or  displaced  by  the  crisis,  is  unavailable.  however,  out  of  the  3.5  million 
+noncitizens estimated to be living in thailand, one million migrant workers are believed 
+to have lived in areas affected by the floods (koser 2014). aid workers put the number of 
+migrant workers stranded due to the disaster at 600,000 (ibid.). the floods significantly 
+impacted industrial parks in ayutthaya and pathum thani, which employ large numbers 
+of  migrant  workers,  often  in  unsafe  living  and  working  conditions  (gemenne,  brcker 
+and ionesco 2012; iom 2011c). severe flooding in these areas put many migrant workers 
+temporarily or permanently out of work (iom 2011c). while only a few refugee camps 
+along  the  thai-myanmar  border  were  affected  (adra  2011),  unhcr  estimates  that 
+the  floods  also  displaced  2,000  urban  refugees  and  asylum  seekers  living  in  bangkok 
+(mckinsey 2011). 
+
+iv. hurricane sandy in the united states
+
+on october 27, 2012, hurricane sandy, the largest atlantic hurricane on record, struck the 
+
+17   unregistered migrant workers refers to migrants who work in the country but do not have a valid work 
+permit, though some may have a temporary thai identification card procured through a previous formal 
+registration or valid work permit.
+
+34
+
+journal on migration and human securitydensely-populated east coast of the united states, creating widespread devastation for the 
+residents of new york city, the new jersey coastline, and southern connecticut (webley 
+2012). this disaster, which media outlets and meteorologists termed a super storm, left 
+more than 130 people dead in the us, with fatalities recorded elsewhere in haiti, cuba, 
+puerto rico, the bahamas, the dominican republic, and canada (rogers 2012). hurricane 
+sandy forced some 450,000 people to evacuate damaged and destroyed homes (susman, 
+tanfani and simon 2012). overall, the disaster cost around $65 billion in damages, making 
+it the most expensive storm in us history after hurricane katrina (noaa, n.d.).
+some of the hardest-hit areas in new york and new jersey contained large immigrant 
+populations. the foreign-born population of new york city is the largest of any city in 
+the united states (us census bureau 2011), at just over three million people. roughly 51 
+percent of the foreign-born are naturalized us citizens. of the foreign-born residents of 
+new york city, 51.5 percent come from latin america and the caribbean; 27.5 percent 
+from asia; and 15.9 percent from europe (ibid.). an analysis of data from 2000 to 2006 
+conducted by jeffrey s. passel estimated there were 535,000 unauthorized immigrants and 
+374,000 unauthorized workers in new york city, comprising 10 percent of the resident 
+workforce  (kallick  2007).  meanwhile,  in  the  nine  new  jersey  counties  hardest  hit  by 
+sandy, the foreign-born population made up an average of 25 percent of the population 
+in 2011, as compared with 21 percent of the population in the state overall (us census 
+bureau 2011). in new jersey, unauthorized workers comprised around 8.6 percent of the 
+states workforce (approximately 400,000 workers) in 2010 (passel and cohn 2011). 
+there are no comprehensive statistics that detail sandys impact on noncitizens. however, 
+a  nongovernmental  organization  survey  of  416  self-identified  immigrants  living  in  the 
+disaster-affected areas of staten island and suffolk county, new york, revealed that one in 
+three of those surveyed suffered damage to their home and/or personal property.18 obstacles 
+to accessing assistance included confusion over eligibility, language barriers and fear of 
+interacting with authorities (torrens 2012). 
+another  issue  affecting  the  protection  of  noncitizens  was  in  the  enforcement  of  labor 
+law in the post-disaster recovery period. as in previous disasters, immigrant day labor 
+was a key flank in the initial cleanup efforts. a survey of 11 workers rights organizations 
+conducted by the city university of new york found that, despite increased outreach by 
+the us department of labor and the state labor departments of new jersey and new york, 
+more than three quarters reported the occurrence of wage theft, and 64 percent reported 
+significant workplace injuries during the cleanup period (cordero-guzman and pantaleon 
+2013).
+
+v. the conflict in syria 
+
+since march 2011, peaceful protests against endemic corruption, inequality and brutality, 
+have met with violent backlash, persecution, and suffering at the hands of government 
+
+18   according to the organization, make the road new york, this figure includes foreign-born citizens who 
+later obtained us citizenship, as well as persons who were foreign-born and not naturalized, and thus were 
+considered noncitizens. a little over 5 percent of those surveyed were from puerto rico, and thus were us 
+citizens at birth (make the road new york 2012, 16). 
+
+35
+
+on the marginsforces and non-state actors intent on disrupting civilian life and reaping destruction. in 
+july 2012, the international committee of the red cross (icrc) declared a situation of 
+non-international armed conflict in syria (icrc 2012). shelling, bomb attacks and fierce 
+fighting  continue  to  devastate  major  cities,  towns,  villages  and  camps,  with  countless 
+reports  of  house  raids,  arbitrary  arrests  and  detention,  disappearances,  sexual  violence 
+and  summary  executions.  meanwhile,  the  nature  of  the  conflict  has  severely  restricted 
+humanitarian access to both citizen and noncitizen populations inside syria. 
+more than three years since the unrest began, syria is in the grip of a humanitarian crisis 
+that has killed more than 191,000 people and internally displaced over 7.6 million.19 others 
+remain trapped, unable to move out of harms way and without access to basic supplies. 
+over  three  million  people  have  fled  the  country,  the  majority  of  them  to  neighboring 
+lebanon, jordan, turkey, iraq and egypt, while others have risked their lives attempting to 
+cross the mediterranean in a desperate bid to reach europe.20 
+hundreds of thousands of noncitizens have been affected by the crisis since 2011. the 
+vast majority are refugees, asylum seekers and stateless persons, but also migrant workers, 
+students, journalists, and aid workers. of the 540,000 palestinian refugees registered in 
+syria, approximately 270,000 have been internally displaced, while more than 50,000 have 
+fled to lebanon. fewer have managed to cross the border to other neighboring countries, 
+such as egypt and gaza (unrwa 2014a). of those still in syria, more than 18,000 remain 
+inside the yarmouk refugee camp in damascus, which has largely remained under siege 
+since  early  2013  (unrwa  2014b). almost  all  of  the  palestinian  refugees  in  syria  are 
+reported to be in need of humanitarian assistance (unrwa 2014a). with a resurgence 
+of violence in iraq and entry restrictions imposed by neighboring countries, thousands of 
+iraqi refugees in syria also face limited options to escape from harm (unhcr 2014a).  in 
+addition to refugee populations, a sizable population of migrant workers has been affected 
+by the crisis. in 2010, syrian labor officials estimated the number of domestic workers 
+to be between 75,000 and 100,000, primarily consisting of women from indonesia, the 
+philippines and ethiopia (irin 2012a). in early 2013, the iom, which has assisted with 
+evacuations and repatriations of migrant workers from syria, estimated that there could be 
+up to 120,000 migrant workers in the country (iom 2013).
+
+part 3:  protection implications 
+this section discusses the experiences of noncitizens in the five crises and identifies some 
+of the factors that impacted their vulnerability. these factors are analyzed on two levels: 
+(1) those that are a product of the surrounding environment, such as risks pertaining to 
+the  underlying  conditions  in  the  country  experiencing  the  crisis  and  the  responses  of 
+
+19    for  the  latest  statistics  on  the  situation  in  syria,  see:  united  nations  office  for  the  coordination  of 
+humanitarian affairs, syria crisis, http://syria.unocha.org/. see also internal displacement monitoring 
+centre  (idmc),  syria,  http://www.internal-displacement.org/middle-east-and-north-africa/syria/.  note 
+that due to the restrictions on access to syria, numbers reported by the idmc of internally displaced persons 
+have not been updated since september 2013. current numbers are thought to be considerably higher.
+20    unhcr,  syria  regional  refugee  response:  inter-agency  information  sharing  portal,  http://data.
+unhcr.org/syrianrefugees/regional.php. between january and november 2014 alone, over 200,000 people 
+have crossed the mediterranean, with almost half from syria and eritrea (unhcr 2014d).
+
+36
+
+journal on migration and human securitydiverse actors; and (2) those that stem from attributes specific to non-citizens or particular 
+groups of noncitizens. in each of the five crises, factors on both levels converged to create 
+complications for noncitizens. this analysis sheds light on fundamental human rights that 
+may be compromised in crisis situations and a handful of these rights are also highlighted 
+in this section. 
+
+i. environment-level factors and responses of diverse actors
+
+the vulnerabilities of noncitizens during humanitarian crises may be influenced by the 
+underlying economic, social, political, and legal environment in the country experiencing 
+a crisis, as well as the actions of government authorities and private actors. 
+
+transmission of crisis-related information
+
+lack of access to the internet or telecommunications may limit the ability to receive crisis-
+related information. further, the limitations of relying solely on such forms of communication 
+are exacerbated when coupled with language barriers faced by noncitizens affected by a 
+crisis. the crises in japan, the united states and thailand speak to this dynamic. 
+during the crisis in japan, the government provided critical information on its website and 
+official facebook page (iom 2011b) and the radio network broadcasted disaster-related 
+information in 17 languages (izumi 2012a; yamamoto 2013).  in addition, phone signals 
+were cut to allow more bandwidth for emergency services to communicate (kaufmann and 
+penciakova 2011). asylum seekers and refugees however, seemed to have had difficulties 
+procuring reliable information (koike 2011). 
+where  technology  proves  inadequate  in  reaching  foreign-born  populations,  outreach 
+operations may be effective particularly in reaching those who are unwilling and/or unable 
+to leave their homes. in the united states during hurricane sandy, a nongovernmental 
+organization concerned primarily with asian communities conducted door-to-door outreach 
+in chinatown to check on housebound residents and provide them with information in the 
+appropriate language (mok 2012). 
+although the thai government provided some relief and relocation assistance to noncitizens, 
+many were unable to benefit from this assistance due to, among other things, a lack of clear 
+communication and information in their native language (bhoocha-oom and dixon 2012). 
+many  migrant  workers  possessed  little  information  about  available  rescue  shelters  and 
+consequently could not access services (ibid.). even if they were able to reach shelters, 
+some migrant workers were turned away due to language barriers (mahtani 2011). 
+
+insufficiently-attuned laws and policies 
+
+immigration and other laws and policies that are inadequately attuned to the protection needs 
+of noncitizens in crises may heighten vulnerability. continued immigration enforcement 
+in  these  circumstances  may  place  individuals  in  perilous  situations  by  restricting  their 
+mobility or compelling them to make adverse decisions in order to preserve their ability to 
+remain and work in the country. thailand, syria and japan provide examples. 
+
+37
+
+on the marginsin thailand, work permit stipulations and related policies limited the mobility of noncitizens 
+and  their  access  to  information. at  the  time  of  the  floods,  more  than  500,000  migrant 
+workers held permits that restricted them to designated zones (mahtani 2011). during the 
+floods, police and immigration officials continued to enforce movement-related restrictions 
+despite the ministry of labor temporarily voiding these policies (ibid.). moreover, although 
+the floods damaged many businesses, migrant workers were reluctant to seek alternative 
+employment  because  doing  so  would  result  in  losing  a  work  permit  and  entering  into 
+unauthorized status (koser 2014).
+for domestic workers in syria, an exit permit is required in order to leave the country and 
+can only be obtained by the employers consent and a fee paid to immigration officials 
+(russeau 2012; irin 2012a). without receiving reimbursement for the recruitment costs of 
+migrant workers, some employers refused to give permission to grant a permit, presenting 
+an obstacle for women trying to escape the conflict zone (torres 2012; sevilla 2013). in 
+september 2012, however, after a visit from a delegation from the philippines, the syrian 
+government agreed to waive the exit permit and fee for filipino nationals (the vast majority 
+of  whom  were  female  domestic  workers)  and  posted  the  announcement  in  newspapers 
+(center for migrant advocacy 2014). between march 2011 and september 2013, more 
+than 4,500 filipino workers had been repatriated from syria (esplanada 2013). the fate of 
+thousands of other domestic workers thought to be residing in syria remains unknown and, 
+thus far, the syrian government has not waived exit visas for any other nationality. for the 
+many domestic workers who reside in syria without authorization, there is no means of 
+obtaining an exit permit. 
+although  the  japanese  government  facilitated  re-entry  processes  for  some  classes  of 
+noncitizens  (izumi  2011a),  asylum  seekers  and  refugees  appear  to  have  been  excluded 
+from similar accommodations (koike 2011). according to a representative from the japan 
+association for refugees, this presented difficult predicaments for many including having 
+to  choose  between  staying  in  the  country  during  the  crisis,  returning  to  their  countries 
+of origin where they may face persecution, traveling to another country and potentially 
+jeopardizing their application for refugee status, or breaking up families  (koike 2011).
+
+exclusion of noncitizens from relief services 
+
+in crisis situations, response and recovery assistance and programming may not cater to 
+the particular needs of noncitizens. moreover, they may be excluded from relief services. 
+thailand and the united states provide examples. 
+reports  indicate  that  rescue  shelters  provided  by  the  thai  government  were  largely 
+inaccessible to noncitizens due to geographic isolation from migrant worker-concentrated 
+areas, lack of translation services, and the inability of noncitizens to present identification 
+documents  either  due  to  immigration  status  or  loss  of  documents  in  the  floods  (htwe 
+2011;  mahtani  2011). there  are  also  reports  that  the  severity  of  the  crisis  forced thai 
+authorities to prioritize their own citizens and turn away migrant workers from evacuation 
+centers (mahtani 2011). the government made some efforts to respond to this issue by 
+establishing at least a couple of shelters specifically for noncitizens. one, which was set up 
+in nakhon pathom (and was later moved to ratchaburi due to fears of further flooding), 
+
+38
+
+journal on migration and human securityprovided relief supplies and free health care. however, it quickly filled to capacity and 
+became overcrowded with roughly 432 people (ibid.; ashayagachat 2011; usaid 2011). 
+a second shelter established by the department of employment and ministry of labor also 
+provided basic humanitarian supplies as well as some tailored services including temporary 
+employment placement and assistance with returning to countries of origin. the shelters 
+limited capacities still left thousands of migrant workers without assistance (bhoocha-oom 
+and dixon 2012; mahtani 2011).
+in the united states, while certain types of assistance were made available to noncitizens, 
+only 22 percent of 416 self-identified immigrants surveyed in the disaster-affected areas of 
+staten island and suffolk county, new york applied for us or local government assistance 
+(make  the  road  new  york  2012,  17).  one  contributing  factor  was  that  unauthorized 
+immigrants  were  not  eligible  for  federal  cash  assistance  unless  there  was  a  us  citizen 
+child in the household. however, all affected persons were eligible for crisis counseling 
+and non-monetary assistance, such as food and blankets (fema 2004). confusion over the 
+eligibility guidelines was the most frequently cited reason for not applying for aid (llenas 
+2012).
+
+lack of consideration for noncitizens in national frameworks
+
+the absence of national frameworks to account for the assistance and protection needs 
+of  noncitizens  in  humanitarian  crises  may  aggravate  their  vulnerability.  for  example, 
+the exclusion of noncitizens from thailands relief services arguably reflects an overall 
+lack of consideration of them by the thai government in disaster management planning 
+(hall 2012b). thailand does not explicitly include this population as part of the countrys 
+permanent disaster management infrastructure, and no government agency was assigned 
+responsibility for supporting this population during the floods (hall 2012a). representatives 
+from the ministry of foreign affairs and the immigration bureau were notably missing 
+from the national disaster and prevention committee, which is the governments primary 
+emergency planning apparatus (chariyaphan 2012).
+
+actions of rogue authorities and private actors 
+
+the actions of corrupt authorities may elevate the vulnerability of noncitizens by creating 
+added costs and impeding the ability to escape harm. this is also the case where regulatory 
+environments allow private actors such as employers to confiscate travel documents with 
+impunity. both thailand and libya provide examples. 
+immigration authorities at the thailand-myanmar border made it more difficult for migrant 
+workers to escape the floods by reportedly demanding fees between thb 12,000 and 15,000 
+(us $400-$500) for crossing the border (koser 2014). a large number of migrant workers 
+were employed in industrial parks in thailand with poor living and working conditions 
+and salaries below the national minimum (iom 2011c). at the time of the crisis, there were 
+reports that employers failed to pay outstanding wages and withheld travel documents, 
+with some even demanding high fees for their return (amnesty international 2012).
+lawlessness persisted in parts of libya, with the government unable and/or unwilling to 
+
+39
+
+on the marginscontrol militias in the country. smuggling of sub-saharan noncitizens by libyan gangs 
+continued across the countrys borders (murray 2012a). media reports suggest that local 
+militias cheated noncitizens trying to escape from libya out of their savings by falsely 
+promising them passage by boat to europe (ba 2013). 
+
+ethnic profiling 
+
+in  crisis  situations,  if  hostility  towards  otherness  or  perceived  outsiders  increases, 
+noncitizens may become targets of xenophobic violence and discrimination. this was an 
+issue in libya. 
+deeply-rooted racial discrimination against sub-saharan africans within libyan society 
+was exacerbated by the politicization of race and ethnicity, as certain groups of foreigners 
+became associated with distinct political factions embroiled in the conflict. colonel gaddafi 
+recruited some sub-saharan africans and ethnic minorities into his armed forces, in many 
+cases through coercion with the promise of identification papers (fahim and kirkpatrick 
+2011; murray 2012b). following reports that african mercenaries had been recruited to fight 
+on behalf of colonel gaddafi, migrant workers, refugees and asylum seekers from chad, 
+niger, mali, nigeria, and other sub-saharan countries became targets of arbitrary arrest and 
+violence by rebel factions and vigilante groups (human rights watch 2011a). non-arab 
+minority groups such as the tebu, tuareg and amazighsome of whom may be stateless 
+(van waas 2013)were also vulnerable to marginalization and racial discrimination at the 
+height of the violence. in particular, tuaregs in awbari reported experiencing attacks and 
+looting on a weekly basis due to the alleged involvement of some as mercenaries in pro-
+gaddafi forces (irin 2012b).21 
+
+border restrictions of contiguous neighboring countries
+
+in times of crisis, particularly in conflict situations when the need to cross borders in order 
+to escape harm is often greater, restrictions on entry to contiguous neighboring countries 
+may disproportionately affect noncitizens. for example, restrictions of countries bordering 
+syria  have  heightened  risk  of  harm  for  refugees.  while  lebanon  allowed  intermittent 
+entry by palestinian refugees until the recent imposition of visa restrictions on all refugees 
+from syria, jordan has refused entry to palestinians since early 2013. this has left many 
+palestinians with limited options: to remain inside the conflict zone or risk traveling across 
+the country to attempt crossing to lebanon. iraqis have faced similar problems in reaching 
+safety, compelling some to return prematurely to iraq and others to remain inside syria 
+(middle east monitor 2014).
+
+mechanisms and capacity for protecting citizens abroad
+
+noncitizens whose countries of origin do not have policies and mechanisms in place to 
+assist citizens caught in humanitarian crises in other countries may face increased exposure 
+
+21   see also, report of the united nations inter-agency mission to southern libya, november 15-18, 2011, 
+on file with the authors
+
+40
+
+journal on migration and human securityto harm. for example, during the initial stages of the libyan crisis bangladeshis reportedly 
+ran  into  difficulties  procuring  passports  and  travel  documents,  and  accessing  embassy 
+personnel (bbc news 2011b). in thailand, there were reports of burmese embassy officials 
+denying services to flood-affected burmese citizens based on the fact that they had left 
+myanmar in breach of immigration laws (hall 2012b, 8). 
+the vulnerability of noncitizens is also affected by the capacity and know-how of their 
+country of origin to provide assistance. with some notable exceptions, noncitizens from 
+developing  countries  may  be  relatively  more  vulnerable  than  those  from  developed 
+countries as their diplomatic missions may have poorer emergency infrastructure and may 
+therefore need external assistance from other countries, intergovernmental organizations 
+and/or civil society.
+in  libya,  the  evacuation  of  high-skilled  british  and  canadians,  among  others,  began 
+early-on  in  the  crisis  and  was  generally  characterized  by  fewer  complications  than  the 
+experiences of chadians, for example, who were forced to travel in poor conditions and 
+required  substantial  assistance  from  humanitarian  organizations  (williams  and  millar 
+2011; aghazarm, quesada and tishler 2012). south korea also employs a robust set of 
+overseas protections for its citizens abroad through its ministry of foreign affairs (young-
+ho 2012). among the support services are programs to provide citizens with emergency 
+cash assistance and a series of emergency communications programs, including the travel 
+advisory system, safe travel campaign, traveler registration system and dissemination 
+of safety information via text message (ibid.). in japan, the korean government issued its 
+rapid deployment team, which mobilized evacuation transportation, including military 
+aircraft and coastguard boats, primarily for korean citizens within 20 kilometers of the 
+disaster zone (asiaone 2011). similarly, the philippines has chartered flights to evacuate 
+citizens and deployed high-level delegations to countries experiencing crisis such as syria 
+and libya to negotiate and facilitate safe removal of filipino citizens (reyes 2012). in an 
+effort to assist its citizens residing in the united states, the mexican government filled 
+some of the gap in access to services following hurricane sandy. the mexican consulate 
+gave around $500 in cash to each affected citizen, replaced lost documents and provided 
+psychosocial support (24 horas 2013).22 
+
+ii. attributes specific to particular groups of noncitizens 
+
+the attributes of certain groups of noncitizens may create unique challenges. depending 
+on the crisis situation, these attributes may translate into varying degrees of vulnerability. 
+groups  that  are  differentially  vulnerable  based  on  distinct  attributes  are  distinguished 
+below. 
+
+noncitizens without immigration status
+
+persons residing in a country without immigration status may face unique challenges during 
+violence, conflict and disaster. for example, their status may inhibit the ability to access 
+or benefit from relief services, such as emergency assistance or evacuation. where fear of 
+
+22   claudia zamora, mexican consulate, personal interview, 4 april 2014.
+
+41
+
+on the marginsgovernment authorities prevails, the vulnerabilities of unauthorized noncitizens may be 
+exacerbated. in order to avoid authorities and reduce the chance of arrest and deportation, 
+the  unauthorized  may  take  actions  that  aggravate  their  own  vulnerabilities  or  increase 
+their exposure to harm, such as by remaining in crisis-affected areas or failing to seek 
+assistance. lack of knowledge of the circumstances and whereabouts of the unauthorized 
+may also impede authorities from providing relief to these populations. hurricane sandy, 
+the flooding in thailand and the conflict in syria provide examples. 
+in thailand, many noncitizens decided to stay in flood-affected areas due to fear of police and 
+immigration officials and the risk of being arrested, deported, or jeopardizing prospects of 
+future employment (koser 2014). as noted previously, the restrictive regulatory environment 
+for lesser-skilled workers residing in thailand also resulted in authorized workers being 
+trapped within flood-affected areas, as movement restrictions were ordinarily tied to work 
+permits (irin 2011). 
+in the united states, while a certain amount of temporary relief was available for those 
+without immigration status, including crisis counseling, disaster-related legal services and 
+other forms of non-cash emergency aid, many people were unaware or confused as to the 
+extent of their eligibility and whether or not their coming forward to receive aid would 
+put them or their families in danger of deportation (torrens 2012). fear of approaching 
+authorities for assistance was also an issue in mixed-status families, particularly if the only 
+us citizen in the family was an infant or child reliant on unauthorized family members to 
+navigate eligibility guidelines to seek support on their behalf (make the road new york 
+2012).
+fear of authorities may also prompt the unauthorized in particular to use illegal brokers, 
+human smuggling networks and other clandestine means to escape harm, becoming easy 
+prey for exploitation. for example, migrant workers in thailand hired illegal brokers to 
+transport them in and out of the country using clandestine routes at costs between thb 
+2,500 to 4,000 (us $80 to $130) per person (hall 2012a). they traveled by night in large 
+trucks that held up to 150 people, and were highly susceptible to exploitation by immigration 
+officials in myanmar and thailand, as well as burmese militia groups (irin 2011). 
+in syria, where some 90 percent of migrant workers from the philippines were thought to 
+reside without immigration status in 2012, officials from the philippine government have 
+struggled  to  locate  the  whereabouts  of  female  domestic  workers.  government  officials 
+from the philippines have attempted to reach out to those in major cities through radio 
+announcements and leaflet campaigns. however, there are few records of the locations of 
+these women, who appear to be scattered throughout the country and living in the midst 
+of conflict in the homes of employers who may or may not release them from their jobs 
+(sevilla 2013; mcgeown 2012).
+
+female domestic workers
+
+isolation and lack of access to social networks may impact the extent to which noncitizens 
+are able to access protection and assistance in crisis settings. while isolation may stem 
+from language barriers and other factors such as fear of arrest and deportation, it may also 
+
+42
+
+journal on migration and human securitybe exacerbated by the nature of employment. 
+as noted above, female domestic workers often work in isolated conditions. they have 
+been described as invisible due to their confinement to employers homes and their dispersal 
+within countries of destination (iasc gender sub-working group 2011). isolated domestic 
+workers may have limited access to information in crisis situations and may encounter 
+difficulties in escaping harm, particularly in contexts where their travel documents and 
+mobile phones are confiscated (iom 2012). 
+in april 2012, as the fighting in syria intensified, a domestic worker from the philippines 
+was allegedly killed by sniper fire as she tried to flee from her employer in homs to seek 
+shelter at the philippine embassy in damascus (russeau 2012). other domestic workers 
+who  had  fled  syria  reported  having  experienced  forced  relocation  with  employers  to 
+lebanon, and heightened abuse and exploitation at the hands of employers taking advantage 
+of diminished regulations amid the crisis situation (habbab 2014).23 
+
+stateless persons, refugees and asylum seekers 
+
+noncitizens  who  are  unable  or  unwilling  to  avail  themselves  of  the  protection  of  their 
+country of origin or residence and those who are not considered nationals by any country 
+may face additional challenges in accessing assistance and protection. this was apparent 
+in both the libyan and syrian crises. 
+refugees and asylum seekers who were able to flee the fighting in libya, largely from 
+eritrea, somalia and sudan, were assisted by unhcr at border camps in neighboring 
+egypt and tunisia (ambroso 2012, 6-7). around 900 refugees and 350 asylum seekers 
+remained in the salloum border camp in egypt some eighteen months after they became 
+secondarily  displaced  as  durable  solutions  remained elusive  (abughazaleh  and al achi 
+2013). 
+in syria, hundreds of thousands of palestinian refugees have been displaced, many of whom 
+have been trapped inside besieged areas without food and medical care (unrwa 2014c). 
+for those attempting to seek refuge in neighboring countries, options are limited, as jordan 
+has denied entry to palestinians possessing only a syrian travel document since late 2012.24 
+while lebanon continues to allow intermittent access to palestinians, they remain exposed 
+to heightened vulnerabilities due to border closures, barriers to legal migration, threats of 
+deportation and limited humanitarian assistance (human rights watch 2014). 
+also  in  syria,  tens  of  thousands  of  iraqi  refugees  who  once  fled  sectarian  violence  in 
+their country have faced the dilemma of risking return to an increasingly unstable iraq, 
+remaining in syria amid ongoing conflict, or traveling illicitly by land, air or sea to other 
+countries in search of safety. while more than 50,000 iraqis were reported to have returned 
+to iraq in late 2013, little is known about the fate of around 149,000 estimated to be in 
+
+23   another example of the way in which this population was affected in a crisis situation is the 2006 conflict 
+in lebanon, when thousands of female domestic workers from south and southeast asia were caught up in 
+the violence (irin 2006; jureidini 2011).
+24   note that some palestinian refugees residing in syria have jordanian citizenship, which would allow 
+them to cross the border into jordan (amnesty international 2013a). 
+
+43
+
+on the marginssyria. unhcr reported that it was assisting 28,300 iraqi refugees inside syria in late 2013 
+(unhcr 2014a). 
+
+noncitizens in detention
+
+noncitizens may suffer from arbitrary arrests and heightened abuses in detention during 
+times of crisis, particularly in situations where chaos and criminality prevail. those who 
+are already detained at the height of a crisis may also be particularly vulnerable to harm, 
+especially if detention centers are affected and enveloped in the crisis. 
+in libya, thousands of noncitizens were reportedly subject to arbitrary arrests and held in 
+deplorable conditions, which included being burned, beaten with electrical cables, housed 
+in overcrowded rooms, and denied access to adequate food, water, basic medical care and 
+hygiene (amnesty international 2013b). in august 2013, it was reported that some were 
+being held in the tripoli zoo along with animals (westcott and wahhab 2013). 
+
+human rights implications 
+
+the  above  discussion  demonstrates  that  in  situations  of  disaster,  violence  and  conflict, 
+a range of fundamental human rights may be implicated. beyond the rights to life and 
+security of the person, which may affect both citizens and noncitizens in a similar manner, 
+noncitizens may be particularly vulnerable to violations of other fundamental rights. these 
+include  the  prohibition  against  discrimination  (for  example,  in  the  provision  of  relief 
+services), the prohibition on refoulement (where individuals fleeing persecution or other 
+forms of serious harm are restricted from entering neighboring countries), the right to leave 
+any country (for example, in contexts where exit permits limit the ability of noncitizens to 
+depart a country, or where employers confiscate travel documents) and the right to freedom 
+of movement (for example, where mobility restrictions are placed on authorized workers), 
+among others. 
+
+part 4: promising practices 
+while each of the crises discussed in this paper reveal circumstances in which noncitizens 
+vulnerabilities have been exacerbated, the crises also feature actions by various stakeholders 
+that have the potential to mitigate such vulnerabilities. these practices provide lessons for 
+addressing the protection needs of noncitizens in future humanitarian crises. the following 
+section provides a brief review of a handful of examples of these promising practices.
+
+communication systems
+
+communications  mechanisms  that  are  designed  to  operate  at  the  community  level 
+are  important  for  relaying  crisis-related  information  and  providing  support  networks, 
+particularly  in  situations  of  isolation,  power  shortages,  or  where  noncitizens  access  to 
+technology  may  be  limited.  civil  society  in  the  philippines,  for  example,  has  invested 
+in  cultivating  support  networks  for  its  citizens  abroad  based  on  the  premise  that  they 
+
+44
+
+journal on migration and human securitythemselves  can  reach  and  assist  one  another  in  crisis  situations. this  initiative,  named 
+balabal  (shawl  or  cloak)  was  effective  in  supporting  civil  society  and  the  philippines 
+government to assist a group of migrant workers trapped in syria, enabling them to reach 
+safety and return home (iom 2011b). similarly, where technology is available, a variety of 
+multi-lingual dissemination mechanisms may facilitate more effective communication of 
+crisis- and relief-related information to noncitizens, ensuring that those who may not have 
+host language proficiency are able to understand important messages. 
+both japan and the united states broadcasted emergency information via websites and 
+online social networks in multiple languages. the japanese ministry of foreign affairs 
+(mofa) assumed a prominent role in supporting noncitizens in at-risk areas of the country 
+during the 2011 triple disaster. immediately following the earthquake, a special page on 
+the website of the mofa was set up for the purposes of sharing up-to-date information 
+in both japanese and english surrounding the crisis and rescue efforts (iom 2011b).  the 
+radio  network  was  also  used  to  broadcast  information  in  17  languages.  updates  were 
+provided  in  english,  arabic,  bengali,  burmese,  chinese,  french,  hindu,  indonesia, 
+korean,  persian,  portuguese,  russian,  spanish,  swahili,  thai,  urdu,  and  vietnamese 
+(izumi 2012a; yamamoto 2013). in the united states, the government provides web-based 
+information  on  crisis  situations  through  a  comprehensive  and  user-friendly  site  called, 
+ready:  prepare,  plan,  stay  informed,  in  12  languages  other  than  english,  including: 
+arabic,  chinese,  french,  haitian,  hindi,  japanese,  korean,  russian,  spanish, tagalog, 
+urdu and vietnamese.25  
+
+temporary cessation of immigration enforcement activities 
+
+as  noted  earlier,  fear  of  law  enforcement  may  deter  noncitizens  from  coming  forward 
+to  seek  relief  assistance  or  inhibit  them  from  moving  out  of  harms  way.  to  address 
+this  concern, us  authorities suspended  certain enforcement activities in  anticipation of 
+hurricane  sandy.  shortly  before  the  storm  hit,  immigration  and  customs  enforcement 
+(ice)  and  customs  and  border  protection  (cbp)  issued  a  joint  statement  in  multiple 
+languages confirming that in the event of an officially-ordered evacuation or an emergency 
+government  response,  their  highest  priority  would  be  to  promote  safe  evacuation  and 
+life-saving assistance while maintaining public order. moreover, the statement reported 
+that there would be no immigration enforcement initiatives associated with evacuations 
+or sheltering related to sandy, including the use of checkpoints during an evacuation.26 
+similarly,  the  united  states  citizenship  and  immigration  services  (uscis)  issued 
+a  statement to  alert individuals  affected  by  the  storm  of  temporary immigration relief 
+measures and to express understanding that a natural disaster may impede an individuals 
+ability to maintain lawful immigration status or obtain certain benefits (uscis 2014).
+ in order to ensure that information is disseminated accurately and effectively, civil society 
+organizations have an important role to play in reaching immigrant populations who might 
+not trust or otherwise be aware of government announcements.
+
+25   see http://www.ready.gov/. 
+26   see ice-cbp joint message regarding hurricane sandy, october 2012. http://www.dhs.gov/ice-cbp-
+joint-message-regarding-hurricane-sandy. 
+
+45
+
+on the marginscreating channels for re-entry 
+
+some noncitizens will put themselves in high-risk situations and remain in countries that 
+are undergoing crises out of fear that they may be unable to return. in japan, the ministry 
+of justice and the immigration bureau made it easier for many affected foreigners to obtain 
+reentry by swiftly processing visas and return applications, and allowing reentry for those 
+whose visas were not valid for renewal (izumi 2012a). additionally, the government eased, 
+to some extent, management of certificates of eligibility, a document which verifies that 
+a  person  meets  certain conditions  for  immigration (ibid). asylum  seekers  and  refugees 
+however, appear not to have benefited from similar privileges (koike 2011).
+
+targeted action to address unique needs that arise during crises
+in crisis settings, services that uniquely address challenges faced by noncitizens may mitigate 
+vulnerabilities. during the floods in thailand, the ministry of labor created the flood relief 
+and assistance center for migrant workers, which provided a number of targeted services, 
+including some employment opportunities and assistance with returning to countries of 
+origin (boocha-oom and dixon 2012, 10). following the flooding, thailand began to work 
+with neighboring countries on bilateral agreements to streamline the legalization process 
+for some migrant workers and to create systematic channels for them to return to their 
+countries of origin. the government of myanmar also worked with thai officials to open 
+recruitment centers and offices for processing documents for migrant workers (hall 2012a, 
+2012b). an additional example was seen in the philippines government delegation to syria 
+to negotiate the exit of filipino domestic workers stranded there. during the crisis in libya, 
+it was reported that the vast majority of the population of 916 sahrawi stateless students 
+were evacuated and returned to camps in algeria, courtesy of the algerian government. in 
+this instance, it is notable that in the absence of a country of origin for sahrawis, algeria 
+assumed responsibility to move these students to safety, as the host country to the largest 
+number of sahrawis, who reside across five desert camps in tindouf (hall 2012b, 13).
+
+seeking external assistance 
+
+as the situation in libya deteriorated in early 2011, bangladesh actively sought financial 
+and technical assistance for repatriating its citizens to safety. out of an estimated 50,000 
+bangladeshi citizens thought to be residing in libya, more than 30,000 had returned home 
+with iom assistance by the end of march, while another 6,500 were evacuated in subsequent 
+weeks. the repatriation of another 10,000 migrant workers was paid through a $40 million 
+world bank loan which bangladesh secured as the crisis unfolded. the majority of the 
+loan was allocated to provide livelihood support and reintegration assistance for returnees 
+(kelly and wadud 2012).
+while the examples of promising practices highlighted above focus primarily on actions 
+that could be undertaken before or during crises, the needs of noncitizens may continue to 
+persist well after the abatement of the crisis. in such situations, post-crisis interventions that 
+address needs and challenges, including outstanding wages, compensation, psychosocial 
+trauma,  and  reintegration,  may  become  necessary.  similarly,  tailored  responses  to  the 
+protection needs associated with the mobility of noncitizens are critical. 
+
+46
+
+journal on migration and human securityconclusion
+with  more  people  than  ever  living  outside  their  home  countries,  new  and  sustained 
+eruptions of violence and conflict, and the frequency and intensity of disasters predicted 
+to  increase,  noncitizens  will  continue  to  be  caught  in  countries  experiencing  crises. 
+this paper has described some factors that influenced the vulnerabilities and protection 
+needs  of  noncitizens  caught  in  five  crisis  situations.  it  has  highlighted  specific  groups 
+of noncitizens which require targeted action to mitigate vulnerabilities based on distinct 
+attributes, identified implications for fundamental human rights, and presented a selection 
+of promising practices to address their needs. 
+there are limits on the extent to which generalizable lessons may be drawn from the five crises 
+and examples provided. nonetheless, the examples suggest that interventions addressing 
+three key issues are valuable when undertaking efforts to alleviate challenges noncitizens 
+may encounter in accessing assistance and protection during crises, and to mitigate their 
+exposure to harm. these interventions apply primarily to countries experiencing a crisis, 
+but also to origin countries seeking to assist and protect citizens abroad. they include the 
+following:  
+1. actions aimed at addressing the underlying legal and policy landscape to minimize the 
+vulnerabilities of noncitizens when a crisis occurs. these actions may include: 
+
+  mapping the size, location, demographics and categories of noncitizens in country.
+  providing  increased  communication  channels  between  countries  of  origin  and 
+noncitizens abroad through mechanisms such as the establishment of designated 
+focal points at consulates and/or the creation of trusted social networks among the 
+diaspora in countries of destination. 
+
+  ensuring noncitizens are explicitly factored into contingency planning and crisis-
+
+preparedness measures at both national and local levels.
+
+  allocating one (or more) department(s) at the national and local government levels 
+
+to be responsible for the protection of noncitizens in the context of crises. 
+
+  reviewing and reforming laws and policies that could exacerbate the vulnerabilities 
+of noncitizens in crisis situations, such as those that place restrictions on freedom of 
+movement or impede the ability to leave the country.
+
+2.  actions aimed at ensuring that all categories of noncitizens are able to access, understand 
+and navigate information regarding emergency and relief assistance and are able to utilize 
+them when a crisis occurs. these actions may include: 
+
+  ensuring emergency and relief messages are communicated in multiple languages 
+and  using  a  range  of  modes  that  meet  the  particular  circumstances  of  different 
+categories of noncitizens. 
+
+  enlisting  the  support  of  civil  society  and  other  actors  to  assist  noncitizens  in 
+
+accessing services for which they are eligible. 
+
+3. actions  aimed  at  limiting  the  exposure  of  noncitizens  to  harm  when  a  crisis  occurs 
+through targeted measures that address their needs and vulnerabilities. these actions may 
+include:
+
+47
+
+on the margins  non-discriminatory access to life-saving and emergency relief services.
+  prompt accountability for violations of laws by government authorities and agents.
+  calling on external actors to provide resources and technical assistance when necessary.
+  limiting or suspending immigration enforcement activities in favor of providing life-
+
+saving assistance.
+
+  ensuring  that  lack  of  documentationwhich  may  be  due  to  unauthorized  status, 
+confiscation by employers, or loss during the crisisdoes not inhibit access to relief, 
+and there are mechanisms in place to provide replacement documentation to facilitate 
+travel. 
+
+the state-led migrants in countries in crisis initiative spearheaded by the united states 
+and the philippines, with australia, bangladesh, costa rica, ethiopia and the european 
+commission (in partnership with the iom, unhcr, isim, and the office of the special 
+representative of the un secretary general on international migration) seeks to develop 
+non-binding voluntary guidelines with a view to enhancing protection and assistance for 
+noncitizens  caught  in  violence,  conflict  and  disaster  (iom  2014b).  the  initiative  is  an 
+important step in advancing global governance of crisis migration and addressing gaps for 
+at-risk populations. 
+

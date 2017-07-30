@@ -1,0 +1,2404 @@
+aspe 
+issue brief 
+
+ 
+
+ 
+evidence indicates a range of challenges for puerto rico health care system 
+
+january 12, 2017 
+
+ 
+the 3.5 million americans living in the commonwealth of puerto rico do not have access to a 
+health care system considered standard in the rest of the nation. news reports in recent years 
+describe hospitals laying off employees and closing wings, medical centers suspending or 
+limiting health care services such as operating room hours, and air ambulance suppliers 
+suspending services.1 concerns about the public health infrastructure in puerto rico were 
+heightened this year after outbreaks of zika virus in the area. to better understand the state of 
+health care in puerto rico, the office of the assistant secretary for planning and evaluation 
+(aspe) supported an environmental scan2 and site visit,3 conducted an analysis of available data, 
+and synthesized information and observations across u.s. department of health and human 
+services (hhs) operating and staff divisions that work most closely with the commonwealth. 
+despite limited data availability, we found trends that raise concerns about the puerto rico 
+health care system infrastructure and workforce, prevalence of certain chronic diseases, and 
+metrics of access to services and quality of care. the system shows some indications of stability, 
+but evidence regarding a declining physician workforce, overcrowded hospitals with emergency 
+department patients waiting nearly 13 hours from arrival to admission, and higher rates of self-
+reported fair or poor health suggest a need for attention.  
+ 
+key findings  
+economic context 
+
+ 
+
+in 2015, puerto ricos median household income was 36 percent of that in the 50 states 
+and the district of columbia ($19,350 compared with $53,889); its poverty rate was 
+nearly four times that of the 50 states and d.c. (41 percent compared with 12 percent of 
+people with incomes below the federal poverty level [fpl], respectively). 
+
+  puerto rico experienced a net population loss of 61,000 in 2015; the population declined 
+
+by 6.8 percent (251,000 residents) between 2010 and 2015. this decline included a 
+substantial drop in the educated and working-age (ages 20 to 65) population.  
+
+  per capita, total health expenditures for the commonwealths population were $3,065 in 
+
+2014, compared to $9,403 on the u.s. mainland.  
+
+ 
+workforce 
+
+  physicians have been leaving puerto rico for at least the last five years; in 2015 alone, 
+
+approximately 500 physicians left the island according to the puerto rico college of 
+physicians. 
+
+ 
+
+department of health and human services 
+
+office of the assistant secretary for planning and evaluation 
+
+http://aspe.hhs.gov 
+
+aspe issue brief                                                                                                                   page 2 
+
+  puerto rico has less than half the rates of emergency physicians; neurosurgeons; 
+
+orthopedists and hand surgeons; plastic surgeons; and ear, nose, and throat specialists, 
+compared to the availability of these providers on the u.s. mainland. in 2015, it had only 
+one pediatric anesthesiologist, two pediatric allergists, six hand surgeons, and eight 
+colorectal surgeons.   
+
+  the health resources and services administration (hrsa) has deemed 72 of puerto 
+
+ricos 78 municipalities as medically underserved areas. for example, only 90 
+obstetricians/gynecologists assist in childbirths, resulting in an estimated ratio of 400 
+births per obstetrician each year, or more than one birth per doctor per day.4 in the 
+mainland u.s., hrsa estimates the comparable ratio of births per obstetrician each year 
+is roughly half.5  
+
+ 
+access and service use 
+
+  approximately 94 percent of puerto ricos residents had health insurance in 2014. nearly 
+
+half of residents are covered by medicaid, chip, or low-income coverage funded by 
+puerto rico-only dollars. unlike medicaid programs in the mainland u.s., federal funding 
+for puerto ricos medicaid program is capped. 
+
+  long wait times are a persistent challenge, including a median wait time of nearly 13 
+
+hours between arrival and admission and the need to wait up to nine months for 
+appointments with certain categories of specialists and some as long as 12 hours and 58 
+minutes in emergency departments between arrival and admission. 
+
+  people in puerto rico are less likely to receive certain types of preventive care, as 
+
+evidenced by lower rates of colorectal cancer screenings for those ages 50-75 (52.5 
+percent) than the u.s. mainland (66.4 percent) and pap tests for those ages 21-65 (77.4 
+percent, compared to 82.6 percent), but are more likely to have a mammogram (82.3 
+percent, compared to 78.1 percent). 
+
+  puerto rico has one-quarter the number of intensive care unit hospital beds per person 
+
+compared to the mainland u.s. (70.1 per 1 million people, compared with 290.6 beds per 
+1 million on the mainland u.s.). 
+
+  puerto rico does not have any burn unit beds in its hospitals.  
+  the rate of puerto ricans receiving a flu shot in the last year was 12 percent lower than 
+
+that of the mainland u.s. population.  
+
+  access to treatment considered to be the standard of care falls far short of mainland 
+
+standards. while ninety-four percent of acute myocardial infarction patients in puerto 
+rico receive aspirin within 24 hours before their emergency department arrival or during 
+their stay (compared to 99.1 percent of those in the mainland u.s.), only 54 percent 
+receive percutaneous coronary intervention within 90 minutes, compared to 93.1 percent 
+of patients who receive this level of care in the mainland u.s. 
+
+ 
+health indicators 
+
+  puerto ricans are twice as likely to suffer from coronary heart disease as the general u.s. 
+
+population. rates of myocardial infarction, asthma, and high blood pressure are also 
+higher in puerto rico than on the u.s. mainland. 
+in 2015, life expectancy was similar for residents of puerto rico (79.25 years) and the 
+u.s. mainland (79.68 years). 
+
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 3 
+
+  puerto rico has a higher infant mortality rate than the u.s. mainland (7.57 per 1,000 in 
+2015 compared to 5.87 per 1,000), and a premature birth rate well above the average for 
+the u.s. mainland (11.8 percent in puerto rico versus 9.6 percent on the mainland).  
+
+  self-reported health status is far worse in puerto rico, with adults reporting higher rates of 
+
+fair or poor health (35.4 percent compared to 17.9 percent in 2014).  
+
+ 
+in this report, we describe the demographic and economic contexts in which health care delivery 
+in puerto rico operates. we then examine the infrastructure in the commonwealth, including 
+facilities such as hospitals, as well as the critical issue of physician supply. subsequent sections 
+discuss health insurance coverage, access and service use, prevalence of disease, and health 
+outcomes and quality. this assessment does not attempt to infer the causes of any issues, nor 
+does it propose policy solutions. it merely captures the best information available about the 
+health of americans living in puerto rico and the system in place to deliver care and maintain 
+their health and well-being. 
+
+demographic and economic contexts 
+the archipelago of puerto rico includes one main islandwhere the vast majority of the 
+population livesand six smaller islands, comprising 78 municipalities in all.6 
+ 
+
+figure 1 
+population size, by municipality, 2015 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+source: aspe analysis of us census bureau population estimates7, 2010-2015 
+ 
+ 
+economic decline. in 2014, puerto ricos real gross domestic product (gdp) was $103.1 
+billion, down from $112 billion in 2005. puerto ricos economy relied on three major industrial 
+sectors: manufacturing (46.5 percent of gdp), services (41.6 percent), and government (8 
+percent).8 the decline in puerto ricos gdp has been accompanied by a 9 percent decline in 
+labor force participation (1.29 million in 2010 to 1.18 million in 2014) and a 7 percent decline in 
+employment (1.08 million in 2010 down to 1.01 million in 2014).9 the unemployment rate in 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 4 
+
+puerto rico11.9 percent in november 2016has consistently exceeded the unemployment 
+rate of the u.s. overall4.6 percent in november 2016.10 in 2015, puerto ricos median 
+household income was 36 percent of that in the 50 states and d.c. ($19,350 compared with 
+$53,889 in the mainland u.s.), and its poverty rate was nearly four times that of the u.s. overall 
+(41.8 percent, compared with 11.3 percent of families with incomes below the fpl in the 
+mainland u.s.).11 
+ 
+the ongoing economic decline of puerto rico has been exacerbated by the commonwealth 
+governments debt burden.12, 13, 14 puerto rico currently has $72 billion in debt and, unlike any 
+u.s. state government, cannot authorize its municipalities and public corporations to declare 
+bankruptcy as a means of restructuring its debt.15 budget cuts have substantially reduced 
+education, health care, and social services.16  
+ 
+population changes. puerto rico experienced a net population loss of 61,000 in 2015, and the 
+population declined by 6.8 percent (251,000 residents) between 2010 and 2015.17 one source 
+projects that the island may lose another 500,000 people by 2050.18 the current emigration flows 
+now exceed those of the great migrationthe period between 1946 and 1960 when 605,450 
+puerto ricansan average of 40,000 a yearleft the islands to settle on the u.s. mainland. 19 
+emigration flows have been distributed unevenly across the population, leading to a substantial 
+decline in the educated and working-age (ages 20 to 65) population.20 the average person 
+leaving puerto rico is 29 years oldyounger than those staying in or immigrating to puerto 
+rico. more than 50 percent of emigrants are men (53 percent), speak english well or very well 
+(65 percent), have graduated from high school (75 percent), and live above the poverty level (58 
+percent).  
+ 
+health care spending. from 2010 to 2014, puerto ricos total public and private health care 
+expenditures decreased by 10 percent, from $12.1 billion to $10.9 billion. per capita, total health 
+expenditures for the commonwealths population declined by 5 percent, from $3,240 in 2010 to 
+$3,065 in 2014;21 in the mainland u.s., per capita health expenditures were $9,515.22 (see figure 
+2.) as of 2014, the health sector made up approximately 10.5 percent and 17.4 percent of gdp in 
+puerto rico and the mainland u.s., respectively.23  
+ 
+figure 2 
+ total health expenditures, per capita 
+
+ $10,000
+
+ $8,000
+
+ $6,000
+
+ $4,000
+
+ $2,000
+
+ $-
+
+ $8,404  
+
+ $9,515  
+
+ $3,240  
+
+ $3,065  
+
+puerto rico
+
+united states
+
+2010 total health
+
+2014 total health
+
+expenditures, per capita
+
+expenditures, per capita
+
+ 
+
+sources: departmento de salud. 2015.   
+
+centers for medicare and medicaid services. 2015. nhe summary including share of gdp, 1960-2015. 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 5 
+
+health infrastructure 
+puerto ricos department of health (departamento de salud, or ds) administers the islands 
+public health programs and services. the health insurance administration of puerto rico 
+(administracin de seguros de salud de puerto rico, or ases) administers the government 
+health insurance plani (ghip) and directly contracts with managed care organizations and other 
+health care providers through a cooperative agreement with the ds. the government health 
+plan includes the commonwealths medicaid program, childrens health insurance program 
+(chip), dually eligible medicare-medicaid beneficiaries, and coverage funded by puerto rico-
+only dollars. 24 all public employees also receive their health coverage through the ghp. both 
+the ds and the ases organize their services by geographic regions: east/mayagez-aguadilla, 
+northeast/arecibo, southeast-southwest/ponce, west/caguas, northwest/fajardo-vieques-
+culebra, southwest/bayamn, and north-san juan/metro. however, the municipalities within 
+these ds and ases regions do not completely coincide with one another.ii 
+ 
+hospitals. in 2015, puerto rico had 2.68 beds per 1,000 people, and the mainland u.s. had 2.90 
+beds per 1,000 people. in total, puerto rico had 64 hospitals, compared to 6,187 registered 
+hospitals in the mainland u.s.; 25 figure 3 displays their locations. more than half of them are 
+for-profit and one-third are nonprofit. in contrast, about a quarter of all u.s. hospitals are for-
+profit and half are nonprofit (table 1).iii one significant difference between hospitals in puerto 
+rico and the mainland u.s. is their size. puerto rico has more mid-size hospitals than does the 
+mainland. about half of puerto ricos hospitals have between 100 and 199 beds, whereas only a 
+fifth of u.s. hospitals fall into that category. puerto rico also does not have any very large 
+hospitals, defined as having 500 beds or more; in contrast, 5 percent of u.s. hospitals fall into 
+this category (table 2).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+figure 3 
+hospital locations over population, by municipality 
+
+ 
+
+                                                           
+i the government health plan was previously called as misalud and reforma.  
+ii for a map of the ds service area see http://www.salud.gov.pr/pages/regiones-de-salud-y-servicios-directos.aspx. 
+for a map of the ases service area, see http://www.psgmolinahealth.care.com/es/pages/regions.aspx. 
+iii the aha data presented in tables 1 through 5 are from 2014, the latest data available to the urban institute when 
+these analyses were performed.  there was a net increase of 5 hospitals in puerto rico in 2015. 
+
+source: aspe analysis of aha data, 2015 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 6 
+
+table 1 
+hospital ownership, puerto rico versus the united states, 2014 
+
+ 
+ 
+
+puerto rico 
+
+number 
+
+hospital ownership 
+nonprofit 
+for-profit 
+government, 
+nonfederal 
+government, 
+federal 
+total hospitals 
+
+19 
+31 
+
+8 
+
+1 
+
+59 
+
+percent 
+
+32.2*** 
+52.5*** 
+
+13.6 
+
+1.7 
+
+100 
+
+source: urban institute analysis of the aha 2014 annual survey database. 
+
+notes: */**/*** estimates statistically differ at the 0.10/0.05/0.01 level. 
+1 excludes puerto rico. 
+
+united states1  
+
+number 
+
+3,085 
+1,613 
+
+1,266 
+
+216 
+
+6,180 
+
+percent 
+
+49.9*** 
+26.1*** 
+
+20.5 
+
+3.5 
+
+100 
+
+table 2 
+
+hospital bed size, puerto rico versus the united states, 2014 
+
+ 
+
+ 
+
+hospital bed size 
+
+624 beds 
+
+2549 beds 
+
+5099 beds 
+
+100199 beds 
+
+200299 beds 
+
+300399 beds 
+
+400499 beds 
+
+500+ beds 
+
+total beds 
+
+beds per 1,000 
+people 
+
+puerto rico 
+
+united states1 
+
+number 
+
+percent 
+
+number 
+
+percent 
+
+2 
+
+6 
+
+7 
+
+30 
+
+9 
+
+3 
+
+2 
+
+0 
+
+9,072 
+
+2.56 
+
+3.4** 
+
+10.1** 
+
+11.9 
+
+50.9*** 
+
+15.3 
+
+5.1 
+
+3.4 
+
+0* 
+
+100 
+
+n/a 
+
+740 
+
+1,441 
+
+1,236 
+
+1,244 
+
+630 
+
+372 
+
+206 
+
+311 
+
+928,680 
+
+2.91 
+
+12.0** 
+
+23.3** 
+
+20.0 
+
+20.1*** 
+
+10.2 
+
+6.0 
+
+3.3 
+
+5.0* 
+
+100 
+
+n/a 
+
+source: urban institute analysis of the aha 2014 annual survey database. 
+
+notes: */**/*** estimates statistically differ at the 0.10/0.05/0.01 level. 
+1 excludes puerto rico. 
+
+the breakdown of hospitals by their primary focus is similar in puerto rico and the mainland 
+u.s. aha survey data show that about three-quarters of all hospitals in puerto rico and the 
+mainland are general medical/surgical hospitals. the remainder consists of a variety of specialty 
+hospitals, including psychiatric, cancer, and childrens hospitals. (table 3). 
+ 
+
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 7 
+
+table 3 
+
+type of hospital, puerto rico versus the united states, 2014 
+
+ 
+
+ 
+
+type of hospital 
+
+general medical/surgical 
+
+all other 
+
+psychiatric 
+
+cancer 
+
+rehab 
+
+chronic disease 
+
+other specialty 
+
+childrens 
+general/medical 
+
+puerto rico 
+
+united states1 
+
+number 
+
+percent 
+
+number 
+
+percent 
+
+45 
+
+14 
+
+5 
+
+2 
+
+2 
+
+1 
+
+2 
+
+2 
+
+76.3 
+
+23.7 
+
+8.5 
+
+3.4*** 
+
+3.4 
+
+1.7*** 
+
+3.4*** 
+
+3.4* 
+
+4648 
+
+1532 
+
+489 
+
+16 
+
+247 
+
+2 
+
+27 
+
+60 
+
+75.2 
+
+24.8 
+
+7.9 
+
+0.3*** 
+
+4.0 
+
+0.0*** 
+
+0.4*** 
+
+1.0* 
+
+source: urban institute analysis of the aha 2014 annual survey database. 
+
+notes: */**/*** estimates statistically differ at the 0.10/0.05/0.01 level. 
+1 excludes puerto rico. 
+
+another major difference between hospitals in puerto rico and the mainland u.s. is the extent of 
+their affiliation with a system. puerto rico hospitals tend to be more decentralized than those in 
+the mainland. about 79.7 percent of puerto rico hospitals are not part of a larger organization. 
+in comparison, 36.5 percent of u.s. hospitals fall into this category (table 4).  
+
+table 4 
+
+hospital system status, puerto rico versus the united states, 2014 
+
+ 
+
+ 
+
+system status 
+
+not part of a system 
+
+part of a system 
+
+puerto rico 
+
+united states1 
+
+number 
+
+percent 
+
+number 
+
+percent 
+
+47 
+
+12 
+
+79.7*** 
+
+20.3*** 
+
+2,256 
+
+3924 
+
+36.5*** 
+
+63.5*** 
+
+source: urban institute analysis of the aha 2014 annual survey database. 
+
+notes: */**/*** estimates statistically differ at the 0.10/0.05/0.01 level. 
+1 excludes puerto rico. 
+
+considerable variation in hospital and bed capacity exists across the commonwealths seven ds 
+health care regions. puerto ricos most populous region, the san juan metro area, has the largest 
+share of the commonwealths hospitals (33.9 percent) and hospital beds (39.7 percent). the san 
+juan metro area has the second-lowest ratio of hospitals to residents (one hospital for every 
+42,455 inhabitants) and the highest rate of hospital beds per 1,000 residents (4.2). in contrast, the 
+bayamn region, just outside of the san juan metro area, has a hospital-to-resident ratio of one 
+for every 150,415 inhabitants and 1.3 hospital beds per 1,000 residents (table 5). in the 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 8 
+
+mainland u.s., the rate of residents per hospital is 55,760, and the rate of the beds per 1,000 
+residents is 2.9. 26 
+
+table 5 
+
+puerto rico hospitals, by ds region, 2014 
+
+ 
+
+hospitals 
+
+hospital beds 
+
+population 
+
+ds region 
+
+number 
+
+percent 
+
+per 
+
+residents 
+
+arecibo 
+
+bayamn 
+
+caguas 
+
+fajardo 
+
+mayagez/ 
+aguadilla 
+
+ponce 
+
+san juan metro 
+
+7 
+
+4 
+
+8 
+
+3 
+
+8 
+
+9 
+
+20 
+
+11.9 
+
+6.8 
+
+13.6 
+
+5.1 
+
+13.6 
+
+15.3 
+
+33.9 
+
+hospital 
+
+64,134 
+
+150,415 
+
+73,443 
+
+26,399 
+
+65,184 
+
+60,968 
+
+42,455 
+
+number 
+of beds 
+
+beds, % 
+of total 
+
+beds per 
+
+1,000 
+
+residents 
+
+935 
+
+797 
+
+1228 
+
+329 
+
+947 
+
+1236 
+
+3600 
+
+10.3 
+
+8.8 
+
+13.5 
+
+3.6 
+
+10.4 
+
+13.6 
+
+39.7 
+
+2.1 
+
+1.3 
+
+2.1 
+
+4.2 
+
+1.8 
+
+2.3 
+
+4.2 
+
+ 
+
+448,935 
+
+601,660 
+
+587,547 
+
+79,197 
+
+521,474 
+
+548,712 
+
+849,106 
+
+sources: urban institute analysis of the aha 2014 annual survey database.  
+
+departamento de salud. 2016. regionales de salud y servicios directos. retrieved september 30, 2016, from 
+
+http://www.salud.gov.pr/pages/regiones-de-salud-y-servicios-directos.aspx 
+
+us census bureau.2014. age and sex: 2010-2014 american community survey 5-year estimates.   
+
+http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml. 
+
+ 
+
+according to the american college of emergency physicians 2014 americas emergency care 
+environment state-by-state report card, puerto rico had only 70.1 intensive care unit beds per 
+1 million people, compared with 290.6 beds per 1 million people in the mainland u.s. puerto 
+rico also does not have any burn unit beds in its hospitals. the report notes, what few data are 
+available  provide evidence of a limited infrastructure for responding quickly and effectively 
+in the event of a disaster or mass casualty event.27  
+
+puerto rico does not have a long-term care sector similar to the mainland u.s. care for seniors 
+generally is provided by family members, family-financed home-based caregivers, private senior 
+care entities (some of which specialize in dementia care), and through commonwealth licensed 
+homes for seniors.  
+
+health centers. hrsa provides more than $91.2 million in competitive awards to support 20 
+health centers in puerto rico that operate at 85 sites in the commonwealth (figure 4). in 2015, 
+these sites served 346,702 patients with the following characteristics: 
+
+  29.6 percent were children (under the age of 18)  
+  96.9 percent of all patients were at/below 200 percent of the federal poverty level 
+  68 percent had medicaid or chip 
+  10 percent had private insurance 
+  9 percent had medicare 
+
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 9 
+
+based on 2015 health center grantee data, approximately 10 percent of the population in puerto 
+rico receives care from health centers versus 7.5 percent in the 50 states plus d.c. however, the 
+health centers in puerto rico have a higher percentage of medical care visits and a much lower 
+percentage of dental care visits than do those in the 50 states plus d.c, although it is unclear 
+which puerto rico health centers offer dental services. anecdotally, hrsa staff have heard that 
+in many areas, health centers are the only locally accessible primary care providers and often the 
+largest employer in the communities they serve. 
+
+figure 4 
+health center site locations 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+source: aspe analysis of uds mapper data, 2015 
+
+workforce. in 2014, puerto rico experienced a net loss of 16,670 people with postsecondary 
+education, including an estimated 2,132 health professionals.28 hrsa has deemed 72 of puerto 
+ricos 78 municipalities as medically underserved areas and has identified 32 primary care 
+health provider shortage areas. 
+
+according to the association of american medical colleges (aamc), puerto rico had 8,195 
+active physicians who engaged in patient care in 2014 (230.9 physicians per 100,000 
+inhabitants). primary care physicians made up about 44 percent of that total, and general 
+surgeons 2 percent. puerto ricos supply of physicians and general surgeons closely parallels 
+that of the mainland u.s., but puerto rico has more primary care physicians per 100,000 
+inhabitants (table 6).29,30 
+
+ 
+
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 10 
+
+table 6 
+
+active direct care physicians in puerto rico, by type, 2012 and 2014 
+
+physician type 
+
+number of physicians in 
+
+puerto rico 
+
+rate of physicians per 
+100,000 inhabitants in 
+
+rate of physicians per 
+100,000 inhabitants in 
+
+puerto rico 
+
+the united states 
+
+ 
+
+total physicians  
+
+primary care physicians 
+
+general surgeons 
+
+source: aamc 2013, 2015.  
+
+2012 
+8,310 
+
+3,643 
+
+n/a 
+
+2014 
+8,195 
+
+3,580 
+
+232 
+
+2012 
+226.6 
+
+99.3 
+
+n/a 
+
+2014 
+230.9 
+
+100.9 
+
+6.5 
+
+2012 
+225.6 
+
+80.7 
+
+n/a 
+
+2014 
+234.7 
+
+82.5 
+
+6.9 
+
+the american college of emergency physicians 2014 americas emergency care 
+environment, state-by-state report card noted that puerto rico has less than half the number of 
+emergency physicians; neurosurgeons; orthopedists and hand surgeons; plastic surgeons; and ear, 
+nose, and throat specialists than the mainland u.s. as a share of the population.31 according to 
+another report, puerto rico has only one pediatric anesthesiologist, two pediatric allergists, six 
+hand surgeons, and eight colorectal surgeons.32 there also are reportedly only 90 
+obstetricians/gynecologists, resulting in an estimated a ratio of 400 births per obstetrician each 
+year, or one birth per doctor per day. the same report found that in 2005, 1,485 pediatricians 
+were registered as part of the workforce, whereas in 2014 only 812 were actively practicing.  
+
+migration of physicians. hhs agencies that work in puerto rico, news reports, and anecdotes 
+universally cite the declining supply of physicians as a primary concern. table 7 lists estimates 
+of the outmigration of physicians reported by various publications; note, however, that based on 
+the aamc data in table 6, the number of physicians (both primary care and specialty) actually 
+appears to have increased as a share of the population between 2012 and 2014. if both these data 
+and reports of physicians leaving puerto rico are accurate, the discrepancy is likely due to a 
+faster decrease in the overall population than that of physicians. however, we do not have more 
+recent data from the aamc to assess whether the trend shown in table 6 has continued in more 
+recent years. 
+
+table 7  
+net loss in health care professionals 
+time period 
+
+20072010 
+
+reports of health care professional migration 
+(sources do not necessarily use a consistent definition of health care professional) 
+  net loss of 204 health care professionals (1 percent of health practitioners and technical 
+
+20102012 
+
+  more than 4,000 health professionals, or about 9 percent of health care practitioners and those 
+
+occupations)33 
+
+2014 
+
+2015 
+
+ 
+
+in technical occupations, migrated to the u.s. mainland34 
+
+  aamc estimates that 361 physicians moved from puerto rico  
+  a net loss of 2,132 health care professionals, or 4 percent of health care practitioners and those 
+
+in technical occupations35 
+
+  colegio de mdicos-cirujanos de puerto rico (puerto rico college of physicians) data show 
+
+500 physicians left puerto rico36 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 11 
+
+health insurance coverage 
+most of puerto ricos residents have some form of health insuranceabout 94 percent in 2014, 
+compared with 88 percent on the u.s. mainland (figure 5). almost two-thirds of puerto ricos 
+population had public coverage in 2014, which is significantly higher than the public coverage 
+rate on the u.s. mainland (29 percent). puerto ricos high medicaid coverage drove most of this 
+difference, with 49 percent of the commonwealth population covered by medicaid or chip; 
+only 19 percent of the u.s. mainland received medicaid or chip coverage in the same year. as 
+of september 2016, there were more than 1.5 million people enrolled in medicaid or chip and 
+740,000 people covered by medicare.iv 
+
+figure 5 
+
+health insurance coverage of total population in puerto rico, 50 states and d.c., 2014 
+
+6% 
+
+11% 
+
+49% 
+
+34% 
+
+12% 
+
+10% 
+
+19% 
+
+59% 
+
+uninsured
+
+medicare/military
+
+medicaid/chip
+
+esi/direct purchase
+
+puerto rico (total population 3.52m)
+
+50 states and dc (total population
+
+314.9m)
+
+ 
+
+source: kaiser family foundation analysis, based on the census bureau's 2014 american community survey one-year estimates, retrieved from 
+
+http://files.kff.org/attachment/fact-sheet-8-questions-and-answers-about-puerto-rico. note: the underlying data do not allow medicare and 
+
+military categories to be separated. 
+
+medicaid and chip. puerto rico generally has lower eligibility levels for its medicaid program 
+compared to the u.s. mainland. first, puerto rico does not provide medicaid coverage to all 
+federally mandated populations.37 second, puerto rico uses a local poverty level to establish 
+income-based eligibility for medicaid ($413.53 per month for an individual). puerto rico 
+provides coverage to individuals with modified adjusted gross incomes up to 133 percent of the 
+puerto rico poverty level (prpl) for medicaid and 266 percent of prpl for chip. in 2016 for 
+medicaid, this is $850 per month for a family of four, or approximately 56 percent of fpl. table 
+8 shows, by family size, the monthly income at which people in puerto rico qualify for 
+
+                                                           
+iv slightly more than 166,000 people are enrolled in both medicare and medicaid. 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 12 
+
+medicaid and chip. figure 6 compares 133 percent of the prpl with the same income level in 
+the mainland u.s. 
+
+puerto ricos chip program covers children up to age 19 with family income of up to 266 
+percent of the prpl. puerto ricos medicaid program currently pays an amount per member per 
+month (pmpm) to managed care organizations (mcos) that is the same for all eligible and 
+enrolled persons in medicaid or chip. 
+
+table 8  
+puerto rico poverty level, by family size 
+
+family size 
+
+medicaid eligibility monthly 
+
+chip eligibility monthly 
+
+1 
+
+2 
+
+3 
+4 
+
+income 
+
+$550 
+
+$650 
+
+$750 
+$850 
+
+income 
+$1,100 
+
+$1,300 
+
+$1,500 
+$1,700 
+
+source: cms medicaid and chip monthly income eligibility levels. retrieved from www.medicaid.gov/medicaid/by-state/puerto-rico.html   
+
+figure 6 
+annual income equivalent to 133 percent of poverty in puerto rico and the continental united 
+states for an individual and family of four 
+
+ $32,319  
+
+ $15,800  
+
+ $10,200  
+
+ $6,600  
+
+puerto rico
+(puerto rico poverty
+level)
+
+continental united states
+(federal poverty level)
+
+ $35,000
+
+ $30,000
+
+ $25,000
+
+ $20,000
+
+ $15,000
+
+ $10,000
+
+ $5,000
+
+ $-
+
+individual
+
+family of 4
+
+ 
+
+source: cms medicaid and chip monthly income eligibility levels. retrieved from www.medicaid.gov/medicaid/by-state/puerto-rico.html   
+
+because puerto ricans are u.s. citizens, they would be eligible for medicaid in the states to 
+which they move if they otherwise qualify based on that state's eligibility requirements, as would 
+be true for any low-income u.s. citizen moving between two states. 
+
+federal funding for puerto rico's medicaid program differs from that of the u.s. mainland in 
+two significant ways. first, puerto rico's federal medicaid match rate for medical assistance 
+(federal medical assistance percentage, or fmap) is a fixed rate of 55 percent set by statute. 
+for state medicaid programs, a statutory formula determines a states fmap, which can range 
+between a minimum fmap of 50 percent and a maximum fmap of 83 percent. if calculated by 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 13 
+
+the same statutory formula used for the 50 states and d.c., puerto ricos fmap would be 83 
+percent, although the unbounded fmap would be 93.34 percent.  
+
+second, federal funding for puerto rico's medicaid program is capped. for federal fiscal year 
+(ffy) 2014, the federal medicaid cap was $321.3 million, ffy 2015 was $329 million, ffy 
+2016 was $335.3, and ffy 2017 is $347.4 million. unlike the 50 states and d.c., where the 
+federal government will match all medicaid expenditures at the appropriate federal medical 
+assistance percentage (fmap) for that state, in puerto rico, the fmap is applied until the 
+medicaid ceiling funds and the affordable care act available funds are exhausted.   due to these 
+federal funding constraints, puerto rico has placed limits on certain services typically provided 
+under medicaid.38 
+
+the affordable care act (aca), in addition to raising puerto ricos fmap, provided two 
+additional sources of new funding for its medicaid program. first, the aca gave puerto rico an 
+additional $5.4 billion in federal medicaid funding, to be spent between 2011 and 2019. second, 
+puerto rico received $925 million in lieu of funds the commonwealth would have received to 
+provide private insurance subsidies through a health insurance marketplace, but these funds can 
+be accessed only after the $5.4 billion is spent and are available only through calendar year 
+2019. puerto rico is projected to spend both the $5.4 billion and the $925 million as early as by 
+the end of the first quarter of fy 2018. hhs analysis estimates that nearly 900,000 people in 
+puerto rico could lose their health insurance when that funding expires. 
+
+in fy 2015, puerto rico provided coverage for 10 of the medicaid programs 17 federally 
+mandated benefits. table 9 below shows which services are covered by puerto ricos medicaid 
+program.  
+
+table 9 
+
+services covered by medicaid in puerto rico 
+ 
+
+covered by puerto ricos medicaid 
+
+not covered by puerto ricos medicaid 
+
+program* 
+
+program 
+
+mandatory services 
+
+ 
+
+early and periodic screening, diagnostic, and 
+treatment (epsdt) services 
+inpatient hospital services 
+laboratory and x-ray services 
+
+ 
+ 
+  medical or surgical services provided by a 
+
+dentist  
+
+optional services 
+
+physician services  
+tobacco cessation for pregnant women 
+family planning services 
+federally qualified health center services  
+
+  outpatient hospital services 
+ 
+ 
+ 
+ 
+  rural health clinic services 
+  clinic services 
+  dental services  
+ 
+  outpatient prescription drugs 
+ 
+  diagnostic, screening, preventive, and 
+
+physical therapy and related services 
+
+eyeglasses and prosthetics  
+
+ 
+
+ 
+
+rehabilitative services;  
+inpatient psychiatric hospital services for 
+those under age 21  
+inpatient hospital services for those 65 or 
+older in an institution for mental diseases 
+
+  home health services for those entitled 
+
+to nursing facility services 
+
+  non-emergency transportation to 
+
+medical care 
+
+  certified pediatric and family nurse 
+
+practitioner services 
+
+  nurse midwife services  
+  nursing facility (long-term care) 
+
+services for those over age 21 
+emergency services for certain legalized 
+aliens and undocumented aliens 
+freestanding birth center services 
+
+ 
+
+ 
+
+  hospice care  
+ 
+ 
+
+private duty nursing services  
+intermediate care facility for individuals 
+with intellectual disabilities  
+ 
+personal care services 
+ 
+targeted case management services  
+  nursing facility services for those 65 
+and older in an institution for mental 
+diseases 
+
+*medicaid coverage of a service does not necessarily mean that access to that service is adequate. 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 14 
+
+medicare. puerto ricans pay the same medicare payroll taxes as citizens on the u.s. mainland, 
+but spending per puerto rican enrollee is lower than that for any state.39 puerto rico's per capita 
+medicare spending is $5,230significantly less than the national average of $9,501.40  
+ 
+the most significant difference between the designs of medicare part b in puerto rico and on 
+the u.s. mainland is the approach to enrollment. in puerto rico, medicare beneficiaries must opt 
+in to part b. on the u.s. mainland, medicare automatically enrolls beneficiaries in part b, who 
+can then opt out of this program. if medicare beneficiaries do not enroll in part b at the time of 
+initial eligibility, they are subject to penalties if they ultimately enroll at a later date. since puerto 
+rican residents have to actively opt into part b, they are more likely to enroll in part b late and 
+incur penalties.  residents currently incur more than $7 million per year in late enrollment 
+penalties, and a greater proportion of puerto rican medicare beneficiaries are covered by part a 
+but not part b than on the u.s. mainland (18 percent versus 8 percent in 2012).41 puerto rico 
+does not have a program to help low-income medicare beneficiaries pay their part b premiums 
+(known as the medicare savings program) for individuals who are not eligible for other 
+medicaid benefits. thus, if automatic enrollment were to be implemented in puerto rico, many 
+low-income residents of puerto rico would likely still opt out of part b due to not being able to 
+afford the premiums.  
+ 
+the overwhelming majority of puerto ricans enrolled in medicare (more than 70 percent) elect 
+to receive medicare benefits through medicare advantage, which delivers medicare benefits 
+through private managed care plans. in contrast, only about 30 percent of u.s. mainland 
+beneficiaries enroll in these plans. medicare advantage plans in puerto rico, as on the u.s. 
+mainland, often subsidize medicare's part b premium and have lower cost-sharing than does 
+traditional medicare, which has made these plans particularly attractive to low-income puerto 
+rican medicare beneficiaries.42   
+ 
+the current methodology for setting provider payments under medicare part a is largely the 
+same for acute care hospitals in puerto rico and on the u.s. mainland. differences between the 
+two payment methodologies include adjustments for low-volume hospitals, sole community 
+hospitals, and medicare-dependent hospitals, as well as adjustments for quality programs (e.g., 
+the hospital-acquired condition reduction program, the hospital readmissions reduction 
+program, and the hospital value-based purchasing program)none of which are available to 
+puerto rico hospitals. like hospitals located on the u.s. mainland, puerto rico hospitals receive 
+graduate medical education payments and disproportionate share payments under medicare. 
+however, puerto rican residents are ineligible for supplemental security income (ssi), which is 
+used to calculate the medicare disproportionate share payment.  
+ 
+medicare inpatient payment rates are adjusted by an area wage index to reflect the expected 
+differences in local market prices for labor. the wage index is applied to the labor-related 
+portion of the base rate (usually called the labor share), which reflects an estimate of the 
+portion of costs affected by local wage rates and fringe benefits. the centers for medicare & 
+medicaid services (cms) current operating labor share estimate of 69.6 percent is applied to 
+hospitals with a wage index above 1.0.  hospitals located in areas with a wage index less than or 
+equal to 1.0 can receive an operating labor share of 62 percent ; this provision applies to puerto 
+rico, as there are no areas in the commonwealth with a national wage index greater than 1.0 for 
+fy 2017. 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 15 
+
+ 
+in the calendar year 2017 medicare physician fee schedule final rule, cms aligned puerto ricos 
+geographic practice cost index methodology with those of the u.s. virgin islands by setting 
+puerto ricos gpci using the national average. puerto rico had been the only territory whose 
+geographic adjustment was based on available territory-specific data, which historically led to 
+significantly lower medicare physician fee schedule payments  in puerto rico than all other 
+territories. 
+ 
+the issues described above related to traditional medicare payment rates in puerto rico and 
+payment reductions included in the aca contribute to the differential spending in puerto rico as 
+compared to the u.s. mainland as well as lower ma rates in puerto rico. however, cms 
+announced that in 2017 it will implement several changes to the 2017 rate announcement which 
+will benefit medicare advantage enrollees in puerto rico, such as adjusting risk scores to reflect 
+the higher costs of individuals enrolled in both medicare and medicaid, incorporating increased 
+hospital payments, and adjusting the fee-for-service experience to reflect the propensity of zero 
+dollar claimants nationwide, rather than the propensity of zero dollar claimants solely in puerto 
+rico. cms will also adjust the star rating system for quality bonus payments to account for 
+enrollees socioeconomic status and ineligibility for the low-income subsidy program; these 
+changes are expected to modestly increase payments to medicare advantage plans operating in 
+puerto rico.43 
+ 
+while the medicare part d program generally functions similarly in puerto rico and on the u.s. 
+mainland, one exception is the low-income subsidies program, which is available only on the 
+u.s. mainland. in its place, the medicare modernization act provided funds for an enhanced 
+allotment plan to cover prescription drugs for people dually eligible for medicare and medicaid.  
+ 
+private insurance. private insurance, which includes employer-sponsored coverage and 
+individual market coverage, is less common in puerto rico than on the u.s. mainland. 
+approximately 34 percent of puerto rican residents had employer-sponsored coverage or direct-
+purchase health insurance in 2014, compared to 59 percent on the u.s. mainland.44 
+
+access and service use 
+puerto rican adults experience better access to care than those on the u.s. mainland in certain 
+domains after controlling for economic and demographic factors, including race/ethnicity, age, 
+sex, household income, educational attainment, urban/rural residence, marital status, and 
+employment. at the same time, some evidence suggests lack of access to some services.  
+ 
+hhs agencies working in and with the commonwealth observe patients needing to travel great 
+distances to access services. for example, hrsa reports, the availability and accessibility of 
+more tertiary-level services such as audiology, ophthalmology, orthopedics, and gastroenterology 
+varies greatly by region. the only regional pediatric center (rpc) that offers tertiary-level care 
+and specialty services such as neurosurgery, plastic surgery, ear, nose, and throat, neural tube 
+defects, and craniofacial anomalies, is the metropolitan rpc in san juan, placing challenges 
+on children and families in other areas of puerto rico that require more specialty care. the 
+assistant secretary for preparedness and response notes that there is only one trauma center in 
+puerto rico. its san juan location means that residents on the western side of the island must 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 16 
+
+travel approximately 120 miles to receive specialized trauma care. hhs also has received reports 
+of patients traveling for more than two hours to get treatment. 
+ 
+agencies across hhs also report long wait times for visits and procedures. moreover, the 
+american college of emergency physicians 2014 americas emergency care environment 
+state-by-state report card cites excessively long wait times in emergency departments. it 
+reports a median wait time of 778 minutes (almost 13 hours) from emergency department arrival 
+to departure, meaning that patients can expect to wait 13 hours to be admitted into a hospital 
+room.45 this is compared to 272 minutes (4.5 hours) on average in the u.s. and 452 minutes (7.5 
+hours) in d.c., the lowest-performing in the mainland u.s.46 in 2015, ases executive director 
+ricardo rivera indicated that specialty services have exceptionally long wait timesas many as 
+nine months for some specialties.47 
+ 
+despite these challenges with access to care, puerto rico residents also were more likely to have 
+a usual source of care and a check-up within the past year and less likely to have experienced 
+cost-related delays, compared to their counterparts on the u.s. mainland.48 an hhs analysis 
+found that puerto ricans were less likely to refrain from seeing a doctor because of cost in the 
+past year but were more likely to refrain from taking medication due to cost, compared to the 
+mainland u.s.  
+ 
+specific services and screenings. as shown in table 10, data from the behavioral risk factor 
+surveillance system (brfss) comparing puerto rico to the rest of the u.s. show that 
+americans in puerto rico are less likely to receive colorectal cancer screenings and pap smears.  
+
+table 10 
+
+select preventive service rates in puerto rico and 50 states plus d.c., 2014 
+
+ 
+
+ 
+
+puerto rico 
+
+u.s. 
+
+total 
+
+percent 
+
+total 
+
+52.5 
+
+53 
+
+1,651 
+
+respondents ages 5075 who have fully met the 
+united states preventive services task force 
+(uspstf) recommendation for colorectal 
+cancer screening 
+women ages 2165 who have had a pap test in 
+the past three years 
+women ages 5074 who have had a 
+mammogram within the past two years 
+ 
+source: brfss prevalence and trends data. retrieved from http://www.cdc.gov/brfss/brfssprevalence/index.html. 
+1median of states. 
+ 
+
+1,483 
+
+1,520 
+
+51 
+
+51 
+
+77.4 
+
+82.3 
+
+ 
+
+percent1 
+
+66.4 
+
+82.6 
+
+78.1 
+
+the literature also reveals limited access to prenatal services,49 dental care,50 and specialty care.51 
+puerto rican children and adolescents also disproportionately struggle to obtain medication 
+intended for the long-term control of asthma, a condition common among commonwealths 
+youth.52 
+ 
+hhs analysis indicates that both hiv infection rates and hiv testing appear to be higher in 
+puerto rico than the mainland u.s. findings from a study on late hiv testingdefined as a 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 17 
+
+patient being diagnosed with aids within a year of his or her hiv diagnosisindicate that there 
+may be a gap in early hiv detection in puerto rico. from 2010 to 2011, about half of the 
+patients studied presented for care late, which can result in higher transmission, lower 
+effectiveness of treatment, and worse outcomes. these results are consistent with another study 
+that suggests that gay men in san juan receive hiv testing less frequently than recommended by 
+the centers for disease control and prevention (cdc).53 
+ 
+the american college of emergency physicians 2014 americas emergency care environment 
+state-by-state report card discusses treatment of patients with acute myocardial infarction 
+(ami). though it found that a high proportion of patients in puerto rico (94 percent) receive 
+aspirin within 24 hours before their emergency department arrival or during their stay (compared 
+with 99.1 percent in the mainland u.s.), only 54 percent receive percutaneous coronary 
+intervention within 90 minutesan increase from 17 percent in 2009, but well below the 93.1 
+percent of patients that receive this level of care in the mainland u.s. 
+ 
+immunization and vaccination. evidence shows that puerto ricos immunization and 
+vaccination rates are low relative to the u.s. mainland. puerto ricos department of health 
+notes that in 2014, 56.4 percent of children from 19 to 35 months received all their recommended 
+vaccines, compared with 71.6 percent of children the same age in the mainland u.s.54  
+ 
+influenza and pneumonia immunization rates also are lower. one study found that 25.5 percent 
+of puerto rican medicare beneficiaries received a pneumonia immunization in 2008, whereas 
+the rate for spanish-preferring medicare beneficiaries on the u.s. mainland was almost double 
+(47.4 percent).55 similarly, influenza immunization rates among medicare beneficiaries living in 
+puerto rico were lower (32.7 percent) than spanish-preferring and english-preferring medicare 
+beneficiaries living on the u.s. mainland (67.7 and 73.3 percent, respectively).56 during the 
+20132014 influenza season, 18 percent of puerto ricans reported receiving the influenza 
+vaccination, compared to 46 percent on the u.s. mainland.57 for the 20142015 season, the 
+puerto rico department of health reported that 15 percent of the elderly population received the 
+flu shot.58 moreover, an hhs analysis of federal data found that the puerto rico population 
+receiving a flu shot in the past year was 12 percent lower than the mainland u.s. population.  
+ 
+an urban institute analysis of brfss data found that the 2014 influenza vaccination rate among 
+adults in puerto rico was also lower than that of adults in florida and mississippi or the rest of 
+the u.s. mainland (table 11). similarly, the american college of emergency physicians 2014 
+americas emergency care environment state-by-state report card noted declining 
+immunization rates among older adults in puerto rico, with only 28.6 percent of the elderly 
+reporting receiving an influenza vaccination in the past year, and fewer than 23 percent reporting 
+ever having received a pneumococcal vaccine.59 
+ 
+
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 18 
+
+table 11 
+
+influenza vaccination rate among adults in puerto rico, florida, mississippi, and the u.s. 
+mainland, 2014 
+
+ 
+
+puerto rico 
+
+florida 
+
+mississippi 
+
+remainder of 
+u.s. mainland 
+
+share of adults who 
+have not received a 
+flu vaccine in the last 
+year 
+share of adults age 65 
+and older who have 
+not received a flu 
+vaccine in the last 
+year 
+
+74.1% 
+
+68.4%*** 
+
+63.0%*** 
+
+61.1%*** 
+
+60.3% 
+
+47.2%*** 
+
+33.4%*** 
+
+40.2%*** 
+
+source: urban institute analysis of the 2014 brfss survey database. 
+notes: */**/*** estimates statistically differ from puerto rico at the 0.10/0.05/0.01 level, two-sided test. 
+
+one study of human papillomavirus vaccine (hpv) vaccination in puerto rico found that only 
+21 percent of girls ages 11 to 18 had completed a full vaccination series.60 on the u.s. mainland, 
+in contrast, 63 percent of girls and 50 percent of boys ages 13 to 17 received the hpv 
+vaccination between 2014 and 2015.61 
+ 
+behavioral health services. there is limited information on availability of behavioral health 
+services in puerto rico, but medical services generally are more widely available than behavioral 
+health services. patients with behavioral health problems often seek care from primary care 
+providers and at non-psychiatric hospitals.62 psychological services also are typically not 
+provided in the commonwealths general hospitals. an hhs analysis indicates that mental 
+health visits account for a smaller percentage of puerto rico health center visits than in health 
+centers on the u.s. mainland.  
+
+prevalence of disease 
+brfss data show a higher disease burden for several chronic conditions and associated risk 
+factors. for example, puerto ricans are twice as likely to suffer from coronary heart disease as 
+the general u.s. population. rates of myocardial infarction, asthma, and high blood pressure are 
+also higher in puerto rico than on the u.s. mainland. 
+ 
+
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 19 
+
+table 12 
+
+prevalence of selected chronic diseases and associated risk factors in puerto rico versus 
+the 50 states plus dc, 2014 
+
+ 
+
+ 
+
+coronary heart disease 
+
+myocardial infarction 
+
+adults who have been told they have high blood 
+pressure (2013 data) 
+
+adults who have been told they currently have 
+asthma 
+
+adults who have ever been told they have 
+asthma 
+
+stroke 
+
+weight classification by body mass index 
+(bmi) obese (bmi 30.099.8) 
+adults who are current smokers  
+
+puerto rico 
+
+u.s. 
+
+total 
+
+percent 
+
+total 
+
+percent1 
+
+609 
+
+389 
+
+3,007 
+
+636 
+
+1,031 
+
+177 
+
+1,619 
+
+538 
+
+8.5 
+
+5.3 
+
+42.3 
+
+10.6 
+
+17.1 
+
+2.2 
+
+28.3 
+
+11.3 
+
+51 
+
+51 
+
+53 
+
+51 
+
+51 
+
+51 
+
+51 
+
+51 
+
+4.2 
+
+4.4 
+
+31.4 
+
+8.9 
+
+13.8 
+
+3 
+
+29.6 
+
+18.1 
+
+source: brfss prevalence and trends data. retrieved from http://www.cdc.gov/brfss/brfssprevalence/index.html. 
+1median of states. 
+ 
+
+in its 2015 puerto rico primary care needs assessment, the puerto rico department of health 
+reported the incidence of several conditions compared with the u.s. mainland. the department 
+found that from 2008 to 2012, puerto rico had a lower age-adjusted incidence rate for all cancer 
+sites, colon and rectum cancer, and female breast cancer, but higher rates for prostate cancer, 
+hiv, and syphilis. (see table 13 and figure 7 below.)63 
+ 
+table 13 
+age-adjusted incidence rate (cases per 100,000 population) of select conditions, 20082012 
+
+all cancer sites 
+
+colon/rectum 
+cancer  
+
+breast 
+cancer 
+
+prostate 
+cancer 
+
+hiv 
+
+total syphilis 
+
+314.4 
+
+454.8 
+
+38.4 
+
+42.5 
+
+80.5 
+
+124.8 
+
+141.9 
+
+137.9 
+
+18.4 
+
+16.7 
+
+26.6 
+
+20.1 
+
+ 
+puerto rico 
+
+united states 
+
+ 
+
+source: 2015 puerto rico primary care needs assessment. april 2016. retrieved from http://www.salud.gov.pr/estadisticas-
+registros-y-publicaciones/publicaciones/2015%20puerto%20rico%20primary%20care%20needs%20assesment.pdf. 
+
+ 
+ 
+
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 20 
+
+ 
+figure 7 
+percentage difference between puerto rico and mainland u.s. age-adjusted incidence rates, 
+ 20082012 
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+-10%
+
+-20%
+
+-30%
+
+-40%
+
+32% 
+
+-10% 
+
+3% 
+
+10% 
+
+-31% 
+
+-35% 
+
+all cancer
+
+colon and
+
+breast cancer
+
+sites
+
+rectum
+cancer
+
+prostate
+cancer
+
+hiv
+
+total syphilis
+
+  
+
+source: 2015 puerto rico primary care needs assessment. april 2016. retrieved from http://www.salud.gov.pr/estadisticas-
+registros-y-publicaciones/publicaciones/2015%20puerto%20rico%20primary%20care%20needs%20assesment.pdf. 
+
+according to 2013 data, the causes of death in puerto rico include cancer, diseases of the heart, 
+diabetes, alzheimers disease, and cerebrovascular diseases (table 14).64 in comparison, the top 
+five causes of death in the mainland u.s. were diseases of the heart, cancer, chronic respiratory 
+diseases, unintentional injuries, and cerebrovascular diseases.65 the second and third most 
+common causes of death in puerto ricodiabetes and alzheimers diseasewere slightly lower 
+in the u.s. mainland rankings, where they ranked sixth and seventh, respectively, in 2013 (23.9 
+per 100,000 and 26.8 per 100,000).66  
+
+table 14  
+
+top five causes of death in puerto rico versus the u.s. mainland, 2013 
+
+puerto rico 
+
+u.s. mainland 
+
+ranking 
+1 
+2 
+3 
+4 
+5 
+
+cause of death 
+
+cancer 
+diseases of the heart 
+diabetes 
+alzheimers disease 
+cerebrovascular diseases 
+
+rate per 
+100,000 
+144.4 
+140.7 
+87.0 
+50.6 
+37.4 
+
+ranking 
+1 
+2 
+3 
+4 
+5 
+
+cause of death  
+
+diseases of the heart 
+cancer 
+chronic respiratory disease 
+unintentional injuries 
+cerebrovascular diseases 
+
+rate per 
+100,000 
+193.3 
+185.0 
+47.2 
+41.3 
+40.8 
+
+source: departamento de salud and national vital statistics reports, 62(6), december 20, 2013. 
+
+notes: data on hispanic origin should be interpreted with caution due to misreporting/underreporting on death certificates. 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 21 
+
+due to the aging of puerto ricos population, crude death rates for diabetes and alzheimers 
+disease have been rising over the past five years. however, adjusted for the changing age 
+distribution in puerto rico, death rates for most leading causes of death have fallen.67 
+
+health indicators 
+a recent study found that, across 17 quality measures, hispanic medicare advantage enrollees in 
+puerto rico had significantly worse performance on 15 of those measures than hispanic 
+enrollees residing in the mainland u.s.68 an older study also found that medicare beneficiaries 
+in puerto rico experience lower quality of care than u.s. mainland residents on more than 20 
+process measures.69 
+ 
+health indicators provide important information in assessing the effectiveness and success of a 
+health system. the best available indications of health outcomes in puerto rico are metrics on 
+life expectancy, infant mortality, and self-reported health status. in two of the three, puerto rico 
+is worse off than the u.s. mainland. puerto rico has a higher infant mortality rate (7.57 per 
+1,000 in 2015) than the u.s. mainland (5.87 per 1,000 in 2015) and a premature birth rate well 
+above the average for the u.s. mainland (11.8 percent in puerto rico versus 9.6 percent in the 
+u.s.).70 adults in puerto rico report higher rates of fair or poor health (35.4 percent, compared 
+to 17.9 percent in 2014).71 in 2015, life expectancy was similar for residents of puerto rico 
+(79.25 years) and the u.s. mainland (79.68 years).72  
+
+conclusion 
+the information compiled here suggests distress in the puerto rico health care system even 
+before new public health challenges, such as the zika virus. though not addressed in this report, 
+the prevalence of the zika virus in puerto rico stands to increase the strain on its health care 
+services and infrastructure. in puerto rico, as of december 14, 2016, there were more than 
+33,000 cases of local zika transmission.73 cdc projects that a quarter of the islands population 
+may be infected with zika in the first year of its presence and already, over 3000 pregnant 
+women have been infected. for a system that has a shortage of obstetrician/gynecologists and 
+developmental pediatricians, and lacks a long-term care service infrastructure, the implications 
+of zika for affected mothers and babies is of concern.  the zika response and preparedness act 
+(p.l. 114-223), signed on september 28, 2016, authorized $933 million in appropriations to hhs 
+to prevent, prepare for, and respond to the zika virus in puerto rico, other u.s. territories, and 
+the u.s. mainland. 
+ 
+available evidence clearly indicates a shortage of specialists, and anecdotal evidence suggests a 
+significant emigration of health care professionals to the u.s. mainland. although the vast 
+majority of citizens in puerto rico have health insurance, the imminent exhaustion of additional 
+federal funding threatens that safety net, with nearly 900,000 people potentially losing coverage. 
+even those with health insurance must travel great distances and experience long wait times to 
+access care. moreover, puerto rico is underperforming in some important services, such as 
+cancer screening and immunizations. perhaps as a result, the rate of adults in fair to poor health 
+is twice as high in puerto rico than in the mainland u.s. the evidence also shows that there are 
+areas where the system seems to be adequate, and life expectancy rates are about the same as in 
+the mainland u.s. 
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 22 
+
+timely data are difficult to obtain, and additional studies certainly would aid in better 
+understanding the implications of puerto ricos health system for the health and well-being of 
+the american citizens living there. nevertheless, this report synthesizes available information 
+about the health care delivery system on which these 3.5 million americans depend. the 
+evidence presented here suggests real challenges. from an enduring economic crisis to 
+underlying statutory disparities, puerto rico faces a combination of unique circumstances that 
+not only hinder improvement but risk further deterioration. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                                                   page 23 
+
+ 
+
+ 
+
+                                                           
+1 hospitales hima san pablo despedirn a 470 empleados. el nuevo dia. april 8, 2016. retrieved from 
+http://www.elnuevodia.com/noticias/locales/nota/hospitaleshimasanpablodespediran470empleados-2184515/;  
+arroyo, marga p. faltan enfermeras en el peditrico. el nuevo dia. may 11, 2016. retrieved from 
+http://www.elnuevodia.com/noticias/locales/nota/faltanenfermerasenelpediatrico-2197531/;  
+puerto rico left without air ambulance service over debt. associated press, june 7, 2016. retrieved from 
+http://wtop.com/health/2016/06/puerto-ricos-air-ambulance-company-ends-service-over-debt/. 
+2 perreira, krista m., nicole lallemand, amanda napoles, and stephen zuckerman. 2017. environmental scan of puerto ricos 
+health care infrastructure. washington dc: urban institute. available at www.urban.org/research/publication/environmental-
+scan-puerto-ricos-health-care-infrastructure 
+3 perreira, krista, rebecca peters, nicole lallemand, and stephen zuckerman. 2017. puerto rico health care infrastructure 
+assessment: site visit report. washington dc: urban institute. available at www.urban.org/research/publication/puerto-rico-
+health-care-infrastructure-assessment-site-visit-report 
+4 arroyo, marga p. healthcare services on the island are in danger.  el nuevo dia. may 4, 2016. retrieved from 
+http://www.elnuevodia.com/noticias/locales/nota/healthcareservicesontheislandareindanger-2195238/ 
+5 health resources and services administration analysis of 2015 data from bureau of labor statistics, occupational 
+employment statistics (https://www.bls.gov/oes/tables.htm) and  national center for health statistics, national vital statistics 
+system (ftp://ftp.cdc.gov/pub/health_statistics/nchs/dataset_documentation/dvs/natality/userguide2015.pdf)  
+6 puerto rico department of labor and human resources. puerto rico economic analysis report 20132014. retrieved from 
+https://www.doleta.gov/performance/results/annualreports/2013_economic_reports/pr_economic_analysis_report_2013-
+2014.pdf. 
+7 annual estimates of resident population for selected age groups by sex for the united states, states, counties, and puerto 
+rico commonwealth and municipios: april 1, 2010 to july 1, 2015 
+8 ibid. 
+9 ibid. 
+10 bureau of labor statistics (bls). 2016. economy at a glance. retrieved from https://www.bls.gov/eag. 
+11 u.s. census bureau. 2015. selected economic characteristics: 2011-2015 american community survey 5-year estimates. 
+retrieved from https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=acs_15_5yr_dp03&src=pt 
+12 federal reserve bank of new york. 2012. report on the competitiveness of puerto ricos economy. new york: federal 
+reserve bank of new york. 
+13 federal reserve bank of new york. 2014. an update on the competitiveness of puerto ricos economy. new york: federal 
+reserve bank of new york.  
+14 krueger, anne o., teja, ranjit, and wolfe, andrew. 2015. puerto ricoa way forward. san juan: government 
+development bank of puerto rico. retrieved from http://www.bgfpr.com/documents/puertoricoawayforward.pdf. 
+15 mihm, s. 2015, december 3. how a drafting error clobbered puerto rico. bloomberg view. retrieved from 
+http://www.bloombergview.com/articles/2015-12-03/bankruptcy-was-option-for-puerto-rico-before-congress-goof. 
+16 working group for the fiscal and economic recovery of puerto rico. puerto rico fiscal and economic growth plan. 
+september 9, 2015.  
+17 u.s. census bureau. 2014. health insurance coverage status: 2014 american community survey 1-year estimates. retrieved 
+from http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml; u.s. census bureau. 2014. selected economic characteristics: 
+20102014 american community survey 5-year estimates. retrieved from 
+http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml. 
+18 on life support: the puerto rico healthcare crisis. november 2015. newoak fundamental credit. retrieved from 
+http://www.noticel.com/uploads/gallery/documents/9b23de2ecb3553da7e50827feb32d0af.pdf. 
+19 ayala, c. j. 1996. the decline of the plantation economy and the puerto rican migration of the 1950s. latino studies 
+journal, 7(1), 6190. 
+20 velazquez-estrada, a. l. 2016. perfil del migrante 2014. san juan: instituto de estadisticas de puerto rico. 
+21 departmento de salud. 2015. resumen general de la salud en puerto rico. san juan, pr: departamento de salud. retrieved 
+from http://www.salud.gov.pr/estadisticas-registros-y-
+publicaciones/publicaciones/informe%20de%20la%20salud%20en%20puerto%20rico%202015_final.pdf. 
+22 centers for medicare & medicaid services, office of the actuary, national health statistics group;  u.s. department of 
+commerce, bureau of economic analysis; and u.s. bureau of the census. retrieved from https://www.cms.gov/research-
+statistics-data-and-systems/statistics-trends-and-reports/nationalhealthexpenddata/nationalhealthaccountshistorical.html 
+23 centers for medicare and medicaid services. 2015. nhe summary including share of gdp, cy 1960-2015. retrieved from 
+https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-
+reports/nationalhealthexpenddata/nationalhealthaccountshistorical.html. 
+
+ aspe office of health policy 
+
+ 
+
+january 12, 2017 
+
+aspe issue brief                                                                                           
+
+                    page 24 
+
+                                                                                                                                                                                           
+24 mach, a. l., davis, p. a., donovan, s. a., hahn, j., kirchhoff, s. m., mitchell, a.,  talaga, s. r. 2016; portela, m., and 
+sommers, b. d. 2015. on the outskirts of national health reform: a comparative assessment of health insurance and access 
+to care in puerto rico and the united states. the milbank quarterly. retrieved from http://nrs.harvard.edu/urn-
+3:hul.instrepos:14085958; portela, m., and sommers, b. d. 2015. on the outskirts of national health reform: a 
+comparative assessment of health insurance and access to care in puerto rico and the united states. the milbank quarterly. 
+retrieved from http://nrs.harvard.edu/urn-3:hul.instrepos:14085958. 
+25 american hospital association (aha). 2014. aha annual survey database. 
+26 aha (american hospital association). 2014. aha annual survey database; aha. 2016. fast facts on us hospitals: fast 
+facts 2016. retrieved from http://www.aha.org/research/rc/stat-studies/fast-facts.shtml. 
+27 american college of emergency physicians. 2016. americas emergency care environment, a state-by-state report card. 
+retrieved from http://www.emreportcard.org/puerto-rico/ 
+28 velazquez-estrada, a. l. 2016. perfil del migrante 2014. san juan: instituto de estadisticas de puerto rico. 
+29 aamc. 2015. puerto rico physician workforce profile. washington (dc): aamc.   
+https://www.aamc.org/download/447224/data/puertoricoprofile.pdf.  
+30 aamc. 2015. puerto rico physician workforce profile. washington (dc): aamc.   
+https://www.aamc.org/download/447224/data/puertoricoprofile.pdf.  
+31 american college of emergency physicians. 2016. americas emergency care environment, a state-by-state report card. 
+retrieved from http://www.emreportcard.org/puerto-rico/ 
+32 arroyo, marga p. healthcare services on the island are in danger. el nuevo dia. may 4, 2016. retrieved from 
+http://www.elnuevodia.com/noticias/locales/nota/healthcareservicesontheislandareindanger-2195238/. 
+33 velazquez-estrada, a. l., marazzi santiago, m., nogue souffront, l. m., orenstein, j., rodriguez ayuso, i. r., and velazquez 
+oliver, y. 2015. perfil del migrante 2013. san juan: instituto de estadisticas de puerto rico; bls (bureau of labor statistics). 
+2007. tables created by bls. retrieved september 30, 2016, from http://www.bls.gov/oes/tables.htm. 
+34 shin, p., sharac, j., luis, m. n., and rosenbaum, s. 2015. puerto ricos community health centers in a time of crisis. 
+geiger gibson/rchn community health foundation research collaborative 43. washington, dc: george washington 
+university milken institute school of public health, department of health policy and management; bls 2010. tables created 
+by bls. retrieved september 30, 2016, from http://www.bls.gov/oes/tables.htm. 
+35 velazquez-estrada, a. l. 2016. perfil del migrante 2014. san juan: instituto de estadisticas de puerto rico; bls 2014. puerto 
+rico economic analysis report 20132014. hato rey, pr: bls. retrieved from 
+https://www.doleta.gov/performance/results/annualreports/2013_economic_reports/pr_economic_analysis_report_2013-
+2014.pdf. 
+36 arroyo, marga p. peligrosa fuga de miles de medicos. el nuevo dia. july 28, 2016. retrieved from 
+http://www.elnuevodia.com/english/english/nota/thousandsofdoctorsfleetheisland-2225026/.  
+37 u.s. government accountability office (gao). 2014. puerto rico: information on how statehood would potentially affect 
+selected federal programs and revenue sources. washington, dc: gao. 
+38 ibid. 
+39 cms. 2016. inpatient prospective payment system, fy 2017 final rule and corrections notice data files. retrieved from 
+https://www.cms.gov/medicare/medicare-fee-for-service-payment/acuteinpatientpps/fy2017-ipps-final-rule-home-page-
+items/fy2017-ipps-final-rule-data-files.html?dlpage=1&dlentries=10&dlsort=0&dlsortdir=ascending; cms. 2016. 
+physician fee schedule, cms-1631-fc 2016. retrieved from https://www.cms.gov/medicare/medicare-fee-for-service-
+payment/physicianfeesched/pfs-federal-regulation-notices-items/cms-1631-fc.html; levis, m. 2015, december 29. the 
+price of inequality for puerto rico. retrieved from http://healthaffairs.org/blog/2015/12/29/the-price-of-inequality-for-puerto-
+rico/. 
+40 healthgrove. n.d. puerto rico-medicare spending and usage. retrieved september 30, 2016, from http://medicare-
+usage.healthgrove.com/l/2350/puerto-rico. 
+41 shin, p., sharac, j., luis, m. n., and rosenbaum, s. 2015. puerto ricos community health centers in a time of crisis. 
+geiger gibson/rchn community health foundation research collaborative 43. washington, dc: george washington 
+university milken institute school of public health, department of health policy and management; mach, a. l., davis, p. a., 
+donovan, s. a., hahn, j., kirchhoff, s. m., mitchell, a.,  talaga, s. r. 2016. puerto rico and health care finance: 
+frequently asked questions. washington, dc: congressional research service; portela, m., and sommers, b. d. 2015. on the 
+outskirts of national health reform: a comparative assessment of health insurance and access to care in puerto rico and the 
+united states. the milbank quarterly. retrieved from http://nrs.harvard.edu/urn-3:hul.instrepos:14085958. 
+42 rivera-hernandez m, leyva b, keohane lm, and trivedi an. 2016. quality of care for white and hispanic medicare 
+advantage enrollees in the united states and puerto rico. jama internal medicine, 176(6), 78794. retrieved from 
+https://doi.org/10.1001/jamainternmed.2016.0267. 
+
+ aspe office of health policy     
+
+ 
+
+           january 12, 2017 
+
+aspe issue brief                                                                                           
+
+                    page 25 
+
+                                                                                                                                                                                           
+43 cms. 2016d. supporting medicare in puerto rico. retrieved from 
+https://www.cms.gov/newsroom/mediareleasedatabase/fact-sheets/2016-fact-sheets-items/2016-04-04-2.html. 
+44 the kaiser commission on medicaid and the uninsured. 2016. 8 questions and answers about puerto rico. washington, dc: 
+kaiser family foundation. 
+45 american college of emergency physicians. 2016. americas emergency care environment, a state-by-state report card. 
+retrieved from http://www.emreportcard.org/puerto-rico/. 
+46 american college of emergency physicians. 2016. americas emergency care environment, a state-by-state report card. 
+retrieved from http://www.emreportcard.org/uploadedfiles/emreportcard2014.pdf 
+47 braun, m. z. 2015, december 7. puerto rico says sick will head north without health-care fix. bloomberg.com. retrieved 
+from http://www.bloomberg.com/news/articles/2015-12-07/puerto-rico-says-sick-will-head-north-without-health-care-fix. 
+48 portela, m., and sommers, b. d. 2015. on the outskirts of national health reform: a comparative assessment of health 
+insurance and access to care in puerto rico and the united states. the milbank quarterly. retrieved from 
+http://nrs.harvard.edu/urn-3:hul.instrepos:14085958. 
+49 colon-burgos, j. f., colon-jordan, h. m., reyes-ortiz, v. e., marin-centeno, h. a., and rios-mota, r. 2014. disparities and 
+barriers encountered by immigrant dominican mothers accessing prenatal care services in puerto rico. journal of immigrant 
+minority health, 16, 646651. retrieved from https://doi.org/10.1007/s10903-013-9875-8. 
+50 arevalo, o., saman, d. m., tabares, m., hernandez, a., and sanders-ward, r. 2015. job satisfaction and relocation desire 
+among pediatric dentists in puerto rico. puerto rico health sciences journal, 34(4), 201207. 
+51 coto, d. (n.d.). doctors flee puerto rico for us mainland. nbc latino. san juan, puerto rico. 
+52 misla, r. 2015, december 10. us sen. bill nelson seeks to expand medicare part d program to puerto rico. caribbean 
+business. san juan, puerto rico; langellier, b. a., martin, m. a., canino, g., garza, j. r., and ortega, a. n. 2012. the health 
+status of youth in puerto rico. clinical pediatrics, 51(6). retrieved from https://doi.org/10.1177/0009922812443123. 
+53 chapin-bardales, j., sanchez, t., paz-bailey, g., hageman, k., spiller, m. w., rolon-colon, y., and miranda de leon, s. 
+2016. factors associated with recent human immunodeficiency virus testing among men who have sex with men in puerto 
+rico, national human immunodeficiency virus behavioral surveillance system, 2011. sexually transmitted diseases, 43(6), 
+34652. retrieved from https://doi.org/10.1097/oql.0000000000000451. 
+54 2015 puerto rico primary care needs assessment. april 2016. http://www.salud.gov.pr/estadisticas-registros-y-
+publicaciones/publicaciones/2015%20puerto%20rico%20primary%20care%20needs%20assesment.pdf. 
+55 elliot, m. n., haviland, a. m., dembosky, j. w., hambarsoomian, k., and weech-maldonado, r. 2012. are there 
+differences in the medicare experiences of beneficiaries in puerto rico compared with those in the u.s. mainland? medical 
+care, 50, 243248. 
+lviii ibid. 
+57 arriola, c. s., mercado-crespo, m. c., rivera, b., serrano-rodrguez, r., macklin, n., rivera, a.,  kennedy, e. d. 2015. 
+reasons for low influenza vaccination coverage among adults in puerto rico, influenza season 2013-2014. vaccine, 33, 3829
+35; cdc. 2014. influenza (flu): flu vaccination coverage, united states, 201314 influenza season. retrieved from 
+http://www.cdc.gov/flu/fluvaxview/coverage-1314estimates.htm. 
+58 2015 puerto rico primary care needs assessment. april 2016. retrieved from http://www.salud.gov.pr/estadisticas-
+registros-y-publicaciones/publicaciones/2015%20puerto%20rico%20primary%20care%20needs%20assesment.pdf. 
+59 american college of emergency physicians. 2016. americas emergency care environment, a state-by-state report card. 
+retrieved from http://www.emreportcard.org/puerto-rico/. 
+60 fernndez m.e., le y.l., fernndez-espada n, calo w.a., savas l.s., vlez c., et al. 2014. knowledge, attitudes, and 
+beliefs about human papillomavirus (hpv) vaccination among puerto rican mothers and daughters, 2010: a qualitative 
+study. preventing chronic disease 11:140171. doi: http://dx.doi.org/10.5888/pcd11.140171.fernandez et al. 2014. 
+61 cdc. 2015. national, regional, state, and selected local area vaccination coverage among adolescents aged 1317 years - 
+united states, 2014. morbidity and mortality weekly report 64.29. atlanta: cdc. 
+62 jimenez et al. 2013. integrating mental health services into a general hospital in puerto rico. j clin psychol med settings 
+(20): 294-301. 
+63 2015 puerto rico primary care needs assessment. april 2016. retrieved from http://www.salud.gov.pr/estadisticas-
+registros-y-publicaciones/publicaciones/2015%20puerto%20rico%20primary%20care%20needs%20assesment.pdf. 
+64 departmento de salud. 2015. resumen general de la salud en puerto rico. san juan, pr: departamento de salud. retrieved 
+from http://www.salud.gov.pr/estadisticas-registros-y-
+publicaciones/publicaciones/informe%20de%20la%20salud%20en%20puerto%20rico%202015_final.pdf. 
+65 xu, j., murchpy, s. l., kochanek, k. d., and bastian, b. a. (n.d.). deaths: final data for 2013. national vital statistics 
+report 64.2. retrieved from http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf. 
+66 ibid. 
+
+ aspe office of health policy     
+
+ 
+
+           january 12, 2017 
+
+aspe issue brief                                                                                           
+
+                    page 26 
+
+                                                                                                                                                                                           
+67 departmento de salud. 2015. resumen general de la salud en puerto rico. san juan, pr: departamento de salud. retrieved 
+from http://www.salud.gov.pr/estadisticas-registros-y-
+publicaciones/publicaciones/informe%20de%20la%20salud%20en%20puerto%20rico%202015_final.pdf. 
+68 rivera-hernandez, m., leyva, b., keohane, l. m., and trivedi, a. n. 2016. quality of care for white and hispanic medicare 
+advantage enrollees in the united states and puerto rico. jama internal medicine, 176(6), 78794. retrieved from 
+https://doi.org/10.1001/jamainternmed.2016.0267. 
+69 jencks, s. f., cuerdon, t., burwen, d. r., fleming, b., houck, p. m., kussmaul, a. e., arday, d. r. 2000. quality of medical 
+care delivered to medicare beneficiaries: a profile at state and national levels. jama, 284(13), 167076. 
+70 cia world fact book 2016. central american and caribbean: puerto rico. retrieved from 
+https://www.cia.gov/library/publications/resources/the-world-factbook/geos/rq.html. 
+71 cdc. 2014. brfss prevalence and trends data. retrieved from http://nccd.cdc.gov/brfssprevalence/. 
+72 cia world fact book 2016. central american and caribbean: puerto rico. retrieved from 
+https://www.cia.gov/library/publications/resources/the-world-factbook/geos/rq.html.cia world fact book 2016; departmento de 
+salud. 2015. resumen general de la salud en puerto rico. san juan, pr: departamento de salud. retrieved from 
+http://www.salud.gov.pr/estadisticas-registros-y-
+publicaciones/publicaciones/informe%20de%20la%20salud%20en%20puerto%20rico%202015_final.pdf; xu, j., murchpy, 
+s. l., kochanek, k. d., and bastian, b. a. (n.d.). deaths: final data for 2013. national vital statistics report 64.2. retrieved 
+from http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf. 
+73 retrieved december 16, 2016, from https://www.cdc.gov/zika/geo/united-states.html. 
+
+ aspe office of health policy     
+
+ 
+
+           january 12, 2017 
+
+

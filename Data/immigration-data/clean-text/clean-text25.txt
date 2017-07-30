@@ -1,0 +1,964 @@
+the human cost of iirira  
+stories from  
+individuals impacted by the 
+immigration detention system
+
+saba ahmed, esq.
+
+adina appelbaum, esq.
+
+rachel jordan, esq.
+
+executive summary
+the  1996  passage  of  the  illegal  immigration  reform  and  immigrant 
+responsibility act (iirira) has had a devastating impact on immigrants 
+who  are  detained,  indigent,  and  forced  to  face  deportation  proceedings 
+without  representation  (pro  se).  in  the  past  20  years,  immigration 
+detention has grown exponentially and a criminalimmigration detention
+deportation pipeline has developed as a central function of the immigration 
+system. despite the growing specter of the criminal alien in the american 
+psyche, there is little public knowledge or scrutiny of the vast immigration 
+detention and deportation machine. enforcement of iirira has effectively 
+erased human stories and narrowed immigration debates to numbers and 
+statistics. 
+the five vignettes below tell the stories of individuals who have personally 
+experienced  the  impact  of  iirira.  part  1  describes  the  on-the-ground 
+reality  of  a  state  public  defenders  obligations  and  struggles  to  defend 
+immigrants  from  harsh  consequences  of  criminal  convictions.  part  2 
+provides the perspective of an indigent immigrant fighting his deportation 
+pro se. part 3 describes a nonprofit immigration attorneys challenges in 
+providing legal services to detained immigrants. part 4 is a glimpse into the 
+brisk pace of an immigration judges detained docket. part 5 tells the story 
+of a detained immigrants family member and the many hoops she must 
+jump  through  to  ensure  he  has  a  fighting  chance  in  immigration  court. 
+collectively, these vignettes provide a realistic picture of the immigration 
+detention experience, revealing the human cost of iirira. 
+
+introduction
+since its passage in 1996, the illegal immigration reform and immigrant responsibility 
+act  (iirira)  has  had  a  devastating  impact  on  immigrants  who  are  indigent,  detained, 
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 1 (2017): 194-216and  forced  to  face  deportation  proceedings  without  representation  (pro  se).  iiriras 
+criminalization of the immigration system has funneled millions of immigrants through 
+a  massive  criminal  immigration  deportation  pipeline.  iirira  expanded  the  number  of 
+criminal offenses that trigger deportation, detain immigrants without possibility of bond, 
+and bar them from legal defenses against deportation. as a result, the united states now 
+operates the worlds largest immigration detention system (global detention project 2016). 
+over 40,000 immigrants are detained by the department of homeland security (dhs) on 
+any given day (barrett 2016). they are detained under conditions set by immigration and 
+customs  enforcement  (ice)  and  by  customs  and  border  protection  (cbp),  with  little 
+review from outside entities. 
+despite increased public awareness of the civil rights violations undergirding the mass 
+criminal  incarceration  epidemic  in  america,  stories  of  detained  immigrants,  the  over-
+burdened legal service providers and judicial employees who work to ensure their due 
+process rights, and the impact of detention on the family members of detainees remain 
+largely  hidden  from  the  public.  meanwhile,  the  institutional  foundation  of  iirira  has 
+spurred  public  discourse  that  embraces  the  criminalization  of  immigration,  recently 
+culminating in the 2016 election of a president whose campaign explicitly centered on 
+portraying immigrants as criminals and carrying out mass deportations. 
+this  article  reveals  the  daily  toll  iirira  takes  on  individuals  who  play  a  role  in  the 
+detention-deportation pipeline. it presents five separate vignettes that illustrate important 
+systemic  challenges  and  reveal  the  viewpoints  of  different  actors  within  the  system:  a 
+public defender who must defend immigrant clients against the deportation consequences 
+of criminal charges; a detained, indigent immigrant who must navigate the complex system 
+from a remote jail without the assistance of a lawyer; a nonprofit legal service provider who 
+serves as the sole source of legal information for immigrants who cannot afford private 
+representation; an immigration judge who adjudicates the fates of detained immigrants in 
+an over-burdened immigration court; and a detained immigrants family member who faces 
+permanent separation from a loved one. in light of the new administrations alarmingly 
+anti-immigrant stance, these human costs of iirira can no longer be ignored.
+
+part i: the public defender
+in  2010,  14  years  after  iirira,  the  us  supreme  court  issued  the  landmark  decision 
+padilla  v.  kentucky,  in  which  it  acknowledged  the  explosive  increase  in  deportations 
+based  on  criminal  convictions.1  the  court  recognized  that  deportation  is  more  than  a 
+mere collateral consequence of a criminal conviction, stating that [d]eportation is an 
+integral part  indeed, sometimes the most important part  of the penalty that may 
+be imposed on noncitizen defendants who plead guilty to specified crimes.2 because of 
+the severity of deportation, the court found that an immigrant in criminal proceedings is 
+entitled to accurate legal advice from her criminal defense attorney about the immigration 
+consequences of her criminal charges. 
+padilla accommodates the post-iirira joining of the immigration and criminal justice 
+systems by laying the duty on criminal defense attorneys to understand and alleviate the 
+1   padilla v. kentucky, 559 u.s. 356 (2010).
+2   id, 364.
+
+195
+
+the human cost of iiriradisproportionate impact of criminal convictions on immigrants. public defenders and court-
+appointed attorneys are already overburdened by gross inequities in the criminal justice 
+system, and have few resources to bear the additional obligation of providing accurate and 
+specific advice about the immigration consequences of criminal pleas. such advice requires 
+ongoing training on the complicated nexus of federal immigration and state criminal law. 
+most states have yet to implement a system providing training or resources on immigration 
+law for indigent defense providers, leaving many defense attorneys without the necessary 
+infrastructure to fulfill their padilla obligations. 
+even where indigent criminal defense attorneys are provided immigration law training, there 
+is often little they can do to protect their clients against deportation. iirira categorized a 
+broad variety of crimes as triggers for deportation and mandatory detention (torrey 2015). 
+defense  attorneys  are  tasked  with  explaining  to  their  clients  that  simple  misdemeanor 
+offenses  like  shoplifting  or  marijuana  possession  can  lead  to  grossly  disproportional 
+consequences  under  immigration  law,  such  as  mandatory  and  indefinite  detention  and 
+possible banishment from their communities. 
+below, a public defender recounts these tensions in indigent criminal defense.
+
+*****
+
+as a public defender, 3 i witnessed firsthand the incredible power of the government and the 
+inequity of enforcement. the jurisdiction in which i practiced was very diverse; i met and 
+represented people from almost every ethnic background and most corners of the globe. 
+yet, despite crime statistics consistently showing that each demographic group has roughly 
+the  same  incidence  of  criminality  (except  for  immigrants,  who  are  actually  less  likely 
+to commit crimes), the majority of my docket was filled with minority clients. most of 
+them had been beaten down and targeted by the justice system for most of their lives. 
+my minority clients were all too often stripped of individuality and treated by judges and 
+prosecutors as mere symbols of poverty and dysfunction. 
+most vulnerable among my clients were those not born in this country. with or without 
+lawful status, they were at the bottom of the totem pole, deemed illegal by virtue of their 
+very presence. the scorn of the state, from the bench or the prosecution, is enflamed when 
+dealing with noncitizens. this biased treatment magnifies the consequences of iirira and 
+creates a system in which immigrants are punished twice for a single offense. 
+thankfully,  my  office  was  fairly  progressive  in  training  and  implementing  the  padilla 
+standards. we  learned  about  the  unequal  impact  a  conviction  has  on  a  noncitizen,  and 
+sought  to  mitigate  those  consequences.  we  were  at  the  nascent  stages  of  this  pursuit, 
+despite the consequences of criminal convictions being well-known in the immigration 
+world since 1996. this disconnect spawned from previous rulings of the supreme court 
+that held that immigration  consequences were collateral, civil consequences, either not 
+important enough or too complex to be considered integral to the criminal case.4 the 2010 
+
+3   ashley r. shapiro is an immigration resource attorney with the virginia indigent defense commission who 
+advises public defender offices throughout virginia on the immigration consequences of criminal convictions. 
+prior to that, she worked for four years as a public defender in virginia and maryland.
+4   fong yue ting v. united states, 149 u.s. 698 (1893).
+
+196
+
+journal on migration and human securitypadilla decision rocked the defense world and marked a sea change in criminal defense. 
+panic ensued when the ruling came out. how could we learn enough immigration law to 
+understand what would happen to our clients after they left our care in criminal court? 
+suddenly the advice you should talk to an immigration attorney, this conviction might 
+have consequences, was, by itself, woefully inadequate, even malpractice. 
+because the majority of people caught in the criminal system are indigent, this burden 
+fell heavily on public defenders and court-appointed attorneys with already demanding 
+caseloads. the expansion of the criminal grounds of deportability disproportionally affected 
+our indigent clients, people already targeted by our prejudiced system and now subject 
+to vastly disparate consequences. i was fortunate to practice in a metropolitan area, and 
+was trained repeatedly in immigration consequences. but most attorneys do not have such 
+resources available to them and are ill-prepared to deal with noncitizen clients, even if they 
+have the best intentions. some attorneys are recalcitrant to expand their existing duties, 
+and still dont think it should be their job to investigate and learn about an entirely new set 
+of laws. some are just so overloaded with cases that they believe they dont have the time 
+to learn or can do just the bare minimum. many indigent clients simply end up deported, 
+never realizing they had a right to be advised about the dire immigration consequences in 
+advance of taking a criminal plea. iirira changed the landscape of criminal defense, and 
+it has been a slow process getting defense attorneys to live up to their legal obligations. 
+immigration law is complex, with harsh consequences for something as minor as petty 
+shoplifting. i believe padilla was correctly decided and brought much-needed changes, 
+but that doesnt diminish the immense pressure it placed on criminal defense attorneys to 
+learn the wide array of consequences their clients could face. the intricate web of triggers 
+and bars can baffle even a practicing immigration attorney. together with the lack of a right 
+to counsel in immigration court, this makes the duty of a criminal defense attorney all the 
+more burdensome. it is daunting to be responsible for a whole area of law outside your 
+general practice. it is even more daunting to recognize that even the hardest-fought plea 
+deal in criminal court cannot avoid devastating immigration consequences for a noncitizen 
+defendant. 
+as public defenders, we learned as much as we could about immigration consequences 
+in the hopes of negotiating better outcomes for our clients, or at least fully explaining all 
+of the consequences of a plea offer so that they could make an informed decision about 
+their criminal case. explaining these complex consequences to a client, especially with a 
+language barrier, is a difficult task. the client must be given sufficient information to be 
+able to weigh the short-term effect of the criminal case against the long-term immigration 
+impact. clients all too often have to choose between whether to give up their right to trial 
+in a case they could perhaps win, or the surety of a plea offer. they might have to choose 
+a longer jail sentence than is appropriate for their crime, in order to stay in the country 
+with their family. public defenders must bear witness to our clients heartache in making 
+these choices, for which there is often no right answer. these were some of the hardest 
+conversations i had to have as a public defender, and they are a direct consequence of 
+iirira greatly expanding the criminal triggers for immigration consequences. 
+it is our duty as public defenders to use knowledge of immigration consequences to seek 
+more favorable plea offers for our clients, but this is easier said than done. i would often 
+
+197
+
+the human cost of iirirarun  into  a  familiar  refrain  from  prosecutors:  why  should  i  treat  your  client  different 
+than a citizen? or why should i care what happens to your client; he shouldnt be here 
+anyway? these myopic views ignore the fact that consequences of a criminal punishment 
+are doubly magnified for a noncitizen. over time some prosecutors opened up to the idea 
+of  negotiating  cases  in  light  of  the  broader  immigration  consequences.  but  many  still 
+refuse to consider them, which leaves the client with an impossible choice and reveals 
+the fundamental unfairness of the system. an immigrants future rests almost solely on 
+the luck of the draw  which prosecutor is assigned the case, and will they be willing to 
+consider the full picture?
+the same holds true for the bench. some judges entertain sentencing pleas designed to 
+mitigate immigration consequences, and others wont. judges are not often trained in the 
+complexities of immigration consequences, and their knowledge depends on the defense 
+presenting  the  information  to  them. again,  the  burden  falls  on  the  defense  attorney  to 
+mitigate the immigration consequences for a noncitizen by educating the judge on them in 
+order to seek a sentence that properly addresses those consequences. 
+we defense attorneys are not seeking preferential treatment for our noncitizen clients. we 
+dont just want to get all the cases dismissed and let immigrants get a free pass, although 
+this is what many on the government side believe. rather, it is to level the playing field, 
+to not let what is viewed as a small mistake in the criminal system result in catastrophic 
+immigration penalties. iirira did not just change the immigration system; together with 
+padilla, it changed indigent defense and the way we practice. by placing the burden to 
+defend against immigration consequences onto defense attorneys, padilla thankfully added 
+a layer of protection that helped to mitigate the heavy impact of iirira. but that impact 
+continues to be borne by noncitizens, and the indigent defense attorneys seeking to protect 
+them, every day.
+
+part ii: the immigrant detainee
+iirira exacerbates the isolation of detained indigent immigrants by limiting access to 
+counsel and other due process protections in a civil system of law that has long operated 
+on the presumption that noncitizens merit fewer due process protections. the us supreme 
+court  has  long  declined  to  enumerate  exactly  which  due  process  protections  attach  to 
+immigration  proceedings;  in  fact,  in  many  cases,  due  process  is  whatever  the  federal 
+government has decided it is.5 the court has called deportation a deprivation of all that 
+makes life worth living6 and a the equivalent of banishment or exile.7 nevertheless, the 
+court has affirmed that, although deportation is intimately related to the criminal process, 
+it remains a civil process distinct from, and exempt from the same standards as, criminal 
+proceedings.8 consequently, despite functioning similarly, immigration proceedings do not 
+benefit from the wealth of advocacy and litigation that has secured due process procedural 
+protections in criminal proceedings. 
+
+5   ekiu v. u.s, 142 u.s. 651, 660 (1892).
+6    ng fung ho v. white, 259 u.s. 276, 287 (1922).
+7   fong haw tan v. phelan, 333 u.s. 6, 10 (1948).
+8   padilla v. kentucky, 559 u.s. 356 (2010), fong yue ting v. united states, 149 u.s. 698 (1893).
+
+198
+
+journal on migration and human securityperhaps the most important protection lacking in the immigration system is the right to 
+appointed counsel. decades ago, the supreme court recognized that due process cannot 
+exist in the adversarial criminal justice system without the sixth amendments guarantee 
+of counsel. the court upheld this fundamental right for indigent defendants, stating that 
+the noble ideal of fair trials before impartial tribunals in which every defendant stands 
+equal before the law . . . cannot be realized if the poor man charged with crime has to 
+face  his  accusers  without  a  lawyer  to  assist  him.9  by  contrast,  immigration  law  does 
+not require court-appointed counsel for indigent immigrants, as counsel is considered a 
+privilege afforded to a noncitizen, not a right.10 accordingly, 63 percent of immigrants 
+in immigration court are unrepresented (eagly and shafer 2015, 19). when detained, only 
+14 percent of immigrants secure counsel, leaving 86 percent with no option but to defend 
+against their deportation pro se in opposition to a trained government lawyer (ibid,30). 
+detention  itself  has  a  significant  impact  on  an  individuals  ability  to  afford  and  access 
+counsel: non-detained immigrants are five times more likely to have lawyers than detained 
+immigrants (ibid, 32).
+considering the recent mass expansion of the detention system, the numbers of pro se 
+detained  immigrants  are  growing  exponentially  (barrett  2016).  with  so  few  of  them 
+represented,  the  vast  majority  cannot  even  protect  their  most  basic,  limited  rights  in 
+immigration court, and will be deported without a fair hearing.11
+below, a longtime legal permanent resident recounts his ongoing fight against deportation 
+without representation.
+
+*****
+
+after  being  detained  for  over  21  months12  by  immigration  authorities  in  deplorable 
+conditions while fighting my deportation, placed in solitary confinement, forcibly removed 
+from the country, and redetained after my case was reopened, i can personally say that the 
+immigration system i have experienced is a shame and disgrace for people who are caught 
+in it.
+the united states has been my home for 20 years. i have only lived here lawfully. when 
+i was a young child, i came to the united states as a lawful permanent resident with my 
+family. i graduated high school with honors. my commitment to this nation and its values 
+runs deep. i am a us war veteran. i fought and sacrificed for this country in iraq during 
+operation enduring freedom and operation iraqi freedom. 
+my troubles began years ago after i made some wrong decisions in my life, and i was 
+convicted for possessing with intent to distribute a small amount of cocaine and possessing 
+
+9   gideon v. wainwright, 372 u.s. 335, 344 (1963).
+10   8 u.s.c.a.  1229a(b)(4)(a).
+11   bridges v. wixon, 326 u.s. 135, 154 (1945), recognizing that deportation visits a great hardship on the 
+individual and deprives him of the right to stay and live and work in this land of freedom and cautioning 
+that care must be exercised lest the procedure by which he is deprived of that liberty not meet the essential 
+standards of fairness.
+12   this is an account written in collaboration with a pro se individual who is a longtime lawful permanent 
+resident of the united states. his name is not disclosed for confidentiality purposes, as his legal case is 
+ongoing.
+
+199
+
+the human cost of iiriraa firearm. ice placed me in removal proceedings and told me that i was in mandatory 
+detention without eligibility for bond. i did not have the option to both fight my deportation 
+and enjoy my right to liberty. 
+unable to work while detained, i had no money to hire a private attorney. the immigration 
+judge  gave  me  a  list  of  organizations  that  supposedly  provided  legal  representation  at 
+low or no cost for indigent respondents like me. i called every single organization listed, 
+desperate to find a lawyer to fight my case. not a single one was able to help me. most of 
+them did not answer my calls. for those who answered, none of them would take my case 
+pro bono. the list was useless. because of my extensive efforts to access a pro bono lawyer 
+from detention, my immigration case and my detention were prolonged for over a year. i 
+had no option but to fight my case by myself while detained, against a trained government 
+attorney. compared to many detainees i was fortunate, because i speak english and had 
+some education from finishing high school. but i lacked any legal training or knowledge 
+of us immigration laws.
+the very few materials that the immigration detention center in farmville, virginia provided 
+for people forced to represent themselves were outdated. access to state law materials are 
+essential to mount any defense against deportation triggered by a conviction, and most 
+detainees at my detention center were being deported because of a virginia conviction and 
+would have benefitted from access to virginia state legal materials. however, the detention 
+center law library did not have a single state law book or statute. i felt helpless against 
+the ice attorney, who could cite the latest case law to support the argument to deport me. 
+there was almost no point in defending myself. i was at a complete disadvantage.
+the law told me i was not in detention to be punished. but i was forced to live in the most 
+intolerable conditions imaginable. the food was disgusting and there was never enough, 
+forcing us to go hungry and spend any money we had in our detainee accounts to buy 
+products from the commissary store. phone calls to our family members were insanely 
+expensive  we were charged a dollar per minute to call outside the centers area code. 
+once, along with other detainees, i refused to eat in protest of the deplorable conditions. 
+as a result of my peaceful protest i was taken to a holding cell where i was kept for days 
+without a shower. then i was placed into solitary confinement for 30 days for inciting a 
+demonstration. i did not deserve those horrid days in solitary. 
+at one point i was transferred to rappahannock county jail, a facility with even crueler 
+conditions. the staff treated us like animals. we faced lockdowns for at least 20 hours daily. 
+during lockdown i had no ability to leave the small cell i shared with another detainee. 
+the cell had a toilet inside, and during lockdown we were forced to go without showers 
+and eat our meals in the same place we went to the bathroom. i truly believe the food 
+was not meant for human consumption. if we complained about the conditions, we faced 
+punishment of lockdown for 72 hours. when i tried to communicate with my deportation 
+officer,  the  facility  put  me  on  suicide  watch,  where  i  was  stripped  naked  before  being 
+forced to wear heavy, confining clothes, then abandoned to the living hell of a small, bare 
+cell with no toilet, sink, or bed. there was nothing inside it but a hole in one corner where i 
+was supposed to go to the bathroom. there was no way to flush or wash my hands, though 
+i had to eat with my hands because they gave me no utensils. i had to sleep like a dog on 
+the concrete floor. 
+
+200
+
+journal on migration and human securityi was not a human being. no human being in modern civilization is meant to endure these 
+conditions. certainly not in the united states of america, whose freedom i had proudly 
+fought for.
+i lost my case. the judge failed to correctly apply the complex and fast-evolving criminal 
+immigration law, which changes by the day in higher courts. i appealed to the board of 
+immigration appeals (bia), knowing the decision was legally wrong, and lost again. i 
+filed a motion to reconsider, but while it was pending the government deported me to a 
+place where i knew no one.
+after being exiled, i learned that the board had reconsidered and sent my case back to 
+the immigration judge for further analysis. desperate to attend my hearing to fight for my 
+rights, i attempted to reenter at the border checkpoint seven times and explain my situation 
+to officials, though i knew doing so would mean being detained again upon entry. on the 
+seventh attempt, a fellow us army veteran working for us border patrol agreed to let me 
+in to be detained and continue fighting my case.
+for months i stayed detained again, struggling to navigate the complex area of criminal 
+immigration law without access to counsel or legal resources. throughout this entire time, 
+i remained separated from my family. finally, i was able to get bond to be released from 
+detention.
+to this day, i continue to fight my case pro se, hoping for the opportunity to have the law 
+applied fairly. refusing to give up, i have submitted numerous briefs to the immigration 
+court explaining how the law does not permit my deportation. at any moment the courts 
+can order me deported again. each day, when i feel the tightness of the ankle bracelet that 
+ice has forced me to wear, i am reminded of the grave uncertainty of my future, my liberty, 
+and my ability to remain with my family in the only place i have ever called home.
+most  detainees  are  not  as  lucky  as  i  have  been  to  get  this  second  chance.  every  day, 
+numerous people are deported to places where they face persecution and death. the united 
+states government praises itself on providing a fair and just opportunity for immigrants 
+to defend ourselves against removal. but that system is a sham. most of us face detention 
+without access to counsel, inhumane detention conditions, and permanent separation from 
+our families and our homes.
+
+part iii: the nonprofit immigration attorney
+as the number of detained immigrants has grown exponentially in the past two decades, 
+one of the largest challenges of the detention system has been access to counsel. while 
+accessing  legal  services  is  difficult  for  anyone  in  detention,  immigration  advocates 
+nationwide face the added challenge of accessing detained immigrants. over the past two 
+decades, advocates and attorneys have fought just to access immigration detention centers. 
+the access they have gained has been closely monitored and regulated by ice, such that 
+the services they can provide are limited. 
+currently,  some  nonprofit  legal  service  organizations  have  access  to  some,  but  not  all, 
+immigration detention centers. they are able to conduct know-your-rights presentations 
+
+201
+
+the human cost of iirirainside detention centers, distilling complicated law and procedure into easily communicable, 
+bite-size pieces of information in a matter of minutes for detainees. these nonprofit attorneys 
+and other service providers then help identify immigrants in need of legal representation 
+and, if possible, connect them with pro bono attorneys. an immigrants access to pro bono 
+counsel depends on the strength of each local nonprofit organizations efforts to cultivate a 
+network of pro bono attorneys, as well as the location of the detention center. while know-
+your-rights presentations provide a measure of legal access, they stop short of providing 
+representation to detained immigrants in immigration court  the single most important 
+factor affecting an immigrants chances of winning relief in removal proceedings. detained 
+immigrants who cannot afford private immigration attorneys are particularly impacted by 
+the lack of access to legal information. former attorney general eric holder declared 
+in 2010 that immigrant access to attorneys should be recognized as part of an indigent 
+defense crisis and, in the same breath, hailed the provision of general legal information as 
+a great success story (holder 2010) .
+immigrants  rights  advocates  are  torn  about  the  limited  access  to  detention  centers  for 
+which they have fought for the past two decades. know-your-rights presentations may be 
+the only form of legal access for tens of thousands of immigrants, especially those in remote 
+detention  facilities.  nonprofit  attorneys  who  provide  this  service  know  that  such  well-
+intentioned efforts usually do not lead to pro bono representation, may actually encourage 
+immigrants to accept deportation if their case is winnable but difficult, and may impede 
+the growing movement for universal representation in immigration court by serving as a 
+stopgap of due process that legitimizes a broken system.
+below, a nonprofit attorney describes the struggle and challenge of providing legal services 
+to detained immigrants.
+
+*****
+
+the visit13
+
+the heavy metal door slams shut behind me and i am trapped, automatic doors surrounding 
+me on either side. i wait patiently in full view of the security camera, hoping to hear the 
+telltale click and buzz that will allow us to push our way out of this claustrophobic hallway. 
+i  follow  the  correctional  officer  down  the  hall  to  the  first  block. a  ring  of  theatrically 
+oversized jail keys jangles at his hip. it is already hot and humid this morning and the 
+temperature will soar to well over 100 degrees this afternoon in the jail. the administrative 
+offices are cool, but im told that air conditioning is just not an option in the cells  it 
+would cost too much.
+an automated door of metal bars slides open to let me into block 1. in front of me are two 
+levels of cells, each cell guarded by its own metal door. to my right, a row of metal bars 
+leads me into the day room: a small tv in one corner and four metal picnic benches bolted 
+down the middle. massive, industrial-size fans futilely blow hot air, adding to the noise and 
+frustration of the 20 men in front of me.
+
+13  saba ahmed is a staff attorney with a nonprofit organization that provides limited legal services on a pro 
+bono basis to detained immigrants. 
+
+202
+
+journal on migration and human securityi launch into my rehearsed introduction: im an immigration attorney but im not here 
+to  represent  you.  im  only  here  to  provide  information  about  immigration  law  and  the 
+deportation process and orient you to your case. rapt attention. you are here because the 
+government is trying to deport you. sometimes there are ways to fight against a deportation. 
+if you do not have an attorney, we can speak with you to see if you qualify for a legal 
+defense against deportation. i look down at my list of four names of new detainees that ice 
+gave us earlier this week, then up at all the men in front of me. per usual, our information 
+is incomplete and our attempts to plan out the precious time we have in each block are 
+thwarted. i spend a few minutes organizing the men into two groups  those weve spoken 
+with before and those who have not yet heard my know-your-rights presentation. our group 
+of four  one attorney and some volunteer law students  springs into action, taking 
+people aside individually to deliver pamphlets simplifying complex immigration laws.
+i  begin  the  know-your-rights  presentation.  this  jail,  despite  what  it  looks  like  and 
+feels like, is an immigration detention center; it is not a criminal jail. scoffs, disbelief, 
+incomprehension. criminal convictions may affect a persons case in many ways: maybe 
+theyre not eligible for bond, maybe the judge will set a bond unattainably high, maybe a 
+person wont be eligible for certain defenses, maybe the conviction is so serious that theres 
+only a small chance that a person will actually win a defense against their deportation. 
+hope drains and attention begins to wander. im careful to always use the third-person 
+they or a person and not the second-person you because this is not legal advice; its 
+merely a general orientation. by the time ive finished explaining requirements for the 
+limited defenses against deportation, few people are hopeful, but they still want to speak 
+with an attorney who can explain the details of their case.
+each member of our team has five to 10 minutes to speak with a detained immigrant who 
+doesnt already have an attorney. we want to see as many people as we can in the limited 
+time were allowed today. i speed through our intake form, knowing i must be thorough 
+because it may be weeks before i have a chance to speak with a person again and a single 
+missing fact could affect their eligibility for relief. i run through biographical info, how 
+the  person  entered  the  united  states,  past  arrests  or  convictions,  family  members  and 
+community in the united states, and if and why a person is afraid to go back to their 
+country. i am always impressed and sometimes overwhelmed by the level of faith each 
+person puts in me, speaking candidly of past persecution and harm in their home country 
+or criminal convictions in the united states. im not sure i could muster the same faith or 
+courage to bare such things to a stranger in a few minutes.
+having spoken with hundreds of detained immigrants and honed my five-minute intake 
+skills,  i  am  adept  at  cutting  people  off  if  they  start  describing  horrific  details  of  their 
+persecution (i dont need to know how it happened, only that it happened) or that their 
+children at home are crying and asking for them (because their children likely wont help 
+them qualify for a defense against deportation). ive developed a callous conscience over 
+the past two years. on the one hand, i am constrained by the minutes we have in each 
+block; on the other hand, i am relieved that i dont have the time to listen because i dont 
+know if i can bear any more painful stories.
+we trudge from block to block in the jail, repeating this performance five or more times 
+through the day. we take a 20-minute lunch and push on. just one more block to go  
+
+203
+
+the human cost of iiriraweve saved the smallest for last. we walk in expecting to see the eight people on our list. 
+the officer tells me that there are 26 more immigrants who arrived at the jail a few days 
+earlier, but they are not on our list and we cant meet them because theres not enough 
+time. in a desperate attempt to provide some form of legal access, i shout down the halls 
+at the closed metal doors: we are immigration attorneys! we dont have time to talk to 
+you today, but give us a call so we can talk about your case! im leaving papers with our 
+phone number! i hand over legal guides and information to the officer but know this is a 
+shot in the dark. the free legal hotline that connects immigrant detainees to our office is 
+complicated to dial and i know that many wont be able to reach us. most of them will be 
+gone by the time we visit again next month.
+
+followup
+
+out through the loud metal doors and into the sunshine. we breathe a collective sigh of 
+relief and climb into the car, ready for the three-hour drive home. on a good day, the visit 
+and drive takes about 14 hours. our volunteers fall asleep in the back seat, exhausted by 
+the pace of the visit. i am energized, the adrenaline rush that started at 5:00 am and kept 
+me going through the day will last a few more hours  ill crash when i get home. next 
+week, well be off to another county jail cum immigration detention center and another one 
+the week after that. for now, theres no sense of accomplishment, only exhaustion. im 
+mentally running through the people i met today  who had a strong case? how many 
+days do i have to follow up? will it be possible to find a pro bono attorney?
+the next day we begin the breakdown of our jail visit. we meet and review every persons 
+options under immigration law. we sort through the cases one by one, debating each other 
+and debating our consciences on how to proceed with each case. the lucky ones are put on 
+a fast track to find a pro bono attorney, a process that generally takes several weeks. the 
+unlucky ones  the majority of those we review  are closed with a message: were sorry, 
+we see no viable legal relief in your case. you are welcome to consult with another attorney. 
+in between, there are the cases which require meticulous fact-gathering to assess if there is 
+a chance to fight deportation. we spend the next few days calling family members, digging 
+into the facts of a criminal conviction, and gathering evidence. our reviews and follow- 
+ups are always completed with a sense of urgency as its impossible to ignore the looming 
+risk of deportation. this process is made more difficult by lack of access to the detainees. 
+in many cases, we encounter people after they have been detained for weeks or have had 
+several court hearings, too late in the process to stop or slow down a deportation.
+in between our jail visits, detained immigrants are frustrated in detention and are seeking 
+a way to get out. theyll ask for a bond and, when they are denied or cant pay the amount 
+set, theyll ask for a deportation. its heartbreaking to go back to jail after following up on 
+a case and see someone with a deportation order because they just could not bear any more 
+detention. 
+
+fallout
+
+the pace of the jail visit cycles hasnt allowed me much time for reflection on my role in the 
+detention-deportation pipeline. ive heard nonprofit attorneys who visit detention centers 
+
+204
+
+journal on migration and human securitydescribed as the public defenders of the immigration system because we are the last line of 
+defense for indigent immigrants facing deportation. but this characterization is inaccurate 
+because public defenders have far more access to their clients and, more importantly, the 
+ability to represent them in court. in contrast, i have very limited access to immigrant 
+detainees. our access is always carefully negotiated with dhs to fit the agencys limited 
+conception of legal access and due process for immigrants. at any time, dhs can limit the 
+length or number of our visits to jail, restrict telecommunication access, or refuse to let us 
+know who or how many people are being detained  all of which exacerbate an already 
+challenging job.
+then there is the moral quandary i grapple with. there is a growing movement for universal 
+representation of indigent immigrant adults and children. i cant help but think that the 
+limited and general legal services are a band-aid put on this great need  a measure of 
+legal access that stops short of actual legal representation, the one thing that actually makes 
+a difference in an immigrants chance of winning their case. instead, i add efficiency to 
+the clogged immigration courts. this means that pro se detainees may get a bond or win 
+their case, but more likely they accept a deportation or ask for voluntary departure, making 
+bed  space  for  the  next  detained  immigrant  and  opening  up  a  slot  for  a  hearing  on  the 
+immigration judges detained docket. most days i feel like a glorified case manager, not a 
+zealous advocate as lawyers should be, but a prop for due process, moving people through 
+the pipeline. if i see a case thats a stretch  maybe there is a legal argument to make that 
+this crime does not make a person deportable, or maybe the good and bad equities are on 
+balance  i cant take on the case and fight. the most i can do is tell the person that if they 
+want a fighting chance, they need to pay $5,000, $10,000, or more, for an attorney willing 
+to make creative legal arguments. what kind of legal access is that?
+there is also the emotional fallout of the job. completing a jail visit means receiving calls 
+from desperate immigrant detainees and desperate families. theres a relief i feel when 
+someones family scrapes together the thousands of dollars for a private attorney, or when 
+someone is no longer detained. whether theyre out on a bond or they were deported, the 
+weight of responsibility is lifted; thats one less person for me to track. i am worn down 
+with telling people over and over that there is no relief for them, that there is just no room 
+for them in our laws or in our country  it doesnt matter that they fear death in the most 
+violent country in the world; it doesnt matter that they have young children here. there is 
+just no way to fight their deportation. i absorb their anger with the immigration system and 
+their grief at losing their family  after all, who else can they talk to; who else will listen 
+to their story?
+all of this, over and over, hundreds of cases, hundreds of lives, leads to a slow burnout. 
+our will and desire to help detained immigrants can only take us so far, no matter how 
+young,  idealistic,  and  optimistic  we  start  out.  the  unpredictable  case  load,  the  early 
+morning visits, the late evenings, the effects on our partners and families  all of it weighs 
+on me. this job is a constant effort to strike the right balance between hope, despair, and 
+the motivation to go on. 
+
+205
+
+the human cost of iirirapart iv: the immigration judge
+there is widespread consensus that immigration courts are overwhelmed with immense 
+caseloads, inadequate staffing, and lengthy backlogs (arnold & porter 2010). non-detained 
+immigrants  in  removal  proceedings  often  wait  two  to  three  years  to  have  their  cases 
+adjudicated.  cases  on  the  detained  docket  move  much  faster.  despite  the  considerable 
+time it takes to access counsel, determine eligibility for defenses to deportation, and gather 
+evidence, the average life of a pro se detained immigrants case totals a mere 23 days 
+(eagly and shafer 2015, 63).
+in addition to facing institutional pressure to quickly move cases while immigrants are 
+detained at government expense, judges are overburdened with the number of detained 
+cases that must be efficiently adjudicated (lustig et al. 2008). in 2015, immigration judges 
+adjudicated and completed 51,005 detained cases, constituting 28 percent of all immigration 
+cases completed that year (eoir 2016, figure 11). judges have very little face time with 
+immigrants in their courtroom, and about half the time spent with pro se detainees involves 
+requests for continuances to seek counsel (eagly and shafer 2015, 61). furthermore, as 
+administrative law judges, immigration judges have obligations to the respondents who 
+appear pro se and are often required to step into the role of counsel in order to fully develop 
+the record through interrogating, examining, and cross-examining an immigrant and any 
+witnesses.14
+below, a former immigration judge provides a snapshot of a few minutes on the detained 
+docket.
+
+*****
+
+prelude15
+
+wednesday afternoon, detained master calendar. feeling love and dread. love: fast-paced, 
+meaningful,  live  audience,  prepared  attorneys,  challenging  legal  questions,  teamwork, 
+mediation, problem solving, saving lives, teaching, performing, drama, positive messages, 
+mentoring, full range of life and legal skills in use and on display. dread: hopeless cases, 
+sobbing  families,  watching  goodbyes,  not-quite-ready-for-primetime  (nqrfpt) 
+attorneys, bad law, missing files, missing detainees, lousy televideo picture of respondent, 
+equipment failures, claustrophobic courtroom, clogged dockets, imprisoned by the system, 
+due process on the run, stress.
+
+pregame warm-up
+
+how many today, madam clerk?
+
+14   immigration and nationality act (ina)  240(b)(1).
+15   this account is written by hon. paul wickham schmidt, who served as the chairman of the board of 
+immigration appeals before being appointed to the arlington immigration court in may 2003, where he 
+served as an immigration judge for 13 years before recently retiring from that position. while the names he 
+has provided in this account are entirely fictional, the situations he describes are based on his own wealth of 
+experience adjudicating cases in immigration court.
+
+206
+
+journal on migration and human securityfourteen, five bonded, two continued.
+thanks, madam clerk. lets make it happen!
+
+showtime. 
+
+politeness, patience, kindness. listen.
+please rise, the united states immigration court at arlington virginia, is now in session, 
+honorable paul wickham schmidt, presiding.
+jam-packed  with  humanity.  live.  uncomfortably  hot.  bandbox  courtroom.  ratcheting 
+tensions. americas most important, most forgotten courts. lots of moving pieces. put folks 
+at ease. performance begins.
+
+the damned
+
+were on the record. this is judge paul wickham schmidt at the united states immigration 
+court in arlington, virginia; were on a televideo hookup with the dhs farmville detention 
+center, the date is . . . , and this is a master calendar removal hearing in the case of ricardo 
+caceres, file number a123 456 789. counsel, please identify yourselves for the record.
+bonnie baker for the respondent, mr. caceres.
+april able for the dhs.
+what are we here for ms. baker?
+your honor, were seeking a reasonable bond for my client, who has been in the united 
+states for more than two decades. hes a family man, the sole support of his wife and four 
+us citizen children, who are sitting right behind me. hes a skilled carpenter with a secure 
+job. he pays his taxes. hes a deacon at his church. his employer is here this afternoon and 
+is willing to post bond for him. the respondents wife is out of work, and the family is on 
+the verge of being evicted from their apartment. the oldest son and daughter are having 
+trouble in school ever since their father was detained. the baby has developed asthma and 
+cries all night.
+i assume hes in detention for a reason, ms. baker. what is it?
+well, your honor, he had a very unfortunate incident with one of his co-workers that 
+resulted in his one and only brush with the law. i think he probably got some questionable 
+legal advice, too.
+whats the conviction?
+aggravated assault with a deadly weapon.
+sentence?
+18 months, with all but three months suspended, your honor.
+
+207
+
+the human cost of iirirahmmm. doesnt sound very promising. whats your take, ms. able?
+hes  an  aggravated  felon,  your  honor,  under  the  bia  and  fourth  circuit  case  law. 
+therefore, hes a mandatory detainee. may i serve the records of conviction?
+yes, thank you ms. able. isnt ms. able right, ms. baker? hes mandatory detained under 
+the applicable law, isnt he?
+well, your honor, technically that might be right. but were asking you to exercise your 
+humanitarian discretion in this extraordinary situation. 
+as you know, ms. baker, im not a court of equity. the law gives me no discretion here. so, 
+based on what youve presented, no bond. whats next? are you admitting and conceding 
+removability and filing for relief?
+the family wanted me to ask for bond, your honor.
+you did, ms. baker. whats the next step?
+well, the respondent has instructed me that if you didnt grant a bond, he just wants a final 
+order to go back to mexico. hes been in detention for some time now, and he just cant 
+wait any longer. 
+youre sure thats what mr. caceres wants to do?
+yes, your honor. 
+mr. caceres, this is judge schmidt, can you hear me?
+yes.
+because of the crime you committed, the law doesnt permit me to set a bond for you. 
+your lawyer, ms. baker, tells me that you have decided to give up your rights to a full 
+hearing and be removed to mexico. is that correct?
+yes, your honor. i cant stand any more detention.
+you understand that this is a final decision, and that once i enter the order you will be 
+removed as soon as dhs can make arrangements.
+yes, judge, i understand.
+and, youve discussed this with your family, sir?
+i just want to go  no more detention. can i go tomorrow?
+probably not. but the assistant chief counsel and dhs officer in court are noting that you 
+want to go as soon as can be arranged.
+your honor, may his wife and children come up and see him for a moment?
+yes, of course, ms. baker. please come on up folks.
+your honor, the respondents wife would like to make a statement to the court.
+
+208
+
+journal on migration and human securityi dont think thats prudent, ms. baker. shes already hysterical, and there is nothing i 
+can do about the situation, as im sure youll explain to her. we have lots of other people 
+waiting to see me this afternoon.
+understood. thanks, your honor.
+youre welcome, ms. baker. you did the best you could. take care folks. im sorry youre 
+in this situation. mr. caceres, good luck to you in mexico. please stay out of trouble. the 
+clerk will issue the final order. whos next, madam clerk?
+
+the not-quite-ready-for-prime-time (nqrpt) lawyer 
+mr. queless, were here for your filing of the respondents asylum application.
+um, your honor, im sorry i dont have it with me. i didnt have a chance to get to it.
+whys that, mr. queless? your client has been in detention for some time now, and i gave 
+you a generous continuance to get this done.
+thats very true, your honor, but the power was off at our office for a day, and my son 
+crashed his car and i had to take care of the insurance and the repairs.
+all right, come back in three weeks with your filing, without fail.
+can i come back next week, your honor? my client has been in detention a long time.
+i know that, counsel. thats why i wanted you to file today, so we could set an individual 
+date. im already overbooked for next week, and i cant justify putting you in front of 
+others who are prepared.
+ah, could we just set an individual date now, your honor, and ill promise to file within 
+a week?
+that sounds like a really bad idea, mr. queless, in light of actual performance to date. 
+i want to see the completed filing before i assign the individual date. thats how we do 
+things around here. youve been around long enough to know that.
+excuse me, your honor, but may i be heard?
+yes, you may, ms. able.
+with due respect, your honor, at the last master calendar you said this would be the final 
+continuance. this detained case has been pending for months, and you have given counsel 
+a more than reasonable opportunity to file for relief. at this point, the dhs must request 
+that you deny any further continuance and move that you enter an order of removal.
+well,  i  sympathize  with  your  position,  ms.  able.  i  did  say  this  would  be  the  last 
+continuance, and im as frustrated as you are. but i note that the respondent is from a 
+country where we routinely grant asylum, often by agreement or with no objection from 
+your office. therefore, i feel that we must get to the merits of his claim. lets do this. mr. 
+queless, im going to give you an incentive to get this filed. if the i-589 is not complete 
+
+209
+
+the human cost of iiriraand ready to file at the next hearing  no more excuses, no more dog ate my homework 
+ im going to agree with ms. able, grant her motion, and enter an order of removal 
+against your client. do you understand?
+yes, your honor. ill have it here at the master in three weeks.
+ anything further from either counsel?
+nothing from the dhs, your honor.
+nothing from the respondent, your honor.
+hearing is continued.
+
+the skeptic
+
+how are you this afternoon, mr. garcia?
+okay.
+spanish your best language?
+yes.
+is this your first appearance before me?
+yes.
+youre going to look for a lawyer before we proceed with your case?
+do i need a lawyer, judge?
+depends on what you want, mr. garcia. i can send you back to guatemala at government 
+expense or give you voluntary departure if you wish to pay your own way and avoid having 
+a formal removal order on your record. is that what you want?
+oh, no, judge. i dont want to go back.
+then, you need a lawyer, sir. officer, please give mr. garcia the legal services list. mr. 
+garcia, this is a list of organizations in virginia that might be willing to represent you at 
+little or no charge if you cant afford a lawyer. you should also check with family and 
+friends to see if they can help you find a free or low-cost lawyer to take your immigration 
+case. ill set your case over for three weeks to give you a chance to look.
+can i come back next week?
+you wont be able to find a lawyer by then, sir. take the three weeks. if you dont have a 
+lawyer by then, well go forward without one.
+okay, your honor.
+good luck in finding a lawyer, mr. garcia. the clerk will issue the notices. whos next, 
+madam clerk?
+
+210
+
+journal on migration and human securitypostlude
+
+out  of  court.  satisfied.  tired.  drained    like  a  steph  curry  three-pointer.  find  my 
+colleagues. fresh air. walk in the park. talk sports, politics, weather. visit starbucks. final 
+refill. recharge batteries. master tomorrow morning. fifty non-detained. too many. the 
+beat goes on. walking free. not an alien. glad. lucky. thankful. 
+
+part v: the family member
+beyond individual immigrants, iirira has a rippling effect on the families of immigrants. 
+the detention and deportation system treats the children, spouses, parents, brothers, and 
+sisters of immigrants as a mere afterthought, collateral damage to the mission of enforcing 
+immigration laws. but the impact of losing a loved one through this system is harshly felt 
+by family members and its social effects reverberate throughout the larger community.
+the  heaviest  impact  is  borne  by  the  children  of  immigrant  parents,  who  are  primarily 
+apprehended  through  the  criminal  justice  system.  in  addition  to  the  many  us  citizen 
+children of lawful permanent residents facing deportation, an estimated 4.5 million us 
+citizen children have an undocumented parent at risk of detention and deportation (koball 
+et al. 2015, 1). these children are more likely to drop out of school, rely on welfare, and 
+require foster care if a parent is deported. children who are separated from one or both 
+parents due to deportation face emotional devastation and an increased risk of dropping out 
+of school or ending up within the criminal justice system, which have lifelong implications 
+for  earning  potential  and  welfare  costs  (vasquez  2011,  669-670;  new york  immigrant 
+family  unity  project  2013,  12).  for  indigent  families,  particularly  those  with  young 
+children, deportation forces reliance on public welfare benefits.
+for family members trying to support loved ones in immigration detention, the task is 
+bewildering, especially for indigent families whose situation is exacerbated by the detention 
+of  the  familys  primary  breadwinner.  many  families  exhaust  their  limited  resources 
+hiring private criminal defense attorneys and then cannot pay for immigration attorneys. 
+phone calls from remote, rural immigration detention centers are exorbitantly expensive, 
+preventing  basic  communication  between  detainees  and  their  families.  for  prolonged 
+periods, families are faced with the imminent threat of being torn apart. this is the most 
+heartbreaking consequence of iirira.
+below, an immigrants wife provides her experience with a loved one detained thousands 
+of miles away.
+
+*****
+
+omar and i16 met over a year ago, when i was visiting washington, dc for work. omar 
+was working at a store i happened to wander into, and we instantly connected. from first 
+sight, our chemistry was electrifying, and after spending more time together we learned we 
+had so much in common. omar told me he had recently moved to the united states after 
+
+16   this account was written by the us citizen fiance (now wife) of an immigrant detainee who chose 
+not to reveal her name or that of her spouse, as his immigration case is ongoing. throughout the account 
+pseudonyms have been used to protect their identities.
+
+211
+
+the human cost of iiriraworking in dubai, though he was originally from morocco. he wanted to stay in the united 
+states permanently for education and career opportunities, and was living with his brother, 
+a lawful permanent resident, in washington, dc. he was thrilled to be in america, with 
+all of its opportunities, and wanted to go to school for engineering. over the next several 
+months our bond grew stronger and i was amazed at how quickly omar adapted to us 
+culture. he made friends everywhere he went  he just had that effect on people. he was 
+so kind and smart, it wasnt long before i fell in love with him. at some point, we started 
+to discuss our future together and getting married one day. we knew it wouldnt be easy. 
+we come from completely different cultural identities  he is a moroccan muslim and i 
+am african american, raised in a christian household. we knew it might be a challenge 
+for our families to believe in our bond, but we had no doubt that if they saw our love, they 
+would get on board.
+many months later, omar was arrested at his job. this horrible news was not delivered to 
+me until a few weeks after it happened. i was in los angeles, at work, when i got the call 
+one day from omars brother. i hadnt heard from omar in a couple of weeks, which was 
+unlike him. his brother kept me in the dark. he said omar would call me later that night and 
+told me to make sure i was available to answer. i was furious omar would wait this long to 
+update me. i was also incredibly worried about him. i waited and waited for his call  so 
+long, in fact, that i fell asleep and missed his first call, which went to voicemail. thankfully 
+he quickly called again. my anger dissipated as we spoke, replaced by desperation. he 
+told  me  he  was  in  an  immigration  detention  center  in  farmville,  virginia,  after  being 
+arrested two weeks ago under suspicion for using a credit card that wasnt his. he was 
+innocent  and  planned  to  fight  the  charge,  a  case  of  mistaken  identity.  but  the  moment 
+he paid bail and was released from county jail, two immigration officials were waiting 
+for him in the waiting room. they rearrested him and took him to immigration detention 
+because he had overstayed his entry visa. now, he was waiting in detention until he could 
+see the immigration judge. they were trying to deport him. his brother was looking for an 
+immigration lawyer to fight his case.
+i was full of questions, trying to make sense of the situation and not sure what it meant. 
+omar didnt know what it meant himself, but he was calm and loving, trying to stay strong 
+and comfort me. he promised that even if they deported him, he was determined for us to 
+stay together  he would marry me in another country if he couldnt come back to this one. 
+we discussed our faith in god and in each other. i knew that one way or another, i would 
+marry this man. the phone call dropped and cut our time together frustratingly short. 
+i had so many emotions, but i wasnt worried anymore  i knew omar would get through 
+this and we would be together, somehow. omar sounded so confident that he would soon be 
+released from immigration detention and that the false criminal charge against him would 
+be dropped. in hindsight, it is clear that we were both so very nave about the system he 
+had become trapped in.
+omars brother hired an immigration attorney to represent him in a bond hearing. none 
+of us was prepared for what happened at that first immigration hearing  omar still gets 
+upset when he talks about it. the immigration attorney that his brother hired to represent 
+omar filed a bond motion, and then the government attorney suddenly claimed that omar 
+had sexually assaulted someone. omar was shocked. he had been charged with credit card 
+
+212
+
+journal on migration and human securitytheft, which he was sure was a case of mistaken identity. at the time of his arrest, the police 
+had asked him about a sexual assault case and he even took a dna test. the test came back 
+negative, which cleared him of any guilt of sexual assault, and he was never charged for 
+it. omar knew he could prove his innocence for credit card theft in criminal court once he 
+was released from immigration detention. but the ice attorney only told the judge omar 
+had been investigated for sexual assault, not that he was innocent based on the result of 
+the investigation. even more shocking was that the attorney representing omar did not say 
+a word in his defense. the judge denied bond, saying that ices allegations showed that 
+omar was dangerous to the community.
+omar was stuck in immigration detention. we were desperate  his brother was paying 
+for a defense attorney to represent omar on the criminal charge and didnt have any money 
+left for an immigration attorney now that the bond had failed. i was living with my parents, 
+and looking for a new job, so i could not afford to pay for a lawyer. weeks and then months 
+went by, and omar remained in detention. phone calls were hugely expensive. i couldnt 
+call him, he could only call me. days would pass and i wouldnt hear from him because 
+there was no money on his jail account. each time we were able to talk on the phone, it was 
+a blessing. we tried to make the most of those phone calls; it was our only time together. 
+we would always comfort each other, but as time stretched on, we got less hopeful. it 
+was  depressing  for  omar,  being  in  detention    not  only  the  lack  of  freedom,  but  the 
+endless waiting and the horrible uncertainty. he was especially upset about being accused 
+of a crime he never committed, and then being denied any chance to prove his innocence. 
+he was sure he would be deported. regardless, we still had faith. i was prepared to do 
+whatever was necessary to stay together, even if that meant moving to morocco.
+we didnt know how to move forward or the steps to take for omars immigration case now 
+that bond had been denied, or what was even happening with his criminal case. worst yet, 
+we had no idea where to look for concrete information. i started to do some research online 
+and found various organizations focused on relief for detained immigrants. i contacted an 
+organization based in washington, dc and explained omars situation. one week later, 
+i got a call from an immigration attorney from that organization who was familiar with 
+omars case. she explained that omars criminal case could not go forward without him 
+physically present at the court, and neither ice nor the criminal prosecutor would take 
+responsibility  for  transferring  omar  to  criminal  court.  she  explained  that  if  omar  was 
+married to a us citizen, he could file a family petition to remain in the united states. 
+omar and i wanted to get married, but on our own terms  not to keep him from being 
+deported, and not while he was in detention for a crime he didnt commit. when the attorney 
+explained the complicated and costly process for getting married in detention, it became 
+clear i couldnt do it even if we wanted to  i was dependent on my parents, i didnt have 
+the support or resources to travel to virginia, or pay the thousands of dollars in fees to apply 
+for omar to get status. i had to be honest  the only way we could get married on such 
+short notice was if omar got released on an immigration bond, moved to kansas city, met 
+my parents, and got their blessing. i felt like the chance of me climbing mount everest was 
+greater than us getting married anytime soon. 
+thankfully, that immigration attorney took on omars bond case pro bono, though she 
+warned us that chances were slim for omar to be granted bond. by that point, i had received 
+
+213
+
+the human cost of iiriraa position as a literacy tutor for a nonprofit and had funds to travel. i visited omar at the 
+detention center in farmville, virginia. i also met other women and families who were 
+visiting loved ones. we shared the same feelings: sad but stubbornly optimistic. it was the 
+first time in months omar and i had seen each other. all weekend, we discussed our life 
+and future together. 
+a few days later, omars immigration attorney was able to prove to the immigration judge 
+that omar had never been charged with sexual assault. she explained that he deserved 
+a chance to prove his innocence on the credit card theft charge in criminal court. when 
+the  judge  received  all  the  evidence,  he  changed  his  mind.  finally,  after  six  months  in 
+immigration detention, omar was granted release on bond. thank god.
+today omar and i are married and living together in kansas city. we have a one-bedroom 
+apartment and  are  in  the  process  of  filing  for  his  adjustment of  status.  meanwhile,  his 
+criminal case keeps getting continued, though were hopeful it will soon be dismissed  
+omar will continue to fight to clear his name and i will continue to support him. every day 
+is still a challenge, but we are so blessed. every night is also a reminder that, unlike the 
+majority of people whose partners have been detained, i can come home to the man i love. 
+we cherish every moment and realize how quickly it can be taken away. there is so much 
+in the system that we cannot control, but we refuse for it to control our relationship or make 
+us feel helpless. while we may not have faith in the system, we have faith in god, and in 
+each other. inshallah, love will prevail.
+
+conclusion
+these five vignettes provide a snapshot of the current state of the immigration detention 
+and deportation system 20 years post-iirira. iirira laid the legal framework for the easy 
+disposal of immigrants who are primarily indigent and people of color. in providing the 
+federal government broad leeway in criminalizing and detaining immigrants, iirira has 
+cast its net over all immigrants, encouraging their public characterization as objectionable 
+and disposable. 
+the enforcement of these laws has entrenched the myth of the criminal alien who is 
+deserving only of societal ire and deportation. on november 20, 2014, the criminalization 
+of immigrants that iirira had woven into the fabric of federal law over the years pushed 
+its way forcefully into the public consciousness with three words from president barack 
+obama: felons, not families (obama 2014). obama coined this phrase when he issued 
+an executive order with the intention of simultaneously appeasing conservatives lobbying 
+for more deportations and advocates lobbying for limits on deportations. this concept of 
+felons, not families cemented iiriras false delineation of immigrants as either criminal 
+convicts or family members, ignoring the obvious reality that almost all individuals have 
+families, including those who have been convicted in criminal court and were born outside 
+the united states. 
+the growing category of individuals legally defined as criminal aliens under iirira, and 
+the  subsequent  psychosocial  dehumanization  of  immigrants  as  disposable,  threatening, 
+and categorically excludable, has led to where we are in america today. what were once 
+
+214
+
+journal on migration and human securitylegally fictionalized constructs have created new and frightening political realities. taking 
+iirira from law to the next level of intentional, overt discrimination, president trump 
+ran a presidential campaign centered on fear of the criminal alien caricature, a crude and 
+bigoted generalization that quickly caught on with millions of americans. in his speech 
+announcing his campaign, trump accused mexican immigrants of embodying the criminal 
+alien:  theyre  bringing  drugs.  theyre  bringing  crime.  theyre  rapists.  and  some, 
+i  assume,  are  good  people  (lee  2015). after  winning  the  election, trump  echoed  the 
+message: what we are going to do is get the people that are criminal and have criminal 
+records, gang members, drug dealers, where a lot of these people, probably 2 million  
+it could be even 3 million  we are getting them out of our country or we are going to 
+incarcerate (cbs 2016).  harping on the fear of the depraved other that iirira set out 
+to exclude and expel helped trump to rise to power and fortified the fear of this specter.
+perhaps iiriras greatest damage has been shifting blame to the vulnerable population 
+that it detains and deports, absolving the deporters of any responsibility. in the eyes of 
+the lawful, criminal immigrants lose any claim to membership in society, deserve only 
+punishment, and are owed no empathy for permanent separation from their families. the 
+trump administration, so outspokenly driven to dehumanize millions of immigrants, is the 
+culmination of this 20-year trajectory. under iirira, the foundation was built, and now 
+the ugly underbelly has been exposed. these are the stories of the human cost of iirira 
+that we ignore at our own social and moral peril.
+

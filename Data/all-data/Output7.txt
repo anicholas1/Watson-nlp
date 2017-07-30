@@ -1,0 +1,467 @@
+aspe 
+data point 
+
+ 
+
+ 
+
+ 
+
+nearly 900,000 puerto ricans may lose health coverage 
+
+when medicaid funds run out  
+
+january 12, 2017 
+
+ 
+ puerto ricos medicaid program is projected to exhaust the last of the $6.4 billion additional 
+funds allocated it for federal fiscal years (fy) 2011-2019 as early as the first quarter of fy 
+2018. as many as 900,000 american citizens covered by medicaid in puerto rico could lose 
+coverage as a result of the depletion of these funds.  
+ 
+medicaid  the primary source of coverage for low-income families, qualified pregnant women 
+and children, and individuals with disabilities  operates differently in u.s. territories than in the 
+50 states and the district of columbia (dc). state medicaid programs are provided an unlimited 
+amount of available federal matching dollars as long as medicaid agencies can demonstrate that 
+the expenses are valid under the program's rules. in contrast, federal funding to medicaid 
+programs in the territories is capped. the territories are provided a fixed allotment of funds that 
+increase with inflation. as illustrated in figure 1, puerto ricos medicaid funding in fy 2014 
+was capped by statute at $321 million. 
+
+ 
+
+department of health and human services 
+
+office of the assistant secretary for planning and evaluation 
+
+http://aspe.hhs.gov 
+
+aspe data point 
+ 
+
+ 
+
+ 
+
+figure 1. medicaid funding cliff in puerto rico  
+
+page 2 
+
+ 
+)
+s
+n
+o
+
+i
+l
+l
+i
+
+ 
+
+ 
+
+i
+
+m
+n
+i
+(
+ 
+g
+n
+d
+n
+u
+f
+d
+a
+c
+i
+d
+e
+m
+
+i
+
+$1,600
+
+$1,400
+
+$1,200
+
+$1,000
+
+$800
+
+$600
+
+$400
+
+$200
+
+$
+
+base section 1108 cap
+
+enhanced aca funding
+
+2011 2012 2013 2014 2015 2016
+(est.)
+
+2017
+(proj.)
+
+2018
+(proj.)
+
+2019
+(proj.)
+
+fiscal year 
+
+  
+additionally, the rate at which territories expenditures are matched (known as the federal 
+medical assistance percentage or fmap) is set in statute rather than calculated by the per capita 
+income formula used for the 50 states (see figure 2). in puerto rico, medicaid expenditures are 
+matched at 55 percent compared to state fmaps that range from 50 percent to about 75 percent 
+for the poorest state, mississippi. if calculated using the per capita income formula applied to the 
+states, puerto ricos fmap would be approximately 93 percent in the absence of a statutory 
+upper limit. consequently, it would receive the statutory maximum of 83 percent.  
+
+ 
+
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 12, 2017 
+
+aspe data point 
+ 
+
+ 
+
+ 
+
+figure 2. statutory boundaries for federal matching rates 
+
+page 3 
+
+statutory maximum 
+
+83 
+
+93 
+
+55 
+
+50 
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+fmap
+
+lowest for states
+
+puerto rico
+
+highest for states
+
+puerto rico (if calculated
+based on per capita income)
+
+ 
+
+ 
+ 
+beginning in 2011, puerto ricos medicaid program had access to an additional allotment of 
+funding (that is, funds in addition to the pre-existing medicaid statutory cap). totaling $6.4 
+billion, these additional funds are available until 2019. puerto rico, however, is on track to 
+exhaust the additional aca funding as early as the first quarter of fy 2018 (october-december 
+2017). when the funding expires, puerto rico will revert to the original statutory caps of less 
+than $400 million shown in figure 1. if the commonwealth continues to contribute the same 
+amount to its medicaid program as it is contributing today, total spending would decrease to 44 
+percent less than would be required to maintain current enrollment (figure 3), and 500,000 
+individuals would lose coverage (figure 4). if, instead, puerto rico spends no commonwealth 
+funds above the amount necessary to obtain the maximum federal funding, total spending would 
+be 80 percent less than what would be needed to maintain current enrollment, and enrollment 
+would drop by nearly 900,000. (see the appendix for a detailed description of how these 
+estimates were calculated.) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 12, 2017 
+
+aspe data point 
+ 
+
+ 
+
+ 
+
+ 
+figure 3. total medicaid spending 
+ 
+
+page 4 
+
+ 
+
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 12, 2017 
+
+aspe data point 
+ 
+
+ 
+
+ 
+
+figure 4. medicaid enrollment 
+ 
+
+page 5 
+
+ 
+this drop in enrollment would affect many of puerto ricos most vulnerable citizens. puerto 
+rico provides medicaid coverage to individuals with modified adjusted gross incomes of up to 
+133 percent of the puerto rico poverty level (prpl), a local poverty level that is lower than the 
+federal poverty level (fpl) used by most state medicaid programs. as shown in figure 5, this is 
+currently $550 per month (approximately 56 percent of fpl) for a one-person family and $850 
+per month (approximately 42 percent of fpl) for a family of four 
+(https://www.medicaid.gov/medicaid/by-state/puerto-rico.html). adults with incomes at or below 
+these levels are eligible without regard to parental status.  
+ 
+
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 12, 2017 
+
+aspe data point 
+ 
+
+ 
+
+ 
+
+page 6 
+
+figure 5. 133 percent of poverty in puerto rico and the continental u.s., 2016 
+
+ $35,000
+
+ $30,000
+
+ $25,000
+
+ $20,000
+
+ $15,000
+
+ $10,000
+
+ $5,000
+
+ $-
+
+ $32,319  
+
+ $15,800  
+
+ $6,600  
+
+ $10,200  
+
+puerto rico
+(puerto rico poverty level)
+
+continental united states
+(federal poverty level)
+
+individual
+
+family of 4
+
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 12, 2017 
+
+aspe data point 
+ 
+
+ 
+
+ 
+
+page 7 
+
+appendix: background and methods 
+ 
+in september 2016, the most recent month for which data are available from the centers for 
+medicare & medicaid services (cms), 1,071,373 individuals, including about 330,000 children, 
+were enrolled in puerto ricos medicaid program, the government health insurance plan 
+(ghip). this figure does not include 91,116 children enrolled in the childrens health insurance 
+program (chip), which covers children with household incomes up to twice the medicaid limits, 
+or 166,461 people with commonwealth-only funded coverage for public employees and some 
+individuals with incomes above medicaid eligibility limits. it also does not include 261,644 
+medicare-medicaid enrollees in platino, a medicare advantage plan. medicaid enrollment in 
+recent years has generally been stable. 
+ 
+as is true for the other u.s. territories (american samoa, guam, the commonwealth of the 
+northern mariana islands, and the u.s. virgin islands), puerto ricos medicaid funding is 
+subject to different provisions than those that apply to the states. fmap is set by statute, rather 
+than based on per capita income. before the aca, this rate was set at 50 percent, the same rate 
+that is applied to the highest-income states, even though puerto rico is poorer than any state, and 
+would qualify for the maximum 83 percent fmap if it were a state. moreover, territorial 
+spending is only matched at the statutory fmap up to a statutory cap that is typically reached in 
+the first quarter of the fiscal year. 
+ 
+the aca made three changes to these arrangements. first, fmap for the territories was 
+permanently increased from 50 percent to 55 percent. second, under section 2005, the territories 
+collectively received $6.3 billion for spending above their statutory caps, available between july 
+1, 2011 (after similarly purposed monies under the american recovery and reinvestment act 
+ended) and september 30, 2019. puerto rico, which accounts for the bulk of the population in 
+the five territories, received $5.5 billion under section 2005. third, under section 1323, the 
+territories collectively received another $1 billion for medicaid spending above their caps in lieu 
+of funding for individuals enrolling in the exchanges that none of them elected to establish. 
+puerto rico received $925 million under section 1323, to be spent after exhausting the section 
+2005 funds. puerto rico and the other territories must spend section 1323 funds by december 
+31, 2019. 
+ 
+the limitation of federal matching funds up to the level set by the statutory cap plus the section 
+2005 and 1323 funds, if available, does not apply to children covered under chip. spending on 
+medicare-medicaid dual enrollee prescription drug coverage under the enhanced allotment plan 
+funding provided to u.s. territories in lieu of a medicare part d low-income subsidy is also 
+not counted against the limitation on federal matching funds.  
+ 
+we used the enrollment and expenditure data provided by cms to model two different scenarios 
+for the exhaustion of puerto ricos section 2005 and 1323 funds. in scenario 1, puerto rico 
+spends the same amount of territorial funds in fy 2018 as in fy 2017, with an adjustment for 
+inflation of 3.8 percent based on the change in per enrollee spending from fy 2015 to projected 
+fy 2016 spending. in scenario 2, puerto rico spends no unmatched commonwealth funds. both 
+scenarios assume that puerto rico responds to reduced funding by reducing coverage (for 
+example, by lowering income eligibility limits or by imposing an enrollment cap) rather than by 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 12, 2017 
+
+aspe data point 
+ 
+
+ 
+
+ 
+
+page 8 
+
+reducing benefits for those who are covered, which already include only 10 of the 17 categories 
+that are mandatory for the states and the district of columbia. 
+  
+we assumed the september 2016 medicaid enrollment total for both fy 2016 and fy 2017. fy 
+2016 federal spending is based on the amount of the statutory cap plus the projected draw on 
+section 2005 funds. fy 2017 federal spending is based on the amount of the statutory cap 
+(which includes an inflation adjustment) plus the projected exhaustion of section 2005 funds, 
+and then an initial draw from section 1323. puerto rico spending is based on federal spending 
+multiplied by the commonwealth/federal fmap ratio of .45/.55 = .82. with total enrollment 
+held constant, total spending and total spending per enrollee increase by the same assumed 3.8 
+percent inflation adjustment between fy 2016 and fy 2017. because the additional funding 
+from the aca funding fully covers enrollment at current levels for these years, the estimates for 
+fy 2016 and fy 2017 are the same for scenario 1 and scenario 2.  
+ 
+coverage deteriorates in fy 2018 due to the expected exhaustion of section 1323 funding during 
+the first quarter, with further deterioration in fy 2019 and fy 2020 when the section 1323 
+funding is completely unavailable, so that the only aca provision still in effect is the fmap 
+increase. in scenario 1, federal spending is based on the amounts available from the cap plus 
+section 1323 (fy 2018 only), and commonwealth spending is assumed to be the same as in fy 
+2017, plus the 3.8 percent inflation adjustment in each successive year. we estimated the number 
+of enrollees in each year by dividing the available federal and commonwealth funding by total 
+spending per enrollee. under these assumptions, total funding for fy 2019 falls to 56 percent of 
+what is needed to maintain coverage and benefits and 470,426 individuals lose coverage. the 
+estimated number of people losing coverage grows to 471,342 in fy 2020 because the scheduled 
+3.0 percent increase in the federal funding cap is below the assumed 3.8 percent annual increase 
+in spending per enrollee. 
+  
+scenario 1 is consistent with commonwealth policy before the recovery act and aca, when 
+federal funds covered about 16 percent of annual expenditures, as opposed to the 50 percent that 
+would be expected if the commonwealth spent only enough to get the maximum federal match. 
+in the context of the current economic crisis and fiscal controls, however, commonwealth 
+officials might decide to use scarce resources for competing priorities such as physical 
+infrastructure or debt payments rather than for medicaid and spend only up to the amount needed 
+to obtain the maximum federal match (scenario 2). coverage outcomes under scenario 2 are 
+much worse than in scenario 1 because the exhaustion of federal funding above the statutory 
+cap also reduces commonwealth spending. by fy 2019, total spending falls to 20 percent of 
+what would be needed to maintain coverage and benefits, and 855,321 individuals lose coverage. 
+the estimated number of people losing coverage grows to 856,237 in fy 2020, again because 
+the scheduled 3.0 percent increase in the federal funding cap is below the assumed 3.8 percent 
+annual increase in spending per enrollee. 
+ 
+
+ 
+aspe office of health policy 
+ 
+
+ 
+
+january 12, 2017 
+
+

@@ -1,0 +1,1136 @@
+immigration adjudication: the 
+missing rule of law
+
+lenni b. benson 
+new york law school
+
+executive summary
+the united states spends more than $19 billion each year on border and 
+immigration  enforcement.1  the  obama  administration  removed  more 
+people in eight years than the last four administrations combined.2 yet, to 
+the trump administration, enforcement is not yet robust enough. among 
+other measures, the administration favors more expedited and summary 
+removals. more than 80 percent3 of all removal orders are already issued 
+outside  the  court  process:  when  the  department  of  homeland  security 
+(dhs)  uses  summary  removal  processes,  both  access  to  counsel  and  an 
+immigration judge can be nearly impossible. advocates and policy analysts 
+are equally concerned that a backlog of over 545,000 immigration court cases 
+creates delay that harm people seeking asylum and other humanitarian 
+protection. recent use of priority or rocket dockets in immigration court 
+and  lack  of  appointed  counsel  also  interfere  with  the  fair  adjudication 
+of claims. thus the administrative removal system is criticized both for 
+being inefficient and moving too slowly, on the one hand, and for moving 
+too quickly without adequate procedural safeguards, on the other. both 
+critiques  have  merit.  the  challenge  is  to  design,  implement,  and  most 
+critically, maintain an appropriately balanced adjudication system. 
+while it is clear that us removal procedures need reform, process alone 
+will not be able to address some of the systematic flaws within the system. 
+ultimately,  the  dhs  will  need  to  refine  and  prioritize  the  cases  that 
+are placed into the system and the government needs new tools, widely 
+used in other adjudication systems, that can reduce backlogs, incentivize 
+cooperation, and facilitate resolution. congress should similarly reexamine 
+the  barriers  to  status  and  avenues  for  regularization or  preservation  of 
+status. the paucity of equitable forms or relief and the lack of statutes 
+of  limitation  place  stress  on  the  immigration  court  system.  the  lack 
+1   in fiscal year (fy) 2016, the budget for cbp and ice was $19.3 billion. see analysis by the american 
+immigration council (2017a) about the costs of immigration enforcement. the budget for the immigration 
+court  has  grown  only  30  percent  in  comparison  with  a  70  percent  increase  in  the  budget  of  the  dhs 
+enforcement.
+2   taken from obama removal data and comparison to past administrations (arthur 2017). 
+3   the dhs does not routinely publish full statistical data that allows a comparison of the forms of removal. in 
+a recent report by the congressional research service, the analyst concluded that 44 percent were expedited 
+removals as described below, and an additional 39 percent were reinstatement of removals  83 percent of 
+all orders of removal were outside the full immigration court system (congressional research service 2015). 
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 2 (2017): 331-355of  appointed  counsel  has  a  dramatic  impact  on  case  outcomes.  without 
+counsel, the rule of law is barely a constraint on government authority. 
+conversely, a system of appointed counsel could lead to efficiencies and to a 
+culture of negotiation and settlement within the immigration court system.
+dhs has increasingly used every tool in its arsenal to expeditiously remove 
+people  from  the  united  states  and  most  of  these  tools  bypass  judicial 
+hearings.  in  these  ministerial  or  expedited  forms  of  removal,  there  is 
+no courtroom, there is no administrative judge, and there are rarely any 
+opportunities for legal counsel to participate. moreover, there is rarely an 
+opportunity for federal judicial review. in these settings, the rule of law 
+is  entirely  within  the  hands  of  immigration  and  customs  enforcement 
+(ice) or customs and border protection (cbp) officers who serve as both 
+prosecutor and judge. there is little record keeping and almost no avenue 
+for administrative or judicial review. this paper will argue that the rule 
+of law is missing in the us removal adjudication system, and will propose 
+ways in which it can be restored.
+
+assembly  line  adjudication    the  need  for  priorities 
+and process protections
+for many years, the dhs has increased removal enforcement and congress has similarly 
+increased the funding for detention as a part of the removal process. in 1990, congress 
+revised the statutes to create an integrated immigration removal system that would both 
+adjudicate  the  claims  of  those  seeking  initial  admission  or  apprehended  at  entry  and 
+those who are found in the interior and subject to a ground of deportation. over time, the 
+adjudications before the immigration courts, a division within the department of justice, 
+grew to over 200,000 new cases a year (eoir 2017).4 frustrated with delays and intent on 
+stiffer enforcement at the border with mexico, the federal agencies expanded their reliance 
+on forms of ministerial or expedited removal.5 today at least 80 percent of all removal 
+orders  are  prepared  and  executed  largely  without  the  involvement  of  an  immigration 
+judge. in these cases, only a claim of persecution or torture can prevent a rapid deportation 
+executed solely by dhs personnel. in many of these cases, the unrepresented individual is 
+unable to persuade an immigration judge that a fuller hearing is required. 
+the growing reliance on expedited procedures has raised concerns about the adequacy and 
+accuracy of the agency determinations. in a detailed report published in the summer of 2016, 
+the us commission on international religious freedom (uscirf) reported that customs 
+
+4   the executive office for immigration review (eoir) publishes a statistical yearbook annually providing 
+data on cases types, dispositions and completions. the data here is from fy 2016. 
+5   congress first created the expedited removal statute in 1996 but has expanded its use to people found 
+within 14 days and within 100 miles of the international land borders and to those apprehended who admit 
+arriving by sea within the past two year. under ina  235; 8 u.s.c.  1225, the dhs is only to use the 
+procedure if a person is inadmissible for specific grounds, lack of documents, or making a misrepresentation 
+or using fraud to secure a visa. however, the lack of records and administration review precludes knowing 
+if the border officials constrain themselves to these contexts. the new administration is exploring expanding 
+the use of expedited removal to the entire interior provided the individual arrived within the last two years.
+
+332
+
+journal on migration and human securityand border protection (cbp) officers were not well trained or adequately supervised in their 
+use of the expedited process. in addition, the need for protection determinations caused a 
+shift in resources from the immigration court and the us citizenship and immigration 
+services (uscis) asylum office that led to tremendous backlogs in the regular adjudications 
+(cassidy and lynch 2016). although some legal challenges to the fairness and accuracy 
+of expedited removal have been attempted, most have failed because congress curtails 
+access to independent judicial review. in april of 2017, the supreme court denied review 
+of a decision that refused to entertain jurisdiction to review the sufficiency of the expedited 
+removal  process  for  mothers  and  young  children  seeking  asylum.  in  that  decision,  the 
+third circuit court of appeals found that congress may constitutionally preclude judicial 
+review, including suspending the writ of habeas corpus.6 in short, the rule of law is missing 
+in immigration removal adjudication.
+even for those who are in regular removal proceedings, the quality and fairness of the 
+procedures  and  the  independence  of  the  immigration  court  is  a  significant  concern. 
+immigration judges (ijs) are civil service employees that serve at the pleasure of the attorney 
+general. the immigration court is not an independent agency. it has coordinated its work 
+with the enforcement units within dhs and has adapted its court-docketing procedures 
+and relocated judges based on the enforcement priorities of the new administration. the 
+national association of immigration judges (naij), the american bar association (aba), 
+and  others  have  long  called  for  greater  financial  and  managerial  independence  as  well 
+as greater protections for the independence of the adjudicators making these important 
+decisions (aba commission on immigration 2010). as dana marks, the president of the 
+naij, has phrased it, we are conducting death penalty cases in a traffic court setting 
+(dooling 2016).7
+moreover, while immigration courts determine whether the government has established 
+that a person is removable, it may also be the only place where an individual can seek 
+protection from deportation. these are two distinct roles. while the forms of protections 
+are limited, congress has given immigration judges the power to make decisions in cases 
+seeking asylum or protection against torture. for a small class of people, the ij may be the 
+only adjudicator with jurisdiction to determine if a noncitizen will be able to remain based 
+on length of residence, extreme hardship to family, and/or surviving forms of domestic 
+violence. in reality, congress has narrowed these forms of relief so dramatically that less 
+than 35 to 39 percent of the people in removal proceedings file any formal application for 
+relief (eoir 2017, figure 13).8
+at first blush, the fact that so few people file applications for relief may imply that there is 
+little need for the court, but in fact, dhs makes a great number of prosecutorial discretion 
+determinations during the court process. it often decides to place individuals in removal 
+proceedings. yet, dhs also often agrees to close, or for the court, to terminate cases: in 
+fiscal year (fy) 2015, 34 percent of the cases without a grant of relief or a final order of 
+
+6   see castro v. united states dept of homeland sec., 835 f3d 422 (3d cir. 2016), cert. denied, _ u.s. _, 
+(april 17, 2017).
+7   see also marks (2012).
+8   in fy 2015, the rate was 35 percent and grew to 39 percent in fy 2016 (ibid.).
+
+333
+
+immigration adjudication: the missing rule of lawremoval were closed or terminated. this number grew to 38 percent in 2016 (eoir 2017).9 
+at times, the case is terminated because it was improvidently begun, but in the vast majority 
+of cases the government determines the case should not move forward to a removal order. 
+the government may close the case because the removal hearing might have motivated 
+the individual to apply for an immigration benefit or relief. there is little need for the 
+immigration court involvement if the individual is going to qualify for an immigration 
+benefit from uscis.10 while administrative closure or termination is appropriate in these 
+cases, some cases should never have been initiated or should have been closed as soon as 
+a possibility of status was identified.
+some of the delays in the regular removal system occur because persons in proceedings are 
+given continuances to try to secure counsel. but the immigration court lacks robust motion, 
+conferencing, and settlement traditions. while the procedural rules contemplate motions 
+and written pleadings, the tradition in the system is to do everything in front of the judge. 
+thus, attorney time and court time is filed with routine submission of documents, oral 
+motions, and more requests for continuances that could be better managed. moreover, many 
+of the applications for relief cannot be adjudicated by the immigration court. the system 
+created by congress and dhs is replete with hard-to-fathom and rigid jurisdictional limits 
+that cause cases to be broken into pieces and divided among a variety of benefits agencies. 
+immigration courts cannot expedite the security check, petition adjudication, or document 
+review process because these functions are handled by a separate agency. and some of 
+the rules require hours of court time to make factual findings that could be resolved by 
+stipulation between the parties if the dhs would afford greater autonomy to its attorneys. 
+the removal system lacks needed flexibility to allow for appropriate adjudication. 
+but  regardless  of  the  court  process,  one  of  the  biggest  factors  in  immigration  court 
+congestion is the assembly line or automatic initiation of removal proceedings by dhs. 
+most  federal  agencies  cannot  prosecute  every  violation  nor  pursue  every  enforcement 
+action. immigration prosecutions are a form of civil administrative adjudications. the 
+entire  system  is  predicated  on  the  characterization  that  the  sanctions  for  immigration 
+enforcement are primarily civil sanctions assessed by administrative judges. the structure 
+of the immigration and nationality act (ina) gives the dhs border inspector insufficient 
+flexibility and authority to avoid the removal process. but even within the interior of the 
+country, it appears that the dhs is using the initiation of removal proceedings as a rough 
+way to sort out who deserves some form of discretion. in general, because the charging 
+documents  are  prepared  and  filed  without  formal  consideration  and  evaluation  by  the 
+prosecuting attorneys, it is not until the litigation has commenced that a dhs attorney 
+examines  the  case.  a  well-defended  individual  will  use  the  court  process  to  explore 
+
+9   these numbers are based on comparing tabs b and c in eoir (2017). likely the numbers are higher than 
+past years because many of the cases involved unaccompanied children who were eligible for relief or could 
+not be safely repatriated. see discussion of outcomes in juvenile cases below.
+10    a  clear  example  of  this  is  the  large  number  of  unaccompanied  childrens  cases.  the  benefits  and 
+applications that protect children are all made before a component of the uscis. for most of the cases, the 
+immigration court serves little purpose other than to move the case to another continuance. of course, it is 
+because the children are in removal that so many attorneys have stepped forward to volunteer to assist them, 
+or that the childrens relatives have found the funds to hire the counsel who are essential to the application 
+process. none of the work is simple and certainly the applications cannot be made by children unassisted by 
+counsel.
+
+334
+
+journal on migration and human securitythe equities in the clients life with the ice attorney and to try to negotiate a closure or 
+termination, or to narrow issues to allow the immigration judge to adjudicate the underlying 
+eligibility for a form of statutory relief. unfortunately, because there is no right to appointed 
+counsel for indigent individuals, and because there is no formal mechanism or culture of 
+prioritizing cases once within the system, the results are uneven. the rule of law exists, in 
+large part, between the lines.
+ and finding justice between the lines is especially a problem for those behind bars. each 
+year dhs detains nearly 400,000 people a year. for those who must complete a removal 
+hearing in detention, fewer than 20 percent secure any legal representation (eagly and 
+schafer 2015).11 the strategies that aid a closure may not exist in the context of a detained 
+case. congress mandates detention in a large number of cases as a means of efficiently 
+completing the removal process. the calculus of who qualifies for relief and what type 
+of hearings may be required is distorted by the stark reality of detention. most detention 
+centers are in remote locations and there are few defense attorneys nearby. the court itself 
+has increasingly relied on video teleconferencing to conduct the hearings in these facilities. 
+video  technology  frequently  separates  the  ice  attorney  from  the  person  in  removal 
+proceedings, and the opportunities for negotiation or requests for discretion may be even 
+harder to initiate in these settings. the court does not publish annual statistics on its use 
+of  teleconferencing  but  a  recent  academic  study  reported  that  by  2012  one-third  of  all 
+detained hearings used video technology (eagly 2015, 953).12 
+
+there  is  no  other  forum  for  adjudication    the 
+immigration court is the cauldron
+the large number of terminations and closures by the dhs suggests that our government 
+should be making a careful selection of cases before the allegations are filed in the court. 
+the lack of other forums for adjudications  for procedures to regularize status and for a 
+method of investigating the context and equities in a case  makes the immigration court 
+the default forum. the closure of cases may be the governments only tool to consider the 
+equities, given the rigidity of immigration law and its paucity of substantive options and 
+pathways to status.
+people  are  frequently  surprised  to  learn  that  there  is  no  general  power  within  the 
+immigration system for a judge to consider all of the factors and make a recommendation 
+against removal. immigration court is not a court of equity. the immigration judge has only 
+the powers of grace afforded by congress, and our statutes have increasingly limited relief 
+and narrowed the relevant criteria for eligibility. for many years, congress has restricted 
+access to permanent resident status or waivers of deportation. there is often no application 
+to file because the law precludes ij discretion.
+and in the outside-the-court ministerial removals, there is almost no opportunity to apply 
+for  a  waiver  or  any  form  of  discretionary  relief.  individuals  facing  reinstatement  of  a 
+prior removal order or expedited removal have a limited chance to seek protection from 
+persecution or torture, but little else is available. because there are so few ways to stop 
+11    eagly and schafer (2015) found that 14 percent of people in detention were represented by counsel.
+12   according to eagly (2015), 97.7% of removal proceedings in 2012 received pure in-person adjudication. 
+
+335
+
+immigration adjudication: the missing rule of lawremoval, persons in proceedings try to find a way to fit into the narrow protection grounds 
+like  asylum.  nevertheless,  when  individuals  seek  immigration  review,  the  initial  dhs 
+finding of lack of fear is reversed in a significant percentage of cases (eoir 2017).13
+in  recent  years,  one  of  the  largest  subset  of  cases  are  those  of  unaccompanied  minor 
+children arriving from the northern triangle states of central america where a crumbling 
+civil society and systemic violence against youth have pushed children to seek safety in the 
+united states. these youth frequently choose the united states as a destination because 
+many have us resident relatives who may or may not have status. dhs maintains that all 
+children identified at or near the border must be placed in removal proceedings and for three 
+years its enforcement priorities included these recent arrivals, whose cases were placed onto 
+priority dockets. similarly, at the request of the dhs, the immigration courts also prioritized 
+the cases of adults with small children who also arrived from the region seeking asylum. 
+in 2017, the court announced that it would no longer prioritize the cases of non-detained 
+children. nevertheless thousands of childrens cases remain pending in immigration court. 
+children with counsel secure status or receive administrative closure at relatively high rates. 
+using the court cauldron to sort and process juvenile cases is unnecessary. moreover, this 
+setting is poorly suited to consider childrens claims. the attempt to rely solely on docket 
+management tools in these cases rather than to examine the entire system  from initiation 
+of removal to benefits adjudication  epitomizes the systems lack of flexibility. a careful 
+look at the process used in childrens cases would identify larger systemic problems. for 
+example, when a child wants to seek a special immigrant juvenile petition, the immigration 
+court is powerless to adjudicate every aspect of the petition. instead, it must continue the 
+case while the child, if represented, goes first to state juvenile or family court and then to 
+the benefits division of uscis and finally back to the court to seek closure of the case. 
+none of these steps are simple. all require advocacy and lengthy adjudication procedures. 
+these procedures congest already overcrowded dockets. 
+the current removal systems were largely designed in 1990 and relief and judicial review 
+were substantially restricted in 1996. in the past 20 years, the immigration enforcement 
+budgets  and  the  numbers  of  people  affected  by  the  system  have  grown  exponentially. 
+all legal systems are dynamic. over time, they bend, twist, clog, and even break. people 
+desiring  a  more  restrictive  immigration  policy,  as  well  as  those  seeking  more  paths  to 
+regularization  of  status,  agree  that  the  us  removal  adjudication  system  has  reached  a 
+breaking point. factors such as the high dependence on physical detention, the immense 
+volume of cases, the growing numbers of children in the system, the lack of transparency, 
+and the near impossibility of substantive review in more than 80 percent of the cases call 
+into the question the effectiveness, fairness, and accuracy of the us removal adjudication 
+system. 
+
+13    from  the  2016  eoir  statistical  yearbook,  credible  fear  review  reflects  a  reversal  of  the  agency 
+determination in a significant number of cases. in fy 2015, the ij reversed the credible fear denial 1,344 
+times out of 6,629 (20 percent) and in fy 2016, the percentage rose to 27 percent in 2086 out of 7,469 cases. 
+the reversal is lower in the reinstatement cases or defense to administrative removal under ina  238. in fy 
+2015, there were 449 reversals out of 2,587 (20 percent). in fy 2016, there were 567 reversals out of 2,522 
+(22 percent). these rates of reversal argue strongly for more process, greater transparency, and oversight 
+rather than leaving these decisions solely to dhs determinations.
+
+336
+
+journal on migration and human securitythe essentials for adjudication
+there is no perfect adjudication system. these systems should protect values like accuracy 
+and fairness, and operate efficiently. however, ultimately, the demands placed on a system 
+and the people acting within it can frustrate the goals of its designers or negate individual 
+protections  (aba  commission  on  immigration  2010;  benson  and  wheeler  2012). 
+unfortunately, the us system is so far from perfect and so driven by the goals of efficiency 
+and deterrence that its fails to incorporate the essential qualities of fairness. moreover, the 
+adjudication system does not operate in a vacuum. if us immigration policies allowed 
+people to regularize their status, had a mechanism for correcting errors of judgment, or 
+contained fines or punishments for breaking immigration rules that were proportionate to 
+the interests at stake, it is very likely that it would not be under the current strain. people are 
+subject to removal because the system blocks their path to status or makes them vulnerable 
+to expulsion even after lengthy residence. too many people are also in removal because 
+the united states has no effective mechanism for processing refugee flows at our border 
+(musalo and lee 2017).
+substantive rights and procedural structures are not separate. if we have a rigid system 
+that excludes and punishes all who infringe on even minor rules, people will, by necessity, 
+use the adjudication process as a substitute for substantive protection. delay is a partial 
+win. and just as frequently, if the individual lacks a remedy, he or she is more likely to do 
+everything possible to avoid detection and to remain outside the law.
+furthermore,  all  of  the  basic  assumptions  about  the  rule  of  law  or  due  process  or 
+basic constitutional rights, do not fully operate in the sphere of immigration law. in the 
+immigration context, congress has the power to define both the rules as to who will be 
+admitted and the level of procedural protections necessary to evaluate claims. in a handful 
+of cases, the supreme court has found that some noncitizens by virtue of their formal status 
+or their connections to the united states and, most commonly, by virtue of their physical 
+presence within us territory are entitled to due process of law.14 but due process alone 
+without a corresponding robust limit on government power to deport may be insufficient. 
+the process may always seem unfair and stacked in favor of the government if congress 
+does  not  provide  any  formal  mechanism  for  individual  clemency  or  adequate  paths  to 
+regularization of status.
+phrased another way, the current immigration system and the case law creates very real 
+borders  not the territorial borders  but legal fictions that put immigrants outside the 
+mainstream body of fundamental protections. immigrants are remarkably vulnerable to 
+a government official who oversteps, to a judge who acts in an arbitrary fashion, to the 
+asymmetry of the power between the government attorney and the unrepresented detained 
+individual. the us immigration system runs roughshod over hundreds of thousands of 
+people each year and it creates uncertainty and fear for noncitizens and their families. 
+
+14   see, e.g., landon v. plasencia, 459 u.s. 21 (1982), in which returning lawful permanent resident, although 
+at the border, was entitled to a measure of procedural fairness and remanding for application of mathews v. 
+eldridge procedural due process balancing; and demore v. hyung joon kim, 538 us 510 (2003), which 
+acknowledges due process rights of people inside the united states, but finding detention may be permitted. 
+note that the supreme court is revisiting the ability to detain without bond review in rodriguez v. robbins, 
+804 f.3d 160 (9th cir. 2015), cert. granted, 136 s.ct. 2489, renamed jennings v. rodriguez, decision pending 
+as of march 2017.
+
+337
+
+immigration adjudication: the missing rule of lawthe hallmarks of a just system
+the  legal  philosopher  john  rawls  (1971)  in  his  book,  a  theory  of  justice,  created  a 
+thought experiment. he asked us to consider what type of governmental system and respect 
+for human rights we would design if we didnt know what status or role we would play 
+in the new system. if operating behind a veil of ignorance would we create a system 
+with a balance of rights and protections to limit governmental power? to be fair, rawls 
+expressly designed his experiment assuming that the participants were all citizens creating 
+a nation-state. but others, such as the philosopher joseph carens (2013), have carefully 
+explained that the process of design without regard to our individual privilege or status 
+is also a tool that allows us to ethically examine the choices we make about borders and 
+immigration controls. as some have put it, the lottery of birthplace does not fully justify 
+the rule of law drawing distinctions amongst individuals. a system that values protections 
+for individual liberty and protections for substantive rights to remain with family should 
+be more extensive for those with long tenure in a country regardless of the manner of 
+entry.  international  law  already  mandates  both  procedural  and  substantive  protections 
+for  individuals  who  face  a  threat  of  violence  in  their  country  of  origin.  constitutional 
+values have routinely slowed administrative process and added robust notice and hearing 
+procedures tempering mere efficiency or speed in adjudication. scholars have long noted 
+that a system with redundancy and appeals offers a better adjudication process, builds trust 
+in outcomes, and can help to ensure accuracy. records of proceedings, transparency and 
+review protect against undue bias in adjudication and can identify patterns of selective, 
+perhaps discriminatory, prosecution. 
+the  us  removal  system  does  not  adequately  reflect  these  essential  values.  more  than 
+80 percent of all removals take place without a hearing before a judge. without records 
+of proceedings, opportunities for appeal or adjudication before an independent decision 
+maker, the us system is vulnerable to error, bias, and corruption. given the importance 
+of the issues involved, such as asylum claims or the right to retain permanent residence, 
+the us system does not afford sufficient time and resources for careful development of 
+evidence and evaluation of complex legal analysis. if the united states values efficiency, it 
+is difficult to understand why so many cases are referred for removal proceedings and then 
+closed as a matter of prosecutorial discretion. at first blush, it may appear that the lengthy 
+backlog and months to completion of removal cases may argue for less process, but the 
+lack of counsel in proceedings and the culture within the courts system may be among the 
+largest contributors to delay. 
+
+truncated  process  and  lack  of  substantive  protection 
+lead to systemic problems
+for many of those subject to it, the us removal adjudication system does not adequately 
+balance efficiency, accuracy, and fairness. placed behind the theoretical veil of ignorance 
+and unaware if he or she would be a noncitizen in removal, few people would design the 
+truncated procedures used in so many of the cases. most people would be dissatisfied with 
+the removal and detention system if they knew it would impact them or their close family 
+members. most would argue for greater process, a right to counsel, options for discretion, 
+or clemency and protection from arbitrary or dangerous refoulement.
+
+338
+
+journal on migration and human securitytraditionally, legal scholars have said that to build a fair adjudication system, the government 
+must ensure that the administrative process balances efficiency with the goals of accuracy 
+and fairness. usually these commentators also assume that the system will be transparent 
+and provide records of the proceedings. evidentiary rules, the right to counsel, and the right 
+to appeal are all hallmarks of protections built into adjudication to ensure accuracy and 
+fairness. in expedited removal cases, people receive a removal order moments after arrival 
+that forever impedes their ability to regularize their status. persons who use the visa waiver 
+program to enter and overstay a visa are not entitled to a hearing despite years of residence. 
+people who are apprehended in the interior or who have held lawful status but are now 
+charged with being removable do have a right to an administrative hearing, but congress 
+has foreclosed the opportunity  in most cases  for individual equitable assessments. 
+for some, dhs has the ability to use a conviction to eliminate substantive relief before 
+the court and to narrow the scope and nature of any appeals or judicial review. for others, 
+there is no remedy, and despite years of living in the united states, even those brought 
+as children, congress has left them without a remedy before a court. the only shaky and 
+unreliable remedy is to try to seek prosecutorial discretion in the hope that the government 
+will not initiate removal proceedings or execute a removal.
+it is a worthy endeavor to try to identify the characteristics of a removal system that would 
+protect  the  essential  values  of  adjudication.15  however,  no  mere  process  scheme  can 
+adequately protect individual rights if it truncates or curtails the scope and presentation 
+of  claims. while  on  paper,  our  expedited  removal  system  might  seem  to  protect  some 
+values of accuracy and additional process for those who fear harm, in reality, the balance 
+is skewed solely toward government efficiency. the united states has lost sight of the 
+core  values  that  protect  an  adjudication  model  (and  those  subject  to  it)  from  arbitrary 
+determinations and that promote the rule of law. while in the main congress has crafted the 
+us immigration system, the manner in which the executive branch wields its enforcement 
+tools is equally, if not more, powerful in constructing a system that honors the rule of law. 
+in many areas of administrative law, the federal courts act as a tempering and moderating 
+force, but in the immigration field, congress has severely limited the power of the judiciary 
+to impose limits on the enforcement choices or to fail to exercise discretion. most of the 
+power in the system is allocated to the governments power to remove and little is afforded 
+to the adjudicators to make case-by-case assessments. the number of dead ends, automatic 
+grounds for deportation, and barriers to status far outnumber the discretionary exceptions. 
+only where congress has chosen to protect a small number of victims of crime or domestic 
+violence, or where international treaty is enshrined in our domestic law, does the system 
+prioritize an individualized assessment of harm over the authority of the government to 
+deport.  this  imbalance,  the  very  generous  allocation  of  power  solely  to  enforcement, 
+creates the harsh reality of our immigration system. 
+
+recommendations
+suggested here are some standards and characteristics of a removal system that would 
+go  further  to  promote  fair  outcomes  and  still  preserve  the  governments  enforcement 
+15   other scholars have written important pieces that evaluate these values. see, e.g., legomsky (2010), 
+which suggests an independent article i court, and family (2011). family (2011) and other works by the 
+author explore many aspects of the adjudication and process issues in the immigration courts.
+
+339
+
+immigration adjudication: the missing rule of lawobligations and need for efficient resolution of claims. some of the ideas are culled from 
+the excellent and voluminous recommendations and studies that have been prepared by the 
+aba, uscirf, the administrative conference of the united states (acus), and others 
+(aba commission on immigration 2010; cassidy and lynch 2016; benson and wheeler 
+2012). other recommendations are based on my over 30 years of experience in this field 
+and the opportunities to observe and reflect upon the operation of the removal systems. the 
+lived territory of immigration adjudication is a very different place than a pure blueprint 
+found in statutes and regulations would suggest.16
+
+1.  the  dhs  should  establish  clear  enforcement  priorities  and 
+cases  should  be  investigated  and  evaluated  before  commencing  a 
+removal case 
+as mentioned above, many of the cases in the immigration courts or within the ministerial 
+removal systems are initiated by enforcement officers without review and prioritization by 
+the trained attorneys representing the government. typically the mandatory cases are those 
+arriving at the border. almost all other cases should require an individual assessment by an 
+attorney. ice attorneys should not only review the charges presented by the enforcement 
+officers but they should spend additional time on fact investigation. dhs should be given 
+the resources to conduct fact investigation and to review the entire file of an individual. if 
+the person appears to have extensive history and familial ties to the united states, the dhs 
+should consider how the commencement of removal might disrupt a community business 
+or harm the us family members. in some cases, if dhs offers freedom from incarceration 
+and a period of a stay of removal, that option might be sufficient to create a settlement and 
+a negotiated departure. 
+in a recent case pending before the us supreme court, the federal criminal prosecutor 
+did not intend the deportation of a man, jae lee, who had lived in the united states for 34 
+years.17 integrating removal decisions with sentencing requests by federal prosecutors is 
+already a possibility in some cases but is not widely used.18 ice does not have to put this 
+man into removal after he has served his criminal sentence. ice attorneys tend to begin 
+removal cases and decide during the hearing whether or not removal is appropriate. in 
+cases where ice believes the individual has been convicted of an aggravated felony the 
+agency has usually taken the position the case must move forward. while a man like jae, 
+who held lawful permanent resident status, is entitled to a removal hearing and to defend 
+against the grounds of removal, ultimately congress has eliminated almost every form of 
+relief. congress cannot criminally prosecute a noncitizen without the same due process 
+protections afforded a citizen, but because us law treats deportation as a civil sanction, 
+someone like jae can lose everything he values. courts have repeatedly pointed out the 
+16   see benson (2007) for a fuller elaboration of this concept.
+17   lee v. united states, 825 f.3d. 311 (6th cir. 2016), cert. granted, 137 s. ct. 614 (2016). the sixth circuit 
+court of appeals had ruled that jae lee could not set aside his plea agreement because it was not reasonable 
+to assume that a person would risk trial with a longer period of incarceration where there was strong evidence 
+of guilt rather than take a plea that shortened his sentence.
+18    ina    238  authorizes  a  federal  sentencing  judge  in  a  case  involving  an  aggravated  felony  to  also 
+issue an order of removal. there is little published data about the frequency of the us attorney generals 
+implementation of this process. 
+
+340
+
+journal on migration and human securityharshness of deportation but have said it is up to congress to afford more opportunities 
+to remain in the united states. until that day, and as immigration courts have no general 
+equitable authority, it is incumbent on the ice attorney to consider the whole person and to 
+make careful determinations about whether deportation should be sought.
+this appeared to be the approach used in the final years of the obama administration. 
+after  years  of  robust  deportations,  secretary  johnson  issued  a  memorandum  directing 
+ice prioritize individuals with serious criminal convictions that posed a risk to national 
+security or public safety and to prosecute recent border entrants (johnson 2014). the new 
+administration has rescinded these directives and replaced it with a general policy of broad 
+enforcement. dhs secretary john kelly preserves a focus on national security and public 
+safety, but expands the priorities to all who have violated immigration rules (kelly 2017). 
+the impact of the changed priorities remains to be seen. in the obama administration, the 
+vast majority of people in removal were charged with immigration regulatory violations. 
+fewer  than  five  percent  of  the  people  in  removal  last  year  were  charged  with  being 
+removable based on a criminal conviction unrelated to a violation of immigration status. 
+many people who come to the attention of dhs due to criminal arrests are ultimately 
+treated only as status or entry violators. while many have committed misdemeanors in 
+illegally entering the country, the lack of a significant number of cases involving criminal 
+conduct other than immigration violations indicates that ice is not adequately evaluating 
+the importance of a case and the real risks to public safety.
+to use a model of selective referral to removal proceedings, dhs would need a culture 
+change. it could model itself on other important federal agencies that protect us health 
+and welfare. the department of labor is unable to bring every wage and hour violation. 
+the environmental protection agency cannot pursue civil sanctions for every polluter. 
+the department of the treasury cannot sanction every taxpayer and seize assets in every 
+case. these agencies investigate, prioritize, and negotiate. if dhs were armed with more 
+tools  than  simply  not  bringing  an  enforcement  action  or  closing  a  file  without  action, 
+it  would  incentivize  cooperation  by  the  affected  individuals.  further,  the  opportunity 
+to investigate and interview would allow the ice trial attorney to rely on the skills and 
+adjudication  techniques  of  the  people  within  other  branches  of  dhs  to  make  security 
+and risk assessments, such as whether the individual contributes to societys well-being 
+or might be prone to an offense that threatens public safety at the present time, until an 
+application for relief is initiated by the individual, there is little for the dhs officer or 
+ice attorney to do but focus on removal, detention determinations, and execution of the 
+removal orders. in asylum cases, the ice attorney plays an important role in testing the 
+veracity of the evidence and the testimony of the applicant. but not every case needs to 
+be resolved solely through contested litigation. there are many other mechanisms such as 
+written submissions of evidence, in-person depositions, or conferences with the parties that 
+might more quickly and effectively narrow issues and allow a case to be resolved. 
+with an estimated 11 million undocumented people in the country and many living under 
+existing final orders of removal, we need to give the dhs attorneys bargaining tools such 
+as temporary work authorization, temporary status, conditional residency, and even a grant 
+of permanent resident status for cases that might meet the legal immigration criteria, if 
+not for technical reasons such as an entry without inspection, which make them unable to 
+complete the adjustment of status or immigrant visa process.
+
+341
+
+immigration adjudication: the missing rule of lawgiven that a significant number of cases pending in the removal system resulted in and are 
+likely to continue to result in case closure without a removal order, dhs should not waste 
+the resources of doj courts or its appellate bodies. instead, ice should become part of the 
+us registration and regularization force for cases deemed a low enforcement priority. ice 
+should be able to exercise discretion prior to the removal adjudication.
+
+2. fair adjudication for new arrivals requires adequate resources 
+
+and greater accountability
+prior to 1996, if a person arrived at a us port of entry such as an airport and the cbp 
+(formerly immigration and naturalization service [ins]) inspector thought he or she had 
+the wrong documents or false documents, he or she could put you into inadmissibility 
+proceedings before an immigration judge. the individual might be detained, but most were 
+given a temporary parole into the united states and then required to return for a further 
+interview or for the hearing on their eligibility to enter. in 1996, congress gave cbp officers 
+the choice to use expedited removal when a person lacked documents. for many years, the 
+agency did not choose to use this tool to refuse admission along the mexican border. people 
+would simply be refused entry. but dhs began to adopt a removal with consequences 
+strategy. they expanded the use of expedited removal, which bars an individual for five 
+years and subjects them to heightened criminal penalties if they chose to illegally reenter 
+the country. the agency can and should return to its past practice of affording persons in 
+this situation regular removal proceedings.
+it is hard to say whether congress has always intended these outcomes. immigration law 
+is complex and few have mastered all of the procedures or substantive rules. over time, as 
+congress added more enforcement tools to expedite and to improve the efficiency of the 
+removal system, it perhaps did not fully foresee the way in which the delegated authority 
+would operate. when expedited removal was first created in 1996, it was rarely used and 
+applied only to people arriving at airports who had destroyed their documents on flights. 
+over time, cbp began to use expedited removal as a tool against people who had been 
+apprehended multiple times trying to cross the border illegally. but in 2000 and again in 
+2002, the bush administration used the statutory authority to expand expedited removal 
+to within the interior for those who within the previous two years had entered illegally by 
+sea, and to those apprehended with 100 miles of the international land border who could 
+not prove presence of more than 14 days or entry with proper inspection. now the trump 
+administration is considering whether to expand expedited removal into the interior of the 
+united states for all who cannot prove presence of more than two years and who cannot 
+prove proper inspection. expedited removal now accounts for more than 44 percent of 
+removal orders (american immigration council 2017b).19 this process affords no judge, 
+no hearing, no chance to defend, and no chance to delay. the only exception is for those 
+who can establish a possible claim for protection due to a credible fear of persecution. 
+it is difficult to evaluate the accuracy and fairness of expedited removal proceedings. first, 
+it is even difficult to measure the use of the tool. the dhs formerly released the data about 
+
+19   according  to american  immigration  council  (2017b):  in  fy  2013,  approximately  193,000  persons 
+were deported from the united states through expedited removal. that represents 44 percent of all 438,000 
+removals from the united states in 2013. 
+
+342
+
+journal on migration and human securitythe form and quantity of various removals. but the agency no longer reports expedited 
+removals, reinstatement of removals, and administrative removals separately from other 
+forms of removal. second, these forms of removal require little more than a dhs form 
+and a supervisors signature. people subjected to the process may not understand that they 
+have been subjected to a formal order of removal as opposed to being pushed back into 
+mexico or told simply to return to the country of origin. people subjected to reinstatement 
+of  removal  may  not  fully  understand  that  they  can  request  a  hearing  to  raise  a  fear  of 
+persecution, but that they have no ability to present details or circumstances of their lives 
+or to demonstrate the harm removal might create for them or their families. because this 
+process includes no judges or transcripts in a central adjudicatory body, there is no public 
+account of the removal orders and almost no review of the accuracy or fairness of the 
+procedures used to establish the necessary predicate facts that subject the person to these 
+truncated procedures. 
+when considered solely as an efficient tool for rapid decision-making at the us port of entry, 
+expedited removal may seem like a good balance of efficiency over accuracy. some people 
+might be refused improperly but the alternative might be people who would use hearings 
+and delay in the system to overwhelm the adjudications and to force the government to 
+allow their physical presence within the united states. that rationale was part of the design 
+when the system was limited to people who present themselves at a port of entry. however, 
+the dhs expanded expedited removal and used it against people apprehended beyond the 
+ports of entry. further, the use of expedited removal does not operate in isolation from other 
+provisions of the law. handing an apprehended person a piece of paper labelled removal 
+may be an insufficient warning of the severe consequences for subsequent reentry. reentry 
+after an order of expedited removal can trigger criminal prosecution as a felony or the 
+almost insurmountable lifetime bar to future legal admission. in theory, the statute contains 
+a powerful tool to deter people from violating the rules and entering illegally after an order 
+of removal, but in reality, the people who are subjected to these rules have received little 
+information about the law, and virtually no warnings about the consequences of violating 
+the law, or advice about alternatives. once someone enters illegally and remains for more 
+than a year, she is trapped inside the united states. if she ever came forward to leave to try 
+to correct her status, she would subject herself to the permanent bar.
+the  cumulative  effect  of  these  procedures  has  been  to  create  a  vulnerable  and  trapped 
+class of residents. there are likely millions of people who could be removed quickly and 
+who have few ways to correct or regularize their status. ice does not formally report the 
+number  of  outstanding  final  orders  but  estimates  are  that  an  estimated  900,000  people 
+have  a  final  order  but  the  government  has  not  chosen  to  or  been  able  to  remove  them 
+(vaughan 2016). some people appear at supervised release interviews living under a final 
+but  unexecuted order  of  removal. under  existing procedures,  ice  need  not  provide  an 
+opportunity for a new hearing even if the person has resided in the united states for most of 
+his or her life. discretion given can be discretion withdrawn. the laws finality means that 
+an individual may not be able to argue that a change in the interpretation of the immigration 
+consequences of a conviction should now prevent her removal. congresss desire to create 
+absolute categories of removable people and the elimination of many of the discretionary 
+forms of relief have combined to create a rigid system where the persons lack of ties to 
+any other nation, the citizenship of her children, and her long-term residence in the united 
+states are irrelevant to the removal adjudication process.
+
+343
+
+immigration adjudication: the missing rule of lawperhaps congress has not given the border officers sufficient alternatives. if a person seeking 
+protection appears at the us-mexico border and has no visa to seek admission, the system 
+forces cbp to place her into some form of removal. there are many reasons congress 
+and the agencies have chosen the path of detention and expedited removal. the primary 
+argument is that the use of these tools will deter unlawful entrants. the evidence is mixed. 
+the united states has never experienced the massive movements of people comparable 
+to the millions seeking protection as they flee iraq, afghanistan, and syria, or the millions 
+displaced or threatened within africa or asia. 
+and, the current expedited removal status is actually not well suited when the united states 
+receives large numbers of people with strong claims for protection. cbp takes the position 
+that  if  someone  arrives  at  a  port  of  entry  or  a  border  crossing,  and  has  no  documents 
+that authorize admission to the united states, it has no authority to allow them to seek 
+asylum or similar protection. instead, cbp maintains that people in this system or those 
+apprehended within 100 miles of the border, must be placed in expedited removal and 
+detained. in a recent memorandum, the trump administration seemed to be considering 
+whether to refuse even those who have a credible fear and to arrange for the use of video 
+conferencing hearings from mexico (kelly 2017).20
+the statutes and regulations have created a system where, once a statement of fear is made 
+and recorded in a short q and a, cbp holds the individual for a credible fear assessment 
+made by an asylum officer from the uscis that processes refugee and asylum claims. in 
+some instances that means a face-to-face interview with an asylum officer and in others, 
+it may mean a video teleconference. there is no right to counsel in the process but in 
+some situations, cbp will allow an attorney to sit with the applicant and take notes. if the 
+asylum officer finds the person has met the initial threshold, he or she will continue to be 
+detained while a removal hearing to seek protection is scheduled. but if the assessment is 
+a denial of the credible fear, then the applicant may seek a review of that determination by 
+an immigration judge. there is no appeal from this decision, and only if the immigration 
+judge finds a credible fear, will the individual proceed to a full hearing. 
+at the time of its design, this system seemed like an appropriate way to weed out weak 
+claims  with  little  likelihood  of  success  on  the  merits.  congress  created  the  expedited 
+removal system to provide the federal government with tools to adapt to large numbers 
+of arrivals, but for nearly 15 years dhs has expanded its use of expedited removal as a 
+basic tool of enforcement. expedited removal is used both for the asylum seeker and the 
+entrant refused admission at a border or between official ports of entry. during many of 
+those years, the dhs would allow people to be released pending the asylum adjudication; 
+some  were  released  with  ankle  monitors,  some  posted  bond,  and  some  on  their  own 
+recognizance. but as the numbers of people seeking protection escalated in the summer 
+of 2014 due to the growing violence and collapse of civil society protections within the 
+northern triangle of central america, the system could not keep up with the volume of 
+people seeking protection. 
+at first, the us government responded both with an acknowledgement that the movement 
+was a humanitarian crisis and by attempting to deter more asylum seekers. initially, cbp 
+
+20   see generally, ina  235(b)(2); 8 u.s.c.  1225(b). 
+
+344
+
+journal on migration and human securityreleased adults traveling with small children, but continued removal proceedings against 
+them  as  inadmissible  aliens.  but  as  the  numbers  grew,  the  dhs  began  to  build  more 
+detention facilities (gilman 2016).
+
+table  1.  us  border  patrol  southwest  family  unit  and 
+unaccompanied  alien  children  apprehensions  fy  2013 
+to fy 2016
+
+unaccompanied children
+family units
+individuals
+totals
+source: cbp (2016a). 
+
+fy 13
+38,759
+14,855
+360,783
+414,397
+
+fy 14
+68,541 
+68,445
+342,385
+479,371
+
+fy 15
+39,970 
+39,838
+251,525
+331,333
+
+fy 16
+59,692 
+77,674
+271,504
+408,870
+
+2011
+1,394
+1,565
+974
+
+2012
+3,314
+3,835
+2,997
+
+2013
+5,990
+8,068
+6,747
+
+2016
+2017
+2014
+2015
+2010
+16,404 9,389
+17,512 1,776
+1,910
+17,057 13,589 18,913 2,308
+1,517
+18,244 5,409
+10,468 1,367
+1,017
+13,724 11,768 13,974 17,240 15,634 11,012 11,926 1,205
+18,168 15,701 24,120 38,045 67,339 39,399 58,819 6,656
+
+table  2.  us  border  patrol  southwest  unaccompanied 
+child arrivals fy 2010 to fy 2017
+southwest border apprehensions
+country
+el salvador
+guatemala
+honduras
+mexico
+total
+source: cbp (2016b).21 
+the obama administration sought to deter children and women with small children from 
+making the dangerous trip and insisted that all adults traveling with children would be 
+detained  pending  the  expedited  removal  process.  this  led  to  a  legal  challenge  to  the 
+adequacy and fairness of the expedited removal process. 
+the united states is not alone in struggling to adapt asylum adjudication procedures to 
+large numbers of people.22 however, the combination of expedited removal, mandatory 
+detention, obstacles to legal representation, and evidentiary restrictions abridges human 
+rights. the fact that congress also precluded extensive judicial inquiry into the process 
+
+21   totals added by author and last accessed in december 2016. the page contents have changed with the 
+new administration.
+22    while  asylum  applicants  at  the  border  have  dramatically  increased  since  2014,  the  totals  are  much 
+smaller than the movements of millions of people fleeing iraq, syria, afghanistan, south sudan, eritrea, the 
+central african republic, or many other refugee source nations. the unhcr (2016) estimates that more 
+than 65 million people are forcibly displaced person. the united states needs to recommit to the protections 
+enshrined in humanitarian treatise such as the refugee convention and not allow numbers alone to cause us 
+to abandon these commitments. 
+
+345
+
+immigration adjudication: the missing rule of lawand  that  at  least  one  circuit  court  of appeals  agrees  with  those  limits,  creates  a  zone 
+of adjudication without any of the key protections or process of an adjudication system. 
+efficiency seems to be the paramount, singular goal.
+in a comprehensive evaluation published in the summer of 2016, uscirf reported that 
+the  expedited  removal  system  remains  flawed  and  expressed  concerns  about  both  the 
+operation of the system and the increasing use of detention and video technology to conduct 
+interviews by asylum officers (cassidy and lynch 2016).23 authorized by congress, in 
+part, to observe and evaluate the expedited removal process, uscirf has proposed ways 
+to increase transparency and ensure greater procedural protections. however, many of its 
+recommendations have not been adopted. there is no other external regular assessment or 
+review mechanism for this process. in short, expedited removal operates outside the rule 
+of law. 
+while courts have been reluctant to find that newcomers are entitled to a constitutional 
+minimum of procedural protections, some new entrants are different in quality and nature 
+than others. some have family here. some have no safe place to return to or are particularly 
+vulnerable, such as young children. the obscurity of the expedited removal process hides 
+its substantial problems. all removal procedures should generate an administrative record. 
+yet, at present, expedited removal paperwork is very limited and completely controlled 
+by  the  cbp  inspectors.  others  have  suggested  that  all  interviews  be  recorded.  even  if 
+the united states valued speedy adjudication over additional process, it should allow a 
+process for administrative review, submission of additional evidence, and review of the 
+determination. if an individual was not seeking admission based on a claim for protection, 
+this later review might be initiated while the applicant is abroad. at the current time, there 
+is only an opaque process insulated from assessment and review.
+furthermore, if the united states chooses to use an expedited process, it should adequately 
+staff adjudication teams to interview, investigate, and determine who might need temporary 
+admission and who might deserve permanent protection. congress should also give cbp 
+and the asylum corps more options to respond to the protection needs of people at the 
+border. for example, the united states could expand its use of temporary admission via 
+parole. the united states could also expedite its adjudication process to help bona fide 
+refugees present and complete their claims for protection.
+if  speed  becomes  important  for  security  concerns  or  due  to  emergency  situations,  our 
+system should have the flexibility to deploy more resources quickly and to use tools like 
+priority dockets to move urgent cases first. at the current time, the underfunded courts are 
+mostly disrupted when they try to move judges to needed areas and to move categories 
+of cases to the front of the line. the repeated impact is to delay the adjudication of many 
+other cases and to waste time and court resources in deciding which cases to prioritize. if 
+the dhs attorneys are more engaged in the case-by-case decisions and if they are given 
+greater options for outcomes, the system will both be more flexible and be better able to 
+address emergent needs. 
+
+23   the uscirf is the only entity that has been given access to carefully study the operations of the expedited 
+removal system. the report by cassidy and lynch (2016) calls upon congress and the dhs to regularly 
+investigate operations and to improve internal oversight.
+
+346
+
+journal on migration and human securityit is possible that generous adjudications and temporary admissions at our borders might 
+encourage too many people to seek admission. but the current system screens out with a 
+blunt removal and a bar for five years. the person who succeeds in entering illegally then 
+becomes both a criminal and is barred potentially for life. in short, the pendulum has swung 
+too far in one direction. 
+
+3. the system must see the whole person not merely examine the 
+
+mode of entry
+for many, the legal process authorized is completely controlled by the original means of 
+entry and has little or nothing to do with current ties to the united states. if a child is brought 
+to the united states with her parents under the visa waiver program, he or she is bound 
+by the waiver of her parents. even half a lifetime later, that child can be removed without 
+any hearing. people previously ordered removed, after a few minutes of paperwork at an 
+airport, could be subjected to reinstatement of removal even after 20 years of residence and 
+the us citizenship of her children. long-term residents, with or without permission, almost 
+never acquire any equitable authority to limit the power of the us government to remove 
+them, especially if they are convicted of any criminal conduct.
+a traditional hallmark of due process is to assess the property or liberty interest at risk and 
+to ask if the government has a right to interfere with the individuals interest. while the 
+supreme court has recognized since 1903 that even aliens are entitled to due process in 
+deportation proceedings when the person is residing in the territory, it has unfortunately 
+refused to use substantive due process to cut off the right of the federal government to 
+deport. no matter the length of residence, no matter the hardship upon removal, courts have 
+repeatedly concluded that the due process clause is insufficient to provide a shield from 
+removal. instead we have relied on procedural surrogates to provide long-term residents 
+with procedural protections such as hearings or burden shifting. 
+congress  has  been  unwilling  to  allow  noncitizens  to  apply  for  waivers  of  deportation 
+or  regularization  of  status  when  they  are  convicted of  certain  crimes  or  in  punishment 
+for illegal entry after removal. while there are a few exceptions for victims of crime or 
+domestic violence or for those who can demonstrate a probability of severe harm or torture, 
+in the main, far too many long term-residents lack a remedy in immigration court.
+the  system  needs  to  provide  more  options.  the  empirical  data  indicates  that  the  vast 
+majority of people residing without status in the united states live in mixed households.24 
+some family members are citizens, while some are permanent residents. moreover, the 
+united  states  has  two  statutory  provisions  that  establish  significant  barriers  to  status 
+through the legal immigration system. since 1996, the united states has punished people 
+who overstayed a grant of status by more than one year with a 10-year bar if they depart. 
+if the system removed this single provision, hundreds if not thousands of people could 
+seek status through family and employer petitions as they did prior to 1996. it should also 
+provide tools for dhs officials to grant permanent residence to people residing within the 
+united states who cannot obtain status due to technical violations or an original failure 
+24   according  to  warren  and  kerwin  (2017),  there  are  5.3  million  us  households  with  undocumented 
+residents, and they are home to 5.7 million us-born children. 
+
+347
+
+immigration adjudication: the missing rule of lawto enter with a valid visa. dhs has a limited parole in place program, which allows the 
+spouses and parents of us military on active duty to regularize status. if these individuals 
+had to depart the united states and travel abroad to apply for a visa, their departure would 
+trigger  a  permanent  or  10-year  bar  to  reentry.  some  view  discretion  as  rewriting  the 
+immigration laws. if so, congress could always authorize parole more broadly or create 
+more exceptions and interior waivers of the draconian departure bars. 
+
+4. a statute of limitations is essential
+
+one of the oldest constraints on civil law is the legislatures ability to limit litigation by 
+forcing the parties to litigate before the claims go stale. statutes of limitation are, in part, 
+intended  to  preserve  the  accuracy  of  evidence  and  the  ability  of  adjudicators  to  serve 
+a truth-seeking function  time dims memories. the statutes also serve the interest of 
+finality and certainty. if an old debt has never been pursued, for example, the debtor is free 
+to deploy the assets elsewhere. if a title was transferred with a stain or lien, as the years go 
+by, the new owner can be certain he or she possesses a clear title and the value of the asset 
+is preserved or enhanced. 
+in the us immigration system, this concept has been almost completely lost. in the early 
+years of immigration law, the power to deport was limited to those who committed fraud at 
+entry or committed an offense within the first few years after entry. there are still vestiges 
+of  the  concept  in  some  portions  of  the  ina. a  single  offense  may  render  a  noncitizen 
+deportable if committed within five years of entry but not afterward unless a second offense 
+follows. but as the list of deportable offenses grew, few came with any temporal limit.
+the us immigration system should afford a sense of finality and security to persons who 
+have built strong equitable ties and lived in the united states for many years. if long-
+term residents commit a crime, the criminal justice system has the tools to punish them. 
+however, to deport a person after years of residence makes a mockery of the claim that 
+removal is not punishment but a civil sanction.
+
+5. a path to regularization
+
+the vast majority of people in removal proceedings entered without a visa or overstayed 
+a period of temporary admission. for some, the commencement of a removal proceeding 
+might  unlock  a  door  to  status  through  cancellation  due  to  exceptional  and  extremely 
+unusual  hardship  to  a  us  citizen  or  permanent  resident  relative. yet,  cancellation  for 
+someone who has not held lawful permanent resident status is limited to 4,000 cases a year 
+and for people who have resided in the united states for a minimum of 10 years.25 these 
+numbers are usually used within the first 30 days of each year.
+
+25   ina  240a(b); 8 u.s.c.  1229b provides for cancellation of removal for a person who can meet the 
+strict criteria but the relief is only available in removal proceedings and is capped at 4,000 per year. there are 
+other forms of cancellation for the lawful permanent resident who has seven years of physical presence and 
+for victims of domestic violence. see generally ina  240a(a) and (c); 8 u.s.c.  1229b(a) and (c). but these 
+opportunities for relief also are restricted by bars to eligibility for some forms of criminal behavior, even if 
+the person is able to demonstrate rehabilitation.
+
+348
+
+journal on migration and human securityrather than placing people into the adversarial cauldron of a removal proceeding, dhs 
+should have options for interviews and assessment. the agency could give individuals a 
+deadline to apply for status and then pursue the usual background checks and evaluation of 
+character and relationships as it already does in many cases. if the individual has committed 
+serious crimes that have not been prosecuted or is a risk to national security, dhs can make 
+a determination of whether the person should be removed. but the presumption should 
+be that long-term residents would be vetted and integrated, not deported. congress could 
+make this option a reality. the political conversation is a complex one but a path to status 
+offers a huge incentive and vehicle for tax compliance, transparency, reporting, military 
+service, family stability, and economic growth. the power to grant status may be the single 
+best incentive for participating in the court process. conversely, the more difficult it is to 
+qualify for status, the less effective it will be in promoting court adjudications. 
+
+6. a right to counsel
+
+processing times for non-detained cases can take years, given the massively backlogged 
+court dockets. in cities like los angeles or new york, it is not uncommon for adjudication 
+to require more than three years. however, more people are represented and ultimately 
+successful in securing a remedy or relief from removal in these cities. the complexity of 
+the adjudication process and the underlying law makes counsel a necessity. in a survey of 
+ijs by acus, more than 80 percent reported that competent counsel improved the courts 
+operations (benson and wheeler 2012).26 
+the new york immigrant family unity project has been providing universal representation 
+to all indigent new yorkers in regional detention for nearly four years. before the project 
+began, fewer than 3 percent of the individuals secured any relief from removal. at present, 
+approximately  30  percent  of  the  individuals  in  removal  proceedings  either  defeat  the 
+governments charges or win discretionary relief.27 there are too many variables to predict 
+similar results in every locality, especially where the substantive law can vary by federal 
+circuit rulings. in new york city, a high percentage of the cases involve people who have 
+applied for asylum affirmatively and are seeking review of their application, or were placed 
+into removal due to a determination during a benefits application that their case presented 
+a problem. the length of residence of the people, the existence of some waivers based on 
+family relationships, the skills of the attorneys presenting asylum claims  these variables 
+likely explain the differential in outcomes. 
+but  the  evidence  that  counsel  makes  a  difference  is  dramatic.  transactional  records 
+access clearinghouse (trac) data center at syracuse university has a standing freedom 
+of information act (foia) request for the data and outcomes in juvenile cases. it appears 
+that when a juvenile has an attorney in immigration court, he or she is 17 more times likely 
+to secure a termination of the proceeding. these terminations are largely issued because 
+the juvenile was granted a benefit such as special immigrant juvenile status or another visa 
+or was able to secure asylum affirmatively at the uscis office. phrased another way, in 
+26   see also shannon (2014) and thomas and benson (2016), which discusses the importance of counsel. 
+27   testimony of jennifer friedman of bronx defenders to the new york city council, on behalf of the new 
+york immigrant family unity project, dated march 22, 2017, on file with author. this project is funded by 
+the city of new york and does not receive federal funding.
+
+349
+
+immigration adjudication: the missing rule of lawthe cases completed in fy 2015, a child was ordered removed in 34 percent of the cases 
+without counsel and only 5 percent of the cases with representation.
+unfortunately congress has not authorized paid counsel for children and recent litigation 
+seeking government-appointed counsel was dismissed. a panel of the ninth circuit court 
+of appeals ruled that congress required cases to begin with the immigration courts, to 
+exhaust the administrative appeals process, and only then to avail themselves of the courts 
+of appeal.28 the litigation seeking a class action declaring children were entitled to the 
+appointment of counsel had begun in the federal district court. so congress, perhaps in an 
+effort to preserve judicial efficiency, has instead, created a situation where thousands of 
+children will have to hire counsel or hope for pro bono assistance or simply preserve the 
+issue of a need for counsel in the individual immigration hearings. the result is particularly 
+perverse  because  most  remedies  available for  these  juveniles are  found  in  fora  outside 
+the court in applications for relief made before other bodies such as the asylum office or 
+family courts. but children in removal proceedings have no knowledge of those external 
+procedures and the immigration judges are powerless to grant relief directly.
+
+table  3.  fy  2015:  outcomes  in  juvenile  cases  in  all 
+immigration courts* 
+removal  
+fy 2015
+order
+6,695 
+39% of the 
+completed 
+cases
+
+prosecutorial 
+discretion
+269
+15.7% 
+
+term- 
+ination
+5,148
+30%
+
+other closure relief
+
+4,364 
+25.5%
+
+90 
+.5%
+
+total of all 
+juvenile cases: 
+31,075 (pending 
+as of mar. 2017: 
+13,973)
+17,102 completed 
+unrepresented
+9,819
+
+represented
+21,256
+
+ 5,905 
+34% of the 
+completed 
+cases
+791 
+4.6%
+more than 
+8 times 
+greater risk 
+of removal 
+order for 
+unrepresented.
+
+21
+.01%
+
+248
+1.45%
+
+2 
+.01%
+
+88 
+.5%
+44 
+times
+
+284 
+1.6%
+
+4,864 
+28%
+17 
+times
+
+367 
+2.1%
+
+3,997 
+23.3%
+10 times 
+greater 
+likelihood of 
+success then 
+unrepresented
+
+*fifty-five  percent  of  the  juvenile  cases  initiated  in  fy  2015  were  completed  during  the  year.  not 
+all  removal  orders  are  executed.  juveniles  may  receive  an  administrative  closure  or  after  an  order 
+of  removal  or  deferred  departure.  political  asylum  is  the  most  common  form  of  relief  granted 
+in  these  cases.  termination  usually  occurs  with  ice  consent  based  on  relief  pending  at  uscis. 
+source: trac (2017), using the data from 2015.
+
+28   j.e.f.m. v. lynch, 837 f.3d 1026 (9th cir. 2016). a petition for en banc review is pending as of march 
+2017.
+
+350
+
+journal on migration and human securitylegal counsel increases rates of relief from removal. in addition, there is strong evidence 
+that providing counsel would save time and money for the federal government (montgomery 
+2014).29 counsel would not be able to secure relief for every person but they can advise the 
+individual about his options and in many cases this may result in fewer nights in detention 
+and shortened proceedings. as mentioned, if the ice trial counsel adopted a culture of 
+negotiation, it is likely that the delays inherent in the system now would be reduced. at 
+present, more than one-half of all the continuances granted by ijs are issued to allow the 
+individual time to try to secure counsel (benson and wheeler 2012).
+
+7.  reconsider  the  growing  criminalization  of  immigration 
+
+violations
+despite the fact that the majority of removal orders are issued in an expedited or purely 
+ministerial fashion, the long-term consequences for the individuals who are subject to these 
+orders can be quite extreme. people who reenter the united states after an order of removal 
+are subject to criminal prosecution for a felony. immigration violations are primarily civil 
+law violations. yet, in the past 10 years, the federal government has chosen to use criminal 
+sanctions against those who illegally reenter. in fact, it is the single largest category of 
+criminal prosecution in the entire federal system and the fastest growing category of any 
+crime.  in  fy  2016,  the  us  federal  courts  entertained  prosecutions  for  illegal  entry  (a 
+misdemeanor) and criminal reentry (a potential felony) in nearly 69,000 cases (us district 
+courts 2016).30 the next closest category of federal prosecutions was for drug crimes, with 
+fewer than 20,000 cases. 
+a truncated, summary removal order issued by a cbp inspector one day can result in a later 
+felony conviction if the individual tries to reenter the united states the next day. further, 
+these criminal prosecutions can carry significant sentences. the federal public defenders 
+have developed an entire body of law collaterally attacking the legitimacy of the initial 
+expedited removal to help diminish or eliminate the criminal sanction that can follow from 
+that order. the defenders have sought to show that the expedited removal process violates 
+basic tenets of procedural due process as the system can be prone to errors of fact and of 
+application of law. a panel of the ninth circuit recently ruled that although the system of 
+expedited removal may be swift, it does not violate the due process rights of recent unlawful 
+entrants because congress may largely define the scope of process and the constitution, 
+while guaranteeing due process of law to all people may not attach to recent entrants.31
+
+8. end detention as part of the pre-trial removal process
+
+the  growth  of  civil  detention  in  immigration  cases  is  exponential  and  expensive.  the 
+funds  used  to  detain  and  control  nearly  500,000  people  annually  could  be  better  spent 
+
+29   montgomery (2014) concludes that counsel reduces delays and detention and would be cost effective and 
+might produce savings.
+30   one analysis of the data states that as of the end of fy 2016, 52 percent of all criminal cases in the federal 
+district court are related to immigration (trac 2016). 
+31   see united states v peralta-sanchez, 847 f3d 1124 (9th cir. 2017), on collaterally attacking an order of 
+removal in a subsequent criminal prosecution. petition for en banc review pending.
+
+351
+
+immigration adjudication: the missing rule of lawin  providing  resources  to  the  adjudicators.  there  is  no  true  justification  for  wholesale 
+detention  of  noncitizens.  congress  has  traditionally  justified  detention  as  necessary  to 
+ensure attendance at removal hearings or to protect public safety. for those people who are 
+in detention related to a conviction in the criminal justice system, the dhs could prioritize 
+completing the removal process.32 if dhs relied more heavily on proven and promising 
+alternative to detention programs, some of the worst aspects of the removal system would 
+be eliminated.
+
+conclusion  a dark territory 
+immigration law operates in the darkness beyond the reach of due process protections, 
+accuracy, fairness, and transparency. record numbers of immigrants live in the united 
+states, but far too often they reside in a legal territory which the light does not reach. this 
+essay has highlighted some of the characteristics of the us removal system. it outlines 
+this systems lack of substantive protections and its overreliance on hidden and expedited 
+processes. it argues that this system needs to be redesigned to reflect the rule of law. the 
+system needs to be exposed to the light of day.
+

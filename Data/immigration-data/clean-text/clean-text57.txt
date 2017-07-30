@@ -1,0 +1,639 @@
+problems faced by mexican 
+asylum seekers in the united 
+states
+
+j. anna cabot
+asylum and human rights clinic, university of connecticut
+
+executive summary
+violence in mexico rose sharply in response to president felipe calderns 
+military  campaign  against  drug  cartels  which  began  in  late  2006.  as  a 
+consequence,  the  number  of  mexicans  who  have  sought  asylum  in  the 
+united  states  has  grown  significantly.  in  2013,  mexicans  made  up 
+the  second  largest  group  of  defensive  asylum  seekers  (those  in  removal 
+proceedings) in the united states, behind only china (eoir 2014b). yet 
+between  2008  and  2013,  the  grant  rate  for  mexican  asylum  seekers  in 
+immigration court fell from 23 percent to nine percent (eoir 2013, 2014b). 
+this paper examinesfrom the perspective of an attorney who represented 
+mexican asylum seekers on the us-mexico border in el paso, texasthe 
+reasons for low asylum approval rates for mexicans despite high levels of 
+violence in and flight from mexico from 2008 to 2013. it details the obstacles 
+faced by mexican asylum seekers along the us-mexico border, including 
+placement in removal proceedings, detention, evidentiary issues, narrow 
+legal standards, and (effectively) judicial notice of country conditions in 
+mexico.  the  paper  recommends  that  asylum  seekers  at  the  border  be 
+placed  in  affirmative  proceedings  (before  immigration  officials),  making 
+them eligible for bond. it also proposes increased oversight of immigration 
+judges. 
+
+introduction
+over the past seven years, mexican citizens have faced escalating violence from organized-
+crime  groups,  military,  and  government  officials.  many  have  fled  to  the  united  states 
+seeking protection.  in the united states, they frequently endure prolonged detention and an 
+asylum system that is unresponsive to the danger they have escaped. this paper discusses 
+specific barriers faced by mexicans in the us asylum system from the perspective of an 
+attorney who represented mexican asylum seekers on the us-mexico border in el paso, 
+texas from 2011 to 2013. it addresses impediments to asylum at various stages of the 
+process and makes recommendations on how the system can be reformed.  
+
+ 2014 by the center for migration studies of new york. all rights reserved.jmhs volume 2 number 4 (2014): 361-377the drug war in mexico
+when felipe caldern was elected president of mexico in 2006, drug trafficking networks 
+were well-established throughout the country (bonner 2012). almost immediately upon 
+taking  office  caldern  initiated  a  war  on  drug  trafficking  and  violence  skyrocketed. 
+calderns  highly  militarized  offensive  sought  to  target  the  leaders  of  drug  trafficking 
+organizations  (dtos)  as  a  means  to  splinter  these  networks,  which,  in  turn,  created 
+between  60  and  80  new  dtos  (the  guardian  2012). the  birth  of  new  dtos  kindled 
+succession struggles and battles for territory (lee 2014).  the dtos expanded their reach 
+into central america, and branched out into extortion and kidnapping (beittel 2013). it has 
+been estimated that at least 120,000, and possibly more than 130,000, people were killed as 
+a result of the drug war between 2007 and 2012 (molloy 2013). of these homicides, 11,400 
+took place in ciudad jurez. the mexican government estimates that an additional 27,000 
+people have officially disappeared. the rate of homicide grew from 24 per day in 2007 to 
+
+75 per day in 2011 (ibid.).1 in 2011, according to some reports, mexican cities made up five 
+
+of the top 10 most violent cities in the world, with ciudad jurez the highest at number two 
+(seguridad, justicia y paz 2012). up to 220,000 people left their homes in ciudad jurez 
+between 2007 and 2010, and some sources claim that 1.6 million people were internally 
+displaced in mexico as of 2011 (internal displacement monitoring centre 2011). 
+in  addition  to  the  violence  perpetrated  by  organized-crime  groups,  there  have  been 
+pervasive  human  rights  violations  committed  by  the  military  and  police  forces  across 
+mexico. complaints of torture and ill treatment by federal and military officers more than 
+quadrupled between 2007 and 2011, according to the mexican national human rights 
+commission  (cndh)  which  received  a  total  of  4,841  complaints  during  this  period 
+(amnesty  international  2012).  these  reports  do  not  account  for  offenses  committed 
+by  municipal  police  for  which  there  is  no  systematic  data  collected,  though  there  are 
+approximately three times more non-federal officers in the country. widespread corruption 
+amongst security forces and in the judicial sector, and the deference to military justice, has 
+led to general impunity for human rights abuses (us department of state 2012). 
+as  early  as  2008,  media  reports  described  mexico  as  susceptible  to  becoming  a  failed 
+state, and united states lawmakers had begun to question its integrity and viability (abbott 
+2011). the united states has contributed to the mexican conflict. ninety percent of illegal 
+
+firearms in mexico come from the united states,2 and mexico is the united states number 
+one supplier of marijuana, methamphetamine and cocaine.3 in june 2008 congress passed 
+
+the mrida initiative, a three-year, $1.4 billion security assistance program to stem drug 
+trafficking and organized crime in mexico, central america and the dominican republic 
+1    the  numbers  are  reported  by  the  mexican  media  and  inegi,  mexicos  national  statistical agency. 
+according to the justice in mexico project at the university of san diego, the number of deaths reported 
+is often politicized and difficult to accurately ascertain due to empirical and methodological challenges in 
+attempting to define and measure drug- and organized crime-related violence as a specific phenomenon 
+(molzahn, rodrguez ferreira and shirk 2013).
+2   ford, jess t. testimony before the subcommittee on the western hemisphere, committee on foreign 
+affairs, house of representatives. firearms trafficking: us efforts to combat arms trafficking to mexico 
+face planning and coordination challenges, 19 june 2009. http://www.gao.gov/new.items/d09781t.pdf. 
+3   perkins, kevin l. and anthony p. placido. testimony before the  us  senate caucus on international 
+narcotics  control,  5  may  2010.  http://www.fbi.gov/news/testimony/drug-trafficking-violence-in-mexico-
+implications-for-the-united-states. 
+
+362
+
+journal on migration and human security(seelke and beittel 2009). in 2011, the obama administration pledged an additional $500 
+million for that year (office of national drug control policy, n.d.). the priorities of the 
+mrida initiative in mexico, which include further securing the southern us border and 
+supporting  the  militarization  of  the  drug  war  in  mexico,  have  come  under  significant 
+criticism  because  of  their  lack  of  any  measures  to  reduce  demand  for  drugs  or  supply 
+of  illegal  weapons  (abbott  2011,  7).  furthermore,  only  15  percent  of  the  funding  was 
+dependent on mexico meeting human rights standards (ibid., 8). 
+despite  the  multi-year,  multi-national  and  multi-billion  dollar  intervention  to  combat 
+drug trafficking, violence in mexico remains at a humanitarian crisis level. the number 
+of homicides in 2012 was more than three times that of 2007. following the succession of 
+enrique pea nieto as president of mexico in december 2012, initial data indicated nearly 
+the same level of violence in the first seven months of 2013 (molloy 2013). the escalation 
+of the drug war in mexico has had a brutally predictable effect: mexican people have fled 
+the country and sought protection in the united states, canada and elsewhere. 
+
+asylum claims brought by mexican citizens in the united 
+states
+us  asylum  claims  are  considered  in  two  different  ways. an  individual  may  apply  for 
+asylum affirmatively if they have never been apprehended by immigration officials. in this 
+process, the claimant files an application with the us citizenship and immigration services 
+(uscis) asylum office within one year of entry. affirmative asylum seekers are given a 
+non-adversarial interview with an asylum officer. individuals who have been apprehended 
+by  immigration  officials  and  placed  in  removal  proceedings  must  apply  defensively. 
+under this process, the claimant files an application with an immigration court and has a 
+hearing before an immigration judge. 
+the defensive process also applies to individuals who request asylum at or near a port of 
+entry or border. persons apprehended at or near the border or who are stopped at a port-
+of-entry face expedited removal unless they state an intention to apply for asylum or 
+express a fear of return to their country or origin to a customs and border protection (cbp) 
+official.  cbp must refer persons who satisfy this initial requirement to the asylum office 
+for a credible fear interview.  in this interview, an asylum officer determines whether 
+there is a significant possibility that they could establish eligibility for asylum before an 
+immigration judge. if the claimant meets the credible fear standard, the case proceeds to a 
+removal hearing in immigration court where the claimant can apply for asylum.   
+earlier studies have pointed out the low mexican asylum filing numbers and approval rates 
+during the early years of the drug war, as well as extremely high numbers of withdrawn 
+asylum claims (kerwin 2012, 25).  in 2013, the rate at which all asylum seekers withdrew 
+their cases was 17.5 percent, while the rate for mexican asylum seekers was 30.8 percent 
+(eoir 2014a, 2014b).  it is difficult to account for this discrepancy precisely, but it is 
+likely that some of the difficulties (described below) which mexican asylum seekers face 
+in going through the system also function to pressure them to withdraw, including long 
+and arbitrary periods of detention, lack of representation in high density areas and waiting 
+years for hearings in non-detained courts due to backlogs. the withdrawal rate might also 
+
+363
+
+problems faced by mexican asylum seekers in the united statesbe disproportionate for mexican nationals for unrelated reasons like their ability to pursue 
+immigration status through an alternative path.
+in 2013 mexico was the second highest asylum seeker producing country, behind only 
+china  (eoir  2014b;  unhcr  2014).    some  asylum  denials  can  be  attributed,  in  part, 
+to narrow legal standards and the difficulty of sustaining claims based on the extortion, 
+kidnapping,  and  homicides  by  criminal  organizations  (buchanan  2010).  still,  despite 
+the dramatic increase in violence in mexico, the grant rate for mexican asylum claims 
+adjudicated in immigration court plummeted from 23 percent to nine percent between 2008 
+and 2013, and these numbers were, in turn, dwarfed by the numbers who withdrew their 
+
+claims (eoir 2013, 2014b).4  
+
+some  commentators  have  attributed  low  approval  rates  to  the  political,  military,  and 
+economic ties between the united states and mexico, and what they view as bias against 
+mexican asylum seekers reflected in political discourse, public opinion and media reports 
+(campos and friedland 2014; burns 2011; lccref 2009). asylum determinations are 
+strongly influenced by country conditions and human rights violations in sending countries 
+(salehyan  and  rosenblum  2008).    the  asylum  claims  of  citizens  of  us  allies  have 
+historically been more difficult to win than the claims of nationals from us government 
+foes or ideological opponents (ibid., 106). asylum seekers from us trading partners have 
+also had lower grant rates historically. 
+recent  political  attacks  on  asylum  seekers,  particularly  those  subject  to  expedited 
+removal,  have  focused  on  mexicans  and  central  americans  (campos  and  friedland 
+2014).  politicians  and  media  outlets  have  spoken  out  against  mexican  asylum  seekers, 
+calling them criminals and their asylum claims fraudulent (la jeunesse 2013). in response 
+to a fox news article in august 2013 claiming that mexican asylum seekers are gaming 
+the us immigration system, us senator jeff sessions (r-al) stated that the ability to seek 
+asylum at the border was destroying border enforcement. he went on to say:
+
+[w]hat we should say is, mexico is not a country that is persecuting people. its 
+a democracy and if anybody claims theyre being persecuted, we ought to call the 
+mexican  government  and  have  them  come  pick  them  up  and  protect  them  from 
+persecution. how in the world can we determine if someone deep in mexico has had a 
+run-in with a drug cartel? (poor 2013)
+
+these viewpoints have no explicit or formal influence over the asylum system, but they 
+may well influence immigration judges. indeed, a growing body of empirical research on 
+disparities in asylum grant rates has found strong evidence of country-specific adjudicator 
+bias  in  the  determinations  of  asylum  officers  and  immigration  judges  (rajmi-nogales, 
+schoenholtz, and schrag 2007). 
+
+4   a defensive asylum application is one that is filed with an immigration court after a noncitizen has been 
+placed in removal proceedings. the immigration court grant rate presented in this paper is calculated as a 
+percentage of all asylum claims decided in court for mexican asylum seekers on the merits (i.e., grants and 
+denials).  not all asylum cases decided in immigration court originated as defensive claims. if an affirmative 
+claim for asylum is not granted, then the case is referred to the immigration court. the grant rate statistics do 
+not reflect the high rate which mexican asylum seekers withdraw their cases.
+
+364
+
+journal on migration and human securitythe asylum process
+the  following  sections  describe  the  experience  of  mexican  asylum  seekers  at  various 
+stages of the asylum process. 
+
+entry
+recent  focus  on  comprehensive  immigration  reform  has  cast  renewed  attention  on 
+unauthorized migration. many asylum seekers from mexico enter the united states without 
+authorization, but an increasing number simply go to the nearest port of entry to ask for 
+humanitarian protection. the department of homeland security (dhs) reported that in 
+the first three quarters of fy 2013 there were more than 14,000 credible fear claims at the 
+border, in contrast to just under 7,000 for the whole of 2011 (skoloff 2013). this section 
+addresses how asylum procedures at the border disadvantage mexican asylum seekers. 
+
+defensive versus affirmative proceedings 
+
+a  significant  systemic  problem  that  mexican  asylum  seekers  face  at  the  border  is  that 
+they are placed in defensive, and not affirmative, asylum proceedings even if they have 
+no  criminal  or  immigration  history. this  broad  rule  disproportionately  affects  mexican 
+asylum seekers because of the large numbers of mexicans who seek asylum in this manner. 
+defensive proceedings take longer than affirmative ones. defensive proceedings are more 
+arduous and much more difficult to navigate without counsel. defensive proceedings also 
+expend more of the governments time and resources. a fairer, less burdensome process 
+would  simply  place  asylum  seekers  at  the  border  in  affirmative  proceedings.  asylum 
+seekers with criminal histories or other potential bars would be transferred to immigration 
+courts and there would be no greater risk of fraud than is already present in the system. 
+
+interview procedures
+
+persons seeking admission to the united states who express a fear of return to their country 
+of origin are interviewed by cbp officers about their claim for asylum. mexican asylum 
+seekers in this situation are often fleeing recent, traumatic events. the humanitarian crisis 
+in mexico has hit the border areas particularly hard. the safest, closest place of refuge is 
+often the united states for persons fleeing violence and many asylum seekers are able to 
+reach the border within hours of experiencing violence and persecution. when an individual 
+suffers trauma or violence, their ability to communicate and remember what happened to 
+them  is  naturally  interrupted  (chaudhary  2010).  cbp  interviews  occur  under  oath,  are 
+documented and asylum seekers must attest to their accuracy. once an asylum seeker has 
+been released or detained, a uscis asylum officer administers a credible fear interview 
+usually via videoconference. neither of these two interviews is recorded verbatim. they 
+are both paraphrased or summarized by the officer who conducted the interview. 
+interview procedures, which entail detailed statements, often lead to denied asylum claims 
+based on credibility. this issue is discussed in more depth in the section on adjudication in 
+immigration court. while immigration officials need to secure information from persons 
+
+365
+
+problems faced by mexican asylum seekers in the united statesseeking  protection,  the  interview  process  often  prejudices  the  asylum  seeker  without 
+benefiting immigration and customs enforcement (ice) or cbp. eliminating repetition, 
+being  more  sensitive  to  the  psychological  state  of  the  interviewee,  and  removing  the 
+pressure of attesting to the complete accuracy of the statement, would benefit the process 
+and lead to fairer and more informed decisions under the law.  
+
+language and literacy
+
+the interview procedures further jeopardize the rights of mexican asylum seekers who are 
+illiterate or whose first language is not spanish. written documents are a central part of the 
+border procedure, and illiterate asylum seekers are frequently pressured to sign documents 
+without receiving a full explanation. this includes notes documenting their own interviews 
+which have not been read back to them and which they have not had the opportunity to 
+correct.
+indigenous mexican asylum seekers are at a significant disadvantage. typically, members 
+of  indigenous  groups  in  mexico  grow  up  speaking  an  indigenous  language  while  only 
+having a rudimentary understanding of spanish. many cbp officers speak spanish, but 
+often  neglect  to  provide  interpretation  services,  as  required,  for  non-spanish  speakers. 
+when indigenous mexicans ask for asylum, cbp officers frequently interview them in 
+spanish, leading to miscommunication between the border official and the asylum seeker 
+and inaccuracies in the recorded interview. 
+asylum seeker r.m., for example, had the misfortune of being both illiterate and a non-
+native  spanish  speaker.  she  crossed  into  the  united  states  without  documentation  and 
+was apprehended and interviewed by a cbp officer. despite the extreme difficulty she had 
+speaking and understanding spanish, the officer did not secure an interpreter to conduct 
+the interview in r.m.s native language. before the interview started, the officer failed to 
+explain to r.m. her rights as required in a way she could understand. in the interview notes, 
+the officer made significant mistakes, often using answers given by other members of the 
+group with which r.m. was found, not her own group. at the end of the interview, the officer 
+did not read the notes of the interview back to r.m., yet nonetheless made her attest to their 
+accuracy. r.m. knew how to write her name, but not her initials, so the officer wrote her 
+initials on a scrap of paper, and r.m. painstakingly wrote them at the bottom of each page 
+of notes without knowing what the notes contained. at her immigration court proceedings, 
+the  government  attorney  raised  the  issue  of  inconsistencies  between  her  testimony  and 
+the cbp transcript, leading the immigration judge to question her credibility. providing 
+interpretation services, greater oversight of cbp interviews, and verbatim transcripts of 
+interviews would prevent bona fide refugees from being denied status. 
+
+ rights violations
+
+it is difficult to estimate the number of asylum seekers who have been illegally turned 
+away at the border since this information has not been collected systematically. however, 
+legal  practitioners  have  reported  that  some  asylum  seekers  have  been  threatened  with 
+incarceration and separation from their family at the time they make a protection claim, 
+
+366
+
+journal on migration and human securitywhile others have been turned away by cbp officers who have told them that the united 
+states is full. these responses highlight a disturbing fact: border agents have complete 
+authority over asylum seekers at the point of entry, and violations are extremely difficult 
+to remedy. 
+
+detention
+the  illegal  immigration  reform  and  immigrant  responsibility  act  of  1996  (iirira) 
+created the expedited removal system, which provides immigration officials with the 
+authority to remove summarily noncitizens who they encounter at or near the border who 
+lack proper documents (kerwin 2012; keller et al. 2005). to prevent the summary removal 
+of persons with bona fide protection claims, migrants who express a fear of returning to their 
+
+country of origin are entitled to a credible fear interview.5 during this interview, an asylum 
+race, religion, nationality, political opinion, or membership in a particular social group.6 
+
+officer  asks  a  set  of  questions  to  determine  whether  there  is  a  significant  possibility 
+that the migrant can demonstrate a fear of persecution on account of one of five grounds: 
+
+immigrants in expedited removal proceedings are subject to mandatory detention, but those 
+who are deemed to have a credible fear can be considered for release. a 1997 immigration 
+and naturalization service (ins) memorandum provides that parole is a viable option and 
+should be considered for aliens who meet the credible fear standard, can establish identity 
+and community ties, and are not subject to any possible bars to asylum involving violence 
+
+or misconduct.7
+
+although  asylum  seekers  who  are  found  to  have  a  credible fear  may  be  released from 
+detention, the standards for release are unreviewable and discretionary. this means that if 
+an immigration officer feels that an asylum seeker is a flight risk, he or she can continue to 
+be detained and the decision is not appealable. legal service providers on the border have 
+observed the frequent practice of selective detention for mexican families whose members 
+meet the credible fear standard and have no immigration or criminal history. a common 
+scenario is to detain the father, but to release the rest of the family, which makes it very 
+difficult for many families to sustain themselves and remain intact throughout the asylum 
+process.  though  the  non-detained  adult  family  members  may  be  able  to  secure  work 
+authorization, they frequently must care for young children and have fewer opportunities 
+to secure employment than the detainee would. 
+additionally, detained asylum seekers along the border are much less likely to be able to 
+secure legal representation. not only is it difficult to afford representation, but immigration 
+attorneys and organizations on the border are flooded with far more asylum seekers than 
+they can represent. as numerous studies have demonstrated, asylum seekers with legal 
+counsel prevail in their claims at far higher rates than those without representation (ramji-
+nogales, schoenholtz, and schrag 2007). the us commission on international religious 
+
+5   8 usc 1225(b)(1)(b)(5) (2004).
+6   section 235(b)(1)(b)(v) of the immigration and nationality act.
+7    immigration  and  naturalization  service  memorandum  from  michael a.  pearson,  executive associate 
+commissioner for field operations, office of field operations, to regional directors, district directors, 
+asylum office directors, expedited removal: additional policy guidance, 30 december 1997, reproduced 
+in interpreter releases 75: 270 (1998).
+
+367
+
+problems faced by mexican asylum seekers in the united statesfreedom, for example, found that 25 percent of represented asylum seekers over a four-
+year period who had been subject to expedited removal (arrested at or near the us-mexico 
+border)  received  asylum,  versus  just  two  percent  in  unrepresented  cases  (kuck  2005, 
+239).8 thus, it might be more accurate to say that, without counsel, asylum seekers cannot 
+craft viable claims. detention also negatively influences asylum approval rates (kerwin 
+2004). moreover, it concentrates asylum seekers in border communities. families typically 
+do not move away from the border when a relative is in detention there. mexican asylum 
+seekers, both detained and non-detained, are therefore heavily concentrated in the border 
+region. given all of these factors, asylum seekers often withdraw or abandon their claims 
+and chose to return home even if they possess a genuine fear of return. 
+the  united  states  should  change  its  policy  of  discretionary  release,  and  instead  make 
+release the norm and require justification to keep persons found to have a credible fear 
+in detention. problems associated with the standards for release from detention could also 
+be  addressed  by  greater  training  of  immigration  judges  and  judicial  review  of  custody 
+decisions in these cases. 
+
+reasonable fear interview procedures
+
+if a noncitizen expresses a fear of persecution or torture but cannot apply for asylum due 
+to a removal order or a prior removal, deportation, or exclusion order that is reinstated, 
+they can apply for withholding of removal or relief under the convention against torture 
+(cat). in these circumstances, they are entitled to a reasonable fear interview, which is 
+a more rigorous standard but similar procedurally to a credible fear interview.  however, 
+the  timeframes  in  which  the  two  interviews  are  conducted  vary  substantially.  in  2012, 
+97.99 percent of all credible fear decisions were completed within 14 days (uscis asylum 
+division 2012, credible fear fy 2009-fy 2012).  although the regulations require that 
+reasonable fear determinations take place within 10 days,9 the average time for a reasonable 
+fear decision in 2012 was 113 days (uscis asylum division 2012, questions and answers). 
+mexican nationals had the largest share of the reasonable fear decisions in every month 
+of 2012 (uscis asylum division 2012, credible fear and reasonable fear workloads). 
+the fact that mexico and the united states share a border means that it is much more likely 
+that people seeking asylum from mexico may have had a prior removal. 
+because  of  the  reasonable  fear  procedures,  many  mexican  asylum  seekers  often  spend 
+months in detention before they appear before an immigration judge. during this time, 
+individuals cannot request a bond from a judge because they are not yet in immigration 
+court proceedings, and they have no avenue for discretionary release because they have 
+not received a reasonable fear decision. asylum seekers, especially those who have been 
+persecuted or tortured by their own governments, often find detention to be intolerable. 
+many suffer from post-traumatic stress disorder and detention re-traumatizes them. this 
+can lead asylum seekers to give up on a genuine claim. furthermore, while asylum seekers 
+wait  for  a  reasonable  fear  decision,  they  are  not  yet  listed  in  the  automated  executive 
+8   a 2008 study by the united states government accountability office found that representation generally 
+doubled the likelihood of affirmative and defensive cases being granted asylum, after controlling for other 
+effects like nationality and immigration court location (gao 2008). 
+9   8 cfr  208.31(b).
+
+368
+
+journal on migration and human securityoffice for immigration review system, making it very difficult for legal service providers 
+to locate and represent them. 
+
+access to counsel
+despite the potential dangers of being deported to a country where they fear persecution, 
+indigent  asylum  seekers  have  not  yet  been  determined  to  be  categorically  eligible 
+for  government-funded  legal  counsel  (kerwin  2005).  difficulty  accessing  counsel  is 
+exacerbated for asylum seekers in detention or expedited removal proceedings. because 
+of the shortage of legal counsel, mexican asylum seekers experience notario fraud at high 
+rates. in mexico, a notario is a qualified attorney, whereas in the united states a notary 
+public  is  empowered  only  to  perform  such  duties  as  to  verify  identity,  make  certified 
+copies, and administer oaths. the concentration of mexican asylum seekers at and near the 
+border and the lack of affordable counsel leave them vulnerable to notary publics passing 
+themselves off as qualified attorneys. these notarios not only take money from mexican 
+asylum seekers under false pretenses, but often do harm to their asylum cases which cannot 
+be remedied. since notarios or people who claim to be notaries are not attorneys, they are 
+not subject to sanction by a bar association. in addition, it is often very difficult to convince 
+law enforcement to prioritize or even pursue any of these cases. some jurisdictions have 
+made efforts to educate asylum seekers and to encourage reporting and prosecuting these 
+crimes,  but  these  efforts  need  to  be  greatly  increased. additionally,  the  procedure  for 
+remedying the harm to the asylum seekers case by filing a motion to reopen should be 
+simplified and expanded. notario fraud should also be added to the list of crimes for which 
+an immigrant can get a u visa, a form of relief available for victims of criminal activity, 
+considering the dire consequences that can arise from it. 
+
+legal issues
+among many problems in us asylum law, there are two legal issues that specifically affect 
+mexican asylum seekers: the particular social group standard for asylum claims and the 
+meaning  of  acquiescence  to  torture  in  torture  convention  claims  when  government 
+agencies and officials do not uniformly support torture.  
+
+particular social group
+
+the 1951 convention relating to the status of refugees states that a refugees well-founded 
+fear of persecution must be for reasons of race, nationality, religion, political opinion or 
+
+membership in a particular social group.10 it is difficult for many mexican asylum seekers 
+
+to  prove  that  the  persecution  they  fear  or  suffered  fits  within  one  of  the  five  grounds, 
+though there are some cases, like those of human rights activists and journalists, which 
+fit  squarely  into  the  refugee  definition  (harville  2012;  garcia  2011;  buchanan  2010). 
+however, a significant number of mexicans seek protection because they resisted extortion 
+or recruitment by gangs or cartels, and us asylum law can be unwelcoming to people in 
+these situations (uchimiya 2013). particular social group claims under us law now require 
+
+10   1951 convention relating to the status of refugees, art. 1(a)(2).
+
+369
+
+problems faced by mexican asylum seekers in the united statesparticularity (a discrete, often smaller group) and social visibility to the wider community.11 
+
+these standards, which do not apply to any of the other grounds, make it more difficult to 
+prevail in these claims (kerwin 2012).  
+asylum seeker j.m. worked as an informant for the us drug enforcement administration 
+(dea) in ciudad jurez. after many years, the jurez cartel discovered he was an informant 
+and he had to flee for his life. despite his long service to them, dea agents reneged on their 
+
+promise to assist him with an s visa, and so he applied for asylum.12 the immigration 
+
+judge denied his request for asylum saying that the proposed social group of informants 
+was not acceptable because the nature of an informant is to hide your identity and therefore 
+the social group did not meet the visibility requirement. 
+
+acquiescence to torture
+
+immigration attorneys representing mexican asylum seekers often look to the possibility 
+of relief under cat when asylum is not available to their client. withholding or deferral 
+of removal under the convention requires a showing that a person will likely be tortured 
+if returned to their country of origin. the torture need not be on account of one of the 
+enumerated grounds of asylum. asylum requires that the persecutor either be the government 
+or an entity that the government is unwilling or unable to control. by contrast, eligibility 
+for cat relief requires that the pain or suffering be inflicted by or at the instigation of 
+or with the consent or acquiescence of a public official or other person acting in official 
+
+capacity.13  
+
+the most substantial barrier to cat relief stems from the fact that governments, especially 
+in  times  of  crisis,  do  not  act  monolithically.  in  mexico,  corruption  is  endemic  and 
+frequently  government  agencies  and  officials  work  at  cross  purposes.  us  asylum  laws 
+and  regulations,  however,  do  not  explicitly  instruct  judges  about  how  to  address  these 
+situations. immigration judges sometimes become confused when, for example, municipal 
+police might be trying to prevent torture, but the army is perpetrating it. the situation can 
+become more obscure if the municipal police are trying to prevent torture, but the army 
+knows of torture and is acquiescing to it. in both of these situations, judges have denied 
+cat relief on the basis that there are elements of the mexican government that are trying 
+to  prevent  torture.  judges  have  said  that  because  of  the  efforts  of  a  discrete  branch  of 
+government, the government (as a whole) cannot be acquiescing to torture. in addition, 
+government perpetrators are often treated as rogue officers. the idea of a rogue officer, 
+in particular, is contrary to the us civil rights definition of acts under color of law. 
+
+11   see matter of m-e-v-g-, 26 i. & n. dec. 227 2014 wl 524499 (b.i.a. 2014); matter of w-g-r-, 26 i. & 
+n. dec 208 2014 wl 524498 (b.i.a. 2014). 
+12   s visas are awarded to immigrants who work as informants for us law enforcement agencies.
+13   convention against torture and other cruel, inhuman or degrading treatment or punishment, art. 1., 
+dec.10 1984, 1465 u.n.t.s. 85, art. 1., 8 c.f.r.  208.18.
+
+370
+
+journal on migration and human securityadjudication in immigration court
+once mexican asylum seekers reach immigration courts, they confront additional barriers 
+in the form of lack of procedural rules, negative credibility decisions, and judicial notice 
+of  country  conditions  in  mexico. additionally,  long  delays  in  non-detained  courts  can 
+push mexicans who apply for asylum affirmatively beyond the one-year filing deadline, 
+a procedural rule requiring that asylum seekers file their applications within one year of 
+arriving in the united states unless  extraordinary or changed circumstances can be found 
+
+to warrant a delay.14 
+
+lack of procedural and evidentiary rules
+
+federal rules of evidence and procedure do not apply to the hearings of asylum seekers. 
+immigration courts are adjudicatory entities, but not independent courts constituted under 
+article  1  of  the  us  constitution. though  the  immigration  court  practice manual  and 
+the  immigration  judge  benchbook  and  other  publications  attempt  to  make  procedure 
+in  immigration  courts  uniform  and  predictable,  those  guidelines  are  not  binding.  the 
+immigration  court  practice  manual  says  explicitly  in  the  opening  chapter  that,  the 
+requirements set forth in this manual are binding on the parties who appear before the 
+immigration courts, unless the immigration judge directs otherwise in a particular case 
+[emphasis added] (office of the chief immigration judge 2013). 
+there  is  no  coherent  set  of  rules  for  immigration  courts.  immigration  courts  are  not 
+
+bound by the strict code of evidence;15 instead, relevance and fundamental fairness are the 
+only bars to admissibility.16 the immigration court practice manual also states that for 
+detained individual hearings, filing deadlines are specified by the immigration court.17 this 
+
+procedural flexibility allows immigration judges to influencefor better or worsethe 
+outcome of asylum hearings. denial of asylum based on unfair procedures is very difficult 
+to challenge at the appellate level. 
+
+judicial discretion regarding credibility findings
+
+in the wake of the real id act of 2005, the testimony of an asylum seeker may be 
+sufficient to sustain the applicants burden without corroboration, but only if the applicant 
+satisfies the trier of fact that the applicants testimony is credible, is persuasive, and refers 
+
+to specific facts sufficient to demonstrate that the applicant is a refugee.18 the ability of 
+
+an asylum seeker to corroborate a claim can be very difficult, especially if agents of that 
+government were involved in the persecution or torture. in addition, securing affidavits in 
+the mail from witnesses in war-torn countries can be extremely slow, if not impossible. 
+
+14   ina 208(a)(2)(b); 8 cfr 208.4(a)(2) and 1208(a)(2).
+15   matter of wadud, 19 i&n 182 (bia 1984).
+16   matter of ponce-hernandez, 22 i&n 784 (bia 1999); matter of toro, 17 i&n dec. 340 (bia 1980).
+17   immigration court practice manual, 3.1(b)(ii)(b); perkins, kevin l. and anthony p. placido. testimony 
+before the us senate caucus on international narcotics control, 5 may 2010. http://www.fbi.gov/news/
+testimony/drug-trafficking-violence-in-mexico-implications-for-the-united-states. 
+18   8 usc 1158(b)(1)(b)(ii).
+
+371
+
+problems faced by mexican asylum seekers in the united statesan  immigration  judge  may  consider  a  variety  of  factors  when  making  a  credibility 
+determination: 
+
+[t]he demeanor, candor, or responsiveness of the applicant or witness, the inherent 
+plausibility  of  the  applicants  or  witnesss  account,  the  consistency  between  the 
+applicants  or  witnesss  written  and  oral  statements  (whenever  made  and  whether 
+or  not  under  oath,  and  considering  the  circumstances  under  which  the  statements 
+were made), the internal consistency of each such statement, the consistency of such 
+statements with other evidence of record (including the reports of the department of 
+state on country conditions), and any inaccuracies or falsehoods in such statements, 
+without regard to whether an inconsistency, inaccuracy, or falsehood goes to the heart 
+
+of the applicants claim, or any other relevant factor.19
+
+all of these factors can lead to denials. for example, the demeanor of an asylum seeker 
+might be misjudged by an immigration judge because of cultural differences or trauma. in 
+other cases, a judge might doubt the plausibility of particularly horrific treatment because 
+they have not heard similar stories or entertained similar claims in the past. 
+many  mexican  asylum  seekers  are  in  defensive  proceedings  either  because  they  asked 
+for asylum at the border or asked for asylum after being apprehended in the united states 
+without immigration status. these individuals have had either a credible fear or reasonable 
+fear interview with an asylum officer, frequently by video conference. almost all of them 
+have also had a long in-depth interview with a cbp official, either at the border or when 
+they were arrested. as noted previously, these first interviews frequently occur within days 
+or hours of an initial trauma that causes the asylum seeker to flee his or her home. this 
+means that there are two detailed accounts of what happened to the asylum seeker already 
+on the record before the individual asylum hearing. under the real id act credibility 
+provisions, any inconsistencies between the statements, or the statements and the testimony 
+provided in court, can legitimately be used by the immigration judge to make a negative 
+credibility decision. 
+an applicant for cat relief, d.t., fled from his home in chihuahua with his family after 
+being shot in the arm by a member of the military. his wife had been beaten so badly that 
+she miscarried. the family fled to the us border and, from there, was taken directly to a 
+hospital where d.t. was cleaned up and given strong pain medication. he was then returned 
+to the border for his initial interview. in that interview he stated that the soldiers came to 
+his house in black trucks. d.t. was detained and his family was released, a not uncommon 
+outcome. he later received a reasonable fear interview where he said that he thought the 
+trucks were dark green and dusty, but it was hard to make out their color. despite all the 
+other points of consistency in his statements and testimony, his medical records, and his 
+traumatized state when he gave the first statement, the judge used this specific discrepancy 
+to make a negative credibility determination and deny d.t. deferral of removal under cat. 
+the cbp and uscis practice of taking multiple detailed and sworn statements effectively 
+gives immigration judges broad discretion to deny claims.  few people can tell a detailed 
+story three times in the exact same way, especially when stressed, traumatized or injured, or 
+if the recitations are months or years apart. inconsistencies naturally occur and the real 
+19   8 usc 1158(b)(1)(b)(iii).
+
+372
+
+journal on migration and human securityid act provisions give immigration judges free rein to use these inconsistencies if they are 
+inclined to issue a negative decision.
+in cases where an immigration judges credibility decision seems unreasonable and derails 
+a clients case, appealing to the board of immigration appeals is not a viable solution. first, 
+immigration judges have broad discretion on credibility decisions.  thus, the immigration 
+judge in the case of d.t. was well within his rights to make that decision. second, even 
+if the asylum seeker can present other evidence that buttresses his or her testimony and 
+can contradict a negative credibility decision, findings of fact (as on credibility) can be 
+
+reviewed only to determine whether [they] are clearly erroneous.20 immigration judges 
+
+should be able to decide credibility based on a wide range of factors.  however, the decision 
+should be reasonable, justified and subject to meaningful review. 
+
+judicial bias in country of origin information
+
+empirical research on disparities in asylum grant rates has found evidence of country-
+specific  adjudicator  bias  (rajmi-nogales,  schoenholtz,  and  schrag  2007).  country  of 
+origin  bias  can  be  a  particular  problem  for  mexican  asylum  seekers  when  it  comes  to 
+educating immigration judges about the situation in mexico. generally, it is difficult to 
+educate  an  immigration  judge  on  country  conditions  because  of  the  limited  amount  of 
+time that they have to commit to each case. however, asylum seekers from mexico have 
+a different problem. immigration judges in us-mexico border communities often think 
+that they already know about conditions in mexico because of its proximity. however, in 
+reality, many have only a passing, informal knowledge of the country. immigration judges 
+need to be deliberately and thoughtfully educated about the situation in mexico so that 
+incomplete or inaccurate information gained from the media or other less reliable sources 
+is not the context for their decision making. 
+
+backlogged immigration courts
+
+another problem for defensive asylum seekers is the massive backlog of cases in immigration 
+courts. according to the transactional records access clearinghouse, cases have been 
+pending in immigration court for an average of more than 500 days (trac 2014). in el 
+paso, texas, initial master calendar hearingscase status hearings which take place before 
+the hearing on the meritsare being scheduled up to four years into the future. though 
+mexican asylum seekers who are paroled into the united states can obtain work permits 
+immediately under the paroled in the public interest category, those who are released on 
+their own recognizance or are bonded out of detention have to wait for years without being 
+able to file their asylum applications and start the clock for employment authorization as 
+asylum seekers. additionally, people have to live for years in limbo while they wait for 
+their cases to lumber through the immigration courts. 
+
+20   8 c.f.r.  1003.1(d)(3)(i) (2011)
+
+373
+
+problems faced by mexican asylum seekers in the united statesconclusion
+mexican asylum seekers on the border encounter procedural, practical, political and legal 
+barriers to asylum from the time they encounter immigration officials until a determination 
+is made on their claim. as a result, mexican asylum claims are weeded out and few are 
+granted.  low us asylum approval rates for mexicans persist despite a significant quantity 
+of filings from 2008 to 2013, over which time period an estimated 120,000, and possibly 
+more than 130,000, people were killed as a result of the drug war (molloy 2013). in the 
+midst of a humanitarian crisis in mexico, the united states should take particular care to 
+live up to its obligations under international law and make its asylum procedures fair and 
+consistent in these cases. 
+

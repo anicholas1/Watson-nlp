@@ -1,0 +1,573 @@
+creating cohesive, coherent 
+immigration policy1
+
+pia m. orrenius 
+federal reserve bank of dallas and institute of labor economics
+
+madeline zavodny 
+agnes scott college and institute of labor economics
+
+executive summary
+us immigration policy has serious limitations, particularly when viewed 
+from  an  economic  perspective.  some  shortcomings  arise  from  faulty 
+initial design, others from the inability of the system to adapt to changing 
+circumstances. in either case, a reluctance to confront politically difficult 
+decisions  is  often  a  contributing  factor  to  the  failure  to  craft  laws  that 
+can stand the test of time. we argue that, as a result, some key aspects 
+of  us  immigration  policy  are  incoherent  and  mutually  contradictory   
+new policies are often inconsistent with past policies and undermine their 
+goals. inconsistency makes policies less effective because participants in 
+the immigration system realize that lawmakers face powerful incentives 
+to  revise  policies  at  a  later  date.  us  policies  regarding  unauthorized 
+immigration, temporary visas, and humanitarian migrants offer examples 
+of incoherence and inconsistency. this article explores key features of an 
+integrated, coherent immigration policy from an economic perspective and 
+how policymakers could better attempt to achieve policy consistency across 
+laws and over time.
+
+i. introduction
+although there is widespread consensus that us immigration policy is broken, there is 
+little agreement on how it is broken. one view, for example, is that the united states is too 
+tolerant of unauthorized immigration  it does not enforce its borders effectively or deport 
+enough unauthorized immigrants. an opposing view is that the country should recognize 
+unauthorized  immigrants  contributions  by  enacting  a  widespread  legalization  program 
+that includes a pathway to us citizenship. and while few people argue against enforcing 
+the countrys borders, researchers point to diminishing marginal returns to additional us 
+border enforcement (batalova and terrazas 2012). some economists even argue that the 
+economic gains from having a flexible, low-cost unauthorized workforce may outweigh 
+the costs associated with large-scale unauthorized immigration and hence, changing the 
+current system would leave the country worse off (hanson 2007).
+
+1   the views expressed here are those of the authors and do not reflect those of the federal reserve bank of 
+dallas or the federal reserve system.
+
+ 2017 by the center for migration studies of new york. all rights reserved.jmhs volume 5 number 1 (2017): 180-193disagreements about us immigration policy extend to legal immigration as well. points 
+of contention include how many temporary foreign workers should be admitted and their 
+required skill set, as well as the relative importance of skills and education versus family 
+ties in awarding permanent resident visas. whether to admit refugees from predominately 
+muslim countries emerged as another area of disagreement during the 2016 presidential 
+campaign, culminating in two 2017 executive orders attempting to ban most migrants from 
+several countries and causing widespread protests in reaction.
+this article focuses on a more fundamental way in which us immigration policy is broken: 
+taken as a whole, it is not a cohesive, coherent set of laws and regulations. in some cases, 
+individual policies and practices actually undermine each other. the 1965 amendments 
+to the immigration and naturalization act (ina), also called the hart-celler act, set up a 
+system of issuing permanent resident visas based primarily on family ties or employment. 
+most changes to us immigration policy since then have involved tinkering at the margins 
+of this system, not enacting large-scale reforms that would overhaul it entirely. decades 
+of  tinkering have resulted in an immigration policy akin to johnny  cashs  psychobilly 
+cadillac: the parts dont fit together quite right, and something is definitely wrong.
+a key failure of us immigration policy is that it is not forward looking or flexible. it too 
+often fails to look ahead and consider the ramifications of current laws and regulations. 
+addressing these future consequences may be politically challenging, giving policymakers 
+an incentive to put off action, but the failure to enact coherent, consistent policies has resulted 
+in large-scale unauthorized immigration, long backlogs for permanent resident visas, and 
+widespread dissatisfaction with the nations immigration policy. this dissatisfaction can 
+lead to nativist backlashes, as has been the case in the united states since the late 2000s, 
+in europe as a result of the recent refugee influx, and in the united kingdom leading up to 
+the brexit vote. the backlashes can result in abrupt overcorrections by policymakers, as 
+demonstrated in both the united states and europe. ultimately, this dissatisfaction reduces 
+public support for admitting immigrants and for helping them once they are in the country.
+this article explores three major areas in which us immigration policy has been neither 
+cohesive  nor  coherent.  first,  us  policies  towards  unauthorized  immigrants  have  been 
+inconsistent  in  ways  that  have  fueled  additional  unauthorized  immigration  or  created 
+perverse incentives to remain unauthorized. second, us temporary visa programs are not 
+aligned with permanent visa programs, creating additional inconsistencies. finally, some 
+us programs for humanitarian migrants also suffer from incoherence and inconsistency. 
+this last problem is not unique to the united states. as this article discusses, the european 
+response to humanitarian migrants has also been disjointed and confused. europes recent 
+experience may offer lessons for us policymakers in what not to do, and vice versa. the 
+article then explores the key elements of a cohesive, coherent immigration policy that is 
+internally and temporally consistent. policy inconsistency is far from the only problem 
+with the current immigration system, but it is a topic that has received less attention than 
+other, more concrete subjects, such as the number and types of visas available and how to 
+address unauthorized immigration.
+creating a cohesive, coherent immigration policy requires understanding the goals of an 
+effective immigration system. for the united states, immigration policy goals currently  
+and historically  include enabling families to reunify, encouraging productive workers to 
+
+181
+
+creating cohesive, coherent immigration policyimmigrate, and meeting humanitarian obligations. we agree that these are important goals, 
+although as economists we would probably put more emphasis on the second one than 
+many others might. immigration policy can serve as a tool to advance national interests in 
+domestic or foreign spheres, such as admitting investors with deep pockets or citizens of 
+regimes that the us government opposes. difficulties arise when these interests conflict. 
+this is particularly likely to happen when the total number of immigrants admitted is capped, 
+so more immigrants in one group means fewer in another. as this article argues, cohesive, 
+coherent policies are likely to lead to more public support for immigration. this, in turn, 
+would allow policymakers to ease limits on the total number of immigrants admitted and 
+give lawmakers greater freedom to use immigration policy to pursue the nations economic 
+and political interests.
+
+ii. unauthorized immigration
+more than 11 million unauthorized immigrants were living in the united states in 2014 
+(passel and cohn 2016). although large, this is actually below the populations peak of over 
+12 million just before the start of the great recession in 2007. perhaps one of the biggest 
+takeaways from the last few decades of us immigration policy is that a severe economic 
+downturn may be the fastest and most effective way to reverse unauthorized immigration. 
+but of course no one would recommend the country endure a recession in order to reduce 
+unauthorized immigration, so what measures do policymakers actually take?
+policymakers typically enact tougher border enforcement measures in order to reduce the 
+number of people entering the country illicitly and tougher interior enforcement measures in 
+order to reduce the number of people living in the country illegally. interior enforcement can 
+involve involuntary removals  deportations  or making life so difficult for unauthorized 
+immigrants that they choose to leave on their own, so-called self-deportations.
+from the 1960s until the early 2000s, the united states emphasized border enforcement 
+while  largely  neglecting  interior  enforcement. this  was  policy  inconsistency:  potential 
+unauthorized immigrants outside the country faced far more barriers than unauthorized 
+immigrants already in the country. interior enforcement in the hart-celler era only began 
+in earnest after 9/11, when the federal government enacted a number of measures aimed at 
+bolstering national security that also made life more difficult for unauthorized immigrants 
+(orrenius and zavodny 2009).2 before that, policy seemed almost darwinian  border 
+enforcement  kept  out  the  poorest,  least-educated  immigrants  since  they  were  the  ones 
+who could not afford to hire a smuggler or manage to get a tourist or temporary visa they 
+could later overstay. once someone made it in, they could largely live and work in the 
+united states without fear of being deported, so many stayed. lax interior enforcement 
+undermined  strict  border  enforcement.  another  manifestation  of  policy  inconsistency: 
+border enforcement tended to be counter-cyclical with regard to demand for unauthorized 
+workers during this period, with authorities relaxing enforcement when sectors that use 
+large  numbers  of  unauthorized  immigrant  workers  expanded  (hanson  and  spilimbergo 
+2001).
+
+2   a  notable  exception  is  operation  wetback  during  the  1950s,  which  involved  both  intensified  border 
+enforcement and the mass deportation of mexican immigrants (ngai 2004). 
+
+182
+
+journal on migration and human securitythe united states kicked off another round of inconsistent policy making when it granted 
+legal status to 2.7 million unauthorized immigrants as part of the 1986 immigration reform 
+and control act (irca). many of the newly legalized immigrants set down roots in the 
+united states and wanted family members and friends to join them. legal immigration from 
+mexico rose after irca, particularly as immigrants became naturalized us citizens able 
+to sponsor their spouses, parents, and unmarried dependent children for legal permanent 
+resident visas  green cards  categories of immediate relatives that are not subject to 
+numerical limits (figure 1).
+
+figure 1. family-sponsored immigration from mexico and 
+apprehensions along us-mexico border, 1978-2014
+
+source: data are from the us department of homeland security (or immigration and naturalization services) 
+and are for fiscal years.3
+however, not enough green cards were available to meet rising demand in numerically 
+limited categories. by 1992, mexican immigrants faced a backlog in every numerically 
+limited  category  of  family  sponsored  visas.  long  wait  times  to  enter  legally  led  to  a 
+resurgence  of  illegal  entries. as  figure  1  shows,  migrant  apprehensions  along  the  us-
+mexico  border  soon  resumed  their  pre-irca  pace.  the  1994-95  mexican  peso  crisis 
+further fueled unauthorized immigration and added to the demand for visas. policymakers 
+could not have anticipated the mexican economys collapse, but they could and should 
+have anticipated that demand for visas would rise after irca. the failure to couple the 
+legalization program with an increase in visas undermined ircas goals by contributing to 
+3   data taken from the us department of homeland security (dhs), enforcement case tracking system 
+(enforce)  and  the  performance  analysis  system  (pas).  for  years  prior  to  2005,  data  are  from  the 
+statistical yearbook of the immigration and naturalization service (various years). for 2005-2010, data are 
+from sapp (2011).  fy 2011-2014 data from dhs (2014), table 35. fy 2015 data from dhs (2015).
+
+183
+
+creating cohesive, coherent immigration policyunprecedented levels of unauthorized immigration. tougher border enforcement combined 
+with lax interior enforcement also led to increased length of stay in the united states among 
+unauthorized immigrants (angelucci 2012). what had largely been a pool of male workers 
+who circulated back and forth between mexico and the united states became a base of 
+families settled in the united states (massey and riosmena 2010).
+ircas failure to reduce unauthorized immigration contributed to the enactment of the 
+illegal immigration reform and immigrant responsibility act (iirira) in 1996. among 
+other provisions, iirira imposed three- and 10-year reentry bars for most people who had 
+been in the united states illegally. this gave unauthorized immigrants additional incentive 
+to  remain  in  the  united  states  illegally rather  than  return  home  to  legalize their  status 
+since doing so would have triggered the reentry bar. given that the new rules discouraged 
+immigrants who were clearly eligible for green cards from getting them, policymakers 
+quickly backtracked and twice extended or created provisions that allowed unauthorized 
+immigrants to file to adjust status without leaving the country so they could avoid triggering 
+the reentry bar.4 the iirira is a prime illustration of an overcorrection by policymakers 
+reacting to consequences that could have been foreseen and addressed when irca was 
+crafted. 
+the  growth  in  the  unauthorized  immigrant  population  has  been  unpopular  with  many 
+americans. although many businesses and consumers benefit from having a large, low-
+wage labor force, there are concerns about possible adverse effects on competing american 
+workers, the fiscal costs of unauthorized immigrants and their children, a breakdown of 
+the rule of law, and the cultural impact of having a sizeable predominately non-english-
+speaking  immigrant  population.  one  of  the  more  subtle  downsides  of  having  a  large 
+number  of  unauthorized  immigrants  is  that  the  us  public  and  media  have  focused  on 
+this group, which only comprises about one-quarter of all foreign-born living there. as a 
+result, policymakers often focus on this group as well instead of addressing broader issues, 
+including those regarding legal immigration such as temporary and permanent visas.
+
+iii. temporary and permanent visas
+the  disconnect  between  the  temporary  and  permanent  visa  systems  is  another  major 
+example of incoherent, inconsistent us immigration policy. a well-designed immigration 
+system that includes both temporary and permanent employment-based visas should allow 
+workers to readily adjust to permanent residence status when their temporary visa expires 
+if their employer is willing to sponsor them. current policy prevents experienced foreign 
+workers whom employers want to keep from staying and instead obliges firms to bring 
+in new, inexperienced temporary workers because of a mismatch between the number of 
+permanent employment-based green cards and the number of temporary work visas. the 
+
+4   the 245(i) amendment to ina allowed unauthorized immigrants with approved green cards to adjust status 
+without leaving the united states and becoming subject to the reentry bar. the 245(i) provision was in effect 
+for eligible immigrants between 1994 and 1998 and for a four-month period in 2001. today, only immigrants 
+whose absence would cause extreme hardship to a us citizen may receive a waiver that allows them to adjust 
+status under 245(i).  the obama administration also created a procedure to allow certain persons found to be 
+statutorily eligible for an immigrant visa to apply for a waiver of the unlawful presence reentry bars, prior to 
+leaving the united states for their consular interviews.  
+
+184
+
+journal on migration and human securityimmigration act of 1990 allocated 140,000 green cards annually across five employment-
+based categories and 65,000 h-1b temporary visas for skilled foreign workers. the former 
+number has remained fixed since then while the number of h-1b visas issued has more 
+than tripled.5 the fact that accompanying dependents are counted towards the green card 
+cap but not the h-1b cap further exacerbates the imbalance.
+the most obvious result of the imbalance is long wait times for temporary foreign workers 
+trying to adjust to permanent residence. table 1 shows the average wait time in five-year 
+intervals for eb-3 green cards for skilled workers and professionals.6 during fiscal years 
+2012-16, immigrants receiving eb-3 green cards had applied for them an average of 36 
+months prior. the wait is even longer for immigrants from major source countries (china, 
+india, and the philippines) because of country caps.7 some immigrants who want to adjust 
+to permanent resident status go to extraordinary lengths to do so, such as marrying a us 
+citizen in order to get a green card.
+
+china
+9
+24
+16
+74
+62
+
+india
+4
+28
+19
+89
+127
+
+philippines
+26
+1
+16
+61
+75
+
+rest of world 
+0
+0
+12
+61
+36
+
+table 1. average wait time in months of third preference 
+employment-based immigrants
+time period
+1992-1996
+1997-2001
+2002-2006
+2007-2011
+2012-2016
+source: us department of states visa bulletin. data are averages by fiscal year.
+less obvious results of the imbalance include discouraging skilled workers from remaining 
+in the united states while waiting for a green card and encouraging high-tech companies 
+that rely on the h-1b program to hire large numbers of workers to instead open up facilities 
+in  source  countries  or  in  countries  with  less-restrictive  immigration  policies,  such  as 
+canada. the shortage of visas down the line also dissuades some highly skilled people 
+from accepting a temporary foreign worker visa or even a student visa.8
+5   the american  competitiveness  in  the  21st  century act  expanded  the  number  of  h-1b  visas  without 
+increasing the number of employment-based green cards. the act expanded the h-1b program in four main 
+ways: it increased the number of h-1b visas available from 65,000 to up to 195,000 for three fiscal years; it 
+exempted employees of higher educational institutions and nonprofit and government research organizations 
+from the cap; it exempted 20,000 recipients of a us masters degree or higher from the cap; and it exempted 
+h-1b renewals from counting towards the cap.
+6   eb-3 is the largest category of employment-based green cards, accounting for almost 60,000 visas in a 
+typical year, or about 40 percent of the employment-based total.
+7   the ina limits the number of preference-based green cards issued to any single country to 7 percent of 
+the total each fiscal year. hence, countries as large as china, with 1.4 billion people, can receive at most the 
+same number of such green cards  25,620  as countries as small as luxembourg, with half a million 
+inhabitants.
+8   shih (2016) shows that the reduction in the h-1b cap in 2004 reduced enrollment of international students 
+at  us  colleges  and  universities  by  about  10  percent.  kato  and  sparber  (2013)  show  that  it  particularly 
+discouraged high-ability foreign students from attending college in the united states.
+
+185
+
+creating cohesive, coherent immigration policya  final  example  of  disjointed  policy  related  to  temporary  and  permanent  employment-
+based visas is the inconsistent conditions for receiving the two types of visas. in order to 
+hire a worker with an h-1b visa, most employers must simply attest that they will pay that 
+worker at least as much as similar workers or the prevailing wage in the occupation and 
+area, and that the employment conditions of similar workers will not be adversely affected.9 
+in order to sponsor a worker for an eb-2 or eb-3 visa, employers must demonstrate that 
+they have made a good-faith effort to recruit a us worker and that no qualified us worker 
+is willing and able to do the job at a comparable wage. in effect, employers must meet a 
+higher legal standard to sponsor a worker for a permanent visa than for a temporary one. 
+moreover, an employer who hires a worker on an h-1b visa is far from guaranteed that the 
+worker can eventually qualify for a green card. having the same legal threshold for both 
+visas as well as more permanent visas allotted to temporary workers who want to remain 
+would help lead to a more coherent, consistent immigration system.
+
+iv. humanitarian migrants
+how countries should address humanitarian migrant streams has become a pressing issue 
+as millions of syrians have fled their country, hundreds of thousands of africans have 
+crossed the mediterranean into europe, and tens of thousands of unaccompanied minors 
+have streamed north from central america during the last few years. the united states  
+and many european union countries  has often reacted in incoherent, inconsistent ways 
+to these and other streams of humanitarian migrants.
+the united states has an annual quota on refugee admissions but not on asylum seekers. 
+the refugee quota is set by the president in consultation with congress and was 70,000 
+per year in recent years but was raised to 85,000 in fiscal year 2016 and to 110,000 in 
+fiscal year 2017 in response to ongoing humanitarian crises. president trump reduced it 
+to 50,000 within a week of taking office and implemented a 120-day moratorium on all 
+refugee admissions. the quota is divided across major regions of origin, including near 
+east/south asia, africa, east asia, europe/central asia, and latin america/caribbean. 
+this  fixed  regional  quota  system  means  that  an  unexpected  humanitarian  crisis  in  one 
+country reduces the likelihood that other humanitarian migrants from the same region will 
+receive refuge in the united states. it also gives humanitarian migrants an incentive to try 
+to enter the united states illicitly in order to apply for asylum.
+refugees apply for admission from outside of the country, whereas asylum seekers are 
+already  in  the  country  or  at  the  border  when  they  ask  for  protection.  one  reason  this 
+distinction is important is that us immigration policy does not cap the number of people 
+
+9   h-1b dependent employers  firms with h-1b workers comprising 15 percent or more of their total 
+workforce  must also attest that they will not displace any similarly employed us worker for 90 days and 
+that they took good faith steps to recruit us workers and first offered the job to any equally or better qualified 
+us worker. there are exemptions if the h-1b worker earns at least $60,000 or has a masters degree or higher.
+
+186
+
+journal on migration and human securitywho can be granted asylum.10 as a result, humanitarian migrants may undertake dangerous 
+journeys to the united states in hopes of receiving asylum once they reach its borders 
+instead of waiting abroad to be admitted as a refugee.
+the  central american  minors  (cam)  program  is  an  example  of  how  well-intentioned 
+policies regarding humanitarian migrants can nevertheless be incoherent. created in 2014, 
+the program allows certain legally present parents in the united states (qualifying parents) 
+to initiate an application for refugee status or parole for their qualifying minor children 
+in el salvador, guatemala, or honduras, as well as for certain other family members.11 
+the goal was to reduce the number of children undertaking perilous journeys north  an 
+important goal. but children can qualify for the program only if they have a parent lawfully 
+present in the united states. this dramatically limits the programs applicability since many 
+of the children traveling north either do not have a parent there or are trying to reunite with 
+a parent who lacks legal status. in addition, the program only grants lawful status in the 
+united states for two years, not permanent residence; this short timeframe essentially kicks 
+the can down the road. participation in the program has been modest so far, although it is 
+growing. as of february 2017, the program had approved around 11,000 applications, but 
+fewer than 2,400 approved children had actually entered the united states. this compares 
+with more than 40,000 unaccompanied children apprehended along the us-mexico border 
+in fiscal year 2015 and almost 60,000 in fiscal year 2016.12
+the limited timeframe of the residence permits issued under the cam program illustrates a 
+credibility problem in several us programs for humanitarian migrants. despite announcing 
+temporary protective measures, policymakers are typically very reluctant to enforce the 
+limited timeframe. temporary protected status (tps) is a case in point (bergeron 2014). 
+since  1990,  the  united  states  has  tended  to  grant  tps  to  unauthorized  or  temporary 
+migrants already present in the country when a natural disaster or other crisis occurs in 
+their home country. tps is valid for six to 18 months, but policymakers can opt to extend 
+it. such extensions have become commonplace  honduran and nicaraguan beneficiaries 
+have had tps since early 1999, and salvadorans since 2001. the temporary aspect of tps 
+seems to have fallen by the wayside. and after more than 15 years in the united states, 
+it seems unlikely many of those beneficiaries would leave if their protected status was 
+not renewed yet again. further, their continued lawful presence in the united states may 
+have led to additional unauthorized immigration as they are joined by family members 
+and  may  have  sowed  confusion  abroad  about  perceived  amnesties.  president  obamas 
+executive  actions  that  aimed  to  grant  deferred  deportation  to  qualifying  unauthorized 
+immigrants  the deferred action for childhood arrivals (daca) program in 2012 and 
+
+10   the number of people who receive asylum has averaged around 25,000 per year in recent years. one 
+aspect of time-inconsistent immigration policy with respect to humanitarian migrants is no longer in place: 
+until 2005, the number of successful asylum seekers who could adjust to legal permanent resident status 
+after one year of us residence was capped at 10,000 per year, while the number of people who could be 
+granted asylum was unlimited. removing the cap on permanent resident visas was a step toward coherent, 
+time-consistent policy.
+11   in november 2016, this program was expanded to allow for the admission of the qualifying us parents 
+children who are married and/or over age 21, as well as the qualifying childs biological parent and his or her 
+caregiver in certain circumstances.
+12   statistics on cam program participants are from robles and semple (2017); statistics on apprehensions 
+of unaccompanied children are from us customs and border protection (2016). 
+
+187
+
+creating cohesive, coherent immigration policythe deferred action for parents of americans program in 2014, the latter of which has been 
+permanently enjoined  may have added to this confusion. daca is also another example 
+of a temporary program that has already been renewed once.
+the  united  states  is  not  the  only  country  with  difficulty  creating  coherent,  temporally 
+consistent policies regarding humanitarian migrants. in recent years, european countries 
+have  responded  to  the  inflow  of  humanitarian  migrants  from  syria,  afghanistan,  and 
+other  non-eu  countries  in  a  chaotic,  disjointed  manner.  under  the  dublin  regulation, 
+eu members had a key common policy regarding asylum seekers: their claims would be 
+processed in the first eu country they reached. this cooperation was intended to eliminate 
+asylum seekers incentive to travel to northern european countries with friendlier policies, 
+stronger economies, and more generous welfare benefits. a combination of massive inflows 
+in recent years, continued economic weakness in major countries of entry (greece, italy, 
+and spain), lack of cost-sharing, and unwillingness to more evenly allocate humanitarian 
+migrants across countries all contributed to a breakdown of that cooperation.
+some  countries    most  notably  germany  and  sweden    threw  open  their  doors  to 
+humanitarian migrants and then faced public backlash as hundreds of thousands of migrants 
+rushed in. swedish policymakers responded to that backlash by largely slamming the door 
+shut, whereas german policymakers have largely continued to welcome asylum seekers 
+but pressured neighboring countries to stem the flow while redistributing asylum seekers 
+within the countrys own borders. meanwhile, some other eu member states made few, if 
+any, changes to their policies or tightened their immigration policies. the united kingdoms 
+brexit vote was in part a backlash against eu migration as well as the european unions 
+handling of the refugee crisis. the united kingdom is a popular migrant destination since 
+it has both a relatively strong economy and the benefit of the english language, which 
+many migrants already speak and understand. the brexit vote dictated that the united 
+kingdom exit the european union and recover control over its borders.
+there  are  several  reasons  why  eu  coordination  on  immigration  policy  is  inherently 
+unstable and policies are inconsistent (orrenius and zavodny 2016). first, immigration-
+related costs tend to be concentrated among particular member states. nations along the eu 
+periphery face high costs of enforcing their borders and processing humanitarian migrants, 
+and they have strong incentives to simply let migrants continue northward. the fact that 
+there is little internal border enforcement under the schengen agreement enables this; it 
+also makes the european union a more attractive destination to migrants. there is also 
+relatively little external border enforcement, although it bears noting that both internal and 
+external enforcement have increased in the wake of the recent refugee influx.
+second,  the  eu  countries  differ  markedly  in  their  attractiveness  to  migrants  and  their 
+capacity or willingness to absorb them. migrants, both those already in the european union 
+and those arriving from the rest of the world, strongly prefer countries with large migrant 
+networks,  growing  economies,  and  generous  social  safety  nets.  myriad  cross-country 
+differences make it more difficult for member states to agree on immigration policies or on 
+sufficient cost-sharing. these issues point to several potential lessons for us policymakers, 
+as discussed below.
+
+188
+
+journal on migration and human securityv.  what  would  cohesive,  coherent  immigration  policy 
+encompass?
+immigration  policymakers  who  aim  to  create  a  cohesive,  coherent  system  should  keep 
+several key factors in mind. first is the interconnected nature of many migrant streams. 
+policymakers should consider the likely effects of an immigration policy on future flows. 
+if a policy will induce sizable inflows, as the 1986 legalization program did in the united 
+states, policymakers should ensure that legal channels can accommodate those inflows. if 
+they cannot, unauthorized immigration will rise.
+policymakers  aiming  to  stem  unauthorized  immigration  should  recognize  that  tougher 
+border enforcement can help keep unauthorized immigration in check but is costly and 
+has far-reaching unintended consequences. at this point in the united states, where the 
+southwest border is very heavily enforced, tougher interior enforcement measures would 
+be more effective than building a wall or other forms of additional border enforcement. 
+interior enforcement can better address the root cause for many migration streams, namely 
+employment  opportunities.  requiring  all  employers  to  use  e-verify  for  new  hires,  for 
+example, would help remove the jobs magnet that attracts many unauthorized immigrants.13 
+tightening interior enforcement would also be cohesive with maintaining current levels of 
+border enforcement, reinforcing existing policies instead of undermining them. creating 
+more legal channels for less-educated immigrants to enter the country would also help 
+reduce unauthorized immigration.
+policymakers also need to decide how to best deal with unauthorized immigrants already 
+present in the country. decades of inconsistent policies have created a situation in which 
+the united states has no easy choices. it can crack down on unauthorized immigrants who 
+have been living and working in the united states, either by deporting them or by making 
+things so bad that they leave. either one would be bad not only for those unauthorized 
+immigrants but also for any us citizen children they have (warren and kerwin 2017). 
+in addition, it would create sizable disruptions in some labor and product markets in the 
+short to medium run. alternatively, the united states can enact a legalization program and 
+couple it with measures aimed at keeping future unauthorized immigration at a minimum. 
+a major concern here is that a legalization program may result in yet more illegal inflows 
+or visa overstays in hopes of another amnesty, undermining the goal of less unauthorized 
+immigration. the bush and obama administrations made a third choice: they turned a 
+blind eye toward most unauthorized immigrants once they were established in the country. 
+while perhaps understandable in the short run, this policy inconsistency has only worsened 
+the problem in the long run.
+second, policymakers need to build more flexibility into the immigration system. rigid 
+caps  for  permanent  residents  and  some  categories  of  temporary  foreign  workers  have 
+resulted in tremendous backlogs and inefficient lotteries and have discouraged countless 
+potential would-be immigrants from applying or staying in the united states; they may even 
+encourage some companies to open or expand operations overseas instead of domestically. 
+the cap on refugees means humanitarian migrants may have to choose between living 
+13   a national e-verify mandate would likely be very detrimental to unauthorized immigrant workers and 
+their families. it therefore should be implemented as part of broader reforms that grant some form of legal 
+status to unauthorized immigrant workers who have been living in the united states for a long time.
+
+189
+
+creating cohesive, coherent immigration policyin deplorable conditions in a third country and risking a dangerous journey to the united 
+states in order to apply for asylum. quotas should rise and fall in response to changes in 
+origin-country economic, political, and social conditions and, in the case of employment-
+based visas, to changes in us economic conditions. 
+such flexibility could be built in via automatic adjustment mechanisms, such as a formula 
+that  increases  the  number  of  temporary  and  permanent  employment-based  visas  when 
+the unemployment rate is low and falling and gdp growth is rising and reduces it when 
+the  opposite  occurs.  if  a  formula  is  too  rigid  for  policymakers,  they  could  instead  use 
+market-based mechanisms to allocate employment visas, such as auctioning off permits 
+to hire temporary foreign workers (orrenius and zavodny 2010). automatically creating 
+more  family-based  visas  for  migrants  from  a  given  country  in  response  to  larger  legal 
+inflows from that country might also make sense, although a simpler solution is to just 
+remove the country cap on permanent visas. alternatively, the united states could create 
+an independent commission, like the united kingdoms migrant advisory committee, that 
+regularly advises on the number of visas or even sets quotas.
+the eu experience dealing with sudden increases in migration and unprecedented numbers 
+of humanitarian migrants offers several lessons for designing coherent policies. sudden 
+surges and historically large flows of migrants can result in public backlash against political 
+parties, government institutions, and migrants themselves. in a spring 2016 pew research 
+center survey, 88 percent of the swedish, 70 percent of the british, and 67 percent of 
+germans  disapproved  of  the  european  unions  handling  of  the  refugee  issue  (connor 
+2016).  long-standing  policies  may  be  overturned  and  replaced  with  counterproductive 
+measures; disapproval may spill over into support for anti-immigrant political parties. to 
+the  extent  possible,  lawmakers  have  a  responsibility  to  prevent  migration  surges,  keep 
+migration  legal,  and  maintain  effective  border  controls.  this  requires  recognizing  that 
+migration is endogenous; it is influenced by the policies in the receiving countries. well-
+meaning policies may backfire if migrants who utilize them are later victimized through 
+discrimination or other means or if public backlash reduces support for immigration and 
+immigrant integration policies.
+the eu experience also demonstrates the need for burden- or cost-sharing across regions, 
+particularly when poorer areas receive the lions share of migrants because of their location. 
+in the united states, such cost-sharing should occur across levels of government. estimates 
+of the fiscal effects of immigration suggest state and local governments bear the fiscal costs 
+of low-skilled immigration while the federal government benefits (national academies of 
+sciences 2016). there should be a mechanism for federal government transfers to state and 
+local governments to offset the costs of mandatory services to immigrants, such as public 
+education and emergency healthcare.
+finally,  policymakers  should  try  to  make  commitments  that  remove  the  possibility  of 
+temporally inconsistent policies or that widen the gap between policy and practice. for 
+example, instead of repeatedly extending temporary programs like tps, why not grant 
+permanent residence to program beneficiaries after one extension? the 1997 nicaraguan 
+adjustment and central american relief act offers a good example of a cohesive policy. 
+instead of continuing to extend tps year after year to qualified migrants, the program 
+granted permanent residence to migrants from certain countries with open asylum claims. 
+
+190
+
+journal on migration and human securitythe  program  also  was  extended  in  2000  to  qualified  family  members.  with  regard  to 
+employment-based migrants, a consistent policy would readily grant permanent resident 
+visas to temporary foreign workers who meet the qualifications for permanent visas when 
+their temporary visas expire, not require them to meet a higher standard and then wait for 
+years for a visa to become available. and removing the ability of a new administration 
+to easily reverse course and renege on commitments to admit certain refugees or other 
+immigrants seems like a must for temporally consistent policy.
+
+vi. conclusion
+policy inconsistency in the us immigration system came to the forefront in the obama 
+administration, which may have desired to implement permanent improvements but ended 
+up  resorting  to  temporary  piecemeal  fixes. among  other  measures,  it  issued  executive 
+actions  to  shield  some  unauthorized  immigrants  from  deportation  and  allow  them  to 
+work legally; eased rules that made it difficult for h-1b visa holders to switch jobs while 
+waiting for a green card to become available and that prevented their spouses from working 
+unless they also had a temporary foreign worker visa; extended the time that international 
+students can work in the country after graduating from a us college or university with a 
+stem (science, technology, engineering, and math) degree before they must transition to 
+a temporary foreign worker or permanent visa; and proposed the immigrant entrepreneur 
+rule, which would grant parolee status to qualifying immigrant entrepreneurs.
+the fundamental problem with these programs and proposals is that they are executive 
+actions  they are discretionary, piecemeal changes that can be readily reversed by future 
+administrations. indeed, the trump administration quickly began the process of reversing 
+some obama-era immigration policies, again via executive order. neither administrations 
+executive  orders  are  the  major  overhaul  of  immigration  policy  that  the  united  states 
+desperately needs. the big, bold actions that the country needs to fix its dysfunctional 
+policy cannot  and should not  be accomplished via administrative fiat but instead via 
+legislation duly deliberated and passed by congress and signed into law by the president.
+the outcome of the 2016 presidential race indicated that many americans want a new, 
+tougher  immigration  system.  globally,  migration  flows  are  rising,  particularly  of 
+humanitarian migrants, and climate change seems likely to further exacerbate migration 
+pressures. policymakers who want to maintain the pre-2017 status quo or have even more 
+generous policies, such as a large-scale legalization program, need to convince the american 
+public of the desirability of such policies. policies that aim to boost the economic benefits 
+of immigration while also demonstrating the governments ability to manage migration 
+would help build public support for immigration.
+inconsistency is one of many serious limitations of current us immigration policy. other 
+major concerns from an economic perspective include the inefficient random allocation 
+of h-1b visas via a lottery in years when those visas are oversubscribed; limited fiscal 
+cost-sharing between the federal government, states, and localities, and the concentration 
+of adverse fiscal consequences in states and localities with large numbers of low-skilled 
+immigrants;  the  rigid  nature  of  immigration  quotas  by  category  and  country  of  origin; 
+and policies that tie temporary foreign workers to an employer and make those workers 
+
+191
+
+creating cohesive, coherent immigration policyvulnerable to exploitation. such policies reduce the economic gains from immigration. the 
+humanitarian costs of current refugee policies are even greater still. it is time for a more 
+cohesive, coherent immigration system, not just on economic grounds but on humanitarian 
+ones as well.
+

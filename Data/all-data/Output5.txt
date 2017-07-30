@@ -1,0 +1,13171 @@
+ 
+
+ 
+
+national health service corps  an extended analysis 
+
+final report 
+sebastian negrusa, paul hogan, projesh ghosh and 
+lachlan watkins 
+
+prepared for: 
+
+assistant secretary for planning and evaluation 
+
+
+
+executive summary 
+
+national health service corps  an extended analysis 
+
+executive summary 
+
+in this study we continue our analysis of the national health service corps (nhsc) with the 
+purpose of gaining new insights into the programs performance regarding the distribution of 
+providers in high-need areas.  the objective of this study is threefold.  first, we focus on the 
+recent retention trends of nhsc program alumni in health professional shortage areas 
+(hpsas).  second, we analyze the retention patterns of those nhsc participants who serve in 
+indian health service (ihs) sites and compare them with that of all nhsc participants, and 
+third, we examine the recruiting and retention effects of the program. 
+
+in a previous project (lewin, 2014), we examined short- and long-term retention in hpsas of 
+providers who participated in nhsc lrp and sp and compared their retention with the 
+retention of non-participants working in those areas, using data from the period 2000-2013.  in 
+the current study we increase the timeframe by adding two more years of nhsc administrative 
+data (2014 and 2015) to determine whether the retention patterns changed over the more 
+recent years, given the important recent program growth and changes.  we update and expand 
+the data infrastructure we constructed for the previous project, and as before, we rely on data 
+on nhsc program participants, provider360 data, medicare data and data on hpsa 
+designations.  our current nhsc data covers the period between 2000 and 2015, the 
+provider360 data is recorded as of january 2015, and the medicare data spans the period 
+between 2005 and 2014.  the provider360 and the medicare data allow us to observe nhsc 
+participants and their location after their separation from service.  combining their post-service 
+location with information on whether that location is a hpsa or not, we construct hpsa 
+retention statistics for all the program participants that we identified in provider360 or medicare 
+data. 
+
+to analyze retention patterns, similar to lewin (2014), we construct four variables: 
+
+  serving in the same hpsa and in the same county.  this variable takes the value of 1 if 
+
+the nhsc provider remains in the same county as the one where he or she served in 
+nhsc, and 0 otherwise. 
+
+  serving in a hpsa in another county.  this variable takes the value of 1 if the nhsc 
+
+provider remains in a hpsa that is located in a different county than the one in which he 
+or she served while in nhsc service, and 0 otherwise. 
+
+  serving in a non-hpsa from the same county.  this variable takes the value of 1 if the 
+
+nhsc provider moves to a non-hpsa area from the county where he or she served 
+while in nhsc, and 0 otherwise. 
+
+  serving in a non-hpsa in another county.  this variable takes the value of 1 if the nhsc 
+
+provider moves to a non-hpsa area from another county than the county he or she 
+served while in nhsc, and 0 otherwise. 
+
+we create these measures for non-participants as well, but the reference point is not the year 
+when they left service, but the first year (start year) they appear in the medicare data. using 
+the above variables, we construct retention rates as the ratios between the number of providers 
+in the same (or any) hpsa and the total number of providers leaving service in a given year.  
+these rates are calculated one year after separation from nhsc, two years after separation 
+from nhsc and so on.  in the case of non-participants (that are available to us from the 
+medicare data and provider360 data), the annual retention rates are calculated one year since 
+the start year, two years since the start year and so on for each cohort. 
+
+ 
+
+1 
+
+executive summary 
+
+national health service corps  an extended analysis 
+
+post-service hpsa retention analysis 
+
+in figure es.1 we show that about 79% of the nhsc participants serve in primary care hpsas 
+one year after completion of their nhsc service.  less than half of participants who are still in 
+primary care hpsas one year after separation are actually in the same county as the one in 
+which they served while in service (i.e., 43% of participants). there is a fairly steep decline in 
+the retention rate in years 2 and 3 after separation (by about 10 and 3 percentage points, 
+respectively), followed by a lower decline thereafter. 
+
+figure es.1: retention rates of nhsc participants and non-participants
+
+primary care 
+
+percent 
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+years since separation/start year 
+
+nhsc same hpsa
+nhsc any hpsa
+
+non-nhsc same hpsa
+non-nhsc any hpsa
+
+ 
+
+focusing on non-participants, we note that their retention rates in primary care hpsas are 
+always higher than the retention rates of participants, both in terms of retention in the same 
+hpsa as well as in terms of retention in a different hpsa. their retention also drops after we 
+first observe them in the data (their start year).  one year after we first observe non-
+participants in hpsas, 94% of them are still in hpsas.  moreover, a very large fraction of them 
+(89% of all non-participants) remain in the same hpsas where they were first observed.  the 
+retention rates in any hpsas decline by about 3-4 percentage points every year thereafter, 
+while the retention rates in the same hpsa decline at a slightly faster rate (about 6-7 
+percentage points per year).  these rates indicate that once non-participant providers serve in a 
+hpsa, they tend to remain in those areas, and to some extent even when they move, they 
+migrate from one hpsa to another. 
+
+in figure es.2 we present the retention rates in mental health hpsas.  the retention rates of 
+participants are lower in mental health hpsas than in the case of primary care hpsas.  the 
+fraction of participants serving in the same hpsa as during the program drops from 35% in the 
+first year to 29% in the second year, and to 27% in the third year since separation. from then on 
+
+ 
+
+2 
+
+executive summary 
+
+national health service corps  an extended analysis 
+
+it hovers between 19% and 24%.  the retention rate of participants in any mental health hpsa 
+is relatively constant over the years, ranging between 56% and 67%. 
+
+similar to primary care hpsas, non-participants in mental health hpsas are more likely to stay 
+in the same hpsa than participants.  their retention rate declines by 3-4 percentage points 
+each year since the start year, while the retention rate in any hpsa declines at a lower rate, 
+about 2-3 percentage points. it is important to note that the retention rate in any mental health 
+hpsa is similar across participants and non-participants, especially in the further out years. 
+
+figure es.2: retention rates of nhsc participants and non-participants 
+
+mental health 
+
+percent 
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+years since start year 
+
+nhsc same hpsa
+
+nhsc any hpsa
+
+non-nhsc same hpsa
+
+non-nhsc any hpsa
+
+ 
+
+it is important to note that we dropped from the retention analyses in figures es.1 and es.2 the 
+nhsc participants who left service in 2015, which is the last year of our timeframe.   
+
+a comparison with previous retention results 
+
+in the case of primary care providers, the same hpsa retention rates in the first years after 
+separation from service are lower than in lewin (2014).  specifically, the retention rates from 
+this study are between 6 to 10 percentage points lower than in lewin (2014) for the first years 
+since separation, with the difference being larger in the further-out years.  this suggests that the 
+primary care providers who left nhsc in the more recent years leave the hpsa where they 
+served at higher rates than before.   
+
+however, when comparing the any hpsa retention rates, it turns out that although the 
+retention rates from this study are smaller than the ones reported in lewin (2014), the 
+differences are much smaller than in the case of same hpsa retention (about 2-3 percentage 
+points).  this suggests that nhsc alumni still remain in hpsas at elevated rates (just as 
+
+ 
+
+3 
+
+executive summary 
+
+national health service corps  an extended analysis 
+
+documented in lewin 2014), but the moves from the same hpsa to any hpsa locations are 
+more frequent in the more recent years than in the past.  
+
+similarly, in the case of mental health providers, the same hpsa retention is smaller than in 
+lewin (2014), by values between 2 and 12 percentage points.  the differences in any hpsa 
+retention are much smaller (between 1 and 2 percentage points, with one exception).  as in the 
+case of primary care providers, this points to: (i) an increase in the frequency with which 
+providers move out of the hpsas where they served while in nhsc; and (ii) a large fraction of 
+these moves out of same hpsa have as a destination another hpsa, such that the any 
+hpsa retention is overall very close to the any hpsa retention from the previous study. 
+
+we develop a theoretical framework in which a zero difference between the retention rates of 
+participants and non-participants is equivalent to a zero recruiting effect.  we define the 
+recruiting effect as the programs success in attracting providers who would not serve in hpsas 
+without the incentive.  since the average hpsa preference for the newly attracted providers is 
+lower than the average preference of the rest of the providers, it follows that the post-obligation 
+retention rate of participants is lower than that of non-participants.  importantly, the retention 
+differential becomes larger when the recruiting effect is larger.   
+
+in lewin (2104), the average retention differential between non-participants and participants 
+over the first six years since separation/start year is 11.7 percentage points for primary care 
+providers, and 3.3 percentage points for mental health providers.  it turns out that in our study 
+the average retention differential over the first six years since separation/start year is 13.6 and 
+5.4 percentage points for primary care and mental health providers, respectively.  this increase 
+in the retention differential is consistent with an increase in the program recruiting effect.  it is in 
+fact possible that the increase in the program generosity and program outreach that were the 
+result of the aca and arra changes in the 2009-2011 period resulted in more and more 
+providers who would not have served in hpsas in the absence of the nhsc award.  if that were 
+the case, then these new program participants had a smaller retention rate, potentially indicating 
+that the programs recruiting effect over the last few years may have increased.   
+
+as we show in chapter iv, these differences do not seem to be driven by other provider-level or 
+local-level characteristics, such as age, gender, provider type, local area income, or percent of 
+the population under poverty rate. 
+
+a comparison with nhsc participants who served in indian health service sites 
+
+in figure es.3 we present the retention profiles in the same hpsa as well as in any hpsa 
+using the same methods described above for nhsc participants who served in ihs sites.  
+given that ihs sites change their destination somewhat frequently over our timeframe, we 
+construct the same hpsa and the any hpsa retention rates by whether the provider was 
+ever working in an ihs site, and whether the provider was last observed in service in an ihs site.  
+the same hpsa retention rates are similar to the same hpsa retention rates from figure 
+es.1 for all nhsc providers.  the retention rate based on whether the provider was ever in an 
+ihs site is lower than the retention rate of providers who leave nhsc service from ihs sites.   
+
+despite the fact that the same hpsa retention of the nhsc-ihs providers who were ever in 
+an ihs site is lower than that of the nhsc-ihs providers who left service from an ihs site 
+(especially for the further out years), the any hpsa retention rates of these categories are 
+virtually indistinguishable from each other.  nonetheless, the nhsc-ihs any hpsa retention 
+rates are larger than the any hpsa retention rates of all nhsc participants.  there a number 
+of limitations that preclude us from making direct comparisons with the any hpsa retention 
+rates of all nhsc providers, but this higher retention rate of nhsc-ihs alumni may point to a 
+
+ 
+
+4 
+
+executive summary 
+
+national health service corps  an extended analysis 
+
+higher preference for serving ihs site populations, and thus a higher preference for serving in 
+nhsc in general.   
+
+figure es.3: retention rates of nhsc participants in indian health sites  
+
+primary care 
+
+ 
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+nhsc ihss last year same hpsa
+nhsc ihss any year same hpsa
+
+nhsc ihss last year any hpsa
+nhsc ihss any year any hpsa
+
+  
+
+recruiting and retention effects 
+
+in order to be effective, nhsc must be able to induce some providers to locate in hpsas given 
+that they would not have otherwise chosen those locations.  a large number of providers do 
+practice in hpsas and do not need an incentive to do so.  however, those who would have 
+located in hpsas without the incentive may apply for and receive the incentive if they are 
+eligible.  hence, the payment of the incentive to these providers does not increase the supply of 
+providers in hpsas.  conversely, some providers who would not have chosen to practice in 
+hpsas may be induced to do so by the program.  if so, they increase the supply of providers in 
+the area.  this is what we call the recruiting effect of the nhsc program.  a larger recruiting 
+effect translates into a greater success of the program, given that the supply of providers in 
+hpsas is larger than what it would be in the absence of the program. 
+
+also, the nhsc program generates a retention effect to the extent that nhsc providers serve in 
+hpsas longer than what they would if there were no program.  ultimately, this effect is defined 
+following the same logic as for the recruiting effect, of whether the program directly increases 
+the supply of medical services in hpsas, relative to a case when the program does not exist. 
+
+estimation of the recruiting effect is based on an empirical specification in which the total 
+number of providers currently serving in a hpsa is modeled as a function of the number of 
+nhsc participating providers serving in that area.  a one-to-one increase in the number of 
+providers as a result of nhsc participation is interpreted as evidence that the program attracts 
+only providers who would not serve there without the incentive, whereas a zero effect of 
+
+ 
+
+5 
+
+executive summary 
+
+national health service corps  an extended analysis 
+
+program participation on providers is interpreted as consistent with the notion that the program 
+does not attract any new providers in the areaall would have practiced in the hpsa 
+regardless of the incentive.  these are extreme cases, and the reality lies between the two 
+bounds, but an estimated effect that is closer to 1 indicates a larger recruiting effect, whereas an 
+effect that is closer to 0 indicates a smaller recruiting effect.  in this model we control for past 
+levels of providers in the area, as well as for a number of relevant local level characteristics that 
+typically influence the location choices of providers. 
+
+regarding the retention effect, we make use of a novel dataset, that of providers who were 
+deemed eligible for nhsc funding in the application process, but ended up not receiving 
+funding, mainly because of funding limits.  a comparison between the time served in hpsas by 
+nhsc participants and the time served in hpsas by non-participating providers may not yield a 
+true retention effect of the program, as the two provider populations may be inherently different 
+in terms of characteristics we cannot measure in the current data.  the differential retention 
+patterns between participants and non-participants may be a combination of the true program 
+retention effect and the effect of other, non-program related factors.  given that, arguably, the 
+unfunded providers represent a provider population that is similar to that of actually funded 
+providers, a comparison between these two categories will mitigate the influence of other 
+factors, and help us better isolate the actual retention effect of the program. 
+
+our estimates of recruiting and retention effects indicate substantial increases in the number of 
+fte-years generated by nhsc in hpsas.  we estimate that over the entire period considered, 
+nhsc increased the number of primary care physician fte-years in hpsas by about 12,500, 
+the number of np/pas fte-years by about 35,000 and the number of mental health provider 
+fte-years by 28,000. 
+
+in this study we face a number of important data limitations in the estimation of the recruiting 
+and retention effects.  hence, our estimates should be viewed with caution.  however, 
+regardless of the exact value of the total effect on the number of provider-years in hpsas, our 
+estimates presented in chapter vi point to potential important program effects of the nhsc 
+program in increasing the number of providers in high-need areasproviders that would not be 
+there with the nhsc incentive.  this study advances current knowledge on the nhsc program 
+effect, and offers a pathway for further causal effect analyses, once more data on participants 
+and eligible unfunded providers becomes available in the future. 
+
+ 
+
+6 
+
+introduction 
+
+national health service corps  an extended analysis 
+
+introduction 
+
+in this study we continue our analysis of the national health service corps (nhsc) with the 
+purpose of gaining new insights into the programs performance regarding the distribution of 
+providers in high-need areas.  the objective of this study is threefold.  first, we focus on the 
+recent retention trends of nhsc program alumni in health professional shortage areas 
+(hpsas).  second, we analyze the retention patterns of those nhsc participants who serve in 
+indian health service (ihs) sites and compare them with that of all nhsc participants, and 
+third, we examine the recruiting and retention effects of the program. 
+
+the nhsc is administered by the bureau of health workforce (bhw) in the health resources 
+and services administration (hrsa).  its stated goal is to improve the geographic distribution of 
+the health care workforce in hpsas by providing financial support to eligible providers who 
+serve in those areas. the nhsc funds a loan repayment program (lrp) and a scholarship 
+program (sp).  since 2009, the lrps generosity has increased significantly.  in fy 2014, 
+providers participating in lrp received up to $30,000 per year for a 2-year commitment (relative 
+to typically $25,000 per year in previous years) in a hpsa with scores between 0 and 13, and 
+up to $50,000 for a 2-year commitment in a hpsa with scores of 14 or higher. the statute 
+allows for up to $35,000 per year (or $70,000 over two years).  upon the conclusion of an initial 
+service obligation period, nhsc providers may apply for additional loan repayment funding in 
+return for further service.  the scholarship program offers funding for up to four years of 
+medical school in exchange for an obligation to serve in a hpsa for a time that is equal to the 
+time the provider received the scholarship. 
+
+the nhsc deployed 9,700 health care professionals to thousands of sites across the country in 
+2015 (hrsa congressional justification for 2017).1  in the fy 2017 department of health and 
+human services (dhhs) budget, president obama proposes boosting the national health 
+services corps to 15,000 a year over 2018-2020 (hrsa congressional justification for 2017).  
+these clinicians include primary care physicians, primary care nurse practitioners, certified 
+nurse-midwives, primary care physician assistants, dentists, registered dental hygienists, health 
+service psychologists, licensed clinical social workers, psychiatric nurse specialists, marriage 
+and family therapists, and licensed professional counselors.  these professionals deliver critical 
+medical, dental, and mental health services in geographic areas, facilities, and populations that 
+have limited access to health care services (health resources and services administration, 
+2016).  
+
+in a previous project (lewin, 2014), we examined short- and long-term retention in hpsas of 
+providers who participated in nhsc lrp and sp and compared their retention with the 
+retention of non-participants working in those areas, using data from the period 2000-2013.  in 
+the current study we increase the timeframe by adding two more years of nhsc administrative 
+data (2014 and 2015) to determine whether the retention patterns changed over the more 
+recent years, given the important recent program growth and changes.  we update and expand 
+the data infrastructure we constructed for the previous project, and as before, we rely on data 
+on nhsc program participants, provider360 data, medicare data and data on hpsa 
+designations.  our current nhsc data covers the period between 2000 and 2015, the 
+provider360 data is recorded as of january 2015, and the medicare data spans the period 
+between 2005 and 2014.2  the provider360 and the medicare data allow us to observe nhsc 
+participants and their location after their separation from service.  combining their post-service 
+
+                                                
+
+1 these numbers do not include participants in state loan repayment programs. 
+2 in lewin (2014), the nhsc data spanned the 2000-2013 period, provider360 was recorded as of december 2013, 
+
+and the medicare data covered the 2005-2011 period. 
+
+ 
+
+1 
+
+introduction 
+
+national health service corps  an extended analysis 
+
+location with information on whether that location is a hpsa or not, we construct hpsa 
+retention statistics for all the program participants that we identified in provider360 or medicare 
+data. 
+
+like in the previous study (lewin, 2014), we construct two individual-level analytic datasets.  in 
+the first analytic dataset we combine annual, individual-level administrative data on nhsc 
+participants with annual, individual-level data from the medicare file.  the main advantage of 
+this dataset is that it is longitudinal, thus allowing us to track the location of providers in every 
+year of their nhsc obligation, as well as in every year (up to 2014) after separation from 
+service.  the second analytic dataset combines administrative nhsc data with individual-level 
+data on nhsc alumni as of january 2015.  with this dataset, we are able to analyze the 
+retention patterns of nhsc providers by using two points in time: at the time of their service 
+separation, and january 2015. 
+
+with these two datasets, we construct descriptive statistics of retention, by calculating the 
+retention rates as the fraction of nhsc alumni who still serve in the same hpsa where they 
+served while in nhsc, relative to the total number of nhsc providers who left service in that 
+hpsa in a given year.  this is what we call same hpsa retention, and we calculate it at 
+various points in time after separation from nhsc.  we also construct any hpsa retention 
+rates by counting in the numerator  along with the same hpsa providers - all nhsc alumni 
+who serve in hpsas other than the hpsa where they served under the nhsc obligation.  
+these rates are calculated by provider type, and provider discipline.  we also calculate these 
+rates for the nhsc alumni who served in ihs sites. 
+
+an important contribution of this study is that we provide new insights into the recruiting and 
+retention effects of the program.  we define the recruiting effect as the success of the program 
+in attracting to hpsas providers who would not have served in those areas without the nhsc 
+incentive.  it is important to note that this measure is smaller than the number of actual nhsc 
+participants, because in reality some nhsc participants would serve in hpsas even if there 
+were no program.  our definition of the recruiting effect excludes the latter category, and 
+therefore focuses only on the providers who offer services beyond what would be offered in 
+hpsas without the nhsc program.  in a similar fashion, we define the retention effect of the 
+program as the increase in the number of providers who serve in hpsas longer than they would 
+have in the absence of the program. 
+
+estimation of the recruiting effect is based on an empirical specification in which the total 
+number of providers currently serving in a hpsa is modeled as a function of the number of 
+nhsc participating providers serving in in that area.  a one-to-one increase in the number of 
+providers as a result of nhsc participation is interpreted as evidence that the program attracts 
+only providers who would not serve there without the incentive, whereas a zero effect of 
+program participation on providers is interpreted as consistent with the notion that the program 
+does not attract any new providers in the area.  these are extreme cases, and the reality lies 
+between the two bounds, but an estimated effect that is closer to 1 indicates a larger recruiting 
+effect, whereas an effect that is closer to 0 indicates a smaller recruiting effect.  in this model we 
+control for past levels of providers in the area, as well as for a number of relevant local level 
+characteristics that typically influence the location choices of providers. 
+
+regarding the retention effect, we make use of a novel dataset, that of providers who were 
+deemed eligible for nhsc funding in the application process, but ended up not receiving 
+funding, mainly because of funding limits.  a comparison between the time served in hpsas by 
+nhsc participants and the time served in hpsas by non-participating providers may not yield a 
+true retention effect of the program, as the two provider populations may be inherently different 
+in terms of characteristics we cannot account for in the current data.  the differential retention 
+
+ 
+
+2 
+
+introduction 
+
+national health service corps  an extended analysis 
+
+patterns between participants and non-participants may be a combination of the true program 
+retention effect and the effect of other, non-program related factors.  given that, arguably, the 
+unfunded providers represent a provider population that is similar to that of actually funded 
+providers, a comparison between these two categories will mitigate the influence of other 
+factors, and help us better isolate the actual retention effect of the program. 
+
+the main body of the report is organized as follows: in chapter ii we discuss our data sources 
+and the construction of the analytical datasets, along with the main measures.  in chapter iii we 
+present descriptive statistics of the population of nhsc participants and non-participants, while 
+in chapter iv we present the retention rates of nhsc participants, followed by a regression 
+analysis in which we attempt to determine how much of the retention differential between nhsc 
+alumni and non-participants is explained by program participation, by controlling for a host of 
+observable factors, including the providers medical discipline, age and gender as well as other 
+factors such as local area median income and percentage of the population in poverty.  in 
+chapter v we focus on the retention of nhsc alumni who serve in ihs sites, while in chapter vi 
+we present the results from our analysis of the recruiting and retention effects.  chapter vii 
+concludes the report, along with a discussion on the key limitations of this study and potential 
+future extensions.
+
+ 
+
+3 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+data sources and analytic datasets 
+
+we follow the strategy from lewin (2014) to construct two analytic datasets for our empirical 
+analyses.  these datasets are constructed by linking administrative information on nhsc 
+participants with proprietary and public data on providers that allow us to track nhsc alumni in 
+the years after obligation completion.  a detailed description of the data sources, along with a 
+discussion on the strategy we used to construct the two analytical datasets is available in lewin 
+(2014).  in what follows we review the main features of the various datasets and then focus on 
+the new data elements that allow us to update and expand the previous analysis. 
+
+nhsc administrative files and provider datasets 
+
+the nhsc administrative files provided to us by hrsa include all providers who entered the 
+nhsc programs over the period 2000-2015.  these files include annually updated, individual 
+information on where each participant was located while serving under the nhsc obligation.  of 
+the total number of 28,388 providers, 11,868 are physicians, 8,718 are nurse practitioners (np) 
+or physician assistants (pa) and the remaining 7,802 individuals represent other providers, such 
+as dental or behavioral health providers.  other important individual demographic and 
+award/service characteristics, include: age, gender, race/ethnicity, award year, entry year, type 
+of award, length of initial service obligation, funds received, practice type, provider type, location, 
+and separation year. 
+
+table ii.1 provides relevant statistics about the composition of the nhsc participants in each 
+year of the 2000-2015 timeframe.  perhaps the most important feature is the marked increase in 
+the number of participants, especially in the more recent years, from a total of 7,080 providers 
+participating in the program in 2010, to 10,513 in 2015.  this is not surprising, since these are 
+the years when aca and arra stipulations on the number of awards and generosity of awards 
+came into effect.  these changes made nhsc very attractive for an increasing number of 
+providers. 
+
+more than half of this increase of 3,433 providers is due to an increase in the number of other 
+providers participating in the program, about a third due to an increase in nurse practitioners 
+and physician assistants (np/pa), and about a sixth due to increases in the number of 
+participating physicians.  the fraction of physicians in the total field strength decreased from 
+50% in 2010 to 39% in 2015, while the fraction of other providers increased from 21% to 31% 
+over the same period.  in terms of nhsc program type, virtually all the increase in field strength 
+in the second half of the period is attributable to lrp.  also, female providers represented 74% 
+of all participants in 2015 (up from 69% in 2010, and 64% in 2005), while the fraction of white 
+providers increased from 54% in 2010 to 68% in 2015.  in appendix table a.1 we present the 
+distribution of the nhsc workforce by provider discipline. it is clear that there was a substantial 
+increase in the number of mental health providers in the last few years. 
+
+in table ii.2 we present the characteristics of the new providers who join service in every year 
+between 2000 and 2015.  focusing on new entrants, one can notice that the number of 
+providers starting service in 2010 is almost double the number of new entrants in 2009.  also, 
+the new entrants that started service after 2010 were more likely to be white, female, non-
+physicians and joining the program through lrp.  these recent flows into the nhsc workforce 
+ended up changing the distribution of the nhsc workforce as we show in table ii.1.
+
+ 
+
+4 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+table ii.1: select socio-demographic characteristics of nhsc participants by entry year 
+
+2000 
+
+2001 
+
+2002 
+
+2003 
+
+2004 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+919 
+
+1,063 
+
+1,464 
+
+2,396 
+
+3,009 
+
+3,421 
+
+3,386 
+
+3,239 
+
+3,180 
+
+4,239 
+
+7,080 
+
+9,768 
+
+9,585 
+
+8,489 
+
+10,392 
+
+10,513 
+
+ 
+
+874 
+
+391 
+
+199 
+
+ 
+
+552 
+
+911 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1,364 
+
+1,684 
+
+1,998 
+
+2,025 
+
+1,979 
+
+1,977 
+
+2,435 
+
+3,515 
+
+4,395 
+
+4,295 
+
+3,849 
+
+4,400 
+
+635 
+
+397 
+
+ 
+
+891 
+
+807 
+
+518 
+
+865 
+
+558 
+
+799 
+
+562 
+
+767 
+
+493 
+
+731 
+
+472 
+
+1,081 
+
+2,095 
+
+3,015 
+
+2,879 
+
+2,474 
+
+3,116 
+
+723 
+
+1,470 
+
+2,358 
+
+2,411 
+
+2,166 
+
+2,876 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1,129 
+
+1,247 
+
+1,208 
+
+1,136 
+
+1,091 
+
+1,368 
+
+2,057 
+
+2,708 
+
+2,597 
+
+2,280 
+
+2,762 
+
+1,504 
+
+1,879 
+
+2,173 
+
+2,177 
+
+2,102 
+
+2,088 
+
+2,869 
+
+4,878 
+
+6,904 
+
+6,831 
+
+6,049 
+
+7,479 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4,088 
+
+3,179 
+
+3,246 
+
+ 
+
+2,699 
+
+7,734 
+
+ 
+
+1,186 
+
+2,057 
+
+2,622 
+
+2,960 
+
+2,855 
+
+2,658 
+
+2,596 
+
+3,624 
+
+6,498 
+
+9,205 
+
+9,011 
+
+7,911 
+
+9,768 
+
+9,971 
+
+age 
+
+36.4 
+
+36.2 
+
+278 
+
+36.5 
+
+339 
+
+36.6 
+
+387 
+
+36.5 
+
+461 
+
+36.2 
+
+531 
+
+36.2 
+
+581 
+
+35.9 
+
+584 
+
+35.8 
+
+615 
+
+35.8 
+
+582 
+
+36.3 
+
+563 
+
+36.6 
+
+574 
+
+36.4 
+
+578 
+
+36.2 
+
+624 
+
+36.3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+entry 
+
+year 
+
+total 
+
+type 
+
+mds 
+
+np/pas 
+
+other 
+
+gender 
+
+males 
+
+females 
+
+ 
+
+592 
+
+227 
+
+100 
+
+ 
+
+398 
+
+520 
+
+program 
+
+ 
+
+lrp 
+
+sp 
+
+806 
+
+113 
+
+race/ 
+ethnicity 
+
+white 
+
+black 
+
+hispanic 
+
+other 
+
+ 
+
+89 
+
+18 
+
+802 
+
+10 
+
+ 
+
+685 
+
+254 
+
+124 
+
+ 
+
+443 
+
+619 
+
+ 
+
+880 
+
+183 
+
+250 
+
+35 
+
+760 
+
+18 
+
+542 
+
+36.6 
+
+ 
+
+7,199 
+
+1,252 
+
+558 
+
+475 
+
+57 
+
+918 
+
+1,246 
+
+1,408 
+
+1,378 
+
+1,341 
+
+1,345 
+
+1,829 
+
+3,846 
+
+5,920 
+
+6,051 
+
+5,457 
+
+6,947 
+
+99 
+
+129 
+
+185 
+
+188 
+
+181 
+
+189 
+
+244 
+
+596 
+
+986 
+
+1,051 
+
+882 
+
+1,284 
+
+1,494 
+
+1,663 
+
+1,675 
+
+1,566 
+
+1,470 
+
+1,872 
+
+1,771 
+
+1,632 
+
+1,299 
+
+998 
+
+945 
+
+1,223 
+
+833 
+
+50 
+
+95 
+
+140 
+
+165 
+
+145 
+
+151 
+
+176 
+
+294 
+
+867 
+
+1,230 
+
+1,184 
+
+1,089 
+
+1,389 
+
+1,504 
+
+ 
+
+5 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+table ii.2: select socio-demographic characteristics of nhsc new entrants by entry year 
+
+2000 
+
+2001 
+
+2002 
+
+2003 
+
+2004 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+919 
+
+438 
+
+714 
+
+1,236 
+
+1,152 
+
+1,341 
+
+1,072 
+
+1,033 
+
+988 
+
+1,958 
+
+3,627 
+
+3,761 
+
+2,402 
+
+2,157 
+
+2,731 
+
+2,859 
+
+entry 
+
+year 
+
+total 
+
+type 
+
+mds 
+
+np/pas 
+
+other 
+
+gender 
+
+males 
+
+females 
+
+ 
+
+592 
+
+227 
+
+100 
+
+ 
+
+398 
+
+520 
+
+program 
+
+ 
+
+lrp 
+
+sp 
+
+806 
+
+113 
+
+race/ 
+ethnicity 
+
+white 
+
+black 
+
+hispanic 
+
+other 
+
+ 
+
+89 
+
+18 
+
+802 
+
+10 
+
+age 
+
+36.4 
+
+36.6 
+
+36.7 
+
+ 
+
+240 
+
+124 
+
+74 
+
+ 
+
+167 
+
+271 
+
+ 
+
+347 
+
+91 
+
+ 
+
+373 
+
+227 
+
+114 
+
+ 
+
+243 
+
+471 
+
+ 
+
+573 
+
+141 
+
+ 
+
+653 
+
+337 
+
+246 
+
+ 
+
+460 
+
+776 
+
+ 
+
+1,086 
+
+150 
+
+36.7 
+
+ 
+
+588 
+
+337 
+
+227 
+
+ 
+
+416 
+
+736 
+
+ 
+
+970 
+
+182 
+
+36.5 
+
+ 
+
+730 
+
+350 
+
+261 
+
+ 
+
+464 
+
+877 
+
+ 
+
+1,141 
+
+200 
+
+36.4 
+
+ 
+
+576 
+
+281 
+
+215 
+
+ 
+
+350 
+
+722 
+
+ 
+
+858 
+
+214 
+
+ 
+
+532 
+
+304 
+
+197 
+
+ 
+
+331 
+
+702 
+
+ 
+
+822 
+
+211 
+
+ 
+
+556 
+
+240 
+
+192 
+
+ 
+
+317 
+
+671 
+
+ 
+
+812 
+
+176 
+
+36.2 
+
+35.7 
+
+36.1 
+
+ 
+
+923 
+
+602 
+
+433 
+
+ 
+
+568 
+
+ 
+
+ 
+
+1,499 
+
+1,346 
+
+1,213 
+
+1,241 
+
+915 
+
+1,174 
+
+ 
+
+964 
+
+ 
+
+970 
+
+ 
+
+858 
+
+735 
+
+809 
+
+ 
+
+607 
+
+ 
+
+701 
+
+669 
+
+787 
+
+ 
+
+538 
+
+ 
+
+897 
+
+901 
+
+933 
+
+ 
+
+673 
+
+ 
+
+804 
+
+930 
+
+1,125 
+
+ 
+
+643 
+
+1,389 
+
+2,520 
+
+2,780 
+
+1,794 
+
+1,616 
+
+2,054 
+
+2,214 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1,766 
+
+3,482 
+
+3,616 
+
+2,214 
+
+2,004 
+
+2,569 
+
+2,762 
+
+192 
+
+35.8 
+
+145 
+
+36.9 
+
+145 
+
+37.0 
+
+188 
+
+36.5 
+
+153 
+
+36.8 
+
+162 
+
+37.2 
+
+97 
+
+37.1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+168 
+
+19 
+
+242 
+
+9 
+
+261 
+
+28 
+
+391 
+
+34 
+
+521 
+
+52 
+
+615 
+
+48 
+
+506 
+
+52 
+
+530 
+
+64 
+
+546 
+
+86 
+
+643 
+
+66 
+
+463 
+
+57 
+
+513 
+
+39 
+
+462 
+
+65 
+
+447 
+
+59 
+
+452 
+
+58 
+
+411 
+
+67 
+
+891 
+
+112 
+
+803 
+
+152 
+
+2,342 
+
+2,577 
+
+1,616 
+
+1,532 
+
+1,965 
+
+2,018 
+
+367 
+
+306 
+
+612 
+
+439 
+
+312 
+
+433 
+
+312 
+
+209 
+
+265 
+
+274 
+
+63 
+
+288 
+
+329 
+
+57 
+
+380 
+
+334 
+
+43 
+
+464 
+
+ 
+
+6 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+the nhsc administrative files do not contain information on the location of providers after 
+program completion.  also, they do not contain the participants national provider identification 
+(npi) number, or other unique identifiers which would enable us to track their location after 
+program completion.  we therefore rely on our additional data sources to identify the 
+participants npi and then subsequently determine where they were located after program 
+completion.  these data sources, which are also used to identify non-participant providers, are: 
+the medicare providers file developed from medicare claims data over the period 2005-2014; 
+and the provider 360 file, a proprietary file containing comprehensive information on most 
+medical providers in the united states. 
+
+finally, we employ data from hrsa with information on hpsa designations, types, disciplines, 
+sites and scores.  we use the most recent file of these data, which was compiled in december 
+31, 2013.  the reader is referred to a detailed discussion of these datasets in lewin (2014). 
+
+the medicare provider file contains a total number of providers between 639,197 and 940,690 
+in each year of the 2005-2014 period.3  table ii.3 shows the number of providers by type in 
+each year.  the data from the 2005-2011 period is the same data as in lewin (2014), whereas 
+data for the years 2012-2014 come from cmss website.4 
+
+table ii.2: number of providers by type in each year (medicare provider data) 
+
+year 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+mds 
+
+421,574 
+
+449,349 
+
+495,998 
+
+515,583 
+
+529,978 
+
+544,509 
+
+559,338 
+
+524,557 
+
+532,167 
+
+536,482 
+
+np/pas 
+
+23,774 
+
+27,751 
+
+35,959 
+
+42,235 
+
+46,946 
+
+52,447 
+
+59,465 
+
+52,329 
+
+59,551 
+
+67,605 
+
+other 
+
+170,048 
+
+182,496 
+
+224,794 
+
+237,500 
+
+245,442 
+
+254,317 
+
+264,718 
+
+264,226 
+
+273,855 
+
+285,973 
+
+total 
+
+639,197 
+
+686,709 
+
+791,004 
+
+834,113 
+
+864,565 
+
+896,932 
+
+933,575 
+
+883,213 
+
+912,153 
+
+940,690 
+
+hpsa designations and hpsa scores 
+
+hrsa also provided lewin with a detailed file containing information on all hpsa sites as of 
+december 2013.  as of december 2013, there were 5,976 primary care hpsas, 4,758 dental 
+care hpsas and 3,876 mental health hpsas.  this file includes information on each hpsa: id, 
+name, status, type, discipline, hpsa score and detailed geographic identifiers.  in table ii.4 
+below we present the number of hpsa sites by hpsa disciplines (i.e., primary care, dental 
+health and mental health) and by the main hpsa types (facility hpsas, single county hpsas, 
+census tract hpsas and minor civil division hpsas).5 
+
+                                                
+
+3 these providers include both primary care practitioners and non-primary care practitioners. 
+4 available at: https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-reports/medicare-
+
+provider-charge-data/physician-and-other-supplier.html. 
+
+5 a minor civil division is a term used by the census to designate the primary governmental or administrative divisions 
+
+of a county, such as a civil township, precinct, or magisterial district. 
+
+ 
+
+7 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+table ii.3: distribution of hpsa sites by disciplines and types 
+
+discipline 
+
+facility 
+
+single county 
+
+census tract  minor civil division 
+
+total 
+
+primary care 
+
+count 
+
+percent 
+
+dental health 
+
+count 
+
+percent 
+
+mental health 
+
+count 
+
+percent 
+
+3,270 
+
+17.79 
+
+2,676 
+
+20.93 
+
+2,715 
+
+27.37 
+
+1,746 
+
+9.50 
+
+1,695 
+
+13.25 
+
+2,408 
+
+24.28 
+
+9,981 
+
+54.30 
+
+7,334 
+
+57.35 
+
+4,401 
+
+44.37 
+
+3,384 
+
+18,381 
+
+18.41 
+
+100 
+
+1,083 
+
+12,788 
+
+8.47 
+
+100 
+
+394 
+
+3.97 
+
+9,918 
+
+100 
+
+as most of our empirical analysis was at the zip code level, the next step was to determine 
+whether the zip code associated with each providers location was part of a hpsa or not.  we 
+used the dataset we received from hrsa containing information on all hpsas and constructed 
+an algorithm to determine whether a providers zip code was part of a single-county hpsa, 
+census tract hpsa, census division hpsa, or a facility hpsa.  more details are available in 
+lewin (2014). 
+
+next, we mapped the detailed health care occupation (available in p360) of each non-nhsc 
+participant into the corresponding nhsc discipline.  the list of nhsc disciplines is presented in 
+table ii.5 along with the distribution of providers by these disciplines in the overall population of 
+nhsc participants and in the sample of participants we identified in the first analytic dataset.  
+table ii.5 also provides the average age of providers (at entry in nhsc service) and the 
+distribution by gender and hpsa type. 
+
+analytic datasets 
+
+of the total of 28,388 individual nhsc participants we identified a number of 12,903 nhsc 
+alumni in the first analytic dataset and a number of 24,173 providers in the second analytic 
+dataset.  in the first analytic dataset, 9,435 providers served in primary care hpsas, 2,631 
+served in mental care hpsas, and not surprisingly, only 27 served in dental care hpsas.  this 
+is because a very small number of dentists and dental workers bill medicare, and thus are not 
+captured in the medicare data.  the same limitation applies to ob-gyn physicians and 
+pediatricians and other smaller categories of primary care physicians, since they rarely bill 
+medicare.  as shown in table ii.5, with the exception of dental care providers, the sample of 
+nhsc alumni we identify in the first analytic dataset appears to resemble the overall population 
+of participants in terms of provider discipline, age at entry and gender.   
+
+ 
+
+8 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+table ii.4: comparison between nhsc providers in the overall population and in 
+
+the first analytic dataset 
+
+discipline 
+
+allopathic physician 
+
+osteopathic physician 
+
+chiropractor 
+
+certified nurse midwife 
+
+dentist 
+
+health service psychologist 
+
+licensed clinical social worker 
+
+licensed prof counselor 
+
+marriage and family therapist 
+
+nurse practitioner 
+
+pharmacist 
+
+physician assistant 
+
+psychiatric nurse specialist 
+
+registered dental hygienist 
+
+age (at entry) 
+
+gender 
+
+males 
+
+females 
+
+hpsa type 
+
+primary care 
+
+mental health 
+
+dental 
+
+total 
+
+total 
+
+all nhsc providers 
+
+nhsc in first data set 
+
+5,199 
+
+1,592 
+
+13 
+
+698 
+
+3,049 
+
+2,028 
+
+2,987 
+
+2,867 
+
+450 
+
+5,010 
+
+26 
+
+3,708 
+
+89 
+
+672 
+
+28,388 
+
+36.7 
+
+ 
+
+8,109 
+
+20,113 
+
+ 
+
+15,080 
+
+9,587 
+
+3,721 
+
+28,388 
+
+3,644 
+
+1,238 
+
+10 
+
+262 
+
+19 
+
+751 
+
+934 
+
+49 
+
+14 
+
+2,888 
+
+ 
+
+1,238 
+
+57 
+
+8 
+
+12,093 
+
+37.4 
+
+ 
+
+4,034 
+
+8,059 
+
+ 
+
+9,435 
+
+2,631 
+
+27 
+
+12,093 
+
+we complete the construction of the first analytic dataset by eliminating the following groups of 
+non-nhsc participant providers: (i) those who did not fall under any one of the nhsc discipline 
+types; (ii) those who did not serve in hpsas; (iii) those who served in hpsas where no nhsc 
+participant served over the 2005-2014 period; and (iv) specialists (cardiologists, dermatologists 
+etc.).  the purpose of these data restrictions was to ensure a degree of comparability between 
+nhsc participants and non-nhsc participants who served in hpsas.  we ended up with a total 
+of 289,675 non-participant providers serving in primary care hpsas and a total of 25,324 non-
+participants serving in mental health hpsas.  the main characteristics of non-participants are 
+presented in table ii.6. 
+
+ 
+
+9 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+table ii.5: non-nhsc providers serving in primary care and mental health 
+
+hpsas in the first analytic dataset 
+
+characteristics 
+
+discipline 
+
+physician 
+
+certified nurse midwife 
+health service 
+psychologist 
+licensed clinical social 
+worker 
+licensed professional 
+counselor 
+marriage and family 
+therapist 
+
+nurse practitioner 
+
+physician assistant 
+
+total 
+
+age (at entry)6 
+
+gender 
+
+males 
+
+females 
+
+total 
+
+primary care hpsa 
+non-nhsc providers 
+
+215,731 
+
+870 
+
+  
+
+  
+
+  
+
+  
+
+53,590 
+
+19,484 
+
+289,675 
+
+43.7 
+
+ 
+
+168,917 
+
+120,758 
+
+289,675 
+
+percent 
+
+74.5 
+
+0.3 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+18.5 
+
+6.7 
+
+100.0 
+
+-- 
+
+ 
+
+58.3 
+
+41.7 
+
+100.0 
+
+mental health hpsa 
+non-nhsc providers 
+
+percent 
+
+11,379 
+
+ 
+
+5,814 
+
+6,192 
+
+367 
+
+6 
+
+1,566 
+
+ 
+
+25,324 
+
+51.7 
+
+ 
+
+11,895 
+
+13,429 
+
+25,324 
+
+44.9 
+
+ 
+
+23.0 
+
+24.5 
+
+1.4 
+
+0.0 
+
+6.2 
+
+ 
+
+100.0 
+
+-- 
+
+ 
+
+48.8 
+
+51.2 
+
+100.0 
+
+the main advantage of the first analytic dataset stems from the fact that it allows us to track the 
+location of providers after they complete their nhsc service.  however, the number of nhsc 
+providers is potentially limited.  we therefore constructed a second analytic dataset relying only 
+on nhsc data, p360 data and hpsa data.  the main feature of this dataset is that it provides 
+information on the nhsc providers location in two points in time: the year of program 
+termination and january 2015 (i.e., the time when p360 information is recorded). 
+
+the number of nhsc participants in this second dataset increases to about 24,173.  as 
+expected, the distribution of nhsc providers by discipline resembles the distribution from the 
+overall nhsc population more closely (table ii.7).  also, the other characteristics of participants 
+from the second dataset are more similar to the characteristics from overall population of 
+participants.   
+
+                                                
+
+6 this is the average age of non-participant providers when they first appear in the medicare data. 
+
+ 
+
+10 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+table ii.6: comparison between nhsc providers in the overall population and in 
+
+the second analytic dataset 
+
+discipline 
+
+allopathic physician 
+
+osteopathic physician 
+
+chiropractor 
+
+certified nurse midwife 
+
+dentist 
+
+health service psychologist 
+
+licensed clinical social worker 
+
+licensed professional counselor 
+
+marriage and family therapist 
+
+nurse practitioner 
+
+pharmacist 
+
+physician assistant 
+
+psychiatric nurse specialist 
+
+registered dental hygienist 
+
+age (at entry) 
+
+gender 
+males 
+females 
+
+hpsa type 
+
+primary care 
+mental health 
+dental 
+
+total 
+
+total 
+
+all nhsc providers 
+
+nhsc in second data set 
+
+5,199 
+
+1,592 
+
+13 
+
+698 
+
+3,049 
+
+2,028 
+
+2,987 
+
+2,867 
+
+450 
+
+5,010 
+
+26 
+
+3,708 
+
+89 
+
+672 
+
+28,388 
+
+36.7 
+
+ 
+
+8,109 
+20,113 
+
+ 
+
+15,080 
+9,587 
+3,721 
+28,388 
+
+4,875 
+
+1,507 
+
+11 
+
+622 
+
+2,606 
+
+1,642 
+
+2,358 
+
+2,135 
+
+362 
+
+4,473 
+
+12 
+
+3,262 
+
+77 
+
+231 
+
+24,173 
+
+36.7 
+
+ 
+
+7,274 
+16,899 
+
+ 
+
+13,714 
+7,622 
+2,837 
+24,173 
+
+note: the total number of matched nhsc providers presented in the above table is limited to 
+providers with a valid npi. 
+
+nhsc-eligible unfunded providers 
+
+a new dataset that was made available for this study by hrsa includes those providers who 
+were considered eligible to participate in the program, but ultimately did not receive funding from 
+nhsc, largely due to funding limitations.  this category of providers is important, as it 
+potentially represents a more adequate comparison group than the non-participating providers 
+who serve in hpsas.  non-participating providers are likely to be different from nhsc 
+participants across characteristics we cannot account for in the data.  however, if one can 
+assume that program participation is in essence randomly distributed across pool of actual 
+participants and eligible unfunded providers, then the latter category can serve as a proper 
+comparison group and thus offer the possibility to shed more light into the estimation of direct 
+program effect on the retention of providers in hpsas. 
+
+there are 1,318 eligible unfunded providers who submitted an nhsc application between 2013 
+and 2015.  we exclude from the analysis the 503 providers who applied in 2015, as we are not 
+able to track their location in our provider datasets.  in provider360, we identified 166 and 158 
+primary care providers who applied in 2013 and 2014, respectively, and 76 and 38 mental 
+health providers who applied in 2013 and 2014, respectively.  we track the location of these 
+providers for one or two years in provider360. 
+
+ 
+
+11 
+
+data sources analytic datasets  
+
+national health service corps  an extended analysis 
+
+retention measures 
+
+to analyze retention patterns, as in lewin (2014), we construct four variables: 
+
+  serving in the same hpsa and in the same county.  this variable takes the value of 1 if 
+
+the nhsc provider remains in the same county as the one where he or she served in 
+nhsc, and 0 otherwise. 
+
+  serving in a hpsa in another county.  this variable takes the value of 1 if the nhsc 
+
+provider remains in a hpsa that is located in a different county than the one in which he 
+or she served while in nhsc service, and 0 otherwise. 
+
+  serving in a non-hpsa from the same county.  this variable takes the value of 1 if the 
+
+nhsc provider moves to a non-hpsa area from the county where he or she served 
+while in nhsc, and 0 otherwise. 
+
+  serving in a non-hpsa in another county.  this variable takes the value of 1 if the nhsc 
+
+provider moves to a non-hpsa area from another county than the county he or she 
+served while in nhsc, and 0 otherwise. 
+
+we create these measures for non-participants as well, but the reference point is not the year 
+when they left service, but the first year (start year) they appear in the medicare data. using 
+the above variables, we construct retention rates as the ratios between the number of providers 
+in the same (or any) hpsa and the total number of providers leaving service in a given year.  
+these rates are calculated one year after separation from nhsc, two years after separation 
+from nhsc and so on.  in the case of non-participants the annual retention rates are calculated 
+one year since the start year, two years since the start year and so on for each cohort. 
+
+in past literature, retention was approached in multiple ways, with a focus on the length of 
+retention in high need areas, the interval at which retention is measured, or defined by the 
+locations level of need.  previous retention studies that used retention measures defined by 
+these criteria include konrad et al. (2000), holmes (2004), holmes (2005), pathman et al., 
+2012(a), pathman et al., 2012(b), or pathman and konrad (2012).   
+
+ 
+
+12 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+retention of nhsc participants in hpsas 
+
+before we analyze the retention patterns of nhsc participants, it is important to articulate a 
+conceptual framework to guide the interpretation of the empirical results. in lewin (2014) we 
+constructed a theoretical model of location decisions made by providers.  in this chapter we 
+reiterate the main structure and predictions of the model, and then present the retention 
+analysis as viewed from the perspective of this model. 
+
+conceptual framework 
+
+in our previous study (lewin, 2014), we specified a theoretical model of geographic location 
+choices made by various groups of providers.  in this model, the individual provider is assumed 
+to periodically make choices of where to live and practice, guided by which location is offering 
+the highest utility.  this utility is a function of: pecuniary factors (compensation package), non-
+pecuniary factors (such as preferences for a location type, such as a hpsa); and random 
+shocks.  in the simple case of two locations, one being a hpsa, and another one being a non-
+hpsa location, the model predicts that the probability of choosing to locate in a hpsa increases 
+with the wage differential between the hpsa and non-hpsa locations, as well as with the 
+preference differential between the two locations. 
+
+when nhsc is available and all else is constant the probability of an eligible provider to choose 
+to locate in a hpsa increases.  more importantly, the nhsc award can attract to hpsas 
+providers with a strong distaste (or negative preferences) for hpsas, to the extent that the 
+nhsc award may be large enough to compensate for that negative preference.  assuming that 
+is the case, the direct implication is that the number of providers who serve in hpsas is most 
+likely greater than the number of providers who would serve there had there been no program.  
+these additional providers who are directly induced by the program to locate in hpsas reflect a 
+recruiting effect of the program. 
+
+if the program generates a recruiting effect as we define it above, it must follow that the average 
+preference for a hpsa location in the population of nhsc participants is lower than in the 
+population of non-participants who serve in hpsas.  this is driven by the additional providers 
+who serve in hpsas despite the fact that they dislike those locations, and do so only as a result 
+of the program award.  also, those providers who serve in hpsas without being nhsc 
+participants must have sufficiently high preferences for hpsa locations since they do not need 
+any additional incentive to serve there.7   
+
+the difference in the average preference for hpsas between the participants and non-
+participants has a direct impact on the hpsa retention rate.  as participants have a lower 
+average preference, they are less likely to remain in hpsas after they complete their nhsc 
+obligation.  in contrast, non-participating providers are more likely to remain in hpsas over time, 
+since they serve there in the first place, without the added incentive of the program.  therefore, 
+the post-obligation retention rates of participants will be lower than those of non-participants.   
+
+in the case when the hpsa retention of the two provider groups is exactly the same, it must be 
+because there is no difference between the participants average hpsa preference the non-
+participants average hpsa preference.  this in turn, would reflect that the program was not 
+successful in attracting additional providers, i.e., providers who would not locate in hpsas 
+without the incentive.  in other words, the recruiting effect of the program would be zero, and all 
+participants are simply providers who would have served in hpsas without the program.  in this 
+
+                                                
+
+7 of course, an implicit assumption is that the wages of participants and non-participants serving in hpsas are the 
+
+same.   
+
+ 
+
+13 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+case, the program award is a payment that does not change the behavior of participants in a 
+desired way.  on the contrary, when a large difference in the hpsa retention rates is reflected, 
+in light of our conceptual framework, it is consistent with a large recruiting effect of the program, 
+and thus points to the programs success in attracting new providers to serve in hpsas. 
+
+we also define a program retention effect as the increase in time served in hpsas by providers 
+beyond what would be supplied in the absence of the program.  in other words, the program has 
+a retention effect if the average time spent in hpsas by providers is larger than what they would 
+have spent had there been no program. 
+
+retention measures using longitudinal data (first analytic dataset) 
+
+in figure iii.1 we start with retention rates in primary care hpsas by years elapsed since 
+separation from service (for participants) and by years since start year (for non-participants). 
+
+using data from the first analytic dataset, we find that about 79% of the nhsc participants 
+serve in primary care hpsas one year after completion of their nhsc service.  less than half of 
+participants who are still in primary care hpsas one year after separation are actually in the 
+same county as the one in which they served while in service (i.e., 43% of participants). there is 
+a fairly steep decline in the retention rate in years 2 and 3 after separation (by about 10 and 3 
+percentage points, respectively), followed by a lower decline thereafter. 
+
+figure iii.3: retention rates of nhsc participants and non-participantsprimary 
+
+care 
+
+percent 
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+years since separation/start year 
+
+nhsc same hpsa
+nhsc any hpsa
+
+non-nhsc same hpsa
+non-nhsc any hpsa
+
+focusing on non-participants, we note that their retention rates in primary care hpsas are 
+always higher than the retention rates of participants, both in terms of retention in the same 
+hpsa as well as in terms of retention in a different hpsa. their retention also drops after we 
+first observe them in the data (their start year).  one year after we first observe non-
+
+ 
+
+ 
+
+14 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+participants in hpsas, 94% of them are still in hpsas.  moreover, a very large fraction of them 
+(89% of all non-participants) remain in the same hpsas where they were first observed.  the 
+retention rates in any hpsas decline by about 3-4 percentage points every year thereafter, 
+while the retention rates in the same hpsa decline at a slightly faster rate (about 6-7 
+percentage points per year).  these rates indicate that once non-participant providers serve in a 
+hpsa, they tend to remain in those areas, and to some extent even when they move, they 
+migrate from one hpsa to another. 
+
+in figure iii.2 we present the retention rates in mental health hpsas.  the retention rates of 
+participants are lower in mental health hpsas than in the case of primary care hpsas.  the 
+fraction of participants serving in the same hpsa as during the program drops from 35% in the 
+first year to 29% in the second year, and to 27% in the third year since separation. from then on 
+it hovers between value of 19% and 24%.  the retention rate of participants in any mental 
+health hpsa is relatively constant over the years, ranging between 56% and 67%. 
+
+similar to primary care hpsas, non-participants in mental health hpsas are more likely to stay 
+in the same hpsa than participants.  their retention rate declines by 3-4 percentage points 
+each year since the start year, while the retention rate in any hpsa declines at a lower rate, 
+about 2-3 percentage points. it is important to note that the retention rate in any mental health 
+hpsa is similar across participants and non-participants, especially in the further out years. 
+
+figure iii.4: retention rates of nhsc participants and non-participants 
+
+mental health 
+
+percent 
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+years since start year 
+
+nhsc same hpsa
+
+nhsc any hpsa
+
+non-nhsc same hpsa
+
+non-nhsc any hpsa
+
+it is important to note that we dropped from the retention analyses in figures iii.1 and iii.2 the 
+nhsc participants who left service in 2015, which is the last year of our timeframe.   
+
+ 
+
+ 
+
+15 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+retention measures using the second analytic dataset 
+
+so far, we have discussed retention statistics using only the first analytic dataset, which is 
+based on nhsc, medicare and p360 data.  while this analytic dataset is very useful in that it 
+tracks the participants and non-participants location over time, the number of participants 
+identified in this dataset may be arguably viewed as small (around 12,093 providers of the total 
+of 28,388).  we address this issue by presenting in tables iii.1-iii.3 the retention rates of nhsc 
+participants using the second analytic dataset.  however, we can only construct retention rates 
+as of january 2015, the time when the p360 data was last available to us. we ended up using a 
+number of 16,963 participants for the retention analyses we present below. 
+
+the rates in tables iii.1-iii.3 indicate the fraction of participants who remain in the same hpsa 
+or any hpsa between the time of service completion and january 2015.  as a result, the 
+fraction remaining in hpsas for the cohort of providers exiting nhsc in 2014 represents a 1-
+year retention rate, for those exiting in 2013 it is a 2-year rate and so on.  although the rates in 
+table iii.1 are not directly comparable to the rates plotted in figure iii.1, they nonetheless paint 
+a similar picture regarding the retention of participants in hpsas after service completion.  
+
+given that the retention rates in tables iii.1-iii.3 are inherently cohort-specific, we constructed 
+cohort-specific retention rates using the first analytic dataset (tables a.2 and a.3 in the 
+appendix). tables a.2 and a.3 allow for a direct comparison between the retention rates from 
+the first analytic dataset and the retention rates from the second analytic dataset (in tables iii.1 
+and iii.2).  as the retention rates from the first analytic dataset are virtually indistinguishable 
+from the retention rates from the second analytic dataset, we conclude that the first dataset 
+provides a comprehensive and representative picture of the entire sample of nhsc participants. 
+
+another advantage of the second analytic dataset was that it allowed us to construct retention 
+rates for providers in dental health hpsas.  these rates could not have been constructed with 
+data from the first analytic dataset, as the sample size of dental health providers billing 
+medicare was extremely small.  as can be noticed in table iii.3, the retention rates of dental 
+health participants were similar to the retention rates of providers in primary care and mental 
+health hpsas. 
+
+ 
+
+ 
+
+16 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+table iii.1: retention rates of nhsc participants as of january 2015primary 
+
+care 
+
+year of exit 
+
+hpsa & same 
+
+hpsa & other 
+
+non-hpsa & 
+
+non-hpsa & 
+
+total matched 
+
+from nhsc 
+
+county 
+
+county 
+
+same county 
+
+other county 
+
+in p360 data 
+
+2000 
+
+2000 
+
+2001 
+
+2001 
+
+2002 
+
+2002 
+
+2003 
+
+2003 
+
+2004 
+
+2004 
+
+2005 
+
+2005 
+
+2006 
+
+2006 
+
+2007 
+
+2007 
+
+2008 
+
+2008 
+
+2009 
+
+2009 
+
+2010 
+
+2010 
+
+2011 
+
+2011 
+
+2012 
+
+2012 
+
+2013 
+
+2013 
+
+2014 
+
+2014 
+
+2015 
+
+2015 
+
+total 
+
+total 
+
+30 
+
+64 
+
+19.35% 
+
+41.29% 
+
+36 
+
+62 
+
+12 
+
+7.74% 
+
+8 
+
+49 
+
+31.61% 
+
+44 
+
+24.00% 
+
+41.33% 
+
+5.33% 
+
+29.33% 
+
+47 
+
+59 
+
+30.92% 
+
+38.82% 
+
+83 
+
+34.30% 
+
+160 
+
+32.85% 
+
+196 
+
+33.91% 
+
+222 
+
+36.27% 
+
+190 
+
+36.61% 
+
+230 
+
+46.00% 
+
+203 
+
+41.34% 
+
+287 
+
+47.67% 
+
+598 
+
+46.94% 
+
+857 
+
+56.05% 
+
+217 
+
+54.52% 
+
+832 
+
+64.80% 
+
+854 
+
+84.14% 
+
+5,042 
+
+43.11% 
+
+93 
+
+38.43% 
+
+176 
+
+36.14% 
+
+211 
+
+36.51% 
+
+202 
+
+33.01% 
+
+182 
+
+35.07% 
+
+144 
+
+28.80% 
+
+136 
+
+27.70% 
+
+150 
+
+24.92% 
+
+333 
+
+26.14% 
+
+306 
+
+20.01% 
+
+88 
+
+22.11% 
+
+238 
+
+18.54% 
+
+0 
+
+0.00% 
+
+2,444 
+
+29.30% 
+
+ 
+
+9 
+
+5.92% 
+
+16 
+
+6.61% 
+
+38 
+
+7.80% 
+
+44 
+
+7.61% 
+
+52 
+
+8.50% 
+
+37 
+
+7.13% 
+
+33 
+
+6.60% 
+
+42 
+
+8.55% 
+
+52 
+
+8.64% 
+
+133 
+
+37 
+
+24.34% 
+
+50 
+
+20.66% 
+
+113 
+
+23.20% 
+
+127 
+
+21.97% 
+
+136 
+
+22.22% 
+
+110 
+
+21.19% 
+
+93 
+
+18.60% 
+
+110 
+
+22.40% 
+
+113 
+
+18.77% 
+
+210 
+
+10.44% 
+
+16.48% 
+
+158 
+
+208 
+
+10.33% 
+
+13.60% 
+
+40 
+
+53 
+
+10.05% 
+
+13.32% 
+
+115 
+
+8.96% 
+
+161 
+
+15.86% 
+
+950 
+
+8.51% 
+
+99 
+
+7.71% 
+
+0 
+
+0.00% 
+
+1,552 
+
+19.09% 
+
+155 
+
+ 
+
+150 
+
+ 
+
+152 
+
+ 
+
+242 
+
+ 
+
+487 
+
+ 
+
+578 
+
+ 
+
+612 
+
+ 
+
+519 
+
+ 
+
+500 
+
+ 
+
+491 
+
+ 
+
+602 
+
+ 
+
+1274 
+
+ 
+
+1529 
+
+ 
+
+398 
+
+ 
+
+1284 
+
+ 
+
+1015 
+
+ 
+
+9,988 
+
+ 
+
+ 
+
+17 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+table iii.2: retention rates of nhsc participants as of january 2015 
+
+mental health 
+
+year of exit  
+
+hpsa & same 
+
+hpsa & other 
+
+non-hpsa & 
+
+non-hpsa & 
+
+total matched 
+
+from nhsc 
+
+county 
+
+county 
+
+same county 
+
+other county 
+
+in p360 data 
+
+2000 
+
+2000 
+
+2001 
+
+2001 
+
+2002 
+
+2002 
+
+2003 
+
+2003 
+
+2004 
+
+2004 
+
+2005 
+
+2005 
+
+2006 
+
+2006 
+
+2007 
+
+2007 
+
+2008 
+
+2008 
+
+2009 
+
+2009 
+
+2010 
+
+2010 
+
+2011 
+
+2011 
+
+2012 
+
+2012 
+
+2013 
+
+2013 
+
+2014 
+
+2014 
+
+2015 
+
+2015 
+
+total 
+
+total 
+
+ 
+
+16 
+
+14 
+
+40.00% 
+
+35.00% 
+
+12 
+
+20 
+
+26.09% 
+
+43.48% 
+
+19 
+
+22 
+
+35.85% 
+
+41.51% 
+
+39 
+
+32 
+
+38.24% 
+
+31.37% 
+
+84 
+
+56 
+
+47.46% 
+
+31.64% 
+
+71 
+
+37.97% 
+
+103 
+
+44.21% 
+
+112 
+
+48.70% 
+
+114 
+
+52.29% 
+
+99 
+
+46.26% 
+
+146 
+
+51.77% 
+
+390 
+
+55.63% 
+
+550 
+
+59.20% 
+
+132 
+
+63.77% 
+
+489 
+
+66.80% 
+
+585 
+
+85.03% 
+
+2,961 
+
+49.95% 
+
+61 
+
+32.62% 
+
+74 
+
+31.76% 
+
+64 
+
+27.83% 
+
+57 
+
+26.15% 
+
+57 
+
+26.64% 
+
+76 
+
+26.95% 
+
+141 
+
+20.11% 
+
+182 
+
+19.59% 
+
+43 
+
+20.77% 
+
+132 
+
+18.03% 
+
+0 
+
+0.00% 
+
+1,031 
+
+27.09% 
+
+1 
+
+2.50% 
+
+1 
+
+2.17% 
+
+1 
+
+1.89% 
+
+3 
+
+2.94% 
+
+11 
+
+6.21% 
+
+15 
+
+8.02% 
+
+12 
+
+5.15% 
+
+17 
+
+7.39% 
+
+12 
+
+5.50% 
+
+19 
+
+8.88% 
+
+25 
+
+8.87% 
+
+64 
+
+9.13% 
+
+77 
+
+8.29% 
+
+12 
+
+5.80% 
+
+44 
+
+6.01% 
+
+103 
+
+14.97% 
+
+417 
+
+6.48% 
+
+9 
+
+22.50% 
+
+13 
+
+28.26% 
+
+11 
+
+20.75% 
+
+28 
+
+27.45% 
+
+26 
+
+14.69% 
+
+40 
+
+21.39% 
+
+44 
+
+18.88% 
+
+37 
+
+16.09% 
+
+35 
+
+16.06% 
+
+39 
+
+18.22% 
+
+35 
+
+12.41% 
+
+106 
+
+15.12% 
+
+120 
+
+12.92% 
+
+20 
+
+9.66% 
+
+67 
+
+9.15% 
+
+0 
+
+0.00% 
+
+630 
+
+16.47% 
+
+40 
+
+ 
+46 
+
+ 
+53 
+
+ 
+102 
+
+ 
+177 
+
+ 
+187 
+
+ 
+233 
+
+ 
+230 
+
+ 
+218 
+
+ 
+214 
+
+ 
+282 
+
+ 
+701 
+
+ 
+929 
+
+ 
+207 
+
+ 
+
+732 
+
+ 
+
+688 
+
+ 
+
+5,039 
+
+ 
+
+18 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+table iii. 3: retention rates of nhsc participants as of january 2015 
+
+dental health 
+
+year of exit  
+
+hpsa & same 
+
+hpsa & other 
+
+non-hpsa & 
+
+non-hpsa & 
+
+total matched 
+
+from nhsc 
+
+county 
+
+county 
+
+same county 
+
+other county 
+
+in p360 data 
+
+2000 
+
+2000 
+
+2001 
+
+2001 
+
+2002 
+
+2002 
+
+2003 
+
+2003 
+
+2004 
+
+2004 
+
+2005 
+
+2005 
+
+2006 
+
+2006 
+
+2007 
+
+2007 
+
+2008 
+
+2008 
+
+2009 
+
+2009 
+
+2010 
+
+2010 
+
+2011 
+
+2011 
+
+2012 
+
+2012 
+
+2013 
+
+2013 
+
+2014 
+
+2014 
+
+2015 
+
+2015 
+
+total 
+
+total 
+
+8 
+
+25.00% 
+
+9 
+
+23.08% 
+
+11 
+
+15 
+
+46.88% 
+
+18 
+
+46.15% 
+
+14 
+
+0 
+
+0.00% 
+
+1 
+
+2.56% 
+
+5 
+
+9 
+
+28.13% 
+
+11 
+
+28.21% 
+
+16 
+
+23.91% 
+
+30.43% 
+
+10.87% 
+
+34.78% 
+
+15 
+
+27 
+
+21.13% 
+
+38.03% 
+
+31 
+
+27 
+
+31.63% 
+
+27.55% 
+
+29 
+
+37 
+
+29.29% 
+
+37.37% 
+
+40 
+
+30 
+
+5 
+
+7.04% 
+
+9 
+
+9.18% 
+
+11 
+
+11.11% 
+
+13 
+
+24 
+
+33.80% 
+
+31 
+
+31.63% 
+
+22 
+
+22.22% 
+
+42 
+
+32.00% 
+
+24.00% 
+
+10.40% 
+
+33.60% 
+
+36 
+
+26 
+
+12 
+
+27 
+
+35.64% 
+
+25.74% 
+
+11.88% 
+
+26.73% 
+
+26 
+
+24 
+
+32.10% 
+
+29.63% 
+
+36 
+
+17 
+
+40.00% 
+
+18.89% 
+
+13 
+
+5 
+
+6.17% 
+
+11 
+
+12.22% 
+
+11 
+
+26 
+
+32.10% 
+
+26 
+
+28.89% 
+
+21 
+
+14.13% 
+
+11.96% 
+
+22.83% 
+
+46 
+
+22.12% 
+
+58 
+
+21.89% 
+
+19 
+
+16 
+
+7.69% 
+
+24 
+
+9.06% 
+
+12 
+
+39 
+
+18.75% 
+
+40 
+
+15.09% 
+
+17 
+
+20.88% 
+
+13.19% 
+
+18.68% 
+
+65 
+
+34 
+
+36 
+
+22.81% 
+
+11.93% 
+
+12.63% 
+
+0 
+
+0.00% 
+
+436 
+
+26.66% 
+
+54 
+
+25.35% 
+
+223 
+
+10.04% 
+
+0 
+
+0.00% 
+
+387 
+
+24.25% 
+
+ 
+
+47 
+
+51.09% 
+
+107 
+
+51.44% 
+
+143 
+
+53.96% 
+
+43 
+
+47.25% 
+
+150 
+
+52.63% 
+
+159 
+
+74.65% 
+
+890 
+
+39.05% 
+
+32 
+
+ 
+39 
+
+ 
+46 
+
+ 
+71 
+
+ 
+98 
+
+ 
+99 
+
+ 
+125 
+
+ 
+101 
+
+ 
+81 
+
+ 
+90 
+
+ 
+92 
+
+ 
+208 
+
+ 
+265 
+
+ 
+91 
+
+ 
+
+285 
+
+ 
+
+213 
+
+ 
+
+1,936 
+
+finally, tables a.4 and a.5 in the appendix show no substantial variation in the retention rates 
+of providers by provider type.  primary care participants are slightly more likely to stay in the 
+
+ 
+
+19 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+same hpsa same county and less likely to stay in hpsas in other counties than np/pas, while 
+mental health physicians are in general less likely than np/pas to remain in hpsas.  we return 
+to this issue in chapter iv to determine whether differences in retention rates remain after we 
+adjust for the providers age, gender and other individual level and local area characteristics. 
+
+a comparison with previous retention results 
+
+in lewin (2014), the retention rates are shorter, given the shorter timeframe (up to six years 
+using the first analytic dataset).  for the years since separation that overlap with those available 
+in lewin (2014), we can compare the retention rates directly.   
+
+in the case of primary care providers, the same hpsa retention rates in the first years after 
+separation from service are lower than in the previous study.  specifically, the retention rates 
+from this study are between 6 to 10 percentage points lower than in lewin (2014) for the first 
+years since separation, with the difference being larger in the further-out years.  this suggests 
+that the primary care providers who left nhsc in the more recent years leave the hpsa where 
+they served at higher rates than before.   
+
+however, when comparing the any hpsa retention rates, it turns out that although the 
+retention rates from this study are smaller than the ones reported in lewin (2014), the 
+differences are much smaller than in the case of same hpsa retention (about 2-3 percentage 
+points).  this suggests that nhsc alumni still remain in hpsa at elevated rates (just as 
+documented in lewin 2014), but the moves from the same hpsa to any hpsa locations are 
+more frequent in the recent years than in the past.  
+
+similarly, in the case of mental health providers, the same hpsa retention is smaller than in 
+lewin (2014), by values between 2 and 12 percentage points.  the differences in any hpsa 
+retention are much smaller (between 1 and 2 percentage points, with one exception).  as in the 
+case of primary care providers, this points to: (i) an increase in the frequency with which 
+providers move out of the hpsas where they served while in nhsc; and (ii) a large fraction of 
+these moves out of same hpsa have as a destination another hpsa, such that the any 
+hpsa retention is overall very close to the any hpsa retention from the previous study. 
+
+as we explain above, in our theoretical framework a zero difference between the retention rates 
+participants and non-participants is equivalent to a zero recruiting effect.  when the program is 
+successful in attracting providers who would not serve in hpsas without the incentive, then the 
+program has a recruiting effect, and since the average hpsa preference for the newly attracted 
+providers is lower than the average preference of the rest of the providers, it follows that the 
+post-obligation retention rate of participants is lower than that of non-participants.  importantly, 
+the retention differential becomes larger when the recruiting effect is larger.   
+
+in lewin (2104), the average retention differential between non-participants and participants 
+over the first six years since separation/start year is 11.7 percentage points for primary care 
+providers, and 3.3 percentage points for mental health providers.  it turns out that in this study 
+the average retention differential over the first six years since separation/start year is 13.6 and 
+5.4 percentage points for primary care and mental health providers, respectively.  this increase 
+in the retention differential is consistent with an increase in the program recruiting effect.  it is in 
+fact possible that the increase in the program generosity and program outreach that were an 
+outgrowth of the aca and arra changes in the 2009-2011 period resulted in more and more 
+providers who would not have served in hpsas in the absence of the nhsc award.  if that were 
+the case, then these new program participants had a smaller retention rate, potentially indicating 
+that the programs recruiting effect over the last few years has increased.   
+
+ 
+
+20 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+retention of participants by place of nhsc service 
+
+we also analyze the retention patterns of nhsc providers by the place of service to understand 
+whether the institution type they work in is associated with their propensity to remain in hpsas 
+after service completion. 
+
+in table iii.4 we investigate the retention of providers by whether they were working in a 
+federally qualified health center (fqhc) at the time of nhsc completion.  using the first 
+analytic dataset, we construct the same hpsa and any hpsa retention rates for the 
+participants who leave service from a fqhc and compare them with all nhsc alumnis rates. 
+
+table iii.4: comparison of retention trends by nhsc place of service (fqhc vs 
+
+non-fqhc locations)  primary care 
+
+separation year 
+
+same hpsa 
+
+any hpsa 
+
+in fqhc 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+all nhsc 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+49.1% 
+
+41.9% 
+
+39.5% 
+
+36.0% 
+
+35.4% 
+
+35.3% 
+
+36.6% 
+
+33.9% 
+
+36.0% 
+
+30.7% 
+
+43.0% 
+
+32.8% 
+
+29.8% 
+
+27.4% 
+
+27.1% 
+
+25.5% 
+
+25.8% 
+
+22.8% 
+
+22.1% 
+
+19.0% 
+
+79.8% 
+
+74.5% 
+
+70.9% 
+
+70.0% 
+
+69.1% 
+
+69.3% 
+
+70.5% 
+
+71.0% 
+
+70.1% 
+
+72.3% 
+
+78.6% 
+
+73.2% 
+
+70.4% 
+
+70.0% 
+
+69.6% 
+
+68.9% 
+
+69.2% 
+
+69.3% 
+
+67.4% 
+
+67.5% 
+
+as shown in table iii.4, providers who serve in fqhcs are virtually across the board more likely 
+to serve in hpsas after they complete their nhsc obligation.  this may potentially indicate that 
+providers who find employment in fqhcs are typically more inclined to serve the populations 
+that seek medical services at fqhcs.  if the retention rates in table iii.4 represent any 
+indication that the fqhc participants have a higher preference for serving in hpsas, it may 
+also be the case that a number of these providers would have gone to hpsas even in the 
+absence of the nhsc award.
+
+ 
+
+21 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+determinants of provider retention in hpsas 
+
+next, we attempt to determine how much of the retention differential between participants and 
+non-participants is due to the program, and how much due to other characteristics. 
+
+econometric model 
+
+for this purpose, we used the data on nhsc participants and the data on non-participants from 
+the first analytic dataset to estimate regression models in which we control for observable 
+characteristics on each individual (), local area characteristics () and an indicator for 
+program participation (
+
+) 
+
+ =    + 
+
+   + 
+
+   +  
+
+(1) 
+
+we estimated model (1) by using the same hpsa and the any hpsa indicator variables as 
+the dependent variable, respectively.  the coefficient of interest, , indicates the impact of 
+nhsc program participation on the number of years served in a hpsa. the 
+individual-level characteristics like age, gender and provider type, while the 
+census division indicator variables and local area characteristics (at the zip code level), such as: 
+family income, poverty rate, percent white, percent black, fraction of the population over 25 with 
+a high school degree and percent of the population over the age of 65.  these variables helped 
+control for factors that retain or induce providers to leave from their initial place of service. 
+
+ vector included 
+vector included 
+
+main results 
+
+as in lewin (2014), we estimated model (1) using a logit specification, separately for primary 
+care and mental health hpsas, and by using the same hpsa and the any hpsa indicators 
+as dependent variables.  the coefficient estimates are shown in tables iv.1-iv.4.  in each of 
+these tables we present 10 models, one for each year elapsed since separation or start year. 
+
+in all models of table iv.1 we estimate a lower probability of remaining in the same primary 
+care hpsa for participants relative to non-participants.  female providers were slightly less 
+likely to remain in hpsas, and older providers were more likely to remain in the same hpsa 
+over time.  we detect no systematic differences by provider type.  providers leaving service or 
+appearing for the first time in the data in the earlier years (2005 or 2006) had a higher 
+probability of remaining in the same hpsa relative to those whose separation/start year 
+occurred later. it is important to note that the coefficient estimates on the local area 
+characteristics are in many cases statistically significant, indicating that providers are more likely 
+to remain in hpsas where the poverty rate is higher, the fraction of older population is higher 
+and the ratio of individuals over the age of 25 with a high school degree is lower.8  
+
+the first year of the analytic dataset was 2005 for non-participants. we coded the start year 
+variable to take the value of 1 for all non-participants, although some of them may have been in 
+their locations for longer periods.  we did not detect any differences in the main regression 
+coefficients if we included only providers of ages that are similar to the age of participants. 
+
+                                                
+
+8in tables iv.1-iv.4, we report in parentheses robust standard errors, clustered by hpsa.  the base 
+group is defined as providers who are: male, age 26-35, non-physician and non-np/pa, having a start 
+year of 2012 or later, and serving in the northeast.  the coefficient on any of the dummy variables 
+included in these models shows the estimated difference relative to the corresponding excluded category.  
+we do not report the intercept and the coefficients on the census division dummies for reasons of space. 
+
+ 
+
+ 
+
+22 
+
+prog ixzretention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+table iv. 1: same hpsa logit models of retentionprimary care 
+
+variable 
+
+1 year 
+
+2 years 
+
+3 years 
+
+4 years 
+
+5 years 
+
+6 years 
+
+7 years 
+
+8 years 
+
+9 years 
+
+10 years 
+
+nhsc 
+participant 
+
+female 
+
+age 36-45 
+
+age 46-55 
+
+age 56-65 
+
+age over 
+65 
+
+md 
+
+np 
+
+pa 
+
+start year 
+2005 
+
+start year 
+2006 
+
+start year 
+2007 
+
+start year 
+2008 
+
+start year 
+2009 
+
+start year 
+2010 
+
+start year 
+2011 
+
+log family 
+income 
+
+poverty 
+rate 
+
+percent 
+white 
+
+percent 
+black 
+
+pct hs 
+over 25 
+
+pct pop 
+over 65 
+
+obs 
+
+ 
+
+-2.316*** 
+
+-2.035*** 
+
+-1.614*** 
+
+-1.470*** 
+
+-1.405*** 
+
+-1.439*** 
+
+-1.457*** 
+
+-1.652*** 
+
+-1.625*** 
+
+-1.831*** 
+
+(0.057) 
+
+-0.010 
+
+(0.018) 
+
+(0.061) 
+
+(0.060) 
+
+(0.068) 
+
+(0.079) 
+
+(0.084) 
+
+(0.092) 
+
+(0.104) 
+
+(0.117) 
+
+-0.031** 
+
+-0.025* 
+
+-0.054*** 
+
+-0.059*** 
+
+-0.065*** 
+
+-0.121*** 
+
+-0.132*** 
+
+-0.144*** 
+
+(0.015) 
+
+(0.014) 
+
+(0.014) 
+
+(0.015) 
+
+(0.015) 
+
+(0.019) 
+
+0.180*** 
+
+0.230*** 
+
+0.207*** 
+
+0.222*** 
+
+0.213*** 
+
+0.177*** 
+
+0.123** 
+
+(0.019) 
+
+(0.020) 
+
+(0.021) 
+
+(0.021) 
+
+(0.027) 
+
+(0.034) 
+
+(0.049) 
+
+(0.019) 
+
+-0.106* 
+
+(0.064) 
+
+(0.020) 
+
+0.113 
+
+(0.117) 
+
+(0.158) 
+
+-0.010 
+
+(0.021) 
+
+0.030 
+
+(0.177) 
+
+0.477*** 
+
+0.573*** 
+
+0.559*** 
+
+0.626*** 
+
+0.647*** 
+
+0.641*** 
+
+0.568*** 
+
+0.349*** 
+
+0.574*** 
+
+0.393** 
+
+(0.028) 
+
+(0.027) 
+
+(0.027) 
+
+(0.027) 
+
+(0.031) 
+
+(0.038) 
+
+(0.050) 
+
+(0.065) 
+
+(0.117) 
+
+(0.179) 
+
+0.659*** 
+
+0.770*** 
+
+0.778*** 
+
+0.847*** 
+
+0.888*** 
+
+0.905*** 
+
+0.846*** 
+
+0.651*** 
+
+0.885*** 
+
+0.672*** 
+
+(0.039) 
+
+(0.036) 
+
+(0.035) 
+
+(0.034) 
+
+(0.036) 
+
+(0.043) 
+
+(0.052) 
+
+(0.067) 
+
+(0.119) 
+
+(0.180) 
+
+0.914*** 
+
+1.104*** 
+
+1.097*** 
+
+1.153*** 
+
+1.208*** 
+
+1.207*** 
+
+1.240*** 
+
+1.029*** 
+
+1.251*** 
+
+0.966*** 
+
+(0.057) 
+
+(0.050) 
+
+(0.050) 
+
+(0.048) 
+
+-0.463*** 
+
+-0.406*** 
+
+-0.253* 
+
+-0.402** 
+
+(0.145) 
+
+-0.290** 
+
+(0.148) 
+
+(0.138) 
+
+-0.226 
+
+(0.141) 
+
+-0.428*** 
+
+-0.364** 
+
+(0.151) 
+
+-0.071 
+
+(0.154) 
+
+-0.248 
+
+(0.157) 
+
+(0.165) 
+
+-0.243 
+
+(0.169) 
+
+-0.389** 
+
+(0.177) 
+
+(0.050) 
+
+-0.342* 
+
+(0.184) 
+
+-0.212 
+
+(0.185) 
+
+-0.361* 
+
+(0.187) 
+
+(0.065) 
+
+0.235 
+
+(0.329) 
+
+0.390 
+
+(0.328) 
+
+0.156 
+
+(0.331) 
+
+(0.074) 
+
+0.312 
+
+(0.385) 
+
+0.447 
+
+(0.385) 
+
+0.180 
+
+(0.389) 
+
+(0.122) 
+
+0.499 
+
+(0.371) 
+
+0.599 
+
+(0.373) 
+
+0.393 
+
+(0.380) 
+
+(0.181) 
+
+-0.127 
+
+(0.400) 
+
+0.104 
+
+(0.401) 
+
+-0.110 
+
+(0.408) 
+
+0.408*** 
+
+0.760*** 
+
+0.695*** 
+
+0.739*** 
+
+0.766*** 
+
+0.641*** 
+
+0.614*** 
+
+(0.036) 
+
+(0.039) 
+
+(0.035) 
+
+(0.030) 
+
+(0.026) 
+
+(0.029) 
+
+(0.064) 
+
+-0.011 
+
+(0.153) 
+
+0.128 
+
+(0.157) 
+
+0.007 
+
+(0.163) 
+
+0.172*** 
+
+(0.033) 
+
+-0.065 
+
+(0.044) 
+
+(0.151) 
+
+-0.018 
+
+(0.028) 
+
+-0.492*** 
+
+(0.039) 
+
+(0.144) 
+
+(0.036) 
+
+-0.023 
+
+(0.042) 
+
+-0.012 
+
+(0.041) 
+
+-0.281*** 
+
+-0.565*** 
+
+(0.038) 
+
+(0.035) 
+
+0.363*** 
+
+0.289*** 
+
+0.445*** 
+
+0.473*** 
+
+0.318*** 
+
+(0.039) 
+
+(0.039) 
+
+(0.036) 
+
+(0.037) 
+
+(0.033) 
+
+0.352*** 
+
+0.245*** 
+
+0.418*** 
+
+0.385*** 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-0.194*** 
+
+-0.604*** 
+
+-0.150*** 
+
+-0.121*** 
+
+(0.038) 
+
+(0.037) 
+
+(0.043) 
+
+(0.034) 
+
+-0.197*** 
+
+-0.672*** 
+
+-0.705*** 
+
+-0.098*** 
+
+(0.040) 
+
+(0.038) 
+
+(0.042) 
+
+-0.249*** 
+
+-1.436*** 
+
+-0.563*** 
+
+(0.044) 
+
+(0.039) 
+
+(0.043) 
+
+-1.827*** 
+
+-1.385*** 
+
+-0.620*** 
+
+(0.042) 
+
+-0.271 
+
+(0.211) 
+
+(0.038) 
+
+-0.264 
+
+(0.218) 
+
+(0.040) 
+
+-0.316 
+
+(0.218) 
+
+(0.037) 
+
+(0.037) 
+
+-0.052 
+
+(0.036) 
+
+ 
+
+ 
+
+(0.037) 
+
+-0.015 
+
+(0.038) 
+
+-0.073* 
+
+(0.040) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(0.034) 
+
+(0.031) 
+
+0.112*** 
+
+(0.036) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-0.329 
+
+(0.227) 
+
+-0.354 
+
+(0.231) 
+
+-0.371 
+
+(0.232) 
+
+-0.678** 
+
+-0.698*** 
+
+-0.701*** 
+
+-0.735*** 
+
+(0.267) 
+
+(0.262) 
+
+(0.258) 
+
+(0.221) 
+
+0.030*** 
+
+0.030*** 
+
+0.028*** 
+
+0.027*** 
+
+0.026*** 
+
+0.026*** 
+
+0.020*** 
+
+0.021*** 
+
+0.021*** 
+
+0.023*** 
+
+(0.005) 
+
+-0.139 
+
+(0.332) 
+
+0.528 
+
+(0.346) 
+
+(0.005) 
+
+-0.217 
+
+(0.323) 
+
+0.494 
+
+(0.331) 
+
+(0.006) 
+
+-0.434 
+
+(0.336) 
+
+0.444 
+
+(0.341) 
+
+(0.006) 
+
+-0.511 
+
+(0.352) 
+
+0.445 
+
+(0.352) 
+
+(0.006) 
+
+-0.470 
+
+(0.352) 
+
+0.490 
+
+(0.358) 
+
+(0.006) 
+
+-0.399 
+
+(0.363) 
+
+0.538 
+
+(0.361) 
+
+(0.007) 
+
+0.006 
+
+(0.387) 
+
+0.754* 
+
+(0.393) 
+
+(0.007) 
+
+0.051 
+
+(0.390) 
+
+0.769* 
+
+(0.397) 
+
+(0.007) 
+
+0.040 
+
+(0.394) 
+
+0.773* 
+
+(0.409) 
+
+(0.007) 
+
+-0.206 
+
+(0.377) 
+
+0.630 
+
+(0.387) 
+
+-3.920*** 
+
+-3.912*** 
+
+-3.711*** 
+
+-3.582*** 
+
+-3.609*** 
+
+-3.488*** 
+
+-3.994*** 
+
+-4.058*** 
+
+-3.919*** 
+
+-4.386*** 
+
+(0.876) 
+
+(0.920) 
+
+(0.937) 
+
+(0.964) 
+
+(0.973) 
+
+(0.953) 
+
+(1.092) 
+
+(1.104) 
+
+(1.123) 
+
+2.704** 
+
+2.728** 
+
+3.521*** 
+
+3.674*** 
+
+3.837*** 
+
+3.522** 
+
+3.523** 
+
+3.434** 
+
+3.337** 
+
+(1.260) 
+
+(1.271) 
+
+(1.365) 
+
+(1.401) 
+
+(1.396) 
+
+(1.374) 
+
+(1.372) 
+
+(1.380) 
+
+(1.416) 
+
+(1.053) 
+
+3.441** 
+
+(1.371) 
+
+264,688 
+
+245,564 
+
+227,167 
+
+206,499 
+
+191,559 
+
+178,020 
+
+153,919 
+
+140,492 
+
+121,641 
+
+112,659 
+
+23 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+table iv. 2: any hpsa logit models of retentionprimary care 
+
+variable 
+
+1 year 
+
+2 years 
+
+3 years 
+
+4 years 
+
+5 years 
+
+6 years 
+
+7 years 
+
+8 years 
+
+9 years 
+
+10 years 
+
+nhsc 
+participant 
+
+female 
+
+age 36-45 
+
+age 46-55 
+
+age 56-65 
+
+age over 
+65 
+
+md 
+
+np 
+
+pa 
+
+start year 
+2005 
+
+start year 
+2006 
+
+start year 
+2007 
+
+start year 
+2008 
+
+start year 
+2009 
+
+start year 
+2010 
+
+start year 
+2011 
+
+log family 
+income 
+
+poverty 
+rate 
+
+percent 
+white 
+
+percent 
+black 
+
+pct hs 
+over 25 
+
+pct pop 
+over 65 
+
+obs 
+
+ 
+
+-1.365*** 
+
+-1.007*** 
+
+-0.681*** 
+
+-0.494*** 
+
+-0.441*** 
+
+-0.431*** 
+
+-0.427*** 
+
+-0.412*** 
+
+-0.475*** 
+
+-0.530*** 
+
+(0.079) 
+
+(0.073) 
+
+(0.069) 
+
+(0.069) 
+
+(0.077) 
+
+(0.083) 
+
+(0.083) 
+
+(0.095) 
+
+(0.109) 
+
+(0.140) 
+
+-0.047** 
+
+-0.065*** 
+
+-0.068*** 
+
+-0.091*** 
+
+-0.099*** 
+
+-0.105*** 
+
+-0.136*** 
+
+-0.142*** 
+
+-0.151*** 
+
+-0.030 
+
+(0.024) 
+
+(0.022) 
+
+(0.019) 
+
+(0.019) 
+
+(0.018) 
+
+(0.019) 
+
+(0.023) 
+
+(0.023) 
+
+(0.025) 
+
+(0.026) 
+
+0.160*** 
+
+0.169*** 
+
+0.165*** 
+
+0.152*** 
+
+0.151*** 
+
+0.097** 
+
+0.075 
+
+0.030 
+
+0.159 
+
+(0.024) 
+
+(0.024) 
+
+(0.022) 
+
+(0.025) 
+
+(0.028) 
+
+(0.038) 
+
+(0.055) 
+
+(0.073) 
+
+(0.123) 
+
+0.487*** 
+
+0.536*** 
+
+0.468*** 
+
+0.508*** 
+
+0.497*** 
+
+0.451*** 
+
+0.402*** 
+
+0.346*** 
+
+0.465*** 
+
+(0.038) 
+
+(0.034) 
+
+(0.032) 
+
+(0.032) 
+
+(0.035) 
+
+(0.043) 
+
+(0.055) 
+
+(0.072) 
+
+(0.124) 
+
+0.112 
+
+(0.191) 
+
+0.327* 
+
+(0.190) 
+
+0.710*** 
+
+0.779*** 
+
+0.729*** 
+
+0.742*** 
+
+0.754*** 
+
+0.707*** 
+
+0.648*** 
+
+0.614*** 
+
+0.732*** 
+
+0.523*** 
+
+(0.053) 
+
+(0.042) 
+
+(0.040) 
+
+(0.040) 
+
+(0.040) 
+
+(0.048) 
+
+(0.061) 
+
+(0.077) 
+
+(0.127) 
+
+(0.192) 
+
+0.950*** 
+
+1.025*** 
+
+0.974*** 
+
+0.992*** 
+
+0.975*** 
+
+0.930*** 
+
+0.965*** 
+
+0.915*** 
+
+1.062*** 
+
+0.761*** 
+
+(0.089) 
+
+(0.080) 
+
+(0.060) 
+
+(0.061) 
+
+(0.055) 
+
+(0.059) 
+
+(0.077) 
+
+(0.089) 
+
+(0.133) 
+
+0.055 
+
+-0.816*** 
+
+-0.729*** 
+
+-0.441** 
+
+-0.593** 
+
+-0.636** 
+
+0.045 
+
+0.098 
+
+(0.246) 
+
+(0.262) 
+
+(0.218) 
+
+(0.223) 
+
+(0.233) 
+
+(0.288) 
+
+(0.398) 
+
+(0.365) 
+
+0.169 
+
+-0.696** 
+
+-0.615*** 
+
+-0.330 
+
+-0.501** 
+
+-0.558* 
+
+0.159 
+
+0.201 
+
+(0.254) 
+
+(0.270) 
+
+(0.223) 
+
+(0.229) 
+
+(0.240) 
+
+(0.290) 
+
+(0.398) 
+
+(0.365) 
+
+0.081 
+
+-0.780*** 
+
+-0.647*** 
+
+-0.410* 
+
+-0.542** 
+
+-0.580** 
+
+0.012 
+
+0.046 
+
+0.472 
+
+(0.331) 
+
+0.557* 
+
+(0.333) 
+
+0.471 
+
+(0.261) 
+
+(0.269) 
+
+(0.225) 
+
+(0.227) 
+
+(0.242) 
+
+(0.292) 
+
+(0.401) 
+
+(0.370) 
+
+(0.340) 
+
+(0.194) 
+
+-0.269 
+
+(0.414) 
+
+-0.071 
+
+(0.417) 
+
+-0.168 
+
+(0.424) 
+
+0.213*** 
+
+0.002 
+
+0.334*** 
+
+0.608*** 
+
+0.529*** 
+
+0.497*** 
+
+0.439*** 
+
+0.392*** 
+
+0.375*** 
+
+(0.047) 
+
+(0.040) 
+
+(0.045) 
+
+(0.042) 
+
+(0.044) 
+
+(0.041) 
+
+(0.034) 
+
+(0.035) 
+
+(0.037) 
+
+0.046 
+
+-0.435*** 
+
+0.012 
+
+0.319*** 
+
+0.235*** 
+
+0.219*** 
+
+0.237*** 
+
+0.164*** 
+
+(0.058) 
+
+(0.049) 
+
+(0.052) 
+
+(0.045) 
+
+(0.046) 
+
+(0.042) 
+
+(0.040) 
+
+(0.040) 
+
+-0.172*** 
+
+-0.464*** 
+
+0.060 
+
+0.354*** 
+
+0.158*** 
+
+0.234*** 
+
+0.209*** 
+
+(0.051) 
+
+(0.047) 
+
+(0.055) 
+
+(0.045) 
+
+(0.040) 
+
+(0.037) 
+
+(0.033) 
+
+-0.068 
+
+-0.503*** 
+
+-0.067 
+
+-0.050 
+
+0.015 
+
+0.054 
+
+(0.053) 
+
+(0.048) 
+
+(0.056) 
+
+(0.039) 
+
+(0.044) 
+
+(0.039) 
+
+-0.105* 
+
+-0.589*** 
+
+-0.560*** 
+
+-0.055 
+
+(0.058) 
+
+(0.053) 
+
+(0.050) 
+
+(0.044) 
+
+-0.046 
+
+(0.047) 
+
+-0.205*** 
+
+-1.264*** 
+
+-0.483*** 
+
+-0.013 
+
+(0.063) 
+
+(0.042) 
+
+(0.051) 
+
+(0.044) 
+
+-1.574*** 
+
+-1.219*** 
+
+-0.497*** 
+
+(0.041) 
+
+(0.038) 
+
+(0.047) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-0.693** 
+
+-0.717** 
+
+-0.865** 
+
+-0.942*** 
+
+-0.947*** 
+
+-0.966*** 
+
+-1.146*** 
+
+-1.184*** 
+
+-1.189*** 
+
+-1.491*** 
+
+(0.340) 
+
+(0.349) 
+
+(0.351) 
+
+(0.356) 
+
+(0.357) 
+
+(0.361) 
+
+(0.400) 
+
+(0.398) 
+
+(0.394) 
+
+(0.350) 
+
+0.067*** 
+
+0.068*** 
+
+0.060*** 
+
+0.054*** 
+
+0.054*** 
+
+0.058*** 
+
+0.052*** 
+
+0.052*** 
+
+0.052*** 
+
+0.054*** 
+
+(0.013) 
+
+(0.013) 
+
+(0.013) 
+
+(0.013) 
+
+(0.013) 
+
+(0.014) 
+
+(0.014) 
+
+(0.015) 
+
+(0.015) 
+
+(0.013) 
+
+0.005 
+
+0.066 
+
+-0.149 
+
+-0.168 
+
+-0.083 
+
+0.060 
+
+0.374 
+
+0.391 
+
+(0.603) 
+
+(0.553) 
+
+(0.561) 
+
+(0.567) 
+
+(0.550) 
+
+(0.555) 
+
+(0.552) 
+
+(0.548) 
+
+0.785 
+
+0.833 
+
+0.891 
+
+0.975 
+
+1.031 
+
+1.027 
+
+1.159* 
+
+1.115* 
+
+(0.713) 
+
+(0.673) 
+
+(0.686) 
+
+(0.697) 
+
+(0.679) 
+
+(0.676) 
+
+(0.679) 
+
+(0.674) 
+
+0.416 
+
+(0.550) 
+
+1.137* 
+
+(0.690) 
+
+0.448 
+
+(0.555) 
+
+1.242* 
+
+(0.699) 
+
+-5.290*** 
+
+-5.333*** 
+
+-5.020*** 
+
+-4.816*** 
+
+-4.723*** 
+
+-4.553*** 
+
+-4.843*** 
+
+-4.946*** 
+
+-4.826*** 
+
+-5.070*** 
+
+(1.481) 
+
+(1.561) 
+
+(1.524) 
+
+(1.547) 
+
+(1.545) 
+
+(1.528) 
+
+(1.629) 
+
+(1.650) 
+
+(1.667) 
+
+(1.579) 
+
+8.588*** 
+
+8.714*** 
+
+9.421*** 
+
+9.493*** 
+
+9.728*** 
+
+9.363*** 
+
+9.514*** 
+
+9.428*** 
+
+9.307*** 
+
+9.567*** 
+
+(2.866) 
+
+(2.783) 
+
+(2.846) 
+
+(2.812) 
+
+(2.774) 
+
+(2.676) 
+
+(2.681) 
+
+(2.697) 
+
+(2.747) 
+
+(2.543) 
+
+264,688 
+
+245,564 
+
+227,167 
+
+206,499 
+
+191,559 
+
+178,020 
+
+153,919 
+
+140,492 
+
+121,641 
+
+112,659 
+
+ 
+
+ 
+
+24 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+table iv. 3: same hpsa logit models of retentionmental care 
+
+variable 
+
+1 year 
+
+2 years 
+
+3 years 
+
+4 years 
+
+5 years 
+
+6 years 
+
+7 years 
+
+8 years 
+
+9 years 
+
+10 years 
+
+nhsc 
+participant 
+
+female 
+
+age 36-45 
+
+age 46-55 
+
+age 56-65 
+
+age over 
+65 
+
+md 
+
+np 
+
+start year 
+2005 
+
+start year 
+2006 
+
+start year 
+2007 
+
+start year 
+2008 
+
+start year 
+2009 
+
+start year 
+2010 
+
+start year 
+2011 
+
+log family 
+income 
+
+poverty 
+rate 
+
+percent 
+white 
+
+percent 
+black 
+
+pct hs 
+over 25 
+
+pct pop 
+over 65 
+
+obs 
+
+ 
+
+ 
+
+-1.135*** 
+
+-1.247*** 
+
+-1.102*** 
+
+-1.130*** 
+
+-1.329*** 
+
+-1.496*** 
+
+-1.499*** 
+
+-1.278*** 
+
+-1.489*** 
+
+-0.886* 
+
+(0.152) 
+
+(0.161) 
+
+(0.162) 
+
+(0.189) 
+
+(0.214) 
+
+(0.222) 
+
+(0.294) 
+
+(0.317) 
+
+(0.441) 
+
+(0.478) 
+
+-0.010 
+
+-0.019 
+
+0.006 
+
+-0.011 
+
+(0.037) 
+
+(0.039) 
+
+(0.040) 
+
+(0.042) 
+
+-0.012 
+
+(0.043) 
+
+0.093 
+
+0.120* 
+
+0.154* 
+
+0.298*** 
+
+0.363** 
+
+-0.013 
+
+-0.075 
+
+-0.041 
+
+-0.068 
+
+0.029 
+
+(0.045) 
+
+0.573** 
+
+(0.050) 
+
+(0.052) 
+
+(0.056) 
+
+(0.065) 
+
+0.223 
+
+-0.199 
+
+-2.097 
+
+-13.808*** 
+
+(0.063) 
+
+(0.072) 
+
+(0.087) 
+
+(0.104) 
+
+(0.156) 
+
+(0.228) 
+
+(0.490) 
+
+(0.580) 
+
+(1.991) 
+
+(3.154) 
+
+0.083 
+
+0.210*** 
+
+0.352*** 
+
+0.528*** 
+
+0.633*** 
+
+0.824*** 
+
+0.467 
+
+0.028 
+
+-1.595 
+
+-13.186*** 
+
+(0.069) 
+
+(0.076) 
+
+(0.090) 
+
+(0.108) 
+
+(0.167) 
+
+(0.237) 
+
+(0.489) 
+
+(0.587) 
+
+(1.992) 
+
+(3.152) 
+
+0.210*** 
+
+0.339*** 
+
+0.449*** 
+
+0.597*** 
+
+0.706*** 
+
+0.964*** 
+
+0.619 
+
+0.208 
+
+-1.424 
+
+-13.080*** 
+
+(0.071) 
+
+(0.081) 
+
+(0.097) 
+
+(0.117) 
+
+(0.167) 
+
+(0.235) 
+
+(0.486) 
+
+(0.577) 
+
+(1.988) 
+
+(3.155) 
+
+0.204** 
+
+0.427*** 
+
+0.550*** 
+
+0.698*** 
+
+0.799*** 
+
+1.071*** 
+
+0.810 
+
+0.364 
+
+-1.217 
+
+-12.852*** 
+
+(0.093) 
+
+(0.098) 
+
+(0.110) 
+
+(0.124) 
+
+(0.171) 
+
+(0.246) 
+
+(0.493) 
+
+(0.582) 
+
+(1.990) 
+
+(3.151) 
+
+-0.054 
+
+-0.189*** 
+
+-0.256*** 
+
+-0.344*** 
+
+-0.349*** 
+
+-0.365*** 
+
+-0.311*** 
+
+-0.308*** 
+
+-0.264*** 
+
+-0.357*** 
+
+(0.074) 
+
+(0.071) 
+
+(0.069) 
+
+(0.064) 
+
+(0.064) 
+
+(0.063) 
+
+(0.077) 
+
+(0.076) 
+
+(0.079) 
+
+(0.080) 
+
+0.013 
+
+-0.019 
+
+-0.177 
+
+-0.230** 
+
+-0.275** 
+
+-0.205 
+
+-0.303** 
+
+-0.364** 
+
+-0.332** 
+
+(0.099) 
+
+(0.108) 
+
+(0.110) 
+
+(0.105) 
+
+(0.107) 
+
+(0.126) 
+
+(0.134) 
+
+(0.150) 
+
+(0.164) 
+
+0.049 
+
+0.407*** 
+
+0.680*** 
+
+0.586*** 
+
+0.544*** 
+
+0.344*** 
+
+0.408*** 
+
+0.313*** 
+
+(0.080) 
+
+(0.097) 
+
+(0.100) 
+
+(0.105) 
+
+(0.107) 
+
+(0.125) 
+
+(0.069) 
+
+(0.112) 
+
+-0.113 
+
+0.245** 
+
+0.441*** 
+
+0.378*** 
+
+0.273* 
+
+0.142 
+
+0.186 
+
+0.049 
+
+(0.099) 
+
+0.134* 
+
+(0.073) 
+
+0.094 
+
+(0.166) 
+
+(0.124) 
+
+0.059 
+
+(0.117) 
+
+(0.128) 
+
+(0.101) 
+
+(0.101) 
+
+(0.124) 
+
+(0.128) 
+
+0.064 
+
+-0.139 
+
+0.209** 
+
+0.457*** 
+
+(0.089) 
+
+(0.097) 
+
+(0.105) 
+
+(0.108) 
+
+0.074 
+
+-0.113 
+
+0.090 
+
+0.022 
+
+(0.139) 
+
+0.201* 
+
+(0.113) 
+
+0.071 
+
+(0.147) 
+
+0.236** 
+
+0.156 
+
+(0.105) 
+
+(0.101) 
+
+(0.107) 
+
+(0.117) 
+
+(0.121) 
+
+(0.117) 
+
+0.000 
+
+-0.285** 
+
+-0.522*** 
+
+-0.086 
+
+(0.096) 
+
+(0.112) 
+
+(0.131) 
+
+(0.117) 
+
+-0.100 
+
+-1.025*** 
+
+-0.460*** 
+
+-0.110 
+
+(0.095) 
+
+(0.129) 
+
+(0.130) 
+
+(0.127) 
+
+-1.094*** 
+
+-0.941*** 
+
+-0.475*** 
+
+(0.124) 
+
+(0.129) 
+
+(0.120) 
+
+ 
+
+ 
+
+-0.113 
+
+(0.128) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-0.198 
+
+-0.047 
+
+0.018 
+
+0.087 
+
+-0.034 
+
+-0.094 
+
+-0.373 
+
+-0.256 
+
+-0.210 
+
+(0.330) 
+
+(0.300) 
+
+(0.290) 
+
+(0.291) 
+
+(0.294) 
+
+(0.274) 
+
+(0.312) 
+
+(0.302) 
+
+(0.338) 
+
+-0.362 
+
+(0.261) 
+
+0.044*** 
+
+0.046*** 
+
+0.047*** 
+
+0.051*** 
+
+0.043*** 
+
+0.042*** 
+
+0.042*** 
+
+0.044*** 
+
+0.048*** 
+
+0.041*** 
+
+(0.015) 
+
+(0.013) 
+
+(0.012) 
+
+(0.012) 
+
+(0.011) 
+
+(0.011) 
+
+(0.010) 
+
+(0.011) 
+
+(0.011) 
+
+-0.145 
+
+(0.681) 
+
+1.739** 
+
+(0.848) 
+
+-0.232 
+
+-0.380 
+
+(0.595) 
+
+(0.610) 
+
+1.472** 
+
+1.445** 
+
+(0.727) 
+
+(0.677) 
+
+-0.365 
+
+(0.550) 
+
+1.332** 
+
+(0.625) 
+
+-0.362 
+
+(0.539) 
+
+1.525** 
+
+(0.637) 
+
+-0.481 
+
+-0.378 
+
+-0.481 
+
+(0.543) 
+
+(0.596) 
+
+(0.611) 
+
+1.316** 
+
+(0.624) 
+
+1.251* 
+
+1.158 
+
+(0.702) 
+
+(0.715) 
+
+-0.466 
+
+(0.666) 
+
+1.279* 
+
+(0.766) 
+
+(0.010) 
+
+-0.478 
+
+(0.597) 
+
+1.416** 
+
+(0.697) 
+
+-4.294** 
+
+-4.048** 
+
+-3.541** 
+
+-3.290* 
+
+-3.320** 
+
+-3.457** 
+
+-1.758 
+
+-2.222 
+
+-2.383 
+
+-3.989*** 
+
+(1.956) 
+
+(1.756) 
+
+(1.675) 
+
+(1.688) 
+
+(1.625) 
+
+(1.641) 
+
+(1.500) 
+
+(1.501) 
+
+(1.547) 
+
+(1.493) 
+
+1.285 
+
+(2.935) 
+
+22,799 
+
+0.460 
+
+(2.586) 
+
+20,662 
+
+1.513 
+
+(2.484) 
+
+18,692 
+
+2.154 
+
+(2.328) 
+
+16,533 
+
+2.398 
+
+(2.368) 
+
+14,608 
+
+1.266 
+
+(2.314) 
+
+13,232 
+
+2.178 
+
+2.841 
+
+2.342 
+
+1.737 
+
+(2.242) 
+
+(2.189) 
+
+(2.291) 
+
+(2.241) 
+
+8,850 
+
+7,877 
+
+6,614 
+
+6,164 
+
+ 
+
+25 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+table iv. 4: any hpsa logit models of retentionmental care 
+
+variable 
+
+1 year 
+
+2 years 
+
+3 years 
+
+4 years 
+
+5 years 
+
+6 years 
+
+7 years 
+
+8 years 
+
+9 years 
+
+10 years 
+
+0.065 
+
+0.032 
+
+0.218 
+
+0.075 
+
+0.068 
+
+0.195 
+
+0.005 
+
+-0.118 
+
+-0.051 
+
+0.085 
+
+(0.162) 
+
+(0.171) 
+
+(0.162) 
+
+(0.170) 
+
+(0.163) 
+
+(0.207) 
+
+(0.233) 
+
+(0.247) 
+
+(0.317) 
+
+(0.398) 
+
+-0.007 
+
+-0.004 
+
+0.012 
+
+(0.040) 
+
+(0.042) 
+
+(0.042) 
+
+0.100 
+
+0.102 
+
+0.082 
+
+(0.072) 
+
+(0.077) 
+
+(0.084) 
+
+-0.005 
+
+(0.044) 
+
+0.236** 
+
+(0.100) 
+
+-0.009 
+
+-0.008 
+
+-0.040 
+
+-0.018 
+
+-0.035 
+
+0.010 
+
+(0.045) 
+
+(0.046) 
+
+(0.055) 
+
+(0.057) 
+
+(0.065) 
+
+(0.068) 
+
+0.268 
+
+0.172 
+
+0.546 
+
+0.099 
+
+-14.569*** 
+
+-18.179 
+
+(0.166) 
+
+(0.220) 
+
+(0.432) 
+
+(0.583) 
+
+(0.845) 
+
+(.) 
+
+0.049 
+
+(0.077) 
+
+0.173** 
+
+(0.079) 
+
+0.110 
+
+0.118 
+
+0.338*** 
+
+0.457*** 
+
+0.383* 
+
+0.725* 
+
+0.162 
+
+-14.398*** 
+
+-17.817*** 
+
+(0.078) 
+
+(0.085) 
+
+(0.105) 
+
+(0.173) 
+
+(0.226) 
+
+(0.432) 
+
+(0.576) 
+
+(0.720) 
+
+(0.150) 
+
+0.204** 
+
+0.195** 
+
+0.364*** 
+
+0.524*** 
+
+0.434** 
+
+0.715* 
+
+0.197 
+
+-14.363*** 
+
+-17.811*** 
+
+(0.082) 
+
+(0.093) 
+
+(0.116) 
+
+(0.177) 
+
+(0.220) 
+
+(0.427) 
+
+(0.577) 
+
+(0.926) 
+
+(0.146) 
+
+0.205** 
+
+0.283*** 
+
+0.318*** 
+
+0.473*** 
+
+0.601*** 
+
+0.558** 
+
+0.867** 
+
+0.330 
+
+-14.180*** 
+
+-17.665*** 
+
+(0.104) 
+
+(0.104) 
+
+(0.107) 
+
+(0.124) 
+
+(0.178) 
+
+(0.225) 
+
+(0.429) 
+
+(0.571) 
+
+(0.398) 
+
+(0.154) 
+
+0.066 
+
+-0.016 
+
+-0.028 
+
+-0.030 
+
+-0.046 
+
+-0.053 
+
+-0.068 
+
+-0.027 
+
+0.003 
+
+(0.080) 
+
+(0.075) 
+
+(0.070) 
+
+(0.071) 
+
+(0.074) 
+
+(0.085) 
+
+(0.084) 
+
+(0.085) 
+
+(0.083) 
+
+0.210** 
+
+(0.098) 
+
+0.200* 
+
+(0.106) 
+
+0.157 
+
+0.099 
+
+0.098 
+
+0.162 
+
+0.113 
+
+-0.004 
+
+0.158 
+
+(0.118) 
+
+(0.107) 
+
+(0.112) 
+
+(0.128) 
+
+(0.137) 
+
+(0.136) 
+
+(0.153) 
+
+0.112 
+
+(0.081) 
+
+0.170* 
+
+(0.102) 
+
+0.015 
+
+nhsc 
+participant 
+
+female 
+
+age 36-45 
+
+age 46-55 
+
+age 56-65 
+
+age over 
+65 
+
+md 
+
+np 
+
+start year 
+2005 
+
+start year 
+2006 
+
+start year 
+2007 
+
+start year 
+2008 
+
+start year 
+2009 
+
+start year 
+2010 
+
+start year 
+2011 
+
+-0.008 
+
+0.187* 
+
+0.435*** 
+
+0.330*** 
+
+0.256*** 
+
+-0.031 
+
+(0.105) 
+
+(0.097) 
+
+(0.082) 
+
+(0.088) 
+
+(0.113) 
+
+0.046 
+
+-0.111 
+
+0.095 
+
+(0.107) 
+
+(0.111) 
+
+(0.140) 
+
+(0.105) 
+
+0.271* 
+
+(0.141) 
+
+0.057 
+
+-0.021 
+
+0.170 
+
+0.439*** 
+
+(0.094) 
+
+(0.100) 
+
+(0.124) 
+
+(0.124) 
+
+0.051 
+
+-0.042 
+
+0.044 
+
+0.088 
+
+0.210 
+
+(0.135) 
+
+0.218* 
+
+(0.115) 
+
+0.151 
+
+(0.114) 
+
+-0.300* 
+
+(0.154) 
+
+-0.074 
+
+-0.095 
+
+(0.133) 
+
+0.126 
+
+0.153 
+
+(0.114) 
+
+(0.118) 
+
+(0.118) 
+
+(0.106) 
+
+(0.122) 
+
+(0.119) 
+
+(0.120) 
+
+(0.126) 
+
+0.002 
+
+-0.036 
+
+-0.357*** 
+
+-0.006 
+
+(0.106) 
+
+(0.116) 
+
+(0.136) 
+
+(0.118) 
+
+-0.070 
+
+-0.437*** 
+
+-0.213 
+
+0.148 
+
+(0.099) 
+
+(0.123) 
+
+(0.140) 
+
+(0.117) 
+
+-0.582*** 
+
+-0.576*** 
+
+-0.327** 
+
+(0.108) 
+
+(0.121) 
+
+(0.140) 
+
+ 
+
+ 
+
+-0.022 
+
+(0.129) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.176** 
+
+(0.077) 
+
+-0.067 
+
+(0.124) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.147 
+
+(0.115) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+log family 
+income 
+
+-0.390 
+
+-0.355 
+
+-0.395 
+
+-0.404 
+
+(0.349) 
+
+(0.326) 
+
+(0.326) 
+
+(0.331) 
+
+-0.497 
+
+(0.316) 
+
+-0.576* 
+
+(0.304) 
+
+-0.615* 
+
+(0.356) 
+
+-0.564 
+
+-0.431 
+
+-0.916*** 
+
+(0.358) 
+
+(0.376) 
+
+(0.287) 
+
+poverty 
+rate 
+
+percent 
+white 
+
+percent 
+black 
+
+pct hs 
+over 25 
+
+pct pop 
+over 65 
+
+obs 
+
+0.047*** 
+
+0.050*** 
+
+0.051*** 
+
+0.052*** 
+
+0.046*** 
+
+0.046*** 
+
+0.059*** 
+
+0.059*** 
+
+0.066*** 
+
+0.048*** 
+
+(0.018) 
+
+(0.017) 
+
+(0.016) 
+
+(0.015) 
+
+(0.015) 
+
+(0.014) 
+
+(0.015) 
+
+(0.016) 
+
+(0.016) 
+
+(0.014) 
+
+-0.012 
+
+(0.773) 
+
+2.362** 
+
+(1.090) 
+
+0.018 
+
+-0.040 
+
+0.046 
+
+0.130 
+
+0.148 
+
+0.153 
+
+0.179 
+
+0.153 
+
+0.155 
+
+(0.716) 
+
+(0.731) 
+
+(0.656) 
+
+(0.657) 
+
+(0.681) 
+
+(0.732) 
+
+(0.721) 
+
+(0.751) 
+
+(0.731) 
+
+2.360** 
+
+2.467*** 
+
+2.463*** 
+
+2.617*** 
+
+2.744*** 
+
+2.173** 
+
+2.410*** 
+
+2.287** 
+
+2.464*** 
+
+(1.005) 
+
+(0.929) 
+
+(0.873) 
+
+(0.865) 
+
+(0.854) 
+
+(0.919) 
+
+(0.926) 
+
+(0.936) 
+
+(0.906) 
+
+-4.745** 
+
+-4.470** 
+
+-4.233** 
+
+-4.111** 
+
+-3.824** 
+
+-3.593* 
+
+-1.789 
+
+-2.062 
+
+(2.207) 
+
+(2.075) 
+
+(1.910) 
+
+2.549 
+
+(3.325) 
+
+22,799 
+
+2.645 
+
+(3.093) 
+
+20,662 
+
+4.349 
+
+(3.031) 
+
+18,692 
+
+(1.906) 
+
+4.943* 
+
+(2.904) 
+
+16,533 
+
+(1.847) 
+
+5.527* 
+
+(2.962) 
+
+14,608 
+
+(1.906) 
+
+(1.841) 
+
+(1.809) 
+
+5.020* 
+
+5.415** 
+
+5.419** 
+
+(2.941) 
+
+13,232 
+
+(2.756) 
+
+(2.713) 
+
+8,850 
+
+7,877 
+
+-2.247 
+
+(1.870) 
+
+5.004* 
+
+(2.757) 
+
+6,614 
+
+-3.912** 
+
+(1.748) 
+
+5.743** 
+
+(2.738) 
+
+6,164 
+
+estimating model (1) with the any hpsa indicator as the dependent variable, we found very 
+similar patterns in the retention of providers in primary care hpsas (table iv.2). the main 
+difference is that the coefficients on family income variable become statistically significant and 
+negative, indicating that providers are less likely to stay in hpsas where the average family 
+
+ 
+
+26 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+income is increasing.  along with the estimates on the other local area characteristics (that are 
+directionally similar to the estimates from table iv.1), these findings are in line with our 
+hypothesis that providers serving in hpsas have a preference to serve underserved 
+populations. 
+
+in the case of mental health hpsas, male and female providers did not differ in their retention 
+probability in the same hpsa (table iv.3).  similar to primary care providers, the older the 
+providers the more likely they were to remain in the same mental health hpsa.  also, providers 
+with a separation/start year at the beginning of our timeframe were in general more likely to 
+remain in the same hpsa.  in terms of differences in retention relative to primary care hpsas, 
+we estimated a lower probability to remain in the same mental health hpsa for medical doctors 
+and nurse practitioners relative to other mental health workers, with the effect being stronger in 
+the further out separation/start years.  we also estimated more variation in same hpsa 
+retention by census divisions.  providers in the east south central and south atlantic divisions 
+were least likely to remain in the same mental health hpsa.  finally, although the estimates on 
+poverty rate and percent of people over 25 who are high school graduates are directionally the 
+same as in the case of primary care models, we found that a higher proportion of blacks at the 
+local level increases the retention probability of mental health providers. 
+
+as shown in table iv.4, the difference in retention between participants and non-participants 
+disappeared in the case of mental health same hpsa.  other important features in table iv.4 
+are that the differences in retention by age group, provider type, separation/start year and 
+census division were less pronounced or virtually non-existent, while the differences by local 
+area characteristics are similar to those from table iv.3. 
+
+marginal effects 
+
+the coefficients in tables iv.1-iv.4 are logit coefficients and hence do not provide a direct 
+indication of the magnitude of the effect of various characteristics on the average retention 
+probability of providers in hpsas.  we therefore calculate marginal effects, which show the 
+ceteris paribus differences in retention probability (measured in percentage points) relative to 
+the mean retention probability.   
+
+in figure iv.1 we present the marginal effects associated with nhsc participation for primary 
+care hpsas (same hpsa and any hpsa, respectively). in the first year since separation/start 
+year, nhsc participants are 39.2 percentage points less likely to remain in the same hpsa 
+relative to non-participants.  this difference represents a regression-adjusted difference, 
+obtained by netting out the impact of other (observable) individual socio-demographic and local 
+area characteristics.  given that the unadjusted difference in the retention rate in the same 
+hpsa in the first separation/start year is 46.6 percentage points (=89.5-43.0, from figure iii.1), 
+it follows that 84% (=39.2/46.6) of the observed difference in primary care same hpsa 
+retention is explained by nhsc participation.  almost all of the observed retention difference, 
+85.6% (=15.3/15.5), is explained by nhsc participation in the case of primary care any hpsa 
+in the first separation/start year.  the other ratios between adjusted and unadjusted retention 
+differences in retention between participants and non-participants remained about the same for 
+the other further out separation/start years, for both primary care same hpsa and any hpsa 
+measures. 
+
+ 
+
+ 
+
+27 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+figure iv. 1: differences in the participants retention probability relative to non 
+
+participants  primary care 
+
+percent 
+
+10%
+
+0%
+
+-10%
+
+-20%
+
+-30%
+
+-40%
+
+-37.5% 
+
+-39.2% 
+
+-50%
+
+-15.3% 
+
+-14.5% 
+
+-11.5% 
+
+-8.8% 
+
+-8.1% 
+
+-8.1% 
+
+-8.1% 
+
+-9.2% 
+
+-10.9% 
+
+-10.9% 
+
+-30.1% 
+
+-29.2% 
+
+-29.8% 
+
+-30.3% 
+
+-32.3% 
+
+-33.0% 
+
+-32.1% 
+
+-36.4% 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+years since start year 
+
+same hpsa
+
+any hpsa
+
+figure iv.2 presents the regression-adjusted retention differentials by nhsc participation for 
+mental health hpsas.  the retention differentials are lower across the board for the same 
+hpsa measure than in the case of primary care hpsas.  for the any hpsa measure the 
+differences in retention between participants and non-participants were practically zero, as 
+shown by the statistically insignificant coefficients in table iv.2. 
+
+ 
+
+ 
+
+28 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+figure iv.2: differences in the participants retention probability relative to non 
+
+participantsmental health 
+
+percent 
+
+10%
+
+0%
+
+-10%
+
+-20%
+
+4.7% 
+
+4.4% 
+
+1.3% 
+
+0.7% 
+
+1.7% 
+
+1.6% 
+
+0.1% 
+
+2.0% 
+
+-2.8% 
+
+-1.2% 
+
+-19.1% 
+
+-24.5% 
+
+-30%
+
+-26.8% 
+
+-23.8% 
+
+-24.3% 
+
+-27.2% 
+
+-27.0% 
+
+-29.9% 
+
+-30.9% 
+
+-30.6% 
+
+-40%
+
+-50%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+years since start year 
+
+same hpsa
+
+any hpsa
+
+ 
+
+as shown in figure iii.2, the unadjusted retention in any hpsa was higher for non-participants 
+in the first separation/start years than that of participants.  nonetheless, after accounting for 
+individual-level and local area characteristics, there was no statistically significant difference 
+between the retention of participants and non-participants in mental health hpsas in any of the 
+separation/start years.   
+
+overall, for the same number of years since separation (i.e., 1 to 6), the estimates in figures 
+iv.1 and iv.2 are similar to the corresponding estimates from lewin (2014).  for the further out 
+years, we estimate that the retention differential explained by nhsc participation increases.  
+this is not necessarily surprising, as it mirrors the unadjusted differences between participants 
+and non-participants from figures iii.1 and iii.2.  although we estimate that the earlier nhsc 
+entrants  which are in essence the providers observed 7 to 10 years after service - tend to stay 
+longer in hpsas than the more recent entrants (as shown in tables iv.1-iv.4), it is the flatter 
+retention rate of non-participating providers 7 to 10 years since their start year that is driving 
+these larger differences in the further out years.  in other words, after 7 years non-participants 
+tend to leave hpsas at lower rates than participants. 
+
+multinomial logit models 
+
+a more complex model to estimate the providers probability to move over the observed period 
+is the multinomial logit.  the advantage of this model is that it simultaneously considers the 
+
+ 
+
+29 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+entire locations choice set available to providers in each year.  specifically, after controlling for 
+the same characteristics from above, this model provides estimates of the probability of each of 
+four mutually exclusive outcomes: (1) the probability of choosing to remain in the same hpsa 
+and same county; (2) the probability of moving to a non-hpsa location within the same county; 
+(3) the probability to move to another hpsa in another county; and (4) the probability of moving 
+to a non-hpsa in another county. 
+
+inclusion of the nhsc participation variable in the multinomial logit model allows for the 
+estimation of the difference in migration probabilities between participants and non-participants 
+to any of the four hpsa/non-hpsa type locations.  in figure iv.3 we present the marginal 
+effects associated with these migration probability differences for primary care hpsas, while in 
+figure iv.4 we present the marginal effects for mental health hpsas.  we do not present the 
+actual coefficients from the multinomial logit models for space considerations. 
+
+figure iv.3: differences in the participants migration probabilities relative to 
+
+non-participantsprimary care 
+
+percent 
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+-10%
+
+-20%
+
+-30%
+
+-40%
+
+-50%
+
+25.9% 
+
+20.1% 
+
+19.2% 
+
+20.0% 
+
+7.2% 
+
+5.4% 
+
+8.4% 
+
+2.5% 
+
+7.0% 
+
+1.7% 
+
+8.6% 
+
+-0.2% 
+
+-38.6% 
+
+1
+
+-31.1% 
+
+-27.9% 
+
+-28.5% 
+
+3
+
+5
+years since start year 
+
+7
+
+same county same hpsa
+same county non-hpsa
+
+other county hpsa
+other county non-hpsa
+
+ 
+
+according to our estimates, participants serving in primary care hpsas are 38.6% less likely 
+than non-participants to remain in the same hpsa in the first separation/start year.  at the same 
+time, they are 25.9 % more likely to move to a hpsa in another county in the first 
+separation/start year, meaning that overall, they are 12.7 percentage points (=-38.6+25.9) less 
+likely to remain in any primary care hpsa.  the same hpsa and any hpsa estimates from 
+figure iv.3 are in line with our estimate from figure iv.1, but the advantage of the multinomial 
+logit model is that it also shows that participants are 5.4% more likely than non-participants to 
+move to non-hpsas in the same county and 7.2% to move to non-hpsas in another county. 
+
+ 
+
+30 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+figure iv.4: differences in the participants migration probabilities relative to 
+
+non-participantsmental health 
+
+percent 
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+-10%
+
+-20%
+
+27.4% 
+
+26.5% 
+
+26.1% 
+
+25.2% 
+
+11.0% 
+
+8.8% 
+
+11.6% 
+
+8.8% 
+
+-11.7% 
+
+-11.0% 
+
+-10.5% 
+
+-4.2% 
+
+-30%
+
+-26.7% 
+
+-24.3% 
+
+-27.2% 
+
+-29.8% 
+
+-40%
+
+-50%
+
+1
+
+3
+
+5
+
+7
+
+years since start year 
+
+same county same hpsa
+
+same county non-hpsa
+
+other county hpsa
+
+other county non-hpsa
+
+ 
+
+in addition, as in lewin (2014), the multinomial logit estimates explain why the mental health 
+participants show no difference in their any hpsa retention relative to non-participants.  as 
+shown in figure iv.4, in the first separation/start year participants are 26.7% less likely to 
+remain in the same county same hpsa than non-participants, but 27.4% more likely to move to 
+hpsas in another county.  when these differences are added up they yield an estimate of 
+virtually zero difference between participants and non-participants in terms of retention in any 
+mental health hpsa. 
+
+comparing these findings with the ones from lewin (2014), we find that there a lot of similarities 
+in terms of the magnitude and sign of the estimates.  we nonetheless find that the probabilities 
+to move out of same hpsa and move into other hpsas from this study are a few 
+percentage points larger than the ones from lewin (2014).  as we discuss when we present 
+figures iv.1 and iv.2 above, these results are consistent with the finding that more recent 
+participants have more frequent moves out of the same hpsa and into any hpsas.  overall, 
+any hpsa retention remains about the same as in lewin (2014). 
+
+viewed from the perspective of our conceptual framework, the empirical estimates from this 
+chapter provide strong evidence that participation in the nhsc programs is not entirely based 
+on selection by preferences.  in other words, nhsc has a recruiting effect, as it is able to attract 
+in hpsas providers who would not serve there without the program award.  we return to the 
+estimation of the recruiting effect in chapter vi.  it follows that the nhsc has a bigger effect on 
+
+ 
+
+31 
+
+retention of nhsc participants in hpsas 
+
+national health service corps  an extended analysis 
+
+person-years of service in hpsas than in a case when selection into the program is based only 
+on preferences (and as a result there are no differences in retention between participants and 
+non-participants).  furthermore, another implication is that a larger difference between the 
+retention in a hpsa of nhsc participants and non-participants is a sign of program success, 
+not failure.  in fact, in chapter vi we present estimates showing that despite the lower retention 
+of nhsc participants in hpsa relative to non-participants, the program has a recruiting and a 
+retention effect that ultimately yield substantial increases in the total number of fte-years in 
+hpsas. 
+
+ 
+
+ 
+
+32 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+retention of nhsc participants serving in indian health 
+sites 
+
+in this chapter we provide a similar analysis focused on nhsc participants who served in indian 
+health sites (in short, nhsc-ihs providers).  we start by showing in table v.1 a number of 
+relevant descriptive statistics on the population of nhsc-ihs providers. 
+
+we identify in the nhsc administrative data a number of 970 nhsc-ihs providers, of which 
+520 were classified under primary care, 234 under mental care and 216 under dental care.  
+we find in the first analytic dataset a number of 405 such providers, and 773 of them in the 
+second analytic dataset. 
+
+table v.1: descriptive statistics of nhsc-ihs providers 
+
+discipline 
+
+allopathic physician 
+
+osteopathic physician 
+
+certified nurse midwife 
+
+dentist 
+
+health service psychologist 
+
+licensed clinical social worker 
+
+licensed professional counselor 
+
+marriage and family therapist 
+
+nurse practitioner 
+
+physician assistant 
+
+psychiatric nurse specialist 
+
+registered dental hygienist 
+
+total 
+
+age (at entry) 
+
+gender 
+
+ males 
+
+ females 
+
+hpsa type 
+
+ primary care 
+
+ mental health 
+
+ dental 
+
+total 
+
+all ihs nhsc 
+
+providers 
+
+ihs nhsc in first 
+
+ihs nhsc in 
+
+data set 
+
+second data set 
+
+169 
+
+48 
+
+36 
+
+180 
+
+31 
+
+62 
+
+89 
+
+29 
+
+164 
+
+125 
+
+1 
+
+36 
+970 
+
+38.3 
+
+ 
+
+318 
+
+644 
+
+ 
+
+520 
+
+234 
+
+216 
+970 
+
+127 
+
+39 
+
+13 
+
+2 
+
+7 
+
+10 
+
+1 
+
+ 
+
+114 
+
+90 
+
+1 
+
+1 
+
+405 
+
+39.2 
+
+ 
+
+143 
+
+262 
+
+ 
+
+370 
+
+32 
+
+3 
+
+405 
+
+148 
+
+44 
+
+35 
+
+137 
+
+24 
+
+46 
+
+57 
+
+22 
+
+144 
+
+104 
+
+1 
+
+11 
+773 
+
+38.5 
+
+ 
+
+266 
+
+507 
+
+ 
+
+458 
+
+167 
+
+148 
+773 
+
+using the first analytic dataset, we construct the retention profiles in the same hpsa as well as 
+in any hpsa using the same methods described in chapter iii.  we present these retention 
+rates in figure v.1.  given that ihs sites change their destination fairly frequently over our 
+timeframe, we construct the same hpsa and the any hpsa retention rates by whether the 
+provider was ever working in an ihs site, and whether the provider was last observed in service 
+in an ihs site. 
+
+as shown in figure v.1, the same hpsa retention rates are similar to the same hpsa 
+retention rates from figure iii.1 for all nhsc providers.  the retention rate based on whether 
+
+ 
+
+33 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+the provider was ever in an ihs is lower than the retention rate of providers who leave nhsc 
+service from ihs sites.   
+
+despite the fact that the same hpsa retention of the nhsc-ihs providers who were ever in 
+an ihs site is lower than that of the nhsc-ihs providers who left service from an ihs site 
+(especially for the further out years), the any hpsa retention rates of these categories are 
+virtually indistinguishable from each other. 
+
+nonetheless, the nhsc-ihs any hpsa retention rates are larger than the any hpsa 
+retention rates of all nhsc participants.  there a number of limitations that preclude us from 
+making direct comparisons with the any hpsa retention rates of all nhsc providers, but this 
+higher retention rate of nhsc-ihs alumni may point to a higher preference for serving ihs site 
+populations, and thus a higher preference for serving in nhsc in general.   
+
+figure v.1: retention rates of nhsc participants in indian health sites  primary 
+
+care 
+
+ 
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+nhsc ihss last year same hpsa
+nhsc ihss any year same hpsa
+
+nhsc ihss last year any hpsa
+nhsc ihss any year any hpsa
+
+  
+
+the main limitation in the retention analysis of nhsc-ihs participants comes from the fact that 
+many of the nhsc-ihs participants are likely to be participants in the ihss own loan repayment 
+program.  if that is the case, we cannot distinguish between nhsc-ihs participants and the 
+nhsc-ihs participants who also have an ihs loan repayment.  their retention rates may be 
+different from each other, and what we observe in figure v.1 is a combination of these retention 
+rates.  because of this data limitation, we cannot construct retention profiles of non-nhsc 
+providers who serve in ihs sites, as they may be in fact ihs loan repayment participants. 
+
+in tables v.2-v.4 we present retention rates that we calculate using the second analytic dataset.  
+as in the case of all nhsc participants, the retention rates from those tables paint a similar 
+picture as figure v.1.  however, the sample sizes in the year-hpsa cells are sometimes very 
+
+ 
+
+34 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+small, such that some of the yearly retention rates are less reliable.  in fact we exclude the rows 
+where the number of nhsc-ihs participants is very low. 
+
+table v.2: retention rates of nhsc-ihs participants as of january 2015  
+
+primary care 
+
+year of 
+exit from 
+nhsc 
+
+hpsa & 
+current ihs 
+
+hpsa & not 
+current ihs 
+
+non-hpsa 
+& current 
+ihs 
+
+non-hpsa & 
+not current ihs 
+
+total matched 
+in p360 data 
+
+2000 
+
+2000 
+
+2001 
+
+2001 
+
+2002 
+
+2002 
+
+2003 
+
+2003 
+
+2004 
+
+2004 
+
+2005 
+
+2005 
+
+2006 
+
+2006 
+
+2007 
+
+2007 
+
+2008 
+
+2008 
+
+2009 
+
+2009 
+
+2010 
+
+2010 
+
+2011 
+
+2011 
+
+2012 
+
+2012 
+
+2013 
+
+2013 
+
+2014 
+
+2014 
+
+2015 
+
+2015 
+
+total 
+
+total 
+
+0 
+
+1 
+
+0 
+
+1 
+
+0.00% 
+
+50.00% 
+
+0.00% 
+
+50.00% 
+
+1 
+
+1 
+
+1 
+
+1 
+
+25.00% 
+
+25.00% 
+
+25.00% 
+
+25.00% 
+
+0 
+
+5 
+
+0 
+
+0.00% 
+
+100.00% 
+
+0.00% 
+
+0 
+
+1 
+
+0 
+
+0.00% 
+
+33.33% 
+
+0.00% 
+
+4 
+
+7 
+
+1 
+
+33.33% 
+
+58.33% 
+
+8.33% 
+
+0 
+
+6 
+
+1 
+
+0.00% 
+
+85.71% 
+
+14.29% 
+
+2 
+
+6 
+
+3 
+
+0 
+
+0.00% 
+
+2 
+
+66.67% 
+
+0 
+
+0.00% 
+
+0 
+
+0.00% 
+
+2 
+
+15.38% 
+
+46.15% 
+
+23.08% 
+
+15.38% 
+
+8 
+
+4 
+
+3 
+
+2 
+
+47.06% 
+
+23.53% 
+
+17.65% 
+
+11.76% 
+
+5 
+
+4 
+
+3 
+
+38.46% 
+
+30.77% 
+
+23.08% 
+
+5 
+
+4 
+
+3 
+
+38.46% 
+
+30.77% 
+
+23.08% 
+
+4 
+
+2 
+
+2 
+
+1 
+
+7.69% 
+
+1 
+
+7.69% 
+
+3 
+
+36.36% 
+
+18.18% 
+
+18.18% 
+
+27.27% 
+
+3 
+
+10 
+
+8 
+
+3 
+
+12.50% 
+
+41.67% 
+
+33.33% 
+
+12.50% 
+
+13 
+
+17 
+
+2 
+
+6 
+
+34.21% 
+
+44.74% 
+
+5.26% 
+
+15.79% 
+
+3 
+
+6 
+
+1 
+
+30.00% 
+
+60.00% 
+
+10.00% 
+
+15 
+
+24 
+
+2 
+
+34.88% 
+
+55.81% 
+
+4.65% 
+
+9 
+
+23 
+
+4 
+
+23.08% 
+
+58.97% 
+
+10.26% 
+
+69 
+
+123 
+
+33 
+
+0 
+
+0.00% 
+
+2 
+
+4.65% 
+
+3 
+
+7.69% 
+
+26 
+
+23.05% 
+
+47.69% 
+
+13.51% 
+
+15.76% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+4 
+
+5 
+
+3 
+
+12 
+
+7 
+
+13 
+
+17 
+
+13 
+
+13 
+
+11 
+
+24 
+
+38 
+
+10 
+
+43 
+
+39 
+
+251 
+
+ 
+
+35 
+
+ 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+table v.3: retention rates of nhsc-ihs participants as of january 2015  mental 
+
+care 
+
+year of exit 
+from nhsc 
+
+hpsa & 
+current ihs 
+
+hpsa & not 
+current ihs 
+
+non-hpsa & 
+not current 
+ihs 
+
+total matched 
+in p360 data 
+
+2011 
+
+2011 
+
+2012 
+
+2012 
+
+2013 
+
+2013 
+
+2014 
+
+2014 
+
+2015 
+
+2015 
+
+total 
+
+total 
+
+3 
+
+8 
+
+0 
+
+27.27% 
+
+72.73% 
+
+0.00% 
+
+1 
+
+5 
+
+0 
+
+16.67% 
+
+83.33% 
+
+0.00% 
+
+1 
+
+2 
+
+1 
+
+25.00% 
+
+50.00% 
+
+25.00% 
+
+3 
+
+15 
+
+1 
+
+15.79% 
+
+78.95% 
+
+5.26% 
+
+2 
+
+11 
+
+1 
+
+14.29% 
+
+78.57% 
+
+7.14% 
+
+12 
+
+46 
+
+5 
+
+27.18% 
+
+55.78% 
+
+17.04% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11 
+
+6 
+
+4 
+
+19 
+
+14 
+
+63 
+
+ 
+
+table v.4: retention rates of nhsc-ihs participants as of january 2015  dental 
+
+care 
+
+year of 
+exit from 
+
+nhsc 
+
+hpsa & 
+
+current ihs 
+
+hpsa & not 
+current ihs 
+
+non-hpsa & 
+current ihs 
+
+non-hpsa & 
+
+not current ihs 
+
+total 
+
+matched in 
+p360 data 
+
+2010 
+
+2010 
+
+2011 
+
+2011 
+
+2012 
+
+2012 
+
+2013 
+
+2013 
+
+2014 
+
+2014 
+
+2015 
+
+2015 
+
+total 
+
+total 
+
+1 
+
+2 
+
+25.00% 
+
+50.00% 
+
+2 
+
+1 
+
+0 
+
+0.00% 
+
+1 
+
+1 
+
+25.00% 
+
+1 
+
+40.00% 
+
+20.00% 
+
+20.00% 
+
+20.00% 
+
+5 
+
+7 
+
+35.71% 
+
+50.00% 
+
+0 
+
+0 
+
+1 
+
+7.14% 
+
+1 
+
+0.00% 
+
+0.00% 
+
+25.00% 
+
+0 
+
+10 
+
+0.00% 
+
+83.33% 
+
+1 
+
+9 
+
+8.33% 
+
+75.00% 
+
+11 
+
+35 
+
+1 
+
+8.33% 
+
+0 
+
+0.00% 
+
+5 
+
+1 
+
+7.14% 
+
+3 
+
+75.00% 
+
+1 
+
+8.33% 
+
+2 
+
+16.67% 
+
+11 
+
+17.31% 
+
+54.40% 
+
+11.46% 
+
+16.82% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+5 
+
+14 
+
+4 
+
+12 
+
+12 
+
+62 
+
+36 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+nhsc recruiting and retention effects 
+
+in this chapter we provide a more in-depth analysis of the nhscs recruiting and retention 
+effects.   
+
+recruiting effect 
+
+in order to be effective, nhsc must be able to induce some providers to locate in hpsas given 
+that they would not have otherwise chosen those locations.  as documented by the medicare 
+provider data, a large number of providers do practice in hpsas and do not need an incentive 
+to do so.  however, those who would have located in hpsas without the incentive may apply for 
+and receive the incentive if they are eligible.  it follows that the program award to these 
+participants are unnecessary payments (or economic rent, as it is typically referred to in the 
+economics literature) in the sense that the decision of these providers to locate and serve in a 
+hpsa is not influenced by the program.  hence, the payment of the incentive to these providers 
+does not increase the supply of providers in hpsas.  conversely, some providers who would 
+not have chosen to practice in hpsas may be induced to do so by the program.  if so, they 
+increase the supply of providers in the area.  this is what we call the recruiting effect of the 
+nhsc program.  a larger recruiting effect translates into a greater success of the program, 
+given that the supply of providers (and ultimately, the volume of medical services provided) in 
+hpsas is larger than what it would be in the absence of the program. 
+
+econometric model 
+
+to estimate the recruiting effect of the program we consider an econometric model that uses 
+information on the number of providers and program participants at the county-year level over 
+the period between 2005 and 2014, available in the first analytic dataset.  let    be the number 
+of providers in county i and year t.  we can then write: 
+
+                                                     =    +    +                                         (2) 
+where  is a vector of characteristics of county i in year t,  is a vector of coefficients, and  
+is a random error term.  the characteristics in  are intended to capture factors that determine 
+providers to choose one location over another, such as local socio-economic and demographic 
+county-level characteristics, while  denotes the number of nhsc program participants in 
+county i in year t.  since both the dependent variable and the counts of participating providers 
+represent stock measures (i.e., the result of inflows and outflows of providers in a given year 
+and in a given county, plus those who stay in the area from one year to the next), we include 
+two lagged terms of the number of providers.   
+
+the strategy associated with the model is to predict the number of providers of the relevant type 
+in a county (both hpsa and non-hpsa) as a function of factors that may be associated with the 
+propensity of providers to locate in that area.  these factors include the size, age and sex 
+distribution of the population; the socio-economic characteristics of the population, including 
+median income, and percent below poverty; distribution of the population by type of insurance 
+(medicare, medicaid, commercial, other); and other measurable factors that may be related to 
+the attractiveness of the area as a place to practice.  the model can be estimated by including 
+only the counties where at least one nhsc participant is observed over the entire timeframe, or 
+by including all counties (with and without nhsc participants).  of course, the nhsc recruiting 
+effect is determined only using data from counties with nhsc participants, and its magnitude 
+should not differ across the two data samples. 
+
+ 
+
+37 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+program participants in a county may or may not add to the number of providers in a hpsa.  if 
+the program participants would have practiced in that hpsa anyway, without the incentive of the 
+program, they would not add to the expected number of providers.  however, if because of the 
+programs incentives, there are more providers in the targeted area than would be expected 
+otherwise, then the program has been successful in adding to providers in that hpsa.    
+
+the model in equation (2) estimates the  parameter on  that indicates whether the increase 
+in the number of providers in hpsas is between 0 and 1.  if the estimated value of  is zero, the 
+program does not add to the number of providers.  if the value is one, each program participant 
+adds to the number of providers in hpsas, and as such all participants have been induced by 
+the program to serve in hpsas.  in other words, the program does not pay any economic rent 
+to its participants.  if instead the value of the coefficient is zero, then the program only pays 
+economic rent, that is, all program participants would have served in hpsas even without the 
+incentive.  one minus the estimate of  indicates the proportion of participants that would have 
+practiced in the targeted areas without the incentive, while the estimate of  shows the fraction 
+of participating providers that were attracted to hpsas and who would not have otherwise 
+practiced in hpsas.   
+
+empirical estimates 
+
+in table vi.1 we present the regression coefficients obtained by estimating the model in 
+equation (2) for primary care physicians and np/pas.  in the case of physicians, we estimate 
+that for every 10 primary care nhsc participants, the number of primary care physicians in a 
+hpsa increases by 4.31.  this finding is consistent with an important recruiting effect, since it 
+indicates that nhsc participation does increase the number of primary care physicians in 
+hpsas.  in the case of non-physician primary care providers, we find that almost 8 out 10 new 
+nhsc entrants are providers who would not have served in hpsas in the absence of the 
+program.   
+
+the larger effect for non-physicians may suggest that the nhsc award represents a much 
+larger fraction in the total income of these providers than it is the case for physicians.  in this 
+sense, the nhsc program may be a relatively more attractive option for nps and pas, as the 
+actual award amounts may be more successful in compensating these providers for the 
+negative hpsa preference they may have. 
+
+we also estimate model (2) using the counts of mental health providers and found an effect of 
+0.594 on nhsc participation, at the same level of statistical significance.    
+
+ 
+
+38 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+table vi.1: recruiting effect regression estimates  primary and mental care 
+
+ 
+nhsc participants 
+
+ 
+pc physicians year t-1 
+
+ 
+pc physicians year t-2 
+
+ 
+np/pas year t-1 
+
+ 
+np/pas year t-2 
+
+ 
+mh providers year t-1 
+
+ 
+
+mh providers year t-2 
+
+ 
+
+poverty rate 
+
+ 
+percent white 
+
+ 
+percent black 
+
+ 
+log family income 
+
+ 
+percent hs grads over 25 years 
+
+ 
+percent population over 65 
+
+ 
+constant 
+
+ 
+observations 
+
+pc physicians 
+
+0.431*** 
+
+(0.077) 
+
+1.086*** 
+
+(0.006) 
+
+-0.080*** 
+
+(0.007) 
+
+-- 
+
+ 
+-- 
+
+ 
+-- 
+
+ 
+
+-- 
+
+ 
+
+0.032 
+
+(0.048) 
+
+-5.923** 
+
+(2.593) 
+
+-4.946 
+
+(3.070) 
+
+5.137*** 
+
+(1.398) 
+
+5.755 
+
+(4.970) 
+
+-10.280 
+
+(8.263) 
+
+-42.511** 
+
+(16.737) 
+
+27,440 
+
+np/pas 
+
+0.793*** 
+
+(0.032) 
+
+mh providers 
+
+0.594*** 
+
+(0.032) 
+
+-- 
+
+ 
+-- 
+
+ 
+
+1.052*** 
+
+(0.006) 
+
+-0.030*** 
+
+(0.007) 
+
+-- 
+
+ 
+
+-- 
+
+ 
+
+0.059*** 
+
+(0.021) 
+
+-1.757 
+
+(1.132) 
+
+1.447 
+
+(1.346) 
+
+5.041*** 
+
+(0.616) 
+
+-1.485 
+
+(2.178) 
+
+-10.504*** 
+
+(3.623) 
+
+-- 
+
+ 
+
+-- 
+
+ 
+
+-- 
+
+ 
+
+-- 
+
+ 
+
+0.939*** 
+
+(0.006) 
+
+-0.016*** 
+
+(0.006) 
+
+0.036* 
+
+(0.022) 
+
+-1.345 
+
+(1.189) 
+
+0.748 
+
+(1.410) 
+
+2.635*** 
+
+(0.645) 
+
+-0.034 
+
+(2.283) 
+
+-2.810 
+
+(3.795) 
+
+-46.771*** 
+
+-24.248*** 
+
+(7.374) 
+
+27,440 
+
+(7.717) 
+
+27,440 
+
+  note: the models include state and year dummies.  standard errors are shown in parentheses. 
+* p<0.10, ** p<0.05, *** p<0.01. 
+
+the other variables we included in these models are intended to capture other factors 
+that are typically correlated with providers decisions to locate in various areas.  similar to 
+other findings in the literature, we estimate that providers are more numerous in counties 
+where the median family income is larger, the percent of white is larger (in the case of 
+physicians), and the poverty rate is higher (in the case of nps and pas, and mental 
+health providers).  rickets and randolph (2014) find that physicians move to places 
+lower provider-to-population ratios, but with a higher per capita income and lower 
+unemployment. 
+
+ 
+
+39 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+as a robustness check, we estimate the two models from table vi.1 including only 
+observations from the counties in which there were nhsc participants.  as expected, the 
+magnitude of the nhsc estimates remains the same; we take this as an additional 
+confirmation that the estimated effect is unlikely to be generated by other non-nhsc 
+factors. 
+
+we also estimate models in which we restrict the data to exclude the recent years, to 
+determine whether the recruiting effect has changed over time.  in models in which we 
+only include data through 2012, 2013 and 2014 we estimate an effect of 0.415, 0.375, 
+and 0.350 (each highly statistically significant) respectively, for primary care physicians.  
+while these estimates may not suggest much change for primary care physicians, for 
+np/pas we estimate effects of 0.373 and 0.257 (with p-values lower than 0.001) when we 
+restrict the data to include only the years through 2010 and 2011, respectively.  including 
+the more recent years the effect on np/pas is basically the same as the one reported in 
+the second column of table v.1.  similarly, in the case of mental health providers, we 
+obtain nhsc estimates of 0.104 and 0.076 (statistically significant at 1%).  the increase 
+in the estimated recruiting effect on non-physicians (nps, pas and mental health 
+providers) coincides with the aca and arra changes. 
+
+retention effect 
+
+as we discuss in chapter iii, the nhsc program generates a retention effect to the extent that 
+nhsc providers serve in hpsas longer than what they would if there were no program.  
+ultimately, this effect is defined following the same logic as in the case of the recruiting effect, of 
+whether the program directly increases the supply of medical services in hpsas, relative to a 
+case when the program does not exist. 
+
+however, it is difficult to gain insights into a counterfactual scenario in which the program is 
+inexistent.  the readily available comparison group - that of non-participating providers -, may 
+be very different in terms of unobservable characteristics from the group of participating 
+providers.  in turn, these unobservable differences may affect the time spent in hpsas by the 
+two groups (regardless of the nhsc program), and as such, the comparison between the 
+retention of participants and the retention of non-participants as we present it in chapters iii and 
+iv may not be reflective of a true program retention effect. 
+
+ideally, one would need an experimental setting (or a randomized control trial) in which nhsc 
+participation is randomly allocated to a population of providers.  this would ensure that the 
+population of participants and non-participants is similar across all relevant characteristics, and 
+hence, a comparison between the retention of participants and the retention of non-participants 
+would be enough to isolate the program impact on provider retention in hpsas.  the more 
+adequate comparison group we identified for this study is the group of providers who are eligible 
+for nhsc service, but did not receive funding.  assuming that the main reason they were 
+unfunded was funding limitations, this group is directly comparable to the group of participants. 
+
+in table vi.2 we present the retention rates of the primary care unfunded eligible providers who 
+submitted an application in 2013 and 2014.  these rates are constructed using the second 
+analytic dataset because these individuals are only out of service for a maximum of two years in 
+january 2015, and because we wanted to include as many eligible unfunded providers as 
+possible in this analysis.  using the retention rates of those who are in any hpsa in the 
+application year, we construct an expected (or average) time spent in hpsas by these 
+providers.  our calculations indicate that over the maximum period of two years of observation 
+afforded by our data, eligible unfunded providers spend on average 1.8 years in hpsas.  we 
+
+ 
+
+40 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+then compare this time with the time that actual participants spend in hpsas over the first two 
+years elapsed since their application - which in the vast majority of cases is practically two 
+years, as attrition while in service is very low - it turns out that the nhsc program increases 
+retention in hpsas by about 10% (=(2/1.8)-1).  this is an estimate of the retention effect of the 
+program over the two years elapsed since the application.   
+
+inherent data limitations (i.e., the data on the eligible unfunded applicants does not goes back 
+further than 2013) do not allow us to construct a more general estimate of the retention effect, 
+over a large period of time since nhsc application. 
+
+table vi.2: retention rates in hpsas of unfunded eligible providers  primary care 
+
+ 
+
+application 
+
+year 
+
+applicants 
+
+in any hpsa in 
+
+2015 
+
+retention 
+
+rates 
+
+in any hpsa in application year 
+
+ 
+
+ 
+
+2014 
+
+2013 
+
+not in any hpsa in application year 
+
+ 
+
+ 
+
+2014 
+
+2013 
+
+110 
+
+112 
+
+48 
+
+54 
+
+98 
+
+96 
+
+31 
+
+37 
+
+89.1% 
+
+85.7% 
+
+64.6% 
+
+68.5% 
+
+in table vi.3 we present similar findings for the mental care providers. 
+
+table vi.3: retention rates in hpsas of unfunded eligible providers  mental care 
+
+ 
+
+application 
+
+year 
+
+applicants 
+
+in any hpsa in 
+
+2015 
+
+retention 
+
+rates 
+
+in any hpsa in application year 
+
+ 
+
+ 
+
+2014 
+
+2013 
+
+not in any hpsa in application year 
+
+ 
+
+ 
+
+2014 
+
+2013 
+
+27 
+
+56 
+
+11 
+
+20 
+
+23 
+
+50 
+
+8 
+
+11 
+
+85.2% 
+
+89.3% 
+
+72.7% 
+
+55.0% 
+
+the rates in tables vi.2 and vi.3 are unadjusted differences, that is, they are obtained without 
+controlling for the various local-level and individual level characteristics we use above.  this is 
+because of the severe limitations of the sample sizes.  nonetheless, it may be reasonable to 
+assume that, as we see in our regression models from this and the previous chapter, variables 
+like age, gender, provider type and other characteristics do not appear to explain much from the 
+differences between the various provider groups. 
+
+it is important to note that a large fraction of the unfunded providers who applied from a non-
+hpsa location did move to a hpsa one or two years after the application.  from the viewpoint 
+of our conceptual framework, these are potentially providers who would have moved to hpsa 
+even without the incentive offered through the program.  it is remarkable that the fraction of 
+
+ 
+
+41 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+providers who applied from a non-hpsa location and did not move to a hpsa varies between 
+30 and 40%, very similar to the recruiting effect estimates from the previous section.   
+
+total effect of the nhsc program 
+
+in the previous sections of this chapter, we estimate of: (1) the number of additional providers 
+who serve in hpsas as the result of nhsc; and (2) the increase in retention in hpsas due to 
+the incentive.  we now translate these effects into the number of annual provider ftes 
+generated by the program, and for each provider type considered. 
+
+the full effect of an incentive program, expressed as the total provider fte-years generated by 
+the program, , is obtained using the following expression: 
+
+                                                    =    +   (,  ,)                                  (3) 
+
+the first term in equation (3) calculates the number of additional fte-years coming from the 
+providers induced by the program, , and is obtained by multiplying  with the expected 
+years these additional providers serve in hpsas, .  the product between  and  
+represents the recruiting effect of the program and it reflects the number of annual provider 
+ftes generated by the program by attracting into hpsas providers who would not have served 
+there in the absence of the program.  the term  is computed using the retention profiles of the 
+additional providers.  the retention profile of these additional providers is inferred from the 
+retention rates of program participants, the retention rates of non-participants (as reported in 
+figures iii.1-iii.4), and the recruiting effect estimates from table vi.1.  in the upper part of table 
+vi.4 we report these inferred retention rates for each of the three groups of providers considered.   
+
+the second term in equation (3) measures the retention effect of the program in terms of the 
+annual provider ftes in hpsas, by multiplying the number of program participants, , with the 
+difference in the average time spent in hpsas by program participants and comparable, non-
+participating providers (i.e., the unfunded eligible providers), ,  ,.  if the average time in 
+hpsas of program participants, ,, is larger than the average time in hpsas of non-
+participants, ,, then the program has a retention effect.  the term  indicates all program 
+participants, including both providers attracted by the program as well as providers who would 
+have gone to hpsas without the program.  of course, a higher value for , increases the 
+retention effect, as well as the overall effect of the program, .   
+
+of the 6,209 primary care physicians who entered service between 2000 and 2015, we estimate 
+that 43.1% of them join hpsas only as a result of the nhsc, i.e., 2,676 providers.  in table vi.4 
+we report this number as the recruiting effect, expressed in number of providers.  if, for 
+simplicity, we assume that each of these providers served full time while in hpsas, the number 
+of fte-years generated by nhsc through the recruiting effect is 11,263 (=2,676*4.209), where 
+4.209 is the estimate of  and was obtained as described above from the inferred retention 
+rates of providers who joined hpsas only as a result of the program.  the number of 11,263 
+fte-years is our estimate of the recruiting effect.  these are fte-years supplied by providers 
+that would not have been offered in hpsas in the absence of the nhsc program. 
+
+the retention effect is obtained by approximating ,  , with 2-1.8=0.2, which is the 
+difference we obtain by comparing participants and unfunded eligible providers.  therefore, the 
+total program effect in terms of fte-years is 2,676*4.209+6,209*0.2=12,505 for primary care 
+physicians.  a similar calculation for nps and pas nhsc participants yields an estimate of 
+35,308 fte-years, and a total of 27,629 fte-years for mental health providers.  the 
+assumption was that ,  ,  is the same as the difference we use for the calculation of the 
+retention effect of primary care physicians. 
+
+ 
+
+42 
+
+recruiting and retention effects 
+
+national health service corps  an extended analysis 
+
+table vi.4: estimated recruiting and retention effects of the nhsc program (2000-
+
+2015) 
+
+years since start year 
+
+pc physicians 
+
+np/pas 
+
+mh providers 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+ 
+
+expected years in hpsas 
+
+providers 
+
+recruiting effect (providers 
+
+recruiting effect (fte-years) 
+
+retention effect (fte-years) 
+
+total effect (fte-years) 
+
+0.582 
+
+0.512 
+
+0.511 
+
+0.536 
+
+0.548 
+
+0.543 
+
+0.567 
+
+0.566 
+
+0.521 
+
+0.591 
+
+ 
+
+4.209 
+
+6,209 
+
+2,676 
+
+11,263 
+
+1,242 
+
+12,505 
+
+0.746 
+
+0.688 
+
+0.665 
+
+0.668 
+
+0.667 
+
+0.660 
+
+0.667 
+
+0.668 
+
+0.643 
+
+0.659 
+
+ 
+
+5.222 
+
+8,134 
+
+6,450 
+
+33,681 
+
+1,627 
+
+35,308 
+
+0.607 
+
+0.596 
+
+0.631 
+
+0.584 
+
+0.572 
+
+0.648 
+
+0.634 
+
+0.560 
+
+0.593 
+
+0.518 
+
+ 
+
+4.515 
+
+9,587 
+
+5,695 
+
+25,712 
+
+1,917 
+
+27,629 
+
+of course, these estimates should be viewed with caution.  one of the main limitations is that 
+the recruiting effect estimates from table vi.1 are obtained from models in which we cannot 
+control for other unobservable characteristics that may still be, at least in part, responsible for 
+provider migration patterns.  another limitation is that we can only track providers for up to 10 
+years after separation.  although our expected years in hpsas calculations take this into 
+account, a timeframe larger than 10 years may yield larger expected years in hpsas for the 
+provider types we considered.  in addition, the retention effect estimates are limited to at most 
+two years, since the data on the eligible unfunded providers goes back in time only to 2013.  
+also, in the case of the retention effect calculations, we cannot distinguish between physician 
+and non-physician effects, because of the small number of providers that we were able to track 
+after the time of application.  hence, the ,  , difference does not vary by provider type in 
+our calculations from table vi.4.  not least, the ,  , difference is approximated with an 
+unadjusted difference between participants and unfunded eligible participants.  ideally, we 
+would need to be able to control for other local-level and provider-level characteristics in a 
+regression setting to net out the impact of other characteristics on the difference, but given the 
+small sample size, that is currently not possible.    
+
+however, regardless of the exact value of the total effect on the number of provider-years in 
+hpsas, the estimates from table vi.4 point to potential important program effects of the nhsc 
+program in increasing the number of providers in high-need areas.  this study advances current 
+knowledge on the nhsc program effect, and offers a pathway for further causal effect analyses, 
+once more data on participants and eligible unfunded providers becomes available in the future.
+
+ 
+
+43 
+
+conclusions 
+
+national health service corps  an extended analysis 
+
+conclusions 
+
+in this study we continued our analysis of the national health service corps (nhsc) by 
+focusing on the recent retention trends of nhsc program alumni in health professional 
+shortage areas (hpsas), the retention patterns of those nhsc participants who serve in indian 
+health service (ihs) sites, and on an analysis of the recruiting and retention effects of the 
+program. 
+
+we find that in the case of primary care providers, the same hpsa retention rates in the first 
+years after separation from service are lower than in lewin (2014).  this suggests that the 
+primary care providers who left nhsc in the more recent years leave the hpsa where they 
+served at higher rates than before.  however, when comparing the any hpsa retention rates, 
+it turns out that although the retention rates from this study are smaller than the ones reported in 
+lewin (2014), the differences are much smaller than in the case of same hpsa retention, 
+indicating that nhsc alumni still remain in hpsa at elevated rates (just as documented in lewin 
+2014), but the moves from the same hpsa to any hpsa locations are more frequent in the 
+recent years than in the past. we find similar retention and migration patterns in the case of 
+mental health providers and in the case of indian health service nhsc participants. as we 
+show in chapter iv, these differences do not seem to be driven by other provider-level or local-
+level characteristics, such as age, gender, provider type, local area income, or percent of the 
+population under poverty rate. 
+
+we further develop our theoretical framework and hypothesize that a zero difference between 
+the retention rates participants and non-participants is equivalent to a zero recruiting effect.  
+when the program is successful in attracting providers who would not serve in hpsas without 
+the incentive, then the program has a recruiting effect, and since the average hpsa preference 
+for the newly attracted providers is lower than the average preference of the rest of the 
+providers, it follows that the post-obligation retention rate of participants is lower than that of 
+non-participants.  importantly, the retention differential becomes larger when the recruiting effect 
+is larger.   
+
+in order to be effective, nhsc must be able to induce some providers to locate in hpsas given 
+that they would not have otherwise chosen those locations.  some providers who would not 
+have chosen to practice in hpsas may be induced to do so by the program.  if so, they increase 
+the supply of providers in the area.  this is what we call the recruiting effect of the nhsc 
+program.  also, the nhsc program generates a retention effect to the extent that nhsc 
+providers serve in hpsas longer than what they would if there were no program. 
+
+we estimate the recruiting effect is based on an empirical specification in which the total 
+number of providers currently serving in a hpsa is modeled as a function of the number of 
+nhsc participating providers serving in in that area.  in this model we control for past levels of 
+providers in the area, as well as for a number of relevant local level characteristics that typically 
+influence the location choices of providers. regarding the retention effect, we make use of a 
+novel dataset, that of providers who were deemed eligible for nhsc funding in the application 
+process, but ended up not receiving funding, mainly because of funding limits.   
+
+we provide a number of tentative estimates for the recruiting and retention effects for primary 
+care physicians, nps and pas, and mental health providers.  in this study we face a number of 
+important (and insurmountable) data limitations in the estimation of the recruiting and retention 
+effects.  however, regardless of the exact value of the total effect on the number of provider-
+years in hpsas, we find empirical evidence pointing to potential important program effects of 
+the nhsc program in increasing the number of providers in high-need areas.  
+
+ 
+
+44 
+
+appendix 
+
+national health service corps  an extended analysis 
+
+appendix 
+
+year 
+
+2000  2001  2002  2003  2004  2005  2006  2007  2008  2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+table a.1: distribution of the nhsc workforce by provider discipline 
+
+allopathic physician 
+
+294 
+
+341 
+
+419 
+
+666 
+
+809 
+
+979 
+
+954 
+
+941 
+
+911 
+
+1038 
+
+1460 
+
+1805 
+
+1753 
+
+1583 
+
+1821 
+
+1678 
+
+osteopathic physician 
+
+79 
+
+96 
+
+126 
+
+190 
+
+254 
+
+292 
+
+306 
+
+333 
+
+336 
+
+383 
+
+505 
+
+627 
+
+620 
+
+552 
+
+615 
+
+565 
+
+chiropractor 
+
+0 
+
+0 
+
+0 
+
+7 
+
+8 
+
+9 
+
+7 
+
+3 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+0 
+
+0 
+
+certified nurse midwife 
+
+27 
+
+26 
+
+44 
+
+73 
+
+98 
+
+102 
+
+90 
+
+84 
+
+84 
+
+105 
+
+179 
+
+204 
+
+168 
+
+151 
+
+175 
+
+191 
+
+dentist 
+
+172 
+
+181 
+
+213 
+
+305 
+
+342 
+
+388 
+
+399 
+
+372 
+
+387 
+
+536 
+
+842 
+
+1121 
+
+1156 
+
+1079 
+
+1240 
+
+1184 
+
+health service 
+psychologist 
+licensed clinical social 
+worker 
+
+48 
+
+68 
+
+117 
+
+204 
+
+280 
+
+340 
+
+367 
+
+334 
+
+344 
+
+479 
+
+709 
+
+843 
+
+767 
+
+636 
+
+725 
+
+662 
+
+55 
+
+67 
+
+95 
+
+158 
+
+196 
+
+207 
+
+217 
+
+193 
+
+180 
+
+257 
+
+523 
+
+860 
+
+916 
+
+791 
+
+1073 
+
+1183 
+
+licensed prof counselor 
+
+0 
+
+7 
+
+27 
+
+73 
+
+113 
+
+154 
+
+170 
+
+141 
+
+129 
+
+249 
+
+527 
+
+895 
+
+957 
+
+882 
+
+1193 
+
+1381 
+
+marriage and family 
+therapist 
+
+nurse practitioner 
+
+11 
+
+10 
+
+10 
+
+26 
+
+37 
+
+33 
+
+33 
+
+35 
+
+37 
+
+44 
+
+82 
+
+133 
+
+139 
+
+136 
+
+168 
+
+173 
+
+118 
+
+142 
+
+217 
+
+304 
+
+371 
+
+398 
+
+393 
+
+365 
+
+340 
+
+529 
+
+1117 
+
+1665 
+
+1589 
+
+1349 
+
+1801 
+
+1962 
+
+pharmacist 
+
+0 
+
+3 
+
+3 
+
+24 
+
+23 
+
+5 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+physician assistant 
+
+111 
+
+114 
+
+176 
+
+333 
+
+438 
+
+469 
+
+408 
+
+404 
+
+393 
+
+554 
+
+980 
+
+1352 
+
+1292 
+
+1127 
+
+1317 
+
+1219 
+
+psychiatric nurse 
+specialist 
+registered dental 
+hygienist 
+
+2 
+
+5 
+
+4 
+
+7 
+
+6 
+
+9 
+
+9 
+
+8 
+
+6 
+
+6 
+
+10 
+
+11 
+
+14 
+
+33 
+
+36 
+
+27 
+
+27 
+
+23 
+
+14 
+
+27 
+
+34 
+
+40 
+
+39 
+
+31 
+
+31 
+
+56 
+
+144 
+
+232 
+
+194 
+
+178 
+
+240 
+
+295 
+
+ 
+
+ 
+
+45 
+
+appendix 
+
+national health service corps  an extended analysis 
+
+table a.2: retention rates of nhsc participants as of january 2015  
+
+primary care (first analytic dataset) 
+
+year of exit 
+
+hpsa & 
+
+hpsa & other 
+
+non-hpsa & 
+
+non-hpsa & 
+
+from nhsc 
+
+same county 
+
+county 
+
+same county 
+
+other county 
+
+total nhsc 
+
+providers in 
+
+medicare data 
+
+2000 
+
+2001 
+
+2002 
+
+2003 
+
+2004 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+total 
+
+16 
+
+47 
+
+14.41% 
+
+42.34% 
+
+33 
+
+49 
+
+25.98% 
+
+38.58% 
+
+38 
+
+48 
+
+30.40% 
+
+38.40% 
+
+68 
+
+34.00% 
+
+118 
+
+31.30% 
+
+148 
+
+32.67% 
+
+176 
+
+36.14% 
+
+146 
+
+34.93% 
+
+179 
+
+43.98% 
+
+146 
+
+37.82% 
+
+208 
+
+44.26% 
+
+437 
+
+43.53% 
+
+642 
+
+55.49% 
+
+143 
+
+49.83% 
+
+549 
+
+61.82% 
+
+527 
+
+82.73% 
+
+3,574 
+
+47% 
+
+78 
+
+39.00% 
+
+148 
+
+39.26% 
+
+169 
+
+37.31% 
+
+157 
+
+32.24% 
+
+153 
+
+36.60% 
+
+120 
+
+29.48% 
+
+112 
+
+29.02% 
+
+128 
+
+27.23% 
+
+275 
+
+27.39% 
+
+247 
+
+21.35% 
+
+74 
+
+25.78% 
+
+184 
+
+20.72% 
+
+0 
+
+0.00% 
+
+1,989 
+
+26% 
+
+6 
+
+5.41% 
+
+6 
+
+4.72% 
+
+7 
+
+5.60% 
+
+15 
+
+7.50% 
+
+30 
+
+7.96% 
+
+30 
+
+6.62% 
+
+42 
+
+8.62% 
+
+29 
+
+6.94% 
+
+27 
+
+6.63% 
+
+33 
+
+8.55% 
+
+41 
+
+8.72% 
+
+107 
+
+10.66% 
+
+112 
+
+9.68% 
+
+25 
+
+8.71% 
+
+77 
+
+8.67% 
+
+110 
+
+17.27% 
+
+697 
+
+9% 
+
+42 
+
+37.84% 
+
+  
+
+39 
+
+30.71% 
+
+  
+
+32 
+
+25.60% 
+
+  
+
+39 
+
+19.50% 
+
+  
+
+81 
+
+21.49% 
+
+  
+
+106 
+
+23.40% 
+
+  
+
+112 
+
+23.00% 
+
+  
+
+90 
+
+21.53% 
+
+  
+
+81 
+
+19.90% 
+
+  
+
+95 
+
+24.61% 
+
+  
+
+93 
+
+19.79% 
+
+  
+
+185 
+
+18.43% 
+
+  
+
+156 
+
+13.48% 
+
+  
+
+45 
+
+15.68% 
+
+  
+
+78 
+
+8.78% 
+
+  
+
+0 
+
+0.00% 
+
+  
+
+1,274 
+
+17% 
+
+ 
+
+111 
+
+127 
+
+125 
+
+200 
+
+377 
+
+453 
+
+487 
+
+418 
+
+407 
+
+386 
+
+470 
+
+1,004 
+
+1,157 
+
+287 
+
+888 
+
+637 
+
+7,534 
+
+ 
+
+46 
+
+appendix 
+
+national health service corps  an extended analysis 
+
+table a.3: retention rates of nhsc participants as of january 2015  mental 
+
+health (first analytic dataset) 
+
+year of exit 
+
+from nhsc 
+
+hpsa & 
+
+same 
+
+county 
+
+hpsa & other 
+
+non-hpsa & 
+
+non-hpsa & 
+
+county 
+
+same county 
+
+other county 
+
+total nhsc 
+
+providers in 
+
+medicare data 
+
+2000 
+
+2001 
+
+2002 
+
+2003 
+
+2004 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+total 
+
+11 
+
+8 
+
+44.00% 
+
+32.00% 
+
+8 
+
+13 
+
+26.67% 
+
+43.33% 
+
+12 
+
+12 
+
+40.00% 
+
+40.00% 
+
+19 
+
+16 
+
+40.43% 
+
+34.04% 
+
+42 
+
+34 
+
+44.68% 
+
+36.17% 
+
+32 
+
+33 
+
+33.68% 
+
+34.74% 
+
+42 
+
+42 
+
+37.84% 
+
+37.84% 
+
+54 
+
+28 
+
+48.65% 
+
+25.23% 
+
+52 
+
+29 
+
+48.60% 
+
+27.10% 
+
+45 
+
+32 
+
+43.27% 
+
+30.77% 
+
+50 
+
+42.02% 
+
+154 
+
+58.78% 
+
+187 
+
+59.55% 
+
+50 
+
+62.50% 
+
+165 
+
+63.71% 
+
+195 
+
+85.53% 
+
+1,118 
+
+55.46% 
+
+43 
+
+36.13% 
+
+60 
+
+22.90% 
+
+67 
+
+21.34% 
+
+18 
+
+22.50% 
+
+52 
+
+20.08% 
+
+0 
+
+0.00% 
+
+487 
+
+24.16% 
+
+1 
+
+4.00% 
+
+1 
+
+3.33% 
+
+0 
+
+0.00% 
+
+2 
+
+4.26% 
+
+6 
+
+6.38% 
+
+4 
+
+4.21% 
+
+6 
+
+5.41% 
+
+4 
+
+3.60% 
+
+8 
+
+7.48% 
+
+10 
+
+9.62% 
+
+10 
+
+8.40% 
+
+19 
+
+7.25% 
+
+21 
+
+6.69% 
+
+4 
+
+5.00% 
+
+22 
+
+8.49% 
+
+33 
+
+14.47% 
+
+151 
+
+7.49% 
+
+5 
+
+20.00% 
+
+  
+
+8 
+
+26.67% 
+
+  
+
+6 
+
+20.00% 
+
+  
+
+10 
+
+21.28% 
+
+  
+
+12 
+
+12.77% 
+
+  
+
+26 
+
+27.37% 
+
+  
+
+21 
+
+18.92% 
+
+  
+
+25 
+
+22.52% 
+
+  
+
+18 
+
+16.82% 
+
+  
+
+17 
+
+16.35% 
+
+  
+
+16 
+
+13.45% 
+
+  
+
+29 
+
+11.07% 
+
+  
+
+39 
+
+12.42% 
+
+  
+
+8 
+
+10.00% 
+
+  
+
+20 
+
+7.72% 
+
+  
+
+0 
+
+0.00% 
+
+  
+
+260 
+
+12.90% 
+
+ 
+
+25 
+
+30 
+
+30 
+
+47 
+
+94 
+
+95 
+
+111 
+
+111 
+
+107 
+
+104 
+
+119 
+
+262 
+
+314 
+
+80 
+
+259 
+
+228 
+
+2,016 
+
+ 
+
+47 
+
+appendix 
+
+national health service corps  an extended analysis 
+
+table a.4: retention rates of nhsc participants by provider type as of january 
+
+2015  primary care (second analytic dataset) 
+
+year of exit 
+
+hpsa & 
+
+hpsa & 
+
+non-hpsa & 
+
+non-hpsa & 
+
+total matched in 
+
+from nhsc 
+
+same county 
+
+other county 
+
+same county 
+
+other county 
+
+p360 
+
+physicians 
+
+2000 
+
+2001 
+
+2002 
+
+2003 
+
+2004 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+total 
+
+ 
+
+ 
+
+13 
+
+19.12% 
+
+25 
+
+29.76% 
+
+21 
+
+29.17% 
+
+42 
+
+36.21% 
+
+79 
+
+39.11% 
+
+86 
+
+31.16% 
+
+108 
+
+36.12% 
+
+104 
+
+36.36% 
+
+125 
+
+47.17% 
+
+108 
+
+38.85% 
+
+129 
+
+46.91% 
+
+227 
+
+48.61% 
+
+292 
+
+52.80% 
+
+73 
+
+45.06% 
+
+326 
+
+63.18% 
+
+348 
+
+81.69% 
+
+2,106 
+
+48.47% 
+
+19 
+
+27.94% 
+
+33 
+
+39.29% 
+
+24 
+
+33.33% 
+
+40 
+
+34.48% 
+
+59 
+
+29.21% 
+
+104 
+
+37.68% 
+
+93 
+
+31.10% 
+
+97 
+
+33.92% 
+
+68 
+
+25.66% 
+
+73 
+
+26.26% 
+
+64 
+
+23.27% 
+
+110 
+
+23.55% 
+
+105 
+
+18.99% 
+
+39 
+
+24.07% 
+
+92 
+
+17.83% 
+
+0 
+
+0.00% 
+
+1,020 
+
+23.48% 
+
+8 
+
+11.76% 
+
+4 
+
+4.76% 
+
+4 
+
+5.56% 
+
+9 
+
+7.76% 
+
+20 
+
+9.90% 
+
+24 
+
+8.70% 
+
+33 
+
+11.04% 
+
+25 
+
+8.74% 
+
+18 
+
+6.79% 
+
+25 
+
+8.99% 
+
+24 
+
+8.73% 
+
+48 
+
+10.28% 
+
+68 
+
+12.30% 
+
+21 
+
+12.96% 
+
+57 
+
+11.05% 
+
+78 
+
+18.31% 
+
+466 
+
+10.72% 
+
+28 
+
+41.18% 
+
+22 
+
+26.19% 
+
+23 
+
+31.94% 
+
+25 
+
+21.55% 
+
+44 
+
+21.78% 
+
+62 
+
+22.46% 
+
+65 
+
+21.74% 
+
+60 
+
+20.98% 
+
+54 
+
+20.38% 
+
+72 
+
+25.90% 
+
+58 
+
+21.09% 
+
+82 
+
+17.56% 
+
+88 
+
+15.91% 
+
+29 
+
+17.90% 
+
+41 
+
+7.95% 
+
+0 
+
+0.00% 
+
+753 
+
+17.33% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+68 
+
+84 
+
+72 
+
+116 
+
+202 
+
+276 
+
+299 
+
+286 
+
+265 
+
+278 
+
+275 
+
+467 
+
+553 
+
+162 
+
+516 
+
+426 
+
+4,345 
+
+48 
+
+appendix 
+
+national health service corps  an extended analysis 
+
+year of exit 
+
+hpsa & 
+
+hpsa & 
+
+non-hpsa & 
+
+non-hpsa & 
+
+total matched in 
+
+from nhsc  
+
+same county 
+
+other county 
+
+same county 
+
+other county 
+
+p360 
+
+np/pa's 
+
+2000 
+
+2001 
+
+2002 
+
+2003 
+
+2004 
+
+2005 
+
+2006 
+
+2007 
+
+2008 
+
+2009 
+
+2010 
+
+2011 
+
+2012 
+
+2013 
+
+2014 
+
+2015 
+
+total 
+
+ 
+
+ 
+
+14 
+
+18.67% 
+
+10 
+
+16.13% 
+
+22 
+
+31.88% 
+
+32 
+
+28.83% 
+
+61 
+
+25.00% 
+
+92 
+
+34.85% 
+
+100 
+
+36.90% 
+
+81 
+
+38.57% 
+
+89 
+
+43.20% 
+
+85 
+
+44.27% 
+
+137 
+
+47.24% 
+
+339 
+
+45.63% 
+
+515 
+
+56.41% 
+
+130 
+
+59.63% 
+
+474 
+
+65.56% 
+
+476 
+
+85.61% 
+
+2,657 
+
+51.62% 
+
+40 
+
+53.33% 
+
+27 
+
+43.55% 
+
+33 
+
+47.83% 
+
+51 
+
+45.95% 
+
+108 
+
+44.26% 
+
+98 
+
+37.12% 
+
+94 
+
+34.69% 
+
+76 
+
+36.19% 
+
+69 
+
+33.50% 
+
+54 
+
+28.13% 
+
+80 
+
+27.59% 
+
+200 
+
+26.92% 
+
+195 
+
+21.36% 
+
+47 
+
+21.56% 
+
+141 
+
+19.50% 
+
+0 
+
+0.00% 
+
+1,313 
+
+25.51% 
+
+3 
+
+4.00% 
+
+4 
+
+6.45% 
+
+3 
+
+4.35% 
+
+7 
+
+6.31% 
+
+16 
+
+6.56% 
+
+15 
+
+5.68% 
+
+18 
+
+6.64% 
+
+10 
+
+4.76% 
+
+11 
+
+5.34% 
+
+17 
+
+8.85% 
+
+27 
+
+9.31% 
+
+80 
+
+10.77% 
+
+87 
+
+9.53% 
+
+18 
+
+8.26% 
+
+54 
+
+7.47% 
+
+80 
+
+14.39% 
+
+450 
+
+8.74% 
+
+18 
+
+24.00% 
+
+21 
+
+33.87% 
+
+11 
+
+15.94% 
+
+21 
+
+18.92% 
+
+59 
+
+24.18% 
+
+59 
+
+22.35% 
+
+59 
+
+21.77% 
+
+43 
+
+20.48% 
+
+37 
+
+17.96% 
+
+36 
+
+18.75% 
+
+46 
+
+15.86% 
+
+124 
+
+16.69% 
+
+116 
+
+12.71% 
+
+23 
+
+10.55% 
+
+54 
+
+7.47% 
+
+0 
+
+0.00% 
+
+727 
+
+14.12% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+75 
+
+62 
+
+69 
+
+111 
+
