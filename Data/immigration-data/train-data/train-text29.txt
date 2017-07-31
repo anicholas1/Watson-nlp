@@ -1,0 +1,779 @@
+in harms way: family separation,  immigration enforcement  programs and security on the us- mexico border  jeremy slack university of texas, el paso  daniel e.
+martnez george washington university  scott whiteford university of arizona  emily peiffer university of arizona  executive summary  the  consequence  delivery  system  (cds)  is  a  suite  of  border  and  immigration  enforcement  programs  designed  to  increase  the  penalties  associated with unauthorized migration in order to convince people not to  return (rosenblum 2013).
+
+
+despite its inauguration in 2011, many aspects  of the cds are not new.
+cds does however, mark a shift from the deterrent  strategy that, in the 1990s that relied heavily on the dangers of the natural  terrain  to  dissuade  unauthorized  border  crossers,  to  one  that  actively  punishes, incarcerates, and criminalizes them.
+
+
+this article presents findings  from the migrant border crossing study, a random sample survey of 1,100  recently deported migrants in six cities in mexico conducted between 2009  and  2012.
+it  examines  the  demographics  and  family  ties  of  deportees,  their experiences with immigration enforcement practices and programs  under  the  cds,  and  how  these  programs  have  reshaped  contemporary  migration and deportation along the us-mexico border.
+
+
+the article covers  programs such as criminal prosecutions of illegal entries under operation  streamline, and the alien transfer and exit program (atep) or lateral  repatriation program which returns immigrants to different locations from  where they illegally entered.
+in relationship to these programs, it considers  issues of due process and treatment of deportees in us custody.
+
+
+it also  examines interior enforcement under secure communities, which, during  the study period, comprised part of the overarching border security plan,  and  screened  virtually  everybody  arrested  in  the  united  states  against    2015 by the center for migration studies of new york.
+all rights reserved.
+
+
+jmhs volume 3 number 2 (2015): 109-128immigration databases.
+the article concludes that these programs do not have a strong deterrent  effect.
+
+
+instead, immigration enforcement has led to a caging effect over the  past two decades which has disrupted seasonal migration flows, increased  familial and social ties to the united states, and decreased the probability  of returning to mexico once in the united states.
+the development of strong  family and other ties to the united states contributes to a greater resolve  to return post-deportation.
+
+
+introduction the us customs and border protection (cbp) consolidated a new approach to immigration  enforcement  with  the  implementation  of  the  consequence  delivery  system  (cds)  in  2011.
+as described by border patrol chief michael fisher, the cds guides management  and  agents  through  a  process  designed  to  uniquely  evaluate  each  subject  and  identify  the ideal consequences to impede and deter future entry.
+
+
+1 the cds marks a profound  shift in immigration enforcement through active prosecution of immigration violators, as  opposed to a passive strategy of enforcement through deterrence.
+previous enforcement  efforts in the 1990s relied on the natural and physical hazards of the desert to deter future  crossings  by  driving  the  flow  of  people  into  the  harshest  terrain  along  the  us-mexico  border  (andreas  2000;  nevins  2002).
+
+
+this  approach  greatly  increased  the  lethality  of  unauthorized migration but did little to stem the flow of people and deter future crossings  (eschbach et al.
+1999; cornelius 2001; cornelius 2005; cornelius and lewis 2007; nevins  and aizeki 2008).
+
+
+the cds actively seeks to prevent and deter reentry through increased  prosecution, incarceration, and other strategies designed to make the experience so difficult  and costly that migrants will not return.
+this article examines the demographics and family ties of recently-deported migrants and  their experiences with immigration enforcement practices and programs under the cds,  including issues of due process and treatment of deportees in us custody.
+
+
+the analysis  focuses on two cds programs2: (1) operation streamline, which criminally prosecutes  illegal entrants en masse in particular border patrol sectors and crossing corridors; and  (2) the alien transfer and exit program (atep), which deports unauthorized migrants  apprehended in one region to another part of the border (danielson 2013; de len 2013).
+1   testimony of michael j.
+
+
+fisher, chief, us border patrol, us customs and border protection, before  the house committee on homeland security, subcommittee on border and maritime security, does  administrative amnesty harm our efforts to gain and maintain operational control of the border?
+2011.
+
+
+available at: http://www.
+dhs.gov/news/2011/10/04/written-testimony-cbp-house-homeland-security- subcommittee-border-and-maritime.
+
+
+2   the cds includes the following programs: operation streamline, alien transfer and exit program  (atep), mexican interior repatriation program (mirp), and operation against smugglers initiative on  safety and security (oasiss).
+additional initiatives that represent examples of the cds include: expedited  removal proceedings, reinstatement of removal, voluntary return, efficient immigration court hearings,  and warrant of arrest/ notice to appear (see fisher testimony, supra).
+
+
+we include a discussion of interior  enforcement in this article because the removal of people who have established homes in the united states  is vital to the continued functioning of this enforcement strategy.
+110  journal on migration and human securitythe analysis also examines experiences of deportees with secure communities, an interior  enforcement program which between october 2008 and november 2014 screened virtually  all  people  who  were  arrested  against  the  department  of  homeland  securitys  (dhss)  automated biometric identification system (ident) database for immigration violations.
+
+
+we ask: (1) who is most affected by these programs?
+(2) what is the overall impact and  efficacy of increased punishments for unauthorized migrants?
+
+
+the findings show that border  enforcement practices over the past two decades have led to longer stays, and therefore,  increased ties to the united states.
+the current approach to immigration enforcement has  caused disproportionately negative impacts on people who have been removed who have  family in the united states.
+
+
+to answer the research questions, the paper draws on the migrant border crossing study  (mbcs), a data source based on surveys conducted by the authors with a random sample of  deportees in six cities, including five cities along the us-mexico border and mexico city.
+the mbcs differs from previous quantitative studies that focus on peoples propensity to  migrate in sending communities in mexico (massey, durand, and malone 2002; durand  and massey 2004; cornelius and lewis 2007) or border flows (bustamante 2002).
+
+
+the  mbcs allows scholars and policymakers to better understand who is being deported, what  they  experience  during  their  northward  journeys,  and  what  happened  while  they  were  processed through the programs that comprise the cds.
+the goal is to provide an empirical  basis by which to bring the questions and concerns generated by two bodies of literature  into the policy arena.
+
+
+first, literature based on qualitative, historical, and meta-theoretical  interpretations  of  border  enforcement  procedures  has  focused  on  the  human  and  social  costs of migration, especially migrant deaths in the desert (andreas 2000; nevins 2002;  nevins and aizeki 2008; heyman 2008; martinez, cantor, and ewing 2014).
+the second,  more recent body of literature has developed around deportation, especially interpreting  the potential deportability of both authorized and unauthorized immigrants as a form of  social control (coleman 2007, 2009; nez and heyman 2007; varsanyi 2008; de genova  and peutz 2010; varsanyi 2010; coleman and kocher 2011).
+
+
+research methodology and sample characteristics the  data  utilized  in  this  analysis  is  from wave  ii  of  the  mbcs.
+it  is  based  on  survey  interviews  by  us  and  mexican  researchers  with  1,110  recent  deportees  between  2009  and  2012,3  covering  their  experiences  crossing  the  border,  being  apprehended  by  us  authorities,  and  being  repatriated  to  mexico.
+
+
+4  interviews  took  place  at  ports  of  entry  immediately following deportation and in migrant shelters in tijuana and mexicali, baja  california; nogales, sonora; ciudad jurez, chihuahua; nuevo laredo, tamaulipas; and  mexico city.
+5 wave ii covers a period characterized by heightened border enforcement and  the maturation of several measures designed to deter unauthorized entry.
+
+
+while the cds  3   wave ii of the mbcs included 27 interviews during 2009, 14 during 2010, 999 during 2011, and 73  during 2012.
+4   wave i was conducted with 421 deportees in nogales, sonora from 2007 to 2009.
+
+
+5   interviews in mexico city were with participants of the mexican interior repatriation program (mirp),  which offers people a flight to mexico city or a bus ticket home out of the tucson sector during the  summer months, instead of being dropped off at the border.
+the program did not operate in 2012, and the  future of this program is uncertain.
+
+
+111  in harms waywas formally launched in 2011, its component initiatives were all functioning prior to that  date.
+operation streamline began in 2005 and atep has been documented in some form  or another throughout the history of the united states border patrol (usbp) (hernandez  2010).
+
+
+while migration and border enforcement are constantly evolving and changing, the  mbcs captures all official border enforcement measures in place at the time this article  was written.
+an important goal of the mbcs is to provide generalizable findings about  abuses  and  hardships  of  the  border  crossing  experience  that  will  be  useful  to  scholars,  nongovernmental organizations, and policymakers.
+
+
+according to mexican government statistics, in 2011 there were 267,029 deportations and  repatriations6 to the six cities represented in the survey (rodrguez and martnez 2013).
+total  deportations  and  repatriations  to  these  cities  comprised  66  percent  of  all  people  returned by the united states to mexico that year (ibid.
+
+
+).
+the mbcs survey consisted  of 250 questions, was carried out in a face-to-face setting, and lasted approximately 45  minutes.
+
+
+7  the  researchers  only  interviewed  people  18  years  of  age  or  older  who  had  crossed without legal documents sometime after september 11, 2001 and were deported  within  a  month  prior  to  the  interview.
+a  single  probability  weight  based  on  three  characteristics (mexican state of repatriation, gender, and mexican region of origin) was  constructed.
+
+
+an iterative proportional fitting (i.
+e.
+
+
+, raking) method was used to construct the  weights because marginal totals in the population are known but joint distributions in the  population are not known (deming and stephan 1940).
+in order to compare people with  different migratory histories, all data presented in this article refer to peoples most recent  crossing, apprehension, and deportation experience.
+
+
+table  1  provides  descriptive  statistics  for  the  survey  respondents.
+the  average  person  interviewed was a 32-year-old male with eight years of formal education who earned a  median household income of $346 dollars per month before attempting to cross into the  united states.
+
+
+about one-half of the survey respondents spoke at least some english, and one in 10 spoke  an indigenous language in addition to spanish.
+sixty-two percent were employed before  deciding to leave mexico, and 42 percent were the sole income provider for their families.
+
+
+three-quarters of deportees had previously lived or worked in the united states.
+among  those who had lived or worked in the united states, the median time spent in the country  was nine years.
+
+
+one-half had at least one us citizen family member, and about one in five had at least  one child under the age of 18 with us citizenship.
+almost one-half of those interviewed  expressed that they intended to settle permanently during their last crossing, and 30 percent  stated that their current home was in the united states.
+
+
+this is a strikingly different portrait of deportees than the common conception of seasonal  laborers and young single men with no real ties to the united states.
+julieta, a 24-year-old  deportee, explained, as a mother it is very difficult to leave your children over therei   6   repatriation refers to an administrative action used at the discretion of border officials to allow an  individual to depart from the united states voluntarily rather than undergo formal removal proceedings.
+
+
+7   we used a random spatial sampling technique to ensure external validity.
+researchers did not ask for  volunteers, but rather randomly selected potential participants at shelters and ports of entry.
+
+
+112  journal on migration and human securitypercent/mean  90% 10%  table  1.
+demographic  characteristics  and  ties  to  the  united states variable male female age formal educational attainment  monthly household income before crossing (in us dollars) english-speaking (at least some) indigenous language-speaking sole economic provider for household employed before crossing have lived or worked in the us      years in the us (among people with us experience) us citizen family members us citizen child us citizen minor child current home located in the us intended  to  emigrate  permanently  after  last  crossing  (10  years  or  longer)  32 years 8 years  $346 47% 8% 42% 62% 75% 9 years 49% 23% 20% 30%  46%  source: migrant border crossing study, wave ii (n = 1,110), weighted data.
+
+
+feel really bad about that.
+my daughter lives there with her father.
+
+
+he was abusive to me,  so i am afraid to leave her there with him.
+one might assume that family connections to the united states would generate legal options  for  immigration,  but  this  is  rarely  the  case.
+
+
+under  the  immigration  and  naturalization  act, there are three broad categories for potential immigrants seeking lawful permanent  residence.
+8 each of these categories is subject to direct numerical limitations each fiscal  year  and  additional  limits  by  country.
+
+
+9 this  quota  system,  combined  with  the  use  of  a  lottery for increasing the diversity of immigrants, makes legal immigration in any given  year more likely for an individual from a country with a low historical flow of immigrants  than for an individual from a country with a high historical flow such as mexico.
+while 49 percent of people surveyed had a us citizen family member, many do not fit into  categories that allow for legal entry, and if they do, the queue can stretch 20 years or longer.
+
+
+for  instance,  the  us  state  departments visa  bulletin  for  january  2015  reveals  a  visa  priority date of september 15, 1994 in cases involving a us citizen who filed an immigrant  visa  petition  for  their  unmarried  adult  son  or  daughter  from  mexico.
+family  members   8   family sponsored immigrants, employment-based immigrants and diversity immigrants may quality for  lawful permanent residence.
+
+
+ina  201, 8 u.
+s.
+
+
+c.
+1151.
+
+
+9   ina  201, 8 u.
+s.
+
+
+c.
+1151; ina  202, 8 u.
+
+
+s.
+c.
+
+
+1152.
+113  in harms waycannot file for permanent residency until their visa priority date becomes current, more  than a 20 year wait in this case.
+
+
+moreover, operation streamline prosecutes individuals  who have crossed the border without authorization.
+prior to this program, border officials  commonly  exercised  their  discretion  to  allow  unauthorized  migrants  to  voluntarily  be  repatriated to mexico, instead of subjecting them to formal removal proceedings, which  carry criminal charges.
+
+
+a far higher percentage of people than in the past undergo removal  proceedings and are therefore inadmissible to the united states.
+for the average mbcs respondent, who likely possesses low levels of human and financial  capital  (see  table  1),  legal  immigration  under  the  current  statutory  scheme  would  be  extremely  difficult  or  impossible.
+
+
+for  example,  a  32-year-old  mexican  man  with  eight  years of formal education, some work experience in mexico and the united states, at least  one us citizen family member other than a spouse, and a us citizen child under the age  of 21, may never find a way to immigrate legally.
+while the executive action announced  by president obama in november 2014 would extend temporary administrative relief to  as  many  as  5.
+
+
+2  million  individuals  that  lack  immigration status  (warren  2014),  certain  previous immigration-related criminal charges would exclude potential beneficiaries from  the  deferred action  for  childhood arrivals  (daca)  program,  the  deferred action  for  parents of americans and lawful permanent residents (dapa) program, and other future  avenues to legal status.
+the  consequence  delivery  system  and  enforcement  interior   the effects on deterrence of removal programs  the cds seeks to impose additional repercussions for unauthorized entry in hopes that  people will decide not to attempt another crossing.
+
+
+claims that these programs significantly  decrease the likelihood that people will return have never been externally evaluated or proven  using reliable data, with the exception of recidivism rates, which have their own limitations  (rosenblum  2013).
+10 the  government accountability  office  (gao)  has  recommended  that immigration and customs enforcement (ice) provide metrics for evaluating removal  programs due in part to their high cost (gao 2012), which is illustrated by the combined  budget of cbp and ice of $18.
+
+
+2 billion in the 2014 fiscal year (fy) (dhs 2013).
+the  mbcs  data  show  that  deterrence  by  arrest,  incarceration  and  removal  is  largely  ineffective.
+
+
+the majority of respondents expressed that they intend11 to return to the united  states sometime in the future (55 percent), with the rate being 18 percentage points higher  for people who consider their current home to be located in the united states (66 percent  vs.
+48 percent) (p < 0.
+
+
+001).
+among people who stated that their home is in the united  states, only 12 percent said they would not return in the future.
+
+
+antonio, a 42-year-old  deportee, explained, i have no choice, my family is there.
+i need to go back to my children   10   recidivism assumes that people will have the same probability of being apprehended again, rather than  taking a more costly or risky route that guarantees greater likelihood of success.
+
+
+11   although intentions many not necessarily translate into actual behavior, the theory of planned behavior  suggests intentions are the most proximate determinant of behavior (ajzen 1991).
+114  journal on migration and human securitywho want me back.
+
+
+while it is important to note that future intention to cross is different  from actually crossing the border, the data could just as easily undercount people who will  return as over-count.
+participants in the study were interviewed immediately following  deportation, when experiences of incarceration and the dangers of crossing were fresh in  their minds.
+
+
+following return to mexico, the availability of work and other social or cultural  pressures may cause people to reconsider their intentions to cross in the future.
+however,  david spener notes that migrants tend to downplay the negative aspects of migration as  time passes (2009).
+
+
+it is possible that some people may decide not to migrate again, while  others who stated they would not attempt another crossing may indeed decide to do so upon  returning to their communities of origin.
+do you believe you will cross again in the future?
+
+
+(yes responses by variable of interest)  67%  53%**  56% 54%  66%  48% 50%  48%***  59%  51%*  80%  70%  60%  50%  40%  30%  20%  10%  0%  note: p < 0.
+10, *p < 0.
+
+
+05, **p < 0.
+01, ***p < 0.
+
+
+001 indicate the difference is statistically significant.
+streamline limited to people who crossed through sectors that have implemented the program.
+
+
+source: migrant border crossing study, wave ii (n = 1,110).
+115  in harms waydeterrence  became  the  linchpin  of  us  border  enforcement  policy  in  the  mid-1990s,  (andreas  2000;  nevins  2002;  dunn  1996,  2009;  rubio  goldsmith  and  reineke  2010;  ewing 2014) and yet, despite billions of dollars spent, thousands of deaths, and millions  of people detained, only 26 percent of all respondents stated that they would never return.
+
+
+graph  1  compares  the  decision  to  cross  again  with  the  specific  removal  program  (i.
+e.
+
+
+,  operation streamline, atep, and secure communities).
+as shown, these programs do not  correspond to a significantly lower rate of future crossing intentions.
+
+
+operation streamline  is shown to cause a slight, but not statistically significant decrease.
+however, people who  have been laterally repatriated report intentions to cross again at higher rates when compared  to people not processed through this program (p < 0.
+
+
+01).
+settlersthose who state they  intend to migrate permanentlyalso report that they will cross again at higher rates.
+
+
+these  findings differ slightly from official statistics outlined in a report by the congressional  research service (crs) that show a decline in recidivism for people who faced criminal  prosecutions within a period of one fiscal year (rosenblum 2013).
+however, we contend  that statements about the intention to return are a more accurate indicator because they  account for a more flexible and realistic time period to recuperate resources rather than  the occurrence of repeat crossings within a period of one fiscal year.
+
+
+furthermore, using  recidivism statistics assumes that people will have the same likelihood of apprehension  before and after a criminal prosecution.
+our qualitative data show that people are likely  to invest more time, effort and resources in future crossings, or take a riskier approach, in  order to avoid detection after prosecution.
+
+
+moreover, nothing affects the decision to cross  again as much as stating that ones home is in the united states, a factor not considered in  the crs report.
+considering the amount of taxpayer dollars being spent, and the number of lives being  affected,  a  serious  evaluation  of  these  programs  is  necessary  to  justify  their  continued  operation.
+
+
+the following sections present survey findings on operation streamline, atep,  and the interior immigration enforcement programs secure communities and 287(g).
+operation streamline  we all went in a big group in front of the judgethey put chains on us really tightthe  whole time in there they made me feel like i killed someone.
+
+
+javier  operation streamline is a coordinated program of immigration enforcement and criminal  prosecution that is characterized by en masse plea agreements for immigration offenders  who have illegally entered the united states, a misdemeanor offense.
+those with previous  convictions of criminal offenses can be charged with illegal reentry, which is an aggravated  felony if combined with other charges.
+
+
+the program officially began in the del rio border  patrol sector (tx) in 2005 and expanded to the tucson sector (az) by 2008 (lydgate  2010).
+it currently operates in all but three sectors along the southern border.
+
+
+12  in  operation  streamline,  a  defense  attorney  is  provided  for  defendants,  sometimes  in  groups, and sometimes one-on-one, but the limited time allotted and complicated court   12   the el centro and san diego sectors (ca) do not participate in operation streamline, and the big  bend sector (tx) experiences too few apprehensions to warrant the use of the program.
+116  journal on migration and human securitysetting have raised concerns about due process and access to effective legal counsel.
+
+
+when  asked what did your lawyer inform you about your rights?
+only 30 percent mentioned  any sort of basic legal right such as the right to silence or a fair trial.
+
+
+fifty-five percent of  respondents stated that their lawyer simply informed them that they needed to sign their  order of removal and plead guilty.
+six percent reported that their lawyers did not tell them  anything.
+
+
+only one percent reported being informed that they could report abuses.
+and  only three people stated that their lawyer screened for legal immigration options based on  family connections, which is relevant to the subsequent removal process.
+
+
+under the current  immigration system, if more people were to fight the charges, the enormity of the caseload  would quickly overwhelm the capacity of the courts.
+table 2.
+
+
+interaction with legal counsel during operation  streamline variable processed through operation streamline1 shackled during operation streamline  27% 95%  percent  what did your lawyer tell you about your rights?
+2  sign the form and do not fight the charges some mention of basic legal rights nothing or could not understand could not recall other asked to report abuses check for legal status of defendant prospect of being paroled while waiting for resolution of an        immigration case.
+
+
+55% 30% 6% 3% 3% 1% 1% 0%  1.
+) among all respondents.
+
+
+when people apprehended and repatriated in sectors not practicing  operation streamline are omitted, the percentage increased to 35%.
+2.
+
+
+) among respondents who gave valid responses.
+does not sum to 100 due to rounding.
+
+
+source: migrant border crossing study, wave ii (n = 1,110), weighted data.
+unauthorized entry carries a maximum six-month sentence and those who are convicted  have  a  criminal  record  based  on  an  immigration  offense,  which  hinders  future  legal  residence or entry.
+
+
+13 if apprehended again, they will be charged with illegal re-entry, which  generally carries a longer prison sentence.
+however, when asked what they understood  about  their  sentence,  only  71  percent  of  respondents  processed  through  operation  streamline mentioned that a judge had told them they would face some amount of jail time  if they return to the united states after being deported.
+
+
+however, once people have plead  to the criminal charges, even the misdemeanor plea options, it becomes almost impossible  to pursue legal immigration avenues which may have been available in the past.
+operation   13   ina  275, 8 u.
+
+
+s.
+c.
+
+
+1325.
+117  in harms waystreamline  also  diverts  law  enforcement  and  judicial  resources  away  from  prosecuting  more serious offenders, including those who represent a public safety or security risk (see  lydgate 2010).
+
+
+federal criminal convictions for illegal entry have increased substantially over the past  decade from 3,900 in fy 2000 to 92,215 in fy 2013 (trac 2014).
+federal convictions  for illegal reentry increased from 6,513 in fy 2000 to 19,463 in fy 2012, while other  immigration  convictions  increased  from  1,032  to  1,504  during  this  same  time  period  (light,  lopez,  and  gonzalez-barrera  2014).
+
+
+in  fy  2000  only  17  percent  of  federal  convictions were for immigration-related offenses, but by fy 2012 this share had increased  to 30 percent (ibid.
+).
+
+
+operation streamline has driven the increase in federal convictions  for  immigration-related  offenses.
+for  instance,  45  percent  of  all  immigration-related  prosecutions in southwest border districts between fy 2005when operation streamline  first beganto fy 2012 were a result of operation streamline proceedings (rosenblum  2013).
+
+
+the changes in prosecution brought about by operation streamline also likely account for  a sizeable proportion of criminal aliens who have been removed for immigration crimes.
+among all criminal aliens removed in fy 2013, 31 percent were removed for immigration  infractions (which includes unlawful entry and reentry), while the other largest categories  were traffic violations (15 percent) and drug offenses (15 percent) (simanski 2014).
+
+
+as discussed, operation streamline has been criticized on the ground that mass trials are  anathema to the justice system due to the lack of due process and inability to effectively  communicate the consequences of the conviction and future apprehensions.
+in addition,  defendants  are  generally  shackled  before,  during  and  after  their  court  appearances.
+
+
+defendants reported being shackled at the feet, waist and wrists for a median of six hours  while they are transferred to and from the federal courthouse.
+many women complained  about not being able to go to the bathroom during this period because the shackles hold  their pants up.
+
+
+because of operation streamline, the number of people who have been sent to federal  prison for immigration violations has also increased tremendously.
+thirty-eight percent  of all survey respondents were criminally detained for more than one week, which means  that they were not simply processed by border officials, but were also sent to immigration  detention or to federal prison where they served a sentence for illegal re-entry.
+
+
+14 for people  who decide not to sign the removal order and who fight their cases, immigration detention  can last for excessive periods, even years, due to a backlog in the system (mountz 2010).
+there  is  an  enormous  cost  associated  with  increased  incarceration,  with  each  detainee  costing an estimated $119 dollars per day (dhs 2013).
+
+
+the federal detention budget for  ice was $1.
+96 billion in fy 2013, excluding the cost of incarcerating people convicted  of  crimes  who  are  sent  to  the  federal  prison  system  (ibid.
+
+
+).
+the  legal  implications  of  operation  streamline  will  be  experienced  for  decades  in  part  because  criminal  records  impede eligibility for immigration status, employment, and full participation in us society.
+
+
+14   those who are convicted of a federal offense are sent to a federal prison alongside the general  population.
+people attempting to fight an immigration case are held in immigration detention.
+
+
+118  journal on migration and human securitythe  alien  transfer  and  exit  program  (atep):  lateral  repatriation  atep15  is  an  enforcement  program  with  the  explicit  directive  of  breaking  smuggling  networks (gao 2010).
+under this program, the border patrol deports migrants from a  different sector along the border from the one in which they were apprehended (de len  2013).
+
+
+the mbcs found that 13 percent of deportees were laterally repatriated16 and 20  percent were deported between the hours of 10:00 p.
+m.
+
+
+and 5:00 a.
+m.
+
+
+despite the stated goal  of atep to break up smuggling networks, people processed through the program reported  that they will return to the united states at higher rates.
+forty percent of people processed  through atep reported that they planned on crossing again within the next week compared  to just 28 percent of people not processed through the program.
+
+
+the mbcs findings also  show that atep sends people away from the arizona-sonora border, which is the second  busiest point of unauthorized crossing, to other areas where fewer people cross.
+officially,  only men are processed through atep.
+
+
+however, women who are separated from men  during the deportation process are also deported alone.
+as a result, 17 percent of the people  deported to sonora, mexico are women versus 10 percent border-wide due to men being  sent to other parts of the border (rodrguez and martnez 2013).
+
+
+the separation of women  from male family or friends with whom they are traveling places them at increased risk of  theft, violence and abuse (danielson 2013, 11).
+mexicos northeastern border region is home to the criminal organization, los zetas.
+
+
+while  by no means an exception among criminal organizations, los zetas has been known to  kidnap, extort, and kill migrants on a large scale.
+the infamous massacre of 72 migrants in  august 2010 and the discovery of mass graves containing hundreds of migrants have raised  concerns about the ethics of continuing deportations to this area.
+
+
+in recent years tamaulipas  has become the top state for deportations with tens of thousands more deportations than the  number of people apprehended in the corresponding area (meyer and isacson 2013; slack  2015).
+many people are also sent to cities in this region in the middle of the night.
+
+
+twenty  percent of all survey respondents were deported to the border between the hours of 10:00  p.
+m.
+
+
+and 5:00 a.
+m.
+
+
+when evaluating the cds as an immigration enforcement strategy, we  must ask if it is justifiable to put peoples lives in danger to punish them for unauthorized  entry.
+interior enforcement: secure communities and 287(g) twenty-five percent of mbcs respondents were apprehended as a consequence of interior   15   the survey defined atep recipients as individuals who were apprehended by the border patrol while  crossing and returned to mexico in a different, non-adjacent border patrol sector.
+
+
+it excluded individuals  who went to long-term detention and/or successfully arrived at their desired destination.
+it also excluded  people that were deported to adjacent sectors to eliminate people that might have walked into another sector  before being apprehended (n = 505).
+
+
+16   this is a conservative estimate that does not include people who arrived at their desired destination or  were detained for more than one week.
+to be counted, individuals must have crossed and been deported in  different and non-adjacent sectors.
+
+
+119  in harms wayenforcement programs such as the secure communities program17 (s-comm) or 287(g).
+18  interior enforcement targets people that are already settled in the united states and have  established a life there, making it a particularly traumatic experience.
+
+
+studies have shown  that  these  programs  lead  to  a  racialized  form  of  policing,  generating  extreme  distrust  between minority communities and the police (coleman and kocher 2011).
+research has  also illustrated that the s-comm rollout had no impact on alleviating index crime rates at  the local level (miles and cox, forthcoming).
+
+
+the roll-out of s-comm marked the end of  the highly visible spectacle of workplace raids, such as the 2008 postville raid in iowa,  which  provoked  an  outcry  from  human  rights  organizations,  businesses  and  religious  groups.
+s-comm was far less visible, and causes a less concentrated economic impact as  compared to workplace raids, which have the potential to shut down whole businesses and  even sectors of the economy.
+
+
+table  3.
+comparison  between  people  apprehended  through interior enforcement programs such as secure  communities or 287(g) and those apprehended through  other means variable  difference  other removal  program (75%)  interior   enforcement (25%)  us citizen family members us citizen children current home in us total years in us  43% 28% 47%  51% 22% 25%  8.
+
+
+2 years  6.
+0 years  8% 6%  22%***  2.
+
+
+2 years***  note: p < 0.
+10, *p < 0.
+
+
+05, **p < 0.
+01, ***p < 0.
+
+
+001 indicate the difference is statistically significant.
+source: migrant border crossing study, wave ii (n = 1,110), weighted data.
+
+
+almost half of the people deported through interior enforcement measures stated that their  home is in the united states versus only a quarter of other deportees (see table 3).
+they  had also spent an average of 8.
+
+
+2 years in the united states versus 6.
+0 for other deportees,  further illustrating that interior enforcement programs target people who have established  17   dhs announced the discontinuation of the secure communities program on november 20, 2014.
+
+
+the  program will be replaced by the priority enforcement program (pep), through which ice will continue  to rely on fingerprint-based biometric data submitted during bookings by state and local law enforcement  agencies, but should only seek the transfer of an alien in the custody of state or local law enforcement  when the alien poses a demonstrable risk to national security or has been convicted of specific crimes.
+see memorandum from dhs secretary jeh johnson regarding secure communities, 20 november 2014,  available at: http://www.
+
+
+dhs.gov/sites/default/files/publications/14_1120_memo_secure_communities.
+pdf.
+
+
+18   for the mbcs sample, people included in this category must have been apprehended by police outside  of the border zone and subsequently deported.
+it is often difficult to determine whether people apprehended  inside the border zone were processed through an interior enforcement program or one of the many  informal arrangements between police and the border patrol.
+
+
+for instance, in southern arizona the police  frequently call border patrol agents when they suspect someone might be unauthorized rather than going  through formal channels, charging them with a crime or processing them.
+however, according to ice  statistics, 20 percent of all removals in 2011 stemmed from secure communities (gao 2012).
+
+
+120  journal on migration and human securityties  and  roots  in  the  united  states,  including  children.
+this  creates  consequences  for  children who not only witness their families physically torn apart, but who must live with  the absence of a parent.
+
+
+besides having a devastating impact on families, interior immigration enforcement efforts  invariably turn law enforcement officers into immigration officials in the minds of immigrants  in many communities.
+this hinders the ability of a police force to investigate crimes, which  generally  requires  the  trust  and  cooperation  of  receptive  communities.
+
+
+people  fear  any  interaction with law enforcement, be it a simple traffic stop or the reporting of serious  crimes, because they could end up being deported.
+due to this fear, they avoid authorities  at all costs.
+
+
+one man described how a chance car accident resulted in his deportation and  the abandonment of his young daughter:  i was leaving the park with my kids when a man crashed into me.
+the cops came and  saw that i didnt have a drivers license so they fingerprinted me.
+
+
+he said i was going  to be deported.
+i asked if i could call someone to take my children.
+
+
+he said i could,  but when my brother in-law [only documented family member besides children] did  not show up, the police officer said he could not wait any longer so i asked the woman  that was helping translate for me to watch them.
+i had no option other than to trust  her.
+
+
+santiago   treatment of deportees in us custody  due process abuse   many nongovernmental organizations and immigrant rights groups have expressed concern  that usbps removal procedures, including operation streamline, do not meet basic due  process requirements (nmd 2011).
+the mbcs sought to uncover how people understood  their experiences in us custody.
+
+
+nearly all respondents (96 percent) indicated they signed  a removal order while in us custody, whether a voluntary return or a formal removal.
+19  among those who signed, 28 percent reported that no one explained the documents they  had signed, and 27 percent responded no or dont know when asked if they knew  what they had signed.
+
+
+thirty-three percent reported feeling forced or pressured to sign a  removal order.
+this occurred largely while in the custody of the usbp.
+
+
+there  is  little  transparency  about  what  happens  to  migrants  in  the  us  justice  system.
+signing documents while in us custody can have long-term and far-reaching consequences  for peoples future ability to immigrate legally.
+
+
+20 individuals facing deportation have a  right to due process including notice and a hearing.
+21 dense, complex forms which fail to   19   the remaining four percent most likely refused to sign.
+
+
+they were still removed, but required (often  forcibly) to put a thumbprint in a box marked refused to sign.
+20   for example, an immigration offense such as entering without inspection may be an aggravated  felony with harsh immigration consequences if an individual was previously deported for another offense.
+
+
+ina  101(a)(43)(o), 8 u.
+s.
+
+
+c.
+1101(a)(43)(o).
+
+
+individuals who were previously removed from the  united states are ineligible to receive visas and ineligible to be admitted to the united states for certain  periods of time.
+ina  212(a)(9)(a), 8 u.
+
+
+s.
+c.
+
+
+1182(a)(9)(a).
+21   see, e.
+
+
+g.
+, landon v.
+
+
+plasencia, 259 u.
+s.
+
+
+21, 32-33 (1982).
+121  in harms wayprovide adequate, clear information on remedies and consequences of action or inaction  may violate constitutionally guaranteed due process rights.
+
+
+22  the increased use of expedited removal, a summary deportation without the benefit of a  trial before an immigration judge, has also raised concerns about peoples knowledge of  and access to legal counsel.
+the logic behind not incorporating removal proceedings into  the criminal justice system has a long and complicated history, but largely hinges on the  ruling that deportation is not considered a criminal punishment (kanstroom 2007).
+
+
+it is  important to reevaluate the role of border officials in processing, sentencing and removing  unauthorized migrants.
+border officials cannot reasonably be expected to perform the tasks  of arresting officer, judge, prosecutor and defense attorney all at once.
+
+
+moreover, incentives  for the border patrol and ice are focused on increasing deportations.
+in order to ensure  that reasonable protections exist, the processing, sentencing and removal of unauthorized  migrants must be excised from border officials and ice and returned to the court system.
+
+
+conclusion: what is security?
+increased border enforcement has dominated recent discussions about immigration reform.
+
+
+the idea that reform can only happen once the border is secure, raises the question of what  security might mean for different groups.
+is a secure border one through which nothing  and no one that is unauthorized can pass, or is it one where quality of life and a clear, just  and transparent process of border enforcement is ensured for people that live in its shadow  (heyman 2013)?
+
+
+an impermeable border is impossible if the united states and mexico  expect  to  maintain  or  expand  trade  and  economic  development.
+there  are  other  ways  to stem the flow of migrants, such as promoting economic development in mexico and  central america which would provide people with the option not to migrate, commonly  referred to as, el derecho de no migrar.
+
+
+rather than assert that more border enforcement  is necessary in order to proceed with immigration reform, we would like to revisit what  border enforcement aims to accomplish.
+while the official mission of cbp is to prevent terrorism,23 this is hardly its day-to-day task.
+
+
+the replacement of the immigration and naturalization services (ins) by the department  of homeland security as the umbrella organization for the border patrol emphasizes its  security-oriented function.
+the rise of the cds illustrates the extent to which enforcement  has become more punitive.
+
+
+the mbcs sheds light on what is happening under the guise  of security along the border.
+does operation streamline or atep increase security?
+
+
+does  family separation and detention increase security?
+to conflate all immigration enforcement  with security distorts the nature of these programs.
+
+
+any discussion of reforms needs to  address the explicit and implicit goals of specific enforcement programs, as well as their  unintended consequences.
+as shown by the mbcs, more and more of the people who are being expelled from the  united states have very strong ties to the country as the family members of us citizens.
+
+
+a  deportation should not be seen as an event affecting only the deportee, but as one affecting   22   walters v.
+reno, 145 f.
+
+
+3d 1032 (9th cir.
+1998).
+
+
+23   the mission of cbp is to protect the american public against terrorists and the implements of terror.
+there is no mention of unauthorized migrants.
+
+
+http://www.
+cbp.gov/xp/cgov/about/mission/guardians.
+
+
+xml.
+122  journal on migration and human securitytheir family members and community as well.
+
+
+family reunification is one of the primary  goals of the us immigration system.
+24 immigration reform must first and foremost provide  pathways to citizenship for the family members of us citizens already living and working  in  the  united  states.
+
+
+lawmakers  should  also  reevaluate  people  with  minor  infractions,  such as immigration-related offenses and traffic violations that result in deportations, who  would otherwise be eligible for relief under daca, dapa, or the proposed development,  relief, and education for alien minors (dream) act.
+moreover, it is important to reduce  or eliminate penalties for false claims of citizenship, which currently lead to a permanent  bar from legal entry.
+
+
+in our research, we found that the vast majority of the people who  attempt to cross the border by talking their way through ports of entry claiming to be us  citizens are young people who have spent significant time living in the united states and  are unaware of the repercussions of doing so.
+25 these individuals often have little or no  connection to mexico and find themselves in an extremely difficult and precarious position  upon deportation to mexico.
+
+
+for instance, an 18-year-old deportee, julian, stated, i have  been in the united states since i was five.
+i got in a fight right after i turned 18 and the judge  deported me.
+
+
+i dont know anyone in mexico.
+i dont exist here or in the united states.
+
+
+some scholars have recently claimed that mass labor migration from mexico to the united  states  has  ended  due  to  the  economic  downturn,  the  impact  of  anti-immigrant policies  in the united states, and economic improvements, declining fertility rates, and an aging  population in mexico (durand 2013; massey and gentsch 2014).
+while the united states  may not experience the same levels of migration from mexico as it did in the early-to- mid 2000s, we are not entirely convinced that this is a permanent decline in unauthorized  mexican migration given the tenuous and often volatile nature of macroeconomic processes.
+
+
+further,  the  mbcs  findings  highlight  that  a  shift  toward  family-oriented  migration  is  becoming a more significant portion of the unauthorized stream.
+the  mbcs  findings  suggest  that  the  united  states  may  be  experiencing  a  new  era  of  migration  stemming  directly  from  the  rise  of  an  enforcement  regime  which  has  led  to   24   see generally ina  201(a)(1), 8 u.
+
+
+s.
+c.
+
+
+1151(a)(1) (describing family sponsored immigrants); ina   201(a)(2)(a)(i), 8 u.
+s.
+
+
+c.
+1151(a)(2)(a)(i) (exempting immediate relatives from direct numerical  limitations); ina  240a, 8 u.
+
+
+s.
+c.
+
+
+1229b (describing cancellation of removal based on hardship to us  citizen or lawful permanent resident family members); ins v.
+errico 385 u.
+
+
+s.
+214 (1966) (evaluating  the legislative history of the ina to find that family unity is a primary goal, often trumping either  enforcement of quota provisions or keeping potentially harmful people out of the u.
+
+
+s.
+); fiallo v.
+
+
+bell  430 u.
+s.
+
+
+787 (1977) (recognizing the underlying intention and goal of immigration law to be family  unity as demonstrated by legal preference for the immigration of certain family members); holder v.
+martinez gutierrez 132 s.
+
+
+ct.
+2011 (2012) (affirming the fact that goals of family unity underlie or inform  immigration law while declining to interpret every provision in the statute in the most family-friendly  light).
+
+
+25   see ina  212(a)(6)(c)(ii), 8 u.
+s.
+
+
+c.
+1182(a)(6)(c)(ii) (describing a false claim to u.
+
+
+s.
+citizenship  for any purpose or benefit under any federal or state law as a ground of inadmissibility); ina  237(a) (1)(h), 8 u.
+
+
+s.
+c.
+
+
+1227(a)(1)(h) (allowing for a waiver of certain misrepresentations at the discretion of  the attorney general but not allowing waiver of a false claim); sandoval v.
+holder 641 f.
+
+
+3d 982 (2011)  (reviewing specifically whether an unaccompanied minor falsely claiming citizenship should be subject to  the non-waivable permanent bar but deferring to the board of immigration appeals to explain the statutory  provisions); jaen-chavez v.
+us atty.
+
+
+gen.
+415 fed.
+
+
+appx.
+964 (11th cir.
+
+
+2011) (finding no reversible error  in the bureau of immigrant affairs determination of inadmissibility for a false claim on form i-9 and no  available waiver for this misrepresentation).
+123  in harms wayhigh rates of family separation.
+
+
+academic and political discourses based on neoclassical,  rational actor models were instrumental in developing the policies of deterrence that have  failed so many and cost so much.
+while family-based migrants may not necessarily behave  in drastically different ways than economic migrants, the idea that the cost of migration  can be too great, the danger too perilous, and the punishments too harsh to keep people  from reuniting with their loved ones needs to be rejected.
+
+
+the mbcs shows that people  who consider the united states their home are willing to endure hardships at the border,  discrimination in the united states, and the harsh penalties of an increasingly criminalized  immigration system (martnez and slack 2013).
+the impacts of the current approach to  immigration enforcement will be felt for generations, including migrants family members  who are citizens of the united states, and will not deter those who are most adversely  affected.
+
+
+we are currently at a juncture where we can change course and adopt a humane  immigration system and inclusive approach to security that addresses our needs as one  society connected by family, economics and the desire to make a better life for ourselves  and our loved ones.
+
+

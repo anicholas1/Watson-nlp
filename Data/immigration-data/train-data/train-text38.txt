@@ -1,0 +1,867 @@
+beyond dapa and daca:  revisiting legislative reform  in light of long-term trends in  unauthorized immigration to the  united states1   robert warren center for migration studies  donald kerwin center for migration studies  executive summary and introduction  in december 2014, the center for migration studies of new york (cms)  released  a  paper  that  provides  new  estimates  of  the  us  unauthorized  resident population (warren 2014).
+the paper describes the development  of  a  new  dataset  which  has  detailed  information  about  unauthorized  residents,  derived  from  data  collected  in  the  us  census  bureaus  american community survey (acs).
+
+
+the dataset will be useful to scholars,  researchers,  service-providers,  and  government  officials  in  crafting,  implementing, and evaluating programs that serve noncitizens, including  the unauthorized.
+in addition, the new estimates provide an opportunity  to examine the dramatic changes in unauthorized immigration in the past  two decades and the assumptions that have shaped us policies and public  opinion.
+
+
+the  new  dataset,  recent  estimates  of  the  unauthorized  (warren  and  warren  2013)  and  statistics  on  the  noncitizen  population  from  ipums- usa (ruggles et al.
+2010) highlight several trends related to the decline in  the unauthorized population, particularly from mexico, and the increasing  salience of visa overstays in constituting this population.
+
+
+some trends defy  conventional wisdom and all of them have public policy consequences.
+in  particular, we find that:    the  unauthorized  resident  population  was  about  a  million  lower  in   2013 than in 2007.
+
+
+the great recession was not the principal cause of population decline.
+1   the authors gratefully acknowledge the contributions of jose pacas to this research and paper.
+
+
+the study  was made possible through the support of the john d.
+and catherine t.
+
+
+macarthur foundation.
+2015 by the center for migration studies of new york.
+
+
+all rights reserved.
+jmhs volume 3 number 1 (2015): 80-108  annual  arrivals  into  the  unauthorized  population  increased  to  more  than one million in 2000, then began to drop steadily, and have now  reached their lowest levels since the early 1980s.
+
+
+from 2000 to 2012, arrivals from mexico fell by about 80 percent.
+between 2010 and 2013, the total unauthorized population from mexico   declined by eight percent.
+
+
+in 2006, the number of arrivals from mexico fell below the total number   of arrivals from all other countries (combined) for the first time.
+the number who stayed beyond the period authorized by their temporary  visas (overstays) exceeded the number who entered across the southern  land border without inspection (ewis) in each year from 2008 to 2012.
+
+
+while the cms estimates are based on sample data and assumptions that  are subject to error, these trends are consistent with the best empirical  information available.
+in november 2014 the obama administration announced an unprecedented  set  of  executive  action  initiatives.
+
+
+at  this  writing,  the  deferred  action  for parental accountability (dapa) program and the expanded deferred  action for childhood arrivals (daca) program, which would provide work  authorization  and  temporary  reprieve  from  removal  to  eligible  persons,  have  been  preliminarily  enjoined.
+the  temporary  injunction,  which  the  us department of justice plans to appeal to the fifth circuit court of  appeals, comes in response to a legal challenge to the two programs by 26  states under article ii, section 3 of the us constitution which requires the  president to take care that the laws be faithfully executed, and under  the  administrative  procedure  act  (apa).
+
+
+in  addition,  the  republican  majorities of the 114th congress have vowed to prevent the implementation  of these programs.
+however, the administration has expressed confidence  that it will ultimately prevail in court and in its battle with congress over  these  programs.
+
+
+meanwhile,  nongovernmental  organizations  (ngos),  community-based  organizations  (cbos),  and  others  continue  to  plan  intensively for the dapa and daca programs, as well as for other executive  action initiatives.
+this  paper  provides  estimates  of  those  who  are  potentially  eligible  for  dapa  and  daca.
+
+
+however,  it  also  looks  beyond  dapa  and  daca  to  make  the  case  for  broad  legislative  reform  in  light  of  long-term  trends  in  unauthorized  migration  to  the  united  states  and  the  unauthorized  resident population.
+in particular, it argues that substantial declines in  the  unauthorized  populationa  goal  shared  by  partisans  on  both  sides  of the immigration debatewill require reform of the legal immigration  system, legalization of a substantial percentage of the unauthorized, and a  more effective response to nonimmigrant visa overstays.
+
+
+81  long-term trends in unauthorized immigrationdefinitions the following terms are used extensively in this paper:   cms data (or cms database).
+this refers to the detailed estimates of the unauthorized  resident population for 2010 through 2013 that cms derived primarily from acs data  for those years (warren 2014).
+
+
+an overview of the methods used to derive the estimates  is provided in the appendix.
+arrivals.
+
+
+in this paper, the term arrivals refers to unauthorized immigrants who  moved  to  the  united  states  in  a  given  year  or  period.
+this  differs  from  the  more  familiar year-of-entry data in which the population is estimated, for example for 2013,  and then that population is distributed into years or periods of entry.
+
+
+the latter concept  omits those who entered the population and then left it before the date of the estimate.
+arrivals, as used here, are actual arrivals and not the number who resided in the country  at a later date.
+
+
+2 the methodology used to estimate annual arrivals for 1982 to 2012 is  described in the appendix.
+departures.
+
+
+as  used  here,  the  term  departures  refers  to  those  who  leave  the  unauthorized resident population.
+unauthorized residents can leave that population in  four ways: they can adjust to legal status, be removed from the united states, leave the  united states voluntarily, or die.
+
+
+annual estimates of each of these four components for  1990 to 2009 are shown in table 1.
+ewi (entry without inspection).
+
+
+the term ewis usually refers to migrants who  enter across the southern land border without legal documents.
+for this paper, ewi  arrivals were computed as (1) 90 percent of the estimated arrivals from mexico, plus  (2)  88  percent  of  the  estimated  arrivals  from  four  central american  countries:  el  salvador,  guatemala,  honduras,  and  nicaragua.
+
+
+details  about  the  methods  used  to  estimate annual entries of ewis and overstays are provided in the appendix.
+overstays.
+
+
+the term overstays refers to foreign-born persons who enter the united  states with nonimmigrant (temporary) visas and overstay their period of admission  or otherwise violate the terms of their admission.
+unauthorized immigrants from all  but a few countries (primarily mexico and central american countries) are overstays.
+
+
+for this paper, overstay arrivals were computed as total arrivals minus estimated ewi  arrivals.
+trends related to new estimates of the us unauthorized  population  trend  1.
+
+
+the  unauthorized  resident  population  was  about  one  million   lower in 2013 than in 2007.
+figure 1 shows annual estimates of the us unauthorized resident population from 1990  2   to illustrate the difference, if one million unauthorized persons arrived in year x and by five years later  (year y) 500,000 of the year x arrivals had left the unauthorized population, year-of-entry data (in year y)  would indicate a year x unauthorized population of 500,000; that is, one million arrivals in year x, minus  the 500,000 departures between years x and y.
+
+
+by contrast, arrivals for year x would still be counted as  one million.
+82  journal on migration and human securityto 2013.
+
+
+the population increased steadily from 1990 to about 1997 and then grew more  rapidly between 1998 and 2001.
+from 2002 to 2007, the population continued to grow  but at a decreasing rate.
+
+
+the population approached zero growth in 2007, reaching its  peak of about 12 million in that year.
+from 2008 to 2013, the population declined at an  average annual rate of 200,000 per year, falling to 11 million in 2013 (figure 1).
+
+
+figure 1.
+estimates of the total unauthorized resident  population in the united states: 1990 to 2013   s d n a s u o h t  14,000   12,000   10,000   8,000   6,000   4,000   2,000   -  12,000   11,000   8,600   5,700   3,500   90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12 13  source: 1990 to 2009, table 1, column 1; 2010 to 2013, cms database.
+
+
+estimates rounded to 100,000s.
+trend 2.
+
+
+the great recession was not the principal cause of population   decline.
+the  great  recession  officially  began  in  december  2007  and  ended  in  june  2009.
+
+
+the  total unauthorized resident population began to decline in 2008, which many attribute to  the economic downturn that occurred at about the same time.
+this assumption is often  accompanied by the corollary assertion that renewed economic growth will lead to a return  to previous level of unauthorized resident population growth.
+
+
+in fact, these assertions find  little, if any, support in the data.
+the trends in arrivals and departures shown in figure 2  and table 1 demonstrate that the population would have begun to decline in 2008 even if  the recession had not occurred.
+
+
+as figure 2 shows, the number of arrivals declined rapidly  and steadily3 from 2006 through 2009; the recession seems to have had little effect on the  trend line.
+3   the estimated arrivals shown in figure 2 were computed using a three-year moving average, primarily to  reduce the effects of heaping (the well-recognized phenomenon in which persons erroneously choose year- of-entry dates that end in zeros and fives).
+
+
+note, however, that the unadjusted numbers also show a similar  decline for the 2006 to 2009 period.
+the original estimates were: 695,000 (2006), 570,000 (2007), 390,000  (2008), and 395,000 (2009).
+
+
+83  long-term trends in unauthorized immigrationuntil  recently,  departures  generally  have  been  ignored  in  discussions  of  unauthorized  population growth.
+the number of departures doubled in the 1990s, increasing from 180,000  in 1990 to 360,000 in 1999 (table 1).
+
+
+departures from the population between 2000 and  2009 are represented by the gray line in figure 2.
+after 2000, departures exceeded 450,000  in most years, and they increased to more than 500,000 in the 2007 to 2009 period.
+
+
+as shown in figure 2, the trend lines crossed in 2008departures exceeded arrivals and population growth stopped and then reversed.
+in summary, the data indicate that the  decline in the unauthorized population that began in 2008 was the result of a downward  trend  in  arrivals  after  2000,  marked  by  a  steady  decline  after  2005,  accompanied  by  a  gradual long-term increase in departures.
+
+
+in short, fairly ordinary demographic trends, and  not the recession that began at about the same time, led to the decline.
+figure  2.
+
+
+number  of  unauthorized  immigrants  who  arrived  and  the  number  who  left  the  population:  2000  to 2009  s d n a s u o h t  1,600   1,400   1,200   1,000   800  600  400  200  -  1,390   370  arrivals  left the unauthorized  resident population  875 475  550  440  2000  2001  2002  2003  2004  2005  2006  2007  2008  2009  source: warren and warren 2013, table 3.
+the continued decline in arrivals shown in figure 3 for 2010, 2011, and 2012 (the solid  black line in figure 3) undermines the proposition that renewed economic growth will  lead to a return to previous levels of unauthorized population growth.
+
+
+however, the level  of population growth in recent years has been so close to zero that it is difficult to discern  a  clear  trend.
+the  future  course  of  unauthorized  population  growth  probably  will  be  determined by policy responses to the new information presented in this papers analysis  on long-term trends in arrivals, especially the historic decline in arrivals from mexico since  2000, and the emergence of overstays as the principal mode of entry.
+
+
+84  journal on migration and human securitytable  1.
+estimated  unauthorized  resident  population  and components of population change: 1990 to 2009 rounded to 5,000s  year  estimated unauthorized  population.
+
+
+annual population change  total arrivals  (1)  (2)=3-4  (3)  left the unauthorized population (4)= sum,   5 to 8  reason for leaving the population  left the united states adjusted to legal voluntarily removed status by dhs*  died  (5)  (6)  (7)  (8)  11,725 11,900 12,010 11,980 11,715 11,315 10,980 10,690 10,260 9,620 8,600 7,825 7,210 6,765 6,290 5,720 5,255 4,925 4,585 4,135 3,500  2010 45 2009 45 2008 45 2007 45 2006 45 2005 40 2004 40 2003 40 2002 35 2001 35 2000 35 1999 30 1998 30 1997 25 1996 25 1995 20 1994 20 1993 20 1992 15 1991 15 1990 note: the figures in column 6 are for unauthorized residents who lived in the united states for at least  six months.
+*dhs stands for the department of homeland security.
+
+
+source: warren and warren 2013, table 3.
+105 100 95 65 80 85 120 115 175 75 60 60 55 55 40 40 45 45 35 40  245 250 260 255 250 245 245 235 225 200 200 180 170 160 150 140 130 125 115 105  -175 -110 25 265 395 340 285 435 640 1,020 775 615 450 470 570 465 325 340 450 635  385 440 560 750 875 815 780 905 1,145 1,390 1,130 955 760 755 820 700 555 560 650 815  560 550 530 480 475 475 495 475 510 370 360 340 310 285 250 235 230 220 195 180  165 150 135 115 105 100 90 80 70 65 65 65 60 40 35 35 35 35 30 25  so far in this analysis, we have relied heavily on estimates of arrivals and departures for  1990 to 2009 that were derived using the residual method.
+
+
+4 in those estimates, arrivals were  derived through a detailed demographic accounting of the four components of population  shown in table 1, columns 5 to 8.
+from here on, we shift our focus to estimates of long- 4   under the residual method, estimates of the us unauthorized population are derived by subtracting the  legal foreign-born resident population from us census or survey data on the total foreign-born population,  with adjustments typically made to account for under-enumeration.
+
+
+estimates based on the residual method  often rely on other demographic techniques as well (warren 2014).
+85  long-term trends in unauthorized immigrationterm trends in arrivals between 1982 and 2012 derived from the cms database.
+
+
+figure  3  shows  a  comparison  of  estimated  trends  in  arrivals  based  on  the  residual  method, along with estimated trends based on cms data.
+the broken black line in figure  3  illustrates:  (1)  the  similarity  in  the  estimated  long-term  patterns  of  arrivals  based  on  disparate methodologies; and (2) that the method we used to estimate arrivals produces  patterns that are comparable to the only other estimates available.
+
+
+the trend line in arrivals based on the residual method is generally higher that the trend line  derived from cms data.
+sorting out the reasons for these differences is beyond the scope  of this paper; the important point is that the procedure that we devised to estimate the long- term trends in arrivals works as well as the much more detailed accounting procedures used  in the residual method.
+
+
+the appendix provides detailed information about the methods  used to estimate arrivals for 1982 to 2012.
+figure 3.
+
+
+trends in unauthorized immigration based on  alternative methods of estimating arrivals: 1982 to 2012  residual method  estimates based on cms data base  (see text)  s d n a s u o h t  1,400  1,200  1,000  800  600  400  200  0  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12  source: arrivals derived from cms estimates of the total unauthorized resident population in 2013,  compiled by year of entry.
+see appendix for method of estimation.
+
+
+estimates rounded to 5,000s and trend  line smoothed using a three-year moving average.
+trend 3.
+
+
+annual arrivals into the unauthorized population increased to  more than one million in 2000, then began to drop steadily, and have now reached  their lowest levels since the early 1980s.
+the solid black trend line in figure 3 shows the estimated number of arrivals each year  from 1982 to 2012.
+
+
+with one exception, arrivals fluctuated in the 500,000 and 600,000  range from the early 1980s through the late 1990s.
+that exception is for the years following   86  journal on migration and human securitythe passage of the immigration reform and control act of 1986 (irca).
+
+
+estimated arrivals  increased somewhat from 1988 to 1991 and then returned to their pre-irca levels.
+in the  years following passage of the illegal immigration reform and immigrant responsibility  act of 1996, which has been characterized as the harshest immigration legislation in 70  years (wheeler 2014), arrivals surged to possibly their highest levels in us history.
+
+
+since  2001, however, annual arrivals have plummeted, reaching their lowest levels in at least  three decades (figure 3).
+as  annual  arrivals  have  fallen  and  departures  have  increased,  the  average  length  of  residence of the us unauthorized population has increased.
+
+
+as table 2 shows, 46 percent  of the unauthorized population in 2000 had resided in the united states for less than five  years and 26 percent for 10 years of more.
+by 2013, only 16 percent had resided in the  united states for less than five years, and a remarkable 60 percent for 10 years or more.
+
+
+table 2.
+estimated unauthorized resident population,  2013 and 2000, by years in the united states  unauthorized population, 2013 percent (2) 100% 16% 24% 60%  number (1) 11,010,000 1,730,000 2,670,000 6,610,000  unauthorized population, 2000 percent (4) 100% 46% 27% 26%  number (3) 8,600,000 3,995,000 2,355,000 2,250,000  years in us  total population 0 to 4 years 5 to 9 years 10 years or more source: column 1, cms database; column 3, estimates derived by warren and warren 2013.
+
+
+trend 4.
+from 2000 to 2012, arrivals from mexico fell by about 80 percent.
+
+
+the number of immigrants arriving from mexico fell from 630,000 in 2000 to 120,000  in 2012, a drop of about 80 percent.
+arrivals from mexico most likely reached a historic  peak in 2000; just twelve years later they had dropped to their lowest levels since the 1970s  (figure 4).
+
+
+from the early 1980s to 1997, the number of arrivals from mexico gradually increased,  from about 350,000 per year to about 400,000 per year.
+there is a noticeable break in  the trend line, however, from 1988 to1991 (figure 4).
+
+
+in the first few years following the  passage of irca, arrivals from mexico increased temporarily and then returned to their  pre-irca level.
+overall, approximately 225,000 more unauthorized immigrants arrived  from mexico in this period than would have arrived in the absence of irca.
+
+
+arrivals from  mexico currently are less than one-third of the pre-1998 levels shown in figure 4.
+87  long-term trends in unauthorized immigrationfigure 4.
+
+
+estimated number of unauthorized immigrants  who moved to the united states from mexico each year:  1982 to 2012  s d n a s u o h t  700  600  500  400  300  200  100  0  moved to the us  from mexico  630  385  390  425  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12  120  source: arrivals derived from cms estimates of the unauthorized resident population from mexico in 2013,  compiled by year of entry.
+see appendix for method of estimation.
+
+
+estimates rounded to 5,000s and trend  line smoothed using a three-year moving average.
+trend 5.
+
+
+from 2010 to 2013, the total unauthorized resident population   from mexico declined by eight percent.
+mexican  nationals  have  long  constituted  the  majority  of  unauthorized  residents,  with  particularly large numbers residing in california and a handful of other states.
+
+
+reliable  estimates for 2013, for example, indicate that mexicans comprise about 54 percent of the  unauthorized resident population, with 30 percent living in california and additional large  percentages in texas, illinois, new york, florida, and new jersey (warren 2014).
+as shown in table 3, the unauthorized resident population from mexico declined by about  one-half million, or eight percent, from 2010 to 2013.
+
+
+table 3 shows the changes for the  top 20 states of residence.
+the largest percentage drop was in alabama where the overall  numbers are relatively low; the population fell by a third from 2010 to 2013.
+
+
+in utah, the  population fell by 11,000, or 16 percent, between 2010 and 2013.
+in twelve of the top 20  states, the population from mexico declined by eight to 13 percent over the three-year  period (table 3).
+
+
+the unauthorized resident population from mexico was unchanged from 2010 to 2013 in  four western states: texas, washington, oregon, and new mexico (table 3).
+the number  from mexico increased in only four states (not shown here): louisiana, idaho, wisconsin,  and connecticut.
+
+
+the total number living in those four states increased about 20 percent.
+88  journal on migration and human securitythe substantial drop in unauthorized residents from mexicoa contiguous country that  accounts for the most us unauthorized residentsoffers further evidence of the decline of  the unauthorized population.
+
+
+table 3.
+change in the unauthorized resident population  from mexico for the top 20 states of residence: 2010 to  2013  numbers in thousands; change computed based on unrounded numbers state and percent change  2010 (1) 6,600  62 68  2013 (2) 6,090  41 58  change (3) -515  -21 -11  total from mexico (-8%)  two states had the largest percent declines alabama (-34%) utah (-16%)  nine states declined 10 to 13 percent florida, colorado, nevada, south carolina, georgia, new york, california, illinois, and new jersey  three states declined 8 or 9 percent north carolina, indiana, and arizona  six states had low or near-zero declines oklahoma (-5%) tennessee (-4%) oregon (-2%) new mexico (-1%) washington (rounds to zero) texas (rounds to zero)  all other states (-8%) source: warren 2014.
+
+
+3,476  3,099  -378  553  505  -47  78 76 101 75 151 1,329  634  73 73 99 74 150 1,329  586  -4 -3 -2 -1 -0 0  -48  89  long-term trends in unauthorized immigrationtrend 6.
+in 2006, the number of arrivals from mexico fell below the total   number of arrivals from all other countries (combined) for the first time.
+
+
+in  the  previous  section,  we  examined  the  long-term  trend  in  arrivals  of  unauthorized  residents from mexico.
+in this section, we compare those arrivals with arrivals from all  other countries.
+
+
+figure 5 shows the annual number of arrivals from 1982 to 2012 from  mexico and all other countries.
+over this period, arrivals from mexico exceeded arrivals  from  all  other  countries  by  approximately  200,000  per  year  (figure  5).
+
+
+in  2002,  the  difference began to narrow as arrivals from mexico dropped rapidly while arrivals from  other countries leveled off.
+the trends crossed in 2006, and arrivals from all other countries  exceeded those from mexico.
+
+
+in 2012, about half as many arrived from mexico as from all  other countries (figure 5).
+figure 5.
+
+
+annual number of unauthorized residents who  arrived from mexico and from all other countries: 1982  to 2012  s d n a s u o h t  800  700  600  500  400  300  200  100  0  from mexico from all other countries  385  170  390  180  630  410  240  120  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12  source: arrivals  derived  from  cms  estimates  of  the  unauthorized  resident  population  from  mexico  and  all other countries in 2013, compiled by year of entry.
+see appendix for method of estimation.
+
+
+estimates  rounded to 5,000s and trend lines smoothed using a three-year moving average.
+to  illustrate  the  historic  decline  in  unauthorized  immigrants  arriving  from  mexico,  we  computed the percent of total arrivals in the 1982 to 2012 period that were from mexico.
+
+
+from 1982 to 1997, the percent arriving from mexico was consistently just below 70 percent  (figure 6).
+from 1997 to 2004, the percentage from mexico dropped gradually, falling to  slightly more than half of all arrivals in 2004.
+
+
+after 2004, the percent from mexico fell  more rapidly; currently, as noted above, about one third of all arrivals are from mexico.
+90  journal on migration and human securityfigure  6.
+
+
+estimated  percent  of  total  unauthorized  immigrant arrivals who were from mexico: 1982 to 2012  t n e c r e p  100 90 80 70 60 50 40 30 20 10 0  69  69  68  percent of total arrivals  who were from mexico  61  52  33  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12  source: the estimates used to construct figures 3 and 4 were used to compute these percents; see those figures  for the sources of data.
+trend 7.
+
+
+the number who stayed beyond the period authorized by their  temporary visas (overstays) exceeded the number who entered across the southern  land border (ewis) in each year from 2008 to 2012.
+5 much of the public discussion on immigration in recent years has focused on unauthorized  entries across the us-mexico border.
+
+
+in addition, the lions share of the department of  homeland  security  (dhs)  immigration-related  funding  supports  border  enforcement.
+dhss enacted budget in 2014 included $12.
+
+
+4 billion in funding for customs and border  protection  (cbp),  including  $3.
+7  billion  for  border  security  and  control  between  ports  of entry, $3.
+
+
+2 billion for border security inspections and trade facilitation, and additional  amounts for air and marine interdiction ($805 million) and border fencing, infrastructure,  and  technology  ($351  million)  (dhs  2014).
+6  moreover,  the  house  of  representatives  is now considering the secure our borders first act of 2015 (h.
+
+
+r.
+399), which would  authorize additional appropriations of $1 billion per year for each fiscal year between 2016  through 2025 for border fencing, enforcement technology, roads, staffing, and drones, as  well as monies for the acquisition of condemned property in the border region (cbo 2015).
+
+
+far less attention and enforcement funding, however, has been devoted to persons who  enter with nonimmigrant (temporary) visas and who overstay their period of admission or  5   see appendix for an explanation of how we derived estimates of the unauthorized, including overstays.
+6    in  contrast,  the  2014  enacted  budget  for  immigration  and  customs  enforcement  (ice),  dhss  other  immigration enforcement agency, was $5.
+
+
+6 billion, with $2.
+8 billion for detention and removal operations  (dhs 2014).
+
+
+91  long-term trends in unauthorized immigrationotherwise violate the terms of their visas.
+7 estimates of the number of overstays were first  reported about 25 years ago (bean, edmonson, and passel 1990; gao 1995; warren 1997).
+
+
+in 2014, the congressional research service (crs) reported that overstay estimates had  ranged from 31% to 57% of the unauthorized population (depending on methodology)  and that reliable estimates were still not available because dhs lacked reliable data on  emigration and nonimmigrant departures from the united states (wasem 2014).
+we used  data on country of origin and year of entry from the cms database to derive information  about trends in ewis and overstays over the past 30 years.
+
+
+figure 7.
+trends in the number of unauthorized residents  who moved to the united states, by mode of arrival: 1982  to 2012  s d n a s u o h t  800  700  600  500  400  300  200  100  0  estimated ewis estimated overstays  415  145  415  160  675  360  210  150  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12  source: arrivals derived from cms estimates of the unauthorized resident population by country of birth in  2013, compiled by year of entry.
+
+
+see appendix for method of estimation.
+estimates rounded to 5,000s and  trend lines smoothed using a three-year moving average.
+
+
+ewis are defined as 90 percent of the population  from mexico8 plus 88 percent of those from central american countries.
+overstays are computed as total  population minus ewis.
+
+
+figure  7  shows  estimated  trends  in  the  number  of  overstays  and  ewis  from  1982  to  2012.
+these estimates are subject to a number of possible errors, both sampling and non- 7   the full cost of dhss work on visa overstays is not broken down in its detailed budget justification  documents.
+
+
+however, cbps arrival and departure information system is the only federal government  system that provides a comprehensive record of non-us-citizens immigration status, including information  identifying those that stayed longer than their allotted time or left the country after staying longer than their  allotted time (dhs 2015, 113).
+cbp devoted $29 million for operations and maintenance of this system in  fy 2015 (ibid.
+
+
+, 146).
+8   estimates derived in the 1990s (gao 1995; warren 1997) indicate that 16 percent of the unauthorized  resident population from mexico resulted from overstays.
+
+
+we used a more conservative estimate of 10 percent  for mexico to derive these estimates (see appendix).
+92  journal on migration and human securitysampling.
+
+
+however, reasonable9 alternative assumptions produce patterns that are similar  to the ones shown.
+as shown in figure 7, both ewis and overstays generally increased from the early 1980s  until about 1997, surging to a peak in 2000 before declining rapidly from 2001 to 2003.
+
+
+note that the irca-related bump in 1988-1991 was more pronounced for ewis than  for overstays.
+for more than two decades, from 1982 to 2003, the trends were roughly  parallel, with ewis exceeding overstays by about 250,000 to 300,000 each year.
+
+
+however,  after 2003, the trend lines converge; ewis declined sharply, falling from a half million in  2004 to about 150,000 in 2012 (figure 7).
+overstays also declined from 2004 to 2012, but  the drop was not as steep or as consistent as the decline in ewis.
+
+
+the largest shift in the  number of overstays relative to ewis occurred from 2003 to 2008.
+in the 2008 to 2012  period, a total of 270,000 more overstayed than arrived as ewis.
+
+
+entries of ewis are now  far below the levels estimated from 1982 to 2006, while overstays have remained near their  long-term levels.
+10  figure  8.
+
+
+estimated  percent  of  total  unauthorized  immigrant arrivals who were overstays: 1982 to 2012  t n e c r e p  80  70  60  50  40  30  20  10  0  percent of total arrivals  who were overstays  58  26  26  28  35  38  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12  source: the estimates used to construct figure 7 were used to compute these percents; see figure 7 for the  sources of data.
+9   an unreasonable assumption would be one that produced trend lines that implied no population growth  from 1982 to 1997 or that implied more population growth than has been reported (see, for example, table  1, column 2).
+
+
+10   note also that the gray trend line for the most recent years shown for overstays in figure 7 is likely to rise  somewhat over the next few years as visitors and others who entered with temporary visas in recent years  are in the country long enough to overstay.
+for example, the temporary visitor who is in a legal status in late  2012, but subsequently fails to depart, will not appear in the estimates as an overstay in 2012.
+
+
+however, when  comparable data are compiled in, say 2015, that person will report 2012 as the year of entry and will appear  in the data as an overstay who entered in 2012.
+93  long-term trends in unauthorized immigrationfigure 8 charts the long-term trend in the percent of all arrivals that were overstays.
+
+
+until  the mid- to late 1980s, between 25 and 30 percent of all unauthorized immigrant arrivals  were overstays.
+in the 1998 to 2004 period, overstays increased to just over one-third of  all arrivals; after 2004, the percent of overstays increased rapidly, finally becoming the  majority of arrivals from 2008 to 2012 (figure 8).
+
+
+the  next  step  in  assessing  long-term  trends  in  overstays  compared  to  ewis  is  to  plot  the pattern of arrivals from each continent or area.
+figure 9 provides an overview of the  trends in arrivals from north, central, and south america, the caribbean, africa, and asia.
+
+
+europe  and  oceania  have  been  omitted  because  the  numbers  are  relatively  small.
+the  graphs embedded in figure 9 do not show ewis or overstays separately; however, the  trends in ewis and overstays can be discerned in figure 9 because most of the arrivals  from north and central america are ewis and most of the arrivals from the rest of the  world are overstays.
+
+
+note that the vertical scales vary in the graphs shown in figure 9; the  intent is to show patterns of entry and not relative levels of arrivals.
+figure 9.
+
+
+trends in arrivals of unauthorized immigrants  by continent or area: 1982 to 2012 numbers in thousands   700 600 500 400 300 200 100 0  100 80 60 40 20 0  north america  1982  1990  2000  2012  south america  1982  1990  2000  2012  140 120 100 80 60 40 20 0  35 30 25 20 15 10 5 0  central america  1982  1990  2000  2012  africa  1982  1990  2000  2012  40  30  20  10  0  140 120 100 80 60 40 20 0  caribbean  1982  1990  2000  2012  asia  1982  1990  2000  2012  source: arrivals derived from cms database, adjusted to be actual arrivals as described in the appendix.
+estimates rounded to 5,000s and trend lines smoothed using a three-year moving average.
+
+
+the trend lines in figure 9 point to:   a decline in arrivals from mexico after 2000 (north america);   the sharp decrease in arrivals from el salvador, guatemala, and honduras in recent   years;11   11    the  migration  of  unaccompanied  children  and  parents  with  children  from  these  three  nations  rose  dramatically in fy 2013 and fy 2014 (cbp 2015a and 2015b).
+94  journal on migration and human security  an increase in arrivals from the dominican republic in 2010 (caribbean);   similar trends in arrivals from the four south american countries with the most arrivals,   argentina, brazil, colombia, and ecuador;    arrivals from africa, while still low compared to other areas, increased rapidly over   the entire 30-year period;    the african countries with the largest number of arrivals, cameroon, egypt, ethiopia,  ghana, and nigeria, had long-term patterns of arrivals that were similar to each other;   arrivals from asia averaged about 40,000 before 1997, surged to 100,000 in 1999, and   then averaged about 115,000 per year from 2000 to 2010.
+
+
+the  patterns  of  arrival  illustrated  in  figure  9  help  to  explain  why  nonimmigrant  visa  overstays exceeded ewis from 2008 to 2012.
+arrivals from north and central america  (the source of most ewis) fell to historic lows, while arrivals from the caribbean, africa  and asia (who are very nearly all overstays) continued at previous levels or increased.
+
+
+policy discussion over the last decade, congress has failed to pass comprehensive reform legislation.
+in  response, in november 2014 the obama administration announced an unprecedented set  of executive action initiatives.
+
+
+12 according to our estimates, there are 3.
+9 million parents  of us citizens and lawful permanent residents (lprs) who would be prima facie eligible  for work authorization and a temporary reprieve from removal under the deferred action  for  parental accountability  (dapa)  program  (warren  2014).
+
+
+an  additional  1.
+5  million  unauthorized persons, who were brought to the united states as children, would potentially  qualify for the expanded deferred action for childhood arrivals (daca) program (ibid.
+
+
+).
+13  tables 4 and 5 show our estimates of the persons potentially eligible for the dapa and  daca programs in the top 15 states of residence and the top 15 countries of origin.
+
+
+14  12    although  the  dapa  and  daca  programs  have  received  the  most  attention  among  the  obama  administrations  recently  announced  executive  action  initiatives,  a  third  initiative  has  the  potential  to  facilitate family unity and legal status for large numbers of persons with family ties to us citizens and lawful  permanent residents (lprs) that qualify them for an immigrant visa.
+to explain, after a family-based visa  petition has been approved (signifying the existence of a qualifying family relationship), many unauthorized  persons choose to wait in the united states (without status) until their visa priority date becomes current.
+
+
+at that point, they must leave the country to secure the visa through consular processing.
+however, once  they leave, they become inadmissible based on their past unauthorized presence in the united states.
+
+
+the  ground of inadmissibility can be waived based on extreme hardship to a us citizen or lpr spouse or  parent, but the waiver process has historically taken place abroad and its outcome is uncertain.
+as a result,  many opt to remain in the united states and forego the possibility of a visa.
+
+
+in january 2013, dhs issued a  rule that allowed the spouses, parents and minor children of us citizens to seek a waiver of inadmissibility  before they leave the united states.
+once a waiver has been approved, they can then leave the country to  pursue  consular  processing  with  the  assurance  they  will  be  permitted  to  return.
+
+
+in  november  2014,  the  president announced the expansion of this process to cover the spouses, sons and daughters of lprs, and the  adult and married sons and daughters of us citizens.
+this measure will benefit thousands of family members  of us citizens and lprs each year into perpetuity.
+
+
+13   as stated, the 114th congress has vowed to derail these programs, and 26 states have challenged their  constitutionality.
+14   an estimated 262,000 persons are eligible for both dapa and daca.
+
+
+95  long-term trends in unauthorized immigrationtable 4.
+estimated population eligible for dapa: top 15  states and countries of origin state of residence  country of origin  number (3) 3,890,000 2,520,000 205,000 185,000 150,000 95,000 90,000 50,000 50,000 45,000 35,000 30,000 30,000 25,000 25,000 25,000 330,000  percent (4) 100% 65% 5% 5% 4% 2% 2% 1% 1% 1% 1% 1% 1% 1% 1% 1% 9%  number (1) 3,890,000 965,000 685,000 230,000 215,000 180,000 145,000 130,000 125,000 120,000 100,000 85,000 65,000 65,000 60,000 45,000 670,000  us total california texas new york illinois florida new jersey georgia north carolina arizona washington virginia colorado nevada maryland oregon all other source: cms database.
+
+
+percent (2)  100%   25%   18%   6%   6%   5%   4%   3%   3%   3%   3%   2%   2%   2%   2%   1%   17%    total mexico el salvador india guatemala honduras china ecuador philippines korea dominican rep.
+peru colombia haiti brazil vietnam all other  in the absence of federal legislation, a dynamic new immigration federalism has emerged,  with states and localities taking remarkably diverse approaches to unauthorized residents  and  their  family  members,  ranging  from  strategies  to  exclude,  marginalize,  and  spur  their self-deportation, to measures that would extend to them many of the benefits and  conditions of legal residency (suro 2015).
+
+
+immigration enforcement has been a priority of successive administrations and congresses  (kerwin 2014, 329-332).
+yet many border residents resent the intrusiveness of enforcement  policies in their lives and the repeated characterization of their communities as dangerous  and  insecure  (heyman  2013).
+
+
+in  fy  2014,  there  was  a  dramatic  increase  in  migration  to  the  united  states  by  unaccompanied  children  and  parents  with  minor  children  from  the  northern  triangle  nations  of  central  america.
+in  response,  the  united  states  has  sought to deter further migration through removals, detention of families, increased border  enforcement, and work with sending states.
+
+
+15   15   statement by secretary of homeland security jeh johnson before the senate committee on appropriations,  july  10,  2014.
+available  at:  http://www.
+
+
+dhs.gov/news/2014/07/10/statement-secretary-homeland-security- jeh-johnson-senate-committee-appropriations.
+96  journal on migration and human securitytable 5.
+
+
+estimated population eligible for daca: top 15  states and countries of origin  state of residence  number (1) 1,520,000 410,000 265,000 100,000 100,000 75,000 55,000 45,000 45,000 35,000 30,000 30,000 25,000 25,000 25,000 20,000 240,000  all states california texas new york florida illinois new jersey arizona georgia north carolina washington virginia nevada colorado maryland oregon all other source: cms database.
+percent (2)  country of origin  100%   27%   17%   7%   7%   5%   4%   3%   3%   2%   2%   2%   2%   2%   2%   1%   16%    all countries mexico el salvador guatemala honduras korea philippines dominican rep.
+
+
+china colombia jamaica india peru haiti ecuador vietnam all other  number (3) 1,520,000 925,000 65,000 50,000 40,000 35,000 35,000 25,000 25,000 20,000 20,000 20,000 15,000 15,000 15,000 15,000 195,000  percent (4) 100% 61% 4% 3% 3% 2% 2% 2% 2% 1% 1% 1% 1% 1% 1% 1% 13%  some view these developmentsin combinationas evidence that the united states is on  a slow path to consensus on immigration reform.
+others think that meaningful immigration  reform discussions have reached a dead-end, and will not be revived for years.
+
+
+we believe  that the trends outlined in this paper argue for re-engagement of the debate on the need for  broad legislative reform, whatever its political prospects and whatever the ultimate fate of  the dapa and expanded daca programs.
+before we discuss the policy implications of the  trends set forth in this paper, however, we should pause to acknowledge the importance of  now having the information needed to chart those trends via the cms database, as well as  through other scholarship, research, and data tools.
+
+
+growth of the unauthorized resident population   in the 1980s and 1990s, it seemed that the unauthorized population might continue to grow  indefinitely.
+we could not have anticipated the remarkable decline in unauthorized arrivals  after 2000.
+
+
+nor did demographers have sufficient data to recognize the steady growth in  the number of departures from the populationprimarily through voluntary emigration,  removal by dhs, or adjustment to legal status.
+97  long-term trends in unauthorized immigrationthe  question  of  why  the  population  stopped  growing  in  2008  is  not  just  an  academic  exercise.
+
+
+the generally accepted but erroneous assumption that the recession was the cause  of the decline reveals a widely shared assumption that unauthorized population growth  is inevitable.
+that mindset has led to a perpetual sense of crisis.
+
+
+one of the purposes of  this paper is to help policymakers and the public dispel the myth of inevitable population  growth and to appreciate fully the dramatic changes that have occurred over the past fifteen  years.
+that should set the stage for a renewed consideration of comprehensive reform.
+
+
+it would be risky for demographers to try to predict whether the population will start to  grow again and, if so, why and at what rate.
+however, if we assume continued robust levels  of border enforcement, and if congress and dhs start to focus more attention on tracking,  reducing and preventing the admission of likely overstays, it appears likely that the era  of large increases in the unauthorized resident population will have ended.
+
+
+16 moreover,  providing a reprieve from removal for millions of parents of us citizens and lprs, as  well as for an expanded group of unauthorized persons brought to the united states as  children, would allow dhs to concentrate its substantial enforcement resources on high- priority  targets,  like  human  traffickers,  transnational  criminal  enterprises,  and  national  security threats.
+at the same time, as discussed below, substantial future declines in the  us unauthorized population are likely to come only from reform of the legal immigration  system and creation of a path to citizenship for us unauthorized residents.
+
+
+unauthorized  immigration  as  a  transitional  status  and  the  increase  in  the  average  length  of  residency  of  us  unauthorized  immigrants  these estimates also strongly affirm past research on the transitional nature of immigration  status, as evidenced by the high percentages of unauthorized immigrants who may already  be eligible for lpr status (wong et al.
+2014) and the high percentage of new lprs who  once lacked immigration status (jasso et al.
+
+
+2008).
+as figure 3 illustrates, an estimated  19.
+
+
+5 million17 persons joined the unauthorized population in the 31-year period from 1982  to 2012.
+of this number, 11.
+
+
+0 million were still living in the united states without status  in 2013.
+that leaves about 8.
+
+
+5 million who: (1) were no longer in the united states; or  (2) were able to adjust to legal status.
+although dhs does not compile the number of  adjustments from unauthorized to legal status, estimates such as those shown in table 1 for  the 1990 to 2009 period indicate that approximately two million adjusted to legal status in  the 1982 to 2012 period.
+
+
+thus, 6.
+5 million who entered in 1982 to 2012 left voluntarily,  were removed, or died.
+
+
+the fluidity of the us unauthorized population has received only sparse attention in the  public debate on immigration reform.
+however, it has profound implications for reform of  the legal immigration system and for immigration enforcement strategies.
+
+
+in particular, it  casts doubt on the wisdom of seeking to remove persons who are already on the path to  lpr status.
+these include a substantial number of the 4.
+
+
+4 million persons whose family- 16   we would note, however, that whatever its deterrent effect on unauthorized migration, the growth in  border enforcement has irrefutably reduced return migration rates to mexico (massey, durand, and pren  2014, 1042-43).
+17   the sum of the annual arrivals shown in figure 3 (the solid black line) is 19.
+
+
+5 million.
+98  journal on migration and human securitybased visa petitions have been approved, but who wait in visa backlogs due to per-country  visa limits and annual caps on visas in family-based preference categories (bergeron 2013,  7).
+
+
+an unknown, but certainly a high percentage of those with approved family-based visa  petitions choose to reside in the united states (in unauthorized status) as they wait for their  visa priority date to become current.
+moreover, the us unauthorized population includes  high percentages of persons with long tenure, including 1.
+
+
+9 million with 20 years or more  of us residency, 1.
+6 million with 15 to 19 years of us residency, and 3.
+
+
+1 million with 10  to 14 years of us residency (warren 2014).
+as  discussed,  the  average  length  of  residency  of  the  us  unauthorized  population  has  increased significantly in recent years, and this trend will persist if arrivals to the unauthorized  population remain low and departures from this population continue to increase or level  off.
+
+
+these  long-term  residents,  which  include  high  percentages  of  potential  dapa  and  daca beneficiaries, will continue to build family and other equitable ties to the united  states, diminishing the likelihood that they will ever return permanently to their countries  of birth.
+as figure 10 shows, many of the potential dapa and daca beneficiaries are  long-term residents; in both cases, more than half of them arrived before 2000.
+
+
+figure  10.
+unauthorized  immigrants  residing  in  the  united  states  in  2013,  by  eligibility  status  and  year  of  entry: 1982 to 2009  s d n a s u o h t  700  600  500  400  300  200  100  -  total unauthorized  population  eligible for both daca  and dapa  eligible for daca  only  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09  the escalating numbers of long-term us unauthorized residents argue, in particular, for  revisiting a legalization policy option that has received scant attention in the debate on  immigration reform.
+
+
+registry provides lpr status to unauthorized us residents who  have  entered  the  country  by  a  statutorily  established  date  (currently  january  1,  1972),  have lived continuously in the country since entry, are not removable on select grounds of   99  long-term trends in unauthorized immigrationinadmissibility or deportability, and are not ineligible for citizenship.
+18 since 1929, congress  has advanced the registry date several times, most recently through irca (kerwin 2010).
+
+
+as a result, more than 72,000 persons have received legal status via registry, including  more than 63,000 in the post-irca years from 1987 through 1990 (ibid.
+).
+
+
+advancing the  registry date would be an effective way to address the long-term unauthorized population  that includes 1.
+9 million persons who have lived in the united states for 20 years or more,  and 1.
+
+
+6 million unauthorized residents for 15 to 19 years (warren 2014).
+to move ahead  the registry cut-off date on a rolling basis (automatically) thereafter would prevent the re- emergence of a long-tenured unauthorized population.
+
+
+in short, the trends in unauthorized immigration support what policymakers increasingly  recognize:  that  self-deportation  or  removal-only  policies  would  be  harmful  to  the  unauthorized,  their  families,  and  their  communities,  and  that  ultimately  reform  of  the  legal immigration system and a path to citizenship for some substantial percentage of the  unauthorized will be the best and perhaps only feasible policy option.
+entries across the southern land border   the decade-long drop in arrivals from mexico after 2000to approximately one-third of  the number of annual arrivals in the early 1980smay be the most striking trend described  in this paper.
+
+
+the pew research center attributed the decline in net migration from mexico  (legal and unauthorized) to many factors, including the weakened us job and housing  construction markets, heightened border enforcement, a rise in deportations, the growing  dangers associated with illegal border crossings, the long-term decline in mexicos birth  rates and broader economic conditions in mexico (passel, cohn, and gonzalez-barrera  2012,  6).
+an  analysis  of  mexican  migration  project  data  has  attributed  the  marked  decline in first unauthorized migration entirely to the rising average age of household  heads at risk of taking a first undocumented trip (massey, durand, and pren 2014, 1055).
+
+
+the increase in average age of potential migrantsfrom 22.
+5 to 45.
+
+
+9 years old between  1970 and 2010is due, in turn, to the steep drop in the mexican fertility rate, coupled with  the steady selection of young men out of the population at risk of taking a first trip by  migration itself (ibid.
+).
+
+
+from a policy perspective, the time has come to reform the us legal immigration system,  with the goals of better serving the nations economic, family, and humanitarian interests;  further reducing arrivals into the unauthorized population; permanently diminishing this  population;  and  increasing  the  effectiveness  of  the  immigration  enforcement  system.
+channeling  needed  workers  legally  through  ports  of  entry  would  change  the  dynamics  at the border.
+
+
+it would allow cbp to shift the substantial resources it devotes now to the  apprehension  of  economic  migrants,  to  the  prevention  of  entries  by  public  safety  and  national security risks, to interdiction of the flow of illegal narcotics to the united states,  and to curtailing flows of illegal firearms and drug profits from the united states to mexican  cartels.
+more targeted enforcement strategies would also lessen the resentment of many  border residents at the omnipresence of the border patrol and at intrusive enforcement  activities in their communities.
+
+
+18   immigration and nationality act (ina), 249.
+100  journal on migration and human securitythe surge in arrivals by central american and mexican youth, peaking in 2014, illustrates  the limits of border enforcement policies.
+
+
+it points to the need to address the structural  conditions  leading  to  their  migrationprimarily  violence  and  povertythrough  social  reform,  economic  development,  rule-of-law  initiatives,  and  humanitarian  programs  in  sending  communities.
+the  migration  of  children  is  also  strongly  tied  to  the  migration  history of their parents, including (for many) their parents residence in the united states  (donato and sisk 2015).
+
+
+this phenomenon argues for legalization and legal immigration  policies that reflect the nations commitment to family unity.
+such policies, in turn, have the  potential to reduce unauthorized migration and contribute to a more effective and humane  enforcement system.
+
+
+overstays  as  unauthorized  entries  across  the  us-mexico  border  have  declined,  overstays  have  become a much more important source of unauthorized immigration.
+the reversal in  modes of entry should lead to an increased emphasis on preventing likely overstays, and  keeping track of visitors and others who are admitted temporarily.
+
+
+a 1994 report from the  immigration and naturalization service stated: it is clear that nonimmigrant overstays  make up a large percentage of the unauthorized immigrant population residing in the united  states.
+yet this group has generally been overlooked in discussions of us policy options for  reducing unauthorized immigration (warren 1994).
+
+
+more than two decades later, this trend  persists.
+as of june 2013, dhs had more than one million arrival records which lacked matching  departure records in its arrival and departure information system (adis) database (gao  2013, 16).
+
+
+a gao analysis of unmatched arrival records in november 2012 found that  the average elapsed time since the date of required departure was 2.
+7 years (ibid.
+
+
+, 18).
+not  surprisingly,  a  particular  challenge  in  identifying  overstays  has  been  incomplete  collection of departure data from nonimmigrants at ports of entry, particularly land ports  of entry (20).
+
+
+this remains an immense challenge along the us-mexico border, as does  inaccurate  information  provided  by  air  carriers  on  passenger  departures  (25).
+in  recent  years, dhs has taken steps to enhance data sharing between adis and other dhs databases  that allow it to identify persons who have departed in a timely manner or changed status  (i.
+
+
+e.
+, non-overstays), as well as overstays who fall within ice enforcement priorities (20- 21).
+
+
+yet in 2014, crs observed that dhs still did not have reliable data on emigration  and  nonimmigrant  departures  from  the  united  states  and  that  a  way  forward  on  the  issue of nonimmigrant overstays seems out of reach, absent a reliable method to measure  emigration or an effective exit-monitoring system (wasem 2014).
+this  is  not  an  argument  for  revisiting  the  exit  requirements  of  the  automated  entry- exit system mandated by the illegal immigration reform and immigrant responsibility  act of 1996 and subsequent acts of congress.
+
+
+in any event, recent reports indicate that  dhs has no plans to implement biometric exit capabilities at land ports of entry (gao  2013, 28).
+however, our finding that overstays have outnumbered ewis for the past five  years speaks to the urgent need for a viable statistical system to collect information about  all entries to and departures from the united states.
+
+
+investment in a more reliable and  efficient entry/exit and tracking system would allow dhs to monitor a significant portion   101  long-term trends in unauthorized immigrationof  the  unauthorized  population  that  has  gone  largely  unnoticed  and  ignored  until  now.
+more importantly, intensive tracking and evaluation of overstays would generate detailed  feedback that could assist dhs and embassy personnel to identify visa applicants that are  at high risk of becoming overstays.
+
+
+summary this report documents profound recent changes in unauthorized immigration to the united  states.
+between 2000 and 2012, arrivals of unauthorized immigrants from mexico fell by  80 percent, and the total population (and the population from mexico) began to decline.
+
+
+these developments were offset somewhat by an unexpected trend.
+after 2008, entering  legally with a temporary visa and overstaying became the predominant way to enter the  unauthorized resident population.
+
+
+the decline of the unauthorized population in the future  will depend on reform of the legal immigration system, legalization of a large percentage  of the unauthorized, and making overstays an enforcement priority.
+in other words, it will  require the administration and congress to work together to develop a more effective and  humane immigration system.
+
+
+appendix  overview of the methodology used to derive center for  migration studies (cms) estimates the estimates are based partly on the reported characteristics of non-us citizens in the micro  data of the 2010 american community survey (acs).
+the acs is an annual statistical  survey covering approximately one percent of the total us population.
+
+
+the survey gathers  information previously obtained in the decennial censusthe acs questionnaires are very  similar to the 2000 census long form.
+the survey provides detailed social and economic  data for all states, as well as all cities, counties, metropolitan areas, and population groups  of 100,000 people or more.
+
+
+nearly  all  of  the  unauthorized  resident  population  in  the  acs  is  in  the  category  of  noncitizens that entered the united states after 1981.
+very few who entered before 1982  would still be residing in the country as unauthorized residents in 2010 because: (1) a large  percentage of those who entered before 1982 obtained legal status under the immigration  reform and control act of 1986 (irca);19 and, (2) the remainder have had about 30 years  in which to leave the unauthorized resident populationthat is, to adjust to legal status, be  removed, leave voluntarily, or die.
+
+
+19   irca went into effect in 1987.
+two main groups were eligible for legalization, each with their own  residency requirements: legalization applicants who continuously resided in the united states since before  january 1, 1982 and special agricultural workers (saws) who had 60 days of seasonal agricultural work  experience in qualifying crops from may 1985 to may 1986.
+
+
+about 1.
+6 million legalization applicants and  1.
+
+
+1 million saw applicants were approved.
+102  journal on migration and human securitythe methodology involved four major steps.
+
+
+1.
+a series of edits, referred to as logical edits, 20 were used to identify as many legal  residents as possible based on responses in the survey.
+
+
+those judged to be legal residents  were removed from the data.
+at this point about 86 percent of those remaining were  likely to be unauthorized residents.
+
+
+2.
+separate population estimates of unauthorized residents counted in the 2010 acs, for   145 countries or areas, were derived for use as population controls.
+
+
+3.
+the population controls for each country were used to make final selections of individual   respondents in the acs to be classified as unauthorized residents.
+
+
+4.
+finally, the results of step 3 were adjusted for under-enumeration.
+
+
+the most recent  entrants are assumed to have the highest undercount rates (about 13 percent), and the  undercount rate drops steadily with length of residence, falling to less than two percent  for those who entered in 1982.
+the estimated undercount rate for the total population  is about 7.
+
+
+5 percent.
+the technique of controlling the likely unauthorized population to 145 country controls  produced estimates by age, year of entry, and state of residence that are very similar to the  best available residual estimates.
+
+
+the estimates for each country used as population controls  for the 2010 estimates are based partly on administrative data from the department of  homeland security (dhs), estimates and assumptions consistent with warren and warren  (2013), and a variety of other sources, including foreign-born data from the 2000 census,  legalization applications by country from irca, and estimates of nonimmigrant overstays,  by country, derived by dhs annually from 1988 to 1992.
+for a complete description of the  procedures for deriving the population controls for each country, see warren (2014).
+
+
+for most countries the logical edits (step 1) produce numbers that are fairly close to the  control totals.
+however, the logical edits do not shift all of the legal residents out of the  likely unauthorized category.
+
+
+as  a  result,  a  small  percentage of  those  remaining in  the  database actually are legal residents.
+on the other hand, a sizeable proportion of these legal  residents had previous experience as unauthorized residents.
+
+
+overall, the database consists  of  an  estimated  89  percent  unauthorized  residents,  but  adding  in  those  with  previous  unauthorized experience raises the total to 93 percent.
+methodology for estimating actual arrivals the  usual  way  of  describing  entry  data  for  immigrants  is  to  tabulate  the  number  of  immigrants who lived in the united states in a particular year, for example those counted  in the 2013 acs, and distribute the data into years or periods of entry.
+
+
+this procedure   20   the term logical edit refers to the process of determining probable legal status by examining survey  data.
+respondents were assigned to the legal category if they worked in occupations that generally require  legal status, were legal temporary migrants, were immediate relatives of us citizens, received public benefits,  were from countries where most arrivals would be refugees, or were age 60 or older at entry.
+
+
+this method was  developed by jeffrey passel and rebecca clark (1998), extended by passel, bean and van hook (2004), and  refined by passel and others in recent years at the pew research center.
+103  long-term trends in unauthorized immigrationis  useful  for  some  purposes,  such  as  describing  the  current  population  or  planning  for  administrative programs in which length of residence is important.
+
+
+however, this approach  is  inadequate  for  describing  trends  in  the  number  who  actually  arrived  each  year.
+for  example, the number of unauthorized immigrants who moved to the united states in 1988  will be greatly diminished by 2013; that is, a large percentage of those who entered in 1988  will have left the unauthorized population in one of four ways: adjusted to legal status,  been removed by dhs, left voluntarily, or died.
+
+
+to examine long-term trends in arrivals,  we need to know how many actually arrived each year, not just the number still residing in  the united states in 2013.
+if adequate detailed information had been available, we would have started with the 2013  count of those who entered in 1988, for example, and added back all of those who left in  any of the four ways listed above.
+
+
+unfortunately, the information needed for such cohort  restoration is not available by country of birth.
+however, sufficient data was available and  that technique was used successfully to estimate total actual arrivals for us states and the  total population for 1990 to 2009 (warren and warren, 2013).
+
+
+we used the pattern of those  annual us estimates of entries to calibrate and validate our methodology.
+figure  11.
+
+
+alternative  methods  of  estimating  actual  arrivals of unauthorized residents of the united states:  1982 to 2012  residual method  estimates based on cms data (see  text) cms year-of-entry data for 2013  s d n a s u o h t  1,400  1,200  1,000  800  600  400  200  0  82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12  source: residual accounting method, warren and warren 2013, table 3; estimates based on cms data, see  text; cms year-of-entry data, warren 2014.
+all three sets of estimates were rounded to 5,000s, and the trend  lines were smoothed using a three-year moving average.
+
+
+104  journal on migration and human securityfor this paper, we developed a new procedure for estimating actual arrivals for 1982 to  2012.
+to produce the estimates, we carried out the following steps: 1.
+
+
+compiled data by single year of entry for 1982 to 2012 from the cms estimates of the   unauthorized resident population in 2013;  2.
+used an annual loss rate of three percent per year to reconstruct each annual entry  cohort.
+
+
+operationally, we divided those who entered in 2011 (from step 1 above) by  0.
+97; those who entered in 2010 by 0.
+
+
+94; those who entered in 2009 by 0.
+91, and so on,  back to 1982.
+
+
+3.
+in most cases, we smoothed the results by using a three-year moving average, and then   rounded to 5,000s.
+
+
+the results were tested by comparing the cms trends with the trends in arrivals published  by warren and warren (2013); the two trend lines are shown in figure 11.
+the gray line  in figure 11 is the estimated population in 2013, distributed by reported year of entry.
+
+
+the  solid black line shows our estimates of the number who actually entered in each year.
+the  broken black line shows the estimates derived using demographic accounting.
+
+
+our trend  line is generally lower, but the two long-term trends are about parallel, which lends support  to our methodology.
+estimates of overstays and ewis previous studies indicate that the overwhelming majority of individuals who cross the us- mexico land border without inspection (ewis) come from mexico and central american  countries (warren 1997; gao 1995; bean, edmonson, and passel 1990).
+
+
+beyond that,  the information about the relative numbers of ewis and overstays by country of origin is  sparse.
+we derived the estimates of ewis and overstays shown here based partly on data  derived by the immigration and naturalization service (ins) and used in warren (1997).
+
+
+in that report, average annual overstays for 1985 to 1992 were estimated to be 47,500 from  mexico and 14,600 from el salvador, guatemala, honduras, and nicaragua combined.
+dividing those figures by our comparable estimates of arrivals for 1985 to 1992 (the arrivals  used to construct figure 3) from mexico and the four central american countries yields  11 percent overstays from mexico and 18 percent overstays from the central american  countries.
+
+
+based on the information above, we made the following assumptions: 90 percent of all  arrivals in 1982-2012 from mexico were ewis, and 88 percent of all arrivals in 1982-2012  from the four central american countries were ewis.
+all of the arrivals from the rest of  the world were assumed to be overstays.
+
+
+arrivals of overstays for figures 7 and 8 were  computed as the difference between total arrivals and estimated ewi arrivals from mexico  and central america.
+to try to avoid overestimating overstays, we used 10 percent (rather than the computed  11 percent) overstays from mexico, and 12 percent (rather than the computed 18 percent)  overstays from the four central american countries.
+
+
+sensitivity tests showed that reasonable  alternative assumptions about percent overstays from these five countries produced long- term trends similar to those shown in figures 7 and 8.
+
+

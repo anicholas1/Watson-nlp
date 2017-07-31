@@ -1,0 +1,1895 @@
+reconceiving citizenship:   noncitizen voting in new york  city municipal elections as a case  study in immigrant integration  and local governance  lauren gilbert1  st.
+thomas university school of law  executive summary this  paper  uses  new  york  citys  consideration  of  an  amendment  to  its  charter that would extend voting rights to noncitizens in municipal elections  as a case study in immigrant integration and local governance.
+
+
+it argues  that  new  york  citys  biggest  challenge  in  moving  this  issue  forward  is  dealing successfully with two related questions: (1) why the new york city  council should be able to decide who the people are without approval  from the state government in albany and (2) whether it should attempt to  enact the measure without a referendum.
+the  analysis  first  examines  the  role  of  local  government  in  regulating  the lives of immigrants, contrasting enforcement-oriented strategies with  those  that  are  more  integration-oriented.
+
+
+it  then  spotlights  federal  law  obstacles  to  noncitizen  suffrage,  concluding  that  while  neither  federal  criminal  nor  immigration  law  prevents  state  or  local  governments  from  extending the franchise to noncitizens in state or local matters, federal law  imposes impediments that may deter some noncitizens from registering  or that could carry serious immigration consequences for those who vote  in violation of federal law.
+the article then focuses on state law obstacles,  including new yorks constitution, its state election law and its home rule  provisions.
+
+
+it contrasts other recent experiences with noncitizen suffrage  around the country, looking at both municipal and school board elections.
+finally,  it  provides  some  thoughts  on  best  practices  in  moving  forward  the issue of noncitizen suffrage in new york city and other locales.
+
+
+new  york  law  is  ambiguous  enough  that  good  arguments  can  be  made  for  why  neither  albanys  approval  nor  a  city-wide  referendum  is  required.
+1  i would like to thank professor lenni benson of new york law school for her invitation to participate in  a panel discussion on noncitizen voting before the new york city bar on june 24, 2014.
+
+
+i also thank steven  sacco, esq.
+, of the new york city bar for arranging my visit and coordinating the panel discussion, and  professor ron hayduk of queens college for his thoughtful scholarship and tireless advocacy on this issue.
+
+
+2014 by the center for migration studies of new york.
+all rights reserved.
+
+
+jmhs volume 2 number 3 (2014): 223-250however, given new york citys historic relationship with albany and the  state legislatures power to preempt local law on election matters, if the  city council attempts to expand the franchise to noncitizen voters without  a referendum or comparable measure, it could trigger preemptive action in  albany or lengthy, divisive, and costly battles in the courts.
+introduction new york city is a global city of 8.
+
+
+4 million inhabitants that over 3 million immigrants  from 148 different countries call home (dinapoli 2010).
+while many are legal residents  and naturalized us citizens, many others are here on work or student visas, or enjoy some  other form of temporary status or authorization; approximately 500,000 are unauthorized.
+
+
+2  by 2010, 43 percent of new york citys workforce were immigrants occupying a range of  positions across the economic spectrum (dinapoli 2010).
+new york states constitution  specifically states that every local government  shall have a legislative body elective by  the people thereof.
+
+
+3  new york citys definition of who its people are is likely to be very  different than in other parts of the state.
+who gets to decide who that includes?
+
+
+whether the new york city council could or should extend the franchise in local elections  to noncitizen legal residents was before the council for nearly two-and-a-half years before  it made progress in the spring of 2013.
+introduced by the council on november 17, 2010,  the bill, intro 410, initially enjoyed 31 co-sponsors (out of 51 city councilmembers).
+
+
+4 the  measure would have created a new category of municipal voter, defined essentially as a  noncitizen lawfully present in the united states who has resided in new york city for  at least six months.
+5  municipal voters would be eligible to participate in any municipal  election  for  mayor,  city  councilmember,  borough  president,  comptroller,  and/or  public  advocate,  and  in  all  municipal  ballot  measures,  including  primary,  special  and  general  elections.
+
+
+6    on may 9, 2013, the city councils committee on government operations held hearings   2  statement of daniel dromm, member, new york city council (hereinafter statement of daniel dromm),  hearing testimony, pp.
+5-6.
+
+
+3  n.
+y.
+
+
+const.
+art 9, 1(a), cl.
+
+
+1.
+4  int.
+
+
+0410-2010, a local law to amend the new york city charter in relation to allowing immigrants lawfully  present in new york city to vote in municipal elections (nov.
+17, 2010) at   http://legistar.
+
+
+council.
+nyc.gov/ legislationdetail.
+
+
+aspx?
+id=803591&guid=3652cb45-9436-4d4f-ade3-e17ce8a8af28&options=id %7ctext%7c&search=245 (hereinafter intro 410).
+
+
+the new york city council is the legislative body of  new york city.
+new york city charter  21 (july 2004) (hereinafter, nyc charter).
+
+
+it consists of 51  councilmembers from 51 districts throughout the five boroughs.
+nyc charter  22.
+
+
+the new york city  council makes and passes laws governing the city.
+nyc charter  21.
+
+
+if a bill is voted out of committee and  is passed by a majority of councilmembers (at least 26), it is sent to the mayor.
+nyc charter  34, 37.
+
+
+if the  mayor signs the bill, it becomes a local law and is entered into the city charter.
+nyc charter  37(b).
+
+
+if the  mayor vetoes the bill it is returned to the city council with his or her objections by the next scheduled stated  meeting.
+id.
+
+
+the council then has thirty days to override the mayoral veto by a vote of at least two-thirds  (34) of all city councilmembers, at which point it becomes law.
+id.
+
+
+if the mayor does not sign or veto the bill  within thirty days after receiving it from the council, it automatically becomes law.
+id.
+
+
+5  intro 410, at  1 (to be codified at nyc charter  46-a,  1057-b(1)).
+6  id.
+
+
+(to be codified at nyc charter  46-a,  1057-b(3)).
+224  journal on migration and human securityon the proposal, before which new york city officials, advocacy groups, and members  of the public testified.
+
+
+7 although most witnesses spoke in support of the measure, several  individuals  from  the  city  government,  including  then-mayor  bloombergs  office,  the  board of elections, and the campaign finance board, raised concerns about the measures  constitutionality  and  feasibility.
+8    bloombergs  office  and  the  board  of  elections  came  out against the proposal.
+
+
+9 although at one point the bill enjoyed a veto-proof majority,  before it could come for a vote, several councilmembers withdrew their support.
+10 without  a super-majority of two-thirds of the council, or 34 councilmembers, and in light of mayor  bloombergs stated opposition, the bill was laid over in committee, dying at the end of the  legislative session on december 31, 2013.
+
+
+11   during the summer of 2014, and with a new mayor in place, the city council moved forward  with plans to reintroduce noncitizen suffrage.
+12 on june 26, the city council, with mayor  de blasios blessing, voted 43-3 to make municipal id cards available to all new york city  residents, including an estimated 500,000 unauthorized persons (goldman 2014).
+
+
+the latter  measure was designed not only to provide the unauthorized with a form of identification  that would allow them to access city services, rent apartments and open bank accounts,  but to assist other vulnerable populations as well, including the homeless, the elderly, and  transgendered persons, who would be able to self-identify their gender (ibid.
+).
+
+
+early the  week before, state senator gustavo rivera from the bronx introduced the new york is  home act into the new york state legislature (eidelson 2014).
+13 the bill would grant state  citizenship, including the right to vote in local and state elections, to noncitizens who have  lived in new york and paid taxes for at least three years.
+
+
+14 conceptions of citizenship,  membership and belonging appeared to be changing in new york city, if not the entire  state.
+15   7  hearing testimony on intro 410, before the committee on government operations, new york city council  (may  9,  2013),  http://legistar.
+
+
+council.
+nyc.gov/legislationdetail.
+
+
+aspx?
+id=803591&guid=3652cb45- 9436-4d4f-ade3-e17ce8a8af28&options=id%7ctext%7c&search=245.
+
+
+see also hearing transcript  on intro 410, before the committee  on government operations, new york city council (may 9, 2013)  (hereinafter hearing transcript).
+8  written statement of william heinzen, deputy counselor to the mayor, hearing testimony, p.
+
+
+1 (hereinafter  written statement of william heinzen), p.
+1; written statement of eric friedman, director of external  affairs, new york city campaign finance board, hearing testimony, (hereinafter written statement of  eric friedman, campaign finance board), p.
+
+
+31; written statement of steven richman, general counsel,  new york city board of elections, hearing testimony, (hereinafter written statement of steven richman),  p.
+38; testimony of eric friedman, director of external affairs, new york city campaign finance board,  hearing transcript, (hereinafter testimony of eric friedman, campaign finance board), p.
+
+
+66.
+9  written statement of william heinzen, p.
+
+
+1; written statement of steven richman, p.
+38.
+
+
+10  statement of sebastian maguire, legal counsel to councilmember daniel dromm, noncitizen voting in  new york city, new york city bar (june 24, 2014)(hereinafter statement of sebastian maguire) (notes  on file with author).
+11   see  history,  int.
+
+
+0410-2010,  n.
+y.
+
+
+city  council  at  http://legistar.
+council.
+
+
+nyc.gov/legislationdetail.
+aspx?
+
+
+id=803591&guid=3652cb45-9436-4d4f-ade3-e17ce8a8af28&options=id%7ctext%7c&se arch=245.
+12  statement of sebastian maguire.
+
+
+13  new york is home act,  s.
+7879,  n.
+
+
+y.
+assembly, june 16, 2014 at http://assembly.
+
+
+state.
+ny.
+
+
+us/leg/?
+default_ fld=&bn=s07879&term=2013&summary=y&actions=y&text=y.
+
+
+14  id.
+15  the new york is home act currently has four co-sponsors in the senate, adriano espaillat (dem.
+
+
+-31st),  liz krueger (dem.
+-28th), bill perkins (dem.
+
+
+-30th), and jose serrano (dem.
+-29th), all of whom are democrats   225  reconceiving citizenship: noncitizen voting in new york cityon june 24, 2014, on primary day in new york city, the new york city bar hosted a  panel discussion, open to the public, on intro 410.
+
+
+16 academics, government officials, and  advocates examined the legal and policy dimensions of noncitizen suffrage in municipal  elections.
+sebastian maguire, councilman daniel dromms legal counsel, indicated during  the discussion that the city council hoped to reintroduce the legislation that session, once  it had garnered sufficient support from the council.
+
+
+17 ron hayduk, an expert in noncitizen  suffrage and a professor of political science at the city university of new york, queens,  examined why this measure should be seen as a restoration of noncitizen voting rights  in light of the long history of noncitizen voting in this country from 1776 to 1926 and  in new york city school board elections from 1969 to 2003.
+18 the author of this paper  offered an objective assessment of new york constitutional, state and municipal law and  spoke on the implications of federal criminal law, immigration law and integration policy  for noncitizen suffrage.
+
+
+in a discussion session led by dick dadey, executive director  of citizens union, jerry vatamala, a lawyer with the asian american legal defense and  education fund, made the legal arguments for why the city council had the power to enact  intro 410.
+19 sebastian maguire provided an update on the current status of the proposal.
+
+
+20  eric friedman from the new york city campaign finance board discussed some of the  administrative challenges that the board of elections would likely face in implementing  noncitizen suffrage if it came to pass.
+21 while generally supportive, some members of the  audience raised questions and concerns regarding the measures scope.
+
+
+this paper provides a case study on noncitizen suffrage in the city of new york which  revisits the legal and policy issues raised in the authors presentation while incorporating  the perspectives of co-panelists and the work of legal academics on the special role local  entities can play in integrating immigrants into the social fabric of a community.
+22 it seeks  to disentangle the threads of law, history, government, and immigration policy which are   from new york city.
+
+
+see summary, new york is home act, http://assembly.
+state.
+
+
+ny.
+us/leg/?
+
+
+default_fld=& bn=s07879&term=2013&summary=y&actions=y&text=y.
+16  panel discussion: noncitizen voting in new york city, new york city bar (june 24, 2014) at https:// services.
+
+
+nycbar.org/imis/events/event_display.
+aspx?
+
+
+eventkey=inl062414&websitekey=f71e12f3- 524e-4f8c-a5f7-0d16ce7b3314 (hereinafter, panel discussion:  noncitizen voting in new york city).
+17  statement of sebastian maguire.
+
+
+18   statement  of  ron  hayduk,  professor,  queens  college  of  the  city  university  of  new  york  (cuny  queens), noncitizen voting in new york city, new york city bar (june 24, 2014)(hereinafter statement of  ron hayduk) (notes and powerpoint slides on file with author).
+19   statement  of  jerry  vatamala,  staff  attorney,  asian  american  legal  defense  and  education  fund,  noncitizen voting in new york city, new york city bar (june 24, 2014)(hereinafter statement of jerry  vatamala)  (notes  on  file  with  author).
+
+
+see  also  hearing  testimony  of  jerry  vatamala,  staff attorney,  asian american legal defense and education fund, hearing transcript (hereinafter testimony of jerry  vatamala), p.
+28-33.
+
+
+20  statement of sebastian maguire.
+21   statement  of  eric  friedman,  director  of  external affairs,  new york  city  campaign  finance  board,  noncitizen voting in new york city, new york city bar (june 24, 2014)(hereinafter statement of eric  friedman) (notes on file with author).
+
+
+see also testimony of eric friedman, p.
+66.
+
+
+22  see, e.
+g.
+
+
+, rodriguez 2008 and motomura 2014.
+cf.
+
+
+gerken 2010.
+see also new york times 2014.
+
+
+i use  the term entity here rather than just government to acknowledge that it is often substructures of local  government, like school boards, police departments or election boards, what heather gerken calls special  purpose institutions, who interact with inhabitants of a community most directly and can have the biggest  impact on their lives (4).
+226  journal on migration and human securityintertwined in this case and to offer some thoughts and recommendations on moving the  issue of noncitizen voting in new york city forward.
+
+
+it identifies and assesses the legal  obstacles to noncitizen suffrage in municipal elections in new york city, including federal  criminal  and  immigration  law,  and  state  law  obstacles.
+it  concludes  that  while  neither  federal criminal law nor immigration law prevent state or local governments from extending  the franchise to noncitizens in state or local matters, federal law imposes impediments  that may deter some noncitizens from registering or that could carry serious immigration  consequences for those who vote in violation of federal law.
+
+
+23   part i examines the role of local government in general and in new york city in particular  in  regulating  the  lives  of  immigrants,  contrasting  enforcement-oriented  strategies  with  those  that  are  integration-oriented,  building  on  the  work  of  heather  gerken,  hiroshi  motomura,  cristina  rodrguez,  and  others.
+24  part  ii  spotlights  federal  law  obstacles  to  noncitizen suffrage, looking at both federal criminal law and the immigration grounds of  inadmissibility  and  deportability.
+
+
+25  part  iii  focuses  on  state  law  obstacles  to  noncitizen  suffrage,  including  new  yorks  constitution,  its  state  election  law  and  its  home  rule  provisions.
+26 part iv discusses other recent experiences with noncitizen suffrage, both in  municipal elections and other more localized elections, like school board elections.
+
+
+27 it  examines both successful and unsuccessful efforts throughout the country and evaluates  the costs and benefits of attempting to extend the franchise to noncitizens.
+part v provides  some thoughts on advancing the issue of noncitizen suffrage in new york city and other  locales.
+
+
+during the hearings on intro 410 in may 2013, steven richman from the board of elections  indicated that the board opposed intro 410 in part in the belief that it would violate state  election law, which limits the franchise to us citizens.
+28 the electorate, however, as defined  by state law, does not always coincide with the people of a particular community.
+
+
+of new  york citys estimated population of 8.
+4 million inhabitants, approximately 1.
+
+
+3 million are  believed to be noncitizens.
+29 in many of new york citys 51 districts, the percentage of  noncitizens is much higher and in several districts immigrants make up close to a majority  of  residents.
+
+
+30  moreover,  from  a  legal  standpoint,  new  york  citys  election  law  and  home rule provisions allow for local enactments to trump state election law under certain  circumstances.
+31 as david andersson from the voting rights coalition asked during those  23  see 18 u.
+
+
+s.
+c.
+
+
+611; 8 u.
+s.
+
+
+c.
+212(a)(10)(d); 237(a)(6).
+
+
+24  id.
+25  see 18 u.
+
+
+s.
+c.
+
+
+611; 8 u.
+s.
+
+
+c.
+212(a)(10)(d); 237(a)(6).
+
+
+26  n.
+y.
+
+
+const.
+art.
+
+
+ii,  1; art.
+ix,  1, 2; new york election law  1-102; 5-102; new york statute of  local governments,  2, 10, 11, 23.
+
+
+27  see, e.
+g.
+
+
+, hayduk 2006.
+see also raskin 1993; harper-ho 2000; kini 2005.
+
+
+28  written statement of steven richman, general counsel, new york city board of elections (hereinafter  written statement of steven richman), hearing testimony, pp.
+35-38.
+
+
+29   statement  of  daniel  dromm,  hearing  testimony,  pp.
+4-6;  written  statement  of  cheryl  wertz,  n.
+
+
+y.
+coalition to expand voting rights (hereinafter written statement of cheryl wertz), hearing testimony,  pp.
+
+
+39-40.
+30  written statement of cheryl wertz.
+
+
+31  see n.
+y.
+
+
+const.
+art.
+
+
+ix,  2; new york election law  1-102 (where  a  specific  provision  of law  exists in any other law which is inconsistent with the  provisions  of  this  chapter, such provision shall apply  unless a provision of this chapter specifies that such provision of this chapter shall apply notwithstanding any  other provision of law); 5-102 (no person shall be qualified to register for and vote at any election unless   227  reconceiving citizenship: noncitizen voting in new york citysame hearings, do we want a city with a small voting population and an ever-growing  number of marginalized and disenfranchised people?
+32 with a new mayor and city council,  noncitizen suffrage in municipal elections in new york city is a proposal whose time may  have come.
+
+
+this paper argues that the city councils biggest challenge in moving this issue forward is  dealing successfully with two related questions: (1) why the city council should be able  to decide who the people are without approval from albany and (2) whether it should  attempt to enact intro 410 without a referendum.
+after reviewing other recent experiences  with noncitizen voting, it concludes that while new york law does not prevent the city  council from enacting intro 410 without approval from albany, a city-wide referendum  may  be  necessary  and  advisable.
+
+
+at  the  very  least,  the  city  council  should  engage  the  people of new york city directly on this matter, such as through mini-town hall meetings or  listening sessions in the 51 districts.
+33 new york election laws and home rule statutes, when  read together, are ambiguous enough that good arguments can be made for why neither  albanys approval nor a city-wide referendum is required.
+
+
+34 nonetheless, given new york  citys historic relationship with the state legislature and its power to preempt local law on  election matters,35 if the city council attempts to expand the franchise to noncitizen voters  without a city-wide referendum or comparable measure, it could trigger preemptive action  in albany, or lengthy, divisive, and costly battles in the courts.
+36    i.
+
+
+immigrant integration and local government immigrant integration is a distinctly local matter.
+it is at the local level that people work, seek  police protection, send children to school, and advocate for safer, healthier, neighborhoods  (rodrguez  2008,  571;  motomura  2014,  165).
+
+
+although  immigrant  integration  occurs  in  the  shadow  of  federal  immigration  enforcement,  it  is  problematic  for  the  national  government, or, for that matter, states, to dictate integration policies from the top down.
+37  policies that may make sense in a global city like new york city or chicago, such as  noncitizen participation on local school boards or neighborhood councils, may meet with  great resistance in a more insular community, like lewiston, maine or parts of upstate new  york (gilbert 2009).
+
+
+as  cristina  rodrguez  writes,  management  of  immigration  is  a  multi-sovereign  task,  requiring complementary roles for national, state and local actors (rodrguez 2008, 610).
+this  is  even  truer  today.
+
+
+given  the  federal  governments  inability  to  reach  a  national  solution on immigration reform, states and local governments have taken the regulation  he is a citizen of the united states and is or will be, on the day of such election, eighteen years of age or over,  and a resident of this state and of the county, city or village for a minimum of thirty days next preceding such  election); new york statute of local governments,  2, 10-11.
+32  written statement of david andersson, n.
+
+
+y.
+coalition to expand voting rights (hereinafter written  statement of david andersson), hearing testimony, pp.
+
+
+49-50.
+33  see new york statute of local governments,  23(2)(e).
+
+
+34  see testimony of jerry vatamala, 28-33.
+35  new york election law,  1-102.
+
+
+36  for an excellent study of local governance issues in new york city, see briffault 1992.
+37  see rodrguez 2008 for a discussion on how the federal exclusivity principle obscures our structural  need for federal, state, and local participation in immigration regulation.
+
+
+(571).
+228  journal on migration and human securityof  immigrants  into  their  own  hands  (gilbert  2012).
+
+
+some  policies,  like arizonas  sb  1070, are enforcement-oriented.
+38 in contrast, other state and local authorities invoke anti- commandeering rules to justify their refusal to enforce federal immigration law (see, e.
+
+
+g.
+,  lasch 2013).
+
+
+still others are adopting measures to incorporate immigrants into the life of a  community, such as through in-state tuition benefits, drivers licenses, id cards, and other  privileges of membership (motomura 2014, 59).
+powerful reasons exist for allowing new york city to extend the suffrage to noncitizens in  municipal elections without waiting for permission from the state legislature or for a state- wide measure, like the new york is home act introduced in june 2014.
+
+
+just as federal  immigration law should not presumably trump state and local integration efforts,39,40 state  laws should not automatically override or impede local efforts.
+yet while us constitutional  law protects states against commandeering by the federal government, which prohibits the  federal government from ordering the states to either adopt a federal regulatory scheme or  enforce federal law,41 local governments only enjoy such autonomy as a states constitution  or laws provide (rodrguez 2008, 637; see also frug and barron 2006).
+
+
+just as states can  serve  as  labs,  however,  so  can  local  governmental  entities.
+while  states  have  a  crucial  role to play in setting baselines in areas like workers rights, public safety, voting rights,  health, and education, communities are strengthened if they are supported and encouraged  to develop their own solutions to local problems (see gerken 2010, 23-4; cf.
+
+
+gordon 1996;  briffault 1994).
+fortunately for the people of new york city, neither federal law nor new  york state law prevents new york city from extending the franchise to noncitizens in  municipal elections, as the next two sections will demonstrate.
+
+
+ii.
+federal obstacles to noncitizen suffrage this  section  will  address  issues  of  federal  law  raised  by  intro  410  and  any  successor  legislation.
+
+
+the main point is that although federal law does not prevent new york city from  extending voting rights to noncitizens in local elections, it does carry certain consequences  that could act as a deterrent to voting or, even worse, imperil voters immigration status.
+federal law criminalizes noncitizen voting in federal elections, unless (1) the election is  also held for some other state or local purpose, (2) noncitizens have been authorized to vote   38   motomura  draws  distinction  between  direct  and  indirect  involvement  by  state  and  local  actors  with  immigration  law,  and  distinguishing  measures  that  are  enforcement-oriented  from  measures  to  either  neutralize or remain neutral in enforcement (2014, 57-9).
+
+
+39   see  wyeth  v.
+levine,  129  s.
+
+
+ct.
+1187,  1194-95  (2009);  see  also  riegel  v.
+
+
+medtronic,  inc.
+,  552  u.
+
+
+s.
+312, 334-37 (2008) (ginsburg, j.
+
+
+dissenting) (criticizing majority for not applying a presumption against  preemption); bates v.
+dow agrosciences llc, 544 u.
+
+
+s.
+431, 449 (2005) (where the text of a preemption  clause is open to more than one plausible reading, courts ordinarily accept the reading that disfavors pre- emption); medtronic inc.
+
+
+v.
+lohr, 518 u.
+
+
+s.
+470 (1996) (courts have long presumed that congress does  not cavalierly preempt state law causes of action); jones v.
+
+
+rath packing co.
+, 430 u.
+
+
+s.
+519 (1977) (this  assumption provides assurance that the federal balance will not be disturbed unintentionally by congress  or unnecessarily by the courts); rice v.
+
+
+santa fe elevator corp.
+, 331 u.
+
+
+s.
+218, 230 (1947) (preemption  analysis starts with assumption that the historic police powers of the states [a]re not to be superseded   unless that was the clear and manifest purpose of congress).
+
+
+40  see also rodrguez 2008, arguing that if we did away with federal exclusivity in immigration matters,  federal alienage distinctions would lose their presumptive rationality (629-30).
+41  printz v.
+
+
+united states, 521 u.
+s.
+
+
+898, 935 (1997)  229  reconceiving citizenship: noncitizen voting in new york cityunder the states constitution, state law or a local ordinance, and 3) voting is conducted  so as to ensure that a noncitizen can vote for such other purpose, but not in the federal  matter.
+42 in short, federal law explicitly recognizes that a state or local government can  extend suffrage to noncitizens, at least with regard to a state or local matter, as long as  the relevant government body develops procedures to ensure that the noncitizen cannot  vote on the federal matter.
+
+
+43 this might be done either by giving noncitizens a different  ballot, or by holding local elections at a different time.
+at the same time, immigration law  makes a noncitizen who votes in violation of any federal, state or local law inadmissible  or deportable.
+
+
+44   how might this happen?
+intro 410 defines municipal voters broadly in terms of persons  lawfully present under the immigration laws.
+
+
+45 this includes not only green card holders,  but also persons here indefinitely on work visas, students, asylum applicants, and recipients  of  deferred action for childhood arrivals (daca).
+46 the authors of intro 410 recognized  that limiting voting rights to lawful permanent residents would exclude many persons who  may be as much on a pathway to citizenship as permanent residents, even if the pathway is  longer and more contingent.
+
+
+47 for example, if s.
+744, the immigration reform bill passed  by the us senate in june 2013, had become law, most registered provisional immigrants  (rpis) would have had to wait ten years before becoming lawful permanent residents  and another three years before applying for us citizenship.
+
+
+48 however, many persons who  are now lawfully present, particularly persons with deferred action status or temporary  visas, could become inadmissible or deportable or even subject to prosecution if they vote  after their lawful presence expires, or even if they use the wrong ballot.
+49 so, as witnesses  underscored, the board of elections will need to come up with measures to minimize these  dangers, such as through ballot design, training of poll workers, and educating noncitizen  voters about the process of voting and perils of voting in violation of the rules.
+
+
+50    42  18 usc  611(a).
+43  id.
+
+
+44  8 u.
+s.
+
+
+c.
+212(a)(10)(d); 237(a)(6).
+
+
+45  int.
+410, at  1057-b(1).
+
+
+46  see gilbert 2013 for a discussion on the use of lawful presence to grant deferred action to dreamers  and to other categories of individuals granted deferred action, as well as its use as a measure of eligibility for  state drivers licenses under the federal real id act, pub.
+l.
+
+
+109-13, div.
+b.
+
+
+202(c)(2)(b), 119 stat.
+302  (2005)).
+
+
+for a thoughtful discussion of the complexities of unlawful presence and the relationship among  plyler v.
+doe, birthright citizenship, the dream act, and full-scale legalization, see motomura 2012.
+
+
+see  also motomura 2014, 10-12.
+47  statement of councilman daniel dromm; hearing transcript, 4-6.
+
+
+see also written statement of cheryl  wertz, nyc coalition to expand voting rights; hearing testimony, 39-40.
+48  see border security, economic opportunity, and immigration modernization act, s.
+
+
+744, 113th cong.
+2102 (2013) (as passed by senate, june 27, 2013).
+
+
+49  for example, some nonimmigrant visas, such as student visas, require that recipients have no intent to  abandon their foreign domicile.
+see, e.
+
+
+g.
+, ina  101(a)(15)(b), (f), (j) and (m) .
+
+
+a noncitizen voter who  declares an intent to become a us citizen could be violating the terms of his or her visa.
+see also written  statement  of  neena  dutta, american  immigration  lawyers association  (aila)  ny  chapter;  hearing  testimony, 13-15.
+
+
+50  id.
+see also written statement of eric friedman, campaign finance board, 31-34.
+
+
+230  journal on migration and human securityiii.
+state law obstacles to noncitizen suffrage one major question is whether new york city can adopt intro 410 without approval from  the  state  legislature.
+
+
+this  has  been  the  sticking  point  in  massachusetts,  where  various  cities, including cambridge, brookline, wayland, and amherst, have enacted noncitizen  voting laws but, despite repeated attempts, the state has thus far failed to enact enabling  legislation.
+51,52 the same legal obstacles do not currently exist under new york law.
+
+
+first,  new yorks constitution poses no obstacle.
+although it protects the voting rights of us  citizens over 18 who meet new yorks residency requirement, it does not limit the franchise  to them.
+
+
+53 as jerry vatamala, staff attorney for the asian american legal defense and  education  fund,  persuasively  argued  before  the  city  council,  new  yorks  constitution  establishes a baseline or floor, not a ceiling.
+54 for example, while new york city could  extend  the  franchise  in  municipal  elections  to  sixteen  year  olds  without  violating  new  yorks constitution, it could not set 21 as the minimum age.
+
+
+new york state election law does, however, limit the franchise in any election to us  citizens.
+the language in the statute, unlike the language in new yorks constitution, is  prohibitory.
+
+
+on the qualification of voters it provides that  no person shall be qualified to register for and vote at any election unless he is a citizen  of the united states and is or will be, on the day of such election, eighteen years of age  or over, and a resident of this state and of the county, city or village for a minimum of  thirty days next preceding such election.
+55   new yorks  election law  also  provides,  however,  that if  a  conflict exists  between  state  election law and any other law, the latter prevails unless the election law specifically  provides that it should prevail.
+
+
+56  known in preemption parlance as a savings clause or  reverse preemption provision, this language creates a presumption against preemption   51  a report prepared by the department of urban and environmental policy and planning of tufts university  for the massachusetts immigrant and refugee advocacy coalition and the cambridge immigrant voting  rights  campaign  concluded  that  in  the  current  political  climate  enabling  legislation  was  not  feasible  (castagna et al.
+2005, 1-3).
+
+
+52  see also mass.
+bill h.
+
+
+628,  188th sess.
+(2013-14), an act enabling cities and towns to extend voting rights  in municipal elections to certain noncitizens of the commonwealth (jan.
+
+
+22, 2013) at https://malegislature.
+gov/bills/188/house/h628; mass.
+
+
+bill h.
+3590, an act relative to voting rights in the town of amherst  (june 24, 2013) at https://malegislature.gov/bills/188/house/h3590; mass.
+
+
+bill h.
+3430, 187th sess.
+
+
+(2011- 12), an act authorizing certain local voting rights for permanent resident legal aliens residing in the town of  brookline (may 5, 2011) at https://malegislature.gov/bills/187/house/h3430.
+53  n.
+
+
+y.
+const.
+
+
+art.
+ii,  1 provides that every citizen shall be entitled to vote at every election for all officers  elected by the people and upon all questions submitted to the vote of the people provided that such citizen is  eighteen years of age or over and shall have been a resident of this state, and of the county, city, or village for  thirty days next preceding an election.
+
+
+54   hearing testimony  of  jerry vatamala,  staff attorney, asian american  legal  defense  and  education  fund, hearing transcript (hereinafter testimony of jerry vatamala), http://legistar.
+council.
+
+
+nyc.gov/view.
+ashx?
+
+
+m=f&id=2517717&guid=e87330b1-470d-4fdc-8c18-9f9521264fdb, p.
+30.
+
+
+55  new york election law,  5-102.
+56  new york election law  1-102 (where  a  specific  provision  of law exists in any other law which  is  inconsistent  with  the  provisions  of  this  chapter,  such  provision  shall  apply  unless  a  provision  of  this  chapter specifies that such provision of this chapter shall apply not withstanding any other provision of law) (emphasis added).
+
+
+231  reconceiving citizenship: noncitizen voting in new york cityunless the new york state legislature makes its intent to preempt local law unmistakably  clear (gilbert 2012, 160-61, 170).
+57    the  state  legislature  easily  could  have  included  preemptive  language  such  as  notwithstanding any state or local enactment to the contrary  in  5-102, the provision  quoted above.
+
+
+such language arguably would have prevented local governments from  extending the franchise to noncitizens (or to sixteen year olds).
+58 it has not done so.
+
+
+59 intro  410 could raise policy concerns in albany and result in state legislative action to limit local  governments power to expand the franchise.
+but even if albany has the authority to do so,  in light of the savings clause in  1-102 of new yorks election law, it would have to do so  explicitly.
+
+
+60    the more difficult question is whether the new york city council can or should adopt  intro 410 on its own, or whether a referendum is necessary or advisable.
+in 2013, mayor  bloombergs office also opposed intro 410 on the basis that, even if not contrary to new  yorks constitution or its election law, under new yorks home rule statute and the city  charter, any expansion of the franchise had to be via referendum.
+
+
+61 section 23(2)(e) of new  yorks municipal home rule law, along with  38 of new york citys charter, provides  that a local law shall be subject to mandatory referendum if it [a]bolishes an elective  office, or changes the method of  electing  an elective officer, or changes the term of    57   see also opinion letter from aziz huq & wendy weiser, associate counsel, brennan center for justice,  nyu school of law, feb.
+2, 2005 (concluding that the new york city council has the authority to adopt  noncitizen voting in municipal elections without authorization from albany)(on file with author).
+
+
+58  there is also an argument that this is not an area where the state can limit local governments power.
+however, a careful reading of new york election law together with new yorks home rule statute indicates  that while extension of the franchise in municipal elections is not an area where local governments have been  excluded from legislating, it is also not an area where this local power is guaranteed.
+
+
+new yorks home rule  statute reserves to the state legislature the power to enact laws in certain specified areas, notwithstanding the  fact that they impair, diminish or repeal the powers of local government.
+n.
+
+
+y.
+statute of local government,   11.
+
+
+this includes inter alia [a]ny law relating to a matter other than the property, affairs or government of  a local government.
+id.
+
+
+at 11(4) (emphasis added).
+since noncitizen voting on matters of municipal concern  relates to local government affairs, this would be an area where there is a presumption against preemption  of local law.
+
+
+that does not mean, however, that the presumption is irrebuttable if it otherwise falls within the  states power.
+see n.
+
+
+y.
+statute of local government  20(1) (indicating that a matter can still relate to the  property, affairs or government of local government, even where it falls within the states power to legislate).
+
+
+59  n.
+y.
+
+
+statute of local government,  11, in reserving to the state the power to enact laws in specified areas,  notwithstanding the fact that they impair, diminish or repeal the powers of local government demonstrates  that the state could easily have included similar language in its qualifications for voters.
+see text, new york  election law,  5-102.
+
+
+60  this interpretation is consistent with art.
+ix of new yorks constitution, which includes a local government  bill of rights granting broad powers to local authorities and creating a variety of structural impediments to  state legislators ability to limit local power.
+
+
+see, e.
+g.
+
+
+, n.
+y.
+
+
+const.
+art.
+
+
+ix,  1(d)(prohibiting annexation of  territory without referenda in both the annexing and annexed territories); 2(b)(1)(preventing state legislature  from  repealing,  diminishing,  impairing  or  suspending  any  power  granted  to  local  government  without  enactment of a statute by the legislature with approval of the governor in that year and the consecutive calendar  year); 2(b)(2)(preventing state from enacting any law in relation to the property, affairs or government of  any local government except by general law, or by special law only on request of two-thirds of the total  membership of its legislative body or on request of its chief executive officer concurred in by a majority of  such membership).
+see also new york statute of local governments,  2, 10, 11, 23.
+
+
+61  written statement of william heinzen, deputy counselor to the mayor, hearing testimony, p.
+3.
+
+
+232  journal on migration and human securityan elective office, or reduces the salary of an elective officer during his term of office.
+62   there  is  a  powerful  argument  that  expanding  the  franchise  for  municipal  elections  to  include noncitizen residents is a change in method: it would change the very definition of  who makes up the electorate; it may also require a change in procedures for voting, to make  sure noncitizens cast the proper ballot.
+
+
+63 where the state legislature sets forth categories  of local laws subject to mandatory referendum, as it did with  23(2)(e), new york courts  have said that they will interpret those categories when called upon to do so.
+64  the  present  analysis  identified  only  a  few  new york  cases  interpreting  this  provision,  most of which involved changes [to] the term of elective office clause, but the cases  interpreted the referendum requirement fairly narrowly.
+
+
+65 thus, it is conceivable that new  yorks courts would find that this expansion of the franchise is not a change in method.
+for example, the seventeenth amendment to the us constitution providing for popular  election of us senators (from the prior system of appointment by state legislatures) would  be a change in method,66 while expanding the franchise to include blacks,67 women68 and  18 year olds69 might not be.
+
+
+in any event, language in new yorks home rule statute and its  election laws is ambiguous enough that if intro 410 were passed without referendum, the  matter would likely trigger a court battle.
+in 2013, intro 410 enjoyed the support of a majority of the new york city council, and at  least at one point enough to override a mayoral veto.
+
+
+70 a referendum increases the chances  of defeat.
+a similar initiative to extend the franchise in local elections to lawful residents  was narrowly defeated in portland, maine in 2010 (associated press 2010; hoey 2010).
+
+
+71  a proposal to allow noncitizen voting in school board elections in san franciscos was  defeated by a 2.
+9 percent margin in 2004 (see mello 2004 and kini 2005) and again, in  2010,  by  a  much  wider  margin  (mejia  2010).
+
+
+at  the  same  time,  a  referendum  in  new  york city, if it were successful, would dramatically strengthen the legitimacy of intro 410,  making it much harder to attack in the courts or subvert in the state legislature.
+62  new york statute of local government,  23(b)(e); new york city charter,  38.
+
+
+63  see testimony of eric friedman, campaign finance board, p.
+68-70.
+
+
+64  haskill v.
+pattison, 2001 wl 1155004 at *5 (n.
+
+
+y.
+sup.
+
+
+2001)(unpublished)(legislature has evidenced  an intent to specifically regulate the categories of local laws requiring mandatory referendum, and when  called upon to do so, courts have provided definition to those categories) citing roth v.
+cuevas, 158 misc.
+
+
+2d  238, 603 n.
+y.
+
+
+s.
+2d 962, affd.
+
+
+197 a.
+d.
+
+
+2d 369, 603 n.
+y.
+
+
+s.
+2d 736, affd.
+
+
+82 n.
+y.
+
+
+2d 791, 624 n.
+e.
+
+
+2d 689,  604 n.
+y.
+
+
+s.
+2d 551 (1993), benzow v.
+
+
+cooley, 22 misc.
+2d 208, 199 n.
+
+
+y.
+s.
+
+
+2d 22, affd.
+12 a.
+
+
+d.
+2d 162, 209  n.
+
+
+y.
+s.
+
+
+2d 364, affd.
+9 n.
+
+
+y.
+2d 888, 216 n.
+
+
+y.
+s.
+
+
+2d 701, 175 n.
+e.
+
+
+2d 830) (1961); holbrook v.
+rockland county,  260 a.
+
+
+d.
+2d 437, 687 n.
+
+
+y.
+s.
+
+
+2d 722 (2d dept.
+1999).
+
+
+65  see holbrook v.
+rockland county (two hats law barring an official from holding a second elective office  was not a change to the term of an elective office); lawrence v.
+
+
+green, 178 misc.
+2d 716, 718, 679 n.
+
+
+y.
+s.
+
+
+2d  904, 906 (1998) (increasing the term of a legislative appointment was not a change to the term of an elective  office).
+66  u.
+
+
+s.
+const.
+
+
+amend.
+xvii, cl.
+
+
+1.
+67  u.
+
+
+s.
+const.
+
+
+amend.
+xv,  1.
+
+
+68  u.
+s.
+
+
+const.
+amend.
+
+
+xix.
+69  u.
+
+
+s.
+const.
+
+
+amend.
+xxiv,  1.
+
+
+70  statement of daniel dromm, hearing transcript, p.
+7.
+
+
+71  phone interview with zachary heiden, legal director, american civil liberties union, portland, maine,  june 23, 2014.
+233  reconceiving citizenship: noncitizen voting in new york cityiv.
+
+
+lessons to be learned from other experiences in assessing the feasibility of noncitizen suffrage in new york city, and whether it should  be adopted by the new york city council or via referendum, what lessons can be learned  from  other  experiences  with  noncitizen  voting?
+this  section  first  briefly  reviews  the  historical  and  legal  underpinnings  of  noncitizen  suffrage,  which  have  been  thoroughly  analyzed by legal scholars and political scientists.
+
+
+it then looks at several successful and  less successful modern attempts at noncitizen suffrage.
+the next and final section briefly  explores the utility of distinguishing de jure obstacles to noncitizen suffrage, where the law  is an actual impediment, from de facto obstacles, where policy and opinion-makers either  see the law as an obstacle or where rigid conceptions of citizenship stand in the way of  extending suffrage to immigrants who have not gone through the naturalization process.
+
+
+the analysis then addresses the best way for new york city to move forward on this issue.
+the attempted secession of staten island from new york city in the 1990s illustrates the  importance of engaging the people of new york city directly in this process, either through  a city-wide referendum, or, at a minimum, mini-town hall meetings in each of the city  districts.
+
+
+theoretical and historical underpinnings of noncitizen suffrage   in the united states in  his  path-breaking  1993  article,  legal  aliens,  local  citizens:  the  historical,  constitutional and theoretical meanings of noncitizen suffrage, jamin raskin examined  the historical and legal underpinnings of noncitizen voting in the united states.
+for  over  the first 100 years of us history, noncitizen white male property owners were granted the  franchise in many states and us territories while women, the poor, and blacks remained  disenfranchised (raskin 1993, 1401).
+
+
+72 while the franchise gradually expanded through  political struggle and constitutional amendment to incorporate blacks, women, the poor,  and  even  eighteen  year  olds  (1392-93),  states  began  gradually  to  eliminate noncitizens  from the electorate, so that, by 1926, all states and the federal government had repealed  their noncitizen voting laws (raskin 1993, 1397; see also hayduk 2006, 26-27).
+this trend away from noncitizen voting was as much tied to historical events, from the war  of 1812 to world war i, and growing fears of foreign influence, as it was to the changing  demographics of immigration beginning in the mid-1800s (raskin 1993, 1398-99, 1403- 04; hayduk 2006, 18, 23, 29).
+
+
+by the post-civil war period, the right to vote gradually  became  linked  to  questions  of  membership  and  belonging,  with  national  citizenship  serving as a measure of full belonging,73 but it still took the fifteenth amendment to extend  the right to vote to blacks,74 the nineteenth amendment to extend it to women,75 and the  twenty-third amendment to eliminate poll taxes and discrimination on the basis of wealth   72  see also neuman 1992 on the role of popular sovereignty in defining who the people are and evaluating  how a revival of alien suffrage would fare under current understandings of democracy.
+73  see 39th congress 1st session cong.
+
+
+globe 497-499 (1866)(demonstrating how debate over the fourteenth  amendment and extending citizenship to the former slaves was intertwined with concerns about extending  membership rights to immigrants from non-european countries).
+74  u.
+
+
+s.
+const.
+
+
+amend.
+xv,  1.
+
+
+75  u.
+s.
+
+
+const.
+amend.
+
+
+xix.
+234  journal on migration and human securityand poverty.
+
+
+76 in 1874, the us supreme court ruled unanimously in minor v.
+happersat77  that  missouri  had  not  violated  a  womans  equal  protection  rights  under  the  fourteenth  amendment by denying her suffrage.
+
+
+the court found that suffrage was not one of the  privileges of citizenship,78 that all the citizens of the states were not invested with the right  of suffrage79 and also, giving the example of noncitizen suffrage, that citizenship has not  in all cases been made a condition precedent to the enjoyment of the right of suffrage.
+80  well into the twentieth century, states and the federal government denied the franchise to  those deemed incapable of exercising it intelligently.
+
+
+in fact, many of the arguments used  today to deny suffrage to noncitizens mirror arguments made against granting it to blacks,  women and the poor:  they are new to our system of government; they require a period  of tutelage; they lack the capacity to exercise the right intelligently (see rosberg 1977,  1092, 1115; harper-ho 2000, 303-304; hayduk 2006, 78-79).
+as raskin underscores, it  was generally through political struggle and the amendment process rather than litigation  that the right to vote was eventually extended to these marginalized groups (raskin 1993,  1392-93).
+
+
+as noted above, congress eventually made it illegal for a noncitizen to vote in any federal  election,81  but  in  recognizing  the  power  of  states  and  local  communities  to  extend  the  franchise to noncitizens in state or local matters, it drew no distinction between those here  legally and those not.
+82 we tend to think of citizenship largely in terms of the rights and  privileges of national citizenship.
+
+
+83 the fourteenth amendment, however, did not abolish  state citizenship when it constitutionalized national citizenship.
+on the contrary, in stating  that all persons born or naturalized in the united states were citizens of the united states  and of the state where they reside, it both guaranteed and reaffirmed state citizenship.
+
+
+84 it  ensured that former slaves who were now us citizens were also state citizens, overturning  dred scott,85 but it also recognized state citizenship as distinct from national citizenship.
+86  today, although the supreme court treats voting as a basic right of citizenship,87 it also has  recognized that there are different types of citizenship and that states and local governments  should be able to extend greater protections to members of their communities, as long as  federal baselines are met.
+
+
+88    76  u.
+s.
+
+
+const.
+amend.
+
+
+xxiii 77  88 u.
+s.
+
+
+(21 wall.
+) 162 (1874).
+
+
+78  id.
+at 171.
+
+
+79  id.
+at 176.
+
+
+80  id.
+at 177.
+
+
+81  18 u.
+s.
+
+
+c.
+611.
+
+
+82  id.
+83  in his dissenting opinion in the slaughter-house cases, justice bradley stated that citizenship of the  united states is the primary citizenship in this country, and [] state citizenship is secondary and derivative,  depending  upon  citizenship  of  the  united  states  and  the  citizens  place  of  residence.
+
+
+slaughter-house  cases, 83 u.
+s.
+
+
+36, 112 (1872)(bradley, j.
+, dissenting).
+
+
+84  u.
+s.
+
+
+const.
+amend.
+
+
+xiv,  1, cl.
+1.
+
+
+85  dred scott v.
+sandford, 60 u.
+
+
+s.
+393 (1857).
+
+
+86  see slaughter-house cases, 83 u.
+s.
+
+
+at 73-74.
+87  reynolds v.
+
+
+sims, 377 u.
+s.
+
+
+533, 561-562 (1964).
+88  cf.
+
+
+saenz v.
+roe, 526 u.
+
+
+s.
+489, 502-504 (1999)(recognizing that citizens have two political capacities,  one state and one federal).
+
+
+235  reconceiving citizenship: noncitizen voting in new york cityrecent experiments with noncitizen suffrage in the united states  noncitizen voting in municipal elections  in the early 1990s, takoma park, maryland, a small, progressive city bordering washington,  dc, served as a laboratory for noncitizen voting as jamin raskin, a takoma park resident  and a law professor at american universitys washington college of law, researched the  historical  and  legal  roots  of  noncitizen  suffrage,  published  his  groundbreaking  article,  and helped lead a successful campaign for its adoption in municipal elections in takoma  park  (raskin  1993  1460-66;  kraut  2012).
+the  share  the vote  campaign  encouraged  takoma  park  residents  to  vote  yes  on  a  nonbinding  referendum  in  november  1991,  which narrowly passed and was adopted by the city council the following february (ibid.
+
+
+).
+noncitizen voting expanded to other progressive towns in montgomery county, sparked  similar efforts around the country.
+
+
+not surprisingly, the push for noncitizen voting in washington, dc met with stiff resistance  from  the  federal  government  (hayduk  2006,  171-72).
+although  efforts  to  expand  the  franchise  in  the  district  of  columbia  began  around  the  time  the  referendum  passed  in  takoma park, it was more than a decade later when a measure was formally introduced in  the dc council (after dc mayor anthony williams announced his support for noncitizen  suffrage) to grant lawful permanent residents the right to vote in municipal elections (ibid.
+
+
+,  169,  171).
+almost  immediately,  conservative  members  of  the  us  congress,  which  has  ultimate authority over the district, took steps to block the measure, derailing the initiative  (ibid.
+
+
+, 171-72).
+since noncitizen residents of takoma park gained the right to vote in municipal elections,  attempts to extend the franchise in other localities have not fared as well.
+
+
+massachusetts  is a good example.
+several towns in massachusetts have passed laws or referenda to allow  for noncitizen suffrage in municipal elections, including cambridge, brookline, amherst,  and  wayland,  but  the  state  of  massachusetts  has  repeatedly  failed  to  adopt  enabling  legislation, as required by massachusetts law (see harper-ho 2000, 312-13 and hayduk  2006, 173-80).
+
+
+89 despite these efforts, in a veritable groundhog day,90 each legislative  session  assembly  members  from  these  communities  propose  general  legislation  which  would allow local governments to extend voting rights in municipal elections to noncitizen  legal residents91 and special legislation that would allow specific towns that already have  passed local laws to extend the franchise in local elections to legal residents.
+92 typically,  89  see also mass.
+
+
+gen.
+laws, part i, title viii, ch.
+
+
+51,  1.
+90  this term refers to a phenomenon from the 1993 movie groundhog day (columbia pictures 1993),  the story of a weatherman who must keep reliving one particular groundhog day until he becomes a better  person.
+
+
+91  see, e.
+g.
+
+
+, h.
+b.
+
+
+672, 186th gen.
+ct.
+
+
+(mass.
+2009)( an act enabling cities and towns to extend voting rights  in municipal elections to certain noncitizens of the commonwealth); h.
+
+
+b.
+202, 187th gen.
+
+
+ct.
+(mass.
+
+
+2011) (an act enabling cities and towns to extend voting rights in municipal elections to certain noncitizens of the  commonwealth); h.
+b.
+
+
+628, 188th gen.
+ct.
+
+
+(mass.
+2013)(act enabling cities and towns to extend voting  rights in municipal elections to certain noncitizens of the commonwealth).
+
+
+92  see, e.
+g.
+
+
+, h.
+b.
+
+
+4306,  186th gen.
+ct.
+
+
+(mass.
+2009)( an act relative to voting rights in the town of  amherst); h.
+
+
+b.
+210, 187th gen.
+
+
+ct.
+(mass.
+
+
+2011)(an act relative to voting rights in the town of amherst);  h.
+b.
+
+
+3430,  187th  gen.
+ct.
+
+
+(mass.
+2011)(an act  authorizing  certain  local  voting  rights  for  permanent  legal resident aliens residing in the town of brookline); h.
+
+
+b.
+3323, 188th gen.
+
+
+ct.
+(mass.
+
+
+2013)(an act   236  journal on migration and human securitythe enabling legislation would amend the election laws to allow noncitizens 18 years or  over to vote in any municipal election for any local official or on any local matter as long  as they remain domiciled in the municipality.
+93 although the proposals generally have not  required legal residency, they often have required that the noncitizen declare, under penalty  of perjury, an intent to become a us citizen and to begin that process if eligible.
+
+
+94 the  proposals frequently also require approval by the legislative body of the municipality and  by the voters as a ballot question before submission to the state legislature.
+95  finally, they  also clarify that the law would not confer the right to vote in any state or federal election.
+
+
+96  thus far, iterations of this legislation, including the current version, hb 628, have been  referred to the states elections law committee where they generally have died after being  sent for a study order.
+97   despite the failure of these proposals to become law, they are useful models for analysis.
+
+
+they  demonstrate that there are different, often competing, often complementary, conceptions  of local, state and national citizenship.
+98 by extending suffrage to those termed by hiroshi  motomura  americans in waiting99 who have been incorporated into the places where  they reside, these measures would provide voting rights to persons who have demonstrated  a commitment to their communities and the country, confronting the standard criticism that  voting should be reserved to persons who choose to become us citizens.
+
+
+where, however,  state enabling legislation is required, as it is in massachusetts, it may create a significant  obstacle to noncitizen suffrage in places where the values of more cosmopolitan locales are  at odds with the insular values of the state as a whole.
+along these lines, portland, maines failed referendum in 2010 warrants attention.
+
+
+maine  in recent years has gone from being one of the whitest states in the country to having   authorizing local voting rights for permanent resident aliens in the town of wayland); h.
+b.
+
+
+3590, 188th gen.
+ct.
+
+
+(mass.
+2013) (an act relative to voting rights in the town of amherst).
+
+
+93  see note 92.
+94  id.
+
+
+95  see, e.
+g.
+
+
+, h.
+b.
+
+
+628, 186th gen.
+ct.
+
+
+(mass.
+2009), at  1(c)(1)( upon approval by the legislative body,  the action of the body shall be submitted for acceptance to the voters of a city or town at its next regular  municipal or state election).
+
+
+96  id.
+97  see h.
+
+
+b.
+4145, 188th gen.
+
+
+ct.
+(mass.
+
+
+2014)( ordered, that the committee on election laws be authorized  to sit during a recess of the general court to make an investigation and study of house documents numbered   628 relative to election laws); see also the legislative process, massachusetts bar association at http:// www.
+massbar.org/legislative-activities/the-legislative-process (describing how when a bill is reported out of  committee, it results in either a favorable report, recommending the bill for passage, an adverse report, which  recommends that the bill be killed, or a study order, which technically means studying the bill during recess  but most often is used, like a motion to table, as a quiet way to kill the bill).
+
+
+98  for an excellent analysis of competing and complementary conceptions of citizenship, see bosniak 2006.
+99 this is a concept coined by hiroshi motomura from his book,  americans in waiting (2005), which has  been widely embraced by scholars, advocates and policymakers to capture the idea that many immigrants,  whether they are here legally or not, are on a pathway to citizenship.
+
+
+for some, especially lawful permanent  residents, the pathway is fairly straightforward.
+motomura argues that lawful permanent residents are indeed  americans in waiting, and should enjoy the same rights and opportunities as us citizens while on the  pathway to citizenship.
+
+
+he goes on to argue in his latest book, immigration outside the law (2014) that  many undocumented immigrants are also americans in waiting, that many may eventually become lawful  permanent residents, and that state and local governments should be able to adopt measures to integrate them  into their communities.
+237  reconceiving citizenship: noncitizen voting in new york citysignificant immigrant populations in a number of cities, including lewiston and portland  (goodnough  2007,  a16).
+
+
+portland  now  has  a  distinctly  multicultural,  cosmopolitan  character (cadge et al.
+2009, 17) while lewiston, a former textile town about fifty minutes  west of portland, is home to a large somali community that began to migrate there in 2001  (gilbert 2009, 361-64).
+
+
+in 2010, the league of young voters launched a drive to extend the franchise in municipal  elections in portland to noncitizen legal residents (hoey 2010).
+100 the measure was initially  voted down 7-5 by portlands charter commission, which is responsible for proposing  amendments to the city charter (ibid.
+
+
+).
+john spritz, a member of the commission who voted  against the measure, said that several commission members felt that the matter should be  handled by referendum:  the tone of the commission was not that this was a bad thing but  it felt like something that should come from the people, not the commission (ibid.
+
+
+).
+in  response,  supporters  launched  a  referendum  drive  to  place  the  measure  on  the  november ballot.
+
+
+by august, the city clerks office certified 4,522 signatures, enough to  pass the threshold of 4,487 then required to place the measure on the ballot (hoey 2010).
+subsequently, on august 23, the city council held a public hearing, voting unanimously to  place the measure on the ballot in a procedural vote triggered by the city clerks certification  (bell 2010).
+
+
+the referendum was narrowly defeated, however, on november 2, 2010, by  52 to 48 percent (associated press 2010).
+despite portlands reputation as an immigrant-friendly city which has worked to incorporate  immigrants and refugees from all parts of the world into the social fabric of the community  (cadge et al.
+
+
+2009),101 some saw the defeat as reflecting some mainers concerns with the  reliance of refugees and immigrants on public assistance.
+102  until 2011, maines welfare  system had been more generous than the federal system.
+
+
+when the us congress restricted  immigrants eligibility for public benefits in 1996,103 maines legislature responded in 1997  by authorizing the state to provide non-emergency health care to aliens residing in maine  who would be ineligible for federal assistance under the personal responsibility and work  opportunity reconciliation act of 1996.
+104 over the last decade, however, public opinion  has shifted.
+
+
+nearby lewistons experience with a large influx of somali refugees in 2001,  depicted as overly-reliant on public assistance, became a rallying cry by many to tighten   100  the ballot measure called for a yes or no vote on an amendment to the portland city charter that any  other provision in this charter notwithstanding, legal immigrants who are residents of portland and 18 years  old or older on the date of any municipal election shall be allowed to register to vote and vote in municipal  elections.
+in order to register, a legal immigrant shall provide proof of identify, age and residency, pursuant  to title 21-a, and legal status according to standards established by the city clerk.
+
+
+such persons shall not  have the right to run for and hold an elected municipal office (league of women voters of maine 2010, 4).
+101  according to cadge et al.
+
+
+(2009), the value of diversity is reflected in portlands strategic planning  documents, and that immigrants and refugees are often referred to in these documents and by organizational  and city staff as new mainers, a testament to the conscious effort to minimize a negative otherness that often  comes with an immigrant label (17).
+102  phone interview with zachary heiden, legal director, american civil liberties union, portland, maine,  june 23, 2014.
+
+
+cf.
+miller 2013 and moretto 2014.
+
+
+103  personal responsibility and work opportunity reconciliation act (prwora), pub.
+l.
+
+
+no.
+104193,  110 stat.
+
+
+2105 (1996), codified at 8 u.
+s.
+
+
+c.
+1611, 1612, 1621, 1622.
+
+
+104  public law 1997, chapter 530, section a16 (1997), codified at me.
+rev.
+
+
+stat.
+tit.
+
+
+22,  3762(3)(b)(2).
+see also bruns v.
+
+
+mayhew, 750 f.
+3d at 64.
+
+
+238  journal on migration and human securitymaines social safety net (bouchard 2002, 2b; nadeau 2005, 122).
+indeed, in 2011, maine  passed legislation terminating state-funded non-emergency medical care for noncitizens  ineligible for federal medicaid benefits.
+
+
+105 since then, the republican governor has sought  to  eliminate  other  forms  of  state  public  assistance  to  unauthorized  immigrants  (miller  2013; moretto 2014).
+what explains this shift?
+
+
+mainers consider themselves a self-reliant, hardworking people  who turn to public benefits as a last resort.
+while believing in a social safety net, they also  have tended to draw a distinction between themselves and those from away (goodnough  2007, a16).
+
+
+the  fact  that  many  recent  arrivals  are  muslims  from africa  has  triggered  racist responses and counter-responses in nearby lewiston, climaxing with a hate rally  in downtown lewiston in january 2003 led by a white supremacist group from ohio and  a counter-rally by the many & one coalition at bates college in lewiston.
+106 in 2012,  lewiston mayor robert macdonald made news again when he told immigrants in a bbc  interview, [y]ou come and you accept our culture and you leave your culture at the door  (thistle 2012).
+
+
+most recently, maine governor lepage, who is running for reelection in  2014, has engaged in legal and political battles with maine attorney general janet mills,  the maine municipal association, and many municipalities, including portland and bangor,  in his efforts to prevent municipal governments from using state funds to provide general  assistance to unauthorized immigrants and asylum seekers (miller 2013; moretto 2014).
+while the city of portland and many community groups have worked hard to incorporate  immigrants into the social fabric of that community and to celebrate portlands multicultural  identity  (cadge  et  al.
+
+
+2009),  more  insular  values  persist.
+indeed,  richard  ranaghan,  a  member of the portland charter commission who opposed noncitizen suffrage, described  the right to vote as something to be earned and not something to be handed out lightly  (hoey 2010).
+
+
+the fact that portland has both the largest immigrant population in the state  and  the  largest  population  requiring  social  services  may  have  helped  derail  portlands  referendum and triggered the legislative backlash the following year.
+107 moreover, even  if the referendum had passed, it would have conflicted with maines election law which  provides that to vote in any election in a municipality  a person must be a citizen of the  united states.
+
+
+108 thus, while a successful referendum in portland would have had powerful  symbolic value, signaling to newcomers (and to the rest of the state) that immigrants are  considered full members of the portland community, it arguably would have had limited  legal effect without reform at the state level.
+this does not appear likely under the current   105  bruns v.
+
+
+mayhew, 750 f.
+3d 61, 64 (1st cir.
+
+
+2013) (upholding the constitutionality of maines decision to  bring its health care policy into line with federal law).
+106  events in lewiston following the arrival of somali muslims are chronicled in my article, citizenship,  civic virtue and immigrant integration:  the enduring power of community-based norms (gilbert 2009,  361-67).
+
+
+interestingly, when asked why the initiative failed in portland, zach heiden of the aclu cited  mainers  concerns  with  immigrants  reliance  on  public  benefits,  and  explained  how  this  dated  back  to  lewiston officials response to the arrival of the somalis in lewiston  (phone interview, june 23, 2014).
+107  phone interview with zachary heiden, june 23, 2014.
+
+
+108  maine revised statutes, title 21-a, ch.
+3, 111(1).
+
+
+see also maine const.
+, art.
+
+
+2,  1 (granting voting  rights to all u.
+s.
+
+
+citizens 18 years of age or older with residence in the state).
+moreover, maine does not have  the kind of home rule provisions that would allow municipal law to trump state law.
+
+
+see maine const.
+, art.
+
+
+8,  1 (providing that the inhabitants of any municipality shall have the power to alter and amend their charters  on all matters, not prohibited by constitution or general law, which are local and municipal in character).
+239  reconceiving citizenship: noncitizen voting in new york cityregime, but could change after the november 2014 elections.
+
+
+109    noncitizen voting on school boards  this section will close with a brief discussion of successful and unsuccessful efforts to  extend  voting  rights  to  noncitizens  in  school  board  elections.
+before  discussing  more  recent experiences in chicago and san francisco, it is worth recalling that, although new  york state was one of the first to abolish noncitizen suffrage (in 1804), new york city  was one of the first places to restore such rights (hayduk 2006, 18-22, 101-02).
+
+
+in 1968,  the state legislature extended the right to vote in new york city community school board  elections to every parent of a child attending a public school in new york city who was a  citizen of the state, a resident of the city of new york for at least thirty days, and at least  eighteen years of age.
+110 new york states education commissioner interpreted the statute  to permit noncitizen parents of public school students to serve on school boards as well.
+
+
+111    in 2003, however, mayor bloomberg abolished new york citys 32 community school  boards, which had been criticized as ineffective, politicized and corrupt, replacing them  with community education councils (cecs) whose members would be selected by the  leadership  of  local  parent  associations  (gootman  2004,  b2).
+112  the  cecs  seemed  an  elaborate effort to create school councils run by parents, but through a system of special  purpose elections which virtually guaranteed that only parents with a vote, the selectors,  would serve in a leadership capacity.
+
+
+113 with outgoing mayor bloomberg criticized for   109  see miller 2013 quoting mary mayhew, head of maines department of health and human services  as stating, the lepage administration remains committed to protecting our scarce resource for the people  of maine and this country, particularly the elderly and disabled.
+see also moretto 2014 quoting mayhew  as stating, if municipalities choose to offer assistance to illegal, undocumented immigrants, they will do so  without state funding support.
+
+
+110  see n.
+y.
+
+
+educ.
+law  2590-c(4) (mckinney supp.
+
+
+2001).
+111  ambach v.
+
+
+norwick, 441 u.
+s.
+
+
+68, 81 n.
+15 (1979).
+
+
+the court notes that the states legislature has not  expressly endorsed this policy.
+id.
+
+
+112  the new community educational councils (cecs) consist of 32 12-person councils serving each k-8  school district, and four city-wide councils, including a high school council and an english language learner  council.
+each of the k-8 councils consists of nine parents selected by the presidents, treasurers and secretaries  of parent associations at schools within the district or their designees (selectors), two other residents or  business leaders appointed by the borough president, and one non-voting high school student selected by  the school superintendent.
+
+
+membership on the 12-person english language learner council must consist  of nine parents of english language learners, two individuals with a background in ell appointed by the  public advocate, and one non-voting high school student receiving ell services.
+see new york city board  of education, community education councils at http://www.
+
+
+nycparentleaders.org.
+113  in 2010, the chancellor for new york citys education department issued regulations providing for  nonbinding online advisory votes for cec members by parents of school age children, followed by election  by selectors.
+
+
+new york city, process for the nomination and selection of members of the community  education councils, regulation of the chancellor, d-410, part iv (b) (march 24, 2010).
+those regulations  also provided that at least one of the nine parent cec members had to be the parent of an english language  learner (ell) and at least one had to be the parent of a student with an individualized education plan (iep).
+
+
+id.
+at part v(a)(3).
+
+
+in 2012, the chancellors office issued new regulations abolishing the parents advisory  vote.
+new york city, process for the nomination and selection of members of the community education  councils, regulation of the chancellor, d-410, at 1 (june 26, 2012).
+
+
+although noncitizens are not precluded  from running for positions on parents associations and the cecs, their participation appears to be limited by  the current selection process.
+240  journal on migration and human securitycentralizing control of the schools and privatizing public education with limited parental  input (hendrickson 2013), incoming mayor de blasio has promised to dial back or abandon  many of the changes wrought by his predecessor.
+
+
+114   we  see  strikingly  similar  developments  in  chicago.
+in  1988,  noncitizen  parents  and  community residents, including those without legal status, were given the right to vote in  chicago local school council (lsc) elections.
+
+
+115 noncitizen voting was part of a broader  effort to bring administration of failing schools back to the community by having school  boards consist mainly of parents and educators116 with the impetus to allow noncitizens  to participate coming largely from chicagos growing latino community (hayduk 2006,  104-05).
+each chicago public school has a lsc which typically consists of 12 members,  including the principal, six parents, two community representatives, two school employees,  and a student representative from the high schools (chicago public schools 2014).
+
+
+the  lsc makes decisions on hiring the school principal, whether to renew his or her contract,  the school budget, and certain curricular matters (ibid.
+).
+
+
+in 1995, however, the illinois general assembly passed legislation placing control over  the chicago public schools in the mayors office (task force report 2014).
+since that  time, notwithstanding the lscs, chicago parents and teachers have witnessed increased  centralization in decision-making (ibid.
+
+
+).
+mayor rahm emmanuel, like mayor bloomberg,  took  dramatic  steps  to  restructure  the  public  schools,  including  closing  about  50  underperforming neighborhood public schools, opening charter schools and laying off over  a thousand school employees (see ahmed-ullah, chase, and secter 2013; perez 2014).
+
+
+recently, mayor emmanuels school policies have come under attack.
+a report from the  illinois general assemblys chicago educational facilitys task force criticized him for  school closures, restructuring the school system without public input, and weakening the  local control exercised by the democratically-elected lscs (task force report 2014, vii).
+
+
+karen lewis, president of the chicago teachers union and one of his leading critics, very  publicly considered running against him in his bid for reelection (korecki 2014; zengerle  2014).
+despite sparring over the future of chicagos public schools, the basic structure of lscs  remains intact (chicago public schools 2014).
+
+
+participation by parents has reflected, if not  exactly mirrored, the demographics of the community, with latino participation higher  than anywhere else in the country (designs for change 2002).
+one study indicated that  where lscs worked to foster noncitizen parents participation in the schools, these parents  were significantly more likely to be engaged in their childrens education and teachers  more aware of and responsive to students needs (marschall 2008).
+
+
+the failure of san franciscos referendum in 2004 and again in 2010 to extend voting rights  114  see layton and chandler 2013 quoting education historian diane ravitch as saying that if he does what  he promised, he will be the most important national leader against the movement to close down and privatize  public education.
+115  ill.
+
+
+stat.
+ch.
+
+
+105, para.
+34-2.
+
+
+1(d)(ii) (smith-hurd supp.
+1992) (eligible voters .
+
+
+.
+.
+
+
+shall consist of the  parents and community residents.
+).
+
+
+see also fumarolo v.
+chicago board of education, 142 ill.
+
+
+2d 54, 61- 62, 93-94 (1991) (1988 act, in restricting right to vote for lsc parent members to resident parents violated  equal protection).
+116  fumarolo, 142 ill.
+
+
+2d at 61-62, 93-94.
+241  reconceiving citizenship: noncitizen voting in new york cityin school board elections to noncitizen parents is consistent with trends in other jurisdictions.
+
+
+the 2004 referendum on proposition f has been thoughtfully covered by others and is not  reviewed in depth here, except to raise some additional questions relevant to noncitizen  suffrage in new york city municipal elections (see kini 2005; yang 2006; hayduk 2006,  110-138).
+proposition f lost by a narrow 2.
+
+
+9 percent margin.
+117 various explanations have  been offered for its defeat: (1) it would have extended voting rights to both legal residents  and the unauthorized (yang 2006, 77); (2) matt gonzalez, then-president of the board of  supervisors, ran for mayor on this platform (and lost) in a high-visibility campaign the  year before and made it no secret that he believed noncitizen voting should be allowed in  municipal elections as well (ibid.
+
+
+, 88); (3) coalition building was from the top-down and  there was a perceived failure to engage asian-americans (ibid.
+); (4) the proposal appeared  on a very crowded ballot in the contentious 2004 presidential elections (ibid.
+
+
+, 85); (5) sf- sos, a nonprofit group funded by some of san franciscos largest businesses, effectively  used anti-immigrant rhetoric in opposing the initiative, with democratic senator diane  feinstein emphasizing voting as a core privilege of  citizenship (mello 2004, 78); and (6) gap retail store owner don fisher, a member of sf-sos, donating $49,000 to sf-sos at  the last minute (ibid.
+).
+
+
+the  perception  that  proposition  fs  proponents  focused  on  latinos  while  ignoring  the  asian community is belied by the fact that the campaign was led by david chiu of voice  for all  parents,  who  was  eventually  elected  to  the  board  of  supervisors  in  2008  and  became the first asian american to serve as president of the board.
+chiu also spearheaded  the referendum in 2010.
+
+
+nonetheless, there may have been a public perception that this  was a gonzalez-driven effort that would benefit his latino constituents (yang 2006, 88).
+moreover, some of gonzalezs strategic objectives may have been at odds with those of  voice for all parents, which attempted to emphasize the incremental nature of the proposal  and focus on the benefits to be gained by engaging all parents in their childrens education  (ibid.
+
+
+, 81).
+in 2010, david chiu introduced a virtually identical proposal onto the november ballot,  proposition d (mejia 2010).
+
+
+this time, supporters ran a much more low-key campaign.
+while several government officials supported the proposal privately and before sympathetic  audiences, many were loath to support it publicly in light of heightened anti-immigrant  sentiment among the electorate that year (ibid.
+
+
+).
+on november 2, 2010, the same day as the  portland, maine referendum, proposition d failed by nearly 10 percent.
+
+
+118   san  franciscos  experience  is  a  cautionary  tale  for  proponents  of  intro  410.
+the  2004  high-visibility  campaign  reportedly  pitted  grassroots  advocacy  groups  against  the  business community (mello 2004), something that could occur in new york city.
+
+
+major  beneficiaries in new york city of increased centralization of the public schools have been  local  contractors,  including,  for  example,  success academy,  the  citys  biggest  charter  operator, with 22 charter schools.
+119 this aspect of san franciscos referenda would benefit  117  city and county of san francisco consolidated general election results (november 2, 2004) at http:// www.
+
+
+sfgov2.org/index.
+aspx?
+
+
+page=1717 .
+118  city and county of san francisco consolidated general elections (november 2, 2010) at http://www.
+
+
+sfelections.org/results/20101102/ .
+119  layton and  chandler (2013) report that eva moskowitz, founder of success academy, former member  of the new york city council, and one of mayor de blasios major critics, earns, according to success   242  journal on migration and human securityfrom additional research, as it may shed valuable light on the role of regime politics and  the impact of the business community on the electoral process and decision-making at  city hall.
+
+
+120 yet david chius apparent decision to run a low-visibility referendum the  second time around, while averting a backlash from the business community, was even  less successful.
+in a last-minute campaign letter requesting donations, chiu wrote, many  voters dont even know prop.
+
+
+d is on the november ballot (mejia 2010).
+notwithstanding these recent experiences, school board elections are arguably the ideal  setting for extending voting rights to noncitizens.
+
+
+in 1863 the supreme court of vermont  may have originated the idea that immigrants should be treated as americans in waiting  when it ruled that noncitizens had the right to vote and serve as school board members.
+it  found that vermonts policy was   to extend to such emigrants all the rights of citizenship, that their feelings and interests  may become identified with the government and the country.
+
+
+while awaiting the time  when they are to become entitled to the full rights of citizenship, it seems to us a wise  policy  in  the  legislature  to  allow  them  to  participate  in  the  affairs  of  these  minor  municipal corporations, as in some degree a preparatory fitting and training for the  exercise of the more important and extensive rights and duties of citizens.
+121   times and needs in our public schools have changed dramatically, but the same logic still  applies.
+
+
+in many cities across the country, children with noncitizen parents make up a  significant percentage of the public school population.
+english is often a second language.
+
+
+yet ironically, although these students have unique educational needs that will be directly  impacted  by  school  funding  priorities  and  curricular  decisions,  their  parents  remain  disenfranchised (yang 2006, 67-68).
+there may be nothing that we as human beings have more in common than a wish to see  our children succeed.
+
+
+extending suffrage to noncitizen parents in school board elections  may be the best way to introduce them to american democracy.
+it gives them a voice  in their childrens education; it deepens their ties to their new home, by communicating  that they  are valued members  of  the community; and  it provides  a  training ground  for  civic engagement, allowing them to experience the benefits of democratic participation up  close.
+
+
+122 finally, it encourages them to seek the full responsibilities of us citizenship once  they are eligible.
+current  battles  over  public  education,  however,  suggest  that  denial  of  voting  rights  to  noncitizen parents may be symptomatic of a broader tendency.
+
+
+centralized control over  public schools restricts all but the most engaged parents rights (see hendrickson 2013).
+we  must unpack the causes of the crisis in public education before extension of the franchise to  noncitizen parents can once again become a reality.
+
+
+academys tax filings, about $475,000 per year, more than twice the salary of the citys school chancellor.
+120  for a fascinating study of how what makes governance effective in an urban area is often not the formal  machinery of government but rather the informal partnership between city hall and the business elite, see  stone 1989.
+
+
+121   woodcock  v.
+bolster,  35  vt.
+
+
+632,  640-41  (1863),  quoted  with  approval  in  raskin  1993  (1454-55)  (emphasis added).
+122  woodcock, at 640-641.
+
+
+243  reconceiving citizenship: noncitizen voting in new york cityv.
+the way forward in choosing a course of action, what can new york city learn from these other experiences?
+
+
+one possible way to think about the relationship among federal law, state constitutional  law, state election law, home rule statutes, and local law is to distinguish between de jure  and de facto obstacles to noncitizen voting.
+123 in some jurisdictions, such as massachusetts,  state law is the impediment, while in other places, traditional conceptions of the meaning  of citizenship and the right to vote may be as great an obstacle as the law itself.
+
+
+thus it  is important to be able to distinguish between these two situations, while recognizing that  societal values about the meaning of citizenship may reinforce de jure obstacles.
+124 where,  however,  the  law  only  appears  to  be  an  obstacle,  as  in  the  case  of  new york  election  law, broad-based campaigns can be effective in educating both government officials and  members  of  the  public  with  preconceived  understandings  of  the  relationship  between  voting rights and citizenship.
+
+
+125   despite extensive hearings in 2013 on intro 410, it did not generate much attention in  the media or by anti-immigrant groups (see st.
+albans messenger 2013; de la isla 2013).
+
+
+the city council appears to have tabled the measure at the end of the year both because of  questions regarding its legality and the lack of support from mayor bloombergs office.
+126  on june 24, 2014, councilmember dromms legal advisor indicated plans to reintroduce  the  measure.
+
+
+127 yet  given  the  ambiguities  in  new yorks  election  laws  and  home  rule  statutes, it is likely that adoption of this measure by the city council will be subject to legal  challenge.
+while neither federal law nor state election law appear to be actual obstacles,  there are strong legal arguments that a mandatory referendum is required.
+
+
+in  light  of  recent  experiences  in  other  jurisdictions,  it  is  not  surprising  that  the  new  york city council is reluctant to hold a referendum.
+although a successful referendum  would address the strongest legal argument against a city council measure, it would not  necessarily avert litigation or legislation.
+
+
+moreover, referendums are, by their very nature,  unpredictable, as seen in portland and san francisco.
+even if the vote is close, the 2010  san francisco referendum on proposition d suggests that second attempts are not feasible.
+
+
+a ballot measure in new york city on noncitizen suffrage would probably have to succeed  on the first try or not at all.
+123  this distinction has frequently been drawn in the context of equal protection analysis as applied to race- based classifications, particularly in the area of desegregation of public schools.
+
+
+see, e.
+g.
+
+
+, parents involved  in community schools v.
+seattle school district, 551 u.
+
+
+s.
+701, 736-737 (2006).
+
+
+critics have argued that  this distinction is overly formalistic, and fails to take into account the ways in which ongoing societal or de  facto discrimination results from past official or de jure discrimination.
+see parents involved v.
+
+
+seattle school  district at 820-822 (breyer, j.
+, dissenting).
+
+
+another area where the court made this distinction but adopted  a more functional approach involved the claims of indefinite detainees held at guantanamo naval base in  cuba, where it found that de jure sovereignty was not the touchstone of habeas jurisdiction, and that where  the united states exercised de facto sovereignty over the naval base, the court had jurisdiction under the  fifth amendment to consider their claims.
+boumediene v.
+
+
+bush, 553 u.
+s.
+
+
+723, 754-755 (2008).
+124  see, e.
+
+
+g.
+, yang 2006  on how opponents of san franciscos proposition f portrayed the initiative as  radical, unconstitutional, and a detriment to democracy (80).
+
+
+125  see yang 2006 on the importance of raising the consciousness of voters (86).
+see also kinis  discussion  of tactics for winning over progressives and liberals (2005, 300).
+
+
+126  written statement of william heinzen.
+127  statement of sebastian maguire.
+
+
+244  journal on migration and human securityfor this reason, if the city council can either win mayor de blasios backing or ensure  a  veto-proof  majority,  it  may  choose  for  political  reasons  to  adopt  noncitizen  suffrage  without a referendum.
+such a vote would send a powerful symbolic message to noncitizens  that the citys leaders embrace them as full members of the local community.
+
+
+if the goal  is to win political points or make a statement, perhaps this is enough.
+if, however, the  councils true goal is to incorporate noncitizens into the body politic, it needs to consult  the current electorate first.
+
+
+noncitizen suffrage adopted after a referendum would provide  greater democratic legitimacy to a vote by the city council, and it would honor the self- determination of the people of new york city.
+possible alternatives to a binding referendum  might include a non-binding referendum as in takoma park (raskin 1993, 1465), or town  hall meetings in each of the 51 districts attended by councilmembers, borough presidents,  panels of experts, and perhaps even the mayor who could listen and respond to community  members questions and concerns.
+
+
+this would give a city council vote greater political  legitimacy in the eyes of albany and the current electorate of new york city.
+if a court challenge does occur, a subsequent city-wide referendum could be the remedy.
+
+
+a  change to state election law, however, would be harder to undo.
+in massachusetts the state  legislature has stood as the principal obstacle to noncitizen suffrage.
+
+
+new york city could  find itself in a similar position.
+albany could respond to a city council measure simply by  amending  5-102 of its election laws to add the words notwithstanding any state or local  law to the contrary at the beginning of that provision, effectively preempting new york  city and other local governments from granting voting rights to noncitizens in municipal  elections.
+
+
+so what is the way forward?
+in 2010, the new york state comptroller reported that in  2008  immigrants  made  up  36.
+
+
+4  percent  of  the  citys  population  and  43  percent  of  the  workforce, that immigrants accounted for $215 billion in economic activity, or 32 percent  of the gross city product, and that between 2000 and 2007, the boroughs with the highest  concentration of immigrants also had the highest economic growth (dinapoli 2010).
+the  state comptrollers report powerfully demonstrated that immigrants in all sectors of the  economy have been key to new york citys vitality, economic growth and survival, even  during  hard  economic  times,  and  that  with  their  economic  success  many  have  become  home owners, revitalizing neighborhoods and deepening their ties to the city (ibid.
+
+
+).
+128   in 1898, when new york city was consolidated into five boroughs, it was described as the  greatest experiment in municipal government the world has ever known (krout 1948, 41).
+
+
+new york city is much more than a city; in many ways, it is like a nation-state, along the  ancient greek model.
+it is a city of new york state, subject to new york law, but it is also  a city of the world, subject to federal and even international law.
+
+
+the interplay of global,  national, state, and local politics must be taken into account in defining the people of  new york city.
+the apparently unrelated example of staten islands attempted secession from new york  city in the 1990s underscores why the city council must seriously weigh the value of a  128  according  to  dinapoli, neighborhoods  such  as  chinatown,  flushing, washington  heights,  coney  island, elmhurst, and corona all display a vitality fueled by their immigrant residents, many of whom are  creating businesses and jobs as they seek to meet their communities needs.
+
+
+as their incomes have risen,  many immigrants have become home owners, further strengthening their ties to the city (2010, 1).
+245  reconceiving citizenship: noncitizen voting in new york cityreferendum in new york city on this issue, or at least some measure to further public  education and ensure popular input.
+
+
+when staten island attempted secession, one of the  biggest  criticisms  was  that,  while  it  would  result  in  a  loss  of  one  of  new york  citys  boroughs, the people of new york city (other than staten islanders) were given no say   the procedure, which included an initial referendum by the people of staten island, the  creation  of  a  commission  to  draft  a  city  charter,  another  vote  on  the  charter  by  staten  islanders, and final approval from the state legislature, gave no voice to people in the other  four boroughs.
+(briffault 1992, 777-78).
+
+
+it was also at odds with analogous procedures  for annexing territory, which required referenda by the people in both the annexing and  annexed areas.
+129 the measure was ultimately defeated, but not before it generated deep  divisions among new yorkers, including the people of new york city who saw themselves  disenfranchised, and staten islanders who saw their effort at self-rule thwarted at the last  moment.
+
+
+130    given the particular contributions that immigrants make to the economic health and vitality  of new york city, the people of the city are likely to be ready for noncitizen voting long  before  the  people  of  the  state  are.
+new york  city  voters,  however,  need  to  be  part  of  the process.
+
+
+recent reactions in the media to the new york is home act underscore that  deep public resistance to extending political rights to noncitizens still exists.
+131 pushing  a local measure through the city council without public input is likely to trigger a media  backlash and could result in lengthy, divisive and unpredictable battles in the courts or, even  worse, restrictive state legislation.
+
+
+alternatively, public hearings or town hall meetings on  noncitizen suffrage in the 51 districts of new york city would add democratic legitimacy  to  the  process  already  underway,  and  would  allow  the  current  electorate  to  weigh  in.
+they could also serve to educate new yorkers that there are various forms of citizenship,  that citizenship is ultimately about membership in a community, and that enfranchising  immigrants where they live, work, run businesses, and send their kids to school, is likely  to strengthen their commitment to their communities while encouraging them to become  civic-minded us citizens when that pathway finally opens up.
+
+
+conclusion immigrant integration is ultimately a local matter.
+an expansion of the franchise in new  york city municipal elections to include noncitizens who are lawfully present and who have  resided in the city for the requisite time would be a dramatic step forward in incorporating  immigrants into local communities and ensuring that their voices are heard.
+
+
+if the new york  city council hopes to make more than a political statement on this and avoid triggering  lengthy, divisive, costly, and unpredictable court battles, it must be prepared, sooner or later,  to hold a city-wide referendum, which may be necessary as a matter of law.
+at a minimum,  before voting on the measure, it needs to engage current voters through town hall meetings  or  listening  sessions  in  the  51  districts.
+
+
+a  well-orchestrated yes  campaign  in  favor  of  noncitizen suffrage could lead to the next great experiment in municipal government.
+129  n.
+
+
+y.
+const.
+
+
+art.
+ix,  1(d).
+
+
+130  corporation counsel opinions, staten island secession bill requires a home rule message from the  city, 1 city l.
+15 (1995).
+
+
+131  of the hundreds of comments on eidelsons 2014 article in bloomburg businessweek, new york state  mulls citizenship for undocumented workers, the overwhelming majority are negative.
+
+

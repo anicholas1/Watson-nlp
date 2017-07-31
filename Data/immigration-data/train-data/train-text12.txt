@@ -1,0 +1,223 @@
+enforcement, integration, and the  future of immigration federalism  cristina rodriguez   yale law school  executive summary the  federal  government  has  a  monopoly  over  the  terms  of  immigration  law, and it superintends the nations singular immigration enforcement  bureaucracy.
+but our federalism nonetheless provides a vital playing field  for sharp debates over the status of immigrants in american life.
+
+
+the forms  of state and local involvement in immigration policy are varied, but they fall  into two basic categories of mutually dependent and re-enforcing policies:  enforcement federalism and integration federalism.
+whereas enforcement  federalism concerns the extent to which localities should assist or resist  federal  removal  policies,  integration  federalism  encompasses  measures  designed  to  assist  immigrants,  regardless  of  status,  to  plant  roots  and  acculturate to life in the united states.
+
+
+both forms of immigration federalism take shape through a wide variety  of intergovernmental relations, not only between the federal government  on the one hand and states and localities on the other, but also between  states and the cities within them  an increasingly important dimension  of  immigration  federalism  today.
+these  relations  have  important  legal  characteristics, and constitutional and statutory law bring them into being  and mediate them.
+
+
+but the nature of any given intergovernmental dynamic  will be shaped just as much by a combination of ideology and institutional  imperatives.
+these elements can either unite the center and the periphery  in common cause or produce the sort of conflict that has made immigration  federalism a high-profile issue for decades.
+
+
+given  the  density  of  the  intergovernmental  dynamics  that  shape  the  countrys  immigration  policy,  developing  a  comprehensive  strategy  for  immigration federalism requires more than a predilection toward or away  from centralization of government authority.
+it requires a clear view on  the appropriate metes and bounds of immigration enforcement, as well as  a set of beliefs about the proper place in the social order of immigrants  with different legal statuses.
+
+
+while this essay remains largely (though not  entirely) agnostic on these questions, it offers four basic principles to frame  any future federalism agenda.
+first, when it comes to enforcement federalism, the federal government  ought  to  acknowledge  the  reasons  that  localities  might  resist  federal  enforcement efforts, at least as a matter of politics, and if only to ensure that    2017 by the center for migration studies of new york.
+
+
+all rights reserved.
+jmhs volume 5 number 2 (2017): 509-540federal policy is subjected to accountability checks by competing, external  pressures.
+
+
+second,  whatever  the  value  of  resistance  to  enforcement,  a  federalism  agenda  should  include  efforts  by  all  levels  of  government  to  identify a manageable equilibrium that reconciles the federal governments  constitutional and statutory responsibilities for maintaining an enforcement  regime  with  the  local  politics  of  immigration  and  the  lived  realities  of  immigrant communities.
+third, when it comes to integration federalism,  the problem of illegal immigration must be solved, and only the federal  government can do so decisively.
+
+
+federalism can only mediate the political  conflict over status and help set the terms for its ultimate resolution.
+and  yet, the structural reasons that have given rise to integration federalism  should re-enforce the countrys commitment to locally driven integration  policy, supported by a national-level commitment to information sharing,  coordination, and resource support.
+
+
+finally, because both enforcement and  integration policy require systemic flexibility, it is important not to confuse  arguments on the merits of immigration policy with structural claims.
+in  other words, scholars, advocates, or policymakers should exercise humility  and  circumspection  when  developing  conversation-stopping  claims  that  a  certain  intergovernmental  relation  is  required  by  law,  especially  in  a  context as charged as immigration policy.
+
+
+introduction conventional wisdom has it that immigration law is an exclusive federal domain governed  by uniform rules and policies.
+and yet, american federalism has meant that states and  localities have helped shape immigration policy throughout history, often through deliberate  resistance  to  the  federal  government.
+
+
+during  the  obama  years,  the arizona  model  of  federalism drew the spotlight, as the state legislature and other like-minded jurisdictions  enacted sweeping immigration enforcement measures with great fanfare, in part to rebuke  the more tempered federal policy of the day.
+in a highly unusual response, the obama  administration sued the states, and the supreme court eventually vindicated the federal  governments  exclusive  authority  to  set  enforcement  priorities.
+
+
+1  today,  the  preeminent  intergovernmental  script  has  flipped  to  what  we  might  call  the  california  model.
+pro- immigration states and localities are directly challenging a presidential administration bent  on ever-tougher enforcement justified with alarmist rhetoric about immigrations dangers.
+
+
+but even as resistant localities force the federal government to defend its policies in court,  the trump administration finds itself buttressed by yet a third model, according to which  states like texas and north carolina enact legislation to disable their own pro-immigration  cities from resisting federal enforcement.
+immigration federalism is in constant flux.
+
+
+though  these  high-profile  contretemps  keep  immigration  federalism  a  part  of  public  discourse, state and local governments long have been de facto immigration policymakers  in myriad and more mundane ways.
+the complexity of intergovernmental relations in our  federalist  system  sets  a  crucial  framework  for  immigration  policymaking.
+
+
+though  the  immigration and nationality act (ina) and related statutes span hundreds of pages in the   1   arizona v.
+united states, 567 u.
+
+
+s.
+__, 132 s.
+
+
+ct.
+2492 (2012).
+
+
+510  journal on migration and human securityus code, the secular expansion of the federal immigration machinery over the last century  has not displaced immigration federalism, for one simple reason common to many spheres  of regulation.
+immigrant settlement and immigration enforcement are fundamentally spatial  and territorial, thus implicating the politics and bureaucracies of our federal system.
+
+
+our  national immigration policy is, in fact, debated and set through various intergovernmental  relationships  mostly between the federal government and cities and counties, but also  between the federal government and states, between states and the cities within them, and  by each of these jurisdictions acting autonomously.
+2 at any given time, immigration federalism simultaneously re-enforces and resists federal  policy, and the political valence of immigration is often in flux.
+
+
+the ideological diversity in  government that federalism produces ensures this state of tension, as does the fact that the  institutional interests of federal and local actors do not always align, regardless of partisan  affiliation.
+for  example,  even  as  the  current  department  of  homeland  security  (dhs)  finds itself in conflict with certain state and local officials who seek to provide immigrants  with  sanctuary,3  the  administration  and  allies  in  congress  aspire  to  recruit  still  other  local officials in an affirmative push to amplify federal enforcement efforts.
+
+
+republicans in  charge of the federal government have not given on up on federalism  they simply want  it to serve their ends.
+to understand the metes and bounds of immigration federalism, it will be useful to break the  concept down into two categories: enforcement federalism and integration federalism.
+
+
+the  legal, institutional, and political conditions governing each variant of federalism differ.
+the  former entails the local relationship to federal removal policy and its many tools of coercion,  and it is dominated by debates over legal authority and intergovernmental relations.
+
+
+the  latter implicates affirmative strategies to either promote or prevent immigrant incorporation  into the body politic and may have little if anything to do with federal policy, which is  itself limited in scope and ambition.
+though legal questions arise, integration primarily  raises questions of political will and bureaucratic capacity, and states and localities long  have taken the lead in devising our nations affirmative integration agenda.
+
+
+and so even  as we might seek to control or temper local involvement in immigration enforcement, any  integration agenda ought to have states and localities at its center.
+on some level, this enforcement-integration dichotomy is too stark.
+
+
+enforcement policy  heavily affects immigrants prospects for integration.
+enforcement policy  is integration  policy.
+
+
+enforcement federalism encompasses local refusal to assist federal enforcement  in order to protect immigrants in the community, as well as federal-state cooperation to  deport  immigrants,  or  otherwise  create  incentives  for  immigrants  to  leave.
+in  addition,  affirmative integration policies, or the lack thereof, can influence immigrant movement,  either attracting immigrants to welcoming jurisdictions, or driving them away by creating  inhospitable  climates  for  settlement.
+
+
+whether  a  locality  creates  a  receptive  climate  for   2   for ease of exposition, when invoking states and county and local governments at once, i use the terms  localities and local jurisdictions.
+but where it makes a material difference to the analysis to refer to states  versus cities, i use these more specific terms.
+
+
+3   as discussed in more detail below, the term sanctuary is an evocative yet somewhat misleading label for  a set of policies that really ought to go by the more pedestrian term noncooperation, because they limit the  extent to which local police and other officials assist federal immigration enforcement efforts.
+511  enforcement, integration, and the future of immigration federalismintegration can help shape the size and nature of the enforcement domain in any given  local setting.
+
+
+but as with any overly reductive dichotomy, this one can help us organize the  debate over the state and local role in immigration.
+4  the intergovernmental dynamics and politics that shape immigration federalism are certainly  governed by ongoing debates concerning legal authority.
+
+
+the extent to which localities can  establish immigration priorities that diverge from federal policy, and the scope of federal  authority to reign localities in, set the ground rules for intergovernmentalism.
+but even if  these legal lines were crystal clear, defining an actual agenda for immigration federalism  requires answering far more contested questions.
+
+
+should our default assumption be that  immigration ought to be controlled?
+or, should our animating objective be that immigrant  communities be allowed to flourish?
+
+
+when and how do these objectives conflict?
+in this paper, i remain largely agnostic on these policy questions, focusing instead on how  federalism provides a framework for answering them.
+
+
+but this framework ultimately points  to four very basic goals for a federalism strategy.
+first, when it comes to enforcement  federalism, it will be important to acknowledge the reasons for local resistance to federal  enforcement, at least as a matter of politics, and if only to ensure that federal policy is  subject  to  checks  by  competing,  external  pressures.
+
+
+second,  the  value  of  resistance  to  enforcement  notwithstanding,  a  federalism  agenda  should  include  efforts  to  identify  a  manageable  equilibrium  that  reconciles  the  federal  governments  constitutional  and  statutory  responsibilities  for  maintaining  an  enforcement  regime  with  the  local  politics  of immigration and the lived realities of immigrant communities.
+third, when it comes to  integration federalism, the structural reasons that have given rise to it should re-enforce a  commitment to locally driven integration policy, supported by a national-level commitment  to information sharing, coordination, and resource support.
+
+
+finally, to preserve the systemic  flexibility that immigration policy requires, scholars, advocates, and policymakers should  be circumspect about launching hard-edged legal claims concerning the scope of power  held by any one level of government, mindful that structural doctrines that advance ones  preferred policy objectives in one context might do the opposite in another.
+to develop these conclusions, i explore three sets of issues.
+
+
+i begin with and devote the bulk  of the discussion to enforcement federalism  the most legally and politically contested  domain of immigration federalism with the sharpest intergovernmental conflict.
+i establish  the legal parameters of enforcement federalism and identify the institutional considerations  that should inform any strategic thinking about federalisms future.
+
+
+i then briefly explore  the role that federalism plays in immigrant integration.
+finally, though the federal-local  relationship  has  dominated  immigration  federalism,  that  should  change.
+
+
+the  future  of  immigration federalism is likely to be shaped significantly by another intergovernmental  dynamic    the  state-local  relationship.
+i  thus  conclude  by  highlighting  how  tensions  between states and their localities reflect and define the national debate over immigration.
+
+
+4    the  dichotomy  is  useful  as  a  way  of  separating  those  policies  that  are  specifically  concerned  with  intergovernmental relations between washington and the periphery (enforcement federalism) and those that  arise largely through autonomous state action (immigrant integration), even as they might present preemption  concerns or involve coordination with federal actors through grant programs and the like.
+512  journal on migration and human securityi.
+
+
+enforcement federalism: a tale of legal and political  flux formally  speaking,  immigration  enforcement  constitutes  an  exclusive  federal  domain.
+in  contrast  to  the  criminal  justice  system,  states  and  localities  do  not  operate  parallel  immigration laws, police, prosecutors, and judges.
+
+
+congress defines the exclusive grounds  for  entry  and  removal,  and  the  executive  branch  enforces  those  provisions  through  an  extensive federal bureaucracy.
+but federalism helps shape immigration enforcement policy for two primary reasons.
+
+
+first,  criminal convictions under state law constitute many of the grounds of removal set out in  the us code.
+accordingly, state criminal justice systems feed the immigration bureaucracy  (motomura 2011).
+
+
+second, though the federal enforcement bureaucracy is vast, it has certain  crucial limitations.
+it consists of few beat cops who interact on a regular basis with the  regulated immigrant community, and its investigative resources tend to be used for large  operations rather than ordinary policing.
+
+
+to identify, apprehend, and remove noncitizens,  dhs depends on the local, county, and state police and corrections officials who come into  contact with noncitizens through arrests and other means.
+our immigration enforcement  regime is thus best characterized as vertically integrated, even though immigration law  itself is defined exclusively at the federal level (rodriguez 2012).
+
+
+enforcement federalism, as i define it, is thus expressly about intergovernmental relations  between the periphery and the center.
+the character and extent of the systems integration  has been in flux in recent years.
+
+
+the system is never fully coherent at any moment in time,  because federalisms many agents inevitably create intergovernmental friction and pockets  of  tension  between  washington  and  the  local.
+federalism  actually  consists  of  myriad  intergovernmental relations rather than a singular federal-local dynamic.
+
+
+ideological and  partisan considerations, as well as institutional factors, shape these many relations.
+ideologically speaking, the mayors and police of large, immigrant-heavy cities such as  new york are more likely to end up in conflict with a republican executive than with a  democratic one.
+
+
+pro-enforcement states such as arizona are more likely to challenge or  resist the enforcement policy of a federal government in democratic hands and embrace  or re-enforce the policies of a republican executive.
+but the logistics of federalism can  also transcend or stymie these partisan alignments.
+
+
+the institutional interests of the center  and periphery sometimes diverge, regardless of partisan alignment.
+even as it sought to  advance pro-immigration politics, for example, the obama administration maintained a  robust enforcement and removals agenda, precipitating local resistance from democratic  governors  and  mayors  that  complicated  (but  did  not  necessarily  undermine)  dhs  enforcement.
+
+
+in addition, despite efforts by the obama-era dhs to centralize enforcement  policy, it could not eschew reliance on state and local cooperation altogether.
+because of this intergovernmental complexity, enforcement will entail a mix of centralization  and diffusion, regardless of the ideology or party in charge of the federal government.
+
+
+indeed, it would be difficult to identify an optimal level of centralization for enforcement  policy in any objective sense.
+instead, the extent of federal control is always likely to be  contested and contingent.
+
+
+513  enforcement, integration, and the future of immigration federalismthe range of intergovernmental possibilities for enforcement policy can be conceptualized  through  a  simple  two-by-two  matrix.
+the  x-axis  describes  the  orientation  of  local  jurisdictions  to  the  federal  government,  with  the  strategies  of  resistance  to  federal  priorities  on  the  one  hand  and  cooperation  with  federal  priorities  on  the  other.
+
+
+the  y-axis describes the inclinations of local jurisdictions toward immigration enforcement,  with enforcement skepticism on the one hand and zealous enforcement on the other.
+resistance to                       cooperation with                                      federal priorities                  federal priorities  t n e m e c r o f n e                        m s i c i t p e k s    s u o l a e z                  t n e m e c r o f n e  each of the combinations thus identified reflects both ideological positions on immigration  policy  and  power  relationships  between  the  periphery  and  the  center.
+
+
+different  legal  parameters and policy possibilities define each type of enforcement federalism, and each  should be considered in turn.
+in so doing, it remains important to keep in mind that resistance  and  cooperation  dynamics  will  operate  under  any  given  presidential  administration,  even as the locations of resistance and cooperation change.
+
+
+but because of institutional  considerations, tensions can arise between the periphery and the center, even when they are  ideologically aligned.
+
+

@@ -1,0 +1,564 @@
+global trends in immigration  detention and alternatives to  detention: practical, political and  symbolic rationales   robyn sampson1 la trobe university  grant mitchell international detention coalition  executive summary immigration detention is a growing threat to the well-being of migrants  worldwide.
+while the use of this tool continues to increase, there is a growing  consensus by governments on the need to pursue alternative programs.
+
+
+this  paper examines the nature of these apparently contradictory developments  and the reasons for tension in this area of migration policy.
+drawing from  research conducted by the international detention coalition and la trobe  university, this paper describes the community assessment and placement  (cap) model, which seeks to prevent unnecessary detention, while allowing  governments  to  meet  the  rationale  offered  for  detention.
+
+
+it  argues  that  the  global  trends  of  growth  in  detention  and  an  increased  emphasis  on  alternatives reflect competing political, policy and operational objectives.
+for  example,  governments  wish  to  ensure  compliance  with  deportation  orders; alleviate political pressures regarding the harms associated with  detention; and demonstrate control of territorial borders.
+
+
+understanding  the multiple rationales that shape this area of migration policy can help  make  sense  of  contradictory  policy  developments  and  identify  the  most  effective ways to safeguard those who might be subject to detention.
+1  robyn sampson was supported by a la trobe university post-graduate award.
+
+
+the authors gratefully  acknowledge  the  financial  support  of  the  myer  foundation,  the  oak  foundation  and  the  open  society  institute for this research.
+we would like to thank katherine wright and lucy bowring for their insightful  comments and suggestions on an earlier version of this paper.
+
+
+2013 by the center for migration studies of new york.
+all rights reserved.
+
+
+jmhs volume 1 number 3 (2013): 97-121introduction  in detention our son was bored, he didnt play with the other kids, he cried, he just said,  i want to get out.
+but here he is doing much better.
+
+
+it has made a big difference being in  the community.
+stateless  asylum  seeker  in  an  alternative  to  detention  program,  melbourne,  australia  (australian human rights commission 2012, 16)  immigration  detention  has  emerged  as  a  significant  policy  through  which  governments  seek to control irregular migrant populations and eject unwanted migrants.
+
+
+detention has  increasingly become a preferred means for states to maintain and assert their territorial  authority  and  legitimacy,  and  respond  to  mounting  political  pressures  regarding  border  security.
+notwithstanding the growth in policies of containment and control, government interest  in alternatives to detention has recently increased as well.
+
+
+alternatives to detention are  seen  as  a  way  to  achieve  effective  migration  management,  while  protecting  the  rights  and  dignity  of  migrants.
+more  governments  are  taking  steps  to  explore  and  implement  alternatives,  ranging  from  scoping  studies  and  small-scale  pilot  projects  to  significant  policy developments and systemic change.
+
+
+this  paper  reconciles  these  apparently  competing  trends  by  identifying  the  practical,  political  and  symbolic  rationales  underlying  this  area  of  migration  policy.
+it  presents  research on alternatives to detention drawn from the study conducted by the international  detention coalition2 (idc) and la trobe university, there are alternatives: a handbook  for  preventing  unnecessary  immigration  detention  (sampson,  mitchell  and  bowring  2011), and it supplements these findings with recent data and cases.
+
+
+immigration detention immigration detention has increased globally as migration, both regular and irregular, has  increased.
+according to recent united nations (un) estimates, the number of international  migrants worldwide grew from 154 million in 1990 to 232 million in 2013 (undesa  2013).
+
+
+as the number of migrants crossing state borders has grown, governments have  responded  to  the  social  and  economic  benefits  of  migration  by  developing  avenues  to  enable  legal  migration  for  employment,  education,  family  reunification  and  tourism.
+however, significant migration occurs outside of legal channels.
+
+
+the international labour  organization  (ilo)  estimated  that  in  2004  between  10  and  15  precent  of  the  worlds  immigrants were unauthorized (ilo 2004).
+2  the international detention coalition (idc) is a global network of over 300 non-governmental organizations,  faith-based groups, academics and practitioners in more than 50 countries that advocate for and provide  direct services to refugees, asylum-seekers and migrants in immigration detention.
+
+
+further information is  available at www.
+idcoalition.org.
+
+
+98  journal on migration and human securitydespite the success of many systems of governance in managing large flows of people,  a perception of unregulated, out-of-control migration has magnified concerns regarding  security and crime, job availability and the maintenance of cultural heritage (undp 2009).
+the issue has been further politicized in situations where it has been framed as an issue of  state security and associated with the spread of international terrorism since september 11,  2001 (adamson 2006; coutu and giroux 2006; kerwin 2005).
+
+
+in these situations, irregular  migration can become a particular focus of public concern.
+the increase in migration flows and the perceived link of migration with issues of national  security have coincided with the rise of globalization in the late 20th century.
+
+
+some have  argued that globalization would lead to the end of the nation-state (albert 1998; omae  1995).
+in fact, the emergence of transnational corporations (edwards 2005), supranational  political bodies (guild 2006), regional free trade agreements (turbeville iii and bradbury  2005) and cyberspace (brunn 1998) have increased the power of global and virtual bodies  at the expense of the state.
+
+
+issues of territory, sovereignty and political authority are being  recalibrated in light of these changes, resulting in new articulations of territorial control  (dauvergne 2008; mcnevin 2011).
+immigration  detention  is  a  contested  term,  but  is  generally  viewed  as  a  form  of  administrative  confinement,  as  opposed  to  criminal  incarceration.
+
+
+3  a  number  of  inter- governmental documents have defined the term (unhcr 1999, 2012).
+4  silverman and  massa define it as:   [t]he holding of foreign nationals, or non-citizens, for the purposes of realizing an  immigration-related goal.
+
+
+this definition is characterised by three central elements:  first, detention represents a deprivation of liberty; second, it takes place in a designated  facility; and third, it is being carried out in service of an immigration-related goal.
+(2012, 679)  this definition is both broad and practical, although it loses some of the legal specificity  found elsewhere.
+
+
+as with other definitions, it draws our attention to the place in which  an individual is confined.
+by contrast, alternatives to detention are not tied to a particular  location but rather refer to a set of tools that can be applied no matter where the individual  is located (sampson 2013).
+
+
+migrant populations who are subject to detention vary considerably across contexts, and  are thus difficult to categorize.
+the most consistent use of detention is of those who are  about to be deported including those refused entry and those who have lost a valid status  due  to  committing  an  unrelated  criminal  offence.
+
+
+additionally,  unauthorized  migrants  including asylum seekers can be detained on arrival for screening processes such as identity,   3  it is worth noting that irregular migration is considered a criminal offense in some countries and, as such,  the migrant is convicted and imprisoned for this crime.
+this imprisonment is arguably a form of detention,  but is not discussed in this paper.
+
+
+in addition, there is some debate over whether refugee camps that deny  freedom of movement should be considered a form of detention but, again, these have not been included in  this paper.
+4  council directive 2003/9/ec, laying down minimum standards for the reception of asylum seekers,  2003 o.
+
+
+j.
+(l31) 18.
+
+
+99  global trends in immigration detention and alternativeshealth and security checks.
+others are detained during an expedited determination process5  or throughout a full refugee status determination process.
+
+
+this population also includes  growing numbers of asylum seekers subject to the dublin agreement6 who are awaiting  return to the country of entry into the european union (eu) for processing.
+additionally,  detention is sometimes used for migrants located in a state, but without a valid permit  or visa.
+
+
+these may include unauthorized migrants, stateless persons, victims of human  trafficking and unhcr-recognized refugees.
+immigration detention facilities vary widely in size and condition, both internationally and  within individual states.
+
+
+facilities range from centers built exclusively to detain migrants  that are very similar to prisons, to makeshift camp sites (flynn 2011).
+detention can also  occur in airport transit zones, closed screening facilities, prisons and police stations.
+
+
+in  addition, individual houses, hotels, motels, barges, and cargo containers have been used in  some instances.
+many facilities are located in regional or remote areas that are difficult to  reach from the nearest city, including on islands, in forests and in deserts.
+
+
+conditions range  from newly-built and clean facilities to dilapidated and dirty structures, including some  never intended for human habitation.
+the length of time individuals are subject to detention also varies significantly depending  on the individual case and the country in which the detention occurs.
+
+
+detention can range  from  a  few  hours  to  days,  weeks,  months  and  years.
+in  some  contexts,  it  is  indefinite.
+
+
+the  length  of  time  a  person  is  detained  is  subject  to  legally  prescribed  limits  in  some  countries.
+for example, the  maximum length of detention for the purposes of removal  in eu member states ranges from 32 days in france to two years in romania, with no set  time limits in nine eu countries (eu fra 2010).
+
+
+the duration of detention may depend  on the reasons for detention; the length of an administrative process, such as a refugee  determination  process;  or  practical  issues  in  achieving  release  or  deportation  including  difficulties negotiating with a country of return.
+stateless people are often subject to the  longest periods of detention (the equal rights trust 2010).
+
+
+global trends in immigration detention the idc observed several trends when it undertook global consultations7 in 2011-12.
+a  central concern was increased use of immigration detention in all regions, including the  increased  use  of  prisons  and  the  building  of  new  detention  facilities.
+
+
+we  focus  in  this  section on the trend of global detention growth.
+8  5  some countries have established an accelerated process which applies when officers believe they will be  able to make a decision to refuse or grant refugee status in a short timeframe.
+
+
+in the uk, this is called the  detained fast track.
+6  the dublin regulation (also known as dublin ii) provides a legal framework by which eu member  states determine which state is responsible for processing an asylum claim and provides for the transfer of  the applicant to that country for processing.
+
+
+7  the idc undertook regional and national consultations with its members and stakeholders between 2011  and 2012.
+the consultations covered more than 250 individuals from 67 countries and included regional  workshops in africa, asia, americas, europe and the middle east and north africa (idc 2012).
+
+
+8  in addition, the idc consultations highlighted the growing use of private companies to manage facilities  (golash-boza 2009); the criminalisation of irregular migrants (bosworth and guild 2008; healey 2004);   100  journal on migration and human securitythe best evidence of the growing global population of detainees can be found in estimates  of  the  total  detention  capacity  for  individual  countries.
+9    the  overall  global  detention  capacity and number detained at any one time is unknown.
+
+
+10  detention capacity is the  number of people who can be detained at any given time within a countrys dedicated  detention facilities.
+detention capacity in the united states  believed to detain the largest  number of immigrants worldwide  has increased substantially in recent years from 6,785  in  1994  (global  detention  project  2009e)  to  34,000  by  2013  (berger  2013).
+
+
+11  on  the  other side of the atlantic, the united kingdom has expanded the capacity of its facilities  from 250 in 1993 to 3,500 in 2011 (global detention project 2011b).
+the netherlands  detention capacity expanded from 45 in 1980 to 3,310 in 2006 (broeders 2010).
+
+
+between  2010 and 2011, australia expanded from operating 10 to 21 detention centers.
+as of late  2012, australia  maintained  the  capacity  to  detain  6,929  persons  on  its  territory  with  a  contingency capacity of 8,957 (department of immigration and citizenship 2012).
+
+
+12  other  countries  that  maintain  significant  detention  regimes  include  malaysia  with  a  capacity of 11,400 (global detention project 2009c), spain with a capacity of 7,000 (global  detention project 2010a), and south africa, whose major detention facility holds 6,500,  with hundreds more detained in ad hoc facilities (global detention project 2009d; lawyers  for  human  rights  2008).
+israel  detains  many  hundreds  of  migrants  in  prisons  (global  detention project 2011a) and detention centers (hotline for migrant workers 2012) and is  reportedly building an 8,000-bed facility (stewart 2012).
+
+
+greece has a detention capacity  of 2,500, which it augments through detention at other sites such as police stations (global  detention project 2009a; pro asyl 2007).
+meanwhile, italy has a capacity of 1,900 (global  detention project 2012a) and germanys facilities hold approximately 2,250 (broeders  2010).
+
+
+additionally, increased global detention numbers are caused by increased investment by  destination countries in the detention infrastructure of transit countries (aubarell, zapata- barrero and aragall 2009; lutterbeck 2006; taylor 2010b).
+this externalisation of border  control  is  best  documented  in  the  eu,  which  has  been  investing  in  the  capacity  of  its  neighbours to detect, detain and deter migrants who are likely planning irregular onward  travel to europe (aubarell, zapata-barrero and aragall 2009; lavenex and uarer 2004;  zapata-barrero, zaragoza and aragall 2009).
+
+
+for example, ukraine received 30 million  euros from the european union in 2011 to build nine new detention centers, despite a drop  in irregular migration numbers in that country (global detention project 2012b; human  rights watch 2010).
+libya detains between 4,000 and 6,000 persons at any given time  and  the  extra-territorialisation  of  detention  (described  in  more  detail  below).
+
+
+worldwide,  the  practice  of  detaining  refugees,  asylum  seekers  and  irregular  migrants  was  noted.
+many  raised  issues  regarding  the detention of children, the elderly, disabled and other vulnerable groups.
+
+
+prolonged detention in poor  conditions, often with little or no access to asylum procedures or judicial oversight, was a common area of  concern.
+9  we note that many countries do not regularly publish these data and so figures provided for each country  are as recent as possible at the time of writing.
+
+
+10  the global detention project aims to document immigration detention infrastructure internationally but  as yet has not produced a global estimate.
+for individual country estimates see www.
+
+
+globaldetentionproject.
+org.
+
+
+11  a total of over 429,000 persons were detained in the year 2012 (koulish and noferi 2013).
+12  the detained population on australian territory in may 2013 was 11,341 people including 3,057 children  (department of immigration and citizenship 2013).
+
+
+101  global trends in immigration detention and alternatives(amnesty  international  2013;  see  also  global  detention  project  2009b)  while  turkey  is expanding its detention capacity from 900 to 2,500 with the construction of two new  facilities  (global  detention  project  2010b;  helsinki  citizens  assembly  2007;  human  rights watch 2008; kirici 2004).
+a similar dynamic is seen in the political and financial investment of the united states in  the detention capacity of guatemala (flynn 2006) and mexico (global detention project  2013),  although  the  evidence  for  direct  us  funding  of  detention  in  mexico  is  mixed  (kimball 2007, 107).
+
+
+mexico maintains a detention capacity of 3,500 and detained almost  90,000 migrants during 2012 (global detention project 2013).
+meanwhile, in the asia- pacific, australia has similarly wielded its influence and resources to increase the detention  capacity of indonesia, nauru and papua new guinea (nethery, rafferty-brown and taylor  2012; taylor 2010a; 2010b).
+
+
+13   global trends in alternatives to detention a number of countries are undertaking detention reform including legislative and policy  changes  to  limit  the  use  of  detention,  avoid  detention  of  certain  vulnerable  groups,  and  introduce  community-based14  supervision  options.
+these  include  greater  release  mechanisms  in  north  america,  australia  and  new  zealand,  new  reporting  and  case  management  models  in  europe,  provisional  release  mechanisms  in  east asia,  judicial  release in south asia, and shelter models in the middle east and central america.
+
+
+this  section describes examples of developments that augment the findings of the idcs 2011  study in order to illustrate recent trends.
+alternatives to detention in law  the european union   there has been an increase in legislation providing for alternatives to detention in the eu.
+
+
+by the end of 2011, all member states had introduced alternatives to detention into national  legislation except malta (eu fra 2012, 52).
+this development is generally considered to  be linked to two key contextual factors:  transposing the eu return directive15 into national  law  and  an  increased  interest  in  reducing  detention  (eu  fra  2011,  48).
+
+
+such  interest   13  as of may 2013, nauru was detaining 430 migrants delivered by australian authorities, while papua new  guinea held 302 such persons in detention camps on manus island, with ongoing expansion (senate legal  and constitutional affairs legislation committee 2013, 27).
+14  we use the terms community and community-based to refer to the general society of the local area  or host country and to indicate that a particular alternative to detention program involves the placement  of  an  individual  amongst  that  broader  society.
+
+
+this  is  in  contrast  to  the  placement of  an  individual in  a  detention  center  or  other  place  of  confinement.
+the  term  community  is  sometimes  taken  to  mean  the  cultural community of co-nationals for the migrants in question, but this is not our intended interpretation  of the term.
+
+
+however, there are times when the cultural community may play an important role in offering  alternative to detention options.
+15  the eu return directive was agreed by member states in 2008 and entered into force at the end of 2010.
+
+
+it sets forth common standards on the return and removal of irregular migrants which include limiting the use  of detention.
+see council directive 2008/115/ec, on common standards and procedures in member states  for returning illegally staying third-country nationals, 2008 o.
+
+
+j.
+(l348) 98.
+
+
+102  journal on migration and human securitywas evident during discussions at the western european roundtable held by unhcr and  supported by the idc in november 2011 (unhcr 2011).
+national screening and assessment tool  the united states  as part of a larger detention reform process emerging after a change in government (dhs  2009; schriro 2009), the united states developed a risk assessment tool, called the risk  classification  assessment  (rca),  designed  to  inform  immigration  officers  decisions  regarding detention during the intake process (ice 2013; unhcr 2013, 6).
+
+
+the tool is  designed to screen for needs (i.
+e.
+
+
+vulnerabilities) and risks (i.
+e.
+
+
+flight risk and danger), and  enable officers to identify appropriate release options and types of conditions required,  if any.
+the us government announced in march 2013 that the risk tool was deployed  nationally.
+
+
+it is hoped the tool will improve consistency in decisions nationally and divert  vulnerable and low-risk individuals from detention.
+that said, human rights advocates  who reviewed an early version of the tool criticized it for being weighted towards over- detention.
+
+
+moreover, although supervisory officers retain ability to overturn a determination  after a qualitative assessment, it is unclear whether this occurs in practice, as supervisors  must presumptively follow the automated recommendation unless they state reasons on the  record otherwise (unhcr 2013, 6).
+policy  changes  including  a  reduction  in  detention  numbers  -  japan   japan  has  made  considerable  progress  on  alternatives  to  detention  after  experiencing  serious  challenges  within  detention  facilities  (including  riots  and  self-harming)  and  increased pressure from advocacy groups.
+
+
+following a regional roundtable in april 2010  (at which the preliminary results of this research were presented), japan decided to release  all children from detention and introduce a policy to prevent the detention of children in the  future (idc 2011a).
+it has since reduced its overall detention numbers, developed working  partnerships with local non-governmental organizations and supported an alternative to  detention pilot project for vulnerable groups.
+
+
+piloting alternatives to detention  the netherlands  the netherlands is piloting four alternatives to detention that are due to be evaluated in  2013 (eu fra 2012).
+one of these pilots works with migrants who are obliged to leave  the country.
+
+
+the pilot is testing the effectiveness of a program that meets their basic needs,  but also requires residency with a reliable individual and regular reporting to authorities  (eu fra 2012, 53).
+alternatives to detention for children and vulnerable groups  the un committee on the rights of the child has called on states to expeditiously and  completely cease the detention of children on the basis of their immigration status (2012,  18).
+
+
+belgium has promoted alternatives in this area following a significant reform in 2009   103  global trends in immigration detention and alternativeswhich ended its detention of children in the face of sustained criticism (jesuit refugee  service europe 2011).
+several countries in europe, such as finland, poland and the uk,  have now made similar commitments.
+
+
+the french president made a campaign pledge to  end the detention of children and to expand alternatives (vie publique 2012).
+subsequently,  a circular from the ministry of the interior limited the detention of minors to exceptional  circumstances (henry 2012).
+
+
+in thailand and malaysia, the ad hoc release of vulnerable groups, such as refugees registered  with unhcr, has been increasing as those governments seek to reduce pressures on their  detention  networks,  deal  with  intractable  cases,  and  respond  to  civil  society  advocacy.
+meanwhile, in tanzania, where detention is often in prisons, the government is working  with local and international groups to develop alternatives for vulnerable groups including  children.
+
+
+international  human  rights  focus  on  alternatives  to  detention additionally,  alternatives  to  detention  have  become  a  priority  for  international  human  rights bodies.
+this section highlights the work of four united nations bodies in order to  illustrate the international political context that is shaping global trends.
+
+
+united nations general assembly (the assembly)  the  assembly  has  recognized  the  serious  problem  of  immigration  detention  in  two  resolutions.
+in resolution 63/184, the assembly called upon states to respect the human  rights  and  the  inherent  dignity  of  migrants  and  to  put  an  end  to  arbitrary  arrest  and  detention (un general assembly 2009, para.
+
+
+9).
+it called for alternatives to detention  to be implemented and for periods of detention to be reviewed.
+
+
+the assembly also noted  with approval state measures that reduce the detention of irregular migrants (un general  assembly 2009, para.
+13).
+
+
+in 2010, the assembly again adopted a resolution on the protection  of migrants and repeated its calls for states to reduce the detention of unauthorized migrants  (un general assembly 2010, para.
+4).
+
+
+in october 2013, the assembly held the second  high level dialogue on international migration and development, at which the secretary  general stated, we need to create more channels for safe and orderly migration, and to  seek alternatives to the administrative detention of migrants (idc 2013).
+united nations human rights council (the council)  in september 2009, the council held a special panel discussion devoted to the human rights  of migrants in detention due to human rights concerns related to the recourse to detention  of migrants and the duration and conditions of their detention (council 2009, 17).
+
+
+the  council  further  recognized  the  problem  of  immigration  detention  in  two  resolutions  in  2010: one on arbitrary detention and the other on the human rights of migrants.
+resolution  15/16 calls upon states to put an end to arbitrary arrest and detention and  to adopt,  where applicable, alternative measures to detention (council 2010, para.
+
+
+8).
+104  journal on migration and human securityunited nations office of the high commissioner for human rights  (ohchr)  in september 2009, the un high commissioner for human rights remarked that the plight  of migrants, and particularly migrants in an irregular situation, is one of todays most  critical human rights challenges (2009, 2).
+
+
+the strategic management plan for 2010-2011  subsequently notes the office will continue to  address concerns related to migration  detention (ohchr 2009, 54).
+in 2010, ohchr released a study on the rights of the  child in the context of migration which concludes that children should only be detained  as a last resort (ohchr 2010, paras.
+
+
+51-53).
+the study encourages the use of alternatives  and refers to the idc research (ohchr 2010, para.
+
+
+54; see corlett, mitchell, van hove,  bowring  and wright  2012).
+more  recently,  the  high  commissioner  called  on  states  to  explore effective alternatives to immigration detention, particularly for children and other  vulnerable groups of migrants (un high commissioner for human rights 2012).
+
+
+united nations high commissioner for refugees (unhcr)  although the unhcr has been concerned about the detention of refugees and asylum  seekers since at least 1997 (unhcr 2009, 136), the issue has been prioritized in recent  years.
+at the 2009 executive committee (excom) meetings, unhcr and the idc held  a side meeting on alternatives to detention attended by 30 governments.
+
+
+the following  year,  excom  stated  that  to  address  unjustified  detention,  unhcr  advocates  strongly  for the use of effective alternatives to detention (excom 2010, para.
+40).
+
+
+unhcr also  commissioned three studies on detention (costello and kaytaz 2013; edwards 2011a; field  and edwards 2006), held a global roundtable on alternatives to detention with ohchr  (turk and edwards 2011), hosted several regional roundtables, and revised its guidelines  on immigration detention (unhcr 2012).
+the  practical,  political  and  symbolic  rationales  of  detention policy recent  receptivity  to  alternatives  to  detention  fits  somewhat  awkwardly  alongside  the  long-standing  trend  of  investment  in  detention.
+
+
+based  on  our  observations  in  the  field  and the literature on detention, we contend that detention policy is shaped by three major  rationales, discussed below.
+practical   the formal purpose (leerkes and broeder 2010) of immigration detention is to achieve  particular practical outcomes, such as departure from the country.
+
+
+there are many alternative  options that enable governments to fulfill these management objectives without resorting  to detention (sampson, mitchell and bowring 2011; edwards 2011a, 2011b; costello and  kaytaz 2013).
+as demonstrated in the following section, these range from open centers for  asylum seekers on arrival while undertaking initial checks (sweden) to holistic monitoring  and supervision programs for high risk deportees (canada).
+
+
+105  global trends in immigration detention and alternativesinterest in alternatives to detention rises when they are demonstrated to meet the same  practical policy objectives of detentioni.
+e.
+
+
+high rates of compliance and case resolution  (see sampson, mitchell and bowring 2011).
+thus pilot programs in a number of countries  (described earlier) are used to test the ability of alternatives to fulfill set practical objectives.
+
+
+alternatives that fulfill practical policy objectives can often be put into effect without a  formal modification of policy or law.
+however, barriers to implementation can include the  amount of energy and money that may be required to introduce and establish new modes  of operation and the level of investment in existing detention policy and infrastructure (a  form of institutional path dependency, see tavan 2012).
+
+
+political   as the use of detention has grown, so has the corresponding criticism of the policy and  the advocacy for change in many countries.
+the policy of detention is highly controversial  due to its impacts on health and human rights (coffey et al 2010; green and eagar 2010;  lorek et al 2009; robjant, hassan and katona 2009) and this brings with it significant  and specific political pressures from a range of critics (gryll 2011; silverman 2012; flynn  2012).
+
+
+detention has even become a campaign issue in some countries, as noted earlier in  relation to the french president.
+nationalistic groups press for heightened border controls  and reduced (irregular) migration (grillo 2005; karner 2011; mavroudi 2010), creating a  noisy political arena for this area of policy negotiation.
+
+
+adding to these domestic political pressures are those of international human rights bodies  described earlier.
+international bodies in this area of policy represent an important political  force and, in some countries, have coalesced with domestic political pressures to achieve  change.
+
+
+for instance, the unhcrs engagement on the issue in japan, including facilitation  of the regional roundtable discussion with peer countries, was an important development in  the process of change in that country.
+similarly, the unhcrs involvement in lobbying for  the release of registered refugees in countries such as thailand and malaysia has achieved  some success.
+
+
+political  pressure  is  heightened  when  it  comes  to  the  detention  of  vulnerable  groups,  particularly  children.
+advocacy,  including  from  international  bodies,  often  focuses  on  children and other vulnerable groups.
+
+
+16 governments are often responsive to these concerns.
+while there are important reasons for prioritizing these groups for release (or non-detention),  alternatives  for  vulnerable  groups  arguably  enable  governments  to  assuage  political  pressures without dismantling the fundamental system of detention.
+
+
+this resonates with  broader critiques of the role of compassion in migration policies (fassin 2005, 2011).
+the  result is that alternatives may be achieved for a small group while the majority of detainees   usually single men  are left behind bars.
+
+
+despite these concerns, the development of  alternatives  for  vulnerable  groups  can  lead  to  broader  changes.
+for  instance, australia  developed an alternative to detention program for children and vulnerable groups in 2005  and this has since grown into a national system of release and community management for  all asylum seekers (idc 2009).
+
+
+16  for example, the international detention coalition was intimately involved in establishing the advocacy  campaign end immigration detention of children.
+see http://endchilddetention.org/.
+
+
+106  journal on migration and human securitysymbolic   despite the possibilities for practical and political pressures to achieve change, detention  remains a potent symbol of sovereign authority over territory.
+broad social and political  changes  have  all  worked  to  increase  the  significance  of  border  control  for  modern  governments.
+
+
+increased migration flows, heightened security concerns and processes of  globalization have coalesced to create a context in which border control and territorial  integrity are central concerns for governments.
+it is within this context that detention has  come to take on important symbolic functions by demonstrating control of borders for  citizens and potential future arrivals alike (leerkes and broeders 2010; mainwaring 2012;  pugliese 2008; welch and schuster 2005).
+
+
+these informal (leerkes and broeders 2010)  or noisy (welch and schuster 2005) functions of detention are not codified in law but  nevertheless  remain  crucial  to  its  ongoing  use  (mainwaring  2012; welch  and  schuster  2005).
+immigration detention thus continues a tradition in which administrative detention is  used to address social anxiety and maintain social order, as seen historically in reservations  for indigenous populations and internment of enemy aliens (bashford and strange 2002;  nethery 2009).
+
+
+we suggest there are two ways in which alternatives gain traction despite the symbolic  logics of detention.
+first, some of the symbolic potency of detention can be diluted by  shifting the language of border control to that of migration management (taylor 2005).
+
+
+throughout its work, the idc has reframed the narrative implicit in this area of policy  by moving away from control to management.
+in this framework, governments regulate  (irregular) migrant populations through processing, management and targeted enforcement  rather  than  controlling  migrants  through  segregation  and  confinement.
+
+
+governments  can  thus  manage  migration  well  by  using  a  range  of  strategies  to  oversee  migrants  in  the  community  while  fulfilling  expectations  regarding  compliance  and  case  resolution  outcomes, without the human and financial costs of detention.
+such a shift in narrative  (while ambitious) can provide legislators and bureaucrats with a new way of talking about  alternatives  that  moderates  popular  anxiety  about  border  transgressions  and  promotes  confidence in systems of governance.
+
+
+second, detention is not the only policy by which governments symbolically evoke control.
+alternatives to detention may well gain support in places where other policies or practices  are successfully asserting authority and control in ways that are highly visible and/or hotly  contested,  such  as  the  fortification  of  land  borders  or  the  interception  and  repatriation  of migrants in boats.
+
+
+many deterrence and containment measures are used to secure the  border (kaiser 2012; parsley 2003; wonders 2006) and alternatives to detention may gain  ground when other policies or actions are serving this purpose.
+for instance, the expansion  of  alternatives  in  australia  noted  above  has  occurred  alongside  increased  deterrence  measures, including transfer of boat arrivals to the countries of nauru and papua new  guinea.
+
+
+this  example  highlights  the  complex  political  environment  in  which  the  trend  towards alternatives occurs in spite of competing logics of control.
+in identifying the ways that detention and its alternatives are shaped by practical, political  and symbolic rationales, we acknowledge that we have not incorporated every possible  explanatory factor at work.
+
+
+rather, we have attempted to account for global trends based   107  global trends in immigration detention and alternativeson our observations as they relate to debates about the role of detention in society.
+further  work is needed to identify and analyze additional factors which contribute to this complex  area of policy.
+
+
+17  the community assessment and placement model to respond to the increasing interest in the use of alternatives to detention, the idc and  la  trobe  university  undertook  an  in-depth  study  in  2009-2011  on  community-based  alternatives to detention that utilizes survey and field data from over 20 countries (see  sampson, mitchell and bowring 2011).
+18  the analysis of the data led to the development of  the community assessment and placement model (the cap model).
+
+
+this section presents  the model, offers examples from the case studies and discusses the model in relation to the  rationales influencing the use of detention and its alternatives identified above.
+for the purposes of the research, alternatives to immigration detention were defined as  any legislation, policy or practice that allows asylum seekers, refugees and migrants to  reside in the community with freedom of movement while their migration status is being  resolved or while awaiting deportation or removal.
+
+
+this very open definition allowed the  research to include all examples in which migrants retain freedom of movement while  resolving a migration matter with authorities.
+this contrasts with other definitions of the  term that focus on degrees of restrictions on freedom of movement (field and edwards  2006; edwards 2011a).
+
+
+from this perspective, the research employed comparative policy  analysis to explore the differing reasons that people are held in detention and to attempt to  address those reasons by alternative means.
+the definition also incorporates policies that  reduce reliance on detention or reduce the length of detention.
+
+
+the cap model identifies five steps governments can take to prevent unnecessary detention  and improve the effectiveness of community-based programs (see figure 1).
+the bottom  layer of the model describes the related placement options.
+
+
+the model is briefly explained  here;  however,  we  note  a  more  detailed  description,  including  eighteen  detailed  case  studies, is available elsewhere (sampson, mitchell and bowring 2011).
+17  we note that the paper is a joint endeavour between the director of a non-governmental organization  engaged in international advocacy work (mitchell) and a scholar of forced migration (sampson).
+
+
+while our  dual positions as scholar and advocate have inevitably shaped the arguments in the paper, we note that there  is a long tradition of scholarly debate engaging with issues of social justice (farmer 2005; king 2011; streib  1988) and we believe readers are well-placed to judge our analysis based on the evidence.
+18  data collection consisted of in-depth literature review, an internet-based survey of 88 participants in 28  countries, and fieldwork in nine countries within europe, the united states and hong kong.
+
+
+the fieldwork  was undertaken between january and march 2010 and involved 43 interviews with 57 participants and eight  site visits.
+further data on alternative to detention policies were derived from international meetings and  idc members.
+
+
+a more detailed description of the methodology, including details of analysis, can be found in  sampson, mitchell and bowring 2011.
+108  journal on migration and human securityfigure 1: the community assessment and placement model  step 1: presume detention is not necessary  the research identified a number of laws, policies and practices that presume detention  is  not  necessary  when  resolving  an  individuals  migration  status.
+
+
+the  presumption  against detention can uphold each individuals right to freedom of movement and helps  to prevent immigration officials from resorting to confinement when other options may  suffice (edwards 2011a; eu fra 2010, 80-81).
+this presumption against detention can be  reinforced when alternative measures are established in law or policy, thus directing officials  to consider less intrusive options, as seen in section 315 of new zealands immigration  act 2009.
+
+
+it is notable that some countries do not make use of immigration detention at all,  such as venezuela, brazil, peru and uruguay.
+109  global trends in immigration detention and alternativesstep 2: screen and assess the individual case  the  research  found  that  screening  and  assessment  of  individual  cases  are  important  in  avoiding  unnecessary  detention,  as  authorities  identify  and  assess  levels  of  risk  and  vulnerability  as  well  as  the  strengths  and  needs  of  each  person.
+
+
+assessment  enables  authorities to make an informed decision about the most appropriate way to manage and  support the individual to resolve their migration status and to make case-by-case decisions  about  the  need  for  detention.
+the  four  key  areas  of  assessment  are:  legal  obligations;  identity,  health  and  security  checks;  vulnerability;  and  individual  case  factors.
+
+
+these  areas of screening and assessment were observed in canada (citizenship and immigration  canada 2007), hong kong (security bureau immigration department n.
+d.
+
+
+) and the united  kingdom (uk border agency 2011).
+step 3: assess the community setting  in order to best match an individual with an appropriate and effective program of response,  the research found it is also necessary to assess those factors in the community setting that  can either support or undermine a persons ability to comply with immigration authorities  and resolve their migration case.
+
+
+both governments and civil society groups can invest  in  programs  that  support  migrants  in  the  community  in  order  to  boost  outcomes.
+four  key  elements  of  a  strong  community  setting  are:  case  management;  legal  advice  and  interpretation;  the  ability  to  meet  basic  needs;  and  documentation.
+
+
+for  example,  spain  maintains an integrated reception system to support eligible asylum seekers in the first six  months of a refugee determination process.
+this system includes accommodation, food  and provision for other basic needs, identity documentation, case management by trained  staff and access to legal advice (sampson, mitchell and bowring 2011, 34).
+
+
+step 4: apply conditions in the community if necessary  include:   if authorities remain concerned about the placement of an individual in the community,  there are a range of additional mechanisms that can be introduced to promote ongoing  engagement  with  authorities.
+these  conditions  individual  undertakings;  monitoring;  supervision;  intensive  case  resolution;  and  negative  consequences  for  non- compliance.
+
+
+these mechanisms can be used to construct a program of management that  is appropriate for the individual case.
+it is important that the application of conditions is  independently monitored to ensure that any conditions are applied in limited circumstances  and only when necessary (edwards 2011a).
+
+
+the toronto bail program in canada provides  intensive supervision of migrants who would otherwise be detained, such as those facing  deportation  after  completing  a  prison  sentence.
+this  comprehensive  case  management  program achieves high rates of compliance and return from outcomes with a high-risk  population (sampson, mitchell and bowring 2011, 44; edwards 2011a, 56-60; costello  and kaytaz 2013).
+
+
+step 5: detain only as a last resort in exceptional cases  international human rights legislation and standards make clear that immigration detention   110  journal on migration and human securityshould be used only as a last resort in exceptional cases after all other options have been  shown to be inadequate in the individual case (idc 2011b).
+as a result, the cap model  provides that detention is to be used only as a last resort in a small number of cases after  all other options have been exhausted.
+
+
+if authorities can show before a court that detention  is a necessary and proportionate mechanism in the case and that they have come to that  decision after a thorough and non-discriminatory assessment of the individual and have  tried all other options, then detention in appropriate conditions, of limited duration and  with regular judicial review in line with international standards, may be considered as the  last resort.
+limited use of detention in appropriate conditions was observed in sweden  (sampson, mitchell and bowring 2011, 49).
+
+
+the cap model was primarily designed to identify and describe alternatives that meet  the policy objectives of detention while supporting the well-being of migrants.
+it provides  governments  with  steps  to  achieve  practical  outcomes  through  less  harmful  means.
+
+
+however, it also responds to political and symbolic rationales.
+it increases the political  saliency of alternatives by providing a forum for data sharing and dialogue on alternative  to detention policies among governments, while serving as a resource for advocates.
+
+
+the  model has been the basis for idc engagement with over 50 governments and has helped  to raise the profile of alternatives within international human rights organizations.
+it thus  contributes  to  creating  the  buzz  necessary  to  attract  political  attention  and  stimulate  action.
+
+
+finally, the model addresses the symbolic rationale that underpins detention by  using the language of migration management and targeted enforcement to address issues  of government authority and territorial control.
+conclusion  immigration detention threatens the well-being of migrants.
+
+
+yet the number of people subject  to detention is likely to continue to increase as the countries using detention expands and  their detention capacity grows.
+despite this trend, government policies regarding territorial  borders are not absolute but rather are responsive to a range of broader rationales.
+
+
+rather  than  focusing  solely  on  control  through  confinement,  governments  are  also  concerned  with  achieving  practical,  political  and  symbolic  outcomes.
+these  competing  rationales  explain why government interest in alternatives to detention has grown in recent years.
+
+
+the symbolic potency of detention is a significant political tool in reassuring voters of  control of borders in uncertain times, but detention also comes with serious human and  financial costs that expose governments to criticism on moral and human rights grounds.
+criticism can be partly assuaged by the introduction of alternatives which can fulfil the  practical objectives of detention, especially for vulnerable groups.
+
+
+however, such changes  risk tinkering at the edges, thus allowing the bulk of the detention regime and the logic of  border control to remain intact.
+in the face of these challenges, this paper offers important  tools  for  understanding  the  factors  influencing  government  policy  decisions  regarding  alternatives to detention and identifies opportunities to shift from harmful policies towards  more productive options that support the dignity and security of migrants.
+
+

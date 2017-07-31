@@ -1,0 +1,1955 @@
+piecing together the                       us immigrant detention puzzle  one night at a time: an analysis  of all persons in dhs-ice custody  on september 22, 20121  donald kerwin center for migration studies  with daniela alulema (center for migration studies) and siqi tu (center for  migration studies)  executive summary this paper analyzes a dataset of every person in the custody of the us  department of homeland security immigration and customs enforcement  (dhs-ice or ice) on september 22, 2012, and compares this data with  an earlier analysis of a similar dataset on detainees in dhs-ice custody  on january 25, 2009.
+dhs-ice provided the 2012 and 2009 datasets in  response to freedom of information act (foia) requests from the boston  globe and associated press.
+
+
+the paper sets forth findings related to: (1) the  removal adjudication processes to which the detainees were subject; (2) the  facilities in which they were held; (3) their length of detention; and (4) their  criminal histories, if any.
+it finds that on september 22, 2012:   dhs-ice held 35,197 people in its custody.
+
+
+18,470 detainees had pending removal cases, 14,674 had been ordered  removed, and 2,053 cases included no information on whether or not the  detainee had been ordered removed.
+thirty-eight percent of detainees were subject to summary, non-court   removal processes.
+
+
+forty percent of detainees were from the northern triangle states of  central america and 34 percent from mexico, compared to 37 percent  from mexico and 28 percent from central america on january 25, 2009.
+detainees were held in 189 facilities, with 77 percent concentrated in   nine states and 51 percent in the four states that border mexico.
+
+
+dhs-ice  held  67  percent  of  all  detainees  in  facilities  owned  and/ or  administered  by  for-profit  prison  corporations  and  90  percent  of  detainees in the 21 facilities with the largest detention populations.
+1  the  authors  would  like  to  acknowledge  and  extend  their  thanks  to  mark  noferi  for  his  initial  review,  assessment, and research on the september 22, 2012 detention dataset.
+
+
+2015 by the center for migration studies of new york.
+all rights reserved.
+
+
+jmhs volume 3 number 4 (2015): 330-376  forty-seven percent of detainees had been held for less than 30 days,   and 4,179 (12 percent) had been held for more than six months.
+of  those  ordered  removed  and  continuously  detained  in  the  interim,  553 persons had been detained for more than six months after being  ordered removed, despite being presumptively eligible for release after  six months.
+
+
+sixty-one percent of detainees had criminal convictions, compared to 42   percent on january 25, 2009.
+less  than  10  percent  of  all  detainees  on  september  22,  2012  had  committed violent crimes and substantial percentages  a higher rate  than  on  january  25,  2009    had  committed  traffic  and  immigration  violations.
+
+
+the paper argues that dhs-ice should collect extensive data on detainees,  make  it  broadly  available  on  a  consistent  basis,  and  become  more  transparent and accountable to the public.
+it recommends that:   dhs-ice comprehensively analyze its detention information systems  and  data  collection  to  ensure  that  the  agency  can  meet  its  legal  imperatives, operational responsibilities, and detention standards.
+
+
+dhs-ice initiate a process to engage congress, other federal agencies,  states,  scholars,  researchers,  and  non-governmental  organizations  (ngos) on the detention information and data that it should collect and  make publicly available.
+dhs-ice release its enforce alien removal module (earm) and the  enforce  alien  booking  modules  (eabm)  manual  that  describes  the  detention information it collects, and that it regularly release extensive  data on all those held in its custody.
+
+
+dhs-ice  work  with  the  immigration  courts  and  detainee  states  of   origin to avoid prolonged and indefinite detention in all cases.
+dhs-ice collect complete and accurate data and that it not leave data   fields blank or fill them out incorrectly.
+
+
+congress  and  dhs-ice  substantially  expand  community-based,   supervised release, alternative-to-detention programs.
+congress and dhs-ice reduce, if not eliminate, the role of for-profit  entities in administering immigrant detention facilities, and take full  responsibility for this core government responsibility.
+
+
+introduction over  the  last  20  years,  government  research  and  accountability  agencies  and  non- governmental organizations (ngos) have created a substantial body of knowledge on the  operation of the us immigrant detention system.
+by and large, however, policy makers,  researchers, the public, and even front-line immigration officials have not had the benefit  of information on detainees collected by the us department of homeland security (dhs).
+
+
+in addition, dhs has never released a complete list of the fields of data that it collects on  immigrant detainees or the facilities that hold them.
+nor has it released even a redacted   331  piecing together the us immigrant detention puzzleversion of the enforce alien removal module (earm) and the enforce alien booking  modules  (eabm)  manual,  which  reportedly  describes  the  information  dhs  collects  and tracks on detainees, the officials responsible for entering and screening this data, and  those who can access this information.
+
+
+dhs implausibly claims that this manual is law  enforcement sensitive.
+although  hardly  sufficient,  dhss  immigration  and  customs  enforcement  (dhs-ice  or  ice)  agency  has  released  two  datasets  with  distinct  sets  of  data  fields  in  response  to  freedom  of  information act  (foia)  requests  by associated  press  reporter  michelle  roberts and boston globe reporter maria sacchetti.
+
+
+the datasets provide a rare glimpse of  the us immigrant detention system on the nights of january 25, 2009 and september 22,  2012.
+roberts and sacchetti relied on the 2009 and 2012 datasets, respectively, to report on  long-term detention (roberts 2009; sacchetti 2014).
+
+
+an analysis of the 2009 dataset by the  migration policy institute concluded that ice did not appear to track all of the information  it would need to assess eligibility for release or compliance with its detention standards  (kerwin and lin 2009, 5).
+an examination of detainees on a particular night or nights offers a limited and potentially  skewed view of the detention system.
+
+
+for example, it yields a higher percentage of long-term  detainees than would an analysis of a dataset of all dhs detainees over the course of a year.
+however, a point-in-time analysis can produce valuable information on the demographic  characteristics of detainees; the types and concentration of detention facilities; length of  detention  for  persons  in  different  removal  processes;  and  the  criminal  backgrounds  of  detainees.
+
+
+coupled with other information, single-day datasets also offer insight into the  effect of particular enforcement programs and patterns of immigration violations.
+analyses  of multiple point-in-time datasets can suggest long-term trends in detention and removal.
+
+
+the 2009 and 2012 datasets contain some overlapping fields, which allow for comparison  of the detainee populations on two days, 44 months apart.
+this paper will summarize key findings from an analysis by the center for migration studies  of new york (cms) of the september 22, 2012 dataset, and will compare these findings  with those from the analysis of the january 25, 2009 dataset.
+
+
+the paper will begin with a  description of the dhs-ice enforce database and a summary of the fields contained  in the 2009 and 2012 datasets.
+it will then set forth findings and will conclude with policy  recommendations.
+
+
+the enforce database dhs-ice operates the enforcement integrated database (eid), which is a shared common  database repository with information on the investigation, arrest, booking, detention, and  removal of persons encountered by ice, customs and border protection (cbp), and us  citizenship and immigration services (uscis) (dhs 2011).
+dhs personnel previously  accessed the data in eid using the enforce alien detention module (eadm), and  enforce alien removal module (earm), but eadm has been merged into earm  (ibid.
+
+
+).
+2  in  recent  years,  earm  has  added  information  on  electronic  bond  processing,  2   eadm and earm replaced the dhs deportable alien control system (dacs) on september 30, 2007  (dhs-oig 2009).
+
+
+dacs was created, in part, to enable the immigration and naturalization service (ins)   332  journal on migration and human securityselect ice detention policies (like telephone calls following transfer), medical screening,  eligibility for alternative-to-detention (atd) programs, and criminal history (ibid.
+, 9-12).
+
+
+dhs-ice has also added to earm a new tab on its risk classification assessment (rca).
+the rca guides ice determinations on eligibility for release, atd programs, and placement  within the system based on flight risk and public safety concerns (dhs 2012, 3-4).
+
+
+on august 22, 2012, the boston globe submitted a foia request for data on every detainee  in ice custody, including information on:   country of origin; criminal convictions;    name and date of birth (or age) of each detainee;       most serious criminal conviction;     date of final removal order.
+total number of days in ice custody; and  ice  initially  responded  to  the  request  with  date  of  birth  and  other  data  fields,  but  subsequently informed the boston globe that it had provided some inaccurate information  and had improperly provided the date of birth information.
+
+
+it subsequently released eight  fields of data for the night of september 22, 2012:                    citizenship; criminal yes/no (convicted of a crime); most  serious  criminal  charge  (based  on  national  crime  information  center  (ncic) categorization);3 detention facility;  v_days_in_custody (days in custody from most recent apprehension); final order yes/no; final order date (the date the removal order became administratively final); and case category (the type of removal process and posture of case).
+ice indicated that the data came from its enforcement and removal operations (ero)  division.
+
+
+however, it did not provide a comprehensive list of data fields within this dataset  or an explanation of the fields for which data was provided.
+nor would ice-ero officials  subsequently  clarify  ambiguous  fields,  including  case  category  codes  or  indicate  the  dhs officials (likely deportation officers or immigration enforcement agents) who entered  the data.
+
+
+cms has pieced together some of this information from the analysis of the 2009  dataset and from other sources.
+the case category field included a series of codes and descriptors which speak to the  type of removal proceeding and posture of the case.
+
+
+analysis of the information captured   and department of justice (doj) to count and report on those it had under docket control and to track  non-citizens, both detainees and non-detainees, from the point that they were initially encountered by dhs  officials until their departure or the closure of their cases.
+3   the ncic is the federal bureau of investigations clearinghouse and database of crime data, which  can be accessed by federal, state, local, and tribal law enforcement agencies.
+
+
+the most serious criminal  charge does not necessarily reflect the crime which serves as the ground for removability (kerwin and lin  2009, 23).
+333  piecing together the us immigrant detention puzzlein this field reflects changes to the us immigration system brought about by the illegal  immigration reform and immigrant responsibility act of 1996 (iirira).
+
+
+prior to iirira,  removable non-citizens fell into two general categories: the deportable and the excludable.
+earm has retained this nomenclature.
+
+
+non-citizens who had entered the country pre- iirira had greater constitutional rights and were placed in deportation proceeding, while  those stopped at a port of entry or apprehended near a border were deemed to be excludable  based on the legal fiction that they had not entered the country.
+iirira combined deportation and exclusion into a uniform removal process and replaced  the term entry with admission, which it defined as a lawful entry  after inspection  and authorization.
+
+
+4 thus, post-iirira, non-citizens who illegally enter the country are  deemed inadmissible because they have not been inspected and authorized.
+immigration  law  has  also  retained  separate  grounds  of  inadmissibility  (which  apply  to  those  not  admitted) and deportability (which apply to those admitted).
+
+
+5 non-citizens who are subject  to  grounds  of  inadmissibility  bear  the  burden  of  showing  that  they  are  admissible.
+by  contrast, the government bears the burden of showing that non-citizens are deportable.
+
+
+iirira  also  created  several  summary  and  expedited  removal  processes  which  do  not  include  an  appearance  before  an  immigration  judge  (ij)  (aclu  2014,  15-30).
+these  informal processes have been applied to a sharply escalating number and percentage of  persons facing removal since 1996.
+
+
+expedited removal, for example, applies to non-citizens who attempt to enter the united  states without entry documents or by using improper documents, who are arrested within  100 miles of us land and coastal borders, and who have been present in the united states  for less than two years.
+this process accounted for 193,032 removals or 44 percent of  all removals in 2013 (simansky 2014, 5).
+
+
+reinstatement of removal applies to persons  who  have  been  ordered  removed  or  have  departed  voluntarily  while  under  a  removal  order, and who illegally re-enter the united states.
+6 this process accounted for 170,247  removals or 39 percent of all removals in 2013 (ibid.
+
+
+).
+administrative removal applies to  non-citizens who are not lawful permanent residents (lprs) and who have committed an  aggravated felony.
+
+
+there were 127,376 administrative removals from fy 2003 to fy  2013 (rosenblum and mccabe 2014, 23).
+stipulated orders of removal, which must be  signed by an ij, can nonetheless occur without a hearing when a non-citizen admits the  factual claims against him or her, concedes deportability or inadmissibility, and waives his  or her right to appeal the removal order (aclu 2014, 29).
+
+
+7 dhs does not report on the  number of stipulated removals each year.
+earms case category field includes codes that capture these distinct removal processes,  the case posture and, in some instances, its disposition.
+
+
+brief descriptions of the codes  follow:  4   immigration and nationality act (ina)  101(a)(13)(a).
+5   ina  212; ina  237.
+
+
+6   non-citizens may challenge a determination that they are subject to reinstatement of removal in a written  or oral statement to an immigration officer.
+8 cfr  241.
+
+
+8.
+7   8 cfr  1003.
+
+
+25(b).
+334  journal on migration and human security                                                [1a] voluntary departure  un-expired and un-extended voluntary departure.
+
+
+this code covers detainees granted voluntary departure who have not overstayed  the period of voluntary departure.
+case category code [1b] covers persons whose  voluntary departure period has been extended.
+
+
+case category code [1c] covers  persons who overstayed their voluntary departure period.
+[2a]  deportable    under  adjudication  by  ij.
+
+
+this  code  covers  detainees  in  pending deportation proceedings.
+[2b] deportable  under adjudication by bia.
+
+
+this code applies to detainees  who are appealing their removal orders to the board of immigration appeals (bia).
+[3] deportable  administratively final order.
+
+
+this code covers detainees with  a final order of removal, including those pursuing petitions for review in federal  court.
+8 the dataset lists 102 persons in this category who do not have a final order.
+
+
+this logical impossibility might best be explained by simple error.
+[5b] removable  ice fugitive.
+
+
+this code covers detainees who were ordered  removed via normal removal proceedings and subsequently absconded and were  rearrested.
+[5c] relief granted  withholding of deportation/removal.
+
+
+this code covers  detainees granted withholding of removal.
+[5d] final order of deportation/removal  deferred action granted.
+
+
+this code  applies to detainees granted deferred action.
+[5e] relief granted  extended voluntary departure.
+
+
+this code covers detainees  granted extended voluntary departure.
+9  [5f]  unable  to  obtain  travel  document.
+
+
+this  code  covers  detainees  ordered  removed for whom a travel document cannot be obtained.
+[8a]  excludable/inadmissible    hearing  not  commenced.
+
+
+this  code  covers  detainees  who  have  been  served  with  a  notice  to  appear  (nta)  for  removal  proceedings, but whose ntas have not yet been lodged with an immigration court  or whose master calendar (preliminary removal) hearings have not yet taken place.
+[8b] excludable/inadmissible  under adjudication by an immigration judge.
+
+
+this code covers detainees whose removal proceedings are pending, but who did  not lawfully enter after inspection and authorization.
+[8c]  excludable/inadmissible   administrative  final  order  issued.
+
+
+this  code  covers detainees who received a final order, including those pursuing a petition for  review in federal court.
+this category included 160 persons who did not receive a  final order, which appears to be another mistake.
+
+
+[8d] excludable/inadmissible  under adjudication by bia.
+this code covers  detainees whose appeals of removal orders are pending with the bia.
+
+
+[8e] inadmissible  ice fugitive.
+this code covers detainees who were ordered  removed  based  on  a  ground  of  inadmissibility,  and  who  absconded  and  were  rearrested.
+
+
+[8f] expedited removal.
+this code applies to detainees in expedited removal  who are not referred for a credible fear interview, both those with and without a  final order of removal.
+
+
+[8g] expedited removal  credible fear referral.
+this code applies to detainees   8   ero headquarters tracks petitions for review, but absent a stay of removal, persons pursuing petitions for  review can be removed.
+
+
+ero normally contacts the local ice office of the chief counsel before removal  in the case of persons who have filed a petition for review.
+9   for a description of extended voluntary departure and other us temporary protection programs, see  kerwin (2014, 55).
+
+
+335  piecing together the us immigrant detention puzzlein expedited removal who were referred for credible fear interviews.
+while cases  are supposed to remain in the [8g] category until they receive political asylum or a  final order of removal, 1,244 cases in this category had received a removal order.
+
+
+in  71 instances, there is no indication whether the detainee had been ordered removed  or not.
+[8h] expedited removal  status claim referral.
+
+
+this code covers detainees  who claim to have lawful immigration status and, if so, should not be in expedited  removal.
+[8i] inadmissible  ice fugitive  expedited removal.
+
+
+this code covers detainees  in the expedited removal process who absconded after a credible fear interview.
+[9]  vr  under  safeguards.
+
+
+this  code  applies  to  detainees  granted  voluntary  departure who are being held in custody until they are repatriated.
+[10] visa waiver deportation/removal.
+
+
+this code covers detainees from visa  waiver countries who waived their right to contest removal.
+10 [11] administrative deportation/removal.
+
+
+this code covers detainees subject to  administrative removal because they are alleged to have committed an aggravated  felony and not to be lprs.
+11 some persons in this category may be eligible for a  reasonable fear interview by an asylum officer to determine whether they will be  referred to an immigration court to seek withholding of removal.
+
+
+12  [12]  judicial  deportation  /  removal.
+this  code  covers  detainees  who  were  ordered deported by a federal judge in criminal proceedings.
+
+
+13  [13] section 250 removal.
+this code covers indigent detainees who seek to be  removed at the governments expense.
+
+
+14 [14]  crewman,  stowaways,  s-visa  holders,  235  (c)  cases.
+this  code  covers  detainees  who  were  crewman,  stowaways,  criminal  or  terrorist  informants,  or  persons ordered removed on security and related grounds.
+
+
+[16] reinstated final order.
+this code covers persons who were ordered removed  or who departed voluntarily while under a removal order, and who illegally re- entered.
+
+
+it also applies to persons subject to reinstatement of removal who request  political asylum and, as a result, are eligible for a reasonable fear screening.
+the remaining fields in the september 22, 2012 dataset require less explanation.
+
+
+they include  the detainees citizenship; criminal yes/no (which captures convictions, not criminal  charges); most serious criminal charge (based on ncic classifications);15 detention  facility; v_days_in_custody from the date of the most recent apprehension;16 final   10   under ina 217(b), to participate in the visa waiver program, a foreign national from a reciprocating or  designated country must waive the right to review or appeal an inadmissibility determination or to contest  removal.
+however, they can seek political asylum.
+
+
+11   ina  238(b).
+12   8 cfr  238.
+
+
+1(f)(3).
+13   ina  238(c)(1).
+
+
+14   ina  250.
+15   this category does not necessarily reflect the crime which serves as the grounds for removability or the  basis of detention (kerwin and lin 2009, 23).
+
+
+16   in the past, dhs-ice often underestimated the days in custody set forth in this field by treating a  transfer as a release for statistical and reporting purposes; that is, days in custody reflected only the days  in the facility in question, not continuous days in custody.
+this problem has reportedly been corrected.
+
+
+336  journal on migration and human securityorder yes/no (whether the detainee received a final removal order); and final order  date, (the date the removal order became administratively final).
+findings congress has mandated that dhs maintain at least 34,000 immigration detention beds each  night.
+
+
+17 to meet this requirement, dhs-ice operates its own facilities, and additionally  contracts to use facilities owned by: (1) the federal bureau of prisons; (2) for-profit prison  corporations;  and  (3)  states  and  localities  that  frequently  sub-contract  with  for-profit  prisons to operate or administer their jails and prisons.
+many dhs-ice contractual and  sub-contractual  agreements  guarantee  that  private  correctional  agencies  will  be  paid  for a minimum number of detainees per night, no matter how many people the facilities  actually hold (dwn and ccr 2015).
+
+
+in this way, the contracts incentivize filling detention  facilities each night (ibid.
+, 6-7).
+
+
+on september 22, 2012, dhs-ice held 35,197 persons in its custody, compared to 32,000  on january 25, 2009.
+the number of persons in custody on september 22, 2012 exceeds  dhs-ices average daily bed use in 2012, but tracks the overall expansion of the detention  system between 2009 and 2012 (chart 1).
+
+
+chart 1.
+average daily population of detainees, fy 1994- 2013  sources: siskin 2004, 2012; dhs-oig 2014.
+
+
+one would expect that the process for determining whether a non-citizen should be removed  would take longer on average than the act of physically removing a person ordered removed.
+if this were the case, then the vast majority of detainees would be in removal proceedings  and a far smaller percentage would have been ordered removed.
+
+
+yet on september 22,  2012, 18,470 detainees had pending cases, 14,674 had received final orders of removal,   17  consolidated appropriations act, 2014, pub.
+l.
+
+
+no.
+113-76, 128 stat.
+
+
+5 (2014),  251  337  piecing together the us immigrant detention puzzleand the final order field was blank in 2,053 cases.
+18 thus, a surprisingly high percentage  (44 percent) of the 33,144 detainees for whom the final order field was completed had  received final orders.
+
+
+of the 2,053 cases which had no final order information, 2,009 had  been detained for less than six months, 35 for between six months and a year, and nine for  more than one year.
+the january 25, 2009 dataset included 18,690 detainees in removal  proceedings, 10,873 who had received a final order of removal, and 2,437 for whom this  field was left blank.
+
+
+of the 29,563 cases for which the final order field was completed, 37  percent had received a final order.
+the  2012  dataset    unlike  the  2009  dataset    included  the  removal  case  category  field.
+
+
+not surprisingly, most detainees on september 22, 2012 (61 percent) were in formal  removal proceedings before an ij or had been ordered removed by an ij.
+these included:    7,326  (20.
+
+
+8  percent)  who  had  not  been  admitted  and  had  pending  exclusion   proceedings;    4,795 (13.
+6 percent) in deportation proceedings before an ij;    3,081  (8.
+
+
+8  percent)  who  had  received  a  final  order  of  removal  in  exclusion   proceedings;  proceedings;    2,985 (8.
+5 percent) in exclusion proceedings whose hearings had not yet begun;    2,354  (6.
+
+
+7  percent)  who  had  received  a  final  order  of  removal  in  deportation     511 (1.
+5 percent) with appeals in deportation cases before the bia; and   380 (1.
+
+
+1 percent) with appeals in exclusion cases before the bia.
+however, consistent with expanded use of informal removal processes post-iirira, 38  percent of detainees were in summary, expedited, and administrative removal processes,  including:    5,866 (16.
+
+
+7 percent) in the reinstatement of removal process;   3,492 (9.
+9 percent) in expedited removal;    3,332 (9.
+
+
+5 percent) who were subject to expedited removal but had been referred   for credible fear interviews; and    650 (1.
+9 percent) in the administrative removal process.
+
+
+in both 2009 and 2012, immigrant detainees originated from the great majority of nations  in  the  world,  although  citizens  of  mexico,  central  american  and  caribbean  nations  predominated.
+detainees  in  the  2009  dataset  came  from  177  nations,  with  the  largest  population (37 percent) from mexico and 28 percent from central america.
+
+
+on september  22, 2012, dhs-ice detained persons from 177 nations, with 40 percent from the northern  triangle states of central america and 34 percent from mexico (table 1).
+19 the decrease  in  the  percentage  of  mexican  detainees  between  2009  and  2012  is  consistent  with  the  dramatic drop in arrivals to the united states from mexico between 2000 and 2012 and  the decrease in the mexican us unauthorized population from 2010 to 2013 (warren and  kerwin 2015, 87-89).
+
+
+the increase in central american detainees from 2009 to 2012 is   18   the 14,674 figure includes five cases in which a final order of removal date had not been entered, but  the final order code indicates that a final order had been entered.
+19   the nationalities of 15 detainees were listed as unknown.
+
+
+338  journal on migration and human securityconsistent with the steep rise in the number of migrants, including unaccompanied children,  fleeing violence and poverty in northern triangle states from 2009 to 2014 (carlson and  gallagher 2015, 133-134; dhs-cbp 2015).
+table 1.
+
+
+top 10 countries of origin for ice detainees on  september 22, 2012 citizenship  percentage of detainee   number of detainees  population (35,197)  mexico el salvador honduras guatemala jamaica dominican republic ecuador haiti india cuba  11,885 5,275 4,594 4,284 874 637 471 369 360 329  source: cms analysis of dhs-ice dataset for september 22, 2012.
+33.
+
+
+8 15.
+0 13.
+
+
+1 12.
+2 2.
+
+
+5 1.
+8 1.
+
+
+3 1.
+0 1.
+
+
+0 0.
+9  the privatization of the us immigrant detention system over the last six years, the obama administration has pursued administrative reforms of  the us immigrant detention system.
+
+
+a centerpiece of this initiative has been strengthened  oversight of dhs contract facilities.
+the 2009 and 2012 datasets indicate the facility in which  each detainee was held.
+
+
+one way that dhs-ice has attempted to tighten accountability  has been to reduce the number of contract facilities.
+on january 25, 2009, ice detained  immigrants  in  286  facilities,  with  68  percent  in  nine  states  (california, arizona,  new  mexico, texas, arkansas, louisiana, alabama, georgia, and florida) and 47 percent in  the  four  us  states  that  border  mexico  (kerwin  and  lin  2009,  8-9).
+
+
+by  september  22,  2012, the number of contract facilities in use had fallen, and ice detention populations  had become even more concentrated.
+in particular, ice held immigrants in 189 facilities,  with  77  percent  of  detainees  in  nine  states  (texas,  california, arizona,  georgia,  new  jersey, louisiana, florida, washington, and pennsylvania) and 51 percent in the four states  bordering mexico.
+
+
+the composition of the facilities used by dhs-ice changed little between january 25,  2009 and september 22, 2012.
+on january 25, 2009, ice held 68 percent of detainees in  local jails and state prisons pursuant to inter-governmental service agreements (igsas),  17 percent in for-profit contract detention facilities (cdfs), 10 percent in its own service  processing  centers  (spcs),  3  percent  in  shelters  and  other  alternative  facilities,  and  2  percent in federal prisons (kerwin and lin 2009, 8).
+
+
+20  20   by 2014, privately owned facilities held 19 percent of immigrant detainees (usccb-mrs and cms  2015, 13).
+339  piecing together the us immigrant detention puzzleon september 22, 2012, ice held nearly 71 percent of detainees in jails and prisons under  igsas, 16.
+
+
+5 percent in cdfs, 10.
+9 percent in spcs, 1.
+
+
+4 percent in federal prisons, and  less than 1 percent in shelters and other alternative facilities (figure 1).
+the igsa category  included 57 facilities, holding 14.
+
+
+8 percent of all detainees, which were subject to inter- governmental  agreements  (iga)  with  the  us  marshals  service  (usms).
+usms  iga  facilities are owned and operated by state and local governments or private entities under  agreement or contract with usms  to house federal prisoners until they are acquitted or  convicted.
+
+
+(gao 2013, 10).
+ice detainees at these facilities may be commingled with or  held separately from federal prisoners (ibid.
+
+
+).
+figure  1.
+
+
+percentage  of  detainees  by  type  of  facility,  september 22, 2012  source: cms analysis of dhs-ice dataset for september 22, 2012.
+given that the cdf category does not account for the operation by for-profit corporations  of state and local facilities that are under igsas with the federal government, that category  significantly understates the degree to which the detention system has been privatized.
+
+
+on  january 25, 2009, for example, for-profit prisons owned and/or operated 75 percent of the  beds in the 17 most populated detention facilities, which held 51 percent of all detainees  (kerwin and lin 2009, 14-15).
+on september 22, 2012, for-profit prisons owned and/or  operated 90 percent of the beds in the 21 facilities that held 52 percent of all detainees  (appendix a; figure 2).
+
+
+21  21   cms identified detention facility operators based on an ice document that included all ice authorized  facilities as of december 2, 2013 (dhs-ice 2013a).
+340  journal on migration and human securityfigure 2.
+
+
+presence of private contractors in 21 largest  detention facilities, september 22, 2012                           facilities by type     privately owned or operated facility           source: cms analysis of dhs-ice dataset for september 22, 2012.
+moreover, for-profit prison agencies owned and/or operated 67 percent of all detention  beds on september 22, 2012 (figure 3).
+
+
+with the opening of immense new private facilities  in 2014 and 2015, these numbers have likely increased since 2012.
+figure 3: incidence of privately owned and/or operated  facilities, september 22, 2012  privately owned or operated facility  * the others and not known category include staging facilities, hospitals, hold rooms, and medical  centers, whose operators could not be determined.
+
+
+on september 22, 2012, 112 detainees were held in  these facilities.
+source: cms analysis of dhs-ice dataset for september 22, 2012.
+
+
+341  piecing together the us immigrant detention puzzlelength of detention   length of detention post-removal order   the us supreme court has prohibited the indefinite detention of non-citizens who have  been ordered removed.
+in its 2001 decision in zadvydas v.
+
+
+davis, the court held that six  months after a final order of removal, the government must either release a detainee or  demonstrate a significant likelihood that the detainee will be removed in the reasonably  foreseeable  future.
+22  if  the  government  cannot  meet  this  burden,  the  detainee  must  be  released.
+
+
+in  2003,  the  court  extended  this  decision  to  inadmissible  persons  who  are  ordered removed.
+23 in combination, these decisions have led to a dramatic decrease in the  number of post-removal order, long-term detainees (kerwin and lin 2009, 18, note 36).
+
+
+however, these decisions do not apply to persons in pending proceedings; i.
+e.
+
+
+, who have  not yet been ordered removed.
+in a 2003 decision, the court upheld mandatory detention  for what it assumed to be the brief period necessary to complete removal proceedings.
+
+
+24  these decisions raise two principal empirical issues: whether dhs is removing detainees  within  six  months  of  their  removal  orders,  and  whether  the  detention  of  persons  with  pending removal proceedings is, in fact, brief.
+the analysis of the september 22, 2012  dataset reveals, as did the 2009 dataset, that while in most cases detention is relatively  brief, large numbers of detainees have been confined for prolonged periods on any given  night, including 553 for more than six months after being ordered removed.
+
+
+25  on september 22, 2012, 6,298 detainees had received a final order and had been detained  since receiving the order (table 3).
+these detainees had, on average, been detained for  64 days following receipt of their removal order.
+
+
+26 more specifically, 5,018 detainees (80  percent) had been detained following receipt of a removal order for less than 90 days; 727  (12 percent) had been detained for between 90 days and six months; 409 (6 percent) had  been detained for between six months and one year; and 144 (2 percent) had been detained  for one year or more (table 3).
+of the 10,771 post-removal order detainees on january 25,  2009, 8,513 (79 percent) had been detained post-removal order for less than 90 days; 1,266  (12 percent) for 90 days to six months; 676 (6 percent) for six months to one year; and 316  (3 percent) for one year or more (kerwin and lin 2009, 17).
+
+
+22   zadvydas v.
+davis, 533 us 678 (2001).
+
+
+23   clark v.
+martinez, 543 us 371, 378 (2005).
+
+
+24   demore v.
+kim, 538 us 510 (2003).
+
+
+25   the overall number of detainees who were detained on september 22, 2012 more than six months after  receiving their removal order  both those continuously in detention since being ordered removed and  those who had not been continuously detained since being ordered removed  was 951.
+26   a second group of 8,371 detainees on september 22, 2012 had been ordered removed but had not been  continuously detained since receiving their removal order.
+
+
+this could have occurred for different reasons.
+some could have been ordered removed in absentia and later been arrested and detained.
+
+
+others could have  been ordered removed, absconded, and subsequently been rearrested.
+342  journal on migration and human securitytable  3.
+
+
+length  of  detention  by  final  order  status,  september 22, 2012  pre-removal  order detainees  post-removal  order detainees  post-removal order detainees   (not detained all the time)  total  average detention  length  < 90 days  91-180 days in  detention 181-365 days in  detention  more than one year  18,470 (1) 85  days  6,298  (2) 64  days  (3) 143  days  number of detainees by detention length  13,281 (72%) 2,932 (16%) 1,534 (8%) 723 (4%)  5,018 (80%) 727 (12%) 409 (6%) 144 (2%)  3,842 (61%) 976 (15%) 811 (13%) 669 (11%)  8,371 (4) 48  days  7,231 (86%) 742 (9%) 302 (4%) 96 (1%)    note: category (1) refers to length of detention for pre-removal detainees, (2) refers to length of detention  following receipt of a removal order, and (3) includes time in detention both prior to and after receiving  a removal order.
+category (4) covers detainees who received final orders before the current custody  period and refers to length of detention for the most recent period of custody.
+
+
+the data from the dhs-ice  database for september 22, 2012 did not indicate whether or not a final order had been entered for 2,053  detainees.
+in addition, the database was missing a final-order date for five post-removal order detainees.
+
+
+source: cms analysis of dhs-ice dataset for september 22, 2012.
+of the 18,470 detainees with pending removal cases on september 22, 2012, 13,281 (72  percent) had been detained for less than 90 days; 2,932 (16 percent) had been detained  for between 90 days and six months; 1,534 (8 percent) had been detained for between six  months and one year; and 723 (4 percent) had been detained for one year or more.
+
+
+by way  of comparison, of the 18,690 detainees with pending removal cases on january 25, 2009,  13,842 (74 percent) had been detained for less than 90 days; 2,486 (13 percent) had been  detained for 90 days to six months; 1,792 (10 percent) from six months to one year; and  570 (3 percent) for one year or more (kerwin and lin 2009, 16).
+the average total length of detention for post-removal order detainees on september 22,  2012 (both prior to and after receiving a removal order) was 143 days, and 1,480 who had  been continuously detained after receiving a removal order had been detained for more  than six months.
+
+
+the average total length of detention for post-removal order detainees on  january 25, 2009 was 114 days and 1,792 post-removal order detainees had been detained  for more than six months.
+343  piecing together the us immigrant detention puzzleseventy-one  percent  of  the  144  detainees  in  custody  on  september  22,  2012  for  more  than one year after receiving a removal order came from the following nine countries:  mexico (29 cases), el salvador (26 cases), jamaica (15 cases), guatemala (nine cases),  india (six cases), nigeria (six cases), philippines (five cases), nicaragua (three cases), and  rwanda (three cases).
+
+
+in comparison, more than one-half of the 316 detainees in custody  for more than one year post-removal order on january 25, 2009 came from the following  10 countries: mexico (28 cases), china (28 cases), el salvador (19 cases), india (19 cases),  jamaica (17 cases), the philippines (13 cases), haiti (13 cases), dominican republic (12  cases), russia (nine cases), and kenya (eight cases).
+on september 22, 2012, four detention facilities held detainees for an average of one year  or more.
+
+
+on january 25, 2009, 10 detention facilities held detainees for an average of one  year or more.
+these 10 facilities tended to hold small number of detainees, with many  being soft detention or social service centers.
+
+
+the 10 persons in detention for the longest periods as of september 22, 2012 had been  in custody from between nearly six years to more than 17 years (appendix b).
+however,  some of these figures may be unreliable.
+
+
+in five cases, for example, the final order date came  years after the detainee had been in custody, well beyond the typical removal adjudication  period.
+27 the dataset indicated that two long-term detainees had not received a final order  of removal.
+
+
+in another two cases, the period in custody was shorter than the period from the  final order to september 22, 2012, indicating that the detainee had been out of custody at  some point after receiving the final order.
+in addition, maria sacchetti (2014) reported on  a very long-term cuban detainee who had been mistakenly excluded from the september  22, 2012 dataset.
+
+
+length of detention  all detainees  the 2009 mpi analysis concluded that dhs-ice must, in effect, operate two detention  systems within one, one for short-term detainees and the other for long-term detainees  (kerwin and lin 2009, 20).
+cmss analysis of the september 22, 2012 dataset found the  same dichotomy.
+
+
+on the one hand, 26,200 detainees (74 percent) had been held for 90 days  or less on september 22, 2012, with 16,427 of them (47 percent of all detainees) held for 30  days or less, and 5,252 (15 percent) held for a week or less.
+28 on the other hand, 4,179 (12  percent) had been detained for more than six months, with substantial populations detained  for more than one year (1,497 or 4 percent), 314 persons (slightly less than 1 percent) for  more than two years, and 112 (0.
+
+
+3 percent) for more than three years.
+29   27   one possible explanation might be that the database in some of these cases included prison time served,  as well as time in immigrant detention.
+
+
+28   the average (mean) length of detention for september 22, 2012 was 84 days, including 85 days for  pre-removal order detainees and 89 days for post-removal order detainees.
+the average length of detention  on january 25, 2009 was 81 days for pre-removal order detainees and 114 days for post-removal order  detainees.
+
+
+29   by way of comparison, 4,154 persons had been detained for more than six months as of january 25,  2009 (kerwin and lin 2009, 19).
+344  journal on migration and human securitytable 4.
+
+
+length of detention by removal case category  field, september 22, 2012  case category  [1a] voluntary departure -  un-expired and un-extended  departure period [2a] deportable - under  adjudication by ij [2b] deportable - under  adjudication by bia [3] deportable - administratively  final order [5b] removable - ice fugitive [5c] relief granted - withholding  of deportation / removal [5d] final order of deportation /  removal - deferred action granted [5e] relief granted - extended  voluntary departure [5f] unable to obtain travel  document [8a] excludable / inadmissible -  hearing not commenced [8b] excludable / inadmissible -  under adjudication by ij [8c] excludable / inadmissible -  administrative final order issued [8d] excludable / inadmissible -  under adjudication by bia [8e] inadmissible - ice fugitive [8f] expedited removal [8g] expedited removal - credible  fear referral [8h] expedited removal - status  claim referral [8i] inadmissible - ice fugitive -  expedited removal [9] vr under safeguards [10] visa waiver deportation /  removal [11] administrative deportation /  removal [12] judicial deportation / removal [13] section 250 removal [14] crewmen stowaways s-visa  holders 235(c) cases [16] reinstated final order total  0-90  days  91-180  days  181 days- 1 year  1-2  years  2-3  years  over 3  years  total  5  0  3,011  1,045  43  987  41  2  1  1  24  141  494  1  0  2  1  7  2,825  137  5,602  1,089  2,047  44  103 3,402  2,620  3  6  54  93  536  5 1  6  469  106  0 75  508  4  1  9  15  63  0 0  5  0  497  202  434  0  3  2  0  1  19  462  333  145  0 10  141  2  0  0  9  39  1 0  3  0  202  97  311  0  0  0  0  1  4  154  172  72  0 3  53  1  0  0  8  12  0 0  2  0  25  17  80  0  0  0  0  0  0  15  36  9  0 2  7  1  0  0  0  0  0 0  0  0  15  11  48  0  0  0  0  1  0  4  5  4,795  511  2,354  42  5  5  2  34  2,985  7,326  24  3,081  4  0 0  3  0  0  0  0  0  0 0  0  380  103 3,492  3,332  11  7  63  125  650  6 1  16  4,738 26,200  646 4,818  379 2,682  91 1,183  10 202  2 112  5,866 35,197  source: cms analysis of dhs-ice dataset for september 22, 2012.
+345  piecing together the us immigrant detention puzzletable  4  illustrates  length  of  detention  by  removal  case  category  field.
+
+
+it  reveals  that  long-term detainees can be found in large numbers among deportable non-citizens, with  the  highest  numbers  and  percentages  in  the  deportable-administratively  final  order  field.
+substantial numbers of long-term detainees can also be found in the excludable/ inadmissible fields, which cover detainees with pending cases and those ordered removed.
+
+
+smaller, but not insignificant numbers of long-term detainees were in expedited removal  on september 22, 2012, but had been referred for credible fear interviews; that is, they  were asylum seekers.
+detainees  without  a  criminal  conviction  had  been  detained  on  average  for  52  days  on  september 22, 2012, and those with criminal convictions had been detained on average for  104 days.
+
+
+non-criminal detainees had been detained an average of 65 days on january 25,  2009, compared to 121 days for detainees with criminal convictions.
+criminal convictions the  enforce  database  classifies  detainees  with  criminal  convictions  (marked  simply yes or no) according to the most serious criminal charge based on ncics  criminal offense classifications.
+
+
+ncic classifies individual crimes into broad categories  like  dangerous  drugs  and  traffic  offenses,  and  lists  specific  offenses  under  these  categories.
+thus, the immigration category encompasses individual offenses like illegal  entry,  false  citizenship,  smuggling  aliens,  possession  of  fraudulent  immigration  documents,  trafficking  of  fraudulent  immigration  documents,  and  illegal  re-entry  (dhs-ice 2013b).
+
+
+figure 4.
+detainees with criminal convictions, january  25, 2009 and september 22, 2012  sources: kerwin and lin 2009, 21; cms analysis of dhs-ice dataset for september 22, 2012.
+
+
+346  journal on migration and human securitya  total  of  21,408  detainees  (61  percent)  on  september  22,  2012  had  previously  been  convicted of a crime, a substantially higher percentage than on january 25, 2009 when  13,310 (42 percent) had a criminal record (figure 4).
+however, the percentage of detainees whose most serious criminal charges were traffic  and immigration-related violations was far higher on september 22, 2012 than on january  25, 2009.
+
+
+table 5 constitutes a listing of the most serious criminal charges by ncic  category of crime for the 21,408 immigrant detainees with convictions on september 22,  2012 and the 13,310 detainees with convictions on january 25, 2009.
+in order of frequency  in the 2012 database, these charges include dangerous drugs (5,480 cases, representing  25.
+
+
+6 percent of detainees with criminal convictions), traffic offenses (4,865, 22.
+7 percent),  assault (1,894, 8.
+
+
+8 percent), immigration-related violations (1,702, 8 percent), and larceny  (968, 4.
+5 percent).
+
+
+in contrast, on january 25, 2009, 30.
+3 percent of the detainees with  criminal records had been convicted of dangerous drug offenses, 13.
+
+
+1 percent of traffic  offenses, 10 percent of assault-related offenses, 6.
+1 percent of immigration offenses, and  4.
+
+
+3 percent of larceny (kerwin and lin 2009, 21).
+table  5.
+
+
+most  common  criminal  charges  by  offense  category, january 25, 2009 and september 22, 2012  detainees by conviction  status and offense  category no criminal convictions with criminal  convictions  september 22, 2012  january 25, 2009   18,690 (58.
+4%)   13,310 (41.
+
+
+6%)  13,789 (39.
+2%)    21,408 (60.
+
+
+8%)  offense category  dangerous drugs* traffic offenses assault immigration** larceny robbery sexual assault fraudulent activities burglary weapon offenses public peace general crimes*** sex offenses (not  involving assault or  commercialized sex) forgery  number of  detainees  4,033 1,738 1,329 812 573 549 443 365 443 341 335 -  292  281  percent w/  criminal  convictions 30.
+3% 13.
+
+
+1% 10.
+0% 6.
+
+
+1% 4.
+3% 4.
+
+
+1% 3.
+3% 2.
+
+
+7% 3.
+3% 2.
+
+
+6% 2.
+5% -  rank      (2012  baseline) 1 2 3 4 5 6 8 9 7 10 11 -  number  of  detainees 5,480 4,865 1,894 1,702 968 654 522 487 478 430 417 399  percent w/  criminal  convictions 25.
+
+
+6% 22.
+7% 8.
+
+
+8% 8.
+0% 4.
+
+
+5% 3.
+1% 2.
+
+
+4% 2.
+3% 2.
+
+
+2% 2.
+0% 1.
+
+
+9% 1.
+9%  2.
+
+
+2%  2.
+1%  13  14  348  323  1.
+
+
+6%  1.
+5%  rank  1 2 3 4 5 6 7 8 9 10 11 12  13  14  347  piecing together the us immigrant detention puzzletable 5.
+
+
+(continued) most common criminal charges by  offense  category,  january  25,  2009  and  september  22,  2012  january 25, 2009  september 22, 2012  offense category  family offenses obstructing judiciary,  congress, legislature obstructing the police invasion of privacy homicide stolen property stolen vehicle all other categories  including uncategorized  number of  detainees  320  144  147 136 156 163 163  547  percent w/  criminal  convictions 2.
+4%  rank      (2012  baseline) 12  number  of  detainees 296  percent w/  criminal  convictions 1.
+
+
+4%  1.
+1%  1.
+
+
+1% 1.
+0% 1.
+
+
+2% 1.
+2% 1.
+
+
+2%  4.
+1%  19  18 20 17 15 16     254  245 232 202 167 157  888  1.
+
+
+2%  1.
+1% 1.
+
+
+1% 0.
+9% 0.
+
+
+8% 0.
+7%  4.
+
+
+1%  rank  15  16  17 18 19 20 21     * this category includes manufacturing, distribution, sale and possession of illegal drugs.
+** this category includes illegal entry and re-entry, false claims to citizenship, smuggling aliens, and pos- session and trafficking of fraudulent immigration documents.
+
+
+*** this category includes crimes against a person, property crimes, morals/decency crimes, and public  order crimes.
+sources: cms analysis of dhs-ice dataset for september 22, 2012; kerwin and lin 2009, 20.
+
+
+table 6 lists the most serious criminal charge by individual crime on september 22, 2012  and on january 25, 2009.
+the percentage and number of detainees whose most serious  criminal charges were driving under the influence (dui), traffic offenses, and illegal entry  were far higher on september 22, 2012 than on january 25, 2009.
+
+
+in the 2012 dataset,  the most serious charges (by frequency) were duis (3,017 or 14.
+1 percent of those with  criminal  convictions),  traffic  offense  (1,680  or  7.
+
+
+8  percent),  illegal  entry  (1,393  or  6.
+5  percent), marijuana possession (1,089 or 5.
+
+
+1 percent), and cocaine possession (878 or 4.
+1  percent).
+
+
+in comparison, the most common individual offenses of detainees on january  25, 2009 were duis (8.
+6 percent), dangerous drugs (7.
+
+
+9 percent), assault (6.
+2 percent),  cocaine possession (5.
+
+
+9 percent), marijuana possession (4.
+3 percent), and traffic offense (4  percent) (kerwin and lin 2009, 20).
+
+
+illegal entry was the ninth most common offense at  3.
+4 percent (ibid.
+
+
+).
+appendices c and d constitute a complete listing of detainees with criminal convictions  by ncic crime category and by individual offense on september 22, 2012 and january 25,  2009.
+
+
+348  journal on migration and human securitytable 6.
+10 most common criminal charges by individual  offense for 2009 and 2012     september 22, 2012  january 25, 2009 of those w/  criminal  convictions  number of  detainees  most serious criminal  charge  driving under influence  liquor traffic offense illegal entry (8 usc 1325  only) marijuana  possession cocaine  possession assault dangerous drugs larceny cocaine  sell robbery  1,141  534  459  577 787 821 1,045 471 410 461  8.
+
+
+6%  4.
+0%  3.
+
+
+4%  4.
+3% 5.
+
+
+9% 6.
+2% 7.
+
+
+9% 3.
+5% 3.
+
+
+1% 3.
+5%  rank  (2012  baseline)  number of  detainees  1  6  9  5 4 3 2 7 10 8  3,017  1,680  1,393  1,089 878 875 804 739 547 487  of those w/ criminal  convictions  14.
+
+
+1%  7.
+8%  6.
+
+
+5%  5.
+1% 4.
+
+
+1% 4.
+1% 3.
+
+
+8% 3.
+5% 2.
+
+
+6% 2.
+3%  rank  1  2  3  4 5 6 7 8 9 10  sources: kerwin and lin 2009, 21; cms analysis of dhs-ice dataset for september 22, 2012.
+
+
+the  ncic  offense  code  listing  identifies  violent  crimes  (ssa  2015).
+on  september  22, 2012, nearly 84 percent of the 21,408 detainees with a criminal conviction had been  convicted of non-violent crimes, with assault (by category of crime) representing 54 percent  of all violent crimes for which detainees had been convicted.
+
+
+less than 10 percent of all  detainees on september 22, 2012 had been convicted of a violent crime.
+conclusion and recommendations the  us  department  of  homeland  security  combined  22  previously  distinct  federal  agencies  and  departments  and  sought  to  unify  the  homeland  security  response  of  100  federal organizations (bush 2012).
+
+
+dhs also assumed the responsibilities of the merged  agencies and departments that were not directly related to securing the homeland.
+30 for  any federal agency, much less one of dhss breadth and scope, this transformation occurred  at lightning speed.
+
+
+just nine days after the 9/11 terrorist attacks, president bush announced  the  creation  of  a  new  white  house  office  of  homeland  security  under  the  leadership  of  pennsylvania  governor tom  ridge.
+in  june  2002,  following  a  series  of  federal  law  enforcement and intelligence agency restructurings, the president proposed the creation  of dhs, which he envisioned as a single, unified homeland security structure which  would improve protection against todays threats and be flexible enough to help meet the  unknown threats of the future (bush 2002).
+
+
+on november 25, 2002, the president signed  into law the homeland security act of 2002, which created dhs.
+the agency became a  live concern in january 2003.
+
+
+30   homeland security act of 2002, pub.
+l.
+
+
+no.
+107-296, 116 stat.
+
+
+2135 (2002),  101(b)(1)(e).
+349  piecing together the us immigrant detention puzzlein  its  own  words,  dhs  represents  a  strengthened,  unified,  integrated  and  more  effective response to threats to us national security (dhs 2015).
+
+
+however, dhs has  not produced data or analysis commensurate with the importance of its mission, its rapid  growth or its immense size.
+nor has the establishment of dhs led to greater transparency  regarding its operations or more thorough analysis of its performance.
+
+
+its paucity of data  collection and analysis and its lack of transparency have frustrated policy makers, dhs  staff, and the public.
+this failure has also contributed to confusion and polarization over  the nations immigration policy goals and its success in meeting them.
+
+
+a 2013 council on foreign relations (cfr) report on managing illegal immigration  recommended that the administration release its enforcement data to outside researchers  and that dhs recruit and support internal researchers, encourage them to work on these  [enforcement] issues and interact with academic researchers, and approve their work for  public dissemination (roberts, alden, and whitley 2013, 51).
+the report attributed public  skepticism regarding the efficacy of us immigration enforcement efforts in part to dhss  failure to measure and evaluate its enforcement efforts and to make public the results of  the small amount of analysis that it had produced (ibid.
+
+
+, 1).
+scholars, researchers, and ngos represent a potential treasure trove of information, data  and  analysis  for  policy  makers  and  dhs  leadership.
+
+
+yet  access  to  dhs  data  by  these  potential  sources  of  knowledge  and  expertise  has  been  limited,  and  mostly  channeled  through a coterie of dhs public relations and communications officials.
+the ability to  secure information and data  or even to determine what data dhs collects  has too  often required a commitment to engage in lengthy, sometimes costly, often unsatisfying  foia  requests;  to  participate  in  an  array  of  liaison  meetings  and  processes  with  dhs  officials; and to characterize the purposes of data requests as ultimately beneficial and fair  to dhs.
+
+
+a recent report by the national immigrant justice center (nijc), for example, recounted a  four-year ordeal to try to secure detention contracts and facility oversight reports through  a  foia  request  (valenzuela  and  cullen  2015,  3).
+nijcs  efforts  ultimately  led  to  the  revelation  that,  although  performance-based  national  detention  standards  (pbnds)  have been a hallmark of dhs-ices six-year detention reform initiative, only 12 of the 94  detention contracts received by nijc stipulated that facilities should adhere to the most  recent pbnds standards (ibid.
+
+
+, 6).
+although the separation of civil immigrant detainees  and criminal populations has been a linchpin of dhs-ices administrative reform efforts,  cmss research also raised the possibility of the commingling of these populations pursuant  to usms iga agreements and (perhaps) in other types of facilities as well.
+
+
+access to reliable and relevant data has also been a challenge for dhs decision makers,  one of whom recently argued (in a conversation with the author) that government officials  face greater barriers than ngos in accessing agency data, given their inability to submit  foia requests.
+congressional oversight of dhs has also been dysfunctional.
+
+
+dhs reports to more than 90  congressional committees and subcommittees (markon 2014), and many hearings seem  little more than an opportunity for political grandstanding and theater.
+at best, the level of  dhs reporting required by congress demands excessive time and resources and, at worst, it   350  journal on migration and human securitydistracts dhs leadership from their homeland security and other responsibilities.
+
+
+dhs also  receives constant requests for information from the press, academics, researchers, ngos,  and the public.
+the most efficient and transparent way to manage this volume of requests  would be for dhs to make as much data publicly available as it can on a consistent basis.
+
+
+yet despite vast expansion of dhs immigration operations, the agencys annual statistical  and other reports have not become more comprehensive, nuanced, or informative.
+the  analysis  of  the  january  25,  2009  detention  dataset  recommended  that  dhs-ice  undertake  a  thorough  inventory  and  review  of  its  information  systems,  including  enforce,  to  ensure  that  they  allow  for  informed  decisions  related  to  eligibility  for  release,  custody  review  processes,  placement  in  alternative-to-detention  programs,  and  compliance  with  its  national  detention  standards  (kerwin  and  lin  2009,  25).
+
+
+earlier  this  year,  the  us  conference  of  catholic  bishops  (usccb)  and  cms  similarly  urged  dhs-ice to undertake and communicate the results of a comprehensive analysis of its  information systems, identifying the information it tracks on those subject to its custody;  how, when, and which officials collect, enter, and can access this information; its quality  control  procedures;  and  the  accessibility  of  this  information  to  congressional  oversight  committees, government watchdog agencies, and relevant ice officials.
+(usccb-mrs  and cms 2015, 32).
+
+
+this paper strongly supports the cfr and usccb-cms recommendations.
+we further  recommend that dhs initiate a process to engage congress, other federal agencies, states,  scholars, researchers, and ngos on the information and data it should collect related to  its immigration enforcement responsibilities, including detention.
+
+
+as part of this process,  congress and dhs should determine which data it can and should make publicly available  for the purposes of transparency, accountability, and more thorough analysis of the removal  and detention systems.
+we also strongly recommend that dhs-ice provide public access to its earm and eabd  information  manual  and  that  it  produce  quarterly  data  on  all  those  held  in  its  custody,  including as many fields of data as it can provide consistent with privacy concerns.
+
+
+dhs  should allow scholars, researchers and ngos to serve as a force-multiplier whose work  can help to inform policy development, oversight, and operational strategies.
+the paper  also proposes more exhaustive annual reporting on the removal and detention system.
+
+
+dhs-ice should also collect complete and accurate data.
+the september 22, 2012 dataset,  for  example,  lacks  information  on  whether  a  final  removal  order  has  been  received  in  2,053 cases.
+
+
+it would be impossible without this information for dhs-ice to know when  detainees become eligible for release, particularly in post-removal order cases.
+31 dhs-ice  should work with the immigration courts and detainee states of origin to prevent prolonged  and  indefinite  detention  in  all  cases.
+
+
+the  cms  analysis  found  553  detainees  who  had  been continuously in custody for more than six months after receiving a removal order  in apparent violation of the zadvydas and clark decisions on prolonged detention.
+it also  found that persons in removal proceedings were not invariably detained for brief periods  as the supreme court assumed in demore v.
+
+
+kim; 2,257 persons with pending removal  cases had been detained for six months or longer on september 22, 2012.
+31   dhs-ice may have other information sources that allow it to track potential eligibility for release.
+
+
+351  piecing together the us immigrant detention puzzlethe expanded use of alternative-to-detention programs has been a consistent goal of dhs- ices administrative detention reform initiative.
+this analysis supports far greater use of  atds.
+
+
+on the one hand, it revealed that 4,386 detainees on september 22, 2012 had been  in custody for a week or less.
+on the other, it found that 8,785 persons had been detained  for more than three months.
+
+
+the need for atd programs would, of course, be far greater  and their use more appropriate in the latter cases.
+the analysis also found a substantial increase from january 25, 2009 to september 22, 2012  in the percentage of detainees with criminal convictions, from 42 to 61 percent.
+
+
+however,  only 16 percent of detainees with criminal convictions on september 22, 2012 had been  convicted of a violent crime.
+overall, more than 90 percent of detainees on september 22,  2012 had no criminal record or had been convicted of a non-violent crime, factors that  should mitigate in favor of their eligibility for atd programs.
+
+
+finally, the analysis demonstrates the increased privatization of the immigrant detention  system.
+as a growing body of literature suggests, the privatization of immigrant detention  may represent the greatest barrier to detention reform and to a transparent, accountable, and  more humane system (usccb-mrs and cms 2015, 184-186; nijc 2015, 5).
+
+
+because  detention  implicates  fundamental  liberty  interests  and  core  human  and  civil  rights,  the  government should bear full responsibility for administering this system.
+for-profit prison  agencies  which invariably seek to expand their business opportunities and to maximize  their profits  should have at most a modest, supportive role in the immigrant detention  system (usccb-mrs and cms 2015, 192).
+
+
+appendix a.
+selected detention facilities with more than  500 detainees, september 22, 2012  rank detention facility  number of  detainees  1  2  3  4  5  6  7  south texas  detention complex stewart detention  center eloy federal contract  facility northwest detention  center port isabel spc  otero county  processing center jena/lasalle  detention facility  1815  1663  1501  1196  1160  960  956  percent  of total  detained  population  5.
+
+
+2  4.
+7  4.
+
+
+3  3.
+4  3.
+
+
+3  2.
+7  2.
+
+
+7  cumulative  percent  state  facility  type  operator*  5.
+2  9.
+
+
+9  14.
+1  17.
+
+
+5  20.
+8  23.
+
+
+6  26.
+3  tx  ga  az  wa  tx  nm  la  cdf  geo  igsa  cca  igsa  cca  cdf  spc  igsa  geo  ahtna  (guard) m&tc  igsa  geo  352  journal on migration and human securityappendix  a.
+
+
+(continued)  selected  detention  facilities  with more than 500 detainees, september 22, 2012  cumulative  percent  state  facility  type  operator*  igsa  geo  cdf  cca  rank detention facility  number of  detainees  8  9  10 11  12  13  14  15  16  17  18  19  20  21  938  adelanto correctional  facility houston contract  detention facility 878 polk county jail york county jail, pa 793  901  el paso spc  otay mesa detention  facility (san diego  cdf - cca) coastal bend  detention facility  broward transitional  center (wackenhut  corrections corp) essex county jail  joe corley detention  facility (montgomery  county jail) krome north spc  immigration centers  for america   farmville t.
+hutto residential  center cca pinal county jail  693  653  598  552  545  542  529  511  510  508  percent  of total  detained  population 2.
+
+
+7  2.
+6  2.
+
+
+5 2.
+3  2.
+
+
+0  1.
+9  1.
+
+
+7  1.
+6  1.
+
+
+5  1.
+5  1.
+
+
+5  1.
+5  1.
+
+
+4  1.
+4  28.
+
+
+9  31.
+5  34.
+
+
+0 36.
+3  38.
+
+
+2  40.
+1  41.
+
+
+8  43.
+3  44.
+
+
+9  46.
+4  47.
+
+
+9  49.
+4  50.
+
+
+8  52.
+3  ca  cdf  tx  igsa  fl  cdf  igsa igsa  spc  igsa  igsa  spc  igsa  ca  tx  tx pa  tx  nj  tx  fl  va  tx  az  cec county  (sheriff) doyon- akal  (guard) cca  lcs (acquired  by geo in  2015) geo  county  (corrections) geo  akal  (guard) ica  igsa  cca  igsa  county  (sheriff)  * ahtna refers to ahtna technical services, inc.
+
+
+, akal to akal security, cca to corrections corpora- tion of america, cec to community education center, inc.
+, doyon-akal to doyon government group and  ahtna technical services, inc.
+
+
+, geo to the geo group, inc.
+, ica to immigration centers for america, lcs  to lcs corrections services, inc.
+
+
+, and m&tc to management & training corporation.
+sources: cms analysis of dhs-ice dataset for september 22, 2012; dhs-ice 2013; and websites of deten- tion facilities, private prison corporations, and news articles.
+
+
+353  piecing together the us immigrant detention puzzleappendix b.
+list of immigrants detained for more than  three years, september 22, 2012 (112 detainees)  citizenship  criminal  cuba  yes  most serious  criminal  charge robbery -  business-gun  detention  facility  terre haute  usp  days in  custody  6,232  final  order  yes  russia  yes  china,  peoples  republic  of el  salvador  yes  yes  jamaica  yes  3,665  yes  driving under  influence  liquor  rape with  weapon  california  city  corections  center eloy federal  contract fac  receive  stolen  property cocaine  eloy federal  contract fac  etowah  county jail  (al) eloy federal  contract fac  2,509  yes  2,474  yes  2,894  yes  11/22/11  2,537  no     [3] deportable -  administratively  final order  [3] deportable -  administratively  final order  case category  final  order  date 08/27/91 [8c] excludable  / inadmissible -  administrative  final order issued  12/20/02 [3] deportable -  administratively  final order  03/31/10 [3] deportable -  administratively  final order  06/20/12 [3] deportable -  administratively  final order [3] deportable -  administratively  final order     05/03/00 [5f] unable to  obtain travel  document [3] deportable -  administratively  final order  03/10/11  06/29/12 [3] deportable -  administratively  final order [8c] excludable  / inadmissible -  administrative  final order issued     06/23/08 [3] deportable -  administratively  final order  philippines yes  amphetamine  - possession  mexico  yes  amphetamine  - possession  eloy federal  contract fac  2,389  no  el  salvador  yes  mexico  yes  sex assault -  sodomy-girl- strongarm cocaine -  possession  jamaica  yes  cocaine  mexico  yes  sex assault -  sodomy-girl- strongarm  montgomery  county jail  2,280  yes  eloy federal  contract fac  2,165  yes  florence  staging  facility pinal county  jail  2,160  yes  2,144  no  czecho- slovakia  no     suffolk hoc  sbay  2,140  yes  354  journal on migration and human securityappendix b.
+
+
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  citizenship  criminal  mexico  yes  rwanda  no  rwanda  no  rwanda  no  most serious  criminal  charge cruelty  toward wife           kenya  yes  robbery  yes  robbery  detention  facility  adelanto  correction- al facility hampton  roads  regional jail  hampton  roads  regional jail  hampton  roads  regional jail  corr.
+corp.
+
+
+of  america - san  diego florence spc  days in  custody  final  order  2,138  no  2,049  yes  2,049  yes  2,049  yes  2,045  yes  1,905  no  guate- mala  guate- mala  yes  amphetamine  - possession  el centro spc 1,905  yes  liberia  yes  mexico  yes  crimes  against  person cruelty  toward child  portugal yes  fraud  eloy federal  contract fac  1,877  no  jefferson  county jail  1,824  yes  eloy federal  contract fac  1,815  yes  el  salvador  no     pinal county  jail  1,813  no  el  salvador  yes  cocaine -  possession  1,810  yes  corr.
+corp.
+
+
+of  america - san  diego  final  order  date    case category  [2a] deportable  - under  adjudication by ij 09/17/08 [8c] excludable  / inadmissible -  administrative  final order issued 04/29/08 [8c] excludable  / inadmissible -  administrative  final order issued 08/26/08 [8c] excludable  / inadmissible -  administrative  final order issued  04/23/12 [3] deportable -  administratively  final order [3] deportable -  administratively  final order        12/17/07 [3] deportable -  administratively  final order [2a] deportable  - under  adjudication by ij [3] deportable -  administratively  final order  09/28/11  03/26/12 [3] deportable -  administratively  final order [8b] excludable  / inadmissible  - under  adjudication by ij     04/16/08 [3] deportable -  administratively  final order  355  piecing together the us immigrant detention puzzleappendix b.
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  citizenship  criminal  guyana  yes  most serious  criminal  charge robbery  no     china,  peoples  republic  of mexico  yes  driving under  influence  liquor  marijuana -  possession  guyana  yes  sri lanka no     el  salvador  yes  kidnapping  el  salvador  yes  traffic  offense  india  yes  mexico  yes  illegal  entry (ina  sec.
+
+
+101(a) (43)(o),  8usc1325  only) witness -  dissuading  detention  facility  port isabel  spc  corr.
+corp.
+
+
+of  america - san  diego  eloy federal  contract fac  days in  custody  1,788  final  order  yes  case category  final  order  date 10/07/10 [3] deportable -  administratively  final order  1,753  yes  07/28/08 [8g] expedited   1,695  no     removal - credible  fear referral  [8c] excludable  / inadmissible -  administrative  final order issued  etowah  county jail  (al) suffolk hoc  sbay  1,648  yes  1,641  yes  1,632  yes  1,632  yes  1,628  no  corr.
+corp.
+
+
+of  america - san  diego otero co  processing  center  california  city  corections  center  01/29/10 [3] deportable -  administratively  final order [8c] excludable  / inadmissible -  administrative  final order issued  07/12/11  02/08/12 [3] deportable -  administratively  final order  08/07/12 [8c] excludable  / inadmissible -  administrative  final order issued [8d] excludable  / inadmissible -  under adjudication  by bia     eloy federal  contract fac  1,627  no     [2b] deportable -  under adjudication  by bia  uganda  yes  fraud -  impersonating  eloy federal  contract fac  1,586  yes  mexico  yes  assault  eloy federal  contract fac  1,585  no  08/26/09 [3] deportable -  administratively  final order [2b] deportable -  under adjudication  by bia     356  journal on migration and human securitycitizenship  criminal  philippines yes  most serious  criminal  charge larceny  cuba  yes  sex offense  guinea  yes  trespassing  mexico  yes  mexico  yes  peru  yes  nigeria  yes  nicara- gua  yes  property  crimes  synthetic  narcotic -  possession dangerous  drugs  cocaine -  possession  morals -  decency  crimes  kenya  no     philippines yes  violation of a  court order  1,516  yes  1,513  yes  eloy federal  contract fac  1,451  no  1,451  no  1,438  no  1,426  no  adelanto  correction- al facility corr.
+corp.
+
+
+of  america - san  diego  corr.
+corp.
+
+
+of  america - san  diego  1,422  etowah  county jail  (al) el centro spc 1,412  yes  yes  cuba  yes  robbery -  banking-type  institution  larkin  hospital  1,394  yes  el  salvador  yes  marijuana  1,394  yes  corr.
+corp.
+
+
+of  america - san  diego  appendix b.
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  days in  custody  1,558  final  order  yes  final  order  date 11/03/10  1,542  no     case category  [3] deportable -  administratively  final order [2a] deportable  - under  adjudication by ij  detention  facility  eloy federal  contract fac  larkin  hospital  houston  contract  det.
+
+
+fac.
+eloy federal  contract fac     09/08/11  05/22/12 [3] deportable -  administratively  final order [3] deportable -  administratively  final order [3] deportable -  administratively  final order [2a] deportable  - under  adjudication by ij [8g] expedited  removal -  credible fear  referral [2b] deportable  - under  adjudication by  bia           05/09/12 [3] deportable -  administratively  final order  12/17/08 [3] deportable -  administratively  final order  06/25/99 [8c] excludable  / inadmissible -  administrative  final order issued 07/07/09 [8c] excludable  / inadmissible -  administrative  final order issued  357  piecing together the us immigrant detention puzzleappendix b.
+
+
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  detention  facility  days in  custody  1,384  corr.
+corp.
+
+
+of  america - san  diego el centro spc 1,383  final  order  yes  yes  corr.
+corp.
+
+
+of  america - san  diego  etowah  county jail  (al)  adelanto  correction- al facility  1,380  yes  1,376  yes  1,363  yes  1,362  no  1,351  no  1,349  yes  citizenship  criminal  india  yes  jamaica  yes  most serious  criminal  charge kidnapping  marijuana -  possession  el  salvador  yes  dangerous  drugs  guyana  yes  marijuana -  possession  el  salvador  yes  dangerous  drugs  mexico  yes  vietnam  yes  dominican  republic  yes  eloy federal  contract fac  driving under  influence  liquor drugs -  health or  safety cocaine - sell hudson   florence spc  county jail  nigeria  yes  sex offense  cape  verde  nicara- gua  yes  dangerous  drugs  no     corr.
+corp.
+
+
+of  america - san  diego etowah  county jail  (al) eloy federal  contract fac  1,348  no  1,345  yes  1,341  yes  358  case category  final  order  date 03/16/10 [3] deportable -  administratively  final order  11/08/11  08/31/10 [3] deportable -  administratively  final order [8c] excludable  / inadmissible -  administrative  final order issued 02/22/12 [8c] excludable  / inadmissible -  administrative  final order issued [8c] excludable  / inadmissible -  administrative  final order issued [2a] deportable -  under adjudication  by ij [2a] deportable -  under adjudication  by ij  05/06/11        07/27/12 [8c] excludable  / inadmissible -  administrative  final order issued [2b] deportable -  under adjudication  by bia     03/19/12 [3] deportable -  administratively  final order  07/20/12 [8c] excludable  / inadmissible -  administrative  final order issued  journal on migration and human securityappendix b.
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  detention  facility  northwest  det.
+
+
+center  days in  custody  final  order  1,339  no  final  order  date  citizenship  criminal  philippines yes  india  yes  guinea  yes  vietnam  yes  most serious  criminal  charge driving under  influence  liquor sex offense  against  child- fondling fraud  aggravated  assault -  weapon  mexico  yes  assault  mexico  yes  dangerous  drugs  eloy federal  contract fac  1,331  no  etowah  county jail  (al)  boone  county jail  1,321  yes  1,298  yes  corr.
+corp.
+
+
+of  america - san  diego eloy federal  contract fac  1,293  yes  1,293  yes  case category  [2b] deportable -  under adjudication  by bia [2a] deportable -  under adjudication  by ij  09/17/09 [8c] excludable  / inadmissible -  administrative  final order issued 04/26/06 [8c] excludable  / inadmissible -  administrative  final order issued [3] deportable -  administratively  final order  06/11/10  07/19/10 [3] deportable -  administratively  final order [8d] excludable  / inadmissible -  under adjudication  by bia     06/24/10 [8c] excludable  / inadmissible -  administrative  final order issued [2a] deportable -  under adjudication  by ij     08/09/10 [3] deportable -  administratively  final order [8g] expedited  removal - credible  fear referral     359  el  salvador  yes  arson  eloy federal  contract fac  1,292  no  el  salvador  yes  assault  montgomery  county jail  1,277  yes  egypt  yes  neglect  family  essex county  jail  1,270  no  mexico  yes  marijuana -  sell  eloy federal  contract fac  1,269  yes  uruguay  no     1,269  no  corr.
+corp.
+
+
+of  america - san  diego  piecing together the us immigrant detention puzzleappendix b.
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  most serious  criminal  charge  detention  facility  citizenship  criminal  guate- mala  no  days in  custody  1,253  final  order  yes  1,249  no  corr.
+
+
+corp.
+of  america - san  diego el paso spc  mexico  yes  identity theft  jamaica  yes  mexico  yes  cocaine -  possession  dangerous  drugs  corr.
+
+
+corp.
+of  america - san  diego eloy federal  contract fac  1,244  yes  1,244  yes  tonga  yes  vehicle theft  eloy federal  contract fac  1,233  yes  cambodia no     mexico  yes  amphetamine  - possession  1,229  adelanto  correction- al facility el centro spc 1,212  yes  yes  el  salvador  yes  assault  montgomery  county jail  1,208  no  yemen  yes  rape -  strongarm  eloy federal  contract fac  1,202  no  nigeria  yes  possession of  weapon  south texas  detention  complex  1,191  yes  kenya  yes  guate- mala  yes  driving under  influence  liquor burglary  houston  contract  det.
+
+
+fac.
+adelanto  correction- al facility  1,188  no  1,186  no  360  case category  final  order  date 04/12/09 [16] reinstated   final order  [8b] excludable  / inadmissible -  under adjudication  by ij  08/07/12 [3] deportable -  administratively  final order [3] deportable -  administratively  final order  08/31/11  10/26/10 [8c] excludable  / inadmissible -  administrative  final order issued  08/03/11  03/29/07 [3] deportable -  administratively  final order [3] deportable -  administratively  final order [2b] deportable -  under adjudication  by bia [2a] deportable -  under adjudication  by ij           03/16/12 [8c] excludable  / inadmissible -  administrative  final order issued [2b] deportable -  under adjudication  by bia [8d] excludable  / inadmissible -  under adjudication  by bia     journal on migration and human securityappendix b.
+
+
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  citizenship  criminal  dem rep of  the congo  yes  most serious  criminal  charge harassing  communica- tion  detention  facility  days in  custody  buffalo spc  1,180  final  order  yes  mexico  no  el paso spc  1,177  no  fiji  yes  assault  el centro spc 1,174  yes  nicara- gua  yes  dangerous  drugs  nigeria  yes  sex assault  el  salvador  yes  larceny  1,173  no  1,173  yes  1,167  no  adelanto  correction- al facility  hampton  roads  regional jail corr.
+corp.
+
+
+of  america - san  diego  cuba  yes  homicide  krome north  spc  1,165  yes  mexico  yes  synthetic  narcotic - sell  eloy federal  contract fac  1,164  no  jamaica  yes  dangerous  drugs  etowah  county jail  (al)  1,159  yes  jamaica  yes  contempt of  court  irwin county  sheriff  1,159  no  nicara- gua mexico  yes  yes  burglary  henderson  detention cocaine - sell el paso spc  1,159  yes  1,157  no  case category  final  order  date 04/13/12 [3] deportable -  administratively  final order [2a] deportable  - under  adjudication by ij  03/09/12 [3] deportable -  administratively  final order [2b] deportable  - under  adjudication by  bia        11/08/10  05/29/12 [3] deportable -  administratively  final order [8d] excludable  / inadmissible  - under  adjudication by  bia [3] deportable -  administratively  final order [2a] deportable  - under  adjudication by ij 10/12/10 [8c] excludable  / inadmissible -  administrative  final order issued [2b] deportable  - under  adjudication by  bia [16] reinstated  final order [2a] deportable  - under  adjudication by ij  07/29/11           361  piecing together the us immigrant detention puzzleappendix b.
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  citizenship  criminal  jamaica  yes  most serious  criminal  charge assault  detention  facility  days in  custody  el paso spc  1,154  final  order  yes  el  salvador  yes  trespassing  1,150  no  stewart  detention  center  jamaica  yes  dangerous  drugs  pike county  jail  1,150  no  mexico  yes  compounding  crime  el centro spc 1,149  no  nicara- gua  yes  sex assault  essex county  jail  1,144  yes  jamaica  yes  robbery  northwest  det.
+
+
+center  1,143  no  mexico  yes  cocaine - sell corr.
+corp.
+
+
+of  america - san  diego  1,143  yes  bangla- desh  yes  shoplifting  jamaica  yes  dangerous  drugs  corr.
+corp.
+
+
+of  america - san  diego buffalo spc  1,139  yes  1,136  yes  mexico  yes  fraud  el paso spc  1,122  no  mexico  yes  intimidation  russia  yes  driving under  influence  liquor  theo lacy  facility  northwest  det.
+center  1,117  no  1,114  yes  362  case category  final  order  date 05/14/12 [3] deportable -  administratively  final order [8b] excludable  / inadmissible -  under adjudication  by ij [2a] deportable -  under adjudication  by ij [2b] deportable -  under adjudication  by bia [3] deportable -  administratively  final order [2a] deportable -  under adjudication  by ij [8c] excludable  / inadmissible -  administrative  final order issued  04/28/11  06/10/11        03/16/10 [3] deportable -  administratively  final order     07/01/10 [8c] excludable  / inadmissible -  administrative  final order issued [2a] deportable -  under adjudication  by ij [3] deportable -  administratively  final order [3] deportable -  administratively  final order  07/29/11     journal on migration and human securityappendix b.
+
+
+(continued) list of immigrants detained for  more than three years, september 22, 2012 (112 detainees)  source: cms analysis of dhs-ice dataset for september 22, 2012.
+detention  facility  days in  custody  el centro spc 1,109  final  order  yes  final  order  date 05/19/11  citizenship  criminal  mexico  yes  mexico  yes  mexico  yes  ecuador  yes  poland  yes  brazil  yes  most serious  criminal  charge aggravated  assault -  weapon dangerous  drugs  flight to  avoid  (prosecution,  confinement,  etc.
+
+
+) dangerous  drugs  firing  weapon  stolen  property  mexico  yes  aggravated  assault - gun  northwest  det.
+center  1,103  no  eloy federal  contract fac  1,103  yes  etowah  county jail  (al) kenosha  county jail  etowah  county jail  (al) eloy federal  contract fac  1,102  yes  1,102  yes  1,096  yes  1,096  no  case category  [3] deportable -  administratively  final order [2b] deportable  - under  adjudication by  bia  02/14/12 [8c] excludable  / inadmissible -  administrative  final order issued  05/24/12 [3] deportable -  administratively  final order [3] deportable -  administratively  final order  09/28/11  10/19/10 [3] deportable -  administratively  final order [8b] excludable  / inadmissible  - under  adjudication by ij     363  piecing together the us immigrant detention puzzleappendix  c.
+
+
+number  of  detainees  with  criminal  convictions  listed  by  offense  category,  september  22,  2012   offense category  dangerous drugs traffic offenses assault immigration larceny robbery sexual assault fraudulent activities burglary weapon offenses public peace general crimes sex offenses (not involving assault or  commercialized sex) forgery family offenses obstructing judiciary congress legislature or a  commission obstructing the police invasion of privacy homicide stolen property stolen vehicle kidnapping uncategorized damage property commercialized sexual offenses health-safety flight  escape liquor threat exploitation/enticement money laundering arson embezzlement conservation extortion gambling  364  number of  detainees 5,480 4,865 1,894 1,702 968 654 522 487 478 430 417 399 348  percent of detainees with  criminal convictions 25.
+6% 22.
+
+
+7% 8.
+8% 8.
+
+
+0% 4.
+5% 3.
+
+
+1% 2.
+4% 2.
+
+
+3% 2.
+2% 2.
+
+
+0% 1.
+9% 1.
+
+
+9% 1.
+6%  323 296 254  245 232 202 167 157 151 146 98 85 73 72 57 53 25 25 21 13 11 9 9  1.
+
+
+5% 1.
+4% 1.
+
+
+2%  1.
+1% 1.
+
+
+1% 0.
+9% 0.
+
+
+8% 0.
+7% 0.
+
+
+7% 0.
+7% 0.
+
+
+5% 0.
+4% 0.
+
+
+3% 0.
+3% 0.
+
+
+3% 0.
+2% 0.
+
+
+1% 0.
+1% 0.
+
+
+1% 0.
+1% 0.
+
+
+1% 0.
+0% 0.
+
+
+0%  journal on migration and human securityappendix  c.
+(continued)  number  of  detainees  with  criminal  convictions  listed  by  offense  category,  september 22, 2012   offense category  obscenity smuggling juvenile offenders tax revenue bribery civil rights sovereignty total sources: cms analysis of dhs-ice dataset for september 22, 2012; dhs-ice 2013b.
+
+
+number of  detainees 9 9 8 7 4 2 1 21,408  percent of detainees with  criminal convictions 0.
+0% 0.
+
+
+0% 0.
+0% 0.
+
+
+0% 0.
+0% 0.
+
+
+0% 0.
+0% 100.
+
+
+0%  appendix  d.
+number  of  detainees  with  criminal  convictions  listed  by  individual  crime,  september  22,  2012  most serious criminal charge  ncic code  driving under influence liquor traffic offense illegal entry (ina sec.
+
+
+101(a)(43)(o), 8usc1325 only) marijuana  possession cocaine  possession assault dangerous drugs larceny cocaine  sell robbery marijuana  sell burglary drug possession disorderly conduct sex assault public order crimes domestic violence fraud trespassing amphetamine  possession battery  5404 5499 0301 3562 3532 1399 3599 2399 3530 1299 3560 2299 35aa 5311 1199 7399 13ab 2699 5707 3572 13aa  number of  detainees 3,017 1,680 1,393 1,089 878 875 804 739 547 487 398 391 371 338 299 280 247 247 226 218 208  percent  14.
+09% 7.
+
+
+85% 6.
+51% 5.
+
+
+09% 4.
+10% 4.
+
+
+09% 3.
+76% 3.
+
+
+45% 2.
+56% 2.
+
+
+27% 1.
+86% 1.
+
+
+83% 1.
+73% 1.
+
+
+58% 1.
+40% 1.
+
+
+31% 1.
+15% 1.
+
+
+15% 1.
+06% 1.
+
+
+02% 0.
+97%  365  piecing together the us immigrant detention puzzleappendix  d.
+
+
+(continued)  number  of  detainees  with  criminal  convictions  listed  by  individual  crime,  september 22, 2012  most serious criminal charge  ncic code  forgery weapon offense drug trafficking shoplifting narcotic equip  possession aggravated assault  weapon amphetamine  sell cruelty toward wife sex offense marijuana homicide immigration (possess of fraud.
+immigration docs) hit and run resisting officer smuggling aliens simple assault cocaine possession of weapon sex offense against child-fondling obstruct police vehicle theft cruelty toward child failure to appear identity theft fraud  impersonating cocaine  smuggle damage property heroin  sell carrying concealed weapon marijuana  smuggle fraud - false statement stolen property aggravated assault - family-strongarm drugs - health or safety illegal re-entry (ina sec.
+
+
+101(a)(43)(o), 8usc1326 only) prostitution rape  strongarm  366  2589 5299 35ab 2303 3550 1315 3571 3803 3699 3564 0999 0399 5401 4801 0303 1313 3533 5212 3601 4899 2404 3802 5015 70aa 2604 3531 2999 3510 5202 3561 2607 2899 1303 5503 03ab 4004 1103  number of  detainees 206 202 195 190 166 156 143 128 121 117 115 111 108 107 104 99 95 94 94 88 88 86 85 85 84 79 73 71 70 70 68 66 65 64 63 63 61  percent  0.
+96% 0.
+
+
+94% 0.
+91% 0.
+
+
+89% 0.
+78% 0.
+
+
+73% 0.
+67% 0.
+
+
+60% 0.
+57% 0.
+
+
+55% 0.
+54% 0.
+
+
+52% 0.
+50% 0.
+
+
+50% 0.
+49% 0.
+
+
+46% 0.
+44% 0.
+
+
+44% 0.
+44% 0.
+
+
+41% 0.
+41% 0.
+
+
+40% 0.
+40% 0.
+
+
+40% 0.
+39% 0.
+
+
+37% 0.
+34% 0.
+
+
+33% 0.
+33% 0.
+
+
+33% 0.
+32% 0.
+
+
+31% 0.
+30% 0.
+
+
+30% 0.
+29% 0.
+
+
+29% 0.
+28%  journal on migration and human securityappendix  d.
+
+
+(continued)  number  of  detainees  with  criminal  convictions  listed  by  individual  crime,  september 22, 2012  most serious criminal charge  ncic code  crimes against person receive stolen property heroin  possession aggravated assault - non-family-weapon driving under influence drugs false imprisonment kidnapping lewd or lascivious acts with minor flight to avoid (prosecution, confinement, etc.
+) property crimes threat terroristic state offenses violation of a court order contempt of court sex assault - carnal abuse public peace amphetamine burglary - forced entry-residence aggravated assault - non-family-strongarm possession forged (identify in comments) statutory rape - no force aggravated assault - family-weapon robbery - street-weapon possession stolen property fraud - illegal use credit cards synthetic narcotic  sell harassing communication rape  remarks robbery - street-gun aggravated assault  gun obstructing justice family offense intimidation molestation of minor synthetic narcotic  possession false citizenship indecent exposure liquor  possession  7099 2803 3512 1305 5403 10aa 1099 3616 4902 7199 1602 5016 5005 1117 5399 3573 2202 1306 2506 1116 1302 1205 2804 2605 3540 5309 1198 1204 1314 5006 3899 1316 3618 3542 0302 3605 4104  number of  detainees 60 60 59 58 58 57 56 56 55 52 50 49 47 46 45 39 38 37 37 36 35 34 33 31 31 30 30 30 29 29 28 28 28 28 26 26 26  percent  0.
+
+
+28% 0.
+28% 0.
+
+
+28% 0.
+27% 0.
+
+
+27% 0.
+27% 0.
+
+
+26% 0.
+26% 0.
+
+
+26% 0.
+24% 0.
+
+
+23% 0.
+23% 0.
+
+
+22% 0.
+21% 0.
+
+
+21% 0.
+18% 0.
+
+
+18% 0.
+17% 0.
+
+
+17% 0.
+17% 0.
+
+
+16% 0.
+16% 0.
+
+
+15% 0.
+14% 0.
+
+
+14% 0.
+14% 0.
+
+
+14% 0.
+14% 0.
+
+
+14% 0.
+14% 0.
+
+
+13% 0.
+13% 0.
+
+
+13% 0.
+13% 0.
+
+
+12% 0.
+12% 0.
+
+
+12%  367  piecing together the us immigrant detention puzzleappendix d.
+(continued) number of detainees with  criminal convictions listed by individual crime,  september 22, 2012  most serious criminal charge  ncic code  making false report money laundering-remarks probation violation unauthorized use of vehicle (includes joy riding) carrying prohibited weapon firing weapon liquor neglect child aggravated assault - police officer-strongarm fraud - insufficient funds check homicide-negligent manslaughter-vehicle robbery - street-strongarm aggravated assault - non-family-gun conspiracy [use when no underlying offense, such as 18 u.
+
+
+s.
+c.
+
+
+sec.
+371] voluntary  manslaughter burglary tools  possession forgery of (identify in comments) licensing violation sex assault - sodomy-girl-strongarm neglect family counterfeiting heroin heroin  smuggle arson fraud by wire larceny - from auto robbery - business-gun robbery - residence-gun possession counterfeited (identify in comments) stolen vehicle forgery of checks homicide-negligent manslaughter-weapon kidnap adult burglary - forced entry-non-residence abduct-no ransom or assault burglary - no forced entry-residence contributing to delinquency of minor  368  4803 6300 5012 2411 5203 5213 4199 3806 1312 2606 0909 1206 1304 92aa 09aa 2206 2502 79aa 1114 3801 2599 3513 3511 2099 2608 2305 1201 1207 2507 2499 2501 0910 1006 2203 1008 2204 3805  number of  detainees 26 25 25 25 24 24 24 24 23 23 23 22 20 20 19 18 18 18 18 17 16 16 16 15 15 15 15 15 14 14 13 13 13 12 11 11 11  percent  0.
+
+
+12% 0.
+12% 0.
+
+
+12% 0.
+12% 0.
+
+
+11% 0.
+11% 0.
+
+
+11% 0.
+11% 0.
+
+
+11% 0.
+11% 0.
+
+
+11% 0.
+10% 0.
+
+
+09% 0.
+09% 0.
+
+
+09% 0.
+08% 0.
+
+
+08% 0.
+08% 0.
+
+
+08% 0.
+08% 0.
+
+
+07% 0.
+07% 0.
+
+
+07% 0.
+07% 0.
+
+
+07% 0.
+07% 0.
+
+
+07% 0.
+07% 0.
+
+
+07% 0.
+07% 0.
+
+
+06% 0.
+06% 0.
+
+
+06% 0.
+06% 0.
+
+
+05% 0.
+05% 0.
+
+
+05%  journal on migration and human securityappendix d.
+(continued) number of detainees with  criminal convictions listed by individual crime,  september 22, 2012  most serious criminal charge  ncic code  damage property  private damage property  public embezzle flight  escape theft and use vehicle other crime hallucinogen  sell mail fraud sexual exploitation of minor - sex performance carjacking-armed failure report crime homicide-willful kill-gun indecent exposure to minor robbery - business weapon robbery - residence-strongarm robbery - residence-weapon theft of us government property burglary - no forced entry-non-residence commercial sex escape from custody health  safety procure for prostitute who is an adult rape  disabled robbery - banking-type institution smuggling weapon trafficking amphetamine  manufacturing counterfeiting of (identify in comments) fraud  swindle gang activity homicide-willful kill-weapon morals - decency crimes possession stolen vehicle racketeer influenced and corrupt organizations act (rico) hallucinogen  possession homicide-willful kill-non-family-weapon obstructing court order opium or derivatives  possession  2902 2903 2799 4999 2403 3503 2603 6405 1212 4812 0911 3614 1202 1209 1208 2314 2205 4099 8100 5599 4008 1119 1211 5899 5217 3570 2503 2602 77aa 0912 7299 2408 74aa 3504 0904 5007 3522  number of  detainees 11 11 11 11 11 10 10 10 9 9 9 9 9 9 9 9 8 8 8 8 8 8 8 8 8 7 7 7 7 7 7 7 7 6 6 6 6  percent  0.
+
+
+05% 0.
+05% 0.
+
+
+05% 0.
+05% 0.
+
+
+05% 0.
+05% 0.
+
+
+05% 0.
+05% 0.
+
+
+04% 0.
+04% 0.
+
+
+04% 0.
+04% 0.
+
+
+04% 0.
+04% 0.
+
+
+04% 0.
+04% 0.
+
+
+04% 0.
+04% 0.
+
+
+04% 0.
+04% 0.
+
+
+04% 0.
+04% 0.
+
+
+04% 0.
+04% 0.
+
+
+04% 0.
+03% 0.
+
+
+03% 0.
+03% 0.
+
+
+03% 0.
+03% 0.
+
+
+03% 0.
+03% 0.
+
+
+03% 0.
+03% 0.
+
+
+03% 0.
+03% 0.
+
+
+03%  369  piecing together the us immigrant detention puzzleappendix d.
+(continued) number of detainees with  criminal convictions listed by individual crime,  september 22, 2012  most serious criminal charge  ncic code  pass forged (identify in comments) perjury robbery - business-strongarm sex assault - sodomy-woman-strongarm sexual exploitation of minor - material - photograph synthetic narcotic tax revenue witness  dissuading enticement of minor for indecent purposes extortion hallucinogen  distribution homicide-willful kill-non-family-gun immigration (trafficking of fraud.
+
+
+immigration documents) invade privacy kidnap adult to sexually assault larceny - from building liquor  sell peeping tom possession tools for forgery/counterfeiting procure for prostitute (pimping) sex assault - sodomy-boy-strongarm theft and sale vehicle aggravated assault - family-gun compounding crime conceal stolen property conservation  environment extortion - threat injure person gambling incest with minor kidnap minor obstruct (specify judiciary, congress, legislature, commission in comments) terrorism aggravated assault - police officer-weapon aggravated assault - public officer-strongarm assembly  unlawful bribery  2504 5003 1203 1115 6402 3543 6199 4805 6410 2199 3502 0903 03aa 5799 1004 2308 4102 3611 2508 4002 1112 2401 1301 4808 2805 6205 2101 3999 3604 1005 5099 76aa 1311 1309 5307 5199  number of  detainees 6 6 6 6 6 6 6 6 5 5 5 5 5 5 5 5 5 5 5 5 5 5 4 4 4 4 4 4 4 4 4 4 3 3 3 3  percent  0.
+03% 0.
+
+
+03% 0.
+03% 0.
+
+
+03% 0.
+03% 0.
+
+
+03% 0.
+03% 0.
+
+
+03% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+02% 0.
+
+
+02% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01%  370  journal on migration and human securityappendix d.
+(continued) number of detainees with  criminal convictions listed by individual crime,  september 22, 2012  most serious criminal charge  ncic code  conservation  animals conservation  fish damage property  business escape (identify type institution in comments) federal-material witness harboring escapee/fugitive human slavery or trafficking larceny - from banking-type institution larceny - from mails obscene obscene material  possession refusing to aid officer sex assault  disabled sexual assault - drug-induced synthetic narcotic  smuggle transport interstate stolen property aggravated assault - public officer-weapon arson  residence burning of (identify object in comments) civil rights false imprisonment-minor-nonparental homicide-willful kill-family-weapon homicide-willful kill-police officer-weapon indecent exposure to adult larceny - parts from vehicle liquor  transport obscene communication opium or derivatives rape - drug-induced rape with weapon receiving stolen vehicle selling weapon sex assault  elderly theft vehicle by bailee threat to bomb transmit wager information  6201 6202 2901 4901 1702 4904 75aa 2311 2310 3799 3704 4807 1121 1123 3541 2802 1308 2006 2007 5699 1020 0902 0908 3615 2304 4103 3707 3523 1122 1102 2406 5214 1120 2405 5215 3920  number of  detainees 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2  percent  0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01% 0.
+
+
+01% 0.
+01%  371  piecing together the us immigrant detention puzzleappendix d.
+
+
+(continued) number of detainees with  criminal convictions listed by individual crime,  september 22, 2012  most serious criminal charge  ncic code  transport interstate for sexual activity transporting dangerous material aggravated assault - police officer-gun aggravated assault - public officer-gun aircraft theft altering identification on weapon arson  business arson - business-endangered life bail - personal recognizance bail - secured bond barbiturate  possession barbiturate  sell bribe computer crimes conditional release violation conservation cruelty toward disabled cruelty toward elderly dice game drugs  adulterated eavesdropping embezzle - banking-type institution embezzle - public property (u.
+s.
+
+
+, state, city property) enticement of minor for indecent purposes - via telecommunications establish gambling place evidence  destroying explosives  transporting explosives  using false imprisonment-minor-parental forcible purse snatching fraud - confidence game fraud and abuse  computer hallucinogen  manufacturing homicide-willful kill-public official-gun kidnap adult for ransom kidnap-hijack aircraft  3622 5402 1310 1307 2410 5201 2005 2001 5002 5001 3582 3581 5104 93aa 5013 6299 3810 3809 3907 5501 5704 2703 2704 6408 3921 4804 5205 5206 1021 1210 2601 2609 3501 0905 1002 1009  number of  detainees 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  percent  0.
+01% 0.
+
+
+01% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00%  372  journal on migration and human securityappendix d.
+(continued) number of detainees with  criminal convictions listed by individual crime,  september 22, 2012  most serious criminal charge  ncic code  larceny - from shipment licensing - registration weapon lottery  operating obscene material obstruct correspondence (postal violation) obstruct criminal invest opium or derivatives  sell opium or derivatives  smuggle procure for prostitute who is a minor riot - interfere officer sale of stolen property sales tax sex assault - sodomy-man-strongarm sex offense  disabled sexual exploitation of minor - exhibition of minor sexual exploitation of minor - material - film sexual exploitation of minor - via telecommunications smuggle contraband strip stolen vehicle structuring theft and strip vehicle transport forged (identify in comments) treason misprision  2306 5210 3915 3700 2313 4802 3520 3521 4007 5305 2801 6102 1113 3621 6404 6403 6406 5801 2407 63aa 2402 2509 0102 total  number of  detainees 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 21,408  percent  0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00% 0.
+00% 0.
+
+
+00%  note: the four-digit codes for the following 16 categories were obtained from an internal ice document  titled ice criminal offense levels business rules: battery, computer crimes, conspiracy [use when no  underlying offense, such as 18 u.
+s.
+
+
+c.
+sec.
+
+
+371], domestic violence, drug possession, drug trafficking,  false imprisonment, gang activity, human slavery or trafficking, identity theft, illegal re-entry (ina  sec.
+101(a)(43)(o), 8usc1326 only), immigration (trafficking of fraud.
+
+
+immigration documents),  racketeer influenced and corrupt organizations act (rico), structuring, terrorism, and voluntary   manslaughter.
+note: the categories listed under most serious criminal charge are provided verbatim from the dhs- ice database and may contain statements (e.
+
+
+g.
+, identify in comments) unrelated to the cms analysis.
+
+
+sources: cms analysis of dhs-ice dataset for september 22, 2012; dhs-ice 2013b; ssa 2015.
+
+

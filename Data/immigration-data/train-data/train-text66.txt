@@ -1,0 +1,1708 @@
+not just the facts: adjudicator  bias and decisions of the  immigration and refugee board of  canada (2006-2011)  innessa colaiacovo1 brown university   executive summary  the immigration and refugee board of canada (irb) is canadas largest  administrative tribunal.
+the refugee protection division (rpd) of the irb  is responsible for the adjudication of refugee claims made in canada.
+
+
+in  accordance  with  its  obligations  under  international  law,  canada  grants  protection to persons who have a well-founded fear of persecution because of  race, nationality, religion, political opinion, or membership in a particular  social group.
+in addition, a person may request protection in canada on the  basis of his or her fear of torture, risk to life or risk of cruel and unusual  treatment  or  punishment.
+
+
+acceptance  (approval)  rates  of  claims  vary  widely across members of the irb, with some granting asylum in less than  10 percent of cases, and others granting asylum in more than 90 percent  of cases.
+despite this fact, there is a lack of analysis exploring whether  grant rates vary systematically in relationship to observed characteristics  of  adjudicators.
+
+
+this  paper  presents  statistical  analysis  of  over  68,000  refugee claims adjudicated by 264 members of the board from 2006 to 2011.
+it  finds  that  the  probability  of  acceptance  is  associated  with  individual  members  characteristics  including  education,  gender,  and  professional  experience, when holding constant the claimants country of origin, gender,  and the year and regional office of adjudication.
+
+
+the findings suggest that  the identity of the adjudicator affects whether or not an individual receives  asylum.
+1  i am grateful to rachel friedberg for her valuable guidance, comments, and suggestions.
+
+
+any mistakes that  remain are my own.
+2013 by the center for migration studies of new york.
+
+
+all rights reserved.
+jmhs volume 1 number 4 (2013): 122-147introduction in 1969 canada ratified the united nations convention relating to the status of refugees  and its protocol.
+
+
+to meet its important obligations under international law, canada must  provide  protection  to  persons  who  have  a  well-founded  fear  of  persecution  because  of  race, nationality, religion, political opinion, or membership in a particular social group.
+in addition, a person may request protection in canada on the basis of his or her fear of  torture, risk to life or risk of cruel and unusual treatment or punishment.
+
+
+since 1989, refugee protection claimants have had the right to a hearing before the refugee  protection division (rpd) of the immigration and refugee board of canada (irb).
+in  recent years, the irb has come under scrutiny for wide variation in asylum grant rates  among individual board members.
+
+
+some board members grant status in nearly all claims  that they adjudicate, while others almost never grant status (rehaag 2008; schmitz 2011;  sheppard 2012a).
+in an explanatory note published in 2008, the irb states that disparities  in board member grant rates are attributable to the diversity of cases with which each board  member is confronted.
+
+
+2  this paper investigates whether the gender, ethnicity, education and prior work experience  of  adjudicators  influence  the  probability  that  a  refugee  claim  is  successful  in  canada.
+to  address  this  question,  data  on  board  member  characteristics  was  compiled  from  government  press  releases  and  linked  to  administrative  records  of  over  68,000  refugee  claims adjudicated from 2006 to 2011 which were made publicly available through access  to information requests.
+
+
+the analysis concludes that, holding constant all available information about the claim  (claimants  gender,  country  of  origin,  and  the  year  and  office  in  which  the  claim  was  adjudicated), the probability that a claim is accepted (approved) is correlated with the board  members characteristics.
+otherwise stated, acceptance or denial of claims is partially a  function of factors that are unrelated to the claim itself.
+
+
+canadas refugee status determination system  this  section  provides  background  on  the  canadian  refugee  determination  system  as  it  operated  between  2006  and  2011.
+the  current  system  (from  2012  onward)  differs  substantially due to reforms passed in 2010 and 2012.
+
+
+there are two principal routes to accessing refugee protection in canada: the selection  of refugees abroad and the determination of refugee claims made from within canada,  also  referred  to  as  inland  claims  (becklumb  2008).
+overseas  refugees  are  selected  for  admission to canada as permanent residents on humanitarian grounds and sponsored for  resettlement  by  the  government  or  non-governmental  agencies.
+
+
+the  immigration  and  refugee  protection  act  provides  for  the  protection  of  inland  claimants  who  establish  that they are either convention refugees or persons in need of protection, defined as   2  the explanatory note on members decisions is available online at: http://ccrweb.
+ca/documents/rehaag/11.
+
+
+irbexplanatorynote.
+pdf  123  adjudicator bias and decisions of the irb canada (2006-2011)individuals  whose  removal  to  their  country  of  origin  would  subject  them  to  danger  of  torture, cruel and unusual treatment or punishment or risk to life.
+
+
+3 this paper is concerned  with  inland  refugee  claims  and  decisions  rendered  by  the  refugee  protection  division  (rpd) of the irb.
+the irb is canadas largest administrative tribunal, rendering decisions in over 40,000  refugee and immigration matters each year (public service commission of canada 2009).
+
+
+refugee  claims  are  heard  by  the  rpd,  which  has  offices  in  five  major  cities: toronto,  montreal, ottawa, vancouver, and calgary.
+in addition, the montreal office sends board  members to halifax, nova scotia roughly biannually to hear claims in the maritime region.
+
+
+each claim is adjudicated by one board member.
+irb members are appointed by the governor in council based on the recommendation  of the minister of citizenship and immigration canada (public service commission of  canada 2009, ii).
+
+
+board members in the study sample were administered written tests,  screened  and  interviewed  by  irb  officials,  external  experts  and  panels  representative  of  canadians,  before  being  recommended  by  the  minister  for  appointment  (public  appointments commission secretariat 2007).
+a claim for refugee protection can be made either at a port of entry or at an office of  citizenship and immigration canada.
+
+
+if a claimant is found eligible by an immigration  officer to make a claim for protection, the claim is referred to the irb for determination  and the claimant is issued an order of conditional removal which takes effect if the claim  is rejected.
+there are both principal and derivative claims to persecution.
+
+
+for example, if  a woman fears persecution based on her activities as a member of a political opposition  group and her husband alleges persecution based on his wifes activities, then hers is the  principal claim and his is the derivative claim, and both claims are adjudicated in the same  hearing.
+a derivative claim can only be well-founded if the principal claim is determined to  be well-founded.
+
+
+4 at a refugee determination hearing, a claimant is entitled to a designated  representative.
+this representative does not have to be a lawyer.
+
+
+once a board member hears a case, he or she can accept the claim upon the conclusion  of the hearing or in a written decision mailed to the claimant at a later date.
+in the case  of a positive decision, no written reasons are required from the board member.
+
+
+negative  decisions are always sent by mail, and must be accompanied by written explanation.
+a fast-track expedited process is used to decide on claims of certain types or countries of  origin (becklumb 2008).
+
+
+in this process, a claimant is interviewed by a refugee protection  officer  who  makes  a  recommendation  about  the  claim  to  a  board  member.
+the  board  member then decides whether to accept a claim with or without a full hearing.
+
+
+because the  expedited process is not solely at the discretion of the board member and results in different  outcomes (if the recommendation is not favorable, then a full hearing is held and there is  no immediate negative decision), these cases are excluded from this study.
+the immigration and refugee protection act provides for the creation of a refugee appeal   3  immigration and refugee protection act, sc 2001, c 27, http://canlii.
+
+
+ca/t/5243f.
+4  for the legal precedent, see klinko v.
+
+
+canada (minister of citizenship and immigration), [1998] f.
+c.
+
+
+j.
+no.
+
+
+561 (f.
+c.
+
+
+t.
+d.
+
+
+)  124  journal on migration and human securitydivision.
+however, the refugee appeal division was not implemented until december of  2012 through provisions of the balanced refugee reform act and the protecting canadas  immigration  system  act.
+
+
+5  prior  to  implementation,  failed  claimants  could  petition  the  federal  court  of appeal  for  judicial  review  of  the  rpds  decision  (becklumb  2008).
+6  applications for judicial review comprised a large portion of the total applications to the  court of appeal (5,298 out of 9,386 cases in 2010).
+
+
+however, in practice leave was rarely  granted.
+in 2010, only 14 percent of applications were granted leave to appeal (schmitz  2011).
+
+
+7 the absence of any other venue for appeal beyond federal court review means that  refugee hearings are essentially binding.
+research  on  asylum  outcomes  and  judicial  decision  making  this paper contributes to a growing body of empirical research on the outcome of asylum  applications.
+
+
+in  the  us  context,  a  2006  analysis  of  297,240  asylum  cases  (spanning  fiscal years 1994-2005) by the transactional records access clearinghouse at syracuse  university found large variation in the decision making of immigration judges, similar  to  that  observed  across  irb  adjudicators.
+the  study  reported  that  denial  rates  for  the  208 judges ranged from a low of 10 percent to a high of 98 percent (trac 2006).
+
+
+the  inclusion of immigration judge characteristics in analyses of decision making was part of a  seminal 2007 study entitled, refugee roulette: disparities in asylum adjudication.
+the  study examined 140,428 asylum cases adjudicated between january 1, 2000 and august 31,  2004 using logit specifications to test for the impact of immigration judge characteristics on  the probability of refugee claim success (ramji-nogales, schoenholtz, and schrag 2007).
+
+
+regression controls include the judges age, gender, previous employment, caseload and  cases per court, years on the bench, and the president whose attorney general appointed  the judge (396).
+in addition, regressions control for the number of dependents a refugee  claimant had in the united states, the national freedom ranking for the asylum seekers  country of origin, and the average weekly earnings in the immigration courts state.
+
+
+the  analysis found significant positive effects on grant probability if the judge had previous  experience  in  a  non-governmental  organization  or  was  female  and  significant  negative  effects if the judge had previously worked for the immigration and naturalization service  (ins) and other governmental departments.
+8  in canada, media attention has focused on the wide disparities between individual board  member grant rates, which were highlighted by the release of 2011 claims data by the  irb (sheppard 2012b).
+
+
+patterns in canadian refugee adjudication were addressed by sean   5  for more information on the legislative changes that established a refugee appeal division within the  irb, see: http://www.
+irb-cisr.
+
+
+gc.
+ca/eng/refapp/pages/radsarc31impact.
+
+
+aspx.
+6  in accordance with the federal courts act, the grounds for judicial review of decision of the rpd include:  the body acted without, beyond or refused to exercise its jurisdiction; failed to observe a principle of natural  justice or procedural fairness; erred in law in making its decision; based its decision on an erroneous finding  or fact; acted fraudulently or in any other way contrary to law (becklumb 2008).
+
+
+7  note that this percentage only represents the number of cases granted leave to appeal, not the percentage  of cases which are successfully appealed.
+8   these  results  are  available  on  the  studys  accompanying  website:  http://www.
+
+
+law.
+georgetown.
+
+
+edu/ humanrightsinstitute/refugeeroulette.
+htm.
+
+
+125  adjudicator bias and decisions of the irb canada (2006-2011)rehaags study of rpd decisions from 2006 which found that, while patterns in case  assignment do affect grant rates, they do not account for the full variations evident in the  data.
+rather,  outcomes  in  refugee  adjudication  appear  to  hinge,  at  least  in  part,  on  the  identity of the adjudicator assigned (rehaag 2008, 335).
+
+
+to reach this conclusion, rehaag  separated positive decisions from expedited positive decisions and focused on the board  members who had adjudicated the greatest number of cases from certain countries.
+the  analysis shows that individual board members deviate from the overall average grant rates  by large margins and deviations vary even among board members who are adjudicating  cases from the same country.
+
+
+for example, of the five board members who adjudicated  the greatest number of cases from china in 2006, one board member had a grant rate 27  percent above the board average while another had a grant rate 24 percent below (rehaag  2008).
+in a subsequent study, rehaag (2011) investigated the role of gender in hearings  conducted from 2004 to 2008 and found that the grant rate of female board members was  lower.
+
+
+the major limitation of this work is that no controls are added to account for the fact  that male and female board members may differ along other dimensions such as education  level or prior work experience.
+thus, the results could be driven by these omitted variables.
+
+
+this paper furthers the analysis of the boards decisions by using a larger, multi-year sample  and more sophisticated empirical techniques.
+the methodology allows the present analysis  to hold more case characteristics constant, examine the entire board for whom data was  available (not just the adjudicators hearing the most cases), and consider individual factors  that might influence the decision-making of adjudicators.
+
+
+the present analysis performs  regressions  that  include  gender  both  individually  and  along  with  other  board  member  characteristics.
+in addition, it uses a richer set of controls.
+
+
+rather than country-year grant  rates, this paper uses binary variables for country of origin and year of adjudication as  well as office of adjudication and claimant gender.
+rehaag concludes that, in canada,  male  adjudicators  were  6  percent  more  likely  to  grant  refugee  status  than  their  female  counterparts (rehaag 2011, 648).
+
+
+in fact, the present analysis shows that with a more  robust set of controls, the impact of gender is actually the opposite.
+a case has a higher  probability of success if the adjudicator is female.
+
+
+the  analysis  of  refugee  status  determinations  is  also  related  to  a  broader  literature  on  judicial decision-making.
+variation in the leniency of decision-makers has been used as  an instrumental variable in studies that seek to estimate the causal effects of interventions  such as criminal sentences (aizer and doyle 2011) and foster care placement (doyle 2007)  on  long-term  outcomes.
+
+
+several  studies  also  investigate  the  effect  of  individual  judge  characteristics on case outcomes.
+shayo and zussman (2011) analyzed decisions in israeli  small claims courts from 2000 to 2004 and found that a claim is 17 to 20 percent more  likely to be accepted if the judge is of the same ethnicity as the plaintiff, representing a  difference in award of $200 per case.
+
+
+in addition, they found that in the wake of a terrorist  attack, both arab and jewish judges favor plaintiffs of their own ethnicity.
+similarly, in the  context of bail decisions in israeli courts where judges are randomly assigned to defendants,  gazal-ayal and sulitzeanu-kenan found systematic evidence of ethnic in-group bias in  the decision to detain or release on bail (gazal-ayal and sulitzeanu-kenan 2010, 404),  though the methodology does not allow them to determine whether this is the result of  preferential  treatment  due  to  shared  ethnicity  or  punitive  treatment  of  outsiders.
+
+
+in  us  federal court cases, kulik, perry and pepper surveyed 143 judges adjudicating allegations   126  journal on migration and human securityof  sexual  harassment,  and  found  that  after  controlling  for  several  case  characteristics,  plaintiffs were more likely to win their cases if the judge was younger or if he had been  appointed by a democratic president (2003, 79).
+an advantage of these studies is that  assignment of cases to judges was random, and therefore disparities in grant rates should  not be attributable to case characteristics, since each case has an equal chance of being  assigned to a given judge.
+
+
+the issue of random versus non-random assignment of cases to  adjudicators will be addressed in the discussion of this papers methodology below.
+data  administrative data on refugee hearing outcomes from 2006 to 2011 was obtained by sean  rehaag through access to information requests and is available on the website of the  canadian  council  for  refugees  (http://ccrweb.
+
+
+ca).
+available  variables  vary  slightly  by  year but include a unique entry for each individual case with a file number, the decision  rendered, the date the decision was mailed, the claimants country of origin and gender, and  the name of the board member who adjudicated the case.
+
+
+for the years 2006 to 2010, the  data contain only the principal refugee claims, while the 2011 data contain both principal  and derivative claims.
+for 2009, 2010, and 2011, data on whether or not the case was  represented by counsel is also available.
+
+
+all of these variables are utilized in the analysis.
+according to the raw data released, there were 83,125 principal refugee claims filed with the  irb from 2006 to 2011, a subset of which is used in the analysis.
+
+
+the primary restrictions  on the data were the exclusion of claims without a board member identified (n=7,003) and  the exclusion of cases resulting in an outcome other than a positive or negative decision  (n=14,322).
+9 the cleaned dataset has 68,808 principal refugee claims made by claimants  from 189 countries and adjudicated by 264 board members.
+
+
+table 1 shows the number of  claims and the grant rate by office and year, and tables 2 and 3 show the top 25 countries  represented in the sample across all years by number of cases and grant rate, respectively.
+qualitative information about board members was obtained from online press releases  that were issued at the time of their appointment and/or reappointment.
+
+
+the majority of  the information came from the website of citizenship and immigration canada (http:// www.
+cic.
+
+
+gc.
+ca).
+
+
+older releases were obtained using archived copies of the website  retrieved from the internet archive.
+data was not available for all board members.
+
+
+of  the 264 board members in the entire sample, at least partial data was available for 230 of  them.
+the board members with missing information adjudicated a total of 3,439 cases, or  5 percent of the sample.
+
+
+the approval rate for cases heard by board members for whom  data was not available was 57 percent compared to 46 percent for the entire sample.
+this  higher grant rate is probably due in part to the fact that the average number of cases heard  by a board member with missing data was much lower than the average number heard by  the board members for whom data was available between 2006 and 2011: 101 compared  to 284.
+
+
+9  this includes mainly fast-track expedited claims, claims that were abandoned or discontinued, and claims  that were withdrawn.
+127  adjudicator bias and decisions of the irb canada (2006-2011)table 1: grant rate by office and year     toronto  montreal  vancouver  year 2006 2007 2008 2009 2010 2011  2006-2011  claims   (n) 4544 3407 4001 6592 8555 9842 36953  grant rate   (%) 54.
+
+
+80 58.
+70 55.
+
+
+10 52.
+20 47.
+
+
+70 47.
+30 51.
+
+
+10  claims   (n) 2196 1591 2071 3055 3605 3842 16366  grant rate   (%) 49.
+30 40.
+
+
+60 32.
+80 33.
+
+
+50 36.
+50 31.
+
+
+10 36.
+30  claims   (n) 620 460 607 805 973 1011 4479  grant rate   (%) 59.
+
+
+20 45.
+90 49.
+
+
+40 39.
+50 27.
+
+
+40 30.
+60 39.
+
+
+60       year 2006 2007 2008 2009 2010 2011  2006-2011        ottawa       calgary      national (all)  claims   (n) 129 191 330 377 450 219 1696  grant rate   (%) 64.
+30 72.
+
+
+80 80.
+60 79.
+
+
+30 70.
+90 28.
+
+
+80 68.
+90  claims   (n) 160 100 158 224 698 705 2045  grant rate   (%) 60.
+
+
+60 61.
+00 72.
+
+
+80 46.
+40 33.
+
+
+70 38.
+30 43.
+
+
+10  claims   (n) 10077 7104 7910 11369 15059 17259 68808  grant rate   (%) 51.
+10 51.
+
+
+00 47.
+90 47.
+
+
+10 43.
+00 41.
+
+
+40 45.
+80  notes: this table shows the number of claims adjudicated, and the grant rate (% of claims where  refugee status was granted) for each office in the year indicated.
+
+
+128  journal on migration and human securitytable 2: top 25 countries (number of cases), 2006-2011        mexico haiti china colombia nigeria sri lanka saint vincent india pakistan zimbabwe democratic republic of the congo el salvador saint lucia united states of america iran somalia turkey honduras albania jamaica ukraine israel russia lebanon guatemala  number of  cases (n)  share of all  cases (%)  grant  rate (%)  (1) 11181 6539 6464 4166 2484 2468 1815 1771 1362 1242 1093 1091 949 941 883 862 805 798 775 744 697 678 583 556 552  (2)  16.
+2507 9.
+
+
+5039 9.
+3949 6.
+
+
+0550 3.
+6103 3.
+
+
+5871 2.
+6380 2.
+
+
+5740 1.
+9796 1.
+
+
+8052 1.
+5886 1.
+
+
+5857 1.
+3793 1.
+
+
+3677 1.
+2834 1.
+
+
+2529 1.
+1700 1.
+
+
+1598 1.
+1264 1.
+
+
+0813 1.
+0130 0.
+
+
+9854 0.
+8473 0.
+
+
+8081 0.
+8023  (3)  15.
+
+
+6963 47.
+2396 58.
+
+
+6788 61.
+9539 54.
+
+
+8712 79.
+3760 38.
+
+
+6226 33.
+2016 52.
+
+
+1292 74.
+6377 63.
+
+
+8609 29.
+9725 40.
+
+
+5690 0.
+4251 81.
+
+
+0872 93.
+6195 63.
+
+
+4783 26.
+6917 44.
+
+
+3871 38.
+9785 60.
+
+
+1148 15.
+4867 68.
+
+
+2676 42.
+6259 35.
+
+
+5072  notes: this table shows the top 25 countries represented in the sample of all regular decision inland  refugee claims heard in canada 2006-2011 (n=68808).
+column (1) shows the total number of cases,  column (2) gives the share of total cases and column (3) gives the grant rate (or fraction of cases  from that country where refugee status was granted).
+
+
+129  adjudicator bias and decisions of the irb canada (2006-2011)table 3: grant rate of top 25 countries, 2006-2011      somalia north korea eritrea belarus myanmar (burma) uganda iran djibouti afghanistan sri lanka iraq sudan nepal ethiopia zimbabwe swaziland bulgaria azerbaijan kenya libya rwanda tanzania uzbekistan russia cote divoire  number of cases (n)  share of all cases (%) grant rate (%)  (1) 862 135 309 90 80 330 883 74 481 2468 463 74 316 488 1242 61 135 53 349 94 516 78 110 583 124  (2)  1.
+2529 0.
+
+
+1962 0.
+4491 0.
+
+
+1308 0.
+1163 0.
+
+
+4796 1.
+2834 0.
+
+
+1076 0.
+6991 3.
+
+
+5871 0.
+6729 0.
+
+
+1076 0.
+4593 0.
+
+
+7093 1.
+8052 0.
+
+
+0887 0.
+1962 0.
+
+
+0770 0.
+5072 0.
+
+
+1366 0.
+7500 0.
+
+
+1134 0.
+1599 0.
+
+
+8473 0.
+1802  (3)  93.
+
+
+6195 91.
+1111 87.
+
+
+7023 82.
+2222 81.
+
+
+2500 81.
+2121 81.
+
+
+0872 81.
+0811 80.
+
+
+6653 79.
+3760 78.
+
+
+4017 77.
+0270 76.
+
+
+8987 76.
+0246 74.
+
+
+6377 73.
+7705 73.
+
+
+3333 71.
+6981 71.
+
+
+3467 70.
+2128 70.
+
+
+1550 69.
+2308 69.
+
+
+0909 68.
+2676 65.
+
+
+3226  notes: this table shows the countries with the highest grant rate for inland refugee claims heard in  canada 2006-2011 (n=68803), of the countries with at least 50 refugee claims in the sample.
+column  (1) shows the total number of cases, column (2) gives the share of total cases and column (3) gives the  grant rate (or fraction of cases from that country where refugee status was granted).
+
+
+130  journal on migration and human securitya total of nine board member characteristics were recorded for the analysis.
+for each board  member, the following was recorded: gender; possession of a law degree; previous work  for the irb in another capacity or work for citizenship and immigration canada (cic);  previous work with refugees or immigrants; previous work for human rights organizations;  previous work in law enforcement; other adjudication experience; education outside of  canada and the united states; and date of appointment to the board.
+
+
+for a minority of board members, the appointment date was explicitly specified in the  press release.
+in all other cases, the date of the press release was taken as the appointment  date.
+
+
+this was used to calculate a variable equal to the time elapsed between the board  members first appointment and the date each individual case was mailed.
+examples of  each board members characteristics are provided in table 4.
+
+
+table 5 shows the number  and percent of board members in each office who have these characteristics, and table 6  shows the number and percent of cases in each office adjudicated by a board member with  each characteristic.
+limitations  a major threat to the identification strategy of this study is the possibility that refugee  claims are not randomly assigned to board members and that unseen case characteristics  could therefore be driving the results.
+
+
+for example, if all refugee cases dealing with the  persecution of christians were assigned to male board members, and having a male board  member was found to negatively impact the probability that a refugee claim is accepted,  the correlation could be due to the board member gender (which is observed in the data) or  it could be because these specific types of cases are less likely to be accepted and they all  get assigned to board members of this gender (which is unobserved in the data).
+it is unclear whether case assignment by the irb is random.
+
+
+one board statement claims that  members are often grouped into specialized geographical teams so that they can develop  expertise in specific country conditions (quoted in rehaag 2008, 343).
+to ascertain if  selective case assignment might confound this analysis, a chi-squared test was performed  to test the association between the board member identity and the number of cases heard  from  each  of  the  five  countries  with  the  most  claims  adjudicated  in toronto,  which  is  the irbs largest regional office.
+
+
+the five countries, china, mexico, colombia, haiti, and  nigeria, account for 42 percent of all toronto claims in the sample.
+the results indicate that these cases are not assigned to board members based on country of  origin.
+
+
+the five p-values produced by these tests are all statistically insignificant, ranging  from 0.
+329 to 0.
+
+
+391.
+this is not definitive proof that case assignment by the irb is truly  random, but it is evidence that counters the irb statement suggesting otherwise.
+
+
+if the  irb is assigning cases non-randomly based on country, it does not appear to be doing so  with the most common countries in the sample at its largest office.
+this finding mitigates  concerns that associations found between board member characteristics and the probability  of claim success are being driven by an unobserved factor.
+
+
+in addition, all regressions in the  study control for a claims country of origin.
+131  adjudicator bias and decisions of the irb canada (2006-2011)table 4: board member characteristics  board member characteristic  example(s)  male law degree  masters degree previous work with immigrants or  refugees     previous work for the irb/cic  previous work for human rights  organizations previous adjudication experience  foreign educated previous work in law enforcement    jd, llb, masters of law, certificate of  law, paralegal diploma  immigration law (private practice, legal  aid) immigration consultant unhcr canadian council for refugees settlement services (e.
+
+
+g.
+edmonton  mennonite center for newcomers) previously worked for the irb in another  capacity (eg.
+
+
+operations branch)  previously worked for citizenship and  immigration canada, or the canadian  board services agency (eg.
+immigration  officer, pre-removal risk assessment  officer) canadian human rights tribunal  national parole board, social assistance  review board, ontario rental housing  tribunal educated outside canada or the us parole officer, police officer  132  journal on migration and human securitytable 5: board member characteristics by office      panel a total number of board members in each office  panel b: member characteristics male law degree masters degree previous work with immigrants previous work for the irb/cic previous work for human rights organization previous adjudication experience educated outside canada or the us previous work in law enforcement         panel a total number of board members in each office  panel b: member characteristics male law degree masters degree previous work with immigrants previous work for the irb/cic previous work for human rights organization previous adjudication experience educated outside canada or the us previous work in law enforcement  toronto       motreal        vancover n  % n  %  %  n  113 .
+
+
+63  .
+21  .
+
+
+60 40 33 12 15 2 14 9 6  53.
+6 36 36 35 29.
+
+
+7 14 10.
+8 11 13.
+
+
+6 14 1.
+8 3 12.
+
+
+6 0 8.
+1 8 3 5.
+
+
+4  57.
+1 11 58.
+
+
+3 11 23.
+3 2 18.
+
+
+3 5 23.
+7 0 0 5 0 2 13.
+
+
+3 2 3 5  52.
+4 52.
+
+
+4 9.
+5 23.
+
+
+8 0 0 9.
+5 9.
+
+
+5 14.
+3  ottawa        calgary        national % n  % n  %  n  4  3 2 0 1 0 0 1 0 0  .
+
+
+75 50 0 25 0 0 25 0 0  7  2 1 3 2 0 0 0 0 1  .
+264 .
+
+
+28.
+6 124 53.
+
+
+9 43.
+2 14.
+
+
+3 96 26.
+6 42.
+
+
+9 59 28.
+6 31 14 14.
+
+
+5 32 0 3.
+2 7 0 0 19 8.
+
+
+6 9.
+5 0 21 14.
+
+
+3 15 6.
+8  notes: panel a shows the number of board members from each office with the characteristic indicated in  the first column.
+
+
+panel b gives the total number of board members from each office in the sample.
+note  that board member characteristics are not mutually exclusive, so numbers in the characteristic breakdown  may not sum to the total.
+
+
+for example, a board member in the toronto office who is male, holds a law  degree, and was educated outside of canada or the united states, would be counted in three rows.
+in  addition, the numbers in the five offices may not sum to the national total because of incomplete data:  in some instances the board members characteristic was available (i.
+
+
+e.
+gender) but his or her office of  appointment was not.
+
+
+133  adjudicator bias and decisions of the irb canada (2006-2011)table 6: number of cases adjudicated by board member characteristics      panel a total cases  toronto         montreal        vancouver %  %  %  n  n  n  36953 .
+16366 .
+
+
+4478  .
+panel b: cases by member characteristics male law degree masters degree previous work with immigrants previous work for the irb/cic previous work for human rights organizations 57 previous adjudication experience educated outside canada or the us previous work in law enforcement  52.
+
+
+5  20844 57.
+8 8592 12514 34.
+
+
+8 10547 65 11781 32.
+8 3875 8.
+
+
+9 3188 3214 4913 13.
+7 3696 0.
+
+
+2 1252 12.
+6 0 9.
+
+
+2 3.
+2  4519 3300 1148  23.
+
+
+9 19.
+8 23 7.
+
+
+7 0 8.
+8 2.
+
+
+9  1433 477  2110 2641 569 403 0 0 799 198 382  47.
+1 59 12.
+
+
+7 9 0 0 17.
+8 4.
+
+
+4 8.
+5      panel a total cases  ottawa          calgary          national  n  %  n  %  n  %  1696  .
+
+
+2045  .
+68803 .
+
+
+panel b: cases by member characteristics male law degree masters degree previous work with immigrants previous work for the irb/cic previous work for human rights organization previous adjudication experience educated outside canada or the us previous work in law enforcement  1503 1447 0 193 0 0 193 0 0  88.
+6 305 85.
+
+
+3 242 0 957 11.
+4 654 0 0 0 0 11.
+
+
+4 0 0 0 0 63  14.
+9 11.
+
+
+8 46.
+8 32 0 0 0 0 3.
+
+
+1  36228 55.
+4 29552 45.
+
+
+7 18580 28.
+7 7652 11.
+
+
+8 14.
+5 9317 3.
+
+
+2 2096 6148 9.
+5 8 5174 2378 3.
+
+
+7  notes: panel a shows the number of cases adjudicated in each office.
+panel b shows the number of cases  adjudicated in each office by a board member with the characteristic indicated in the first column.
+
+
+note that  board member characteristics are not mutually exclusive, so numbers in the characteristic breakdown may  not sum to the total.
+for example, a case adjudicated by a board member in the toronto office who is male,  holds a law degree, and was educated outside of canada or the united states, would be counted in three  rows.
+
+
+in addition, the numbers in the five offices may not sum to the national total because of incomplete  data.
+in some instances the board members characteristic was available (i.
+
+
+e.
+gender) but his or her office of  appointment was not.
+
+
+134  journal on migration and human securityestimation strategy the  effect  of  board  member  characteristics  on  the  probability  that  a  refugee  claim  is  accepted  is  tested  using  three  empirical  specifications,  detailed  below.
+the  outcome  of  interest in all regressions performed is a binary variable that is equal to 1 if a refugee claim  is accepted and 0 if it is rejected.
+
+
+because the outcome is binary in all cases, the functional  form chosen for the regression model is a probit model.
+both the coefficients and discrete  changes are presented in the results section.
+
+
+linear specifications were run as a check and  are not presented.
+equation 1  the aim of the first specification is to hold constant all available information about the  refugee  claim  and  test  for  statistically  significant  correlations  between  the  observable  characteristics of the board members and the probability a claim is accepted.
+
+
+the equation  is:   yi= 0 + (membercharacteristics)i + 1claimantgenderi + 2countryi + 3yeari + 4officei + i   the dependent variable, y, is claim acceptance/rejection.
+the outcome is modeled to be a  function of the board member characteristics described in table 4 with fixed effects for the  claimants country of origin and gender as well as the office and year in which the claim was  adjudicated.
+
+
+the office fixed effect is intended to capture both the fact that different offices  may have different informal or unofficial standards and expectations that influence board  members and that even within nationalities, refugees may sort across offices according to  characteristics not observed in the data.
+the year fixed effect controls for the downward  trend in grant rate over time evident in table 1.
+
+
+the vector of coefficients of interest is  represented by ().
+equation 2  the  analysis  is  then  extended  by  interacting  board  member  gender  with  the  claimant  gender to test for any marginal effects on the probability that a claim is accepted.
+
+
+in the  specification below, the variable gender takes a value of 1 if the board member is male  and 0 if the board member is female.
+the variable claimant gender takes a value of 1 if  the claimant is male and 0 if female.
+
+
+the variable gender interaction takes a value of 1 if  both the claimant and the board member are male.
+yi= 0 + 1genderi + 3genderinteraction + 1claimantgenderi + 2countryi + 3yeari + 4officei + i  this  regression  is  run  both  with  and  without  controlling  for  the  other  board  member  characteristics listed in table 7.
+
+
+equation 3  a third specification restricts the analysis to years 2009-2011 which contain information  on whether a claim had a designated representative.
+the goal is to determine whether there   135  adjudicator bias and decisions of the irb canada (2006-2011)is a differential impact of the board member having a law degree depending on whether or  not a case is represented.
+
+
+yi= 0 + 1lawdegreei + 2representedclaim + 3repinteraction + 1claimantgenderi + 2countryi +   3yeari + 4officei + i   in this equation, the variable lawdegree takes a value of 1 if the board member has a  law degree, represented claim takes a value of 1 if the refugee claimant has a designated  representative, and repinteract takes a value of 1 if the claim is represented and the board  member has a law degree.
+finally, the first specification is repeated using only the data from 2011 when information  was available on whether a principal claim had associated derivative claims.
+
+
+a dummy  variable  (derivative)  equal  to  1  was  added  if  the  principal  claim  is  associated  with  derivative claims.
+yi= 0 + 1derivative  + 1claimantgenderi + 2countryi + 3yeari + 4officei + i   results and interpretation results  of  the  empirical  specifications  described  above  suggest  that  board  member  characteristics do have an impact on the probability that a refugee claim is accepted.
+
+
+results of equation 1  the  correlation  between  board  member  characteristics  and  the  probability  of  claim  acceptance is reported in table 7, which shows the coefficients, and table 8, which shows the  discrete changes, or change in the predicted probability that a claim is accepted associated  with changes in the independent variables.
+10 all regressions include fixed regressions are  first run including each board member characteristic individually (columns 1-10) and then  effects for claimant gender, country of origin as well as office and year of adjudication, and  all characteristics together (column 11).
+
+
+results are similar between the regressions that  include only one characteristic and the final regression which includes all characteristics,  with the one exception of the coefficient on previous experience with human rights issues.
+differences are noted in the discussion that follows.
+
+
+gender  a male adjudicator is associated with a negative discrete change in grant probability of 2.
+7  to 1.
+
+
+7 percentage points.
+the magnitude of the effect shrinks when controlling for other  board  member  characteristics,  but  remains  statistically  significant.
+
+
+there  is  not  a  large  published economics literature on the effect of a judges gender on case outcomes.
+the  question does receive attention in legal scholarship, but it is often theoretical.
+
+
+kulik, perry   10  discrete change= p(y|x`, xb =1)-p(y|x`, xb=0) where y is the outcome, xb is the variable of interest, and  x` is the vector of all other variables.
+136  journal on migration and human securityand pepper found no significant effect of gender on case outcomes in their analysis of  american federal sexual harassment cases (2003, 80), while a 2005 study published in the  yale law journal found that female judges rule in favor of the plaintiff in sexual harassment  cases at higher rates than male counterparts (peresie 2005).
+
+
+as a judge or adjudicators  gender is one of the most easily observable pieces of information, this is a promising area  for further study in other judicial and quasi-judicial contexts.
+education  the  board  members  education  also  has  a  statistically  significant  association  with  the  outcome of refugee hearings.
+
+
+more highly educated board members are associated with  higher grant probabilities.
+a board member with a law degree was associated with a higher  probability of claim acceptance on the order of 3 or 4 percentage points.
+
+
+here too, the effect  attenuates when additional characteristics are included.
+similarly, having a masters degree  was associated with a probability increase on the order of 1 to 2 percentage points.
+
+
+a board  member who was educated outside of the us or canada was associated with a large and  highly significant impact on grant rates of 8.
+5 percentage points.
+
+
+this variable may be  capturing a different aspect of education than years of schooling (as measured by advanced  degrees).
+it might be thought of as the effect of a board member with higher than average  experience with intercultural interaction, or it may be a proxy for board members with  origins or ties outside of canada, both of which are factors that may make a board member  better able to communicate with or more sympathetic to refugee claimants.
+
+
+it should be  noted that educational experiences vary greatly even within the group of board members  who  are  educated  abroad  and  there  is  potential  for  further  research  to  make  additional  distinctions.
+the 21 board members classified as having foreign postsecondary education  were educated in a diverse set of countries including: barbados, china, germany, ethiopia,  india, israel, japan, malta, the philippines, poland, japan, and the united kingdom.
+
+
+the  qualifications that they received abroad also vary.
+prior work experience  previous  occupations  also  yielded  significant  discrete  changes.
+
+
+previous  work  with  immigrants or refugees was associated with a 4 percentage point increase in the probability  of claim acceptance.
+similarly, previous employment with the irb or cic was associated  with a 5 percentage point increase in the probability that a claim was accepted.
+
+
+perhaps the most counterintuitive result is that previous work with human rights organizations  is associated with a large negative change in the probability of claim acceptance.
+a priori,  one  might  expect  that  previous  involvement  with  organizations  concerned  with  human  rights would lead a board member to be especially sympathetic to claims that human rights  are at risk of being violated.
+
+
+this surprising result is perhaps attributable to small sample  size.
+only 7 board members had previous work with human rights organizations which  corresponds to 2,096 cases (3.
+
+
+05 percent) in the sample.
+11 thus, the sample may not have  11   the  human  rights  organizations  for  which  the  board  members  worked  include:  unhcr;  canadian  human rights tribunal; canadian human rights foundation; international committee of the red cross;  international center for democratic development; human rights commission of quebec; human rights  tribunal of quebec; and the coalition for visible minority women.
+
+
+137  adjudicator bias and decisions of the irb canada (2006-2011)) 1 1 (  * * * 4 3 4 0  .
+0 -  ) 4 3 1 0  .
+
+
+0 (  * * * 3 8 6 0  .
+0  ) 1 4 1 0  .
+
+
+0 (  * * * 9 4 5 0  .
+0  ) 9 4 1 0  .
+
+
+0 (  * * * 9 2 1  .
+0  ) 9 8 1 0  .
+
+
+0 (  * * * 5 5 9 0  .
+0  ) 9 9 1 0  .
+
+
+0 (  * * * 0 0 2  .
+0  ) 9 3 2 0  .
+
+
+0 (  * * * 4 2 4 0 0 0 0  .
+0  ) 0 1 6 0 0 0 0 0  .
+
+
+0 (  * * * 5 2 4 0 0 0 0  .
+0  ) 5 8 5 0 0 0 0 0  .
+
+
+0 (  * * * 4 1 2  .
+0  ) 7 2 2 0  .
+
+
+0 (  * 6 0 6 0  ) 5 3 3 0  .
+.
+
+
+0 -  0 (  * * * 3 4 2  ) 6 2 3 0  .
+.
+
+
+0 -  0 (  * * * 7 1 2  .
+0  ) 4 0 2 0  .
+
+
+0 (  * 7 3 3 0  .
+0  ) 0 0 2 0  .
+
+
+0 (  * * * 4 5 9  ) 5 0 1  .
+.
+
+
+0 -  0 (  * * * 3 1 3  .
+0  ) 8 0 4 0  .
+
+
+0 (  s c i t s i r e t c a r a h c   r e b m e m d r a o b       : 7    e l b a t  ) 0 1 (  ) 9 (  ) 8 (  ) 7 (  ) 6 (  ) 5 (  ) 4 (  ) 3 (  ) 2 (  ) 1 (     138  * * * 7 6 8 0  .
+0  ) 6 7 1 0  .
+
+
+0 (  ) 9 6 1 0  .
+0 (  5 6 1 0  .
+
+
+0  * * 6 8 2 0  .
+0  ) 9 2 1 0  .
+
+
+0 (  * * * 1 0 1  .
+0  ) 2 2 1 0  .
+
+
+0 (  * * * 0 7 6 0 0 -  .
+) 5 1 1 0 0 (  .
+
+
+i  c c b r  /  e e r g e d w a l     s r e t s a  m  e l a  m  i   k r o w    .
+v e r p     n a m u h     k r o w    .
+
+
+v e r p  s t h g i r     n o i t a c i d u j d a   .
+v e r p  e c n e i r e p x e  d e t a c u d e    n g i e r o f     w a l    k r o w    .
+
+
+v e r p  t n e m e c r o f n e  e m  i t    d e s p a l e     k r o w    .
+v e r p  s t n a r g i m m  i     d n a   r e d n e g    s  t n a m i a l c   e h t   r o f   s t c e f f e    d e x fi   e d u l c n i   s n o i s s e r g e r   l l  a    .
+
+
+1 0  .
+0 < p     * * *     5 0  .
+
+
+0 < p     * *     0 1  .
+0 < p     *    : s l e v e l   e c n a c fi i n g i s    .
+
+
+s e s e h t n e r a p     n i    n w o h s   e r a   s r o r r e    d r a d n a t  s  .
+d e t a c i d u j d a   s a w m i a l c   e h t          h c i h w n i   r a e y     d n a   e c fi f o    e h t   s a   l l e w   s a    n i g i r o   f o       : s e t o n  y r t n u o c  8 2 8 2 5  6 6 1 3 5  0 7 1 0 6  0 7 1 0 6  0 7 1 0 6  0 7 1 0 6  0 7 1 0 6  4 6 8 9 5  0 7 1 0 6  0 7 1 0 6  1 5 4 0 6  n  journal on migration and human security* * * 0 5 8 0  .
+
+
+0  ) 4 0 9 0 0  .
+0 (  * * * 2 6 8 0  .
+
+
+0  ) 3 1 8 0 0  .
+0 (  * * * 4 9 7 0  .
+
+
+0  ) 1 5 9 0 0  .
+0 (  ) 4 9 7 0 0  .
+
+
+0 (  * 3 3 1 0  .
+0  * * * 6 0 3  ) 9 2 2 0  .
+
+
+.
+0 -  0 (  * * * 4 2 1  .
+
+
+0  ) 1 6 1 0  .
+0 (  * * * 8 7 3 0  .
+
+
+0  ) 3 9 7 0 0  .
+0 (  * * * 4 4 3 0  .
+
+
+0  ) 9 9 6 0 0  .
+0 (  * * * 1 1 5 0  .
+
+
+0  ) 3 5 7 0 0  .
+0 (  ) 0 7 6 0 0  .
+
+
+0 (  1 5 6 0 0  .
+0  ) 1 1 (  * * * 1 7 1 0  .
+
+
+0 -  ) 0 3 5 0 0  .
+0 (  * * * 9 6 2 0  .
+
+
+0  ) 6 5 5 0 0  .
+0 (  * * * 7 1 2 0  .
+
+
+0  ) 0 9 5 0 0  .
+0 (  ) 0 1 (  ) 9 (  ) 8 (  ) 7 (  ) 6 (  ) 5 (  ) 4 (  ) 3 (  ) 2 (  ) 1 (  * * * 5 6 2 0  .
+
+
+0 -  ) 6 5 4 0 0  .
+0 (  * * 3 1 1 0  .
+
+
+0  ) 1 1 5 0 0  .
+0 (  * * * 1 0 4 0  .
+
+
+0  ) 3 8 4 0 0  .
+0 (  ) s t c e f f  e    l a n  i g r a m  (   s c i t s i r e t c a r a h c   r e b m e m d r a o b       : 8    e l b a t  i  c c b r  /     e l a  m  e e r g e d w a l     s r e t s a  m  i    k r o w    .
+
+
+v e r p     n a m u h     k r o w    .
+v e r p  s t h g i r     n o i t a c i d u j d a   .
+
+
+v e r p  e c n e i r e p x e  d e t a c u d e    n g i e r o f     k r o w    .
+v e r p  s t n a r g i m m  i  ) 1 4 2 0 0 0 0 0  .
+
+
+0 (  ) 1 3 2 0 0 0 0 0  .
+0 (  * * * 7 6 1 0 0 0 0  .
+
+
+0  * * * 8 6 1 0 0 0 0  .
+0  * 8 3 2 0  ) 1 3 1 0  .
+
+
+.
+0 -  0 (  * * * 7 3 9 0  ) 2 2 1 0  .
+
+
+.
+0 -  0 (        w a l k r o w    .
+
+
+v e r p  t n e m e c r o f n e  e m  i t    d e s p a l e  8 2 8 2 5  6 6 1 3 5  0 7 1 0 6  0 7 1 0 6  0 7 1 0 6  0 7 1 0 6  0 7 1 0 6  4 6 8 9 5  0 7 1 0 6  0 7 1 0 6  1 5 4 0 6  n    e d u l c n i   s n o i s s e r g e r   l l  a    .
+1 0  .
+
+
+0 < p * * * 5 0     .
+0 < p * * 0 1     .
+
+
+0 < p *   : s l e v e l   e c n a c fi i n g i s       .
+s e s e h t n e r a p n i   s r o r r e   d r a d n a t  s    .
+
+
+n o i s s e r g e r   t i b o r p   e h t    m o r f   s e g n a h c   e t e r c s i d   s w o h s   e l b a t   s i h t    : s e t o n  y r t n u o c    d n a   r e d n e g   s  t n a m i a l c   e h t   r o f   s t c e f f e    d e x fi  .
+d e t a c i d u j d a   s a w m i a l c   e h t          h c i h w n i   r a e y     d n a   e c fi f o    e h t   s a   l l e w   s a    n i g i r o   f o     139  adjudicator bias and decisions of the irb canada (2006-2011)enough power to capture the effect of working in these organizations or the unobserved  characteristics of individuals who select into these professions.
+
+
+in addition, what constitutes   previous  work  with  human  rights  was  the  most  subjectively  measured  characteristic.
+another possibility is that domestic and international human rights issues are differentiated,  so concern for one does not necessarily correspond to concern for the other.
+
+
+if this is the  case, then involvement with domestic human rights case, then involvement with domestic  human rights issues through organizations such as the canadian human rights tribunal  is  not  a  proxy  for  concern  with  human  rights  issues  in  foreign  countries,  and  may  not  predispose a board member to be sympathetic to refugee claimants.
+previous adjudication experience also yielded a potentially surprising result.
+
+
+experience  evaluating or critiquing claims might either desensitize or sensitize adjudicators to claims  of persecution.
+in any event, in the final regression, previous experience as an adjudicator  is associated with an eight percentage point increase in the probability of claim acceptance.
+
+
+it could be speculated that board members may be inclined to grant status on the margin to  mitigate the cost of high rates of appeal of negative decisions.
+other than gender, and one possibly spurious result from the coefficient on human rights,  the other characteristic associated with a decline in the probability of claim acceptance was  previous experience in law enforcement.
+
+
+this effect is slightly larger in magnitude than the  effect of a male board member.
+it could be conjectured that those with a background in law  enforcement are more oriented and accustomed to scrutinizing credibility than members of  the general population because those jobs demand a higher level of vigilance and suspicion.
+
+
+as a result, they are harsher adjudicators.
+elapsed time  finally, the elapsed time between a board members first appointment and the date the  decision  was  mailed  had  a  negligible  impact  on  the  probability  of  case  acceptance.
+
+
+however, with better timing data, more detailed analysis of how the grant rates of board  members evolves over time would be an extremely valuable area for future study.
+results of equation 2  after testing for correlations between board member characteristics and grant probability,  a gender interaction term (a variable equal to 1 if both the board member and claimant are  both male) was added to test for differential effects of board member gender.
+
+
+table 9 shows  the results.
+the discrete changes reveal that, relative to female claimants, male claimants probability  of claim approval is ten percentage points lower.
+
+
+part of this effect may be driven by the  fact that, in many regions of the world, women are particularly vulnerable to persecution or  unable to seek state protection due to gender discrimination.
+it is also possible that female  claimants are more likely to be accompanied by children and board members may be more  likely to grant status on the margin if denying status would result in the deportation of  a minor.
+
+
+if the board member is male, male refugee claimants face an additional three  percentage point decline in the probability of claim success.
+140  journal on migration and human securityinterestingly, adding the gender interaction term resulted in the male board member variable  becoming statistically insignificant.
+
+
+this suggests that the lower grant rates of male board  members are driven by their adjudication of male claims.
+the discrete changes associated  with other board member characteristics remained largely unchanged when controlling for  board member and claimant gender.
+
+
+results of equation 3  table 10 reports the results of the third specification which, for years 2009-2011, repeats  the analysis while controlling for whether or not a claim is represented.
+the results confirm  that  a  refugee  claim  that  has  a  designated  representative  has  an  enormous  advantage.
+
+
+representation is associated with an increase in the probability of success by 24 percentage  points.
+this is not only capturing the benefit of counsel, but also unobserved differences  between refugee claimants who have the ability (resources, language skills, network of  peers, etc.
+
+
+) to obtain representation and those who do not.
+this may also capture differences  between regions.
+
+
+some localities may have more legal aid and nonprofit support for refugee  claimants than others.
+moreover, this estimate likely understates the benefits of counsel  because abandoned claims are excluded from this analysis, and those without representation  may  be  more  likely  to  abandon  a  claim  either  willfully  or  by  missing  important  legal  deadlines.
+
+
+for 2009-2011, while only 11 percent of claims in the entire sample had no  representation, 60 percent of the abandoned claims had no representation.
+an interaction term was included that is equal to 1 if the claim was represented and the  board  member  had  a  law  degree.
+
+
+a  priori,  both  positive  and  negative  effects  could  be  theorized.
+perhaps a similar legal training would allow adjudicator and counsel to better  communicate or allow counsel to speak more persuasively, or perhaps this would foster an  adversarial relationship.
+
+
+however, no statistically significant effect was observed.
+derivative claims  a major shortcoming of this analysis is the lack of information available about the details  of the refugee claim.
+
+
+other than country of origin and gender, usable characteristics of the  claimant were unavailable for the period studied.
+some data that were available on claim  characteristics such as type of persecution was incomplete and not standardized across  years.
+
+
+table 11 attempts to make a final, coarse distinction between types of refugee claims  by taking advantage of the fact that in 2011 a file of all refugee claims, including both  principal and derivative claims was released.
+crucially, the records of derivative claims also  included the file number of the principal claim, allowing derivative and principal claims to  be linked.
+
+
+as noted previously, derivative claims can only be successful if the associated  principal claim is determined to be well-founded.
+having a derivative claim associated with  a principal claim can be thought of as a proxy for a claimant having a family.
+
+
+an indicator variable was added to the regression analysis to test whether the probability  of success changes if multiple claims depend on the principal claims success.
+as shown  in table 11, a derivative claim is associated with an approximately six percentage point  increase in the probability of success.
+
+
+this could suggest that board members are more  reluctant to deny refugee status in cases where a negative decision would result in the   141  adjudicator bias and decisions of the irb canada (2006-2011)table 9: claimant/member gender interaction        male board member  male claimant  male interaction  law degree  masters  prev.
+work irb/cic  prev.
+
+
+work immigrants  prev.
+work human rights  prev.
+
+
+adjudication experience  foreign educated  prev.
+law enforcement  elapsed time  n  coefficient marginal   effect  (1)  (2)  -0.
+
+
+00629 -0.
+0159 (0.
+
+
+00737) (0.
+0186) -0.
+
+
+103*** -0.
+260*** (0.
+
+
+00683) (0.
+0173) -0.
+
+
+0830*** -0.
+0328*** (0.
+
+
+00912) (0.
+0232)  coefficient  (3)  0.
+
+
+00942 (0.
+0206) -0.
+
+
+254*** (0.
+0184) -0.
+
+
+0859*** (0.
+0249) 0.
+
+
+0687*** (0.
+0141) 0.
+
+
+0549*** (0.
+0149) 0.
+
+
+129*** (0.
+0189) 0.
+
+
+0945*** (0.
+0199) -0.
+
+
+954*** (0.
+104) 0.
+
+
+200*** (0.
+0238) 0.
+
+
+214*** (0.
+0227) -0.
+
+
+0600* (0.
+0335)  marginal   effect  (4)  0.
+
+
+00371 (0.
+00814) -0.
+
+
+100*** (0.
+00726) -0.
+
+
+0338*** (0.
+00977) 0.
+
+
+0271*** (0.
+00556) 0.
+
+
+0217*** (0.
+00591) 0.
+
+
+0510*** (0.
+00753) 0.
+
+
+0374*** (0.
+00793) -0.
+
+
+306*** (0.
+0229) 0.
+
+
+0793*** (0.
+00950) 0.
+
+
+0852*** (0.
+00904) -0.
+
+
+0236* (0.
+0131)  0.
+
+
+0000421*** (0.
+00000611)  0.
+
+
+0000166*** (0.
+00000241)  60451  60451  52828  52828  note: standard errors are shown in parentheses.
+
+
+significance levels: * p<0.
+10 ** p<0.
+
+
+05 *** p<0.
+01.
+
+
+male  interaction is a dummy variable that takes a value of 1 if both the board member and claimant are male.
+142  journal on migration and human securitytable 10: counsel interaction  coefficient marginal   effect  (1)  0.
+
+
+238*** (0.
+0662) 0.
+
+
+707*** (0.
+0482) -0.
+
+
+0562 (0.
+0676) -0.
+
+
+310*** (0.
+0147)  (2)  0.
+
+
+0922*** (0.
+0256) 0.
+
+
+240*** (0.
+0132) -0.
+
+
+0218 (0.
+0262) -0.
+
+
+121*** (0.
+00572)        law degree  represented claim  counsel interaction  claimant gender  gender  masters  prev.
+
+
+work irb/cic  prev.
+work immigrants  prev.
+
+
+work human rights  prev.
+adjudication experience  foreign educated  prev.
+
+
+work in law enforcement  coefficient  (3)  0.
+132* (0.
+
+
+0728) 0.
+699*** (0.
+
+
+0514) -0.
+0309 (0.
+
+
+0741) -0.
+298*** (0.
+
+
+0155) -0.
+0676*** (0.
+
+
+0165) -0.
+0185 (0.
+
+
+0178) 0.
+121*** (0.
+
+
+0208) 0.
+0239 (0.
+
+
+0253) -0.
+671 (0.
+
+
+432) 0.
+265*** (0.
+
+
+0313) 0.
+180*** (0.
+
+
+0276) -0.
+129*** (0.
+
+
+0413)  marginal   effect  (4)  0.
+0515* (0.
+
+
+0283) 0.
+240*** (0.
+
+
+0143) -0.
+0120 (0.
+
+
+0288) -0.
+117*** (0.
+
+
+00607) -0.
+0263*** (0.
+
+
+00642) -0.
+00719 (0.
+
+
+00694) 0.
+0476*** (0.
+
+
+00819) 0.
+00931 (0.
+
+
+00990) -0.
+227* (0.
+
+
+116) 0.
+105*** (0.
+
+
+0124) 0.
+0710*** (0.
+
+
+0110) -0.
+0493*** (0.
+
+
+0156)  elapsed time  n  0.
+0000602*** 0.
+
+
+0000235*** (0.
+00000760) (0.
+
+
+00000296)  40272  40272  36450  36450  note: standard errors are shown in parentheses.
+significance levels: * p<0.
+
+
+10 ** p<0.
+05 *** p<0.
+
+
+01.
+counsel interaction is a dummy variable that takes a value of 1 if the refugee claim had a designated  representative and the board member had a law degree.
+
+
+143  adjudicator bias and decisions of the irb canada (2006-2011)deportation of or denial of status to additional people.
+it could also suggest that additional  claimants providing corroborating accounts are an evidentiary gain for a refugee claim.
+
+
+this analysis is limited by its smaller sample size, as data on derivative claims was only  available  for  a  single  year.
+in  this  smaller  sample,  previous  work  with  human  rights  organizations was dropped from the regression due to collinearity.
+
+
+while seemingly small, the magnitude of the effect of adjudicator characteristics on claim  outcomes should be considered in relation to the board average grant rate of 46 percent (see  table 1).
+the positive effect of having an adjudicator with previous adjudication experience  is 8 percentage points (see table 8, column 11), or a 17 percent increase in grant probability  (8/46).
+
+
+table 3 presents the countries with the 25 highest claim success rates in the sample  (of all countries with at least 50 cases in the data).
+interpreting these effects another way, a  17 percent increase in grant probability would move a claim up the list in table 3 sixteen  places from #19 kenya (with a 71 percent grant rate) to #3 eritrea (with an 88 percent grant  rate).
+
+
+conclusion absolute uniformity is neither a realistic nor a desirable goal in the adjudication of asylum  claims.
+claims from the same country can be founded on radically different grounds, and  even claimants alleging the same type of persecution can be differentially credible.
+
+
+ideally,  decision  making  with  such  serious  consequences  would  be  made  carefully  and  with  consistency across adjudicators.
+this analysis has shown that the probability a claim is  accepted is correlated with adjudicator characteristics even when accounting for claimant  gender, country of origin, year and office processed.
+
+
+moreover, these effects may vary  according to the claimants characteristics.
+the findings suggest that board members are not  approaching cases tabula rasa but rather their decisions are influenced by their educational  and professional backgrounds.
+
+
+the findings could support two types of policy interventions: preventative or compensatory.
+these policy approaches are not mutually exclusive, and may in fact be most effective when  implemented together.
+
+
+preventative policies would seek to mitigate the variation in grant  rates and the correlations with adjudicator characteristics by changing either the selection  process or the training of board members to create an administrative tribunal that comes to  more impartial decisions.
+however, as previous work has shown, judges in courts of law  make decisions that are correlated with their own biases.
+
+
+recognizing that this subjective  element  can  never  fully  be  purged  from  judicial  or  quasi-judicial  decision  making,  the  second category of policy response would compensate for this by incorporating greater  checks and balances such as creating avenues for appealing decisions or broadening the  grounds for appeal.
+canada has implemented changes to its refugee determination system following the passage  of the balanced refugee reform act of 2010 and the protecting canadas immigration  system  act  (bill  c-31).
+
+
+beginning  in  2012,  a  new  refugee  appeal  division  handles  appeals due to questions of law, fact, or a combination of both.
+12 however, the opening of  an appeals process also coincides with legislative changes under bill c-31 which  exclude   12  balanced refugee reform act 2010 [canada], chapter 17, bill c-11, 1 august 2010, available at: http:// laws-lois.
+
+
+justice.
+gc.
+
+
+ca/eng/annualstatutes/2010_8/page-1.
+html  144  journal on migration and human securitytable 11: derivative claims in 2011  coefficient marginal   effect  coefficient  (1)  0.
+
+
+144*** (0.
+0248) -0.
+
+
+207*** (0.
+0215)  (2)  0.
+
+
+0528*** (0.
+00920) -0.
+
+
+0757*** (0.
+00790)  (3)  0.
+
+
+159*** (0.
+0266) -0.
+
+
+194*** (0.
+0233) -0.
+
+
+0559* (0.
+0256) -0.
+
+
+211*** (0.
+0261) 0.
+
+
+0379 (0.
+0306) -0.
+
+
+143*** (0.
+0389)  0.
+
+
+178*** (0.
+0461) 0.
+
+
+345*** (0.
+0394) -0.
+
+
+422*** (0.
+0643)  marginal   effect  (4)  0.
+
+
+0584*** (0.
+00995) -0.
+
+
+0710*** (0.
+00859) -0.
+
+
+0203* (0.
+00933) -0.
+
+
+0753*** (0.
+00915) 0.
+
+
+0138 (0.
+0112) -0.
+
+
+0504*** (0.
+0133)  0.
+
+
+0666*** (0.
+0176) 0.
+
+
+131*** (0.
+0155) -0.
+
+
+138*** (0.
+0182)       dependent  claimant gender  gender  masters  prev.
+
+
+work irb/cic  prev.
+work immigrants  prev.
+
+
+work human rights prev.
+adjudication experience  foreign educated  law enforcement  elapsed time  n  -0.
+
+
+00013*** -0.
+0000477*** (0.
+
+
+0000109) (0.
+00000393)  18396  18396  16051  16051  note: standard errors are shown in parentheses.
+
+
+significance levels: * p<0.
+10 ** p<0.
+
+
+05 *** p<0.
+01.
+
+
+dependent takes a value of 1 if a refugee claim has associated derivative claims.
+145  adjudicator bias and decisions of the irb canada (2006-2011)exclude appeals by applicants from designated countries of origin (dcos).
+
+
+countries  are designated based on historical rejection rates above 75 percent or withdrawal rates of 60  percent.
+additional countries are designated at the discretion of the minister of citizenship  and immigration and include those that do not normally produce refugees, but do respect  human rights and offer state protection (citizenship and immigration canada 2013).
+
+
+13  cic states that the aim of this policy is to deter abuse of the refugee system by people  who come from countries generally considered safe[and] ensure that people in need get  protection fast, while those with unfounded claims are sent home quickly (ibid.
+).
+
+
+unfortunately, the probability of success of all refugee claims is associated with board  member characteristics, even when holding constant country of origin.
+thus, all cases are  subject to bias, both those that are permitted an appeal and those that are not.
+
+
+moreover,  the historical rate of rejection, which is applied as a criterion for designated countries of  origin, may also be influenced by the observed associations.
+the creation of an appeals  process represents a positive step, but it is only a partial check on the subjective element of  quasi-judicial decision making.
+
+

@@ -1,0 +1,175 @@
+housing and quality of life for  migrant communities in western  europe: a capabilities approach  dermot coates the open university  paul anand  the open university oxford university  michelle norris university college dublin   executive summary housing is an important determinant of quality of life and migrants are  more  likely  to  encounter  poor  quality  housing  than  natives.
+this  paper  draws on the capabilities approach to welfare economics to examine how  issues  of  housing  and  neighborhood  conditions  influence  quality  of  life  and opportunities for migrants in western europe.
+
+
+the analysis utilizes  data from the second european quality of life survey (eqls) to explore  variation  in  life  and  housing  satisfaction  between  migrants  and  non- migrants (natives) in western europe and whether being a migrant and  living in an ethnically diverse neighborhood contribute to lower satisfaction.
+the results show that migrants are more likely to experience lower levels  of life and housing satisfaction and that living in a diverse neighborhood  is negatively associated with life and housing satisfaction.
+
+
+while diverse,  inner-city  neighborhoods  can  increase  opportunities  for  labor  market  access,  social  services  and  integration,  the  tendency  towards  clustered  settlement by migrants can also compound housing inequality.
+conversely,  migrant homeowners are on average substantially more satisfied with the  quality of public services and of their neighborhood and have lower material  deprivation than both migrant and non-migrant renters.
+
+
+the findings draw  attention to the need to address housing and neighborhood conditions in  order to improve opportunities for integration and well-being.
+2013 by the center for migration studies of new york.
+
+
+all rights reserved.
+jmhs volume 1 number 4 (2013): 163-209 introduction inadequate housing can have negative effects upon the health and well-being for all groups  within  society.
+
+
+these  effects  are  arguably  greater  for  migrant  communities  given  that  housing represents an important mechanism for the cultural, social and economic integration  of migrants into their host societies (chambon et al.
+1997).
+
+
+since the second world war,  immigrants  in  the  european  union  have  encountered  disproportionate  levels  of  social  exclusion.
+research shows that housing conditions for migrants in many western countries  tend to be worse than average across the housing stock with problems of overcrowding,  poor standards and homelessness (chambon et al.
+
+
+1997; carter 2005; harrison 2005).
+the  international literature has established that the housing opportunities and choices available  to migrants underperform those available to natives.
+
+
+research across a number of western  countries highlights the propensity for migrants to settle in specific areas of a host society,  often  clustering  in  resource  deprived  urban  environments,  which  can  compound  their  housing inequality (gordon and travers 2006; maloutas 2007; wessel 2001; massey and  fischer 2000).
+the  capabilities  approach  to  welfare  economics,  introduced  by  amartya  sen  (1985;  1992), broadens the scope of poverty assessment to include measures such as education,  employment and health and has influenced an interdisciplinary literature on the human  development paradigm.
+
+
+the capabilities approach results in a more holistic evaluation  of  outcomes  than  traditional  welfare  economics  which  has  tended  to  focus  squarely  on  measures  of  material  well-being.
+capability  is  the  freedom  to  achieve  valuable  functionings, or what an individual is able to do with a given set of resources.
+
+
+a persons  total opportunities depend on the set of all functionings from which they can choose given  the resources at their command.
+the importance of freedom for well-being is a central tenet  of the capabilities approach and informs the distinction between what people are free to do  (their capabilities or beings) and what they do (their functionings or doings).
+
+
+with an  emphasis on freedom, opportunity and social choice, the capabilities approach recognizes  the intrinsic value of choice and affords to choice a central positionmaking its place  in well-being and social justice evaluations more explicit (robeyns 2003; lelkes 2005).
+housing plays an important role in shaping both experienced quality of life as well as the  opportunities a person has.
+
+
+housing is an important determinant of the beings and doings  that are central to sens capabilities approach.
+this paper applies the capabilities approach  to issues of housing and neighborhood conditions.
+
+
+it addresses functional capabilities using  data on well-being from the second european quality of life survey (eqls) to examine  the migrant experience.
+this analysis goes beyond examination of material deprivation to  consider the impact of housing on life satisfaction, access to services, quality of services,  quality  of  neighborhood  and  opportunities  afforded  to  residents.
+
+
+we  explore  whether  there are measurable variations in life satisfaction, in general, and housing satisfaction, in  particular, between non-migrants (natives) and migrants in western europe and whether  being a migrant, and living in an ethnically diverse neighborhood, contributes to lower  satisfaction.
+migration and housing patterns in western europe migration has been a key feature of demographic dynamics of europe over recent decades.
+
+
+ethnic pluralization of european countries is the product of both past and contemporary   164  journal on migration and human securityflows, including of asylum-seekers, refugees and unauthorized migrants (koopmans and  statham 2000).
+by the mid-point of the last decade more than 15 million persons residing  across the eu were third-country nationals.
+
+
+the experience of the recipient european countries has not been homogenous (salt 1997).
+triandafyllidou (2011) classifies eu member-states into two camps:  old hosts and recent  hosts.
+
+
+the former have a long history of inward migration, a sizable migrant population  and advanced integration policies.
+the latter are geographically peripheral and do not have  a  long  experience  of  absorbing  migrant  communities.
+
+
+an  important  development  over  the past decade has been the influence of labor market-related factors (oecd 2006).
+the  accession of 12 new member-states to the eu since 2004 has drawn attention to the different  policy responses of western european countries.
+
+
+only the united kingdom, ireland and  sweden opened their labor markets to nationals of the eight accession states beginning in  2004.
+assimilation  has  been  defined  as  the  social,  economic  and  political  integration  of  an  ethnic minority group into mainstream society (keefe and padilla 1987).
+
+
+it can be argued  that  one  aspect  of  assimilation  occurs  through  progressive  advancement  in  a  housing  career (abramsson et al.
+2002).
+
+
+migrants tend to start their housing career at the lowest  end of the market and, as they become more assimilated into the host society, move on to  better quality housing conditions over time.
+new arrivals tend to lack both the resources  and knowledge concerning the workings of the housing market in the host country.
+
+
+it is  expected that these are accumulated over time, leading to improvement in the quality of the  accommodation accessed.
+1 research also suggests that as migrants socio-economic status  improves, they tend to move to the suburbs where the balance between the foreign- and  native-born populations is more even (dunn 1998; blom 1999).
+
+
+spatial  segregation  upon  the  basis  of  ethnic  or  racial  difference  has  been  a  feature  of  many western societies (fahey and fanning 2009).
+spatial, and particularly residential,  segregation has been identified as a principal contributory factor to urban poverty (massey  and fischer 2000).
+
+
+segregation can deepen over time as new patterns of settlement become  superimposed  upon  pre-existing  neighborhood  divisions  (van  kempen  2007).
+a  large  body of research has associated the negative housing experiences of many ethnic minority  (including  migrant)  households  with  racism  and  xenophobia.
+
+
+discrimination  in  other  public spheres, such as labor market access, can undermine access to good quality housing  for migrants (de beijl 2000).
+there is, however, some scope for the role of opportunity structures to mitigate the impact  of social exclusion, material deprivation and discrimination.
+
+
+the process of migrating to a  new country is often traumatic and can involve feelings of loss, separation and helplessness.
+migrants therefore seek communal enclaves which can mitigate negative psychological  impacts,  provide  alternative  social  structures,  facilitate  the  preservation  of  cultural  traditions and mediate interaction with the new host society (mazumdar et al.
+
+
+2000).
+it can  be argued that the physical concentration of migrants plays a positive role in fostering social  cohesion (peach 1996).
+
+
+murie and musterd have looked at the role of cities, and inner- city neighborhoods in particular, in alleviating exclusion by encouraging participation and   1  it is worth noting, however that some migrants, whether recent or long-standing, have substantial resources  and good quality housing (for instance, the global business class).
+165  housing and quality of life for migrants in western europeintegration (2004).
+
+
+diverse, inner-city neighborhoods offer better opportunities for labor  market access, social services, and mutual support (ibid.
+).
+
+
+data and methods  the analysis was undertaken using data from the second european quality of life survey  (eqls).
+this survey was conducted by the european foundation for the improvement of  living and working conditions between 2007 and 2008 and contains information gathered  from 35,000 interviews across 31 countries.
+
+
+the dataset provides a unique opportunity  to explore quality of life throughout europehighlighting for policy makers and other  interested groups the social and economic challenges facing the eu in the wake of the two  recent rounds of enlargement (eurofound 2009).
+respondents were asked to assess their living conditions including the quality of public  services, neighborhood satisfaction, access to public services, and material deprivation at  the household level.
+
+
+respondents were asked whether they were born in their country of  residence, in another eu member-state or outside of the european union.
+the eqls also  includes a subjective assessment of the level of ethnic diversity of the local neighborhood.
+
+
+this  combination  of  questions  allows  the  present  analysis  to  provide  a  comparative  empirical characterization of the experienced utility of migrant communities.
+it is important to note that there are a number of limitations to the data.
+
+
+first, the eqls  does not contain any distinct variable which would allow the authors to test the potential  impact of discrimination on visible, or non-white, ethnic minorities.
+the data also does  not  capture  the  incidence  of  moving  during  the  inter-survey  period  nor  does  it  capture  how long a migrant has been living in his or her country of residence.
+
+
+survey respondents  were not asked to state their specific country of origin.
+respondents were simply asked to  state whether they were born in the country where they reside and, if not, to state whether  they originated from another eu member-state or from a non-eu country in europe, asia,  africa, north or south america.
+
+
+it was therefore not possible to specifically examine the  experiences of migrants in western europe from recent accession states such as poland  or romania.
+there is also no specification for ethnic minorities, such as roma or irish  travelers, in the survey dataset.
+
+
+the analysis narrowly defines a migrant as a person not born in an eu member-state but  living in western europe at the time of the survey (referred to as an extra-eu migrant).
+the analysis does, however, draw out some differentiation between extra-eu and intra-eu  migrants.
+
+
+2  the scope of the research is limited to western europe (or eu15) rather than the  entire european union (or eu27) and examines the experience of survey respondents in the  former only.
+this was done for a number of reasons.
+
+
+the international literature suggests   2  intra-eu migrants are survey respondents who did not reside in their country of origin in 2007 but were  born in another eu member-state, thus including migrants from eastern and central european accession  states.
+intra-eu migration has accounted for a significant proportion of total migration into western europe in  recent years.
+
+
+there is emerging evidence that migrants from eastern european eu accession states are living  in inferior housing conditions in western european states.
+further work is needed to assess how the housing  situations of intra-eu migrant groups may differ with the different rights and opportunities associated with  their legal status.
+
+
+166  journal on migration and human securitythat european migration has tended to be concentrated in western europe due to labor  market opportunities, economic strength, historical and cultural ties to former colonies and  geographic proximity.
+recent statistical data suggest that most immigrants living in europe  (whether from an eu member-state or from outside of the eu) are residing in the eu15.
+
+
+in order to operationalize the capabilities approach and develop a set of measures which  are conducive to this end, the analysis places emphasis on responses concerned with the  distribution of resources and subjective measures of well-being, including both life and  housing satisfaction.
+3 the analysis investigates the distribution of individual material and  non-material  resources  between  migrants  and  non-migrants  using  four  quality  of  life  (qol) indices derived from the survey data.
+
+
+the indices are used to compare and contrast  mean outcomes and are applied in a series of estimation models.
+
+
