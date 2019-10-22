@@ -84,7 +84,7 @@ pyasn1-modules==0.0.9
 pycparser==2.18
 pycryptodome==3.4.3
 Pygments==2.2.0
-pyOpenSSL==17.1.0
+pyOpenSSL==17.5.0
 pyparsing==2.2.0
 pyreadline==2.1
 Pyrebase==3.0.27
