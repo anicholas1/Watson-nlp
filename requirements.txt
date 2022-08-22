@@ -65,7 +65,7 @@ msgpack-python==0.4.7
 nbconvert==5.2.1
 nbformat==4.3.0
 notebook==5.0.0
-numpy==1.13.1+mkl
+numpy==1.22.0
 oauth2client==3.0.0
 olefile==0.44
 pandas==0.20.3
